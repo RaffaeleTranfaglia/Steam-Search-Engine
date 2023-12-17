@@ -1,0 +1,53 @@
+{
+    "app_id": 350210,
+    "name": "Mighty Switch Force! Academy",
+    "release_date": "2015-11-23",
+    "developer": [
+        "WayForward"
+    ],
+    "publisher": [
+        "WayForward"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 11,
+    "positive_ratings": 37,
+    "negative_ratings": 7,
+    "price": 6.99,
+    "description": "As Academy Cadet Patricia Wagon, grab your pellet gun and take on brain-twisting puzzles so massive they span the entire screen! 20 all new puzzles and some twisted classics stages, all with a hectic cooperative couch-play option for up to 4 players to keep you and your fellow trainees in stitches!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350210/header.jpg?t=1451592466",
+    "minimum_requirements": "OS: Windows®7 Processor: 2 Ghz Memory: 2 GB RAM Graphics: 1 GB VRAM DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows®7 or Windows®8 Processor: 3 Ghz Memory: 8 GB RAM Graphics: 2 GB VRAM DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": [
+        {
+            "review_text": "It's Might Switch Force on Steam, what else do you want? Great fun to play alone or with friends. Be warned though, with the levels spanning the entire screen, some things do get a little small. If your TV is small you might have issues.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game. I have a copy on the Vita. I would recommend but it stopped working. It won't launch.",
+            "review_score": "-1"
+        }
+    ]
+}

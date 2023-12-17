@@ -1,0 +1,45 @@
+{
+    "app_id": 679430,
+    "name": "Skyraine",
+    "release_date": "2017-09-01",
+    "developer": [
+        "DHTstudios LLC"
+    ],
+    "publisher": [
+        "DHTstudios LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 32,
+    "positive_ratings": 23,
+    "negative_ratings": 11,
+    "price": 1.59,
+    "description": "Skyraine is an action packed platform/missile defender game. Defend against waves of enemies in your turret, and use special power-ups to annihilate the stronger hordes. Leave your turret to strategically expand your base between waves. Play with up to 3 players in local multiplayer co-op. Will you survive?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/679430/header.jpg?t=1504497456",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 1GHz processor Memory: 512 MB RAM Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: 2GHz processor Memory: 2 GB RAM Storage: 200 MB available space",
+    "reviews": []
+}

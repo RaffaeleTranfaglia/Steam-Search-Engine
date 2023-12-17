@@ -1,0 +1,42 @@
+{
+    "app_id": 298380,
+    "name": "Reef Shot",
+    "release_date": "2017-12-04",
+    "developer": [
+        "Nano Games"
+    ],
+    "publisher": [
+        "Nano Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 17,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 6.19,
+    "description": "Explore the Pacific as an underwater photographer and discover the mysteries of a sunken ancient city. Unwind in the depths of the ocean and submerge yourself in the atmospheric world and music.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/298380/header.jpg?t=1531381524",
+    "minimum_requirements": "OS: Windows XP (SP3)/Vista/7/8/10 Processor: Intel Pentium 4 2.4 GHz, AMD 3000+, Intel Core 2 1.8 GHz or equivalent Graphics: NVIDIA GeForce 6800 or higher, ATI x850 or higher Storage: 560 MB available space Sound Card: OpenAL compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

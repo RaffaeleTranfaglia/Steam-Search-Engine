@@ -1,0 +1,39 @@
+{
+    "app_id": 655010,
+    "name": "VODKA",
+    "release_date": "2017-12-28",
+    "developer": [
+        "CharlieH"
+    ],
+    "publisher": [
+        "CharlieH"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 17,
+    "positive_ratings": 266,
+    "negative_ratings": 19,
+    "price": 0.79,
+    "description": "“Vodka” is a social game . Consider it as a literary work, which will tell you about harm of this drink. Don’t drink vodka – play “Vodka”!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655010/header.jpg?t=1526326914",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0+GHz Memory: 512 MB RAM Graphics: Integrated Graphics Storage: 50 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

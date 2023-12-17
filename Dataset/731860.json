@@ -1,0 +1,40 @@
+{
+    "app_id": 731860,
+    "name": "Galactic Pocket Billiards",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Sirrico-Net Games"
+    ],
+    "publisher": [
+        "Sirrico-Net Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 2,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Galactic Pocket Billiards is a relaxing physics based puzzle game where you try to knock celestial objects into black holes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/731860/header.jpg?t=1520977915",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 1.4ghz Memory: 2 GB RAM Graphics: 512mb video memory DirectX: Version 10 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 and above Processor: 2.4ghz Memory: 4 GB RAM Graphics: 2gb video memory DirectX: Version 10 Storage: 100 MB available space",
+    "reviews": []
+}

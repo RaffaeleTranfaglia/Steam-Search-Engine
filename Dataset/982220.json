@@ -1,0 +1,42 @@
+{
+    "app_id": 982220,
+    "name": "Globesweeper",
+    "release_date": "2019-02-12",
+    "developer": [
+        "Incandescent Games"
+    ],
+    "publisher": [
+        "Incandescent Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 16,
+    "positive_ratings": 58,
+    "negative_ratings": 12,
+    "price": 2.09,
+    "description": "Use logic to clear tiles while avoiding mines. Choose from tiny one minute globes to colossal hour long marathons. With hexagonal, square and triangle game modes this unforgiving puzzle game will keep you coming back for more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/982220/header.jpg?t=1551397895",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

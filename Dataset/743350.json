@@ -1,0 +1,42 @@
+{
+    "app_id": 743350,
+    "name": "Slay.one",
+    "release_date": "2018-04-16",
+    "developer": [
+        "Beijing AMPBox Technology Co., Ltd.",
+        "Slay.one"
+    ],
+    "publisher": [
+        "Slay.one"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Pixel Graphics",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 63,
+    "negative_ratings": 22,
+    "price": 7.19,
+    "description": "Top-down multiplayer shooter",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/743350/header.jpg?t=1527818814",
+    "minimum_requirements": "OS: Windows 7 and above Processor: Intel Core 2 Duo E5200 Memory: 4 GB RAM Graphics: GeForce 9800GTX+ (1GB) Network: Broadband Internet connection Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 or 10, 64bit Processor: Intel Core i5 Memory: 8 GB RAM Graphics: GeForce GTX 560 Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": []
+}

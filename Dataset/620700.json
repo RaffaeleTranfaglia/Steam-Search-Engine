@@ -1,0 +1,42 @@
+{
+    "app_id": 620700,
+    "name": "EVIL POSSESSION",
+    "release_date": "2017-05-16",
+    "developer": [
+        "2DragonsGames"
+    ],
+    "publisher": [
+        "2DragonsGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 19,
+    "positive_ratings": 25,
+    "negative_ratings": 24,
+    "price": 0.79,
+    "description": "SURVIVAL HORROR in first person. We incarnate an investigator of paranormal events that only with the help of a paranormal activity detector (EMF DETECTOR) and a small oil lamp, we will try to perform an EXORCISM.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/620700/header.jpg?t=1495793086",
+    "minimum_requirements": "OS: Windows 7/Windows 8/Windows 8.1/Windows 10 Processor: Core i5 / AMD FX 2.4Ghz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 480 / AMD Radeon HD 5970 DirectX: Version 11 Storage: 1100 MB available space Additional Notes: DualShock 4 (wired) / Xbox 360 Controller (unwired)",
+    "recommended_requirements": "OS: Windows 7/Windows 8/Windows 8.1/Windows 10 Processor: Core i7 / AMD FX 3.4Ghz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 / Radeon RX 480 DirectX: Version 11 Storage: 1100 MB available space Additional Notes: DualShock 4 (wired) / Xbox 360 Controller (unwired)",
+    "reviews": []
+}

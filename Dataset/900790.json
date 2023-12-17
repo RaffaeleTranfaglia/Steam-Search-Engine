@@ -1,0 +1,45 @@
+{
+    "app_id": 900790,
+    "name": "Bunny Minesweeper",
+    "release_date": "2018-08-10",
+    "developer": [
+        "DillyFrame"
+    ],
+    "publisher": [
+        "DillyFrame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 20,
+    "positive_ratings": 30,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Multiplayer in Minesweeper? Yes! Play with your friends or random party in classic Minesweeper or try crazy challenging modes! Fun and hard simultaneously!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/900790/header.jpg?t=1555460617",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 (x64) Processor: Intel Pentium CPU 2020M 2.4Ghz equivalent Memory: 4 GB RAM Graphics: GeForce GT 635 M equivalent Storage: 600 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (x64) Processor: Intel i5 4570 @ 3.2 GHz / AMD Phenom II 945 @ 3.0 GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 960 / AMD R9 270X Storage: 1 GB available space",
+    "reviews": []
+}

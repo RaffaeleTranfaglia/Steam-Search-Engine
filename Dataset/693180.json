@@ -1,0 +1,36 @@
+{
+    "app_id": 693180,
+    "name": "Slice of Life",
+    "release_date": "2017-11-30",
+    "developer": [
+        "FurGoldGames"
+    ],
+    "publisher": [
+        "FurGoldGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 14,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "What to do when you are alone?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/693180/header.jpg?t=1531515507",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 8 GB RAM Graphics: GeForce GTX 950 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 780380,
+    "name": "Tank Game",
+    "release_date": "2018-02-02",
+    "developer": [
+        "Dexion Games"
+    ],
+    "publisher": [
+        "Dexion Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 20,
+    "price": 0.79,
+    "description": "Tank game is a local coop game based on a 1 vs 1 fight between two tanks with funny gameplay",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/780380/header.jpg?t=1517575187",
+    "minimum_requirements": "OS: Windows 7/10 Processor: Dual Core Memory: 512 MB RAM Graphics: Supported Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

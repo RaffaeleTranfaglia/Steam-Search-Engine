@@ -1,0 +1,38 @@
+{
+    "app_id": 989340,
+    "name": "Aliens Don't Exist",
+    "release_date": "2019-01-02",
+    "developer": [
+        "Ruskija game experience"
+    ],
+    "publisher": [
+        "Tero Lunkka"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 30,
+    "positive_ratings": 19,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "The road of adventure sometimes leads to a dead end. Help the courageous space explorer to survive all the attacks of fate and get out of the deadly labyrinth of an unexplored world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/989340/header.jpg?t=1549816156",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 Memory: 512 MB RAM Graphics: 256 mb DirectX: Version 9.0 Storage: 450 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: i5 Memory: 512 MB RAM Graphics: 256 DirectX: Version 9.0 Storage: 500 MB available space",
+    "reviews": []
+}

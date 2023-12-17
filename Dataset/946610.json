@@ -1,0 +1,40 @@
+{
+    "app_id": 946610,
+    "name": "Pocket Rogues",
+    "release_date": "2018-10-25",
+    "developer": [
+        "EtherGaming"
+    ],
+    "publisher": [
+        "EtherGaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Action"
+    ],
+    "achievements": 21,
+    "positive_ratings": 65,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Pocket Rogues is a dynamic Roguelike Action-RPG, played in real time from a top down 2D perspective. Raid endless dungeons, upgrade your guild fortress, and develop your own heroes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946610/header.jpg?t=1545579964",
+    "minimum_requirements": "OS: Windows 7 x64 Processor: Intel Pentium Memory: 2048 MB RAM Graphics: GeForce 820 DirectX: Version 9.0 Storage: 149 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

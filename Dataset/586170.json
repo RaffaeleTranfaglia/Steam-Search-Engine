@@ -1,0 +1,42 @@
+{
+    "app_id": 586170,
+    "name": "Mad Dojo",
+    "release_date": "2018-06-15",
+    "developer": [
+        "phime studio LLC"
+    ],
+    "publisher": [
+        "phime studio LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Ninja"
+    ],
+    "achievements": 17,
+    "positive_ratings": 28,
+    "negative_ratings": 10,
+    "price": 3.99,
+    "description": "Are you mad enough to prove your ninja skills in Mad Dojo? You’ll get a lot of headache and break a gamepad until you master insanely difficult obstacles, impress Sensei and earn his daughter’s sympathies! But we warn you - we don’t take wimpy players! Just do it!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586170/header.jpg?t=1543925116",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 / AMD FX Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: Intel i5 / AMD FX Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "reviews": []
+}

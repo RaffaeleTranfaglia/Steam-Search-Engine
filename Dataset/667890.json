@@ -1,0 +1,46 @@
+{
+    "app_id": 667890,
+    "name": "Dead Maze",
+    "release_date": "2018-02-13",
+    "developer": [
+        "Atelier 801"
+    ],
+    "publisher": [
+        "Atelier 801"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Free to Play",
+        "Survival",
+        "Massively Multiplayer"
+    ],
+    "achievements": 26,
+    "positive_ratings": 1897,
+    "negative_ratings": 746,
+    "price": 0.0,
+    "description": "Dead Maze is a 2D MMO game set in a destroyed contemporary world, filled with zombies. Explore the world, scavenge and craft as many items as possible, to survive the hostile environment and upgrade your gear and camp as you go.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667890/header.jpg?t=1542041970",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 1 GB RAM Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

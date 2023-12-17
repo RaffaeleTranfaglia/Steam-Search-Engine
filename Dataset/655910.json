@@ -1,0 +1,44 @@
+{
+    "app_id": 655910,
+    "name": "BULLET PARTY",
+    "release_date": "2017-07-31",
+    "developer": [
+        "Awoker Games"
+    ],
+    "publisher": [
+        "Awoker Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 36,
+    "positive_ratings": 46,
+    "negative_ratings": 2,
+    "price": 1.59,
+    "description": "The party co-op shoot ’em up! Become the king of the night club! Go alone or group your friends! Shoot the party crashers down!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655910/header.jpg?t=1522076271",
+    "minimum_requirements": "OS: XP Processor: Core 2 Duo Memory: 2 GB RAM DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

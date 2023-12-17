@@ -1,0 +1,38 @@
+{
+    "app_id": 866350,
+    "name": "HexTrains",
+    "release_date": "2018-06-12",
+    "developer": [
+        "Stephan Weiss"
+    ],
+    "publisher": [
+        "Stephan Weiss"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 24,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Tower defense with trains! Destroy colored cargo containers that are transported by trains while building turrets that match the respective colors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/866350/header.jpg?t=1532097083",
+    "minimum_requirements": "OS: Windows 7 32Bit Processor: Intel® Core™ 2 Duo 3.0Ghz Memory: 4096 MB RAM DirectX: Version 10 Storage: 6200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

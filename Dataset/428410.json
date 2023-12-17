@@ -1,0 +1,45 @@
+{
+    "app_id": 428410,
+    "name": "PRiO",
+    "release_date": "2016-03-18",
+    "developer": [
+        "DanielDavisGames"
+    ],
+    "publisher": [
+        "DanielDavisGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 9,
+    "positive_ratings": 25,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "PRiO is a visually-striking, yet challenging platformer about manipulating the environment around you by toggling between Red, Yellow, and Blue blocks in order to navigate through each level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428410/header.jpg?t=1478028084",
+    "minimum_requirements": "OS: Windows Vista, 7, or later Memory: 2 GB RAM Graphics: 1GB Video RAM DirectX: Version 10 Additional Notes: Controller recommended but optional",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I'll start with the good. PRiO is very pleasant game to look at. It has a great color scheme, incredibly satisfying animation lerps, a fantastic minimalistic asthetic... but where it suffers is in both the game design, and especially in the level design. Here is the bad:      With the exception of the first few levels, the game has no real sense of a difficulty curve. You'll have one difficult level followed by three easy levels. Some of the levels in the first 25% of the game are as difficult/easy as some of the levels in the last 25% of the game. It makes it feel like the levels could have been sorted in difficulty order, but someone accidentally pressed a shuffle button and scrambled them all up.    There's very little in terms of variety with the things you encounter in the levels. There's a grand total of two obstacle types throughout the entire 50 levels: spikes and turrets.    The turrets feel like one of the weakest aspects of the game to me. The level designers took a huge liking to them, and they're included in almost every level. A game whose main focus is supposed to be in the color swapping tiles, actually winds up with a focus that's more 80% missile dodging, 20% color flipping.    Nothing particuarly creative is done with the color flipping mechanic. The game feels like it's ripe with potential for great level design, but very little of that potential is adequately explored in execution. As a result, you're left with a series of pretty mediocre stages.    The game's spike mechanic is quite annoying in its design. The spikes are also linked to the colored platforms, so you can only see spikes attached to red blocks when the red blocks are activated, etc. The main problem with this is when the blocks are in their inactive state, there's no indication of where the spikes are going to appear once you activate them. This leads to many levels feeling more like a trial-and-error memory game.    Even the color flipping has annoyances. If you activate a colored block such that it appears on top of you, it'll crush you, and you'll die. That's perfectly fine. However, the inactive state of the blocks uses a smaller graphic that the active state of the block, sometimes causing you to crush yourself even when you thought you were a safe enough distance away.   To sum it up, this game feels like it was made by a graphics designer rather than a game designer.",
+            "review_score": "-1"
+        }
+    ]
+}

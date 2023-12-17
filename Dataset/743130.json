@@ -1,0 +1,40 @@
+{
+    "app_id": 743130,
+    "name": "MewnBase",
+    "release_date": "2018-12-07",
+    "developer": [
+        "Cairn4"
+    ],
+    "publisher": [
+        "Cairn4"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 245,
+    "negative_ratings": 12,
+    "price": 4.79,
+    "description": "MewnBase is a space-cat survival and base-building game. Scavenge around a barren planet for items to keep you fed. Explore and collect resources. Craft items and grow your base to help you survive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/743130/header.jpg?t=1553695858",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ Processor: 2.0 ghz Dual Core Memory: 4 GB RAM Graphics: Intel HD4000 or higher with OpenGL 2.1+ Storage: 200 MB available space Sound Card: OpenAL supported sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

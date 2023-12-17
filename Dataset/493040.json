@@ -1,0 +1,35 @@
+{
+    "app_id": 493040,
+    "name": "Beat Ninja",
+    "release_date": "2016-07-12",
+    "developer": [
+        "Xelphyre Games"
+    ],
+    "publisher": [
+        "Xelphyre Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "VR",
+        "Rhythm"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 5,
+    "price": 9.99,
+    "description": "Beat Ninja is a rhythm based VR game that has you cutting up music like never before. Slice through the music notes as the fly at you from all angles while a tower defense mini-game plays out to your actions. Works with your own music library and supports user and auto-generated beat maps.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/493040/header.jpg?t=1542412381",
+    "minimum_requirements": "OS: Windows 7 x64+ Processor: Intel Core i5-2500 equivalent or higher Memory: 2 GB RAM Graphics: GTX 970 equivalent or higher DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 x64+ Processor: Intel Core i7-4790k equivalent  or higher Memory: 6 GB RAM Graphics: GTX 1070 equivalent or higher DirectX: Version 11 Storage: 300 MB available space",
+    "reviews": []
+}

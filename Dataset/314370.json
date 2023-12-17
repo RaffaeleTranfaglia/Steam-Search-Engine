@@ -1,0 +1,52 @@
+{
+    "app_id": 314370,
+    "name": "boxlife",
+    "release_date": "2016-01-14",
+    "developer": [
+        "tequibo"
+    ],
+    "publisher": [
+        "tequibo"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "First-Person",
+        "Metroidvania"
+    ],
+    "achievements": 1,
+    "positive_ratings": 86,
+    "negative_ratings": 26,
+    "price": 1.69,
+    "description": "boxlife is a tiny first person metroidvania, where you gain abilities, find secrets and escape from the box",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/314370/header.jpg?t=1461024717",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium 2.3GHz Memory: 2000 MB RAM Graphics: nVidia GeForce 610 DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Short, simple, nice to look at. If you don't have time for games and you're tired of people's BS you can probably pick this one up for 49 cents",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game... actually really nice for the price  ",
+            "review_score": "1"
+        }
+    ]
+}

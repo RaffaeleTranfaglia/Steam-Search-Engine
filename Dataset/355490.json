@@ -1,0 +1,42 @@
+{
+    "app_id": 355490,
+    "name": "Stratus: Battle For The Sky",
+    "release_date": "2016-12-02",
+    "developer": [
+        "Storm Isle Productions",
+        "Polywickstudio"
+    ],
+    "publisher": [
+        "Storm Isle Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "MMO"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 7,
+    "price": 11.99,
+    "description": "Stratus: Battle for the sky is a fast paced RTS game set in a fantasy world of warring priests seeking to gain favor of the fickle Gods.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/355490/header.jpg?t=1551955641",
+    "minimum_requirements": "OS: Windows 7 SP1+, 8 Processor: SSE2 instruction set support. Memory: 2 GB RAM Graphics: Shader Model 2.0 DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "Processor: SSE2 instruction set support. Memory: 2 GB RAM Storage: 3 GB available space",
+    "reviews": []
+}

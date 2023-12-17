@@ -1,0 +1,40 @@
+{
+    "app_id": 694720,
+    "name": "notmycar",
+    "release_date": "2019-04-05",
+    "developer": [
+        "NMC Studios"
+    ],
+    "publisher": [
+        "Skybound Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "MMO",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Battle Royale",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 444,
+    "negative_ratings": 584,
+    "price": 0.0,
+    "description": "notmycar is a white-knuckle, lead-footed vehicular battle royale. Buckle up, buttercup.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/694720/header.jpg?t=1555522076",
+    "minimum_requirements": "OS: Windows 7 X64 Processor: Intel Core i3-3220 or equivalent Memory: 8 GB RAM Graphics: NVIDIA GT 750 TI or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space",
+    "recommended_requirements": "OS: Windows 10 X64 Processor: Intel Core i5-2500K or equivalent Memory: 8 GB RAM Graphics: AMD Radeon R9 290X or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space",
+    "reviews": []
+}

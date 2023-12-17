@@ -1,0 +1,41 @@
+{
+    "app_id": 575940,
+    "name": "The Tenth Line",
+    "release_date": "2017-03-17",
+    "developer": [
+        "Sungazer Software"
+    ],
+    "publisher": [
+        "Sungazer Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 21,
+    "positive_ratings": 68,
+    "negative_ratings": 9,
+    "price": 6.99,
+    "description": "A console-style RPG featuring a colorful cast of characters, unique battle and level-up systems, quick 2D platforming action, and an original, fantastical story about friendship, faith, and finding your place in the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/575940/header.jpg?t=1550267025",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows® 7 or newer, 64-bit Processor: SSE2 or better, 64-bit architecture Memory: 4 GB RAM Graphics: At least DX9 (shader model 3.0) or DX11, at least 1GB VRAM DirectX: Version 9.0c Storage: 2000 MB available space Additional Notes: 16:9 resolution display recommended",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows® 7 or newer, 64-bit Processor: Intel i5 quad core Memory: 6 GB RAM Graphics: At least DX9 (shader model 3.0) or DX11, at least 2 GB VRAM DirectX: Version 11 Storage: 2000 MB available space Additional Notes: 16:9 resolution display recommended",
+    "reviews": []
+}

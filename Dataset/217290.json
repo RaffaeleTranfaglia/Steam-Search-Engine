@@ -1,0 +1,43 @@
+{
+    "app_id": 217290,
+    "name": "Din's Curse",
+    "release_date": "2012-08-22",
+    "developer": [
+        "Soldak Entertainment"
+    ],
+    "publisher": [
+        "Soldak Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 51,
+    "positive_ratings": 142,
+    "negative_ratings": 22,
+    "price": 6.99,
+    "description": "Din, champion of the gods, has cursed you into a second life of service because you selfishly squandered your first one while causing misfortune to those around you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/217290/header.jpg?t=1536792119",
+    "minimum_requirements": "OS: Windows XP/Vista/Windows 7                 Processor: 1.5 GHz Pentium 4 or better                 Memory: 256 MB RAM                 Hard Disk Space: 200 MB                                 Video Card: GeForce 2 (or equivalent) or better                 DirectX: DirectX 7                 Additional: DSL or better internet connection required for multiplayer",
+    "recommended_requirements": null,
+    "reviews": []
+}

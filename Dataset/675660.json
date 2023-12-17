@@ -1,0 +1,42 @@
+{
+    "app_id": 675660,
+    "name": "Relic Keepers",
+    "release_date": "2017-09-12",
+    "developer": [
+        "Idea Cabin"
+    ],
+    "publisher": [
+        "Idea Cabin"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 2,
+    "positive_ratings": 1,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "Relic Keepers is an action game set in a fantasy setting. Helped by the village guards, keep the artefact inside the village walls and outlast a legion of evil creatures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/675660/header.jpg?t=1505220017",
+    "minimum_requirements": "OS: Windows XP or later Processor: Intel Pentium 4 (2001) and above or AMD Processors after 2003 Memory: 512 MB RAM Graphics: Any graphics card that supports Direct X 9 or above. DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Direct X 9 sound device",
+    "recommended_requirements": null,
+    "reviews": []
+}

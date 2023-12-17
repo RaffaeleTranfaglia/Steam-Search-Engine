@@ -1,0 +1,41 @@
+{
+    "app_id": 692690,
+    "name": "Dance Collider",
+    "release_date": "2018-09-27",
+    "developer": [
+        "emergeWorlds"
+    ],
+    "publisher": [
+        "emergeWorlds"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 3,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 17,
+    "positive_ratings": 21,
+    "negative_ratings": 4,
+    "price": 15.49,
+    "description": "Dance Collider is the ultimate arcade dance and rhythm game. Strap on your headset and enter a futuristic world where dancers battle in secret underground competitions. Take on 8 characters from around the globe. They’re going to throw down some crazy dance moves, so be ready!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/692690/header.jpg?t=1554972165",
+    "minimum_requirements": "OS: Windows 7/8.1/10 (64bit) Processor: Intel Core i5 Sandy Bridge or equivalent Memory: 4 GB RAM Graphics: Nvidia GTX 970 or equivalent DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows 7/8.1/10 (64bit) Processor: Intel Core i7 Skylake or equivalent Memory: 8 GB RAM Graphics: Nvidia GTX 1070 or equivalent DirectX: Version 12 Storage: 8 GB available space",
+    "reviews": []
+}

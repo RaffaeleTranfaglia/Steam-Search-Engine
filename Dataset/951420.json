@@ -1,0 +1,46 @@
+{
+    "app_id": 951420,
+    "name": "Refraction",
+    "release_date": "2019-02-19",
+    "developer": [
+        "Zilby"
+    ],
+    "publisher": [
+        "Zilby"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 28,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Refraction is a top-down, arena action game where you use quick reflexes to take down hordes of enemies. You must rely on your skill and your wit as you fight to survive, in the hope that you can live long enough to take down the core of all corruption.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/951420/header.jpg?t=1550648902",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 7 Processor: Core 2 Duo Memory: 2 GB RAM Graphics: Discreet video card Storage: 400 MB available space Sound Card: Yes",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: 10 Processor: 2.4 GHz Quad Core 2.0 (or higher) Memory: 8 GB RAM Graphics: Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up. Storage: 400 MB available space Sound Card: Yes",
+    "reviews": []
+}

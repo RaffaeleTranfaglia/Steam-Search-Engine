@@ -1,0 +1,38 @@
+{
+    "app_id": 801060,
+    "name": "ArcBall",
+    "release_date": "2018-03-29",
+    "developer": [
+        "VladProduction"
+    ],
+    "publisher": [
+        "VladProduction"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 1,
+    "positive_ratings": 10,
+    "negative_ratings": 34,
+    "price": 0.79,
+    "description": "ArcBall - Simple and casual arcanoid-like game. Interesting levels and nice retro-graphics are waiting you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/801060/header.jpg?t=1541016012",
+    "minimum_requirements": "OS: Win7 Processor: 3.4Ghz Memory: 512 MB RAM",
+    "recommended_requirements": "OS: Win7 Processor: 3.4Ghz Memory: 512 MB RAM",
+    "reviews": []
+}

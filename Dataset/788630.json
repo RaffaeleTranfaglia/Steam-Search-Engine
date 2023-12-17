@@ -1,0 +1,40 @@
+{
+    "app_id": 788630,
+    "name": "Gaia Beyond",
+    "release_date": "2018-03-30",
+    "developer": [
+        "Florian Richter, Tobias Offermanns, Devendra Pohly"
+    ],
+    "publisher": [
+        "Florian Richter, Tobias Offermanns, Devendra Pohly"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "2D"
+    ],
+    "achievements": 14,
+    "positive_ratings": 30,
+    "negative_ratings": 7,
+    "price": 11.39,
+    "description": "Gaia Beyond is a handcrafted 2D Action-RPG, an exploration mix built around the core features fighting, mining and trading. Your decisions are footprints within a vast non-linear solar system. Forge alliances among numerous factions and develop relations with hundreds of NPCs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/788630/header.jpg?t=1554121749",
+    "minimum_requirements": "OS: Windows 7, 8, or 10 (32 and 64-bit support) Processor: 2 GHz Memory: 4 GB RAM Graphics: 1 GB video memory Storage: 4 GB available space Additional Notes: OpenGL 4.2 or newer",
+    "recommended_requirements": null,
+    "reviews": []
+}

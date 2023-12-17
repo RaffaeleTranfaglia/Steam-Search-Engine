@@ -1,0 +1,56 @@
+{
+    "app_id": 300280,
+    "name": "Adventurezator: When Pigs Fly",
+    "release_date": "2015-09-17",
+    "developer": [
+        "Pigasus Games"
+    ],
+    "publisher": [
+        "Degica"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 17,
+    "positive_ratings": 67,
+    "negative_ratings": 27,
+    "price": 14.99,
+    "description": "The Adventurezator is an emergent adventure game about creating emergent adventure games! When Pigs Fly is our adventure campaign of courage, intrigue, and betrayal (and dumbness) - created using the Adventurezator itself!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/300280/header.jpg?t=1450301963",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 1.7 GHz Dual Core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 250, ATI Radeon 4870 HD, Intel HD 3000, or equivalent card with at least 512 MB VRAM DirectX: Version 9.0 Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 2.2 GHz, AMD Athlon 64 2.2Ghz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 460, AMD Radeon HD 6850, or better with at least 1 GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX Compatible Sound Card",
+    "reviews": [
+        {
+            "review_text": "Fun adventure game with great potential thanks to the ability to make and share your own adventures. The pig has to solve different point&amp;click puzzles while avoiding the enemies which walk around on their personal time schedule in his quest to become a boring human.   6/7 dwarves",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really enjoyed playing the game, the breaking of the fourth wall and the jokes got me. Looking forward to play more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its not a game, its a pile of garbage.",
+            "review_score": "-1"
+        }
+    ]
+}

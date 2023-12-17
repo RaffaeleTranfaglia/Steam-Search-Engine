@@ -1,0 +1,40 @@
+{
+    "app_id": 586130,
+    "name": "Survival Driver",
+    "release_date": "2017-08-15",
+    "developer": [
+        "Tero Lunkka",
+        "Mikko Seppälä"
+    ],
+    "publisher": [
+        "Tero Lunkka"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 28,
+    "price": 1.59,
+    "description": "Minor indie motorvehicle game, where only target is to pass different tracks, under limited time. Game contains 2 different bikes and 2 cars.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586130/header.jpg?t=1509868165",
+    "minimum_requirements": "Минимальные: ОС: Windows 8 Процессор: Intel Core2 Duo 2.2 Ghz Оперативная память: 4 GB ОЗУ Видеокарта: NVidia GeForce 820M DirectX: Версии 9.0 Место на диске: 7 GB Звуковая карта: Direct x9",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 8 Процессор: Intel Core i7 Оперативная память: 8 GB ОЗУ Видеокарта: NVIDIA GeForce 960M DirectX: Версии 9.0 Место на диске: 7 GB Звуковая карта: Direct x9",
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 436530,
+    "name": "Bullshot",
+    "release_date": "2016-11-22",
+    "developer": [
+        "GATO STUDIO"
+    ],
+    "publisher": [
+        "GATO STUDIO"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Retro"
+    ],
+    "achievements": 42,
+    "positive_ratings": 211,
+    "negative_ratings": 61,
+    "price": 0.79,
+    "description": "Help Frank F. Franky fight the evil cardesians, zombies &amp; robots while setting your arrested friends free. Bullshot is a run 'n gun game that tries to recover the essence of the 90s classics, such as Abuse, Contra or the Metal Slug sagas.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/436530/header.jpg?t=1538650998",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Intel/AMD Dual Core or similar Memory: 2 GB RAM Graphics: 1GB Storage: 1500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

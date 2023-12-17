@@ -1,0 +1,47 @@
+{
+    "app_id": 538510,
+    "name": "Trickshot",
+    "release_date": "2017-04-07",
+    "developer": [
+        "Dillon Lewis",
+        "Ryan Cunningham",
+        "Christopher Conklin",
+        "Nathan Lucci",
+        "Austin Lewis",
+        "Tim Stillmun"
+    ],
+    "publisher": [
+        "NoRulesMakeGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 50,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 14.99,
+    "description": "Trickshot is a new take on the classic platformer. Explore various environments while shooting and grabbing your way to the top of the leaderboards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/538510/header.jpg?t=1491757685",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 2 GB RAM Graphics: Nvidia GTX 970 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

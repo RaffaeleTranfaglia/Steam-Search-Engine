@@ -1,0 +1,59 @@
+{
+    "app_id": 401090,
+    "name": "MODO indie",
+    "release_date": "2015-09-24",
+    "developer": [
+        "Foundry"
+    ],
+    "publisher": [
+        "Foundry"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development"
+    ],
+    "tags": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development"
+    ],
+    "achievements": 0,
+    "positive_ratings": 66,
+    "negative_ratings": 19,
+    "price": 10.99,
+    "description": "MODO indie packs powerful, industry-leading 3D modeling, sculpting, and animation tools into an affordable package that's perfect for indie game makers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/401090/header.jpg?t=1550083832",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (64-bit only) Processor: Intel processor(s), Core i3 or higher Memory: 4 GB RAM Graphics: The Advanced viewport mode requires an NVIDIA or AMD graphics card with at least 1 GB of graphics memory and drivers that support OpenGL 3.2 or higher. Network: Broadband Internet connection Storage: 10 GB available space Additional Notes: Three-button mouse or pointing device, including pressure sensitive tablets or 3Dconnexion 3D mouse. Internet connection required to access Steam.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": [
+        {
+            "review_text": "Don't buy it, subscibe or whatever.   Because you will find yourself in an ackward position. Basically, Foundry doesn't see Steam customers as Their customers at all.   I'v posted a question via customer service on their site and waited for a day just to get this:   Quote: ... Please note that this Email Address (support@thefoundry.co.uk) is for Commercial Customers Only. Support for Modo Indie is provided via the Steam Forum which can be found ...   Thats it, its basically a FY message.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For the money they ask you get a LOT. The limitations are reasonable, updates are frequent, lot of tutorials around the web and once you get the hang of it, you can be pretty fast in modeling, uving and rendering. Rigging is somewhat more complicated as well as animation when you compare it to other main stream 3d packages but it can be mostly done in moderate efficent way.  And I just love the shader tree, it is so similar to layers you see in many other apps.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's okay but... The 100k poly limit is going to be a dealbreaker for some (myself included) and splitting your models up as you export them can be a pain. The interface is smoothe and responsive, though it will occasionally chug when dropping your current tool. I only experienced one crash in an hour in a half period. I experienced an odd issue with a face selection on an object randomly clearing one or two of the faces if left idle for a few seconds. Look into it as much as possible to determine whether or not it's for you. I'd say honestly to look to Blender first. Blender might look hideous and it controls like a potato, but you'll likely get more mileage for your money. If you're just doing basic asset and character creation, this might be what you're looking for. If you're going to do high-poly modeling, large scene creation or animation, it's not going to cut it. I felt more neutral about it than anything as it's decent software in its own right (even with the few hiccups it seems to experience), but of course there's no sidethumb in steam.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Sale shows 60% off on 6 month Modo 901 subscription but cart continues to show only 33%. Can't even purchase.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "cant pay for it , whenever i choose sub time , shows me empty basket",
+            "review_score": "-1"
+        }
+    ]
+}

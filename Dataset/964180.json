@@ -1,0 +1,36 @@
+{
+    "app_id": 964180,
+    "name": "Late'O'Clock",
+    "release_date": "2018-11-09",
+    "developer": [
+        "NailGun Studios"
+    ],
+    "publisher": [
+        "NailGun Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Stealth"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 4,
+    "price": 0.0,
+    "description": "Late’O’Clock is an isometric stealth game in which you play as an office employee who is always late to work and must sneak to their desk. During the game players are able to bribe, distract, or deactivate enemies to avoid being detected. Every new day will bring many obstacles for the player to experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/964180/header.jpg?t=1541757757",
+    "minimum_requirements": "OS: Windows 8 Processor: Dual Core+ Memory: 1 GB RAM Graphics: Graphics card with DX9 capabilities. DirectX: Version 9.0 Storage: 250 MB available space Additional Notes: When playtested on Windows 7 the game had texture problems. The game has not been tested on Windows 8 so if it is still running into problems please let us know.",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad Core+ Memory: 3 GB RAM Graphics: Graphics card with DX9 capabilities. DirectX: Version 10 Storage: 500 MB available space",
+    "reviews": []
+}

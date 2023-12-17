@@ -1,0 +1,42 @@
+{
+    "app_id": 761880,
+    "name": "The Day They Landed",
+    "release_date": "2017-12-29",
+    "developer": [
+        "Studio Axiom"
+    ],
+    "publisher": [
+        "Studio Axiom"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 6.19,
+    "description": "Battle it out in asymmetrical local multiplayer with VR player vs. desktop player in a game of cat and mouse as aliens with superior capabilities take on ordinary civilians. Will the infestation begin or will humanity live to see another day?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/761880/header.jpg?t=1516920735",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5 Memory: 6 GB RAM Graphics: Nvidia 1060 Storage: 1500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 Memory: 16 GB RAM Graphics: Nvidia 1080 Storage: 1500 MB available space",
+    "reviews": []
+}

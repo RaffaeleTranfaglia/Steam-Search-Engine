@@ -1,0 +1,45 @@
+{
+    "app_id": 432640,
+    "name": "BuriedTown",
+    "release_date": "2016-01-22",
+    "developer": [
+        "Dice7"
+    ],
+    "publisher": [
+        "Locojoy"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 29,
+    "positive_ratings": 18,
+    "negative_ratings": 23,
+    "price": 4.99,
+    "description": "A modern game featuring survival on an isolated island. Concise graphics and texts, smooth gaming experience and top-class incidental music will squeeze out your internal anxiety. Challenge the most terrifying nightmares and defeat yourself that you don’t know thoroughly!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/432640/header.jpg?t=1453482039",
+    "minimum_requirements": "Network: Broadband Internet connection",
+    "recommended_requirements": "OS: windows 7 Processor: Intel(R) Core(TM) i3 2.0GHz Memory: 1 GB RAM Graphics: HD Graphics 4000 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: Realtek High Definition Audio",
+    "reviews": [
+        {
+            "review_text": "BuriedTown: Imagine This War of Mine and Zafehouse Diaries birthed a mobile-port love-child. And it's decent... I would recommend this to anyone who enjoyed either of these titles...   Your shelter/resource contains the genetics of TWOM, including: crafting. cooking, defense, sleep/exaughtion, weather/temp, and health/mental upkeep. The military-time day/night counter runs continuosly, with every task requiring said amount of time to complete. It's a pretty basic formula for those familiar with TWOM, mostly proritizing what to build to initially survive versus the race to prepare for, and survive, the oncoming winter...  The DNA of ZH:D is found in the travel/exploration/combat aspect of the game. Diffrent area nodes will become available as you progress in the game. It consists of timed travel, requiring a few hours to traverse the debris to each destination. Each node has a set number of rooms to explore for potential resources required to survive, occasionally finding secret areas, or you could get attacked... Battle is pure RNG with fast flavor text, there is no 'action' here.   Before initializing combat, a threat level is given indicating the severity of the encounter. Low threat means fewer and weaker zombies, with higher threat levels sometimes raising not only enemy numbers but their severity. And yes, you can avoid battles by either not walking into the next room containing zombies or by running away if attacked while traveling. Enemies will usually start four meters away. As the distance closes, you will fire your ranged weapon, if you have one, and then engage in melee combat until victory or defeat. Ammo is universal for each gun, but save those bullets for tougher battles later in game...  This is a tough little cookie, but doable after you figure out how to proritize your base growth. Also, there are crucial NPC's that will eventually appear asking for resources. Each can be visited at a stationary node after they make initial contact, trading necessary materials and accepting favored items as gifts to raise your companionship level. Higher levels means not only better trades, but also more varied items. Dont ignore your neighbors...  All in all this is an enjoyable game if you don't mind rage-quitting a window mode only mobile port with little to no feed back from the developer. I'd sorely love to see a full screen mode with a pause option, other than the quit/continue screen, in shelter strictly for viewing resources/stats, but the non-stop timer otherwise adds to the direness of the situation. Also, while outside of your sheleter, there is no way of identifying the materials you gather. Some icons are self explanitory, such as food and wood, but otherwise it's memorization of what's what till you get it home to inspect...    All negative reviews and aspects aside, I personally rate BuriedTown 3.5 out of 5...",
+            "review_score": "1"
+        }
+    ]
+}

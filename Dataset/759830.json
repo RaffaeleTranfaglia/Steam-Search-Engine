@@ -1,0 +1,39 @@
+{
+    "app_id": 759830,
+    "name": "Gamma Blast",
+    "release_date": "2018-12-07",
+    "developer": [
+        "Ilias Giouroukis"
+    ],
+    "publisher": [
+        " "
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Bullet Hell"
+    ],
+    "achievements": 23,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Blast your way through enemy waves. Strike at enemy formations prioritizing targets depending on the situation. Rip them to pieces using an arsenal of powerful and versatile weapons. Put your reflexes to the test dodging a fire storm of enemy projectiles. Destroy challenging Bosses to achieve victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/759830/header.jpg?t=1544193929",
+    "minimum_requirements": "OS: Windows XP SP2/Vista/7/8/8.1/10 Processor: Intel Core 2 Duo or AMD equivalent Memory: 1 GB RAM Graphics: 512 MB Graphics card supporting DirectX 9.0c and Shader Model 3.0 DirectX: Version 9.0c Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

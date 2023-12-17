@@ -1,0 +1,38 @@
+{
+    "app_id": 882560,
+    "name": "Door",
+    "release_date": "2018-06-28",
+    "developer": [
+        "SVGames"
+    ],
+    "publisher": [
+        "SVGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 10,
+    "positive_ratings": 42,
+    "negative_ratings": 30,
+    "price": 5.19,
+    "description": "You will have to face hundreds of different doors, and decide which one you should go to in order to get to the main secret. You have to open the doors in many locations of this world, each of which is dedicated to its type of doors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/882560/header.jpg?t=1530225505",
+    "minimum_requirements": "Минимальные: ОС: Win 7 or later Процессор: Intel Core i3 or better Оперативная память: 2 GB ОЗУ Видеокарта: Intel HD 5670 Место на диске: 1 GB",
+    "recommended_requirements": "Рекомендованные: ОС: Win 7 Процессор: Intel Core i5 or better Оперативная память: 4 GB ОЗУ Видеокарта: Radeon R7 240 Место на диске: 2 GB",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 591680,
+    "name": "Taphouse VR",
+    "release_date": "2018-09-27",
+    "developer": [
+        "Catland"
+    ],
+    "publisher": [
+        "Catland"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 16,
+    "positive_ratings": 99,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "In Taphouse VR, you are the bartender! Run your own taphouse, give drunk dwarves their fill of delicious ale or drench the bunch by mixing delicious cocktails! Everything around the counter is yours to mess with - including your paying customers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/591680/header.jpg?t=1538079490",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 980 / AMD Radeon™ R9 380 equivalent or greater DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

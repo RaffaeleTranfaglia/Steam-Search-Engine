@@ -1,0 +1,46 @@
+{
+    "app_id": 855580,
+    "name": "Ahlman Arcade 2018",
+    "release_date": "2018-08-11",
+    "developer": [
+        "Team in Time"
+    ],
+    "publisher": [
+        "Ahlman Game Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Racing",
+        "RPG",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "RPG",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 6,
+    "price": 0.0,
+    "description": "Ahlman Arcade 2018 is a collection of games made by the game industry students at Ahlman Institute.All games were made during our ten month long school year as a joint effort between the programmers and graphic designers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/855580/header.jpg?t=1555492884",
+    "minimum_requirements": "OS: Windows 10 Processor: 3.40GHz Memory: 16 GB RAM Graphics: Quadro K620 (1058 MHz / 2048 MB DDR3) DirectX: Version 11 Storage: 12 GB available space Sound Card: Integrated Additional Notes: Tested on institute development machines. Some of the games will run on older hardware too.",
+    "recommended_requirements": "OS: Windows 10 Processor: 3.40GHz Memory: 16 GB RAM Graphics: Quadro K620 (1058 MHz / 2048 MB DDR3) DirectX: Version 11 Storage: 12 GB available space Sound Card: Integrated Additional Notes: Tested on institute development machines. Some of the games will run on older hardware too.",
+    "reviews": []
+}

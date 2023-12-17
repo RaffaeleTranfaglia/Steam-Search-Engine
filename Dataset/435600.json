@@ -1,0 +1,51 @@
+{
+    "app_id": 435600,
+    "name": "My Tower, My Home",
+    "release_date": "2016-03-15",
+    "developer": [
+        "Shoor Games"
+    ],
+    "publisher": [
+        "Shoor Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 41,
+    "positive_ratings": 19,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "My Tower My Home is a blend between a tower defense game and shooter-platformer 2D game. You must defend the Tower Core, kill enemies, gain gold, buy upgrades for your hero, buy tower defenses, and build a strategy to resist a number of waves.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/435600/header.jpg?t=1460505936",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 or later Processor: 2.4 GHz CPU Dual core or faster Memory: 2 GB RAM Graphics: Dedicated graphics card with 256 MB vRAM and WebGL Support DirectX: Version 9.0c Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel i3 2.4gh or faster Graphics: HD6570/GT420 or better with WebGL Support DirectX: Version 9.0c Storage: 400 MB available space",
+    "reviews": [
+        {
+            "review_text": "Just started playing and am having a pretty good time with this genre blending game. Essentially, you are defending a tower from a variety of enemies. You have quite a lot of options on defensive items to build between levels, and the action ramps up fairly quickly as you go along.  On the plus side, there are a lot of ways to customize your character with stat boosts and such. Plus the towers are fun to build and deploy. A good bit of strategy there.  On the negative side, if the setting changes, I haven't made it that far yet. I think you stay on the same tower for the entire game for as long as you can survive the waves. This could become boring for some people after awhile.  Overall, I'm enjoying the game and do recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really nice strategy you can do between towers, walls and perks (and your coop friend!), really fun to play!!",
+            "review_score": "1"
+        }
+    ]
+}

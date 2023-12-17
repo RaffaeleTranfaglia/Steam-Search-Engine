@@ -1,0 +1,41 @@
+{
+    "app_id": 538550,
+    "name": "Party Golf",
+    "release_date": "2016-10-26",
+    "developer": [
+        "Giant Margarita"
+    ],
+    "publisher": [
+        "Giant Margarita"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Sports"
+    ],
+    "achievements": 57,
+    "positive_ratings": 23,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "Party Golf is a crazy and competitive couchplay game for one to eight players. Party Golf combines simple 2D physics, a procedurally generated world and over a trillion different gameplay combinations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/538550/header.jpg?t=1551651070",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 Ghz Processor Memory: 1024 MB RAM Graphics: GTX260/AMD5870  or above DirectX: Version 9.0c Storage: 2000 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,79 @@
+{
+    "app_id": 339570,
+    "name": "Enemy",
+    "release_date": "2015-03-17",
+    "developer": [
+        "Tom Johnson"
+    ],
+    "publisher": [
+        "Tom Johnson"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 112,
+    "negative_ratings": 20,
+    "price": 10.99,
+    "description": "The video games you played as a kid, mashed together and remade into a tactical role-playing game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/339570/header.jpg?t=1447366373",
+    "minimum_requirements": "OS: Windows XP SP3, Vista, 7, or 8 Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX 9.0c compatible 3D graphics card DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "What a fantastic game. It took me nearly 80 hours to destroy the Cyclops' castle and it left me wanting more. Enemy is a definite must play for anyone who is looking for an incredibly fun and challenging game. Once I discovered a winning formula, Enemy rewarded my squad with incredible powers that no foe could match. We hoarded 1200 gold and had nothing left to buy. I'm glad it's over, but anxious too see where this ambitious game goes next.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best games that I have seen on steam. Overall, this is a turn-based strategy game which is one of my favorite genres. Although there are some rpg-inspired inventory systems and, of course, the tangible voxel-esque spawned environment which has made this game one of the most unique strategy games I have ever seen. If you have 15 dollars to spare, it is a worthwhile investment",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game i cant even begin to describ how much fun ive had with this game. One of the best permadeath rpgs ive played and with such a great feel about the game only complemented by the awesome art style which really captures the vision of the retro games mashed up and remade..would suggest for any turn-based fan aswell as someone wanting a bit of nostalgia or something new",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love it, XCOM with an 80's video game twist. Amazing soundtrack too! Also, THIS GAME WILL MAKE YOU CRY WHEN A TEAMMATE DIES. When they die, other team mates freak out and attack nearby enemies, and then retreat with low amounts of time and mental health.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. Not only is it incredibly fun, the developer is one of the most hands on I've ever seen. Just take a few minutes to look at the steam forums and you'll see that he is quick to address concerns. The RPG tag is a bit misleading. There is no story to be had in this game. You fight on the battle screens and buy or defend on the town screens, and manage your party skills/inventory, so it has RPG elements but isn't a full RPG.   If the video looks fun to you, pick this game up, it does a perfect job of representing what you will be doing when you load the game up to play, and if you should happen to run in to issues along the way, the developer himself will likely be there to help you make sure things are running smoothly.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simplified XCom/JagAl-like game spiced with destruction. The idea revolves around the risk averse strategies, as any careless move will get your soldiers killed in 1-2 shots. You can't revive them and you can't load game (unless you backup the ..\\Documents\\enemy). The game saves automatically and you can only save in an inn, but you first need to find the city and get enough money to heal and save. It's not too hard to find new soldiers (squad of 6 max), but you will have to upgrade them from scratch. And their skills let you handle better weapons, first of all. And also run longer, have better accuracy, more health etc.  Metagame is travelling around the map. Environment is quite interesting and some squares have interesting stuff like cities with shops, castles with bosses etc. After clearing the square you can see all the loot in one screen which is very convenient.  Now on the secret sauce - destructible environment. It's not as satisfying as it was done in Silent Storm, but still refreshing. You can shoot through walls, sometimes you miss, but the block goes off and wounds the enemy. And there's a trait which let's you (or enemy) take a block or some bigger elements and through it for damage, which is useful as you won't have too many grenades along the way.  I think TBS fans should try Enemy, at least when discounted. But to put things into a perspective, Xenonauts with a similar price is still better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finally! A *high quality* turn-based tactics game with fully destructible (and throwable!) environments, with the added bonus that every casualty is at least as dire a consequence as in XCOM. And, better still, you can actually specialize in that very ability to pick up pieces of the environment and throwing them. Just, um, be careful about pulling blocks out of large structures, lest you risk discovering the excellet mechanics for attempting to extract yourself (some enemies may force you to learn). Oh! And you can level up your jumping ability to do longer, higher jumps, and even land on your enemies.  I could keep gushing, I really could. You won't regret this purchase one bit; you'll only regret any time not spent playing it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enemy is fantastic little platformer which allows the player to fight against enemies in a retro environment and enjoy the suspense of a moderately challenging rogue-like. If you are looking for something a little less common in today's gaming world, definately give Enemy a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been playing the mac version and so far it is very unstable. Lots of crashes when bodies are next to hills, as well as seemingly random times.  I like the gameplay and mechanics though. The blend of xcom and voxel like terrain makes for a fun twist.",
+            "review_score": "1"
+        }
+    ]
+}

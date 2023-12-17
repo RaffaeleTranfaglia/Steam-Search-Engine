@@ -1,0 +1,44 @@
+{
+    "app_id": 404420,
+    "name": "Sun Dogs",
+    "release_date": "2015-10-29",
+    "developer": [
+        "Royal Polygon"
+    ],
+    "publisher": [
+        "Royal Polygon"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 6,
+    "price": 6.99,
+    "description": "Sun Dogs is about exploring our inner solar system, altering your body, and embracing death. In a distant future, humanity readily alters itself, adapting bodies to new environments. Skim along the Sun's corona, float above the surface of Venus, travel the dusty plains of Mars, and beyond.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/404420/header.jpg?t=1447378161",
+    "minimum_requirements": "Memory: 1 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": "Memory: 2 GB RAM Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "Sun Dogs is, above all, an exploration game. Set in the future when humanity is able to copy your mind into different bodies upon your death, you explore the solar system, picking up skills and knick-knacks to help you explore further. The writing is great, incredibly descriptive and evocative of the setting, and with the ease at which new mods can be created is likely to only improve over time.  However, it is worth saying that the actual gameplay elements of Sun Dogs are... limited. Most of the gameplay is choosing where to go, and then clicking around a bit for the flavour text and random encounters before moving on and hoping you don't get killed - die too often, and even the most rigourously updated backup will start to corrupt.  Overall, I'd say that if you enjoy trans- or post-human settings like Eclipse Phase, this will probably be the closest you get to a game in that setting for a while, and for what it is, it is most certainly worth checking out.",
+            "review_score": "1"
+        }
+    ]
+}

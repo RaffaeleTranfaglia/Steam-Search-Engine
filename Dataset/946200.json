@@ -1,0 +1,37 @@
+{
+    "app_id": 946200,
+    "name": "Way-z",
+    "release_date": "2018-10-26",
+    "developer": [
+        "Brzezinski"
+    ],
+    "publisher": [
+        "SIFAKA DIGITAL"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "2D"
+    ],
+    "achievements": 15,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Help a player to pave the way to the finish in a puzzle-game Way-Z...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946200/header.jpg?t=1542314268",
+    "minimum_requirements": "OS: Windows Vista, 7, 10 Processor: Intel Core 2 CPU Memory: 1024 MB RAM Graphics: NVIDIA GT/s 4xx or Equivalent Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

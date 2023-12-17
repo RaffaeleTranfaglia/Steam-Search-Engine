@@ -1,0 +1,44 @@
+{
+    "app_id": 613420,
+    "name": "BOROS",
+    "release_date": "2017-04-06",
+    "developer": [
+        "Kraken Bit"
+    ],
+    "publisher": [
+        "Kraken Bit"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 21,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Boros is a 2D puzzle/action endless game inspired by the greatest hits like Zuma and Luxor, designed for both casual and hardcore players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/613420/header.jpg?t=1503960735",
+    "minimum_requirements": "OS: Windows XP and above Processor: 1.5 GHz Memory: 1 GB RAM Graphics: HD Graphics 500 Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 7 and above Processor: 2 GHz Memory: 2 GB RAM Graphics: HD Graphics 510 Storage: 1 GB available space",
+    "reviews": []
+}

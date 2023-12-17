@@ -1,0 +1,45 @@
+{
+    "app_id": 314710,
+    "name": "Mighty No. 9",
+    "release_date": "2016-06-23",
+    "developer": [
+        "Comcept",
+        "Inti Creates"
+    ],
+    "publisher": [
+        "Deep Silver"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Platformer",
+        "Anime"
+    ],
+    "achievements": 70,
+    "positive_ratings": 1367,
+    "negative_ratings": 1389,
+    "price": 15.99,
+    "description": "Mighty No. 9 is a 2D Side-scrolling Action game that takes the best elements from 8 and 16-bit classics that you know and love and transforms them with modern tech, fresh mechanics, and fan input into something fresh and amazing!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/314710/header.jpg?t=1471951973",
+    "minimum_requirements": "OS: Windows 7 64-bit or newer Processor: Intel Core 2 Quad @ 2.8 GHz or AMD Phenom X4 Memory: 4 GB RAM Graphics: Radeon HD 7770 or Nvidia GeForce GTX 550 Ti Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 64-bit or newer Processor: Intel Core i5 @ 3.3 GHz or AMD Phenom II X6 Memory: 8 GB RAM Graphics: Radeon HD 7950 or Nvidia GeForce GTX 660 Ti Storage: 2 GB available space",
+    "reviews": []
+}

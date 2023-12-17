@@ -1,0 +1,59 @@
+{
+    "app_id": 551110,
+    "name": "Wayout",
+    "release_date": "2016-11-04",
+    "developer": [
+        "Konstructors Entertainment"
+    ],
+    "publisher": [
+        "Konstructors Entertainment",
+        "GrabTheGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 66,
+    "positive_ratings": 552,
+    "negative_ratings": 64,
+    "price": 0.72,
+    "description": "Relax, clear your mind and find the way out.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/551110/header.jpg?t=1547032073",
+    "minimum_requirements": "OS: Windows 7+",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's an interesting and sometimes very complicated puzzle game with nice visuals and great soundtrack.  Also I really apreciate the speed with which developers release bug-fixes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You can be smart, you can be VERY smart. But at the end of the day, you'll end up smashing your mouse trying to get to the next level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, nice, and chill. Easy once you get the hang of it...  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love it. its relaxing and calm. if your having a bad day play this game trust me it helps! the music calms your down and the game takes your mind off of the bad thoughts. i recommend this mostly to people who have stress.",
+            "review_score": "1"
+        }
+    ]
+}

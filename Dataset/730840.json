@@ -1,0 +1,39 @@
+{
+    "app_id": 730840,
+    "name": "Burger Shop",
+    "release_date": "2017-12-01",
+    "developer": [
+        "GoBit Games"
+    ],
+    "publisher": [
+        "GoBit Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "Make burgers, shakes and more in this exciting food-making game that has been enjoyed by millions of fans everywhere.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/730840/header.jpg?t=1512148468",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 700 mHz Memory: 256 MB RAM DirectX: Version 9.0 Storage: 75 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

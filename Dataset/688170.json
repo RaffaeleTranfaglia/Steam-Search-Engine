@@ -1,0 +1,36 @@
+{
+    "app_id": 688170,
+    "name": "Denki Gaka's Bombshell",
+    "release_date": "2017-08-16",
+    "developer": [
+        "Denki Gaka"
+    ],
+    "publisher": [
+        "Denki Gaka"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "A fast-paced minesweeper game in 3D with classic and arcade style game play!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/688170/header.jpg?t=1502906102",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Pentium 4 or higher Memory: 2048 MB RAM Graphics: DX9 (shader model 3.0) DirectX: Version 9.0c Storage: 600 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

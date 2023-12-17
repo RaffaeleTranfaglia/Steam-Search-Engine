@@ -1,0 +1,39 @@
+{
+    "app_id": 424840,
+    "name": "Little Nightmares",
+    "release_date": "2017-04-27",
+    "developer": [
+        "Tarsier Studios"
+    ],
+    "publisher": [
+        "BANDAI NAMCO Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Horror",
+        "Adventure",
+        "Atmospheric"
+    ],
+    "achievements": 22,
+    "positive_ratings": 7568,
+    "negative_ratings": 980,
+    "price": 15.99,
+    "description": "Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/424840/header.jpg?t=1544028863",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS:  Windows 7, 64-bit Processor:  Intel CPU Core i3 Memory: 4 GB RAM Graphics: Nvidia GTX 460 DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space Additional Notes: SSE4.2 required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS:  Windows 7, 64-bit Processor:  Intel CPU Core i7 Memory: 8 GB RAM Graphics:  Nvidia GPU GeForce GTX 660 DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space Additional Notes: SSE4.2 required",
+    "reviews": []
+}

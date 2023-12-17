@@ -1,0 +1,42 @@
+{
+    "app_id": 695110,
+    "name": "Twickles",
+    "release_date": "2017-09-28",
+    "developer": [
+        "Neox Studios"
+    ],
+    "publisher": [
+        "Assemble Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 9,
+    "positive_ratings": 25,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Twickles is an original puzzle game with a minimalist aesthetic. Navigate a ball through increasingly complex labyrinths by rotating their individual parts or the entire structure. Complete each level in the perfect amount of moves and collect all of the trophies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/695110/header.jpg?t=1506585842",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2GHz Memory: 1 GB RAM Graphics: Shader Model 3.0 DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities",
+    "recommended_requirements": null,
+    "reviews": []
+}

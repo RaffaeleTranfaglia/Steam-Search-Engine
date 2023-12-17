@@ -1,0 +1,46 @@
+{
+    "app_id": 528300,
+    "name": "Soulless: Ray Of Hope",
+    "release_date": "2016-10-18",
+    "developer": [
+        "Frisky Fatal Games"
+    ],
+    "publisher": [
+        "Meridian4"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 11,
+    "positive_ratings": 155,
+    "negative_ratings": 55,
+    "price": 7.19,
+    "description": "Challenge yourself with intricate puzzles, cryptic bosses and refreshing gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/528300/header.jpg?t=1513283098",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: 2.4 GHz Intel Core 2 Duo Memory: 2 GB RAM Graphics: 256 MB NVIDIA GeForce 8600 GTS DirectX: Version 9.0c Storage: 2 GB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Mouse+Keyboard or Controller",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's beautiful game. Some levels really hard. I like this! Thx for Linux version :) Working on Ubuntu 16.04 very good.",
+            "review_score": "1"
+        }
+    ]
+}

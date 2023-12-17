@@ -1,0 +1,76 @@
+{
+    "app_id": 462960,
+    "name": "Caveman World: Mountains of Unga Boonga",
+    "release_date": "2016-04-26",
+    "developer": [
+        "GrabTheGames Studios"
+    ],
+    "publisher": [
+        "GrabTheGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 14,
+    "positive_ratings": 330,
+    "negative_ratings": 170,
+    "price": 1.59,
+    "description": "Caveman World: Mountains of Unga Boonga is a retro inspired platformer adventure game set in fantasy prehistoric time. You play as a Caveman, exploring various levels and overcoming physical obstacles. Levels become increasingly more difficult as you encounter enemies, obstacles, traps and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462960/header.jpg?t=1549558251",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core Memory: 1 GB RAM Graphics: Integrated Video card Storage: 1 GB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Imagine a plateformer with the horrible physics that made Bad Rats famous.   Bugs I've encountered while I played this:  - No true 'pause' function. Enemies continue to attack while you're adjusting options. They also attack while the camera pans away after picking up a key - Music volume option will not save properly. I set music volume all the way to 0, but it still plays in some levels until I go back to options, turn it up and back down again. - Random spike intervals: They do not behave the same every time you restart a level. Different pattern everytime. - The small bee attack is almost impossible to see. I have no idea how to avoid it - Snake is unpredictable, I never know if I'm in the clear or not (I know, avoid the head, but the snake turns around too fast) - Unavoidable spike damage at the end of in 1-8, making 3 stars impossible - If two eggs get close to each other it's very difficult to separate them, they don't rotate like stone wheels and the caveman's weight isnt enough to wedge himself between the two. - Level 3-3 has a piece of meat at the start that cannot be picked up - Random spike intervals - Inconsistent checkpoint behavior: sometimes damage sends me back to a checkpoint, sometimes I get hurt but I can keep going. - In one of the first levels I got too close to a rock at high speed, and this resulted in my controls being inverted: left arrow would move the character right and viceversa - Did I mention random spike intervals?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's my first game I got 100% achievements on. Pretty proud of that. Was it worth all the pain and angry I went through? Yes, just wait until sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is better than Shadow of the Colossus, Final Fantasy 7, and Halo 2 combined.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 Would buy 15 copies to prank all my friends again.       Also got to number 4 on the leaderboards after under an hour. This competetive scene is hard, man...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't begin to express my love for the game. Everything about it clearly tops any other game in existance. The graphics, animations, depth, and originality clearly displays that this game will go far. The story is so perfectly plotted it put me to tears at every level. The stimulating experience drove me to put more hours in the game. Would reccommend to anyone looking for a game with much content and story development. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the game is a masterpiece the lore is better than anything bethesda could ever create the gameplay is flawless the graphics are amazing the combat is top notch the facial animation is GLORIOUS 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Made me understand the meaning of life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like this game because of the unique style of flipping logs to launch your self to get the goodies UNGA wants, there's also a lot of different traps and monsters you encounter while having to trick and run from. I really like UNGA's sense of humor.",
+            "review_score": "1"
+        }
+    ]
+}

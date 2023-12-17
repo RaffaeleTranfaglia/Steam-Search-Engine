@@ -1,0 +1,69 @@
+{
+    "app_id": 44100,
+    "name": "Super Laser  Racer",
+    "release_date": "2010-02-18",
+    "developer": [
+        "New Star Games Ltd"
+    ],
+    "publisher": [
+        "New Star Games Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 23,
+    "positive_ratings": 73,
+    "negative_ratings": 11,
+    "price": 2.99,
+    "description": "Super Laser Racer is an exciting combat racing game set in outer geometric space. Blast your way to the top of the leaderboards using lasers, missiles, bombs and more! 24 exhilarating tracks, 12 racers, 8 challenging tournaments, online multi-player and a track editor.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/44100/header.jpg?t=1447352743",
+    "minimum_requirements": "OS: Windows 7/XP/VistaProcessor: 1Ghz or higherMemory: 256MB or higherHard Drive: 40MB of free spaceGraphics: OpenGL capableSound: OpenAL",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Awesome top-down arcade/combat racer with the visual style of Arcadia and Geometry Wars. Also, just got a HUGE free update which gave it more levels, more music, more awesome, and MULTIPLAYER. One of the best titles for the money :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A ton of fun with a really great soundtrack. Cool powerups and great track designs. This is definitely a buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What a crock this is.  Every vehicle handles pretty much the same as the others, aside from very minute differences, the power-ups are a joke, and the difficulty is completely artificial.  +Soundtrack is okay, I guess. +The style is nice. Lasers are pretty cool. +Top down racer.  -Controller support is a joke. You can't pause the race with anything but the escape key. No modern controller support. (A big 'screw you' to ExBawks and PS users.) -Power-ups aren't remotely balanced. You can get hit with a tractor beam off-screen and be slowed and unable to turn for as long as they're behind you. So you could drop from first to last because of one power-p. -The vehicles handle the same, and thus the stat values mean nothing. 20% of what? 80% of what?  All in all, glad I got this in a humble bundle for a dollar. Any more and I would've dragged Valve to court to get this refunded if I had to.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If Geometry Wars was a top-down racer. Chaotic gameplay and beautiful minimalist visuals. With the recent update (v1.3) the game contains more content than is currently listed on the Steam store page.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool retro sounds and visuals, horrible controls, awful handling. You'll be in the walls the whole time. Not sure how a developer could have played this and felt it was acceptable to release.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome game when you have a few minutes leftover now and then.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Usually very cheap indie games on Steam is reserved for the worst that indie devs have to offer or at it's best a game you'll play a couple times then forget you ever had. But despite being a very cheap indie game this game fits neither and is actually really good. Think of a 2D, Vector Graphics, Top-Down view version of Wipeout. And if that sounds good to you then I would certainly recommend buying this and even if you're not a Wipeout fan I would still recommend this!",
+            "review_score": "1"
+        }
+    ]
+}

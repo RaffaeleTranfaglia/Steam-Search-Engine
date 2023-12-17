@@ -1,0 +1,38 @@
+{
+    "app_id": 727150,
+    "name": "One Watcher",
+    "release_date": "2018-04-26",
+    "developer": [
+        "Christian Hamm",
+        "Michail Ostrowski"
+    ],
+    "publisher": [
+        "Christian Hamm"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "One Watcher combines the best of retro and innovative platforming to a challenging, atmospheric and fast-paced game. Transforming allows you to climb walls, slide ceilings and jump midair. One Watcher is easy to learn but hard to master.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/727150/header.jpg?t=1524743188",
+    "minimum_requirements": "OS: Windows 7, Windows  8.1, Windows  10 Processor: Intel Core i3 Memory: 4096 MB RAM Graphics: Dedicated Graphics Card, e.g. NVIDIA GTX 660 DirectX: Version 11 Storage: 700 MB available space Sound Card: No",
+    "recommended_requirements": "OS: Windows 7, Windows  8.1, Windows  10 Processor: Intel Core i5 Memory: 4096 MB RAM Graphics: NVIDIA GTX 750 TI DirectX: Version 11 Storage: 700 MB available space Sound Card: Yes",
+    "reviews": []
+}

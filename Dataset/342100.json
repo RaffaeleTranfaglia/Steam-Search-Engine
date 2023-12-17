@@ -1,0 +1,53 @@
+{
+    "app_id": 342100,
+    "name": "Sym",
+    "release_date": "2015-05-07",
+    "developer": [
+        "Atrax Games"
+    ],
+    "publisher": [
+        "Mastertronic"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle-Platformer",
+        "Platformer"
+    ],
+    "achievements": 16,
+    "positive_ratings": 31,
+    "negative_ratings": 5,
+    "price": 5.59,
+    "description": "Sym is a puzzle-platformer that explores social anxiety disorder. Play as Josh, a teenage boy trying to reconcile a maze of two contrasting worlds that coexist within the blank spaces of each other - his perception of reality, and the world he created to avoid his fears.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/342100/header.jpg?t=1447366891",
+    "minimum_requirements": "OS: Win XP / Win 7 / Win 8 Processor: 2.0 GHz Dual Core Processor Memory: 2 GB RAM Graphics: GeForce 8800 or equivalent. DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I know I'm probably not the only person who will try this game because of the premise, knowing full well that platformers and jumping puzzles isn't a strong point of mine. I can say that this will be, at times, so rage-inducing that it takes you right out of the amazing premise. I want to like this so badly, but spend more time angry than admiring the experience.  As mentioned before - platformers and jumping puzzles are a complete challenge for me. It's not helped by the fact that the jump button doesn't always behave as intended (or, sometimes, at all) when moving/jumping simultaneously, and there are some blade deaths I really want to call 'BS' on - and if I was better at this kind of game I might be able to overcome those glaring issues. I have died 200+ times, averaging almost 15 per level, though a couple levels make up for 50+ each. I'm not sure I'll be able to finish (my profile says something like fourteen hours, it's been less than half that so far, I have a bad habit of letting things run in the background). This is a fault of mine. I just kind of hoped a game about social anxiety would be more approachable across the board, and more of an artistic expression of that kind of life (which I live), but I can't sit back and enjoy that as it's simply in a form that is impossible for me to enjoy, despite trying really hard to grind through it. I *want* to recommend the game, and do, because I know the shortcomings are mine - but I have to rate this from the perspective of other people who may be more like me than the other reviewers - curiosity-seekers thinking of taking a risk on gameplay that isn't for them because they struggle with the game's main themes and want to see that reflected in a game.  [edits because I can't math at 5:51am]",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Best game concept ever!  The idea of the dual world is awesome and the implementation is even more awesome.   The levels are not hard but rather a challenge. The campaign is not too long, but the workshop levels will occupy you for a while. The built-in level editor is a great thing too.   You must buy it. The devs deserves it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've played enough platformers to be frustrated and bored with the genre overall, and I find that Sym does something different that really made me enjoy it. Maybe it's because I have a history of emotional/mental health problems, and I can connect with delving deep into your mind and feelings. A game, especially a platformer, that can evoke emotion or even in a way simulate the feeling of being lost in your mind and feelings, is not something you find *too* often. The game is simple enough, imo, to not get too frustrating.   I don't absolutely love keyboard controls, but that's easy enough to fix with a gamepad emulator (joy2key or x360ce).  Between a story that is designed to evoke thought/feelings and a good amount of levels, as well as the editor/level sharing feature, this definitely gets a 'yes' recommendation from me. This game will stick with me for sure.  ",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 796370,
+    "name": "Desert of Vice",
+    "release_date": "2018-04-13",
+    "developer": [
+        "Karolis Dikcius"
+    ],
+    "publisher": [
+        "Karolis Dikcius"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 7,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "A narrative based horror text adventure game with choice dependent multiple endings.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/796370/header.jpg?t=1527886104",
+    "minimum_requirements": "OS: Windows 7, Windows 8, or Windows 10 (32-­bit or 64-­bit) Graphics: OpenGL 2.1 or higher",
+    "recommended_requirements": null,
+    "reviews": []
+}

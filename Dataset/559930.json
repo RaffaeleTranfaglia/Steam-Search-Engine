@@ -1,0 +1,41 @@
+{
+    "app_id": 559930,
+    "name": "Causality",
+    "release_date": "2017-02-02",
+    "developer": [
+        "Loju"
+    ],
+    "publisher": [
+        "Loju"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 13,
+    "positive_ratings": 23,
+    "negative_ratings": 0,
+    "price": 2.99,
+    "description": "Causality is a puzzle game about manipulating time, changing the sequence of events and altering the outcome of each level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/559930/header.jpg?t=1486027218",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 Ghz Memory: 1 GB RAM Graphics: 128 MB DirectX: Version 9.0c Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

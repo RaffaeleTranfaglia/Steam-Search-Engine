@@ -1,0 +1,44 @@
+{
+    "app_id": 745520,
+    "name": "RoboVDino",
+    "release_date": "2018-06-18",
+    "developer": [
+        "Alex Bair Games"
+    ],
+    "publisher": [
+        "Alex Bair Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Dinosaurs"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Throw Garbage At Dinosaurs! RoboVDino is 1-5 player cooperative carnage!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/745520/header.jpg?t=1532895287",
+    "minimum_requirements": "OS: Windows 7, Windows 10 Processor: 2.26 GHz dual core Memory: 2 GB RAM Graphics: Nvidia 9400 DirectX: Version 10 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

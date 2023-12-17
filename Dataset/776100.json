@@ -1,0 +1,43 @@
+{
+    "app_id": 776100,
+    "name": "One Night On The Road",
+    "release_date": "2018-01-23",
+    "developer": [
+        "RaleachGamesStudio"
+    ],
+    "publisher": [
+        "RaleachGamesStudio "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Violent",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Violent",
+        "First-Person"
+    ],
+    "achievements": 1,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "One Night On The Road is a quest where you play as a character who ran out of gas in a small town. In search of fuel, he finds a shop where he knock you out down and found himself in a small house.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/776100/header.jpg?t=1525456553",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: 3 ghz Memory: 8 GB RAM Graphics: Nvidia GTX 750 TI DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 4 ghz Memory: 8 GB RAM Graphics: Nvidia GTX 1050 TI DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

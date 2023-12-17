@@ -1,0 +1,40 @@
+{
+    "app_id": 799300,
+    "name": "Go Guess",
+    "release_date": "2018-04-27",
+    "developer": [
+        "Oblix LLC"
+    ],
+    "publisher": [
+        "Oblix LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "Go Guess is an interactive virtual reality experience that teleports you to different locations around the world and asks you to guess where you are. Give it a try on your own or with your friends and see how your knowledge of the world and its geography fares compared to others!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/799300/header.jpg?t=1536949712",
+    "minimum_requirements": "OS: Windows 8.1 or newer Processor: Intel i3-6100 / AMD Ryzen 3 1200, FX4350 or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 1050 Ti / AMD Radeon RX 470 or greater Network: Broadband Internet connection Storage: 300 MB available space Sound Card: N/A Additional Notes: Alternative Graphics Card: NVIDIA GTX 960 4GB / AMD Radeon R9 290 or greater",
+    "recommended_requirements": "OS: Windows 7 SP1 64 bit or newer Processor: Intel i5-4590 / AMD Ryzen 5 1500X or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 1060 / AMD Radeon RX 480 or greater Storage: 300 MB available space Sound Card: N/A Additional Notes: Alternative Graphics Card: NVIDIA GTX 970 / AMD Radeon R9 290 or greater",
+    "reviews": []
+}

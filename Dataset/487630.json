@@ -1,0 +1,43 @@
+{
+    "app_id": 487630,
+    "name": "Lantern",
+    "release_date": "2016-11-15",
+    "developer": [
+        "Storm in a Teacup"
+    ],
+    "publisher": [
+        "1C Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "VR",
+        "Atmospheric"
+    ],
+    "achievements": 20,
+    "positive_ratings": 38,
+    "negative_ratings": 14,
+    "price": 4.99,
+    "description": "Be the wind and guide a beautiful lantern that spreads the powerful message of everlasting love, by bringing life and color back to the world around you. Lantern is a relaxing game experience full of positive emotions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/487630/header.jpg?t=1556272957",
+    "minimum_requirements": "OS: Windows 7 / 8.1 / 10 Processor: Intel Core i3 (i5-2500K for VR) Memory: 2 GB RAM Graphics: Standard: nVidia GeForce GTX450 / VR: nVidia GeForce GTX970 or better DirectX: Version 9.0c Storage: 3 GB available space Sound Card: DirectX® 9.0c compatible Additional Notes: VR Requirements: Core i5 2500K / 8 GB RAM / nVidia GeForce GTX970 or better",
+    "recommended_requirements": "OS: Windows 7 / 8.1 / 10 Processor: Intel Core i5 or equivalent Memory: 4 GB RAM Graphics: Standard: nVidia GeForce GTX560 or similar / VR: nVidia GeForce GTX980 or better DirectX: Version 9.0c Storage: 3 GB available space Sound Card: DirectX® 9.0c compatible",
+    "reviews": [
+        {
+            "review_text": "Nice idea, but didn't work for me.  Part of it was using the gamepad. I've seen the gamepad work fine in VR, in such games as IO Moon. But it didn't work for me here. Maybe rewrite the game for VIVE controls and teleporting?  This is the first VR game to give me VR sickness. I can see why they went for flying, but the speed is way too high. Particularly the turning. Adding some speed control options might be a help.",
+            "review_score": "-1"
+        }
+    ]
+}

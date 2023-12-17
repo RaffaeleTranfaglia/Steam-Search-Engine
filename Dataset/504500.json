@@ -1,0 +1,50 @@
+{
+    "app_id": 504500,
+    "name": "Hover Havoc",
+    "release_date": "2016-07-28",
+    "developer": [
+        "Canalside Studios"
+    ],
+    "publisher": [
+        "University of Huddersfield Enterprises Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Racing"
+    ],
+    "achievements": 10,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 2.99,
+    "description": "Grab 3 friends, 4 controllers and pick your craft... then battle, bump and bounce opponents into ‘hoverific’ submission! A fun fueled pickup 'n play party game; drift through a multitude of arenas in a blur of hover-fueled rampage!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504500/header.jpg?t=1498213481",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Dual-Core CPU Memory: 4 GB RAM Graphics: SM3 1GB VRAM Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 64-bit or newer Processor: Quad-Core CPU Memory: 8 GB RAM Graphics: SM4 4GB VRAM Storage: 2 GB available space Additional Notes: Gamepad or Controller Recommended",
+    "reviews": [
+        {
+            "review_text": "Update 09/10/16 So they have added 'last man standing' mode which is great. The only issue is now that the controls are too difficult. If they fix this issue it would be a really fun party game and worth porting to consoles.  Pros: -Good visuals -Fun power ups -Awesome 4 player local play -In general the game is very fun and I believe with a few tweaks the game would be great. If they had done an early access build it would probably have been a great game on full release but there are still a few things that I and the people I played with don't like.  Cons: NOW FIXED (THEY ADDED LAST MAN STANDING' MODE) -Scoring system *the scoring system is based on how many you kill, we all thought the game would be better if you had lives instead and had to stay alive, when we played this game it was a case of constant kamakaze and not caring because it doesn't matter if you die* REPEAT THIS HAS BEEN FIXED -Controls *this type of game obviously can't be played with keyboard and mouse so this is only reviewed using Xbox 360 controller and it still isn't perfect, none of us felt that had full control of the vehicle*  Verdict: For now I will give it a thumbs up as if they allow you to select scoring system based on kills or based on deaths we would play this a lot. And I think they could easily improve the controls. I hope the devs don't just leave this game to rot as it is a great idea for a local co-op game",
+            "review_score": "1"
+        }
+    ]
+}

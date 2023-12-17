@@ -1,0 +1,45 @@
+{
+    "app_id": 787550,
+    "name": "FARHOME",
+    "release_date": "2018-04-05",
+    "developer": [
+        "DEVCUBE STUDIO"
+    ],
+    "publisher": [
+        "DEVCUBE STUDIO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "VR"
+    ],
+    "achievements": 29,
+    "positive_ratings": 14,
+    "negative_ratings": 10,
+    "price": 23.79,
+    "description": "FARHOME is an adventure-type science fiction game for virtual reality devices with focus on cooperative walkthrough and on the use of the characters’ special abilities.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/787550/header.jpg?t=1530530024",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+, 64 bit Processor: Intel Core i5-4590 / AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD Radeon R9 290",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+, 64 bit Processor: Intel Core i7-6700K / AMD Ryzen 5 1600X Memory: 16 GB RAM Graphics: NVIDIA GTX 1070 / AMD Radeon RX Vega 64",
+    "reviews": []
+}

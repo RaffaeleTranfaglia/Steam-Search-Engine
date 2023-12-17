@@ -1,0 +1,42 @@
+{
+    "app_id": 530630,
+    "name": "Empires Apart",
+    "release_date": "2018-03-29",
+    "developer": [
+        "DESTINYbit"
+    ],
+    "publisher": [
+        "Slitherine Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Free to Play",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RTS",
+        "Real Time Tactics"
+    ],
+    "achievements": 51,
+    "positive_ratings": 636,
+    "negative_ratings": 389,
+    "price": 0.0,
+    "description": "An exciting free-to-play Real Time Strategy game set in medieval times. Uniquely designed factions, customization options, singleplayer and multiplayer gameplay. Gather resources, raise an army and lead your civilization to victory in a classic RTS, brought to the modern age.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/530630/header.jpg?t=1553529312",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Intel Core i5 2.7ghz or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 560 or equivalent DirectX: Version 11 Storage: 1896 MB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: Intel Core i7 3.4ghz or equivalent Memory: 8 GB RAM Graphics: GeForce GTX 960 or equivalent DirectX: Version 11 Storage: 1896 MB available space",
+    "reviews": []
+}

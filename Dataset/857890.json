@@ -1,0 +1,42 @@
+{
+    "app_id": 857890,
+    "name": "RuneTech",
+    "release_date": "2018-05-01",
+    "developer": [
+        "James Conrad",
+        "Micah Sigmund",
+        "Meaghann LeBleu"
+    ],
+    "publisher": [
+        "Hyaloid Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Cast spells and use magic crystals to solve puzzles and fight your way through cleansing an ancient cave of its evil corruption.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/857890/header.jpg?t=1531185174",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

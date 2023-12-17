@@ -1,0 +1,40 @@
+{
+    "app_id": 468000,
+    "name": "Impact Winter",
+    "release_date": "2017-05-22",
+    "developer": [
+        "Mojo Bones"
+    ],
+    "publisher": [
+        "BANDAI NAMCO Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 24,
+    "positive_ratings": 115,
+    "negative_ratings": 164,
+    "price": 15.99,
+    "description": "&quot;In 30 days, help is coming…&quot; A mysterious radio transmission claims that help is inbound. You are Jacob Solomon: leader of a makeshift team trying to survive the aftermath of a devastating asteroid collision. Your goal: lead your team to survival.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/468000/header.jpg?t=1539272893",
+    "minimum_requirements": "OS: Windows 7, 8.1, 10 64-bit Processor: Intel Core i3-2100, 3.10 GHz | AMD FX-4350, 4.2 GHz Memory: 4 GB RAM Graphics: GeForce GTX 460 | Radeon HD 5850 DirectX: Version 9.0c Storage: 5 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

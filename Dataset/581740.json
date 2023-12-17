@@ -1,0 +1,43 @@
+{
+    "app_id": 581740,
+    "name": "HUNGER",
+    "release_date": "2017-06-21",
+    "developer": [
+        "Black Smerch"
+    ],
+    "publisher": [
+        "Black Smerch"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 6,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "HUNGER: Computer game in the genre of survival, telling the story of a lonely soldier, abandoned to an unexplored island. People say that there is life on this island and the settlers of this island are building their civilization there.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/581740/header.jpg?t=1545492476",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2.0 GHz Memory: 1 GB RAM Graphics: GeForce 6600 / ATI Radeon X1300 256 Mb DirectX: Version 9.0c Storage: 1 GB available space Sound Card: Realtek HD Additional Notes: keyboard, mouse",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2.0 GHz Memory: 2 GB RAM Graphics: GeForce 6600 / ATI Radeon X1300 1 Gb DirectX: Version 10 Storage: 1 GB available space Sound Card: Realtek HD Additional Notes: keyboard, mouse",
+    "reviews": []
+}

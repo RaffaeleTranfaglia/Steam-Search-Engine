@@ -1,0 +1,46 @@
+{
+    "app_id": 365440,
+    "name": "Platfinity™",
+    "release_date": "2016-05-25",
+    "developer": [
+        "Ian D. Martin"
+    ],
+    "publisher": [
+        "Ian D. Martin",
+        "Retrolutionary.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Animation & Modeling",
+        "Education"
+    ],
+    "achievements": 30,
+    "positive_ratings": 31,
+    "negative_ratings": 14,
+    "price": 5.19,
+    "description": "Platfinity™, fast &amp; easy game creation!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/365440/header.jpg?t=1535571179",
+    "minimum_requirements": "Минимальные: ОС: Windows 10/8/7/Vista/XP, 32 or 64 bit Процессор: 1 GHz + Оперативная память: 512 MB ОЗУ Видеокарта: Any Место на диске: 150 MB Звуковая карта: Any Дополнительно: XBox 360, Logitech F310, and Steam Controllers supported",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 10/8/7/Vista/XP, 32 or 64 bit Процессор: 2 GHz +, multicore Оперативная память: 1 GB ОЗУ Видеокарта: Any Место на диске: 1 GB Звуковая карта: Any Дополнительно: XBox 360, Logitech F310, and Steam Controllers supported",
+    "reviews": [
+        {
+            "review_text": "This is the most simplest game design tool that I have ever seen.  Pros: - 10 minutes to read the manual. - 20 minutes to design your game levels by used the default assets. - You can export your own games in 30 minutes!  Cons: - The character only can move and jump (or climb). It can't shoot. That's too bad. ",
+            "review_score": "1"
+        }
+    ]
+}

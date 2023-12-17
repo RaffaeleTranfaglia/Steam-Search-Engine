@@ -1,0 +1,43 @@
+{
+    "app_id": 726600,
+    "name": "Drift Zone",
+    "release_date": "2017-12-14",
+    "developer": [
+        "Awesome Industries"
+    ],
+    "publisher": [
+        "Awesome Industries"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 16,
+    "negative_ratings": 18,
+    "price": 5.19,
+    "description": "Welcome to the world of drifting! The smell of burned rubber, the roar of 500 bhp engines and the style you have never seen before. Take part in two types of competition and win high cash prizes and reputation points needed to climb up the career ladder.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/726600/header.jpg?t=1531753482",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: AMD FX Series or Intel Core i3 Series Memory: 4 GB RAM Graphics: AMD HD5450 or Nvidia GT430 or Intel HD4000 with 1GB of VRAM DirectX: Version 9.0 Storage: 2 GB available space Sound Card: DirectX Compatible soundcard Additional Notes: The application’s stability is not guaranteed on Intel HD Graphics and AMD HD Radeon on-board graphics cards.",
+    "recommended_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: AMD FX-8150 or Intel Core i5 4670K Memory: 8 GB RAM Graphics: AMD R9 290 or Nvidia GTX780 DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Direct X compatible soundcard Additional Notes: The application’s stability is not guaranteed on Intel HD Graphics and AMD HD Radeon on-board graphics cards.",
+    "reviews": []
+}

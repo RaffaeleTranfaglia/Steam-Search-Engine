@@ -1,0 +1,41 @@
+{
+    "app_id": 811910,
+    "name": "MRS SNAKE",
+    "release_date": "2018-03-19",
+    "developer": [
+        "Create Our Freedom"
+    ],
+    "publisher": [
+        "Create Our Freedom"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "A 3D, multi-player take on the original snake game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/811910/header.jpg?t=1546202724",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i5 Memory: 1 GB RAM Graphics: Nvidia GTX 260 / AMD FirePro V4900 Storage: 90 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

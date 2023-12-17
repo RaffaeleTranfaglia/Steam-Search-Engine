@@ -1,0 +1,43 @@
+{
+    "app_id": 667720,
+    "name": "Red Faction Guerrilla Re-Mars-tered",
+    "release_date": "2018-07-03",
+    "developer": [
+        "Volition",
+        "KAIKO"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Gore"
+    ],
+    "tags": [
+        "Destruction",
+        "Open World",
+        "Sci-fi"
+    ],
+    "achievements": 57,
+    "positive_ratings": 1072,
+    "negative_ratings": 318,
+    "price": 14.99,
+    "description": "Red Faction: Guerrilla re-defines the limits of destruction-based game-play with a huge open-world, fast-paced guerrilla-style combat, and true physics-based destruction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667720/header.jpg?t=1533041495",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 (64bit) Processor: Intel or AMD Dual Core CPU 2.5 GHz Memory: 4 GB RAM Graphics: DirectX 10 Feature Level AMD or NVIDIA Card with 1 GB VRAM DirectX: Version 11 Storage: 32 GB available space",
+    "recommended_requirements": "OS: Windows 7, Windows 8, Windows 10 (64bit) Processor: Intel or AMD Quad Core CPU 3 GHz Memory: 8 GB RAM Graphics: DirectX 11 Feature Level AMD or NVIDIA Card with 2 GB VRAM DirectX: Version 11 Storage: 32 GB available space",
+    "reviews": []
+}

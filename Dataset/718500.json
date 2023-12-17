@@ -1,0 +1,41 @@
+{
+    "app_id": 718500,
+    "name": "Derpy Dinos",
+    "release_date": "2017-11-02",
+    "developer": [
+        "Derpy Dinos"
+    ],
+    "publisher": [
+        "Derpy Dinos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 26,
+    "positive_ratings": 38,
+    "negative_ratings": 9,
+    "price": 0.0,
+    "description": "Derpy Dinos is a 2.5D side-scrolling arcade shooter. Smash, throw, and blast derpy dinosaurs. The more carnage you produce, the more points you earn for a spot on the global leaderboards. Protect your ship, collect power-ups, and earn achievements by completing challenging feats.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/718500/header.jpg?t=1523137685",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core i5 Memory: 400 MB RAM Graphics: Intel (R) HD Graphics 520 DirectX: Version 11 Storage: 150 MB available space Additional Notes: Choose Low Graphics settings with lower power graphics cards",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7 Memory: 2 GB RAM Graphics: GeForce GTX 660 DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

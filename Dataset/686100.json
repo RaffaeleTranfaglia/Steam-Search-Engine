@@ -1,0 +1,36 @@
+{
+    "app_id": 686100,
+    "name": "CanBoom VR",
+    "release_date": "2017-08-22",
+    "developer": [
+        "eiNpictures"
+    ],
+    "publisher": [
+        "eiNpictures"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 7,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 2,
+    "price": 5.59,
+    "description": "'CanBoom VR' is the VR version of Android game 'CanBoom'. The target of User is to clear 100 stages and you meet more difficult obstacles and cans if you break stages.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/686100/header.jpg?t=1503392800",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or Windows 10 Processor: intel i5-4570 Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 Storage: 1 GB available space Additional Notes: 1x USB 2.0 or better port also required",
+    "recommended_requirements": null,
+    "reviews": []
+}

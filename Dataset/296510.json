@@ -1,0 +1,64 @@
+{
+    "app_id": 296510,
+    "name": "Magnetic By Nature",
+    "release_date": "2014-11-10",
+    "developer": [
+        "Team Tripleslash"
+    ],
+    "publisher": [
+        "Team Tripleslash"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 53,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "Experience a fast-paced, single-player adventure mixing fluid motion, split-second decision making, stylized machine-age visuals, and a dynamic soundscape.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/296510/header.jpg?t=1447361550",
+    "minimum_requirements": "OS: Windows XP+ Processor: Core 2 Duo 2.0 Ghz or greater Memory: 1 GB RAM Graphics: Dedicated graphics card with Shader Model 2.0 support DirectX: Version 9.0c Storage: 1600 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Played this first at PAX Prime '14. The folks at the booth were great, and I probably spent 45 minutes there just playing the game. Purchased it on the spot there. Now that I finally get to play it again, it was a very worthwhile purchase and worth the wait. There's a lot to love here, whether you're in it for the speedrun or for the item collection or a little bit of both. This is a fun physics game that anyone can get into.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Disclaimer: I personally know a member of the dev team  Magnetic By Nature is an enchanting yet difficult game. The art style is simple and beautiful and the music is atmospheric. The gameplay does take a little bit to get used to but is very fun. I've finished the main 4 zones, and have yet to pass the first level of zone 5. It is a bonus zone for a reason, zone 5 is HARD. I like how they've added 'collectibles' to, well, collect. Usually trying to get them increases the difficulty of the level.  There are bugs: -getting stuck in the floor or wall unable to move forcing you to restart level. This doesn't happen often but is annoying. From what I understand from the dev team it would require re-coding from the ground up to fix, and it rarely happens anyway. -UPDATE (this has been fixed!) PC version showing Xbox controls.  This game also lacks the ability to remap keys. I have trouble with my mouse hand after an injury which made the default layout difficult. I solved this by downloading Key Remapper and rebinding Lctrl and space to simulate L and R mouse buttons enabling me to play one-handed.  Overall I'll give this game a solid 4/5. I'm glad I bought it, and likely will play it here and there for years to come.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the levels where I get to sling myself across the stage super fast.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game. I just can't stop playing because it really PULLS me in.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cannot recommend this game. Nothing fun here for me.",
+            "review_score": "-1"
+        }
+    ]
+}

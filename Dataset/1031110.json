@@ -1,0 +1,38 @@
+{
+    "app_id": 1031110,
+    "name": "Unroaded",
+    "release_date": "2019-03-06",
+    "developer": [
+        "Dihen"
+    ],
+    "publisher": [
+        "Dihen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 93,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "Unroaded is a short free visual novel about the living dead man who instead of inaction chosed the road.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1031110/header.jpg?t=1555271081",
+    "minimum_requirements": "OS: Windows 7 32 bit Processor: 1.66 Ghz Memory: 1 GB RAM Graphics: DirectX compatible card Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

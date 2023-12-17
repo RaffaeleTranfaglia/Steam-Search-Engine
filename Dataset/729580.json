@@ -1,0 +1,42 @@
+{
+    "app_id": 729580,
+    "name": "Malzbie's Pinball Collection",
+    "release_date": "2017-10-27",
+    "developer": [
+        "Malzbie Games"
+    ],
+    "publisher": [
+        "Malzbie Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 40,
+    "positive_ratings": 41,
+    "negative_ratings": 20,
+    "price": 0.0,
+    "description": "Malzbie’s Pinball Collection presents pinball tables in the style of the 1990s. Completely physically calculated gaming features, realistic graphics, stunning sounds and the animated dot matrix display give the feeling of the good old days back to you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/729580/header.jpg?t=1550847887",
+    "minimum_requirements": "OS: Windows 7 Processor: 2GHz Intel Core i5 Memory: 4 GB RAM Graphics: NVidia GTX560 or equivalent DirectX: Version 11 Storage: 2 GB available space Sound Card: Direct Sound capable card",
+    "recommended_requirements": "OS: Windows 10 Processor: 3GHz Intel Core i5 Memory: 8 GB RAM Graphics: NVidia GTX 670 or equivalent DirectX: Version 11 Storage: 2 GB available space Sound Card: Direct Sound  capable card",
+    "reviews": []
+}

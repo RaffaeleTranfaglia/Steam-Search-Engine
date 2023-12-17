@@ -1,0 +1,53 @@
+{
+    "app_id": 406110,
+    "name": "Asdivine Hearts",
+    "release_date": "2016-02-01",
+    "developer": [
+        "Exe Create Inc."
+    ],
+    "publisher": [
+        "KEMCO"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 45,
+    "negative_ratings": 16,
+    "price": 8.99,
+    "description": "Restore the balance of light and shadow in the world!Beautiful hand-drawn visuals and a story of epic proportions bring Asdivine Hearts to the forefront of PC gaming! Travel alongside four companions and a cat in this fantasy 2D turn-based RPG!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/406110/header.jpg?t=1548745781",
+    "minimum_requirements": "OS: Windows Vista / 7 Processor: Intel® Celeron® Processor 2950M (2.00 GHz) Memory: 2 GB RAM DirectX: Version 11 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 8.1 / 10 Processor: Intel® Core™2 Duo Processor E7400 (2.80 GHz) Memory: 4 GB RAM DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": [
+        {
+            "review_text": "A great 2D-JRPG that you can see alot of effort was but into the game. It's good to see that this isn't just some RPGMaker game, but a decent developed JRPG game. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "felix the cat is a pretty cool dude, but unfortunately the game includes people who are not ♥♥♥♥♥♥♥♥♥ cats which does tend to drag it down somewhat. 8 meowzers out of 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is what happens when you take a 5 hour game and stretch it into 30 hours.  Terribly repetitive. The combat, the locations, the lame jokes... You'll see and hear it all within the first 5 hours. Then it's recycled and thrown at you again and again and again. What a grinder.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 705840,
+    "name": "Fake/SuperSonia",
+    "release_date": "2017-10-05",
+    "developer": [
+        "Fake GO"
+    ],
+    "publisher": [
+        "Fake GO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 18,
+    "price": 0.79,
+    "description": "Play angel high school student named Sonia and escape from hell. You can make your own level and share with friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/705840/header.jpg?t=1510561985",
+    "minimum_requirements": "OS: Microsoft 64bit Windows 7 Processor: 64bit Intel compatible Dual Core CPU Memory: 2 GB RAM Graphics: DX11 compliant graphics card DirectX: Version 11 Network: Broadband Internet connection Storage: 25 MB available space",
+    "recommended_requirements": "OS: Microsoft 64bit Windows 10 Processor: 64bit Intel compatible Quad Core CPU Memory: 8 GB RAM Graphics: DX11 based graphics card DirectX: Version 11 Network: Broadband Internet connection Storage: 50 MB available space",
+    "reviews": []
+}

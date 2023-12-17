@@ -1,0 +1,45 @@
+{
+    "app_id": 504630,
+    "name": "Broomball VR",
+    "release_date": "2016-07-26",
+    "developer": [
+        "Rushil Reddy",
+        "Priyam Parikh",
+        "Ken Watanabe"
+    ],
+    "publisher": [
+        "Broomball Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 28,
+    "negative_ratings": 14,
+    "price": 0.0,
+    "description": "Experience the thrill of flying from the comfort of your broomstick. Blast enemies with fireballs and make your way across the field to score the winning goal!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504630/header.jpg?t=1469658028",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590, AMD FX 8350 Graphics: Nvidia GeForce GTX 970 Storage: 250 MB available space Sound Card: N/A Additional Notes: You must be using SteamVR to play Broomball",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Game is great, but we want more then a tutorial!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love VR flying. I hope this genre gets more attention.",
+            "review_score": "1"
+        }
+    ]
+}

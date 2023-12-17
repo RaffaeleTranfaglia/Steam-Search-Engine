@@ -1,0 +1,40 @@
+{
+    "app_id": 745030,
+    "name": "Squarism",
+    "release_date": "2017-11-21",
+    "developer": [
+        "KirUn",
+        "algamedev",
+        "Alexander M"
+    ],
+    "publisher": [
+        "KirUn"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 27,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 2.39,
+    "description": "SQUARISM is a minimalist logic game about combining pieces scattered around into a perfect square. Complete all 70 lovely-crafted levels and become master of square assembling!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/745030/header.jpg?t=1548172336",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2 Ghz Memory: 512 MB RAM Graphics: Graphics card supporting DirectX 9.0c DirectX: Version 9.0c Storage: 70 MB available space Sound Card: Would be nice",
+    "recommended_requirements": null,
+    "reviews": []
+}

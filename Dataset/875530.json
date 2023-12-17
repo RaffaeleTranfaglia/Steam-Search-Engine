@@ -1,0 +1,37 @@
+{
+    "app_id": 875530,
+    "name": "Dead In Time",
+    "release_date": "2018-10-12",
+    "developer": [
+        "Zelenov Artem"
+    ],
+    "publisher": [
+        "Zelenov Artem"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "achievements": 6,
+    "positive_ratings": 13,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "&quot;Dead in time&quot; is a hardcore action with a non-trivial level generation system and the ability to control time. Each enemy that you meet on your way, is deadly and unique in its own way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/875530/header.jpg?t=1539364642",
+    "minimum_requirements": "OS: 7, 8, 10 Processor: Intel i3 - i5, 2.3-2.5 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GT 650 Storage: 5 GB available space Sound Card: Realtek ALC8800 or equivalent Additional Notes: &quot;Dead in time&quot; is an Early Access game, and minimum specifications may change during development. Gamepad support for XInput devices.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 775730,
+    "name": "Dialing",
+    "release_date": "2018-03-02",
+    "developer": [
+        "XiNFiNiTY Games"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 15,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 0.99,
+    "description": "Dialing is match-3 reinvented with a hint of never-ending difficult. The numbers are always increasing and so is the challenge.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/775730/header.jpg?t=1520009531",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 1 GB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

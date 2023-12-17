@@ -1,0 +1,37 @@
+{
+    "app_id": 975010,
+    "name": "Space Guard",
+    "release_date": "2018-11-15",
+    "developer": [
+        "milanaozdieva"
+    ],
+    "publisher": [
+        "milanaozdieva"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Classic arcade game in the style of invaders. Defend the planet from alien invaders and defeat all the hordes of evil.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/975010/header.jpg?t=1542295663",
+    "minimum_requirements": "OS: Windows 7 or newer: 32bit / 64bit Memory: 2 GB RAM Graphics: DirectX11 Compatible GPU with 512 MB Video RAM Storage: 200 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 4 Duo or higher Memory: 4 GB RAM Graphics: DirectX11 Compatible GPU with 1 GB Video RAM Storage: 200 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

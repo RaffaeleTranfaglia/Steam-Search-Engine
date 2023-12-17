@@ -1,0 +1,44 @@
+{
+    "app_id": 821230,
+    "name": "Drink 'Em",
+    "release_date": "2018-10-12",
+    "developer": [
+        "Nikkihends Production"
+    ],
+    "publisher": [
+        "Nikkihends Production"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "A drinking game that will have you playing all night! Everything in this game has drinking involved. Also, 8 player support for ultimate drinking competitions! Includes crazy mini games, drinking games, cards, and a bunch of unlockables! Start your next party right with Drink 'Em!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/821230/header.jpg?t=1552087737",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2.0 GHZ Memory: 2 GB RAM Graphics: 512 mb video memory DirectX: Version 9.0 Storage: 800 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

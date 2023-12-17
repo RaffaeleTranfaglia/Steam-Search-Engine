@@ -1,0 +1,42 @@
+{
+    "app_id": 669910,
+    "name": "Miles & Kilo",
+    "release_date": "2017-11-30",
+    "developer": [
+        "Michael Burns"
+    ],
+    "publisher": [
+        "Michael Burns"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 17,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "After their plane is downed by a mischievous specter, Miles and Kilo must find a way to escape a haunted archipelago. Help them run, jump, surf, swing, and slide their way through 36 levels in this fast-paced retro platformer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/669910/header.jpg?t=1512055839",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz dual-core processor Memory: 1 GB RAM Graphics: Intel HD Graphics 4000 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

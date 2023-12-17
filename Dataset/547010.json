@@ -1,0 +1,55 @@
+{
+    "app_id": 547010,
+    "name": "Terminal Hacker",
+    "release_date": "2016-12-01",
+    "developer": [
+        "Lord_Loej"
+    ],
+    "publisher": [
+        "Lord_Loej"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 72,
+    "negative_ratings": 54,
+    "price": 0.0,
+    "description": "Welcome to Terminal Hacker, you must crack as many passwords as you can before you get locked out of the terminal. Terminal Hacker features 3 different gamemodes with four difficulties, and leaderboards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547010/header.jpg?t=1480640786",
+    "minimum_requirements": "OS: Windows XP+ Processor: 1.2GHz Processor Memory: 256 MB RAM Graphics: Intel Graphics 4000 or greater DirectX: Version 9.0 Network: Broadband Internet connection Storage: 201 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "You have been hacked!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not good. Literally all you do is press random buttons until you get the right answer. Avoid this game, do something else with your time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A good game to practice english.",
+            "review_score": "1"
+        }
+    ]
+}

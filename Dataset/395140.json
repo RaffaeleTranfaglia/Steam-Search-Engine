@@ -1,0 +1,55 @@
+{
+    "app_id": 395140,
+    "name": "Miracle Fly",
+    "release_date": "2015-10-26",
+    "developer": [
+        "ElagoTech"
+    ],
+    "publisher": [
+        "ElagoTech"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 28,
+    "positive_ratings": 76,
+    "negative_ratings": 8,
+    "price": 5.79,
+    "description": "A unique action-puzzle platform game that will give you a whole new gaming experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/395140/header.jpg?t=1473746097",
+    "minimum_requirements": "OS: Windows Vista Processor: Dual 2 GHz Memory: 512 MB RAM Graphics: OpenGL 2 enabled, 512 MB DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: 3D need to be turned off for low spec PC",
+    "recommended_requirements": "OS: Windows 7 Processor: Dual 2.8 GHz Memory: 2 GB RAM Graphics: OpenGL 2 enabled, 1024 MB Storage: 200 MB available space",
+    "reviews": [
+        {
+            "review_text": "Miracle Fly is a fun little indie platformer that avoids many of the pitfalls that indie platformers tend to have.  To me, its biggest strength is you never feel like you're getting locked out of content. Most platformers are level based, and more levels are unlocked as you complete currently available ones. Though no matter how skilled I am, there's a good chance at some point there will be a level I simply will not be able to beat, and as a result, I miss out on experiencing anything from a few levels to an entire chunk of a game. Miracle Fly avoids that by having multiple paths on level selection screen, so odds are you will usually have more than one level to choose from in order to unlock more levels. Additionally, stars can act as a cushion for when you get into a difficult situation. These stars are collected by getting all the gems in a level, collecting a certain coin in a level, or defeating a world's boss. For a certain amount of stars, you can revive yourself at the location of your death in a level and receive a few seconds of invincibility. There will always be a limited amount of stars available and within a level the cost of revival doubles with each use, so it isn't feasible to abuse the feature to make the game a cakewalk.   The game is also flexible in its requirements to complete a level. Reaching the exit portal with time to spare is the only task required. You’re welcome to collect all the gems, get every coin, or defeat every enemy, but ultimately such objectives are optional. However there is incentive complete them, given that the aforementioned revive mechanic is tied to gem collection and the occasional coin. This allows for an overall flexible approach that can be rewarding without feeling punishing.  The levels have a gradual increase in difficulty as the game goes on, but never feels insurmountable like I’ve encountered in other games. Levels become longer and more complex, puzzles are more demanding, enemies increase in quantity and get harder to kill, gems become tougher to collect, bosses increase in difficulty, and health powerups become basically nonexistent. I only take issue with the last change; if anything, health powerups should’ve become more common as the game went on, when the player is more likely to actually need them. In the game's defense however, two of the three playable characters are able to regain health under circumstances, but depending on the level at hand, they might not have the abilities best suited for success.  Another strength of Miracle Fly is that it never gets stale. Many platformers are mechanically sparse, and end up becoming repetitive or poorly ramping up the difficultly to make up for the lack of mechanics. Miracle Fly is always introducing new blocks, buttons, and enemies. Additionally, the three characters you can choose from differ in their abilities, strengths, and weaknesses, so even if you prefer one, you’ll likely use all of them at some point in the game. Some gameplay aspects introduced are more obtuse to figure out than others, but I never felt like Miracle Fly was getting old as I played it.  Besides the previously mentioned issues of limited health powerups and occasionally hard to understand mechanics, I’d say another problem is it’s easy to become dependent on the revive feature to complete a level. Odds are, you’ll have a surplus of stars to blow by the time you start reaching levels you need to revive in, and may become careless as to how often you use them. Then, as stars become more difficult to amass as the game goes on, you might find yourself suddenly stuck on a boss level with 0 stars, meaning you’re expected to traverse the level and beat the boss while taking no more than few hits, sometimes that’s doable, sometimes it isn’t. When it isn’t, then you’ll retreat across the level selection screen to find any levels where you didn’t get all the gems or maybe missed the coin so you can scrounge up enough stars to at least get a 2nd chance. While I don’t think the revive mechanic needed to be drastically different, maybe limiting revivals to 1 per level would’ve satisfactorily given the player a safety cushion while encouraging them to get better at the game and not waste their stars.   I purchased the game for $1.99, and with over 20 hours in it so far, it was most certainly worth the money. Even at $7.99, considering the girth of content you get, and it being a relatively pain-free experience, I would say it’s worth it. Between the gameplay, level design, and art, you can tell a lot of effort was put into this game, and a fun experience awaits you if you give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You're a cute magical girl, you ride a magic rocket... broom. Now go... I dunno save the world or something, just puzzle platform while you do it   Psst... the mouse is superior, suprisingly enough",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A surprisingly great game. The core gameplay mechanic is just okay, nothing too spectacular, but the variety in the levels is incredible - approximately every group of four levels has a new theme and introduces new mechanics, and even in mid-level-group, often a new monster or special block of some kind is introduced. I've played about 90% of the game at this point (excluding going back and doing 'time attack', and excluding the extra boss battles that are unlocked by that), and it hasn't felt repetitive at all. Even redoing levels to get missed gems, and for time attack, is mostly not repetitive, though there are occasional gems that require precision timing to get and require restarting the level if you miss the timing, which can get tiresome.  Aside from those rare issues, the level design is wonderful too - lots of variety, and *usually* some kind of visual clues when there's a hidden passage or some kind of surprise is lurking.  On the negative side, it has some performance issues for me on the levels with lighting effects (on a Lenovo Y50, which is powerful enough to play Arkham Asylum, so getting sluggish in a 2D game is a little disappointing). I noticed it hesitates more in full screen mode than in a window, so it might be that it struggles with a 4k resolution screen.",
+            "review_score": "1"
+        }
+    ]
+}

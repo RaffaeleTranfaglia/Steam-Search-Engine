@@ -1,0 +1,45 @@
+{
+    "app_id": 700770,
+    "name": "ZoneDriver",
+    "release_date": "2018-03-29",
+    "developer": [
+        "Cybertime System"
+    ],
+    "publisher": [
+        "Cybertime System"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Workshop",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Racing",
+        "Massively Multiplayer"
+    ],
+    "achievements": 22,
+    "positive_ratings": 27,
+    "negative_ratings": 23,
+    "price": 0.79,
+    "description": "Races in the stalkers' setting, developed by the efforts of two enthusiasts. Check your accuracy at the wheel of a flying bucket. The game does not try to be a substitute for your favorite entertainment, but it can give you several hours of fun if you give it a chance.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/700770/header.jpg?t=1522320863",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 3,2 GHz Memory: 4 GB RAM Graphics: GeForce 6800 / ATI X1800 (256 MB) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 3 GB available space Sound Card: Directx 9.0c compatible Additional Notes: Internet speed 512 Kbps",
+    "recommended_requirements": "OS: Windows 7/8/10 (64-bit) Processor: Intel Core i5-3330 Memory: 8 GB RAM Graphics: GeForce GTX660 / Radeon HD 7850 (2GB) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 4 GB available space Sound Card: Directx 9.0c compatible Additional Notes: Internet speed 1024 Kbps (for voice chat)",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 913850,
+    "name": "103",
+    "release_date": "2018-12-21",
+    "developer": [
+        "Dystopia Interactive"
+    ],
+    "publisher": [
+        "Dystopia Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 41,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "Help Lily use her imagination to unlock her memories and relive the events of a night that changed her life. Discover what happened and what is 103.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/913850/header.jpg?t=1545817367",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 Processor: Intel i5 7600 or equivalent Memory: 2 GB RAM Graphics: GT 1030 2GB / RX 560 4GB DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 Processor: Intel i7 7700K or equivalent Memory: 4 GB RAM Graphics: GTX 1060 3GB / RX 580 8GB DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

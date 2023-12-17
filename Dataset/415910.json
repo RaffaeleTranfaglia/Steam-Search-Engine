@@ -1,0 +1,58 @@
+{
+    "app_id": 415910,
+    "name": "Gigachess",
+    "release_date": "2015-12-15",
+    "developer": [
+        "Drixxel Soft"
+    ],
+    "publisher": [
+        "Drixxel Soft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Board Game"
+    ],
+    "achievements": 41,
+    "positive_ratings": 49,
+    "negative_ratings": 7,
+    "price": 2.79,
+    "description": "Gigachess is a hero defense puzzler on a chess board. Command your party of Knights, Rooks &amp; Bishops against the relentless Pawn onslaught!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/415910/header.jpg?t=1546390350",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Intel Atom 1.6 GHz (or equivalent) Memory: 2 GB RAM DirectX: Version 8.0 Storage: 50 MB available space Additional Notes: 100% mouse controllable",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Good premise, but buggier than a $5 hotel room.  Fix the annoying menu flash, the wierd screen resize issue, the loss of mouse pointer after resize, and the recentering of the window at random times and then we can focus on the game rather the fustration of the UI. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played, I sawed pawns in half, I conquered.  10/10 game for giving me something simple, fresh, and intellectually fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game should include a health warning, I was almost blinded when I first started playing, couldn't quit  Definitely buy, it's a stupid simple fun game",
+            "review_score": "1"
+        }
+    ]
+}

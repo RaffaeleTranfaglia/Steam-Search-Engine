@@ -1,0 +1,777 @@
+{
+    "app_id": 265890,
+    "name": "Hexcells",
+    "release_date": "2014-02-19",
+    "developer": [
+        "Matthew Brown"
+    ],
+    "publisher": [
+        "Matthew Brown"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Puzzle",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 3482,
+    "negative_ratings": 129,
+    "price": 1.99,
+    "description": "Hexcells is an ambient logic puzzle game for PC, Mac and Linux.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/265890/header.jpg?t=1473001427",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows XP or later Processeur : 2.0Ghz+ Mémoire vive : 2 GB de mémoire Graphiques : Shader Model 2.0+ Espace disque : 60 MB d'espace disque disponible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Hexcells uses similar logical reasoning skills to Minesweeper, but without the timed aspect. Great puzzle game but way too short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would recommend this game to anyone who enjoys brain stimulating puzzles, its fun and I love the music.  _______________________________________________________________________ Step 1: Install Step 2: Play Step 3: Finish world 4 and look at the clock Step 4: Run like a madman to where you were supposed to get to an hour ago  10/10 would miss appointments again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting puzzler that is akin to a mix of Minesweeper and Picross with a very chill ambient soundtrack and a no-rush approach to solving the increasingly complex hex cell maps. Cheap and fun time killer for those stressed days, just don't expect too much content or replay-ability on the long run. 4/5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great OCD timewaster!  The game is a mix of Minesweeper and Piccross within Hexagonal cells. It has beatufiul minimalistic graphics and it is very well organized within itself, keeping the player aware of new mechanics and making everything simple but escalating from it.  If you like Minesweeper, puzzles, have OCD tendencies, or just want to waste some time having fun while keeping your head occupied, then this game is for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I finished the whole thing and all of its thirty-ish levels in one day because it was that fun. I'm exhausted.  Hexcells is a logic puzzle that's similar to other number games like Minesweeper and Picross, as you use processes of elimination and deduction to fill in patterns of tiles. The distinction here is that since the tiles are hexagons, they're not restricted by square grids, and most puzzles look like abstract shapes or very loosely defined objects. Black-background hexes have numbers on them from 0-6, indicating how many of the gold tiles around them can be clicked to turn blue, which counts toward stage completion.  Those hexes are a mixed blessing--finding all of them is the whole point of the game (though you do have to mark every single tile, whether you believe it to be a blue 'hit' or a black 'guide'), but unless you know how many blue tiles are in a given area, these don't often give any information on the tiles around them. The numbers themselves eventually adopt additional characteristics that give you more information on how to complete a stage, but it's well worth remembering that making a decision about one tile necessarily is effectively making a decision about all of the tiles next to it as well. Levels are divided up into groups and sometimes able to be completed out of order, and completing each level perfectly will often mean you unlock the next set even without fully having to finish the previous one.  The game is easy to learn, with simple controls and all of the rules explained as you need them, and there are no hectic time limits to worry about. (I don't know if there's a way to save during levels.) You'll probably build up enough stress just by trying to finish levels without making mistakes, as difficulty ramps up quickly and there's no quick way to restart stages, that I know of, without exiting back out to the level-select menu. This may serve the purpose of discouraging cheating, though. It would be nice to be able to turn the music on and off during a level, but the little 'bloop' sounds the tiles make when clicked go really well with the gentle soundtrack, so much so that you might not notice them at first.  You can make guesses about what tiles are where, but it's much more satisfying to finish a stage or even a small section of one because you understood the rules than because you happened to get lucky. The game doesn't need reflexes, but it expects and encourages patience and discipline (try not to scream if you misclick toward the end of a level you've been chipping away at for half an hour), all for the cost of a small meal.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is a minesweeper like games with much improvent. Just started the game and been hooked up for 2 hours and suddenly I have finished the game with 100% achievement. Really simple and entertaining.  I would recommend to buy the whole series. There is trilogy of this game (Hexcells, Hexcells Plus, &amp; Hexcells Infinite).",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Hexcells  is a minimalistic logic puzzle very similar to classic Minesweeper. You need to find blue cells and numbers show you how many of them are nearby.   What makes Hexcells better than Minesweeper?    For one, there is no instadeath. If you make a mistake, you just keep going.    Most importantly with a little bit (and sometimes with  a lot ) of thinking you can figure out where each blue cell is located. Unlike minesweeper where sooner or later you come to a point when you have to close your eyes and guess randomly.   Music is very nice and the game itself is relaxing.   The first game is short and puzzles are easy to crack. It took me ~3 hours to perfect all 36 levels. It helps to learn mechanics of the game but it won’t last long. I recommend buying  Hexcells Complete Pack  (Hexcells, Hexcells Infinite, Hexcells Plus) because you will definitely want more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Completed the game with 100%, Loved it.  Can recommend it to people who like Puzzlegames like Nonograms (Mario's Picross) combined with a bit of Minesweeper and Sudoku.  Pick up the bundle as long as it's in a cheap deal!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A modern classic of a puzzle game let down only by short length, and lack of a level generator or level editor/workshop support. A fantastic advertisement for Hexcells Plus, and Matthew Brown's games in general.  When this started, I was thinking (as apparently everyone else does) 'updated Minesweeper, with better music and graphics.'  As more gameplay mechanics were introduced, I stopped thinking about minesweeper - this is something mch, much more intelligent and much, much more involving. It's still a game where you're deducing the position of tiles that should be left-clicked and ones that should be right-clicked, but the ways you determine which are which change as the game progresses, allowing for some intricate and elegant puzzle solving.  The new gameplay elements represent both a challenge and a tool, meaning the game feels incredibly well-balanced - you're unlikely to ever throw your hands up because something became too complicated. Rules are added as if the entire game were a complete tutorial, to the point that in the later stages, you notice the position of something at a different angle to before, and you instantly understand what this means.  All new rules are introduced with a mini-tutorial puzzle so you get the chance to try them out on the small stage before moving on to a larger-scale puzzle. You can restart and replay levels, which is great if you're like me and have the kind of fingers that left-click when you wanted them to right-click. I think I had one level where I made the same one mistake 5 times, just through being cackhanded... and it's not like I've never played any Portal game, so the blame is squarely at my feet for any frustration I experienced there. That's a nice thing about this puzzle game - it's very friendly, very calming. I complained only at myself (for having stupid fingers, or for making a dumb move), never, ever at the game.  The game looks beautiful - cool colors, minimalist layout - my only gripe is that the menu text looked a bit washed out on my screen - it took a while to be able to see the 'Quit' text - for example - and the music is excellent, accompanied by ambient chimes that play in tune with the music - if you wanted to you could turn the solving of a level into a pretty pleasing musical performance with a little practice.  Achievements are slightly bugged, in that you'll only get them (or at least I only did) the next time you start the game and continue your last save slot. And that's where the game has its biggest letdown - as I understand it, it only has 6 worlds. Not getting the achievements the first time through, made me think that perhaps each world was made up of 6 sets of puzzles, and that the numbers on the homescreen represented the first 3 worlds. Not so. I've unlocked the final world just now, and my game is registering around 2.2 hours played - and that includes leaving the game running for at least half an hour while I did something else.  There's probably 2 hours of gameplay for most people in this, which you may feel is not enough to justify whatever price is being charged. I got this via the Bundlestars Indie Capsule 2, so at most it was around $5 (if I ignored all the other games in that bundle), and I feel that was definitely worth the price.   To sum up - Hexcells is a game that seems at once familiar and modern, is challenging without being frustrating, looks good, sounds good, is good value for money, and is a satisfying gameplay experience that leaves you wanting more of the same.   Get it. It is good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As many people said: It's pretty much like Minesweeper, but(!) in a new way you wouldn't expect. It tooked the basic concept and evolved it with fresh features and a mdern interface. You never feel like playing a simple clone or an old rusty game. The Levels are preconstructed which makes u avoid the logical dead ends known from Minesweeper. But actually that's a downside too! It took me 1:30h to solve all puzzles in the game and earn every arcivement. For 5€ this would ve been way to less. I can only recommend this game because buying the double package for 2.50€ seems fair to me for this nice little puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is a puzzle game in which you can use hard logic and intuition to solve the puzzles. If all the numbers put you off, t is less mathematical it appears, focusing more on deciphering patterns. The relaxing sounds are a nice contrast to how hard your brain will work. I thoroughly enjoyed all three and highly recommend them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a lovely logic game that I would describe as a mix between Minesweeper and Picross, but, thankfully, with none of the 'guessing' that's needed in the former. It's presented very nicely with spare but pretty visuals, an ambient soundtrack, and little touches like your actions creating different sounds (so if you solve the puzzle quickly enough, it sounds like you make little songs). It's not very long or very hard (it took me ~100 minutes to finish with 99% hexes--my only mistakes being when I accidently clicked the wrong button), but it's sweet while it lasts :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple. Relaxing. Achievements are attainable. A great puzzle game to pass the time. For $2.99 its well worth the purchase.  I recommend this game.  8.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What a ridiculously good concept for a puzzle game. Seriously.  This blends the mechanics of minesweeper and nonograms (picross) into one great idea.  The fans of these types of games know who they are already; we're a small crowd. If you love the logic based solutions of minesweeper and picross you will love this. The presentation is crisp and clean and works perfectly fine. That's really all the review you need.  This feels like just the tip of the iceberg of Hexcells. It lasts just long enough to get you used to the mechanics of the puzzles and I can't wait to dig into more advanced stuff with Hexcells Plus and Infinite.  Highly recommended (for the puzzle fans out there). And hats off to the creator, Matthew Brown. What a great idea.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper + Sudoku. Definitely worth less than a dollar but there really needs to be more levels with how addicting this is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent little game for passing the time and stretching the mind. I definitely recommend both Hexcells and Hexcells Plus to anyone who enjoys a good puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like minesweeper but a ton better. And understandable. And the price of like two freddos. Which aren't even as good as they used to be. They got smaller but are still the same price. Thanks Cadbury.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game which requires only a short time to get used to, however actually playing the game fully immerses you in to almost a new world - one of hexagons (and thank the Lord that they're not super hexagons (other game reference)). Such a simple game but was created in such a beautiful and intelligent way that you thank yourself for spending the little money that it costs to play. As people say it should be worth an hour per pound/dollar that you spend, this game is worth it on those guidelines because although I've only played a few hours, it cost me 69p and I have enjoyed this game a lot more than even some £20 games.  There's beauty in simplicity",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just chill bang, init.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played through this whole thing in one sitting today (around 3 hours). I always thought Minesweeper was a better game than it was given credit for, and Hexcells improves on Minesweeper in pretty much every way. There is no guessing in Hexcells, everything is completely 100% solvable. There are also some interesting new mechanics at play, like seeing the 'mine' count for certain rows or columns, or getting information beyond just a number, like whether all the adjacent mines are touching each other or not. I was VERY pleasantly surprised at how much I enjoyed this, and I'm looking forward to trying out the other Hexcells games soon.  Side note-- the function of the left and right click are swapped from how they are in Minesweeper. If you have played a decent amount of Minesweeper, do yourself a huge favor and swap the Hexcells controls before you start playing. I didn't, and it screwed with me more than I'd care to admit.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very cool logic puzzle game. It taps into ways of thinking you wouldn't expect considering how simple the game appears. If only it was longer. And a bit more challenging. But its very cheap, so if you want more challenge, buy Hexcells Plus.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best games in history. This game just relaxes my brain, even after I exitted the game, I feel so relaxed now. No stress, no anything! If you want to get yourself or a friend something cheap in the sales, buy this, seriously!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Of all the Hexcells games, this probably my favorite. It just felt more functional but, eh I'm weird. Basically your playing a game that's Stratego and Minesweeper's step child. It can be interesting and a lot of fun, but there's always that one spot where you're not sure if it should be blue or black.  Pros: -Simpliciticaly complex :3 -Easy perfect game -Nice in game sounds  Cons: -Some puzzles will have one spot left up to chance  Overall, I'd give it a 8/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A peaceful puzzle game that blows MindSweeper out of the water. I don't usually enjoy puzzle games but this game pulled me through. It is very good for what it sets out to achieve!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ᴿ ᴱ ˅ ᴵ ᴱ ᵂ ⁞ Minesweeper 2.0  ⁵ ᶜ ᴼ ᴿ ᴱ ⁞ 2.0 out of 2.0 (would make mistakes again)  ᴵ ᶻ ᵐ o ᵣ ᵣ ....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun mentally challenging game that if you set your mind to it can be an easy perfect achivement game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good minimal puzzle game. I would recommend to buy the 'Hexcells Complete Pack' to get all three games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is a singleplayer puzzle game, in the vein of Minesweeper, except using a hexagonal grid. Tiles will contian numbers, which indicates the number of tiles which they border which need to be flagged - you mark those tiles, and logically work to clear the board. In later levels, there are other rules which apply (totals for columns, requiring the markers to be contiguous or explicitly non-contiguous, etc).  Hexcells is a rather easy game - I was able to complete it in roughly an hour and a half without difficulty. Hexcells Plus, another game by the same developer, takes what was started in this game and makes it into a much harder, more complete experience. If you're looking for a nice, simple puzzler that's similar to Minesweeper? Sure, this game will scratch that itch. It's not difficult, though. If you're looking for more of a challenge? Feel free to take a pass and go straight for Hexcells Plus.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a pretty good puzzle game, quite similar to Minesweeper. The first one in the series is not hard and pretty short. I do think it's a bit over-rated but its playable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper with music",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  9/10   - Puzzles   Achievements   - Easy to get 100% completion (around 3 hours)  This is a fun, casual, and short strategy game. It is essentially an updated minesweeper. There is no story. It is just strategic puzzles.  Buy it on sale! It only took around 3 hours for me to beat it and get 100% achievements--as a note for achievers: if you don't get a perfect score the first time (0 mistakes), just repeat the level until you do. This way it isn't confusing later going back to try for the 'perfectionist' achievement because the game doesn't keep track of what levels have mistakes or not!  It also gets frustrating a few times when you have to make guesses over what few left over hexagons to click (luckily, this doesn't happen often) which makes the game a memory game as well if you want to get a perfect score. You can also just screen shot it for quick reference. :]  Updated for formatting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper fans? Buy this instantly! Next-gen minesweeper :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is like a much better version of minesweeper. Really great puzzles and it's a lot of fun. Doens't take too long to get through the whole thing. If you enjoy puzzles, play it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely logic-based puzzle game that is essentialy Minesweeper meets Picross (but much better than that sounds). It took me a couple of hours to play through but had me completely transfixed the whole time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The time I spent was absolutely worth it... and I think Steam didn't count all my time. The idea is simple, and you can just stop playing at any moment... but you won't want to. The art is minimal... and that charms. The money... hey, that's just a bunch of coins, even not during the sales.  Relax and train the brain at the same time.  And it supports Win/Mac/Linux!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game. Similar to minesweeper. Simple and fun, but can get tricky near the end.   I just wish there was an option to change which mouse button performed which action. I do like to play minesweeper, so I kept wanting to uncover the numbers with the left mouse button, causing me to make mistakes :/ You get used to it, but it would have been easier to be able to just switch it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Took around 5 hrs to 100%. Good difficulty curve. Grab the whole series on sale if you're into puzzle games at all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't understand all the rather tame reviews...  BEST PUZZLER EVER! Buy it and buy the sequels, you won't regret it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really don't understand the appeal.   In this game, like minesweeper, you have to find the 'mines' with the number of adjacent mines of one tile. The difference are that few levels of Hexcell aren't randomly generated and more complex mechanics are introduced as you go on.   The first problem I have with this game is that it does not let you fail. Rather than failing a level for hitting a 'mine', it only count your mistake. It sound like a good thing, but it simply inadvertently spoils the game. I admit that I don't know what could be done to fix this, but nevertheless its the equivalent to trying to solve a math problem with the answer in front of you. You might do your best not to look, you still end up figuring something that you wouldn't have normally.  The second problem is related to the few inconsistencies of the game. It's a minor issue, but sometimes, it seems that the game take liberties with its own rules (or simply doesn't set them). For example;  Two mines in a row of four tiles are said to be next to each other? Turn out that 'next to each other' still count when the row is separated by a huge white space.   symbols like '--' indicate that mines aren't next to each other? It only mean that at least one mine is not connected to the others.  etc.  Like a said, this is a minor issue, but combined with a very short unpunishing game, it doesn't leave you anything worthwhile. I can't recommend this game when other interesting puzzle games are available for the same price.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game starts as an hexagonal level based puzzle version of mine sweeper, and it evolves into a mixture of mine sweeper and Picross.  It's a rather short game, but the puzzles are interesting and the game keeps bulding upon it's mechanics so it's varied despite not having many levels.  Recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting take on a Minesweeper-like game. Wish there were more levels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I finished it too fast...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells and Hexcells Plus is one of the best puzzlers I've ever played. My wife and I loved this game to no end and we just can't wait for more content, it's insanely addictive :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this because I loved Everyday Genius: Square Logic, and it looked similar. The game is beautiful and music is relaxing and great to listen too. My biggest gripe is how short the game is. I bought this and in less than 2 hours I was complete and had perfect on every level. It's a fun little game but it should be a 99 cent app, not a full fledged game. Perhaps some more complex levels or new ways of doing things could help, but as is, I'd rate this a 5/10.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It IS an abstract puzzle, like minesweeper or sudoku or something like that, and it has a nice atmospheric sound and visuals to go along with it, but that's all it really is, honestly. It feels really insubstantial. Simply adding more levels isn't what I want, either. Nor is adding more mechanics. I just think it's hard to make an abstract puzzle game feel as fun as some of the other games out there. It took me 2-3 hours to 100% and I didn't really end it feeling like I was glad I played it.   Plus, the music loop starts to get annoying after awhile. It's too short, plays too often, and isn't mixed in with other tracks.   And the core gameplay loop is pretty much just - reveal the obvious stuff, then hunt around for the next thing you can reveal. That's not that fun to me compared to what you do in other games. It's not the lack of action or anything - I'm fine with slow-paced, turn-based, or other puzzle games. It's just the lack of problem solving - this game is all deduction and very little intuition. I like working with and experimenting with a hard problem and going over it in my head and trying different avenues of solutions and trying to come up with observations and rules and constraints that I can use to simplify the problem. You can find that core gameplay loop in lots of excellent puzzle games, but you won't find it here.  If you like minesweeper or sudoku you should definitely give this a try. Otherwise, even if you're a huge fan of puzzle games like me, I'd probably avoid this. You're not going to find that problem-solving engagement and stimulation here, unlike what you'd find in lots of other puzzle games. There's no experimenting, discovery, or anything like that. It's just 'oh here's the next spot for which I can prove its contents' and 'hmm, where's the next one?'.  As a counterexample, an abstract puzzle game I DID enjoy was Splice (you might argue that it's not TRULY abstract since it uses a sort of biological metaphor, but I think of it as one). That game has plenty of that 'problem solving high' you get as you experiment and observe and work through a complex problem.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game plays very much like Minesweeper, as in every hexagon tells you how many of surrounding tiles you have to 'find'. There is a fixed number of increasingly difficult puzzles but once you got the hang of it, net one is really challanging. According to Steam, I completed the game (with all achievements) within 3 h -- including the time I let it run over family dinner.  A big downside is the lack of a random level generator, which is the reason I cannot give this game a full recommendation -- even though I find it generally more enjoyable than the Windows counterpart (and its Linux clones.)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Starts simple, gets frustratingly hard in world 5 and 6. 10/10 great atmosphere and gameplay. One of the best plain strategic, yet challenging games I have ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cool game, but really hard. I can't do the first first world perfectly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "★★★★☆ Minesweeper++; check Hexcells Plus for challenge",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent puzzler, the only problem being that it's relatively short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good concept, but way too few levels a random generator or something like that would be nice",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game series is just so awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "From what I've tried, Hexcells is a more elaborate version of Minesweeper. I've finished Squarecells from the same developer, and this game shares the same issues with the scoring system. It docks a star (out of 3) each time you make a mistake. So 1) you now know the correct answer and 2) you're penalised for misclicking. I found this really frustrating, especially without a '?' flag. It hurt the experience for me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's only two dollars and is a pretty addictive game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Paid 10p, got 10 hours. Worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper 2.0 With the premade puzzles there can be certainty that you don't have to guess to solve puzzles (although there were a few times I had to guess anyways). Overall if you like minesweeper this is a pretty fun little pick up, but if you're good at solving puzzles then it won't last terribly long",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have no idea what I am doing. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You know that one time in minesweeper when you just have to take a 50/50 guess well guess what this game is pretty much nothing but that and then you just click all the little hexs until the board is done  0/10 wont play again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Beautifully made game of excellent value. Just the right length for this style of puzzle and level of difficulty. Highly recommended, particularly if you want something like Minsweeper, but more of a puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun little game, but a bit too short. I'm hoping Hexcells Plus or Hexcells Infinite will provide more of a challenge.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper for the 21st century. It isn't GotY or anything, but it is a solid little puzzle game. Might not be worth full price, but definitely worth the dollar you'll expect to pay when it is on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple yet challenging at times. A worthy casual puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I see hexagons everytime I close my eyes.  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Everyone should own this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting new take on the classic game of minesweeper. only really becomes challenging once you play the Hexcells drinking game in which you take a shot every time you make a mistake.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great puzzle game, effectively a hex-based Minesweeper with some Picross/nanogram elements added in. The soundtrack is amazing, when marking/clearing spaces the sounds it makes blends beautifully with the music.  By far the worst aspects of this game is its difficulty and its length. The puzzles are fairly easy and as such you should be able to full clear the game in 2-2.5hrs.  I suggest buying Hexcells Plus as well, it contains more puzzles that are both larger and more difficult than the first game and will take 7-8hrs to complete 100%.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a pretty neat puzzler that borrows mechanics from Minesweeper and Picross to make something that eventually feels like neither of them. Minesweeper players will be pleased to hear that all of the puzzles can be solved without any guesswork, but may be annoyed that 'mark' and 'uncover' are on the opposite mouse buttons to what players are used to (and can't be changed). The game takes a tad too long to get challenging, and is over a little too soon when it does, but I don't feel short-changed from the 67 pence sale price. I'll be looking to get the sequels on sale at some point in the future.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cute game. Reminded me of minesweeper right off the bat-with a slight twist.   It was VERY short at only 6 levels. I'd have enjoyed a larger repertoire or a 'create your own' but for the sale price at a dollar you can't expect much. Spent maybe 3 hours max goofing off, though, and it'd be good to offer to a kid to play :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "NerdCubed made a video about this game, and after watching him fly though it I though I'd give it a go. 4 and 1/2 hours later I beat the game, and got all 6 achievements. This game is worth more than the 3 dollors you'll spend for it, so I suggest you get the Hexcells Complete Pack, and enjoy the rage inducing, mind exploding game call Hexcells.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is short, but clever. Basically an upgraded minesweeper. Worth the three bucks - or the $1 if you grab it on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really wonderful, elegant and satisfying puzzle game- completely logical and hard enough to get the brain cells working, but not punishingly difficult, and the general 'feel' of the game and flow of completing puzzles (particularly the excellent way the sound effects mesh with the excellent music) is extremely satisfying.   It owes a fair amount to Minesweeper and to Picross but combines both influences in a way which makes it a unique experience.  The only slightly baffling thing is the lack of a mobile version really- I would absolutely love to play this on the go.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are a fan of games like minesweeper, sudoku, or many of the other math and logic games of the world, then yes this is a great game for you. Those who struggle with the concept can play as well since unlike in minesweeper if you screwup you don't have to start all over again. I've also been playing the PLUS version and would recomend starting with this one as the difficulty dose seem to increse from game to game. Overall a great game for those who love number logic games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game (reminds me minesweeper), but it's really short! Finished in ~3 hours",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Goes beyond ordinary minesweeper. It adds layers of parameters to reason through the puzzles while the ambient music lets you chill out and focus. Plus, my girlfriend has the biggest ladyboner for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A quick and challenging puzzle game. Picked up for $0.89. Would've paid $5.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros: Great unique casual puzzle game (feels like a mixture between picross and minesweeper) Easy achievements Decent ambient music  Cons: No replay value Too short ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice casual puzzle game. A step up from minesweeper. All puzzles can be logically deduced, so it's nice to not get into a situation where you have to guess. Took only about 2hrs to 100% the game including achievements, so worth picking up in the sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pro     nice ambient music     good puzzle design   contra     short playtime (get it on sale)   tl;dr: buy if you want a relaxing puzzle game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for its price. Relaxing yet mind-challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you have ever played minesweeper and liked it then this game is for you. For this ridiculous price you can have entertaining evening for many hours with a upgraded minesweeper puzzles. It's also a family friendly because there is no dangerous bombs like in original minesweeper!  After you have finished this one you will be heading back to steam store to get next sequel 'Hexcells plus.' Or least that's what I'm going to do. I heard it's harder but that's why you should play this one first through!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A bit too easy and the only thing that got me away from the perfect on first try is that controls are a really big mess.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this game really makes your brain work, a little boring but good for long car trips",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An elegant design. Once the game logic clicked I found it impossible to put down until I had finished.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome, relaxing puzzler. Looking forward to the next in the series. Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Insanely addictive, reasonably challenging puzzle game that's given me hours upon hours of entertainment. Very reminiscent of Minesweeper, but without the oft infuriating instant failure state. Wonderful game and well worth the price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥ me this is hard.  A very small handful of puzzles have a luck element for the very last cell, which is annoying but not a huge dealbreaker.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very enjoyable little puzzle game. I got 100% in 2 hours, but they were an enjoyable two hours.  A little short however, and would have liked more levels in the base game, *note that there is also 'Hexcells Infinite' &amp; 'Hexcells Plus'*   For a cheap price it is definitely worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Basically minesweeper but more intuitive and two more sides. This game is exactly what it presents itself to be, making it a good cheap buy to enjoy for and hour or more. I enjoyed it, but near the end and throughout the plus, I must have missed something because the ? cells caused me no end of guess work, the lousiest part of minsweeper and no change here. I am happy to say that this game is a wonderful puzzle and that anyone should be happy to play it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a simple, but enjoyable game. The game progresses logically, expanding the complexity while keeping you abreast of every new mechanic. It is the ideal puzzle game. Although it is rather short, it is definitely worth what you pay for it. Perfect as a relaxer to calm down after more intense gaming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is a supefun puzzle game which Minesweeper players will really enjoy!  It's sort of like an inverse Minesweeper, with additional aspects to the puzzles. I completed the game fully and had a fantastic time, and quickly bought the sequel and completed that too. It took me 3 hours to complete the game fully, and would be a nice addition to those looking to improve their Perfect Games statistic on Steam!  A wonderful title, definitely recommended!  Nilesy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun little minesweeper. Quite short, but, reasonable if on sale",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minecraft + Sudoku = HEXCELL!!!! (DBZ fusion style)   *crowd cheer*  Ps. Seriously, it's a good puzzle game. Get the expansions, they're much, much harder than this original (the developers definitely pushed themselves harder).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Challenging, inspirational, suitable for high school teens for brain training-up. Could be better when equipped with mistake-mark-deduction and timer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An enjoyable puzzle game that combines some of the best elements of other similar style games like Picross where it expects you to be able to piece together the correct answer out of the hints given. One mistake is forgivable when attempting to max score a level, but 2 mistakes starts taking points away giving just enough leeway to take an educated guess when faced with difficult decisions.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like a much better version of minesweeper: it provides *just* enough information to solve a level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great number logic puzzle. At its core, it's a hex-grid Minesweeper, but with more varied ways of giving you clues. The initial release Hexcells' puzzles are much too easy, but the subsequent releases Hexcells Plus and Hexcells Infinite have much more suitably challenging puzzles. Highly recommended for those who enjoy good number logic puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's elegant. It's fun to play. I love the ambient atmosphere with which the game pulls you in and makes you focus.  But then there's the disappointing realization that after 3 hours it's all over. Every achievement conquered. Every puzzle finished. 100% score. That was a serious downer that makes me doubt whether to give thumbs up or down.  In the end the low price of 3 euros makes it a thumb up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice mine sweeper-like game. But it's too short and easy. The only reason I took 2 hours is because I misclicked and had to restart a level a few times because I wanted the 'perfectionist' achievement. Assuming Hexcells Plus and Infinite are more difficult , play those instead.  I don't recommend you to buy this one alone.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "When I was first playing this I was disenchanted, thinking what the heck, I'm playing a Minesweeper copy. But as I further progressed, I saw the beauty in Hexcells. It combined Sudoku, and even Nanograms and other puzzles, all together into something unique, and in multiple different ways. If you know these puzzles, you'll appreciate the ingenuity put in Hexcells.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a relaxing puzzle game. The music is soothing. I've beaten the whole game several times, but I enjoy starting over and playing again. It's kind of like Minesweeper, but it has added elements that make it way better.  One thing I appreciate is that there is no guesswork or random clicking needed. You should be able to solve each puzzle with the clues provided.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great puzzle game, tons of fun, for a ridiculous price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A decent little logic puzzler, well worth the usual sale price under a dollar.  Special note: I almost didn't get this, because the description makes it sound like Minesweeper on a hexagonal grid. While there is some passing similarity, the game play is richer and more interesting than Minesweeper, and it doesn't force you into guessing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relaxing, 'must finish' and 'just another one to go' puzzler.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A simply great puzzle game for the logically minded. Well made with a good increase in difficulty with each stage. Loved it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun to play. Delightful sounds. It's similar to minesweeper, but not exactly the same. Better. Very recommended to kill time. The only con is that the game is short, but it's worth the price. 10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dear Developer, first off f*** you for designing this really elegant iteration of Minesweeper. I had ideas for years on how to improve Minesweeper to make it less punishing and more fun for casual players. You managed to improve on every aspect of this really frustrating classic. You stole my ideas ;(  Everbody who has any fleeting interest in Minesweeper like games, should play this. It's perfect for what it is:   Elegant, easy to get into, but not that hard to master and the best aspect is there is no randomness. If you mess up, it's totally your own fault. There are no frustrating 50/50 situations in corners like in Minesweeper, where you lose all motivation if you f***** up. You get a small penalty for messing up but it isn't ruining your day like in Minesweeper.  Puzzle Design is also top notch. Especially the difficulty progression is perfect. All gameplay elements are easy to understand and are well implemented into the puzzle design. There are no unfair difficulty spikes. Again, ELEGANT as f***. Heck, my father understood this game from the get-go.  The User Interface is also for a lack of a better word, ELEGANT. Every element is perfectly simple and easy to understand.  The Music is also perfect for this. It's relaxing and helps you to concentrate to solve the puzzles. Nothing fancy but perfectly fitting.  I almost forgot the best aspect: IT'S CHEAP. Even without discounts it's only 2,99. I played it for about 6 hours and it's totally worth it.  TL;DR Hexcells should be the superlative of elegant. It's the best puzzle game ever. Buy and play it. Buy it again for your parents and friends.  Best regards D3adalus  P.S. I forgive you for stealing my ideas. Hexcells is way better than my imaginary game anyways :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Way better minesweeper",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A super fun and addictive puzzle game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic logic puzzle of the picross and slitherlink sort. Finding the beginning of a figurative very transparent roll of sticky tape has never been so much fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the most brilliant puzzle games I have ever had the pleasure of playing. Through the joy of completing a puzzle with no mistakes or the frustration of realizing you just made a stupid one, you'll love this game from begining to end.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is incredibly addictive. I finished this game and instantly bought Hexcells Plus. Every puzzle is possible, and the tools you use to figure them out evolve without adding in new mechanics, just really clever hints and requirements built into the puzzle. Cannot get enough.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very enjoyable puzzle game! Not really worth replaying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The love child of Minesweeper and Picross, Hexcells is spectacular. If you like puzzle mapping games, give it a try. You won't be disappointed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is basically minesweeper with hexagons instead of squares. Unfortunately the puzzles aren't randomized and this makes the game short. It is a nice change of pace if you liked minesweeper but are tired off it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great little puzzle game with relaxing music. It took me about 2 hours to complete at 100% but it's definitely worth the money. It's basically minesweeper excepty that you can finish the entire thing by thinking logically.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a pretty solid puzzle game. I was incredibly excited when I first saw the concept of the game (though it is essentially a much improved version of minesweeper). I really liked the gameplay! Although the one bone I would have to pick with it is how short the game actually is. I hope in the next installment of the game there will be an option to play randomly generated games. Other than that though, no other issues!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fun game which keeps you occupied for a couple of hours. Just a casual indie game, not too deep. Really liked it, really addictive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely little game. Gets you thinking, if you need an educational game, this is the game u want.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game beat it in a few hours will worth its very puzzling definatly recommend  PS: never guess ...............ever ...............ya never guess just trust me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fun puzzle game for when u need to kill some spare time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really good puzzle game, it has taken me an hour so far to do, and i have to more rings to go, ahould probably take around anoter half hour, so for the £0.69 price tag i would reconmend to pick this up.  i wilkl then have more time afterwards because i will go through and perfect every level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper and sudoku and any other ingenius logic deduction puzzler just came together and had glorious sex. Hexcells is by far and away the best puzzler I've played in a long time, including portal one and two. Just when you think you've understood all the mechanics, bam, there's a new and clever way of giving you hints. Highly recommended if you want to do some brain excercise. Brilliant.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Logic Puzzles.   Pros The idea is fantastic. The game is easy to learn, In fact, it's a LOT like minesweeper without actually being minesweeper. It's much better in my opinion. The graphics are minimalist, which emphasize the clean logic of the game. The music is calm and relaxing.  Cons It's short. I finished all the puzzles in 2.5 hours. The logic only goes so far. For a casual gamer this is probably a plus. You don't have to derive clues from more than 2 orders. But a few of the later puzzles will make you do a lot of 2nd order deductions. But just when it was getting really, really good..it ended *pouty face* Not much for replay value. You can play the puzzles again. But you should probably let the game accumulate some dust and come back to it in a year, then it will probably be fun all over again.  Summary It's fun. I really like it, but it's just so short!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this and the Plus version, can't wait to try it. This is just like Minesweeper and alot of fun. I would recomend this to anyone who likes puzzles or Minesweeper.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent twist on Minesweeper. Great music.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty relaxed and fun game. Realistically only has a couple of hours of play in it but good fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Buy all three games. This is the most relaxing puzzle game ever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Neat puzzle game like minesweeper. Fun game if you like puzzle games, though it suffers from a few UI issues like having to exit a puzzle compeltely to restart it. Other than that really well done.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the multidirectionality of Hexcells: solving a single cell can affect three lines of cells, as well as the set of surrounding cells. At first, it felt much like a hexagonal version of Minesweeper. When the lines were added, I was reminded of nonograms / paint-by-numbers puzzles. Then, as the puzzles continued, my mind became so occupied with the intersecting logic that I stopped trying to compare it to other games at all.   It may be worth skipping this and going directly to Hexcells Plus. First, if you get easily addicted to logic puzzles, Hexcells Plus will keep you thinking for much, much longer. Second, Hexcells Plus' difficulty ramps up slowly and consistently, never adding more than a few techniques at a time. The puzzle difficulty from the original Hexcells increases smoothly at first, but jumps dramatically in the second half. It's a great challenge, but also changes the rhythm of play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper meets Picross. 2 solid hours of gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As an avid fan of both, Picross and Minesweeper, this game was like heaven. It's a bit short and only the last few levels are at all challenging, but it is lots of fun and definitely worth $3 and a couple of hours.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a fan of some casual Minesweeper play, this title was immediately alluring to me. Every single puzzle, despite what others may tell you, are totally solve-able without a single guess. I'm usually not very into puzzle games, but this one was a lot of fun for me. I look forward to getting the sequels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great puzzle game. Starts like Minesweeper but gradually adds more and more elements to become something unique.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent puzzle game that plays like a cross between Minesweeper and a little sudoku. I'd easily recommend picking this up on sale, as it is short, and the last level is a disappointment, but it's a vrey satisfying experience.   Completed 100% in just about two and half hours.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweepers meets Sudoku, really good to flex the old grey cells! Not badly priced either!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Once you start you will not stop. Like mine sweeper, but unique and always winnable without guessing. It works well with the touch screen, if not unforgiving (probably not the best while traveling). Did you know you can toggle guide lines and areas on and off?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "More of an introduction to the ideas of the series, but its easy difficulty and ambient music are incredibly relaxing.  Mindfullness Minesweeper.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can actually feel the physical effect of my limited brain capacity processing when I play this game, it's very good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is the first of its trilogy.   It's the perfect game for true logic and deduction lovers. It gently introduces you to the concepts of the game as they become relevant. It provides simplistic, peaceful and relaxing music and graphics. A great game to play when you have a tough decision to settle.     Verdict",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lush. An experience you deserve. A great additional to the puzzle genre, very polished. Fairly short though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You will quickly pick up on the rules and have a hard time to stop playing. It will not ruin your life, as it is relatively short. Maybe too short. If you do not mind paying to solve (only) 30 puzzles, you cannot go wrong with Hexcells! If you want replayability, a huge number of puzzles, get Hexcells Infinite instead.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Miss Click Simulator 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very relaxing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game, one of the best puzzle games I ever played. That said, I've beat it in under 3 hours for 100% completion. The same developer has an even better, longer and yet cheaper puzzle game — SquareCells. Beat it first, then come back here when you crave for more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A deeply satisfying game that'll send you into a Zen-like trance with its brain teasing logic-based puzzles, pleasing visuals and a soothing ambient soundtrack. It looks a little bit like Hexic, plays a little bit like minesweeper and it's pretty much impossible to put down. Worth every penny for the few hours you'll get out of it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun puzzle game with clean graphics (nice straight lines, simple colors against a white background, etc) and calming music. It progresses in difficulty and forces you to use logic and deducing. I really enjoyed it because it was so relaxed and calming. I would recommend this for puzzle and number enthusiasts and casual gamers alike.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Note: This review is for both Hexcells, Hexcells Plus and Hexcells Infinite, because they're basically a single game divided in three parts.  The Hexcell games are a series of brilliant crafted puzzles that at first glance may seem like a six-sided minesweeper, but the logic used to solve them is closer to sudoku. As you progress through the levels, you are also introduced to some new mechanics accompained by a tutorial level to make sure that you understand them. Because the puzzles are carefully and wonderfully designed, you never have to guess your next move, but finding it gets hard in the later puzzles. The interface is clean and the sound effects are cool. Hexcells is easy, Hexcells Plus gets harder in the second half and Hexcells Infinite steps back a little at the beginning, but in the end offers the most challenging puzzles. It also comes with a seed-based puzzle generator, adding 999,999,999 additional puzzles (even if they aren't hand crafted, they're still good). My recommendation is that you get and play all three games in order, but if you can only pick one, pick Hexcells Infinite, it's main levels difficulty is nicely spread not to mention the puzzle generator.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice game! Might seem boring, but when you understand the logic it becomes challenging!  Excellent ce jeu! Il peut avoir l'air ennuyant mais quand on comprend vraiment il faut reflechir.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like minesweeper but so much worse",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you love Nintendo Picross, Then this is the game for you,  If you enjoy puzzles and the feeling of completing a puzzle with no mistakes this game is quite enjoyable. Bought it during the sale  A Bundle which included Hexcell, Hexcell Plus and Hexcell Infinite for RM6.2,  Normally this game alone goes for RM8  Completed the game in 2.8 hours,",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Similar to mine sweeper game. Short game but enjoyed it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Superb game if you enjoy puzzles. I've beaten all three and hope the dev continues this series. The puzzles make you think, but not  too  hard which makes them fantastic for relaxing. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finally managed to blitz it. A game to play in idle minutes and it gives the brain a good work out. Recomended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sudoku and Minesweeper combined in a great game. Doesn't take that long to complete, but entering the flow of solving the puzzles feels completely natural. Very well designed and highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great twist on the minesweeper type logic game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice and relaxing puzzle game, music is all right and it makes you want to just play one more game and perfect every puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's  Minesweeper   combined  with  Nonograms  (or Griddlers if you will) !  Very recommended for people who like these sort of puzzle games. Tons of fun for those who like to think and challenge themselves,  *NOTE* If you plan on buying this game, I suggest on buying the complete pack for it because it will save you some money and you'll have all 3 games instead of buying them seperately.  10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(06/10) - Good  I played the PLUS version first, which was a horrible mistake. If you didn´t play thatone already, you should really get this (and the PLUS version) no matter what. Here, the puzzles are quite easy (only took me 53 minutes to beat every level) but it is a nice warmup for the way better PLUS version.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple, logic and addictive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this at a Steam sale. If you are thinking of getting it then go for Hexcells Infinite. It's the same as normal Hexcells, but there is an infinte amount of puzzles. Regular Hexcells has a limit. Still, it is very engaging and I do recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a frustratingly fantastic puzzle game at an unbeatable price, if a little short. Matthew Brown's small bundle of puzzles are all satisfying to solve, a feeling made even more apparent when Brown delivers on his promise that each puzzle can be solved without taking any guesses.  Hexcells is a wonderful introduction to the trilogy, and I highly recommend that anyone with even a vague fascination with puzzles take a shot at it - it's $2.99 god damn it, and well worth it.  If you've got the $8.99, you might as well buy the whole Hexcells Trilogy instead - I guarantee that stopping at Hexcells won't be enough.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of those little puzzle gems that make me love being a gamer. Great for short burst gaming. Lovely soundtrack and you know that every time it goes wrong it is your own fault and you will never make that mistake again (believe me you will :-) ). ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Superbly soothing minesweeper like tingie, but much better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game. Hard, but not totally unforgiving. I spent a lot of time chilling to the soundtrack and making those little blue hexagons appear. I felt like a math genius whenever I figured out where the next one had to be, and a math dumbass whenever I made a mistake. Any game that makes you place the blame solidly on yourself for screwing up instead of on it for being buggy is a good one in my book.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very highly recoommended for any puzzle fan.  Only downside I could find in this game is that it maybe could have more content. If you like puzzles, you'll very probably finish this one in one sitting - it took me about an hour an a half to finish all the levels, plus another 10 minutes or so to go back and perfect my mistakes. That being said, it serves very well as an introduction to the series. I got this one on sale and now I'll probably buy the other ones too. All in all, it's very nice to play. Very simple concept, comfortable difficulty curve, well-built levels. The music is also quite good, with your moves participating in the sonic environment.  Again, very much recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nice relaxing puzzle. Very reminiscent of minesweeper, and additional elements added later on also reminded me of Picross. I completed the game on a lazy Saturday and it gave me enough challenge that it didn't feel like a breeze. Additionally, it never vexed me by being too difficult or requiring me to know the intricacies of how everything worked (those hidden rules you find after doing a puzzle for a long time).   If there's one thing to note, it's that the 'Perfectionist' achievement does NOT require you to get 0 mistakes on all levels, just to get all of those hexagonal 'points'. This is good, because there's several levels where I got 1 honest mistake and it didn't deduct anything.  The game also punishes random 'spam n' solve' play by making it impossible to unlock later levels without X number of aforementioned hexagonal points. Why you would do that anyway is beyond me.  My only critique of the game is a lack of puzzles with all the elements added. Initially, the game starts off by showing you the base points, then shows you that lines and columns can have numbers too, and then shows you how to toggle everything; and suddenly, you're two-thirds of the way through the puzzles. Just a minor gripe, but getting Hexcells Plus &amp; Infinite solves that problem nicely.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "YO whats up its ya boi SHAMAR '♥♥♥♥NUTS' Thomas here comin at you with a review of the game Hexcells by who the ♥♥♥♥ knows.  I got this ♥♥♥♥ing hip ♥♥♥ game from the lovely hosts Frank 'Jonny Fairplay' Lastname and Grant 'Host Austin' Other Lastname thanks to their smash game SURVIVOR: PURE JAMAICA (remember tails never fails).   I, Shamar, give this game a rating of 4.5 Thumps ub out of the 5 thumps.  The game is super duper well made and carefully crafted, only the touch of Gods with such beautiful, elegant artisanal hands such the mighty and loving Boob Ernis could create such a game as this.  The downside to this game? It's SHORT, shorter than my gray matter if it was laid across a beach.  So all in all, I give this game a rating of STAY VORACIOUS.  Stay voracious",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's Minesweeper with a better art style and a brain-meltingly awesome soundtrack. What's not to love?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's an extremely well designed blend of Sudoku and Minesweeper that you can play for five minutes or two hours. If you like those two games then this will be worth the cost for you.  The difficult ramps up at a perfect pace to teach you the game as you go along. As soon as you master one challenge you'll be introduced to another and the all skills you learn previously will always remain relevant  I wish it had a quick restart button and the ability to remap the controls",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very relaxing, well designed puzzle game, similar to Picross. Can't remember if I got this in a bundle or not, but that's regardless! If you enjoy challenging yourself to think outside the box (Hexcell) this game is brilliant at doing so.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minesweeper which is peaceful . NO TERRORISTS here .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hexcells is a logic lovers paradise. If you think spock is the man...play this ♥♥♥♥. I only wish there were more levels. It was peaceful and good exercise for the ole noggin. It's basically minesweeper mixed with Sudoku. It's Sudosweeper.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  The best puzzler I'ver ever played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's relatively simple but what it lacks in complexity it makes up for with satisfying logical puzzles that combined with an interactive ambient soundtrack is a great way to wind down the evening. My one downside is the fact that you have to go back and near perfect older puzzles to unlock new ones and personally I don't think that is good game design.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun and enjoyable couple of hours. The game plays a lot like minesweeper and is extreamly calming. The game consists of 30 different levels and each offers a unique experiance and challenge. If you enjoy puzzle games give this game a shot, well worth the $3.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cross-posted on all 3 games ----------------------------- Save yourself 3$, buy the complete pack.  I spent a week going through this series, and it's done my heart good. Brilliant puzzles. Several times I was convinced that a particular puzzle would come down to guessing. I was wrong. There's always a way.  I'm especially impressed with the random puzzle generator in the last game. They're not as ingenius as the hand-crafted ones, but I won't have to wait for that 4th game that will never come. Still haven't run into an unsolvable puzzle.  I nominated this for a Steam Award in the 'makes you think' category. Just reiterating: this is good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really fun thinking game that kept me up later than I would like to admit.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing hexagonal minesweeper! Makes you want to play the sequels, and they are good.  Just the right length, maybe a little too short. Great for achievement hunting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best puzzle games on Steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great little game I picked up for less than $1 in the steam sale.  Yes it is like Minesweeper, but it makes you think and it gets harder as you progress, and I love the fact it keeps track of your mistakes so it isn't just a non thinkling clickfest.  High recommend this game and the other two follow up games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/10  Great puzzle solving game, similar to minesweeper. Buy it during a sale as it is a very short game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Edit: I came back to this game again later, and had a much better time with it. I think part of my problem is that I've played way too much minesweeper, which is timed. This isn't a puzzle game to rush, so much. Once I slowed down and paid attention, it was pretty fun.  It looks pretty and sounds pretty, but the actual gameplay is frustrating. I kept running into situations where the puzzle just wasn't giving me enough information to continue without guessing--which is penalized. This could have been avoided with better level design, but as it is, I was just not having fun.",
+            "review_score": "1"
+        }
+    ]
+}

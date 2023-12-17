@@ -1,0 +1,42 @@
+{
+    "app_id": 737930,
+    "name": "Online Circle Pong",
+    "release_date": "2018-01-11",
+    "developer": [
+        "Vladimir Alekseev"
+    ],
+    "publisher": [
+        "Vladimir Alekseev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Indie",
+        "Massively Multiplayer",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "It's like a ping-pong, but in circle! It's like a ping-pong, but online! It's like a ping-pong, but up to 15 players at same match!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/737930/header.jpg?t=1516859981",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo Memory: 2048 MB RAM Graphics: Radeon R7 series with 1Gb memory DirectX: Version 9.0c Network: Broadband Internet connection Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core I7 4790 Memory: 8096 MB RAM Graphics: Radeon R9 series with 2Gb memory DirectX: Version 12 Network: Broadband Internet connection Storage: 400 MB available space",
+    "reviews": []
+}

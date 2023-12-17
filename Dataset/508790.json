@@ -1,0 +1,45 @@
+{
+    "app_id": 508790,
+    "name": "Flat Heroes",
+    "release_date": "2016-09-08",
+    "developer": [
+        "Parallel Circles"
+    ],
+    "publisher": [
+        "Parallel Circles",
+        "Deck13"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 44,
+    "positive_ratings": 282,
+    "negative_ratings": 28,
+    "price": 5.99,
+    "description": "Flat Heroes encourages you to stylishly navigate and survive over 300 handcrafted levels, destroy the most epic bosses around and truly be the two-dimensional hero (or heroes!) you’ve always dreamed you could be.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/508790/header.jpg?t=1533284869",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: 2Ghz Memory: 4 GB RAM DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

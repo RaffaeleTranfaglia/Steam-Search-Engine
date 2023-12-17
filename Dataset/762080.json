@@ -1,0 +1,43 @@
+{
+    "app_id": 762080,
+    "name": "Galactic Force",
+    "release_date": "2018-11-16",
+    "developer": [
+        "FreezeNova"
+    ],
+    "publisher": [
+        "FreezeNova"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "FPS"
+    ],
+    "achievements": 10,
+    "positive_ratings": 37,
+    "negative_ratings": 19,
+    "price": 0.79,
+    "description": "Galactic Force is a sci-fi FPS loaded with frantic action and lots of firepower.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/762080/header.jpg?t=1554191005",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E6600/AMD Phenom X3 8750 Memory: 2 GB RAM Graphics: GeForce GTX 260/Radeon HD 4870 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 568400,
+    "name": "Depths of Limbo",
+    "release_date": "2017-02-01",
+    "developer": [
+        "Evgiz"
+    ],
+    "publisher": [
+        "Evgiz"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 27,
+    "negative_ratings": 10,
+    "price": 5.19,
+    "description": "Depths of Limbo is a difficult action roguelike with a dark theme. The fast-paced combat is spiced up with a variety of unique items and weapons found throughout the procedurally generated world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/568400/header.jpg?t=1486479744",
+    "minimum_requirements": "OS: Windows Vista or newer Processor: CPU should be no more than 4 years old Memory: 4 GB RAM Graphics: Dedicated GPU recommended Storage: 25 MB available space Additional Notes: Potentional FPS drop on old laptops with integrated graphics",
+    "recommended_requirements": null,
+    "reviews": []
+}

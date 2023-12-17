@@ -1,0 +1,38 @@
+{
+    "app_id": 972940,
+    "name": "stepbystep",
+    "release_date": "2018-11-22",
+    "developer": [
+        "Evgeny Petrov"
+    ],
+    "publisher": [
+        "Not a Prototype games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "stepbystep is a minimalistic programming puzzle platformer with experimental turn-based mechanics where you must write a command sequence to complete the levels that will be run automatically.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/972940/header.jpg?t=1542902618",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Ivy Bridge or better Memory: 512 MB RAM Graphics: HD Graphics 4000 or better Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Intel Ivy Bridge or better Memory: 512 MB RAM Graphics: HD Graphics 4000 or better Storage: 100 MB available space",
+    "reviews": []
+}

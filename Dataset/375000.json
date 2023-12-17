@@ -1,0 +1,46 @@
+{
+    "app_id": 375000,
+    "name": "Icarus-X: Tides of Fire",
+    "release_date": "2015-06-24",
+    "developer": [
+        "The Quadsphere"
+    ],
+    "publisher": [
+        "The Quadsphere"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 47,
+    "positive_ratings": 7,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Blast your way through waves of enemies and bullets and defeat massive boss ships in this fast-paced vertical Shoot'em Up with a traditional Arcade Mode and an experimental Campaign Mode that borrows from the mechanics of ARPGs such as Diablo and Borderlands.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375000/header.jpg?t=1447375515",
+    "minimum_requirements": "OS: Windows 8/7/Vista/XP SP3 Processor: 1.7 GHz Processor or better Memory: 1 GB RAM Graphics: OpenGL 2.1 compatible dedicated graphic card with 512MB memory DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "When I first booted this up and I saw the auto-fire kick on, I figured this shmup wouldn't keep my attention long, but I've been pleasantly surprised. Some elegant RPG progression elements needed to advanced past challenging (but not impossible shmup-like) levels has kept me coming back for more. A decent varity of common and boss enemies, weapons, shields and powers gives this little game a good amount of depth. Recommended!",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 480490,
+    "name": "Prey",
+    "release_date": "2017-05-04",
+    "developer": [
+        "Arkane Studios"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Sci-fi",
+        "Space",
+        "Action"
+    ],
+    "achievements": 58,
+    "positive_ratings": 17808,
+    "negative_ratings": 2144,
+    "price": 19.99,
+    "description": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/480490/header.jpg?t=1554143435",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-bit versions) Processor: Intel i5-2400, AMD FX-8320 Memory: 8 GB RAM Graphics: GTX 660 2GB, AMD Radeon 7850 2GB Storage: 20 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-bit versions) Processor: Intel i7-2600K, AMD FX-8350 Memory: 16 GB RAM Graphics: GTX 970 4GB, AMD R9 290 4GB Storage: 20 GB available space",
+    "reviews": []
+}

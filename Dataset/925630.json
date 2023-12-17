@@ -1,0 +1,37 @@
+{
+    "app_id": 925630,
+    "name": "Grizzly Adventure",
+    "release_date": "2018-09-03",
+    "developer": [
+        "vadimalexepta"
+    ],
+    "publisher": [
+        "vadimalexepta"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Travel through the woods and solve logical puzzles with the Grizzly Bear. Beware of enemies and catching rabbits. Multiple game modes and many levels. Mode for children: catch rabbits, move objects and get out of the woods.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/925630/header.jpg?t=1535993164",
+    "minimum_requirements": "OS: Windows 7 or newer: 32bit / 64bit Processor: Core 2 Duo or higher Memory: 2 GB RAM Graphics: DirectX11 Compatible GPU with 512 MB Video RAM Storage: 200 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 4 Duo or higher Memory: 4 GB RAM Graphics: DirectX11 Compatible GPU with 1 GB Video RAM Storage: 200 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

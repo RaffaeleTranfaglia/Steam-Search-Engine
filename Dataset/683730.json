@@ -1,0 +1,39 @@
+{
+    "app_id": 683730,
+    "name": "CrownFall",
+    "release_date": "2017-08-17",
+    "developer": [
+        "EnchantedLands",
+        "Oddeyefish"
+    ],
+    "publisher": [
+        "PsychoFlux Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shooter"
+    ],
+    "achievements": 105,
+    "positive_ratings": 8,
+    "negative_ratings": 9,
+    "price": 0.0,
+    "description": "CrownFall is an action game that will give you a thrilling battle experience. Overcome overwhelming bosses one after another; but it will never be easy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/683730/header.jpg?t=1540478450",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i5 3337U Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 270 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i5-4690 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 750 Ti DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

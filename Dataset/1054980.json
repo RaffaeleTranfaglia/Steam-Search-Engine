@@ -1,0 +1,36 @@
+{
+    "app_id": 1054980,
+    "name": "The Cat and the Box",
+    "release_date": "2019-04-20",
+    "developer": [
+        "Eli Schroeder"
+    ],
+    "publisher": [
+        "Eli Schroeder"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Story Rich",
+        "First-Person"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Built on no engine or external libraries, this game takes you through a 3D adventure rendered in a plain text window.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1054980/header.jpg?t=1555782618",
+    "minimum_requirements": "OS: Vista, 7, or 10 Processor: Intel 2.77GHz Dual Core Memory: 4 GB RAM Graphics: Intel HD 3000 or above. Storage: 100 MB available space Sound Card: no requirement",
+    "recommended_requirements": null,
+    "reviews": []
+}

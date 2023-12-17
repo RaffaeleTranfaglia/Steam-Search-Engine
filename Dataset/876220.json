@@ -1,0 +1,40 @@
+{
+    "app_id": 876220,
+    "name": "Moss Destruction",
+    "release_date": "2019-03-01",
+    "developer": [
+        "Shotgun with Glitters"
+    ],
+    "publisher": [
+        "Shotgun with Glitters"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 32,
+    "positive_ratings": 53,
+    "negative_ratings": 20,
+    "price": 10.9,
+    "description": "A fast-paced rogue-lite with procedurally generated, action packed levels. Rank up and install Mech Tech upgrades from an overstock! Snap on ability cartridges to your battle-mech, slay huge bosses through 3 distinctive worlds and guide your tiny green heroes towards victory!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/876220/header.jpg?t=1552998385",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2.4 Ghz Intel Core 2 Duo Memory: 2 GB RAM Graphics: NVIDIA GeForce 310 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

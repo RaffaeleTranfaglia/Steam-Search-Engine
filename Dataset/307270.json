@@ -1,0 +1,55 @@
+{
+    "app_id": 307270,
+    "name": "Super Lemonade Factory",
+    "release_date": "2014-07-09",
+    "developer": [
+        "initials"
+    ],
+    "publisher": [
+        "initials"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer",
+        "Pixel Graphics"
+    ],
+    "achievements": 19,
+    "positive_ratings": 23,
+    "negative_ratings": 19,
+    "price": 2.89,
+    "description": "Post World War II, a region in political turmoil. Andre’s father offers to give him his lemonade factory – but on one condition; he and his wife, Liselot, must journey through the entire factory, a task that is easier said than done. Andre and Liselot must combine their unique abilities to make it through each room together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/307270/header.jpg?t=1452734249",
+    "minimum_requirements": "OS: Microsoft® Windows® XP, Windows Server 2008, Windows Vista® Home Premium, Business, Ultimate, or Enterprise (including 64 bit editions) with Service Pack 2, Windows 7, or Windows 8 Classic Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices Memory: 1 GB RAM Additional Notes: Uses Adobe AIR 19",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Well I made this game, so I think it's pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some games just grab you...this is one of those times. So simple, yet so entertaining. The sounds, movements, controller ability, are all great!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very polished, nice art style, great dev and challenging!  What more could you want from a platformer?    Definitely worth your time and money, especially if this is on sale. Even if it isn't, still a great game for it's price. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "all voiced by the same guy and is to lazy to add more detail than mario 64, yu put together the rest",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 804000,
+    "name": "Expendable",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Rage Software"
+    ],
+    "publisher": [
+        "Funbox Media Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 2.89,
+    "description": "Somewhere in the future a hostile alien race conquers most of the galaxy. Scientists developed the “Millennium Soldier” project by cloning two super-soldiers. Armed with blasters they will battle scores of monsters, robots and boss aliens to save us and get a well-earned reward.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/804000/header.jpg?t=1519732871",
+    "minimum_requirements": "OS: Windows® XP / Vista Processor: Intel® Pentium III™ 1 GHz or equivalent Processor Memory: 256 MB RAM Graphics: 3D graphics card compatible DirectX: Version 7.0 Storage: 500 MB available space Sound Card: 3DFX Card",
+    "recommended_requirements": "OS: Windows® 7/8/10 with latest service packs Processor: Intel® Core™ i5 1.4 GHz or equivalent Memory: 2 GB RAM Graphics: 3D graphics card compatible DirectX: Version 9.0 Storage: 500 MB available space Sound Card: 3DFX Card",
+    "reviews": []
+}

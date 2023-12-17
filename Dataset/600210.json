@@ -1,0 +1,38 @@
+{
+    "app_id": 600210,
+    "name": "RoboMatch",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Anti-Ded GameDev"
+    ],
+    "publisher": [
+        "Lasta Dan Publisher"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "RPG"
+    ],
+    "achievements": 12,
+    "positive_ratings": 24,
+    "negative_ratings": 18,
+    "price": 2.09,
+    "description": "The game type three in a row with robots, galaxies and stores. The player armed robots. Rearrange chips that the player shoots at the enemy. After the turn of a player - the progress of the enemy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600210/header.jpg?t=1552745072",
+    "minimum_requirements": "OS: Windows 7 x64 Processor: Pentium or AMD Dual-Core 2.4+ Ggh Memory: 2048 MB RAM Graphics: Integrated DirectX: Version 9.0 Storage: 300 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 7 x64 Processor: Pentium or AMD Quad-Core 3.0+ Ggh Memory: 4096 MB RAM Graphics: 1024 mb DirectX: Version 9.0 Storage: 300 MB available space Sound Card: Integrated",
+    "reviews": []
+}

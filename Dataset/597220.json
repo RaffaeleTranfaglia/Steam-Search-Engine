@@ -1,0 +1,43 @@
+{
+    "app_id": 597220,
+    "name": "West of Loathing",
+    "release_date": "2017-08-10",
+    "developer": [
+        "Asymmetric"
+    ],
+    "publisher": [
+        "Asymmetric"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Comedy",
+        "Adventure"
+    ],
+    "achievements": 28,
+    "positive_ratings": 3039,
+    "negative_ratings": 74,
+    "price": 8.29,
+    "description": "West of Loathing — a slapstick comedy stick-figure wild west adventure role-playing game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/597220/header.jpg?t=1549658232",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2.8 GHz Intel® Core™2 Duo or better Memory: 2 GB RAM Graphics: 512 MB Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1+ Processor: 3.3 GHz Intel® Core™2 Duo or better Memory: 4 GB RAM Graphics: 1 GB Storage: 4 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,53 @@
+{
+    "app_id": 489760,
+    "name": "Demon Truck",
+    "release_date": "2016-09-26",
+    "developer": [
+        "Triger Mountain"
+    ],
+    "publisher": [
+        "Adventurepro Games LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 17,
+    "positive_ratings": 30,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "A badass rig drives only for the glory of Satan and races with blistering fury towards the Next Hell in this ARCADE ACTION IMMORTAL TRUCKER!. Skill based gameplay, high scores, demonic fury!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/489760/header.jpg?t=1475612340",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is crack on wheels",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Demon Truck makes my inner changeling squeal with glee! &gt;:D  I must have been drunk when I bought this game, as I don't remember doing so.  I should browse Steam while drunk more often.",
+            "review_score": "1"
+        }
+    ]
+}

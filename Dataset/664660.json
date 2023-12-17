@@ -1,0 +1,42 @@
+{
+    "app_id": 664660,
+    "name": "Against the Gradient",
+    "release_date": "2017-07-10",
+    "developer": [
+        "Cogent Education"
+    ],
+    "publisher": [
+        "Cogent Education"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Education",
+        "Puzzle",
+        "Science"
+    ],
+    "achievements": 22,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.99,
+    "description": "A microscopic world is in need of your help! Add transporters to membranes to move molecules and ions into and out of cells. Your goal is to reach specific concentrations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/664660/header.jpg?t=1499689269",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 1 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work. Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

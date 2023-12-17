@@ -1,0 +1,36 @@
+{
+    "app_id": 533280,
+    "name": "Wild Arena",
+    "release_date": "2016-10-23",
+    "developer": [
+        "971 Games"
+    ],
+    "publisher": [
+        "971 Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Wild Arena is a shooter where you have to defend yourselves and survive enemy attacks in small fighting zones with a main game mode and 3 secondary game modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/533280/header.jpg?t=1478268255",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: core i3, AMD FX 8000 Memory: 2 GB RAM Graphics: Nvidia GTX 260, AMD Radeon HD6750 DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: core i5, AMD FX 9000 Memory: 2 GB RAM Graphics: Nvidia GTX 560 Ti, AMD Radeon HD6970 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

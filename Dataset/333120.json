@@ -1,0 +1,39 @@
+{
+    "app_id": 333120,
+    "name": "Inside The Gear",
+    "release_date": "2014-11-21",
+    "developer": [
+        "Mykhail Konokh"
+    ],
+    "publisher": [
+        "Mykhail Konokh"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 250,
+    "positive_ratings": 41,
+    "negative_ratings": 59,
+    "price": 1.59,
+    "description": "A physics puzzle game like no other! You are inside the big old machine. There are rusty gears and shafts all around you, along with interactive objects such as planks and cubes. Use each object and place the wheel on the platform – easy!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333120/header.jpg?t=1533018452",
+    "minimum_requirements": "OS: Windows XP or higher Processor: 2.4 GHz  or Better Memory: 512 MB RAM Graphics: NVIDIA GeForce 9800 GTX (512 MB memory) or equivalent discrete card (integrated cards may not work), resolution not more than 1280x720. DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows XP or higher Processor: Quad Core 3.0 GHz or more Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 660 (2 GB Memory) or equivalent discrete card (integrated cards may not work) DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

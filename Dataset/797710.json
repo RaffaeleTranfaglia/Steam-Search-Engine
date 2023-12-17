@@ -1,0 +1,41 @@
+{
+    "app_id": 797710,
+    "name": "RPGolf",
+    "release_date": "2018-05-09",
+    "developer": [
+        "ArticNet"
+    ],
+    "publisher": [
+        "Chorus Worldwide Games Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 8,
+    "price": 2.89,
+    "description": "RPG meets Golf! Battle your way through the kingdom to restore golf to the land!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/797710/header.jpg?t=1525913718",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel dual core processor Memory: 512 MB RAM Graphics: Graphic card Supporting OpenGL 2.0 Storage: 100 MB available space Sound Card: Integrated sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

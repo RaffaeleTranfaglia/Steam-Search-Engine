@@ -1,0 +1,43 @@
+{
+    "app_id": 777130,
+    "name": "Blush Blush",
+    "release_date": "2019-04-04",
+    "developer": [
+        "Sad Panda Studios"
+    ],
+    "publisher": [
+        "Sad Panda Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Dating Sim"
+    ],
+    "achievements": 13,
+    "positive_ratings": 193,
+    "negative_ratings": 24,
+    "price": 0.0,
+    "description": "You are responsible somehow for a curse that befalls 12 unfortunate hawt dudes. Now you have to find them and break the curse with your love!!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777130/header.jpg?t=1554392194",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: Modern Intel/AMD CPU 1.6GHz+ Memory: 2 GB RAM Graphics: Graphics card with DX9 (shader model 2.0) capabilities. Anything made since 2004 should work. DirectX: Version 9.0 Storage: 256 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: Modern Intel/AMD CPU 2GHz+ Memory: 2 GB RAM Graphics: Graphics card with DX9 (shader model 2.0) capabilities. Anything made since 2004 should work. DirectX: Version 9.0 Storage: 256 MB available space",
+    "reviews": []
+}

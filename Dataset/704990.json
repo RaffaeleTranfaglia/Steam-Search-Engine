@@ -1,0 +1,42 @@
+{
+    "app_id": 704990,
+    "name": "OSES",
+    "release_date": "2017-09-14",
+    "developer": [
+        "Hifire Game Studio"
+    ],
+    "publisher": [
+        "Hifire Game Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "OSES is a strategic post-apocalyptic shooter in which 3 characters fight by using different guns to survive the zombie hordes in various scenarios and game modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704990/header.jpg?t=1525347424",
+    "minimum_requirements": "OS: 7 or newer Processor: Intel Dual Core or better with SSE2 support or equivalent AMD family Memory: 2 GB RAM DirectX: Version 9.0c Storage: 250 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

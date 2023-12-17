@@ -1,0 +1,40 @@
+{
+    "app_id": 815000,
+    "name": "Tardy",
+    "release_date": "2018-03-08",
+    "developer": [
+        "One Wing Cicada"
+    ],
+    "publisher": [
+        "One Wing Cicada"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Pixel Graphics"
+    ],
+    "achievements": 11,
+    "positive_ratings": 85,
+    "negative_ratings": 3,
+    "price": 5.19,
+    "description": "Tardy is a quest about fiddling with computers, terminals gadgets and other hi-tech scrap of all sorts. Deal with crazy machines, solve the mystery of the crew disappearance and help Ramto to come back home!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815000/header.jpg?t=1532106646",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2 GHz Memory: 1024 MB RAM Graphics: Direct X9.0c Compatible Card DirectX: Version 9.0c Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

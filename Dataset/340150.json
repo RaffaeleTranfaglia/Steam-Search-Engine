@@ -1,0 +1,40 @@
+{
+    "app_id": 340150,
+    "name": "Basement",
+    "release_date": "2015-04-30",
+    "developer": [
+        "Halfbus"
+    ],
+    "publisher": [
+        "Halfbus"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Management",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1026,
+    "negative_ratings": 283,
+    "price": 6.99,
+    "description": "Basement is a strategy game, where you play as a desperate scientist who chose the wrong path in his life. That path seemed easy, but turned into a deadly one. You have no choice but to build the most effective enterprise and stay alive in a cruel world of illegal business.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340150/header.jpg?t=1505561225",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2 GHz Memory: 1024 MB RAM Graphics: Direct X9.0c Compatible Card DirectX: Version 9.0c Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 809870,
+    "name": "Ninjin: Clash of Carrots",
+    "release_date": "2018-09-04",
+    "developer": [
+        "Pocket Trap"
+    ],
+    "publisher": [
+        "Modus Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 33,
+    "positive_ratings": 40,
+    "negative_ratings": 0,
+    "price": 11.99,
+    "description": "Ninjin: Clash of Carrots is an anime-inspired beat-em-up with varied enemies and deep customization. Play as the rabbit Ninjin, or Akai, the ninja fox, and fight to retrieve the carrots stolen by Shogun Moe! Redeem carrots for weapons, upgrades and more! Supports 2-player online or local co-op.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809870/header.jpg?t=1540857746",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: Graphics Card with support for DirectX 10 DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel 3rd-generation i5 or equivalent Memory: 4 GB RAM Graphics: Graphics Card with support for DirectX 11 DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

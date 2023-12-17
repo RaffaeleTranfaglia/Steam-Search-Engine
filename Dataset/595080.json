@@ -1,0 +1,40 @@
+{
+    "app_id": 595080,
+    "name": "Silver Grapple",
+    "release_date": "2017-08-25",
+    "developer": [
+        "Jamie Rollo",
+        "Tom Campbell"
+    ],
+    "publisher": [
+        "Jamie Rollo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "A fast paced platformer that has you swinging through the air at the speed of sound! Run, jump and fling your way through the ruins of an abandoned laboratory as you master the physics of the Silver Grappling Hook.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595080/header.jpg?t=1514791746",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel Core 2 Duo Processor Memory: 2 GB RAM Graphics: NVIDIA GeForce 9200M DirectX: Version 11 Storage: 1 GB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 7200U Memory: 4 GB RAM Graphics: NVIDIA GeForce 940MX 2 GB DirectX: Version 11 Storage: 1 GB available space Sound Card: Integrated",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 514290,
+    "name": "Factory Engineer",
+    "release_date": "2017-03-20",
+    "developer": [
+        "Mind Leak"
+    ],
+    "publisher": [
+        "Mind Leak"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Building",
+        "Sandbox"
+    ],
+    "achievements": 8,
+    "positive_ratings": 52,
+    "negative_ratings": 54,
+    "price": 6.99,
+    "description": "Factory Engineer is a factory simulation game which is about creating a huge automated factory by building production lines to create products and make money. Start with simple products,make money,unlock technologies then create the most sophisticated products.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514290/header.jpg?t=1552259678",
+    "minimum_requirements": "OS: Windows 7,8,10 Processor: Dual Core 2.0 GHz Memory: 2 GB RAM Graphics: 512 MB graphics card Storage: 300 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: Quad Core 2.0 GHz Memory: 4 GB RAM Graphics: 1 GB graphics card Storage: 300 MB available space Sound Card: any",
+    "reviews": []
+}

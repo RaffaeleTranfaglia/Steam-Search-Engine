@@ -1,0 +1,36 @@
+{
+    "app_id": 500140,
+    "name": "Wildlife VR",
+    "release_date": "2016-07-16",
+    "developer": [
+        "Rocket Science Club"
+    ],
+    "publisher": [
+        "Rocket Science Club"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "A virtual reality hunting game, where you can shoot ducks, a deer, a boar, cans and TVs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/500140/header.jpg?t=1469813395",
+    "minimum_requirements": "OS: Win 7,  Win 8, Win 8.1 or Win 10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

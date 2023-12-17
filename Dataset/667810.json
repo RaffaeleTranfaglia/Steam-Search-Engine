@@ -1,0 +1,41 @@
+{
+    "app_id": 667810,
+    "name": "Next Up Hero",
+    "release_date": "2018-06-28",
+    "developer": [
+        "Digital Continue"
+    ],
+    "publisher": [
+        "Aspyr"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Dungeon Crawler",
+        "RPG"
+    ],
+    "achievements": 26,
+    "positive_ratings": 82,
+    "negative_ratings": 45,
+    "price": 14.99,
+    "description": "Fight. Die. Win! (And probably die some more.) There are no health kits. Sorry!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667810/header.jpg?t=1536685983",
+    "minimum_requirements": "OS: Windows 7, Windows 10 Processor: Intel Core i3 (3.4 GHz) or AMD A8-7600 (3.1 GHz) Memory: 8 GB RAM Graphics: AMD Radeon HD 6850 / NVIDIA GeForce 650 / Intel Iris Pro 5200 Network: Broadband Internet connection Storage: 5 GB available space Additional Notes: 1 GB VRAM; Windows 8 &amp; 8.1 are unsupported",
+    "recommended_requirements": null,
+    "reviews": []
+}

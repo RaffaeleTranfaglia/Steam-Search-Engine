@@ -1,0 +1,40 @@
+{
+    "app_id": 664830,
+    "name": "Zombotron",
+    "release_date": "2019-04-22",
+    "developer": [
+        "Ant.Karlov"
+    ],
+    "publisher": [
+        "Armor Games Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 149,
+    "negative_ratings": 18,
+    "price": 11.39,
+    "description": "Fight to survive on a mysterious alien planet, outwit its vicious inhabitants, and do whatever it takes to find a way off that wretched rock.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/664830/header.jpg?t=1556211311",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8 GHz Memory: 2 GB RAM DirectX: Version 11 Storage: 900 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.3 Ghz Memory: 4 GB RAM",
+    "reviews": []
+}

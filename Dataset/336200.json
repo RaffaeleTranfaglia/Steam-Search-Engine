@@ -1,0 +1,56 @@
+{
+    "app_id": 336200,
+    "name": "Starlaxis Supernova Edition",
+    "release_date": "2015-02-11",
+    "developer": [
+        "Spiderwork Games"
+    ],
+    "publisher": [
+        "rokaplay"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 32,
+    "negative_ratings": 19,
+    "price": 6.19,
+    "description": "Prepare yourself for mind-blowing puzzle action in new dimensions! You think Starlaxis is just a small puzzle game? THINK AGAIN! Master breath-taking challenges, win seemingly impossible boss fights, complete multiple missions goals, overcome dozens of enemies, and last but not least: Save EARTH!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/336200/header.jpg?t=1554661593",
+    "minimum_requirements": "OS: Windows Vista, 7, 8, 8.1, 10 Processor: 2.0 GHz Dual Core Memory: 4 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 1200 MB available space Sound Card: DirectX compatible sound card Additional Notes: Min. resolution: 1024x768",
+    "recommended_requirements": "OS: Windows Vista, 7, 8, 8.1, 10 Processor: 3,0 GHz Dual Core or better Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 820 or better DirectX: Version 9.0c Storage: 1200 MB available space Sound Card: DirectX compatible sound card Additional Notes: Max. resolution: 1920x1080",
+    "reviews": [
+        {
+            "review_text": "Not a bad game actually. Was looking for something to fill in my 'casual' niche, and this fits the bill. Ended up getting a free key from somewhere, but I think it's worth a few dollars.  You essentially control a space ship (movement, shields, firing, etc) by clearing certain patterns of blocks - a slight twist to the usual 'match 3 and clear' type of puzzle games. Initially it seems quite limited (I stack all my D blocks here with a space next to them in case I need a 2 block to fire, etc), but after you understand the mechanics you can start to combo and become much more fluid (i.e. move up one AND immediately fire, rather than one and then another in separate moves allowing you to potentially be shot back). There is also some degree of flexibility as you further unlock different ships and different pilots (who all have their own special power that you can utilise) + upgrades you can purchase with credits earned through mission completion. It also looks fine as a game, and the audio does the job.  I haven't yet played too far into it, but for me it's a thumbs up for being a good and quick timefiller if you haven't quite got enough time to play some other games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game where you have to play dice like Tetrus to move the ship",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Puzzle game in which the puzzle part is used to command a ship accross levels. Interesting mechanic but gets tedious. Game is fine, well animated.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 587400,
+    "name": "Snow Moto Racing Freedom",
+    "release_date": "2017-04-11",
+    "developer": [
+        "Zordix AB"
+    ],
+    "publisher": [
+        "Zordix AB"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Action"
+    ],
+    "achievements": 14,
+    "positive_ratings": 26,
+    "negative_ratings": 6,
+    "price": 18.39,
+    "description": "Snow Moto Racing Freedom lets you take your rightful place on a high-speed snowmobile on Snocross tracks or through vast beautiful winter landscapes. Experience the thrill of racing so close to your opponents that you can feel the spray of the snow and hear the roar of their engines.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587400/header.jpg?t=1532592484",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bit Processor: AMD Dual-Core 2GHz or Intel Dual-Core 2GHz Memory: 4 GB RAM Graphics: At least 1GB vram, Shader Model 5 DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bit Processor: AMD Quad-Core 2GHz or Intel Quad-Core 2GHz Memory: 8 GB RAM Graphics: 2GB vram, Shader Model 5 DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

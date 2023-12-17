@@ -1,0 +1,41 @@
+{
+    "app_id": 778410,
+    "name": "Dead Ground",
+    "release_date": "2018-02-14",
+    "developer": [
+        "ShotX Studio"
+    ],
+    "publisher": [
+        "ShotX Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 38,
+    "positive_ratings": 48,
+    "negative_ratings": 26,
+    "price": 7.19,
+    "description": "Tower defense reimagined! Dead Ground is a procedurally generated tower defense game with rogue-like elements. Each playthrough will offer randomly generated guns, skills and augments. You'll have to travel, collect scrap, water, manage your inventory and upgrade your base to survive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/778410/header.jpg?t=1544369359",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 2 GHz Memory: 4 GB RAM Graphics: Intel HD 4600 or equivalent (1 GB VRAM) DirectX: Version 9.0c Storage: 300 MB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Mouse, Keyboard",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 GHz dual-core Memory: 4 GB RAM Graphics: GeForce GTX 760 / Radeon 7950 or better. DirectX: Version 12 Storage: 500 MB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Mouse, Keyboard",
+    "reviews": []
+}

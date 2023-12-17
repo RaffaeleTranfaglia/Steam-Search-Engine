@@ -1,0 +1,45 @@
+{
+    "app_id": 624050,
+    "name": "Lazer Cops",
+    "release_date": "2017-06-15",
+    "developer": [
+        "Foolish Mortals Games"
+    ],
+    "publisher": [
+        "Foolish Mortals Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Bullet Hell"
+    ],
+    "achievements": 13,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "Lazer Cops is a retro bullet hell for up to four buddy cops. Grab your favourite buddies and sit down on the couch for some quality cooperative game-play or play alone and test your multi-tasking.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/624050/header.jpg?t=1550151205",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 800 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 800 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

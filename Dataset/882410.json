@@ -1,0 +1,42 @@
+{
+    "app_id": 882410,
+    "name": "Age of Fear: The Free World",
+    "release_date": "2019-01-18",
+    "developer": [
+        "Leslaw Sliwko"
+    ],
+    "publisher": [
+        "Age of Fear"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 118,
+    "negative_ratings": 19,
+    "price": 0.0,
+    "description": "Age of Fear: The Free World is an introduction to a seven-year old turn-based strategy series that fuses a tabletop wargame with RPG elements. Choose your faction (Undead Legion, Human Kingdom or Greenskins Horde), build a unique army and embark on exploring the realm!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/882410/header.jpg?t=1554758586",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 1 GB RAM Graphics: OpenGL capable Storage: 4 GB available space",
+    "recommended_requirements": "Processor: 2 GHz Memory: 2 GB RAM",
+    "reviews": []
+}

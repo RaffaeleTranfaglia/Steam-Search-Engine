@@ -1,0 +1,35 @@
+{
+    "app_id": 886470,
+    "name": "Another Otter",
+    "release_date": "2018-07-16",
+    "developer": [
+        "PepoLab"
+    ],
+    "publisher": [
+        "PepoLab"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 100,
+    "positive_ratings": 11,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "Jump, jump, jump, swim, swim, swim and help this otter to recover all the trophies that looked so good in his trophy case.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/886470/header.jpg?t=1531787052",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Celeron 1800 MHz Memory: 1 GB RAM Graphics: Intel HD Graphics Storage: 20 MB available space",
+    "recommended_requirements": "Processor: Intel Celeron 1800 MHz Memory: 1 GB RAM Graphics: Intel HD Graphics Storage: 50 MB available space",
+    "reviews": []
+}

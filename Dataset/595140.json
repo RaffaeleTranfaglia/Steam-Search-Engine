@@ -1,0 +1,43 @@
+{
+    "app_id": 595140,
+    "name": "Immortal Redneck",
+    "release_date": "2017-04-25",
+    "developer": [
+        "Crema"
+    ],
+    "publisher": [
+        "Crema"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Rogue-lite",
+        "Action",
+        "FPS"
+    ],
+    "achievements": 44,
+    "positive_ratings": 1259,
+    "negative_ratings": 124,
+    "price": 14.95,
+    "description": "Immortal Redneck is a FPS set in Egypt with rogue-lite elements. Frantic gameplay, twitch controls and an arcade-style feel meet randomly generated dungeons, a complete skill tree, permanent death and 9 classes with different traits.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595140/header.jpg?t=1549449996",
+    "minimum_requirements": "Минимальные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7, Windows 8 or Windows 10 64bit Процессор: Intel i3 2nd-Generation 2.5GHz Оперативная память: 2 GB ОЗУ Видеокарта: NVIDIA GeForce GTX650 or equivalent with 2GB VRAM DirectX: Версии 10 Место на диске: 7 GB",
+    "recommended_requirements": "Рекомендованные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7, Windows 8 or Windows 10 64bit Процессор: Intel i3 4th-Generation 3.5GHz or better Оперативная память: 4 GB ОЗУ Видеокарта: NVIDIA GeForce GTX760 or equivalent with 2GB VRAM DirectX: Версии 10 Место на диске: 7 GB",
+    "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+    "app_id": 412540,
+    "name": "The Minotaur",
+    "release_date": "2016-01-21",
+    "developer": [
+        "Ratalaika Games S.L."
+    ],
+    "publisher": [
+        "Ratalaika Games S.L."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 14,
+    "positive_ratings": 16,
+    "negative_ratings": 6,
+    "price": 1.59,
+    "description": "Four humans have been put to test by the Gods of the Ancient Greece, they shall face the minotaurs in the labyrinth. To survive, the must show their wisdom and solve the traps inside the labyrinth, all while avoiding the minotaurs. Their goal is to reach the last room, where the exit will be shown and they can finally be free.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/412540/header.jpg?t=1468579091",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Dual Core Memory: 512 MB RAM DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Thank you to the developers for generously supplying me with a review key.  ---    The Minotaur  is a small puzzle-solving coffee break game, with the added bonus of local couch play.  While there are a few different modes such as endless and time-attack, the fairly simple puzzle solving mechanic does not change drastically throughout.  Essentially, you push blocks in order to 'squish' or 'entrap' minotaurs.  The minotaurs have a few variants, but could definately use more.   Pros:  +Music and artwork is very nice +Navigating the menus in-game with the character always works out well IMO +While the modes do not differ greatly, they give options +Multiplayer works great, with solid controller support   Cons:  -As I am playing this, I often wonder if it would have been better off being strictly turn-based (ie. I move 1 turn, and then the minotaurs get 1 turn, repeat). As it stands, the minotaurs move in real-time, which leaves me thinking less and making hasty moves. Would more strategy be good here? -The base mechanic is fine, but definately not enough to get me addicted. Its been done one-too-many times before. -Powerups scattered on the board would surely add entertainment value. Having players scramble for things that make the game easier or harder would be great.  -Surely something that could be fixed - sometimes you spawn with an enemy literally right next to you and its insta-death. No big deal, since death doesn't mean much, but this should be fixed. -I find trying to achieve a certain score to be fairly boring and meaningless. Maybe give me meta-game unlocks? How about character color/skin customization?   Look, this is not a fail by any means. I mean this is a great start for this developement team. As I always ask: would I recommend it to my friends to run out and spend their hard-earned money? No.  I'd keep this developement team on my radar, because there is real potential - and they have shown that they can deliver a final, stable, product. Best of luck to them with this, and future work.",
+            "review_score": "-1"
+        }
+    ]
+}

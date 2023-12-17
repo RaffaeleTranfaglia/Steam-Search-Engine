@@ -1,0 +1,37 @@
+{
+    "app_id": 841340,
+    "name": "Fightttris VR",
+    "release_date": "2019-02-27",
+    "developer": [
+        "TECHHOME"
+    ],
+    "publisher": [
+        "TECHHOME"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "VR",
+        "Puzzle"
+    ],
+    "achievements": 9,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 1.99,
+    "description": "Be fast, be smart, have fun. Fresh breath in classic puzzle. Battle with your friend or random opponent. Your aim is to be faster and smarter, to grab blocks and build lines, to find and activate bonuses. The slowest always lose.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/841340/header.jpg?t=1551265481",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5-4590 или AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 8.1 Windows 10 Processor: Intel Core i5-6700 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1070 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 15920,
+    "name": "Luxor 2",
+    "release_date": "2008-06-10",
+    "developer": [
+        "MumboJumbo"
+    ],
+    "publisher": [
+        "MumboJumbo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 14,
+    "price": 5.99,
+    "description": "The much anticipated sequel to the #1 casual game of 2005, LUXOR 2 sets the new standard for action-puzzlers. LUXOR 2 takes you on a beautiful voyage through 88 all-new, gorgeously rendered levels set amongst the pyramids of ancient Egypt.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/15920/header.jpg?t=1447351186",
+    "minimum_requirements": "Supported OS: Microsoft&reg; Windows&reg; 2000/XPProcessor: Intel Pentium II 700MHzMemory: 128MB RAMDirectX Version: DirectX 7 (DirectX 8.1 or higher and 32 MB of video memory needed for Hardware Acceleration)Hard Drive: 25MB free HD space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Can't rightly recommend this game. Luxor 1 works fine, Luxor 2 complains your OS is old, and you need the ancient Windows 98SE to run it. This is just terrible.  Sure, there might be a way to fix it, but c'mon, it's not worth the effort, there's better games out there, there's tons of them exactly like this one.  Get something that works right off the bat and play that instead.",
+            "review_score": "-1"
+        }
+    ]
+}

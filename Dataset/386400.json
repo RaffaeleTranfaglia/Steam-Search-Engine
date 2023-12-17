@@ -1,0 +1,57 @@
+{
+    "app_id": 386400,
+    "name": "Foosball: World Tour",
+    "release_date": "2015-12-11",
+    "developer": [
+        "Grip Games",
+        "3Division"
+    ],
+    "publisher": [
+        "Grip Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 67,
+    "negative_ratings": 19,
+    "price": 5.99,
+    "description": "Enjoy one of the most popular sports in the world from the comfort of your home on STEAM and challenge your friends in a local multiplayer for up to four players and online multiplayer and leaderboards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/386400/header.jpg?t=1449849461",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 512 MB RAM Graphics: DirectX9.0c compatible GPU DirectX: Version 9.0c Storage: 300 MB available space Sound Card: DirectX9 compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.0 Ghz Memory: 1024 MB RAM Graphics: DirectX9.0c compatible GPU DirectX: Version 9.0c Storage: 300 MB available space Sound Card: DirectX9 compatible",
+    "reviews": [
+        {
+            "review_text": "Controller Breaker Simulator 2016.   No really, you spam to win. Repeatedly flick the right stick in the general direction of the goal and you'll come out ahead. There may be some more strategic potential to this game, but I haven't found it yet.   The reason why spamming works is because if you try calm and calculated shots, the ball usually just rolls past your foosmen. The physics of blocking aren't very advanced, nor are they adequate. The ball just like, slows down as it hits your guy. It's like your men are made of semi-permeable membrane.  Mouse/KB controls are extreeeemely sensitive and way to easy to own-goal yourself.   I agree with the other reviewers though. Good soundtrack, sufficient graphics, Settings are decent, I ran it natively at 21:9 resolution (2560x1080).   6.5/10 because no one else has done Foosball as a video game this well yet. But it needs work for sure.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is surprisingly good!! really good I would say. The best foosball pc game that i have ever played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I'm not playing foosball irl, then I'm playing this",
+            "review_score": "1"
+        }
+    ]
+}

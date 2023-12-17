@@ -1,0 +1,50 @@
+{
+    "app_id": 363220,
+    "name": "Ghost in the Machine",
+    "release_date": "2015-04-22",
+    "developer": [
+        "Michael J. Moffitt",
+        "Julian J. Hammerstein"
+    ],
+    "publisher": [
+        "Pipeteam Games, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Ghost in the Machine is about the player's escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/363220/header.jpg?t=1447372618",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium M Memory: 256 MB RAM Graphics: Intel GMA 915 DirectX: Version 9.0 Storage: 180 MB available space Sound Card: 2ch 16-bit 44.1KHz sampling rate",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo Memory: 512 MB RAM Graphics: Nvidia 9800GT DirectX: Version 9.0 Storage: 200 MB available space Sound Card: 2ch 16-bit 44.1KHz sampling rate",
+    "reviews": [
+        {
+            "review_text": "It's extremely difficult to tell the foreground from the background, so the primary challenge of the game is fighting against the horrible visuals as they attempt to mislead you and give you a seizure. It's a mediocre platformer where everything is very hard to see. I'd recommend you just find one of the many free mediocre platformers, and play that instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Super tight controls and super difficult.",
+            "review_score": "1"
+        }
+    ]
+}

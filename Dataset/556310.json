@@ -1,0 +1,49 @@
+{
+    "app_id": 556310,
+    "name": "TMM: Entourage",
+    "release_date": "2017-08-31",
+    "developer": [
+        "Chocolate Ship Games"
+    ],
+    "publisher": [
+        "Chocolate Ship Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 9,
+    "positive_ratings": 5,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Pick your side and become commander. Select your soldiers and lead them into battle. Your friends fight beside you closing the ranks. Motivate them to fight harder. Raise defenses to establish safe havens for your people. Call mighty gunships to push the assault. Take the objective!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/556310/header.jpg?t=1510504746",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 x64 Processor: Quad Core 3,4GHz Memory: 4 GB RAM Graphics: AMD Radeon HD 7800 DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space Sound Card: OnBoard",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 x64 Processor: Quad Core 3,4GHz Memory: 4 GB RAM Graphics: AMD Radeon HD 7800 DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space Sound Card: OnBoard",
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 529060,
+    "name": "Space Simulator",
+    "release_date": "2018-02-26",
+    "developer": [
+        "Stuka Games Inc"
+    ],
+    "publisher": [
+        "Brixton Dynamics Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Space"
+    ],
+    "achievements": 0,
+    "positive_ratings": 49,
+    "negative_ratings": 58,
+    "price": 7.19,
+    "description": "Realistic simulation of spaceflight in a full sized Solar System, with all the planets and their major moons. using real forces, distances, velocities and time. Chapter 1: The Apollo Days. Incredibly detailed Apollo Program missions starting with Apollo 8 lunar orbit missions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/529060/header.jpg?t=1519645856",
+    "minimum_requirements": "OS: Windows 7 64 bit Processor: Intel Core 2 Duo Memory: 4 GB RAM Graphics: SM3 512MB VRAM DirectX: Version 9.0 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 10 64 bit Processor: Intel Core i5 or newer Memory: 4 GB RAM Graphics: SM4 1GB VRAM DirectX: Version 10 Network: Broadband Internet connection Storage: 4 GB available space Additional Notes: Microsoft Text-to-Speech required to hear spoken checklists and radio control commands",
+    "reviews": []
+}

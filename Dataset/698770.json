@@ -1,0 +1,39 @@
+{
+    "app_id": 698770,
+    "name": "Watch Me Jump",
+    "release_date": "2018-04-19",
+    "developer": [
+        "Jeremy Gable"
+    ],
+    "publisher": [
+        "Jeremy Gable"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Sports"
+    ],
+    "achievements": 9,
+    "positive_ratings": 15,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "An entirely different kind of basketball game. A narrative-driven journey told in four quarters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/698770/header.jpg?t=1549571153",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Memory: 256 MB RAM Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

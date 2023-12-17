@@ -1,0 +1,43 @@
+{
+    "app_id": 348000,
+    "name": "Datswer",
+    "release_date": "2015-02-04",
+    "developer": [
+        "Behtam Developer"
+    ],
+    "publisher": [
+        "Behtam Developer",
+        "UK VENUS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 8,
+    "price": 2.79,
+    "description": "Datswer - help a brave hero escape to freedom from the dark dungeon full of traps, horrible enemies and various obstacles. The protagonist of this Android game is a statue that came to life after being hit by a few drops of mysterious magical liquid. You need to use your reflexes and logic to pave a safe way through dark dungeons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/348000/header.jpg?t=1447368582",
+    "minimum_requirements": "OS: Windows XP or Later Processor: Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher Memory: 512 MB RAM Graphics: ATI Radeon / NVIDIA GeForce / Intel DirectX: Version 9.0c Storage: 500 MB available space Sound Card: Windows Compatible Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "While the developer seems to be trying really hard to make the game better, as of update 2.5.1, the game still has terrible controls (like a phone game - click once to move, twice to run, click on the character and select again to crouch, jump forward or jump).   Cons:  - I could only play the game by moving the executable to the game's main folder. Otherwise, Steam would not even see the .exe file.  - Terrible controls with the mouse (a platformer without controller or keyboard support is a game-breaker for me)  - a horrible bug after dying that made my character get stuck above the checkpoint (I have uploaded a picture to Steam) - bad English (the Continue option means Reload Checkpoint, which does not make sense, just to give an example)  Pros  - nice graphics style - nice audio effects  I really want to play this game, and hope I can change my review in the future.",
+            "review_score": "-1"
+        }
+    ]
+}

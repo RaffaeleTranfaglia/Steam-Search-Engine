@@ -1,0 +1,60 @@
+{
+    "app_id": 342020,
+    "name": "BiT Evolution",
+    "release_date": "2015-06-09",
+    "developer": [
+        "Major Games"
+    ],
+    "publisher": [
+        "Major Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 85,
+    "negative_ratings": 61,
+    "price": 6.99,
+    "description": "Evolve through the history of video games in this fun-filled blast from the past.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/342020/header.jpg?t=1514470794",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.2 GHz processor Memory: 512 MB RAM Graphics: DirectX 8-compatible graphics card with at least 32MB of video memory DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.4 GHz processor or faster Memory: 1 GB RAM Graphics: DirectX 8-compatible graphics card with at least 32MB of video memory DirectX: Version 9.0c Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "Great retro platformer with an interesting 'parallel worlds-mechanic'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really nice 'retro' game. Lots of games use this old school art style, simple pixels nowadays and call themselves a retro game. However, many are failed attempts tryhing to make a quck buck off the popularity that this genre of games has the past few years.  This one is one of the better ones. The graphics change throughout the game from the old atari look up to more modern graphics such as NES, SNES, and so on. The music also changes the same way. All of it is done well.  The controls are tight, responsive, jumps all feel how they should. The enemies are a godo challenge and so are the jumps and other various platforming challenges.  I like the overworld map, it reminds me of games such as super mario world. When you 'die' in the normal levels in this game, instead of just dying, it takes you to a green world where you get a chance to revive yourself and get back to the actual game world. Its like different dimensions, an interesting concept and makes the game a little forgiving which is nice.  Overall, I think it is one of the games you shoudl get if you like these 8-16 bit retro games, it feels like you are playing one of your old time favorites from back in the day and the controls make it an enjoyable experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You can't just make your sprites monochrome and call it gameboy world. You journey through chinatown ripoff versions of consoles.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Grand Theft Auto V is better",
+            "review_score": "-1"
+        }
+    ]
+}

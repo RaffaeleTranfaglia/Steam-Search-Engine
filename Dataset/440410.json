@@ -1,0 +1,48 @@
+{
+    "app_id": 440410,
+    "name": "Wolfsong",
+    "release_date": "2016-02-01",
+    "developer": [
+        "Hyptosis"
+    ],
+    "publisher": [
+        "Lorestrome"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Wolfsong is a story-rich experience detailing how a simple mistake can be the beginning of immense and terrible things. The heroes will attempt to stop a great war that could plague the land for generations. Heavily inspired by classic rpgs from the snes era and attempts to pay homage to them in many ways.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/440410/header.jpg?t=1480464086",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit) Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Wolfsong is a semi openworld JRPG. You have access to the world map and an aircraft very early in the game, but the main story is linear and you can't skip or break the story progression. The world map has optional dungeons that have varying enemy difficulties and some unique loot. It would have been awesome to allow the player to customise the party according to the dungeons inhabitants, but you are stuck with certain party members. The main downside to the openworld style is the progression of equipment. For most RPGs you'll travel along a set path of towns and it is customary for each to have the next tier of equipment. When you can go anywhere from the start it is a bit more difficult and equipment will became available in shops as the story progresses. There is no indication on when the new items appear though. It would be nice if the equipment being sold was linked to the players level or an event that triggers new stock and you get notified about it. The maps are enjoyable to explore and loot and most enemies can be defeated in less than 5 rounds.  The combat in turn based RPGs is the thing that keeps my interest. I've enjoyed countless hours of grinding in the Dragon Quest and Final Fantasy series, but I expect a bit more complexity from modern RPGs. Wolfsong starts slow with you being able to one shot the enemies throughout the first two areas with the standard attack. I only used the Fierce Strike skill to one shot the first boss. I dislike the convention of introducing lazy combat strategies in RPGs and think it would be much better to teach the player to exploit enemy weaknesses from the very start of the game. When enemies did start to have weaknesses and strengths it seemed my current party was unable to exploit them. There were weak to fire enemies before I had any fire spells and then weak to ice enemies when the party no longer had a blue mage. I found this frustrating and ended up avoiding enemies and rushing the maps to progress the story. It would be great to be able to choose the best party members for a certain area.  I bought this game on the strength of the tilesets and mapping I'd seen in screenshots and LPs. This game has some of the nicest tiles I've ever seen in a JRPG. They create memorable areas like the Ardan ruins, while at the same time making usually boring areas like caves look beautiful. The mapping style is great as well with a focus on smaller more interesting maps than large ones that are mostly empty. It was fun to explore these maps and having the option to avoid most encounters was appreciated. The only gripe I had with the art style was the quality of the portraits and the story boards. While they have a certain charm and character the varying quality of this artwork jars with the awesome tilesets and mapping.  Having grown up playing the early JRPGs I only expect the story to provide a context and framework for the gameplay. Wolfsong has a pretty straightforward story that progresses nicely and has a well developed world lore. As a player that enjoys these types of RPGs for the combat and loot I found some of the set pieces a bit long and skipped some of the character development conversations. I have little interest in character development unless it impacts the actual gameplay. These conversations could lead to discovering new skills or areas of the game instead of forcing a story onto the player. There were a few instances where I had had enough story and there were another ten dialogue boxes to read through. The game ends quite abruptly though which is a shame because a vast majority of the world map is empty and there could have easily been a few more towns and dungeons. This would have allowed more equipment upgrades and the character development could have been spread a bit more thinly.   Overall, Wolfsong is up there with other modern JRPGs made by indie teams and provides around 10 hours of enjoyment. The game is not perfect and a few small changes could have improved the game immensely. Having a clear progression of purchasable equipment and being able to change your party members would have taken this from decent to awesome. The tilesets and mapping carry it and kept me playing despite having aspects that have made me quit other titles. I have to recommend the game though because it is the best RPGMaker game I've played on Steam.  I have completed the game once and ground my party members to level 11 before entering Rosewood. Despite this the final boss still took 10+ rounds to beat because the members that are not in the main party were still at level 5 (Edit: I checked and you can grind some enemies in the final dungeon before the boss, but it is really inefficient).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have to choose thumbs down for now.   I can not get this to run in full screen mode, alt+enter puts it in full screen but the screen is black with what looks like a small version of the game running in the top left corner.  I'm running Win7 Pro with an nVidia TitanX970.  I've posted in the forums but it seems the dev is unresponsive.  I will change my recommendation if the dev fills me in on how to get it to run normally.",
+            "review_score": "-1"
+        }
+    ]
+}

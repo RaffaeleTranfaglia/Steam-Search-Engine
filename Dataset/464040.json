@@ -1,0 +1,40 @@
+{
+    "app_id": 464040,
+    "name": "Log Drive Runner",
+    "release_date": "2016-09-08",
+    "developer": [
+        "Proud Camel Games"
+    ],
+    "publisher": [
+        "Proud Camel Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Runner"
+    ],
+    "achievements": 9,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 4.99,
+    "description": "A both relaxing and super-hectic game, a new variant of the endless runner genre, based on the log flume in Notodden, Norway.Run as far as you can, get your score on the leaderboards, beat your friends!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/464040/header.jpg?t=1473350598",
+    "minimum_requirements": "OS: Windows 7 Processor: Pentium class computer Memory: 2 GB RAM Graphics: Standard graphics card. (note: for full screen good resolution one need a gamer graphics card) DirectX: Version 9.0c Storage: 330 MB available space Sound Card: Standard soundcard Additional Notes: Note: there are options for running the game in lower resolutions and graphics. The minimum system requirements will not run in full quality in full resolution in full screen.",
+    "recommended_requirements": "OS: Windows 7 / Windows 10 Processor: i5 Memory: 4 GB RAM Graphics: Gamer grapichs card for best quality, best resolution full screen, like a Nvidia 950 DirectX: Version 9.0c Storage: 330 MB available space Sound Card: Standard soundcard",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 736260,
+    "name": "Baba Is You",
+    "release_date": "2019-03-13",
+    "developer": [
+        "Hempuli Oy"
+    ],
+    "publisher": [
+        "Hempuli Oy"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Difficult"
+    ],
+    "achievements": 18,
+    "positive_ratings": 1300,
+    "negative_ratings": 26,
+    "price": 11.39,
+    "description": "Baba Is You is a puzzle game where the rules you have to follow are present as blocks you can interact with. By manipulating them, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/736260/header.jpg?t=1552492820",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz+, 32-bit Memory: 1 GB RAM Graphics: ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better Storage: 200 MB available space Sound Card: Intel High Definition Audio",
+    "recommended_requirements": "Memory: 1 GB RAM Storage: 200 MB available space",
+    "reviews": []
+}

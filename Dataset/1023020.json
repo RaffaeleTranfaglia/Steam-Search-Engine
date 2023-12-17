@@ -1,0 +1,36 @@
+{
+    "app_id": 1023020,
+    "name": "Slime Crunch",
+    "release_date": "2019-02-15",
+    "developer": [
+        "FailoutGames"
+    ],
+    "publisher": [
+        "FailoutGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 21,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Slime Crunch is a 2D Platformer game where the player has one goal: Crunch slimes. Featuring 18 levels which span across six biomes, Slime Crunch provides a varied and challenging experience in every level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1023020/header.jpg?t=1556354669",
+    "minimum_requirements": "OS: Windows 7, Windows 8.1, Windows 10 Processor: 1.6 GHz Memory: 4 GB RAM Graphics: Any DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7, Windows 8.1, Windows 10 Processor: 2.0GHz + Memory: 4 GB RAM Graphics: Any DirectX: Version 9.0 Storage: 200 MB available space",
+    "reviews": []
+}

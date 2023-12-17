@@ -1,0 +1,58 @@
+{
+    "app_id": 324420,
+    "name": "Desert Ashes",
+    "release_date": "2014-11-10",
+    "developer": [
+        "Nine Tales Digital"
+    ],
+    "publisher": [
+        "Nine Tales Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based"
+    ],
+    "achievements": 11,
+    "positive_ratings": 40,
+    "negative_ratings": 31,
+    "price": 3.99,
+    "description": "Desert Ashes is a turn based strategy game with online multiplayer and single player campaigns, it also boasts an innovative menu system allowing you to play multiple games at once. The Day-Night system adds a dynamic twist to turn based battles that affect the battlefield.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/324420/header.jpg?t=1447363765",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 or AMD Athlon 64 Memory: 4 GB RAM Graphics: OpenGL 2.0 or greater Storage: 200 MB available space Sound Card: Sound device supporting OpenAL 2.0",
+    "recommended_requirements": "OS: Windows 7 or greater Processor: Intel Core i3 or AMD Phenom II or greater Memory: 4 GB RAM Graphics: OpenGL 2.0 or greater Storage: 200 MB available space Sound Card: Sound device supporting OpenAL 2.0",
+    "reviews": [
+        {
+            "review_text": "What would happen if Jim Henson and Tim Burton made an Advance Wars type of game? Desert Ashes would be the result. Crisp and vibrant graphics with wonderfully wacky troop designs. Desert Ashes is a fantastic game with the only niggles being that the campaign is short and it's a bit on the easy side. But there's other modes like Skirmish and multiplayer, so there's a lot of fun to be had.  I highly recommend the game to anyone who likes turn based strategy games like Advanced Wars.   If the campaign was longer this game would go from a 7 to an 8.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I want to like this game.  But the game doesn't really reach out its hand to me, so I'm left hanging. Turn-based, grid-based games are such a rarity these days and I generally like those games. Generally, but not in this instance.  For readers that know advance wars or something similar: It's advance wars with the complexity sandblasted off. And suffering for this sin.   Every single unit are aligned on the following scale: 1 attack range, let's call them 'cheap melee' 1-2 attack range 2-x attack range(x varies between 3 and 6), let's call them 'expensive artillery'  Then assign 4 movespeed to all 1 range units, 3 to pretty much every single other unit, and assign to only ground and sea artillery a speed of 2.  So the movement of units is both laughably predictable and absolutely unexciting. Less exciting than chess in in terms of movement.   A huge majority of units also do 50% damage against their own type, and 100-150% damage against their rock-paper-scissors hard counter victims. So there is a lot of instant kills if you vaguely know what you do. What if a unit is damaged but not destroyed?  Suicide attack to get rid of it.  You can't join damaged units together and you can't repair non infantry units. And infantry units are barely worth saving since they are incredibly cheap. On top of that your army is not just limited by income and by being destroyed, but also by a limit of supply attached to money producing cities.  Terrain is also simplistic. The movement changes are either 50% less movement(forests, mountains), or 50% more movement(streets). Water freezes for a couple of turns after 'midnight', and frozen water is identical to boring old ground. Air units are unaffected by terrain. Only infantry can move over mountains. Cacti on the map can be used by infantry to suck on juice and repair themselves in exchange for not doing anything productive. So every unit will probably spend most of their time running along streets and infantry will stand on buildings sometimes.  And that is the extent of this games complexity.    The story is weak and at the same time barely there. There is so few dialogue, only at the beginning of a mission, and what little dialogue there is is riddled with spelling errors and entire missing words at one point.  The art seems to have received some love by the creators, but I don't really care much as long as it works.   So overall, I cannot recommend this game, as much as I would want to.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "sucks so bad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "How is this game not being sued by the makers of advanced war for GBA? it legit has the same mapping and battle scenes xD",
+            "review_score": "1"
+        }
+    ]
+}

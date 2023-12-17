@@ -1,0 +1,40 @@
+{
+    "app_id": 1007080,
+    "name": "Death Rpg",
+    "release_date": "2019-03-29",
+    "developer": [
+        "Ruskija game experience",
+        "Gangsta Studios",
+        "Tero Lunkka"
+    ],
+    "publisher": [
+        "Tero Lunkka"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Top Down drag &amp; drop RPG strategy game. Help 3 survivor to kill enemies in different worlds.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/header.jpg?t=1555611440",
+    "minimum_requirements": "OS: windows 8 Processor: i5 Memory: 4 GB RAM Graphics: NVidia GeForce 800 series DirectX: Version 9.0 Storage: 4 GB available space Sound Card: Direct x9",
+    "recommended_requirements": "OS: Windows 8.1 Processor: i7 Memory: 6 GB RAM Graphics: NVIDIA GeForce 900 series DirectX: Version 9.0 Storage: 4 GB available space Sound Card: Direct x9",
+    "reviews": []
+}

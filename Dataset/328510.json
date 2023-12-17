@@ -1,0 +1,48 @@
+{
+    "app_id": 328510,
+    "name": "Monsters and Monocles",
+    "release_date": "2016-08-16",
+    "developer": [
+        "Retro Dreamer"
+    ],
+    "publisher": [
+        "Retro Dreamer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 81,
+    "negative_ratings": 16,
+    "price": 10.99,
+    "description": "Monsters and Monocles is a frantic top-down shooter for 1-4 players. Use teamwork and your arsenal of weapons to defeat the overwhelming hordes of evil, either locally or online. All the levels are procedurally generated with new layouts, objectives, and secrets each time you play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/328510/header.jpg?t=1554336171",
+    "minimum_requirements": "OS: Windows 7 Processor: Core i5 or Core i7 Memory: 2 GB RAM Graphics: GTX 400 Series or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space Additional Notes: Additional space required for any mods downloaded",
+    "recommended_requirements": null,
+    "reviews": []
+}

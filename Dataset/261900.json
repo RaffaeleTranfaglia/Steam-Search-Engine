@@ -1,0 +1,49 @@
+{
+    "app_id": 261900,
+    "name": "The Real Texas",
+    "release_date": "2016-07-12",
+    "developer": [
+        "Kitty Lambda Games Inc."
+    ],
+    "publisher": [
+        "Kitty Lambda Games Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 24,
+    "positive_ratings": 27,
+    "negative_ratings": 0,
+    "price": 10.99,
+    "description": "The Real Texas is an action RPG taking place in Strange, Texas: a Kafka-esque parody stuck halfway between modern-day America and olden-days, RPG England.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/261900/header.jpg?t=1478804280",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Core or better Memory: 512 MB RAM Graphics: OpenGL 1.2 or better Storage: 200 MB available space Sound Card: DirectSound compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo Memory: 1 GB RAM Graphics: GeForce, RADEON, or Intel HD-series Storage: 200 MB available space Sound Card: DirectSound compatible",
+    "reviews": [
+        {
+            "review_text": "The Real Texas is a strange game that's tricky to summarize. It really doesn't settle for doing things conventionally. It has a simple aesthetic that might put some people off. If you don't mind those, there's a great and unique game here.  You're a cowboy who takes a vacation to a castle in England only to find that something unusual has happened. You quickly end up in Strange, Texas, which is probably just purgatory. Obviously, there's a weird sense of humor to this game. While the tone of the game is usually pretty lighthearted, it does take itself seriously when it needs to. Of course, this is a game about purgatory.  The gameplay is a nice mix of exploration, puzzle-solving, and combat. You'll travel between reality (in England) and the town of Strange, Texas (in purgatory). Solving problems in one world helps solve problems in the other. The worlds aren't massive, but there's plenty of detail to make up for it. There are also quite a few side quests to do and secrets to find.  Interactions with objects and NPCs happen via keywords (search, use, talk, etc.). Some are highlighed by conversations, but it's possible to type them out if you want to try something different. This is actually necessary for some things, too.  Most of the progression is based on puzzles and NPCs questlines rather than on combat. These questlines often involve going between the worlds to solve problems on both sides. It's sometimes a little bit unclear what to do next, but I never really found it to be a big problem. These type of segments generally lead into a more straightforward Zelda-ish dungeon with some unique puzzles and combat to mix things up.  The combat is pretty unusual. It's not possible to move while aiming. Shots have to be aimed (somewhat) precisely. The health system is (intentionally) vague. Regaining health happens automatically, but interrupts actions. It's a bit awkward at first, but I think it's interesting. It's not too hard and there's not much penalty for death.  I should also just mention that the soundtrack is fantastic and free to download on the developer's site.  Overall, I just really like The Real Texas. It's a strange, unique game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This game is really good, played it back in 2012.",
+            "review_score": "1"
+        }
+    ]
+}

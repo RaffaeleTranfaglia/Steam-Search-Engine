@@ -1,0 +1,57 @@
+{
+    "app_id": 9850,
+    "name": "Codename: Panzers - Cold War",
+    "release_date": "2009-05-06",
+    "developer": [
+        "InnoGlow",
+        "Stormregion",
+        "THQ Nordic"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "RTS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 82,
+    "negative_ratings": 56,
+    "price": 13.99,
+    "description": "Tempelhof, Berlin, dawn of 8th April 1949.A major armed conflict is brewing between the Western powers and the Soviet bloc. The Red Army has been growing ever stronger since the end of World War II. With the growth of their army the Soviets realize that they hold the advantage, and are only waiting for the right moment to attack.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/9850/header.jpg?t=1531221627",
+    "minimum_requirements": "Operating System: Microsoft® Windows® XP SP2/Vista® Processor: Intel® Core™2 Duo 1.8 GHz or AMD Athlon™ X2 +4400 or faster Memory: XP 1 GB RAM - Vista 2GB RAM Hard Disk Space: 5GB Available Video Card: ATI Radeon X800 or NVIDIA GeForce 6800 or faster Sound Card: DirectX 9.0c-compatible sound card                     DirectX® Version: 9.0c compatible, 32 bits, multi-core",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I looked at the forum for help in stopping the program crashes, and set an outbound rule to block cpcw.exe(located in steam apps), on my firewall settings, and I got the game to work. I'm running W7 64, by the way.  Not a bad game, and well worth the knockdown price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of potential, but ultimately disappointing. The third entry in a realistic RTS series, it's absolutely filled with inaccuracies - supposed to take place in 1948, it includes tech ranging from 1940 to 1970. It dismantled the fantastic headquarters system of the previous Codename Panzers games in order to introduce a Starcraft-like resource control system on the maps, which makes it seem like a cheap copy of every other RTS game on the market rather than the more unique games that its predecessors had been. Speaking of cheap, the game was obviously made on a shoestring budget, as there's no audio for in-mission dialogue (a step backwards for the series,) little music, and what voice acting they do use is absurdly bad.  Then there's the story, which is so ridiculous that it becomes more painful to watch the longer you play. John Dillinger is *for real* a main character, having faked his death to defect to the USSR, and he flips wildly between his gangster and Comrade personalities. The ending of the plot doesn't make any sense, partly because it's hastily wrapped up in a sequence so rushed that it feels more like an insult than a reward.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "black screen of death every time I start or continue a campaign.. not worth it from steam..  tried compatibility mode, 640x480 res, administrator mode, lowered resolution and still black screen.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really love this game as I love all the old Panzers...BUT. This game won't run for most people even with the 'patch' developers released. 'Patch' was actually Tages removal. Well, the game doesn't work, same as it did not work before the patch. So don't throw away your money on a name to fill out your library.",
+            "review_score": "-1"
+        }
+    ]
+}

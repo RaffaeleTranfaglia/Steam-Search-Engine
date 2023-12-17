@@ -1,0 +1,39 @@
+{
+    "app_id": 477900,
+    "name": "Lord of Dwarves",
+    "release_date": "2019-03-07",
+    "developer": [
+        "Stellar Sage Games"
+    ],
+    "publisher": [
+        "Stellar Sage Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 14.99,
+    "description": "Gather resources, craft weapons, and build a castle. Then defend your castle against monsters who will try to siege, sap, and smash their way in. All in a procedurally generated 3D block world that allows for extensive crafting and total construction and destruction of the terrain.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/477900/header.jpg?t=1552874627",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 Ghz Dual-Core Memory: 2 GB RAM Graphics: OpenGL 3.0 based graphics card Storage: 700 MB available space Additional Notes: Intel HD graphics are not officially supported, your results may vary",
+    "recommended_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: 3.0+ Ghz Quad-Core Memory: 4 GB RAM Graphics: NVidia GeForce 500 series or better Storage: 700 MB available space Additional Notes: Intel HD graphics are not officially supported, your results may vary",
+    "reviews": []
+}

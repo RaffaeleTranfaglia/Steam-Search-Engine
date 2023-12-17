@@ -1,0 +1,41 @@
+{
+    "app_id": 896070,
+    "name": "Second Hazardous Course",
+    "release_date": "2018-07-26",
+    "developer": [
+        "Team Lambda"
+    ],
+    "publisher": [
+        "Team Lambda"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Hardcore platformer, the plot of which tells about the subjects who are trained in the complex hazardous course for unknown purposes, which will be learned from in-game stories and records.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/896070/header.jpg?t=1532602267",
+    "minimum_requirements": "OS: Windows: 7, 8, 8.1, 10 (x64) Processor: Intel Core 2 Duo E6400 2,12GHz Memory: 1 GB RAM Graphics: Radeon HD 3800 Series 512 Mb DirectX: Version 10 Storage: 200 MB available space Sound Card: Realtek HD Audio",
+    "recommended_requirements": "OS: Windows: 7, 8, 8.1, 10 (x64) Processor: Intel Core 2 Duo E7300 2,66GHz Memory: 2 GB RAM Graphics: Nvidia GT630 1024 Mb DirectX: Version 11 Storage: 200 MB available space Sound Card: Realtek HD Audio",
+    "reviews": []
+}

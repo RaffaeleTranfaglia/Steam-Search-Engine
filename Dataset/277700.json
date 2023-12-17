@@ -1,0 +1,51 @@
+{
+    "app_id": 277700,
+    "name": "On Rusty Trails",
+    "release_date": "2016-06-13",
+    "developer": [
+        "Black Pants Studio"
+    ],
+    "publisher": [
+        "Black Pants Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 44,
+    "positive_ratings": 139,
+    "negative_ratings": 14,
+    "price": 9.99,
+    "description": "Conformity is everything in this lightning-fast platformer - get ready to shift your friendships each and every second!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/277700/header.jpg?t=1505308949",
+    "minimum_requirements": "OS: Windows XP or newer, 32 or 64 bit Processor: CPU with SSE2 support required (Core 2 Duo, Athlon X2 or newer). Memory: 2048 MB RAM Graphics: OpenGL 3.1 or higher required (Intel HD series, NVIDIA GeForce 8000 series, AMD Radeon HD series or newer) Storage: 2 GB available space",
+    "recommended_requirements": "Processor: Quad core processor, Intel Core i5, AMD Athlon X4 or better Memory: 4096 MB RAM Graphics: NVIDIA GeForce or AMD Radeon with 1024MB VRAM recommended.",
+    "reviews": [
+        {
+            "review_text": "On Rusty Trails is a indie platformer game created by Black Pants Studio that revolves around fast thinking and fast reactions. It boast some very simple but fun mechanics. The base mechanic is switching between “modes” to open up different routes or platforms. Other mechanics are getting very nicely introduced by in-game visuals or NPC interactions. This together with the great level design makes for several different ways to solve every level. You have for example the fastest route, the route with all the tokens or all the checkpoints. It creates a scaling difficulty level and a replayability value if you want to complete it in different ways. Easy to learn hard to master, these are the controls of On Rusty Trails. They can really work well and create a great flow in the game, but some jumps are so hard. It takes a lot of time to practice and get it straight, it’s so hard I found myself irritated by the controls.   Visually it is very stylized, it has a special feel to it and it looks amazing. The different levels and their own atmosphere, the bright and vivid colors give a lively feeling while the darker levels give you a scared and compressed feeling. There were just some minor problems. Sometimes it was hard to see what was standable and what was background and sometimes you die or get a checkpoint while you didn’t pass or hit it. This infuriated me while trying to get my 100% run.  Auditory this game is great. I really like the soundtrack and it sets the atmosphere. It has a cool beat to keep you going in the game. The sound effects feel very alive and they have a certain effectiveness to it. While playing the game without sound I missed the sound of Elvis clinging to the blocks, the leafs clattering, the searing magma and the lasers trying to burn me. It’s also handy as a sound cue in the later stages of the game.   Overall the game is a experimental platformer with fun new ideas. It has a global leaderboard which shows how many people are faster than you and it invites to speedrun. On Rusty Trails packs a 2-3 hour playtime to complete it if you are familiar with the genre. Luckily there is quite some replay value in this game so the 2-3 hours quickly expanded to 12 hours for me. The controls weren’t always great and the visuals have a few irritating quirks. But apart from that it’s still a solid game that I would recommend to fans of the genre and non-fans alike. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game won't work properly on macbooks with Retina display.  The issue is known since the game launched in june but hasn't been fixed yet. Devs swear it will be fixed with the next update, which is still to be announced.  I don't know if steam or the devs are to blame, but that game shouldn't be advertised as 'available on mac'. I'll edit this review and speak more about the game once I would be able to actually play it.",
+            "review_score": "-1"
+        }
+    ]
+}

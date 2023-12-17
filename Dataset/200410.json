@@ -1,0 +1,75 @@
+{
+    "app_id": 200410,
+    "name": "SOL: Exodus",
+    "release_date": "2012-01-25",
+    "developer": [
+        "Bit Planet Games, LLC"
+    ],
+    "publisher": [
+        "Bit Planet Games, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 53,
+    "positive_ratings": 45,
+    "negative_ratings": 47,
+    "price": 5.59,
+    "description": "Take on the role of the Lieutenant Commander, ace fighter pilot, as you search for a new home, battle a mysterious enemy, and rescue humanity from a fiery end.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/200410/header.jpg?t=1447354658",
+    "minimum_requirements": "OS: Windows XP (SP3), Windows Vista (SP2), or Windows 7 Processor: 1.8Ghz Intel Core 2 Duo / AMD Athlon X2, or equivalent Memory: 2.0GB Graphics: DirectX 9.0c compatible, 256 MB of VRAM;(NVIDIA GeForce 7600 GS, ATI Radeon HD 2400 Pro 256 MB) DirectX®: 9.0c Hard Drive: 4 GB available Sound: DirectX 9.0c compatible, 16-bit",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.0Ghz Quad Core Memory: 4.0GB Graphics: DirectX 9.0c compatible, 512MB of VRAM; NVIDIA (GeForce GTX260 / ATI Radeon 4870) DirectX®: 9.0c Hard Drive: 4 GB available Sound: DirectX 9.0c compatible, 16-bit",
+    "reviews": [
+        {
+            "review_text": "I feel this game has too many bad reviews, that don't do it justice.   The gameplay is excellent. It's similar to freelancer, but with inertia and glide/slide mechanics. It's a joy to pilot the fighter!  Sure it could be longer and have more options, ships and whatnot, but then it wouldn't have this price tag.  Great dogfights, varied mission objectives. Hope they make a second one!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game recieved a 57 aggregate score on Metacritic; I'm assuming this reflects the initial unpatched version. I'd give it an 84, mainly because of the short length (3.6 hours for one playthrough). At the price point however, that is reasonable, and the game is very fun. Pick it up; it's worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good game but way too short finished in about 3 hours.. It had much potential for a longer story. Feel like they didn't do half the story they should have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am a hardcore fan of Space-Combat-Exploration simulation/arcade games. I own and played a lot of them, in every category. I enjoyed most of them and have fond memories of each one.  This game is an exception. Its combat mechanics are horrible, visuals are so and so, the music and sound generally is out of place, and the story is laughable.   This is a rare case of a game that I'll leave it unfinished, uninstall it, and never think of it again. And so shoud you",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The controls and physics in this game just feel off. Ships don't seem to have momentum properly modelled. Same with acceleration. In space moving around should be like a big 3d ice-rink - you slide around with no friction. In this game your ship's velocity vector (i.e. the direction you're going) is simply where your ship points.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Unplayble with a gamepad, it has settings to allow it, but functionally the game is designed for a keyboard/mouse only.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Much too clunky and unsatisfying. I'm not flight sim die-hard, but flight and combat mechanics felt all kinds of screwy to me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game crashes on startup for me, and the problem seems to occur for others, according to the community page. There is not likely to be a fix. Try the demo at the very least before buying.  Interestingly, this game used to work for me. I don't know what broke it - possibly the upgrade to Win10, but there is at least one person reporting the crash on Win7. From what I remember, it was fairly fun, but that is irrelevant if it doesn't run any more.",
+            "review_score": "-1"
+        }
+    ]
+}

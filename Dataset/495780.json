@@ -1,0 +1,64 @@
+{
+    "app_id": 495780,
+    "name": "Hexoscope",
+    "release_date": "2016-08-10",
+    "developer": [
+        "Studio Binokle"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 176,
+    "negative_ratings": 20,
+    "price": 1.99,
+    "description": "Hexoscope is a new puzzle game that challenges your skills to create from Chaos. You should arrange the chaotic combination of hexagonal Chips to create a Chain from Power Source to Power Receiver. You should swap Chips with each other to combine their pins into solid Chain from Source to Receiver.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/495780/header.jpg?t=1472488939",
+    "minimum_requirements": "OS: Windows XP, Windows Server 2008, Windows 7, Windows 8.1 Classic or Windows 10 Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom 1.6GHz Memory: 1 GB RAM",
+    "recommended_requirements": "OS: Windows XP, Windows Server 2008, Windows 7, Windows 8.1 Classic or Windows 10 Processor: Intel i3 or faster processor Memory: 2 GB RAM",
+    "reviews": [
+        {
+            "review_text": "Great little puzzle game. Took me about 12 hours to beat, which for only a dollar, that's incredible value. Also, to clear up any confusion, some reviewers say they had to reset continously to beat a puzzle (levels are randomized each time) but that's not true, all puzzles are solvable. It is possible to make a move that will result in it no longer being solvable but that's why the undo button exists. But from the very start of the level, there is always a way to complete it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Fun game with relaxing soundtrack. Use Turbo mode for extra challenge.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Despite being only $0.99 Hexoscope is a surprisingly good puzzle game.   In Hexoscope your goal is to build a path from the power generator(s) to the power receiver(s). In each level you start at the power generator and start placing connectors next to each other to make a path towards the receiver. You move connectors by swapping the position of two connectors. The catch is that you can only move connectors that are either connected to the power generator or are next to a connector that is connected to the power generator. This means that you will have to create paths to different parts of the level to retrieve a connector piece that you need to complete your path to the receiver.   I am a fan of puzzle games and I enjoyed Hexoscope. The game's mechanics are interesting and fun. The game is surprisingly challenging at times as you need to really think out how to make a path that reaches the receiver but also gets you to the pieces you need to finish your path.   While Hexoscope is a fun game it is not perfect. First it is not the type of game that I would play for more than a half hour to an hour at a time. It is the type of game that is fun for a couple puzzles at a time but them gets a little repetitive. I plan on playing a couple puzzles a day and then coming back to the game a different day. The second issue comes from the randomized levels. While the game usually creates layouts that are challenging but not too challenging, the game occasionally creates really challenging or really easy levels. This means that the game's difficulty tends to fluctuate quite a bit.  If you like puzzle games and the game's concept interests you, I can't see you not enjoying your time with Hexoscope. The game is only $0.99 after all.  If you would like to read my full review check out   Geeky Hobbies   [www.geekyhobbies.com] . ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It gets repetitive and boring after a few hours.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  My father left my mother at the young age of... My mother had a one-night stand, and I am a dissapointment",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game, cool puzzle mechanics. 10/10 worth the money I spent.",
+            "review_score": "1"
+        }
+    ]
+}

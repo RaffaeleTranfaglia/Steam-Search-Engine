@@ -1,0 +1,43 @@
+{
+    "app_id": 918620,
+    "name": "Warships 3D",
+    "release_date": "2019-01-28",
+    "developer": [
+        "ENC Games"
+    ],
+    "publisher": [
+        "ENC Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Warships 3D is customizable battleship-like game done in 3D environment with animations and cutscenes. Players can define their own rules like map size, which ships are available and at which events what weapons will be granted to player(s).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/918620/header.jpg?t=1548701904",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i3 Memory: 1 GB RAM Graphics: GT555m DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 Memory: 4 GB RAM Graphics: 970 GTX DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

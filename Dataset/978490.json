@@ -1,0 +1,38 @@
+{
+    "app_id": 978490,
+    "name": "Yo My Yo!",
+    "release_date": "2018-12-02",
+    "developer": [
+        "StepUnique"
+    ],
+    "publisher": [
+        "StepUnique"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Yo My Yo! is a simplistic 2D racing game, in which the player must avoid collisions on the road during a given time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/978490/header.jpg?t=1543770961",
+    "minimum_requirements": "OS: Windows 7 and higher. Processor: Intel Core 2 Duo. Memory: 2 GB RAM Graphics: GeForce GT630M. DirectX: Version 11 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

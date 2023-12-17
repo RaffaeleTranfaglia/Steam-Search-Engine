@@ -1,0 +1,38 @@
+{
+    "app_id": 800690,
+    "name": "The Unlikely Legend of Rusty Pup",
+    "release_date": "2018-10-19",
+    "developer": [
+        "Gory Detail Limited"
+    ],
+    "publisher": [
+        "Gory Detail Limited"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 33,
+    "positive_ratings": 14,
+    "negative_ratings": 0,
+    "price": 12.99,
+    "description": "From the original creator of Conker's Bad Fur Day comes a delicately told tale of a dog that thinks it's a toy, or is it a toy that thinks it's a dog?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/800690/header.jpg?t=1541688641",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-3330 3GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 650 / AMD Radeon HD 7770 1GB Storage: 3 GB available space Sound Card: Any OpenAL supported Additional Notes: Will run on lower spec GFX cards if you enable lo-res textures in the config.txt file",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-2600 3.4GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 780 / AMD Radeon R9 290X 1GB Storage: 3 GB available space Sound Card: Any OpenAL supported",
+    "reviews": []
+}

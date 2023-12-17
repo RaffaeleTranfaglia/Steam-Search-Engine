@@ -1,0 +1,41 @@
+{
+    "app_id": 752770,
+    "name": "GyroShooter",
+    "release_date": "2018-02-19",
+    "developer": [
+        "TRIANGLE SERVICE"
+    ],
+    "publisher": [
+        "TRIANGLE SERVICE"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Aim the targets approaching from all sides! The game looks like a shoot'em up but no, this new style game involves no shooting!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/752770/header.jpg?t=1528282966",
+    "minimum_requirements": "OS: Windows 10 Processor: Atom Bay Trail Memory: 2 GB RAM Graphics: Intel HD Graphics DirectX: Version 11 Storage: 256 MB available space Sound Card: Onboard",
+    "recommended_requirements": null,
+    "reviews": []
+}

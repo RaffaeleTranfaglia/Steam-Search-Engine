@@ -1,0 +1,61 @@
+{
+    "app_id": 360010,
+    "name": "Remnants Of Isolation",
+    "release_date": "2015-05-01",
+    "developer": [
+        "Team Isolation"
+    ],
+    "publisher": [
+        "Degica"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 62,
+    "negative_ratings": 10,
+    "price": 1.59,
+    "description": "Fight horrific enemies and utilize powerful spell fusions to overcome the cruel fate of mages and see the light of freedom.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360010/header.jpg?t=1498546703",
+    "minimum_requirements": "OS: Microsoft Windows XP/Vista/7 (32 bit or 64 bit) Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 256 MB RAM Graphics: 1024x768 or better video resolution in High Color mode Storage: 100 MB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Pretty bland. uses alot of stock RPG maker parts, a generic 'silent protagonist' to save time, and you know. lack of writing skills.  actual in game dialogue is like 50 total lines. actul story dosent exist. hits you with the egeneric 'main character is the cause of this' literally immediately after talking about a 'heart of the castle' or whatever.  has some specially drawn scenes, like 3 or 4 of them. but they ALL look terrible. my favorite is how the final boss gets his own little intro image. and it looks absolutely nothing like his in game sprite.  literally copies the main castle map from The Fairy, The Succubus, and The Abyss. dosent even TRY to rearange it any.  gameplay is okay, but to grind monsters(which youll never need to do since every enemy can be killed in at most, 2 hits. final boss included.) you have to leave the dugeon and return. game has no balance whatsoever, as soon asyou get tripple triad or whatever the hell its called, its GG. you win.  its an okay rpg maker generic low effort game. for free. ITS NOT WORTH PAYING FOR. THIS ISNT EVEN UP TO LAXIUS POWER STANDARDS.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For an RPG Maker game, you can't really fault too much of the game-play or graphics, it's pretty well done and it has a pretty great feel for it.  It's a fairly easy RPG, a slightly unique battle system that's pretty smooth, the characters have a good relationship even though the main character, Celesta doesn't speak.  I recommend it to those who enjoy the casual RPG.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not a fan of the whole battle system idea. Turned me off. The story was meh.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A very enjoyable rpg maker game. Lovely character designs and art, beautiful story. A bit short but totally worth it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A short little gem. After you realize what you should do with the battle system the combats are no problem. Overall there are 5 small dungeons and a few boss fights. Also the game has 3 possible endings, no bugs  and it costs next to nothing.",
+            "review_score": "1"
+        }
+    ]
+}

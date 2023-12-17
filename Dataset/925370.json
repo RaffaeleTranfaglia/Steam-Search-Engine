@@ -1,0 +1,38 @@
+{
+    "app_id": 925370,
+    "name": "Wizard Slime",
+    "release_date": "2018-12-17",
+    "developer": [
+        "felipejoys"
+    ],
+    "publisher": [
+        "felipejoys"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 13,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Wizard Slime is a 2D Top-Down shooter game in which you dodge enemy bullets and shoot Magic Missiles guided towards your mouse pointer to successfully beat the dungeon levels without perishing in the process.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/925370/header.jpg?t=1545304726",
+    "minimum_requirements": "OS: Windows XP or later Memory: 128 MB RAM Graphics: Any DirectX 9 compatible card DirectX: Version 9.0c Storage: 30 MB available space Sound Card:",
+    "recommended_requirements": null,
+    "reviews": []
+}

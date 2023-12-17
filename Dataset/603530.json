@@ -1,0 +1,45 @@
+{
+    "app_id": 603530,
+    "name": "A Robot Named Fight!",
+    "release_date": "2017-09-07",
+    "developer": [
+        "Matt Bitner Games"
+    ],
+    "publisher": [
+        "Matt Bitner Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Metroidvania",
+        "Indie"
+    ],
+    "achievements": 60,
+    "positive_ratings": 271,
+    "negative_ratings": 30,
+    "price": 10.29,
+    "description": "A Robot Named Fight is a Metroidvania roguelike focused on exploration and item collection. Explore a different, procedurally-generated labyrinth each time you play and discover randomized power-ups to traverse obstacles, find secrets and explode meat beasts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/603530/header.jpg?t=1543271559",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Pentium E2180 2.0 GHz (or AMD equivalent) Memory: 1 GB RAM Graphics: Anything with DX9 (shader model 3.0) capability DirectX: Version 9.0 Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

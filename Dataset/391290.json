@@ -1,0 +1,42 @@
+{
+    "app_id": 391290,
+    "name": "DeathCrank",
+    "release_date": "2016-12-14",
+    "developer": [
+        "Kenny Roy"
+    ],
+    "publisher": [
+        "Kenny Roy"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 2.89,
+    "description": "DeathCrank is a fast-paced, local and online multiplayer vehicle combat game that combines the best of games like Twisted Metal and Burnout, with a top-down retro feel and insane weaponry.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/391290/header.jpg?t=1517982386",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 Memory: 4 GB RAM Graphics: Geforce GTX 750 DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space Sound Card: Stereo Additional Notes: 2 Xbox or similar controllers required for local play, 1 controller required for network play",
+    "recommended_requirements": "OS: Windows 10 Processor: i7 Memory: 8 GB RAM Graphics: Geforce GTX 780 DirectX: Version 12 Network: Broadband Internet connection Storage: 600 MB available space Sound Card: 5.1 channel Additional Notes: 2 Xbox or similar controllers required for local play, 1 controller required for network play",
+    "reviews": []
+}

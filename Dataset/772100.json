@@ -1,0 +1,38 @@
+{
+    "app_id": 772100,
+    "name": "Dexterity",
+    "release_date": "2018-01-24",
+    "developer": [
+        "Demian Till"
+    ],
+    "publisher": [
+        "Demian Till"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 4,
+    "price": 2.89,
+    "description": "The exhibition's main entrance/exit has mysteriously vanished. Help the guests to escape by completing a host of devilishly difficult and silly physics based challenges and puzzles with the aid of your 'hand on a stick' device.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/772100/header.jpg?t=1541796836",
+    "minimum_requirements": "OS: Windows XP SP2 or higher Processor: Intel Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: Mobile Intel 4 Series Express Chipset Family or equivalent Storage: 1500 MB available space Additional Notes: Requires keyboard. Touchpad supported, but mouse strongly recommended",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel Core i5 1.4 Ghz or equivalent Memory: 2 GB RAM Graphics: Intel HD Graphics 5000 1536 MB or equivalent Storage: 1500 MB available space Additional Notes: Requires keyboard. Touchpad supported, but mouse strongly recommended",
+    "reviews": []
+}

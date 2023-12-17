@@ -1,0 +1,39 @@
+{
+    "app_id": 789100,
+    "name": "My Little Farmies",
+    "release_date": "2018-02-27",
+    "developer": [
+        "upjers"
+    ],
+    "publisher": [
+        "upjers"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Free to Play",
+        "Simulation"
+    ],
+    "achievements": 20,
+    "positive_ratings": 52,
+    "negative_ratings": 80,
+    "price": 0.0,
+    "description": "Show your artistic side! Create your own medieval settlement in the My Little Farmies tycoon. Build artisan workshops and production sites. Trade with fruit, vegetables and cereals. Download My Little Farmies now!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/789100/header.jpg?t=1551162723",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Pentium 4 Memory: 2 GB RAM Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

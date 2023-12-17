@@ -1,0 +1,42 @@
+{
+    "app_id": 364850,
+    "name": "StartBolita",
+    "release_date": "2015-07-30",
+    "developer": [
+        "JhonGames"
+    ],
+    "publisher": [
+        "JhonGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 9,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "StartBolita is a game of puzzle based on Dodge and move boxes of colors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364850/header.jpg?t=1543667939",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: 2.4 Ghz+ Dual Core Memory: 4 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 64bit or Newer Processor: 3.0 GHz+ Dual core Memory: 4 GB RAM Graphics: Nvidia 760 or Radeon 270 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

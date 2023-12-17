@@ -1,0 +1,37 @@
+{
+    "app_id": 728020,
+    "name": "Lost Home",
+    "release_date": "2017-12-01",
+    "developer": [
+        "Lunar Collapse"
+    ],
+    "publisher": [
+        "Lunar Collapse"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 14,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "Lost Home is a 2D adventure game with a platformer spirit. you'll play as an armadillo and a snake, who'll have to work together in order to find themselves a new home.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/728020/header.jpg?t=1515663148",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Graphics: Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 1100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 678310,
+    "name": "Pinball Deluxe: Reloaded",
+    "release_date": "2017-10-06",
+    "developer": [
+        "Made of Bits"
+    ],
+    "publisher": [
+        "Made of Bits"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 88,
+    "positive_ratings": 39,
+    "negative_ratings": 3,
+    "price": 5.59,
+    "description": "Cool retro pinball game with customizable tables. A flippin' good time!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/678310/header.jpg?t=1520868149",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2GHz Memory: 1 GB RAM Graphics: 256MB VRAM DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

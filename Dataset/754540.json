@@ -1,0 +1,39 @@
+{
+    "app_id": 754540,
+    "name": "Gauntlet of IRE",
+    "release_date": "2017-12-15",
+    "developer": [
+        "KillerPokeGames"
+    ],
+    "publisher": [
+        "KillerPokeGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 59,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "A 35 part obstacle course that is deceptively simple and infuriatingly obvious in the most difficult way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/754540/header.jpg?t=1533145103",
+    "minimum_requirements": "Mínimos: SO: Windows XP SP2+ Processador: SSE2 instruction set support Memória: 4 GB de RAM Placa de vídeo: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Armazenamento: 30 MB de espaço disponível",
+    "recommended_requirements": null,
+    "reviews": []
+}

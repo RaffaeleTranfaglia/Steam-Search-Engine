@@ -1,0 +1,39 @@
+{
+    "app_id": 571520,
+    "name": "Kalaban",
+    "release_date": "2016-12-29",
+    "developer": [
+        "Rayhouse Productions"
+    ],
+    "publisher": [
+        "GRM Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 26,
+    "positive_ratings": 17,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Horror-themed action-adventure set in alternate history Finland.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/571520/header.jpg?t=1551898051",
+    "minimum_requirements": "OS: Windows 10, 8.x, 7, Vista, XP Processor: 1 Ghz Memory: 2 GB RAM Graphics: 256 MB graphics card DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "Processor: 2 Ghz Memory: 4 GB RAM Graphics: 1 GB graphics card DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

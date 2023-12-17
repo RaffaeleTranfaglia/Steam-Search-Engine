@@ -1,0 +1,44 @@
+{
+    "app_id": 545410,
+    "name": "A Trip to Yugoslavia: Director's Cut",
+    "release_date": "2017-02-22",
+    "developer": [
+        "Piotr Bunkowski",
+        "Hades Productions"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 49,
+    "positive_ratings": 83,
+    "negative_ratings": 36,
+    "price": 0.79,
+    "description": "A TRIP TO YUGOSLAVIA is an experimental interactive game with a theme of the old VCR player (with the ability to REWIND, PAUSE and FASTFORWARD).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/545410/header.jpg?t=1547239074",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: AMD Athlon II Dual-Core M320 2.10 GHz Memory: 2 GB RAM Graphics: ATI Radeon HD 4500 DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Realtek High Definition Audio",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: Intel Pentium G3420 3.20 GHz Memory: 3 GB RAM Graphics: AMD Radeon HD 6670 DirectX: Version 11 Storage: 1 GB available space Sound Card: Realtek High Definition Audio",
+    "reviews": []
+}

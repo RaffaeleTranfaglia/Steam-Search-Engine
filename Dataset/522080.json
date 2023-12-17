@@ -1,0 +1,43 @@
+{
+    "app_id": 522080,
+    "name": "Gemstone Keeper",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Gamepopper"
+    ],
+    "publisher": [
+        "Gamepopper"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 13,
+    "positive_ratings": 7,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Gemstone Keeper is a twin stick shooter where avid explorers go down into the Cistershire Caverns, a large, dangerous and mysterious set of caves and caverns that are filled with vast amounts of rare and valuable gemstones.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/522080/header.jpg?t=1497527742",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel® Core™ 2 Duo / AMD Athlon™ 64 X2 3800+ Memory: 500 MB RAM Graphics: NVIDIA® GeForce® 6800 GT @ 512MB / ATI® Radeon™ X1900XT @ 512MB or better DirectX: Version 9.0c Storage: 27 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

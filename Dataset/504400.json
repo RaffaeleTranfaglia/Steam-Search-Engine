@@ -1,0 +1,53 @@
+{
+    "app_id": 504400,
+    "name": "Optika",
+    "release_date": "2016-08-26",
+    "developer": [
+        "PlayZilla.tk"
+    ],
+    "publisher": [
+        "PlayZilla.tk"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 5,
+    "positive_ratings": 174,
+    "negative_ratings": 30,
+    "price": 3.99,
+    "description": "Discover the world of light physics: play with lasers, prisms, mirrors, magnets and dozens of other optical devices. Explore the world of Optika with Prof. Opticus and his assistant, Sofia! Research and complete more than one hundred challenging puzzles!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504400/header.jpg?t=1521025221",
+    "minimum_requirements": "OS: Windows 7, Windows 8.1, Windows 10, Windows XP or Windows Server 2008 Processor: 2.33GHz or faster x86-compatible processor or Intel® Atom™ 1.6GHz or faster processor for notebook class devices Memory: 512 MB RAM Graphics: Any GPU Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Feels like the photon variant of The Incredible Machine, nice enough. Seems to be produced for tablets (giant fonts, no keyb controls). But most of all, the game is not physically correct! (e.g. 'photon accelerators' isnt something that exists, and to curve photon paths, not gravity is used but magnetic fields). So if your kid plays this, (s)he might get some wrong ideas about the physics of light.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great puzzle game that based on real physics, on real optics science: you play with lasers, mirrors, prism, lenses; you rule photons making the lights turn on: levels seem to be endless and you need to be very precise on some levels, or photons won't obey you. Though game may seem a bit expensive - its really unique",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun problem-solving game, a great way to burn time and relax. Some beautiful visuals to be had, and the musical background is quite nice as well.",
+            "review_score": "1"
+        }
+    ]
+}

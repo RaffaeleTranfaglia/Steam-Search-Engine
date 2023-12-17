@@ -1,0 +1,34 @@
+{
+    "app_id": 839340,
+    "name": "SOK MIN",
+    "release_date": "2018-04-18",
+    "developer": [
+        "Enter Name Here"
+    ],
+    "publisher": [
+        "Enter Name Here"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 102,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "SOK MIN is the smallest and the easiest levels of SOK puzzle. Now you do not need a guide for completing each level. Just try it!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/839340/header.jpg?t=1543388747",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Celeron 1.4 GHz Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 11 Storage: 50 MB available space Additional Notes: Keyboard",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,33 @@
+{
+    "app_id": 829630,
+    "name": "Skat Stammtisch",
+    "release_date": "2018-04-30",
+    "developer": [
+        "Z-Software GmbH"
+    ],
+    "publisher": [
+        "familyplay"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 4,
+    "price": 6.19,
+    "description": "With Skat Stammtisch you can enjoy a match of Skat on your PC whenever you feel like it!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/829630/header.jpg?t=1554460008",
+    "minimum_requirements": "OS: Windows 10 / 8 / 7 Processor: 1,2 GHz Memory: 512 MB RAM Graphics: 128 Onboard DirectX: Version 9.0 Storage: 475 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

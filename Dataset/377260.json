@@ -1,0 +1,44 @@
+{
+    "app_id": 377260,
+    "name": "Unearned Bounty",
+    "release_date": "2018-08-22",
+    "developer": [
+        "Extrokold Games"
+    ],
+    "publisher": [
+        "Extrokold Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Pirates",
+        "Multiplayer"
+    ],
+    "achievements": 19,
+    "positive_ratings": 196,
+    "negative_ratings": 100,
+    "price": 0.0,
+    "description": "Unearned Bounty is an action-packed Free-For-All multiplayer game where you battle to become the most infamous pirate!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/377260/header.jpg?t=1534956373",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 750 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 750 MB available space Additional Notes: Internet Connection Required",
+    "recommended_requirements": "Network: Broadband Internet connection",
+    "reviews": []
+}

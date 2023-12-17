@@ -1,0 +1,55 @@
+{
+    "app_id": 350630,
+    "name": "Dodge",
+    "release_date": "2015-03-16",
+    "developer": [
+        "Yokcos"
+    ],
+    "publisher": [
+        "Yokcos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Arcade"
+    ],
+    "achievements": 13,
+    "positive_ratings": 62,
+    "negative_ratings": 19,
+    "price": 1.59,
+    "description": "Dodge is a minimalist arcade-style game originally made for Ludum Dare 26. Your aim is simple: To dodge the incoming squares for as long as possible.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350630/header.jpg?t=1447369199",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 8.1 Processor: Potato Memory: 30 MB RAM Storage: 6 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A fun and difficult game. Not an extremely large amount of content but good replay value and a good challenge.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mediocre game while it worked. But now I can't even start it no matter what I do.  2/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "♛ Good Game to get free 'Traiding Cards'. ♛",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just a really simple game where you have to dodge incoming cubes and lines. Nothing too special to recommend.",
+            "review_score": "-1"
+        }
+    ]
+}

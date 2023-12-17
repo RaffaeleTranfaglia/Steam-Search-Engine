@@ -1,0 +1,70 @@
+{
+    "app_id": 46000,
+    "name": "Bob Came in Pieces",
+    "release_date": "2010-01-22",
+    "developer": [
+        "Ludosity"
+    ],
+    "publisher": [
+        "Ludosity"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 81,
+    "positive_ratings": 68,
+    "negative_ratings": 29,
+    "price": 3.99,
+    "description": "Bob has crashed on a strange planet, lost a bunch of parts for his ship and above all, is late for work! Find the lost parts and rebuild your ship along the way to solve challenging, physics-based puzzles. You can build your ship any way you like in the ship builder – try to find the coolest ship-design for the puzzle at hand!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/46000/header.jpg?t=1447352831",
+    "minimum_requirements": "OS: Windows XP/Vista/7 Processor: 2.4 Ghz or equivalent processor Memory: 1GB System RAM (2GB recommended with Vista/7) Graphics: 128mb video RAM and at least Shader Model 2.0 DirectX®: 9.0c Hard Drive: 500MB of free space Sound: Windows compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Time to completion - 4 hours. Taking my time.  An EXTREMELY short puzzle platformer that desperately needs steam workshop support. What is there is fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun little physics puzzle game. Love flying around in the custom built ships. Is a little short in my opinion, finished it in about an hour including finding all the pieces for the ship. There are leaderboards and time trials for every level, so it that appeals to you, then it will last a while longer. It is very good and a lot of fun, but I would advise waiting for a sale or Indie bundle as I really wouldn't pay full price for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "All in all, I think this is a really fun game, and I've had a lot of fun trying to complete the speedruns (which I'm usually not a fan of). For the price of only 6,99€, I would highly recommend this small indie gem.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The world needs more games like this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bob came in pieces, and he left in pieces. Don't buy it if your name is not Bob or you don't like cookies :)  Rated M for Small Pieces",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Too fiddly and frustrating to prove enjoyable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You can buy more entertaining and less frustrating puzzle games. Bob Came in Pieces features 14 chapters and 10 'VR Missions', one of the latter is a horrible version of a Super Mario level. Again, you can buy more entertaining and less frustrating puzzle games. If he came in pieces, he should leave in pieces as well.  P.S.: I played more than 18 minutes, Steam just didn't register them.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 725490,
+    "name": "NewOld",
+    "release_date": "2017-10-25",
+    "developer": [
+        "DolpGames"
+    ],
+    "publisher": [
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 15,
+    "positive_ratings": 11,
+    "negative_ratings": 6,
+    "price": 3.19,
+    "description": "NewOld is an old-school platformer which you will see from a first person point of view. You will take under your control a Hero who desires to discover answers to his questions... or at least find the exit from this creepy labyrinth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/725490/header.jpg?t=1516910827",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8.1, 10 Processor: Intel Core 2 Duo (or equivalent) Memory: 4096 MB RAM Graphics: with 1024 MB VRAM compatible with DirectX 9 DirectX: Version 9.0 Storage: 400 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

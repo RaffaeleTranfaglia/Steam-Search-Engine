@@ -1,0 +1,41 @@
+{
+    "app_id": 765180,
+    "name": "SCP-087: Recovered document",
+    "release_date": "2018-01-01",
+    "developer": [
+        "Korovkin Nikita",
+        "Filatov Igor",
+        "Lagunov Roman",
+        "Kristian Shatov"
+    ],
+    "publisher": [
+        "Korovkin Nikita"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 33,
+    "negative_ratings": 24,
+    "price": 3.99,
+    "description": "SCP-087: Recovered documents - first-person horror, that tells the story of a classified object.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765180/header.jpg?t=1514793742",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 Processor: AMD APU A6 3670K or Intel Core i3 2120 or newer architectures Memory: 4 GB RAM Graphics: ATI/AMD Radeon HD 7770 and NVIDIA GeForce GTX 560 DirectX: Version 11 Storage: 3.5 GB available space Sound Card: Default Additional Notes: Only 64bit CPU",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 Processor: AMD FX8320 or Intel Core i5 4690K or newer architectures Memory: 8 GB RAM Graphics: ATI/AMD Radeon R9 285 and NVIDIA GeForce GTX 1050 Ti DirectX: Version 11 Storage: 3.5 GB available space Sound Card: Default Additional Notes: Only 64bit CPU",
+    "reviews": []
+}

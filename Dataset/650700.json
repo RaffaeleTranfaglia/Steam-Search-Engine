@@ -1,0 +1,39 @@
+{
+    "app_id": 650700,
+    "name": "Yume Nikki",
+    "release_date": "2018-01-09",
+    "developer": [
+        "kikiyama"
+    ],
+    "publisher": [
+        "AGM PLAYISM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Surreal",
+        "Free to Play"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1779,
+    "negative_ratings": 166,
+    "price": 0.0,
+    "description": "This is a game in which you traverse the extremely dark world inside a dream.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/650700/header.jpg?t=1555567069",
+    "minimum_requirements": "OS: Windows 2000 / XP / vista / 7 Processor: MMX Pentium(R)200MHz（Pentium(R)II450MHz or above recommended） Memory: 32 MB RAM",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "app_id": 97120,
+    "name": "Kohan: Ahriman's Gift",
+    "release_date": "2011-08-24",
+    "developer": [
+        "TimeGate Studios"
+    ],
+    "publisher": [
+        "TimeGate Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RTS",
+        "Fantasy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 42,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "#app_97120_short_desc",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/97120/header.jpg?t=1447354555",
+    "minimum_requirements": "OS: Windows 9x/ME/2000/XP/Vista/Windows 7Processor: Pentium II (or equivalent) 233MHzMemory: 64MB RAMGraphics: DirectX 9.0b DirectX&reg;: DirectX 7.0 Compatible Video Card with 4 MB VRAMHard Drive: 150MBSound: Direct sound Compatible Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I just love this game. I've never actually written anything on a game before. This game makes me want to do so. It's cheap and amazing. The fact that the graphics are a little old doesn't deter me at all. Do I wish they were better? Yes. Is it far less important than the amazing game play? Yes.  LAN games of this make me very happy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best RTS of all tim",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant RTS with innovative strategy rules. If you want fast combat, this isn't it. This is the thinking man's RTS.",
+            "review_score": "1"
+        }
+    ]
+}

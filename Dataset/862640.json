@@ -1,0 +1,36 @@
+{
+    "app_id": 862640,
+    "name": "Heroes Of The Offworld Arena",
+    "release_date": "2018-06-04",
+    "developer": [
+        "Real Fighting"
+    ],
+    "publisher": [
+        "Real Fighting"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Shooter",
+        "Singleplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Take part in the space war and clear out the space station.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862640/header.jpg?t=1539080566",
+    "minimum_requirements": "OS: Windows 7 and newer Processor: 2.0 GHz Dual Core Memory: 2048 MB RAM Graphics: NVIDIA Geforce GTS 450 or AMD Radeon HD 6750 DirectX: Version 9.0 Storage: 800 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

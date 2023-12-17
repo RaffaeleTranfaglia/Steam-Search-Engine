@@ -1,0 +1,44 @@
+{
+    "app_id": 589270,
+    "name": "xoEl Empire",
+    "release_date": "2017-06-05",
+    "developer": [
+        "Greyman Studios"
+    ],
+    "publisher": [
+        "Greyman Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 35,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "The Yabbies used to live in harmony, but everything changed... When the xoEl empire attacked. Now, they are trapped waiting his squared destiny and you, blessed by an unknown power, are the only one who can save them... Rotate, Match colours and solve tons of puzzles in your way to freedom.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/589270/header.jpg?t=1496703818",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz Dual Core Processor Memory: 4 GB RAM Graphics: Shader Model 3.0, 256 MB VRAM DirectX: Version 9.0c Storage: 2 GB available space Sound Card: DirectX 9.0c-compatible, 16-bit",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0 GHz Quad Core Processor Graphics: Shader Model 3.0, 512 MB VRAM DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 9.0c-compatible, 16-bit",
+    "reviews": []
+}

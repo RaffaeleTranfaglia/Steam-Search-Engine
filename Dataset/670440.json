@@ -1,0 +1,40 @@
+{
+    "app_id": 670440,
+    "name": "Obscure - Challenge Your Mind™",
+    "release_date": "2017-07-19",
+    "developer": [
+        "RoboDev"
+    ],
+    "publisher": [
+        "RoboDev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 12,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "A first-person puzzle-platformer adventure that will take you into the depths of a little boy's imagination and his inner conflicts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670440/header.jpg?t=1501178681",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel CPU Core i5 Memory: 8 GB RAM Graphics: Nvidia GPU GeForce GTX 770 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel CPU Core i7 3770 3,4 GHz Memory: 16 GB RAM Graphics: Nvidia GPU GeForce GTX 970 Storage: 4 GB available space",
+    "reviews": []
+}

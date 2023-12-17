@@ -1,0 +1,41 @@
+{
+    "app_id": 993890,
+    "name": "Scribble+",
+    "release_date": "2018-12-27",
+    "developer": [
+        "Bear Box Media"
+    ],
+    "publisher": [
+        "Bear Box Media"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 17,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Scribble+ is the quick-draw, multiplayer party-game designed from the ground up to be playable by the whole family, anywhere in the world (especially with Twitch integration!). All you need is connection to a web-browser, and any phone, tablet, laptop or desktop can become a controller.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/993890/header.jpg?t=1546281229",
+    "minimum_requirements": "OS: Windows XP Processor: 1 Ghz Memory: 512 MB RAM Graphics: 1GB VRAM Network: Broadband Internet connection Storage: 50 MB available space Sound Card: N/A Additional Notes: Keyboard",
+    "recommended_requirements": null,
+    "reviews": []
+}

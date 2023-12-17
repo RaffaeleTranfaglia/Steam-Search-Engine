@@ -1,0 +1,45 @@
+{
+    "app_id": 414060,
+    "name": "iso-Sphere",
+    "release_date": "2015-11-13",
+    "developer": [
+        "Mighty Fox Studio"
+    ],
+    "publisher": [
+        "Mighty Fox Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 10,
+    "positive_ratings": 10,
+    "negative_ratings": 10,
+    "price": 3.99,
+    "description": "Colorful puzzle-platformer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 or 10 Processor: 2.3 GHz Intel Core 2 Duo or better Memory: 1024 MB RAM Graphics: DirectX 9 compatible video card with at least 256MB of VRAM. DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8 or 10 Processor: 2.3 GHz Intel Core 2 Duo or better Memory: 2024 MB RAM Graphics: DirectX 9 compatible video card with 512MB VRAM. DirectX: Version 9.0 Storage: 60 MB available space",
+    "reviews": [
+        {
+            "review_text": "Lovely meditative game to play while waiting for something for example. Last patch made the ball a bit easier to control, but it's still plenty difficult, which is good.",
+            "review_score": "1"
+        }
+    ]
+}

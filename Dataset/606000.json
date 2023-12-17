@@ -1,0 +1,48 @@
+{
+    "app_id": 606000,
+    "name": "Die for Valhalla!",
+    "release_date": "2018-05-29",
+    "developer": [
+        "Monster Couch"
+    ],
+    "publisher": [
+        "Monster Couch"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 38,
+    "positive_ratings": 58,
+    "negative_ratings": 12,
+    "price": 10.99,
+    "description": "In the land of Vikings a monstrous portal has opened. The Great Old One is plotting to take over the world. Chaos spreads far and wide... and the party's just getting started! Novice Valkyries along with their new mysterious friend set out to save the world. What could possibly go wrong?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/606000/header_alt_assets_2.jpg?t=1545227321",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 / 8 / 10 Processor: Intel Core™ 2 Duo 2.0+ GHz Memory: 2 GB RAM Graphics: 512 MB video card Storage: 2 GB available space Sound Card: DirectX compatible Additional Notes: Supports Microsoft® Xbox 360 controller, DualShock®4 controller or Direct Input compatible controller",
+    "recommended_requirements": null,
+    "reviews": []
+}

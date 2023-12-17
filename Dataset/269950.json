@@ -1,0 +1,40 @@
+{
+    "app_id": 269950,
+    "name": "X-Plane 11",
+    "release_date": "2017-03-30",
+    "developer": [
+        "Laminar Research"
+    ],
+    "publisher": [
+        "Laminar Research"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Flight",
+        "Realistic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2033,
+    "negative_ratings": 443,
+    "price": 54.99,
+    "description": "The future of flight simulation is now! X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for. Intuitive user interface, 3-D cockpits, new effects, 3-D sound, living airports and world-wide scenery.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/269950/header.jpg?t=1552059627",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, or 10, 64-bit Processor: Intel Core i3, i5, or i7 CPU with 2 or more cores, or AMD equivalent Memory: 8 GB RAM Graphics: DirectX 11-capable video card from NVIDIA or AMD w/512 MB VRAM DirectX: Version 11 Storage: 20 GB available space Sound Card: Default Additional Notes: The disk requirements are based on how many world scenery areas are downloaded.  Minimum with one scenery area is 20 GB . Additional scenery areas can be downloaded at no charge at any time after purchase",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, or 10, 64-bit Processor: Intel Core i5 6600K at 3.5 ghz or faster Memory: 16 GB RAM Graphics: DirectX 12-capable video card from NVIDIA or AMD w/4 GB VRAM DirectX: Version 12 Network: Broadband Internet connection Storage: 65 GB available space Sound Card: Default Additional Notes: The disk requirements are based on how many world scenery areas are downloaded.  Minimum with one scenery area is 20 GB . Additional scenery areas can be downloaded at no charge at any time after purchase",
+    "reviews": []
+}

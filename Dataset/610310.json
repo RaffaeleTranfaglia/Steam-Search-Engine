@@ -1,0 +1,41 @@
+{
+    "app_id": 610310,
+    "name": "Star Story: The Horizon Escape",
+    "release_date": "2017-09-05",
+    "developer": [
+        "EvilCoGames"
+    ],
+    "publisher": [
+        "EvilCoGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Casual"
+    ],
+    "achievements": 40,
+    "positive_ratings": 124,
+    "negative_ratings": 21,
+    "price": 10.99,
+    "description": "Join the journey of a funky space archaeologist who crashed on an unknown planet. A text turn-based adventure RPG in which your choices actually matter. Talk, explore, fight, make decisions to find a way out! Colourful graphics and the old comic book spirit.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/610310/header.jpg?t=1553002708",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 10 Processor: 2.0 GHz+ Dual Core Processor or higher Memory: 2 GB RAM Graphics: Intel HD 3000 or higher DirectX: Version 9.0 Network: Broadband Internet connection Storage: 4 GB available space Sound Card: Standard audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

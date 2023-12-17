@@ -1,0 +1,48 @@
+{
+    "app_id": 398940,
+    "name": "Respawn Man",
+    "release_date": "2015-12-21",
+    "developer": [
+        "Evan (Solidplasma) Peiperl"
+    ],
+    "publisher": [
+        "Solidplasma"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 13,
+    "positive_ratings": 28,
+    "negative_ratings": 6,
+    "price": 2.09,
+    "description": "What kills you makes you stronger! Use your extra lives to solve puzzles in this delightfully morbid puzzle platformer with a soundtrack by VVVVVV's composer, Souleye!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/398940/header.jpg?t=1506330118",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Memory: 512 MB RAM Graphics: 128MB Storage: 115 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Processor: 2GHz+ Memory: 4 GB RAM Graphics: 512MB DirectX: Version 9.0 Storage: 115 MB available space",
+    "reviews": [
+        {
+            "review_text": "I recommend it if you can get it for under a dollar.  I beat the game itself in about an hour and a half, and getting 100% of achievements afterward in about 30 minutes.  I feel like the developer intended on a thriving community to add content to the game after the fact, but a clunky UI for the level builder made me not want to make any levels beyond the one required for the achievement.  Controls seemed tight at first until I realized there was a bit of recovery after jumping, making segments with repeated jumps frustrating. You have to pause briefly before attempting to jump again or you'll keep running forward. This caused a few cheap deaths for me.  If you can beat Super Meat Boy, you'll find this game too easy and too short.  Me, I liked it enough, but I wouldn't have paid full price. I'm still giving it a thumbs up though because I'd like to see more from the dev. He had a great idea, it just fell a little short. It's an above average game, though.",
+            "review_score": "1"
+        }
+    ]
+}

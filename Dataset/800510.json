@@ -1,0 +1,38 @@
+{
+    "app_id": 800510,
+    "name": "RoboHeist VR",
+    "release_date": "2018-04-13",
+    "developer": [
+        "Blob Lab"
+    ],
+    "publisher": [
+        "Blob Lab"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 10.29,
+    "description": "RoboHeist is an intensive and immersive, &quot;Budget Cuts&quot; style Virtual Reality stealth game specially designed for HTC Vive VR device. Your mission is to find and power up the teleport on each level. Watch out for evil robots, lasers and alarms. Hide in closets and chests, climb ladders, crawl and crouch.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/800510/header.jpg?t=1545474202",
+    "minimum_requirements": "OS: Windows™ 7 SP1, Windows™ 8.1 or later or Windows™ 10 Processor: Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce™ GTX 1060 or AMD Radeon™ RX 480, equivalent or better Storage: 3500 MB available space Additional Notes: HTC Vive Virtual Reality system required",
+    "recommended_requirements": null,
+    "reviews": []
+}

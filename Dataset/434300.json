@@ -1,0 +1,39 @@
+{
+    "app_id": 434300,
+    "name": "Wormhole City",
+    "release_date": "2018-12-31",
+    "developer": [
+        "Zenrok Studios"
+    ],
+    "publisher": [
+        "Zenrok Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 7,
+    "negative_ratings": 15,
+    "price": 7.19,
+    "description": "Wormhole City is a single-player sci-fi adventure game where you must interact with characters, machines, and the environment to achieve your objectives and progress throughout the game. Control Space Force mercenary Acero Astra as you escort a spaceship convoy to safety in the frontier sectors of space.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/434300/header.jpg?t=1546903587",
+    "minimum_requirements": "OS: Windows 10 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11 Storage: 13 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 11 Storage: 13 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 500690,
+    "name": "Secret Santa",
+    "release_date": "2016-12-01",
+    "developer": [
+        "Daniel Jonathan Bourke"
+    ],
+    "publisher": [
+        "Project Tranquil"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 9,
+    "positive_ratings": 35,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "Sneak around children, pets, and the elderly as you deliver Christmas joy. Complete the list of deliveries, and have some cookies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/500690/header.jpg?t=1510688543",
+    "minimum_requirements": "OS: Vista or Newer Processor: 2GHz Memory: 1024 MB RAM Graphics: VGA Storage: 239 MB available space Sound Card: DirectSound Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

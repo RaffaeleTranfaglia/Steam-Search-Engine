@@ -1,0 +1,41 @@
+{
+    "app_id": 393420,
+    "name": "Hurtworld",
+    "release_date": "2015-12-03",
+    "developer": [
+        "Bankroll Studios"
+    ],
+    "publisher": [
+        "Bankroll Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Open World"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15574,
+    "negative_ratings": 5362,
+    "price": 19.49,
+    "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on competitive gunplay and strategic map control. Built for hardcore gamers, Hurtworld aims to punish.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/393420/header.jpg?t=1547516280",
+    "minimum_requirements": "OS: Windows XP 64 Processor: 2 GHz Memory: 4 GB RAM Graphics: GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024 MB video RAM DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 64 Processor: 3 GHz Memory: 8 GB RAM Graphics: GeForce 660/Radeon HD 6970 DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

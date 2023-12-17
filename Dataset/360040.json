@@ -1,0 +1,52 @@
+{
+    "app_id": 360040,
+    "name": "Our Nation's Miner",
+    "release_date": "2015-12-22",
+    "developer": [
+        "Lord Bytesworth"
+    ],
+    "publisher": [
+        "Lord Bytesworth"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 14,
+    "price": 4.79,
+    "description": "It’s 1984, and in the basement of a quiet arcade store somewhere in the UK, an experimental arcade machine is gathering dust.Unravel the mysteries of the cabinet in this evolving, retro sci-fi experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360040/header.jpg?t=1528140488",
+    "minimum_requirements": "OS: Windows 7 or Above Processor: 2 GHz Memory: 4 GB RAM Graphics: DirectX 11 Compatible DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I enjoyed playing this game, reminiscent of Asteroids which is great! A work in progress, but still very enjoyable. The only thing I think it's missing is a bit of lore that you can find around the place as you go :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "can't really play it as the UI doesn't work! the cursor is way off any buttons.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is a high definition version of the old game Asteroids.  While easy to figure out after muddling around in the hangar for a while the game lacks anything resembling a decent tutorial and the cursor/controls are not very responsive/seem to be partially broken.  Doesn't really have much in the way of BGM and the pew pew just gets old fast.  I picked this game up in a bundle for $4, I definitely would not recommend buying this game for it's store price.",
+            "review_score": "-1"
+        }
+    ]
+}

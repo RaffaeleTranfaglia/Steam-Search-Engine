@@ -1,0 +1,48 @@
+{
+    "app_id": 399530,
+    "name": "Hyspherical 2",
+    "release_date": "2016-02-16",
+    "developer": [
+        "Monkeybin AS"
+    ],
+    "publisher": [
+        "Monkeybin AS"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 161,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 2.79,
+    "description": "Hyspherical 2 is an acutely tricky puzzle game where you must time dropping perfect circles onto different shapes. Sounds easy, but timing is everything and Geometry has never been simple to master!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/399530/header.jpg?t=1457599476",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0+ GHz Memory: 2048 MB RAM Graphics: OpenGL 2.0 support Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great puzzle game and I'm enjoying it a lot. You place spheres inside shapes and must be careful so the spheres don't collide. Very fun and really hard. Totally worth it's price. Money well spent. So very recommended! 10/10",
+            "review_score": "1"
+        }
+    ]
+}

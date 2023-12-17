@@ -1,0 +1,37 @@
+{
+    "app_id": 15800,
+    "name": "Planet Busters",
+    "release_date": "2008-06-30",
+    "developer": [
+        "Slam"
+    ],
+    "publisher": [
+        "Slam"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Casual"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 9,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 5.99,
+    "description": "Planet Busters is a new single-player game from Slam, combining puzzle-solving action with awesome firepower and spectacular explosions. The mysterious Scourge have destroyed Earth. Now it’s payback time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/15800/header.jpg?t=1447351377",
+    "minimum_requirements": "OS: Windows 2000 / XP / VistaProcessor: 1GHzMemory: 256MBGraphics: DirectX 9.0c compatible card with Pixel Shader 2.0 supportDirectX Version: 9.0c or higherSound: DirectX 9.0c compatible sound cardHard Drive: 120MB",
+    "recommended_requirements": null,
+    "reviews": []
+}

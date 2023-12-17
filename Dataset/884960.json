@@ -1,0 +1,40 @@
+{
+    "app_id": 884960,
+    "name": "Rolling in the Reef",
+    "release_date": "2018-07-13",
+    "developer": [
+        "BrainGoodGames"
+    ],
+    "publisher": [
+        "BrainGoodGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based"
+    ],
+    "achievements": 10,
+    "positive_ratings": 20,
+    "negative_ratings": 1,
+    "price": 5.79,
+    "description": "Rolling in the Reef is a dice-driven strategy game about guiding your fishy friends to thrive in their coral home. Dive beneath the waves to build big fish combos, collect valuable artifacts and unlock wild new schools of fish.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/884960/header.jpg?t=1531497845",
+    "minimum_requirements": "OS: Windows XP or newer Processor: Support for SSE2 instruction set Memory: 512 MB RAM Graphics: OpenGL Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

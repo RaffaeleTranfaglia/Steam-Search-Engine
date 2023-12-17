@@ -1,0 +1,38 @@
+{
+    "app_id": 659090,
+    "name": "Proviant",
+    "release_date": "2017-07-17",
+    "developer": [
+        "BetsonGames"
+    ],
+    "publisher": [
+        "AYE Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 14,
+    "price": 2.79,
+    "description": "Simulator of ant colony, starting from ones to hundreds, with soldiers and queen. Feel yourself as the creator of anthill, control your insects and improve them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/659090/header.jpg?t=1516911240",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo (or equivalent) Memory: 2048 MB RAM Graphics: with 1024 MB VRAM compatible with DirectX 9 DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i3 (or equivalent) Memory: 4096 MB RAM Graphics: with 2048 MB VRAM compatible with DirectX 9 DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX® Compatible",
+    "reviews": []
+}

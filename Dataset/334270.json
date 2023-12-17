@@ -1,0 +1,62 @@
+{
+    "app_id": 334270,
+    "name": "Star Traders: 4X Empires",
+    "release_date": "2014-12-16",
+    "developer": [
+        "Trese Brothers"
+    ],
+    "publisher": [
+        "Trese Brothers"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 16,
+    "positive_ratings": 33,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "Take command of humanity’s last survivors and rebuild an empire among the stars. In this immersive turn-based strategy game, you must lead the refugees of the great Exodus to a new home in hostile space and build a new galaxy-spanning civilization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/334270/header.jpg?t=1478028346",
+    "minimum_requirements": "OS: Windows XP, Windos Vista, or Windows 7 / 8 / 10 Memory: 512 MB RAM Graphics: Requires OpenGL 2.0 or higher Storage: 200 MB available space Additional Notes: Requires MS Visual Studio C++ Runtime 2012 x86",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "UPDATE 20 JULY 2015: Another game update. Still no tooltips on tech tree, no mouse on screen edge scrolling. I don't think they care about making the interface more PC-like at all. Either that or they are using some crossplatform framework which doesn't allow PC features so they -can't- make it palatable to pc users.   UPDATE 19 JUNE 2015: I checked the game again to update my review. Nothing has changed except there is now a full screen option.  There may be a good game inside here somewhere but I'm having trouble persevering with it due to the atrocious interface, which is exactly the same as the mobile one and makes no effort to take advantage of the PC.  The game runs in a window at a set size and you can't change it. (update there is now a fullscreen option) There are no tooltips, so you have to press buttons to find out what they do then click back. This is especially annoying in the technology tree where you have to click on everything one by one to find out what it is. It's seriously tedious. There is no mouse on edge of screen scrolling. No use is made of right click.  Just like a mobile game it has a 'please review the game' button and another button to 'more games'.  There's quite a long time between turns after you press next turn. Some kind of progress indicator would be reassuring.  I mentioned when the game first came to PC in early/mid September 2014 that they needed as a matter of urgency to move away from the mobile interface and make a new interface for PC and I seem to remember a dev saying they would be doing just that.  It's been nearly 6 months. It's clear they aren't going to do anything. The game has been written to make money on mobile and then as an afterthought they have dumped it on the pc to make some more money, but they aren't willing to actually put any work in beyond making it actually run on the pc.  The worst effect from the mobile interface is the tech tree, which I mentioned earlier. There are a ton of technologies on the screen and you have to click each one to find out what it is, (like Warp Drive 1 or Spanner Throwing 3 or whatever). There's no way to know just from the icon what the tech is and clicking it takes you to a whole new screen which pretty much just says the name of the tech, then you need to click back to go back.  It would be so, so easy for them to add tooltips to the tech tree and it would be remove a massive frustration from the game. They've had 6 months to do it and they haven't done it.  I have no respect for the devs at all.  I seriously suggest not buying this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game plays like many of the older TBS games, like Alpha Centauri, and its ilk. It has a vast tree of technology that progresses pretty intuitively, but the controls and gameplay itself is rather hard to master.  Once you figure out the basics and get an understanding of how the game progresses and works, It becomes easier to work through the game.  It essentially centers around colonizing planets that then become their own centers of production. Each planet has a 'quality rating' that determines its potential for use. Lower quality planets will end up being burdens on your empire, while high quality planets will be the center for constructing your fleets and providing income.  Planets have a 'resource' called population that is not so much usable, but must be managed to keep the empire from falling apart. Higher populations require more management to keep happy, but come in handy to protect planets from capture.  One you figure out that you can research higher levels of buildings for your colonies, the game becomes significantly easier to manage the lower quality planets, and to capitalize off of the higher quality planets.  The game generally culminates in a match to invade and bombard each others planets, with the option to completely destroy the planet (by reducing it's Quality rating), or by reducing the planet's population to zero. You have three invasion options: Bombard (which has a high chance of lowering quality), Invade {which has a low chance of lowering quality), and Scout {Which may not always lower population, but never reduces quality!). Systems recover 1 population per turn, so to actually capture a system, you have to really have a big fleet.  The game is clever and addictive, and overall I suggest it to any fans of the old Sid Meyer's stuff.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At first glance this seems to be a very simple 4X game. And while it's true that the interface, graphics, and sound are extremely simple, the game does offer a competent AI, in-depth gameplay, and its own unique twists to the formula.  If you're in the market for a simple 4X game, Star Traders delivers.  The one major missing feature which more complex games do have is a notification system. While ST4X does have advisers and alerts which can tell you if a production on a planet is complete, it will not alert you if the queue is now empty. Likewise ships require fuel which automatically is restored in owned (green) territory, but it will not alert you when a ship is beginning to run out. Thus it requires you to constantly keep track of production queues and ship capabilities.  That minor issue aside, ST4X definitely has the depth you want from a title like this, and the fact that it is a relatively simple game and of course turn based, like all 4X games, means it can easily be played on the side while you do something else.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting blend of turn based ship combat and a building / farming game. I've played it before on other platforms, but I think I'm going to play on my Mac now. I appreciate the support for both mousewheel and two finger swiping. At first I was a bit confused, but the help file was very ... well, helpful.  It has some rough edges, however, juding by their other title players can expect lots of updates. I would like to see more special attack options for the ship designer and the ability to build planetary weapons to repel invasion ships by damaging them.  My tip for anyone playing is make sure you build Cruisers/Carriers and get them as much XP as possible. Fighters are great for soaking up damage but they don't get the attack bonuses from XP like the bigger ships do.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good game.I recommend you buy and play it.",
+            "review_score": "1"
+        }
+    ]
+}

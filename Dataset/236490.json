@@ -1,0 +1,50 @@
+{
+    "app_id": 236490,
+    "name": "Hexodius",
+    "release_date": "2013-06-21",
+    "developer": [
+        "Brain Slap Studio"
+    ],
+    "publisher": [
+        "BANDAI NAMCO Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 20,
+    "positive_ratings": 18,
+    "negative_ratings": 12,
+    "price": 7.99,
+    "description": "EXPLORE-EQUIP-ESCAPE!With its potent blend of twin-stick shooting, exploration and customization, HEXODIUS invites players to explore the vast complex, equip their drone with powerful items and upgrades, and ultimately escape the clutches of the deadly enemy droids in a blaze of laser fire!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/236490/header.jpg?t=1485886199",
+    "minimum_requirements": "OS:Microsoft Windows XP/Vista/Win7 (Versions x86 or x64 bit). Processor:Intel Core or Core 2 Duo 2.2GHz (Intel Pentium D or AMD Athlon 64 x2). Memory:1 GB RAM Graphics:ATI Radeon HD 3600 or NVIDIA Geforce 8600, 256MB minimum. DirectX®:9.0c Hard Drive:300 MB HD space Sound:DirectX 9 compatible sound card. Additional:Microsoft Xbox 360® Controller for Windows® strongly recommended.",
+    "recommended_requirements": "OS:Microsoft Windows XP/Vista/Win7 (Versions x86 or x64 bit). Processor:AMD/Intel 2.6 GHz Duo/Tri/Quad Core CPU recommended. Memory:2 GB RAM Graphics:Any ATI/nVidia with at least 512 Mo or RAM, compatible DirectX 9.0c and supporting Shader Model 4.0.  ATI Radeon HD 3800 or NVIDIA Geforce GTX260 recommended. DirectX®:9.0c Hard Drive:300 MB HD space Sound:DirectX 9 compatible sound card. Additional:Microsoft Xbox 360® Controller for Windows® strongly recommended.",
+    "reviews": [
+        {
+            "review_text": "Hexodius combines a twin-stick shooter with customization and exploration elements in the form of ship equipment and a world map. Buy ship weapons or upgrades, or find them throughout the world, and equip them on your ship before a level. Weapons are unlocked through collecting energy crystals, a mechanic similar to Gradius (where Hexodius sort of gets its name).  Graphics are well done but nothing amazing, and a lack of diversity between level stages means the game starts to feel the same after time. The sound's well done but there aren't enough music tracks, which makes the stages in the same world feel even more same-y. Haven't tried playing with a mouse and keyboard but I imagine the fine precision of a mouse would make aiming easier. My biggest issue with the game is that it refuses to run at my native res, which means I need to run it in a window. The actual gameplay, however, is quite fun.  At $10 I'd only just recommend this, since it's a quite fun arcade game but the lack of polish really brings it down. At $5 however, it's a steal.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "worthless purchase. absolutely no response to keyboard and mouse.",
+            "review_score": "-1"
+        }
+    ]
+}

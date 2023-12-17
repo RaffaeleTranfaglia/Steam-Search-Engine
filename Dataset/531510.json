@@ -1,0 +1,49 @@
+{
+    "app_id": 531510,
+    "name": "Just Shapes & Beats",
+    "release_date": "2018-05-31",
+    "developer": [
+        "Berzerk Studio"
+    ],
+    "publisher": [
+        "Berzerk Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Rhythm",
+        "Great Soundtrack",
+        "Music"
+    ],
+    "achievements": 26,
+    "positive_ratings": 1980,
+    "negative_ratings": 63,
+    "price": 15.49,
+    "description": "&quot;Just Shapes &amp; Beats&quot; is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the kick-ass Beats, and die, repeatedly.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/531510/header.jpg?t=1551877705",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Microsoft® Windows® 7 Processor: Intel Core i3 3.0 GHz 64 bits Processor Memory: 4 GB RAM Graphics: DirectX 10-compatible graphics card with at least 256MB of video memory DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Microsoft® Windows® 10 Processor: Intel Core i5 3.5GHz 64 bits Processor Memory: 8 GB RAM Graphics: DirectX 11-compatible graphics card with at least 512MB of video memory DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

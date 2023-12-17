@@ -1,0 +1,40 @@
+{
+    "app_id": 502340,
+    "name": "Unbound",
+    "release_date": "2018-01-08",
+    "developer": [
+        "Unbound Technologies, Inc."
+    ],
+    "publisher": [
+        "Unbound Technologies, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Design & Illustration",
+        "Animation & Modeling"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 23.79,
+    "description": "Unbound enables players to make 3D things in a new and fun way: With Friends. Jam on new ideas in the same VR space then work on articulate sculpts together. With the ability to export to your favorite tools and to 3D print. This is the beginning of Unbound Early Access.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/502340/header.jpg?t=1536879117",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 (64-Bit) Memory: 8 GB RAM Graphics: NVIDIA GTX 980 Additional Notes: NVIDIA ONLY (NO AMD GPU SUPPORT YET)",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 (64-Bit) Memory: 8 GB RAM Graphics: NVIDIA GTX 1070 Additional Notes: NVIDIA ONLY (NO AMD GPU SUPPORT YET)",
+    "reviews": []
+}

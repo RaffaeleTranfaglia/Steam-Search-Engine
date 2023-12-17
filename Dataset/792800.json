@@ -1,0 +1,40 @@
+{
+    "app_id": 792800,
+    "name": "Adventures of Hendri",
+    "release_date": "2018-03-07",
+    "developer": [
+        "LionAnt"
+    ],
+    "publisher": [
+        "LionAnt"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 3,
+    "positive_ratings": 5,
+    "negative_ratings": 7,
+    "price": 1.69,
+    "description": "Adventures of Hendri is a fun single-player game where you are sent out to rescue Ash's little piggy's from being killed. Will you be able to save them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/792800/header.jpg?t=1521367024",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Processor: 1 Ghz or faster Memory: 1 GB RAM Graphics: integrated graphics Storage: 256 MB available space Sound Card: Any Sound Card",
+    "recommended_requirements": null,
+    "reviews": []
+}

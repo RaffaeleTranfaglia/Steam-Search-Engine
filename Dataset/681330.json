@@ -1,0 +1,43 @@
+{
+    "app_id": 681330,
+    "name": "Helium Rain",
+    "release_date": "2018-10-11",
+    "developer": [
+        "Deimos Games"
+    ],
+    "publisher": [
+        "Deimos Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Space Sim",
+        "Strategy"
+    ],
+    "achievements": 23,
+    "positive_ratings": 127,
+    "negative_ratings": 23,
+    "price": 10.99,
+    "description": "Trade your wares and eliminate the competition in a cutthroat world. Buy new ships and stations to mine and haul resources. Explore the vast emptiness of space.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/681330/header.jpg?t=1555332660",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64 bits) Processor: Intel Core® i3 Memory: 4000 MB RAM Graphics: NVIDIA GeForce® GTX 470 / AMD Radeon® HD 6870 / DX10 compatible GPU with at least 1GB VRAM DirectX: Version 10 Storage: 5000 MB available space Additional Notes: Only 64 bits versions of Windows are supported.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (64 bits) Processor: Intel Core® i7 Memory: 8000 MB RAM Graphics: NVIDIA GeForce® GTX 970 DirectX: Version 11 Storage: 5000 MB available space Additional Notes: Only 64 bits versions of Windows are supported.",
+    "reviews": []
+}

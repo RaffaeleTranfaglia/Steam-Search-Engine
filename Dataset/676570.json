@@ -1,0 +1,38 @@
+{
+    "app_id": 676570,
+    "name": "Crazy Bowling",
+    "release_date": "2018-04-02",
+    "developer": [
+        "Coremedia,inc."
+    ],
+    "publisher": [
+        "Coremedia,inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Crazy Bowling is exciting game more than 10-pin bowling! Objective is to knock down all pins.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676570/header.jpg?t=1522727097",
+    "minimum_requirements": "OS: Windows 7,8,10 Processor: Intel i3,i5,i7 Memory: 1 GB RAM Graphics: nVidia GTX660 or higher DirectX: Version 10 Storage: 40 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

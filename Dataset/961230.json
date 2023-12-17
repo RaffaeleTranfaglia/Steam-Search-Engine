@@ -1,0 +1,37 @@
+{
+    "app_id": 961230,
+    "name": "Backgammon, Chess & Checkers",
+    "release_date": "2018-10-29",
+    "developer": [
+        "MobileFusion Apps Ltd"
+    ],
+    "publisher": [
+        "MobileFusion Apps Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 7.5,
+    "description": "Play either backgammon, chess or checkers against a virtual opponent, in a courtyard setting. Play on desktop or in VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/961230/header.jpg?t=1552444040",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel® i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalent or better, Video Output: HDMI 1.4, DisplayPort 1.2 or newer",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 995050,
+    "name": "Havocado",
+    "release_date": "2019-04-25",
+    "developer": [
+        "Webble Games"
+    ],
+    "publisher": [
+        "Webble Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "Havocado is a silly hyper-speed multiplayer physics fighting game; shoot, punch, drive, and use magic to knock the other players off in a multitude of locations and scenarios.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/995050/header.jpg?t=1556182689",
+    "minimum_requirements": "OS: Windows 7 Processor: 2nd generation Core i3, AMD A6, or higher Memory: 4 GB RAM Graphics: Nvidia 8800 GT, AMD 5670, Intel HD 3000 DirectX: Version 10 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Core i5 Memory: 8 GB RAM Graphics: SM4 1GB VRAM DirectX: Version 10 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

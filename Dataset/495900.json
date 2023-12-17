@@ -1,0 +1,52 @@
+{
+    "app_id": 495900,
+    "name": "Lance A Lot: Classic Edition",
+    "release_date": "2016-10-18",
+    "developer": [
+        "Brimstone"
+    ],
+    "publisher": [
+        "Brimstone"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 45,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "RUIN FRIENDSHIPS. ON ROCKETS. Challenge your friends to a GLORIOUS tournament of rocket jousting! Up to 4 players can fight each other locally – but only one will be left standing when the dust settles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/495900/header.jpg?t=1549897875",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 or equivalent Memory: 2 GB RAM Graphics: GeForce GTX 460 or Radeon HD 6850 (for 60fps in 1080p at Low, or 60fps in 720p at High) DirectX: Version 9.0c Storage: 1 GB available space Additional Notes: Controller for each player is recommended (keyboard supports 2 players)",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i5 or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 680 or Radeon HD 7970 (for 60fps in 1080p at Ultra) DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "One of my most hilarious gaming experiences of the year, Lance A Lot is a great party game for core gamers and casuals alike",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's very simple and well executed, but it's just 'too little' for the price. Just a hand full of maps and four game modes that play very similar. It gets repetitive very fast.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great party game. Controls are stupid simple and easy to pick up. Online play would be nice, but the game stands well on its own without it.",
+            "review_score": "1"
+        }
+    ]
+}

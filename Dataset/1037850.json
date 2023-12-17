@@ -1,0 +1,39 @@
+{
+    "app_id": 1037850,
+    "name": "Pirate Cannons AHOY!",
+    "release_date": "2019-03-11",
+    "developer": [
+        "juhbeedesigns"
+    ],
+    "publisher": [
+        "juhbeedesigns"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Ahoy mateys! Take charge of your fort defenses as hostile pirates invade to steal your treasure! Defend your treasure chests in this classic cannon-shooting take in this casual tower-defense game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1037850/header.jpg?t=1552315342",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Processor: Intel Core i3 Graphics: nVidia GeForce GTX 400 Series DirectX: Version 11 Storage: 1000 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows Vista/7/8/10 Processor: Intel Core i5/i7 Graphics: nVidia GeForce GTX 1000 Series DirectX: Version 11 Storage: 1000 MB available space Sound Card: Integrated",
+    "reviews": []
+}

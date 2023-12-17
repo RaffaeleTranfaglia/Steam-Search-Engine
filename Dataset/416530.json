@@ -1,0 +1,44 @@
+{
+    "app_id": 416530,
+    "name": "Tacopocalypse",
+    "release_date": "2017-03-14",
+    "developer": [
+        "Cherry Pie Games"
+    ],
+    "publisher": [
+        "Cherry Pie Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 19,
+    "positive_ratings": 53,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Tacopocalypse is a humorous 3D stunt driving delivery game. If a professional skateboarder retired to food delivery, it would look like this. You must deliver tacos, boost your earnings by nailing tricks to unlock new vehicles, customizations and cities; all while surviving the apocalypse!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/416530/header.jpg?t=1491870187",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 1.8GHz Dual-Core Processor Memory: 4 GB RAM Graphics: Dedicated Video Card with 1GB of VRAM and Shader Model 5 DirectX: Version 10 Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

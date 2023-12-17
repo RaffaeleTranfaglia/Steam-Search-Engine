@@ -1,0 +1,51 @@
+{
+    "app_id": 370130,
+    "name": "Lion Quest",
+    "release_date": "2016-07-11",
+    "developer": [
+        "Dracula's Cave"
+    ],
+    "publisher": [
+        "Dracula's Cave"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 46,
+    "positive_ratings": 24,
+    "negative_ratings": 19,
+    "price": 8.99,
+    "description": "Take Jethro the Lion on a magical journey, traversing space and time to prevent the imminent collapse of the universe. Oh and your friend Ronald the Bear is missing, maybe you can find him whilst you’re out exploring?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370130/header.jpg?t=1501320747",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: Intel Core 2 Duo 2.2 ghz or equivalent Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities DirectX: Version 9.0 Storage: 400 MB available space Additional Notes: OpenGL: 3.0",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  Ive managed to sink hours into this game without noticing it! The sound track and colours really draw you in! Lion quest is a charming and vibrant platformer with a lot of exploration to do. The levels are huge!   The multiplayer is a lot of fun with friends, and has a simplified and refined smash brothers feel to it. Lots of characters to unlock and one or two of them change the gameplay significantly which lets you replay the levels and find new things. The puzzles where you are controlling two characters at the same time are really cool, and the mind control effect was a nice surprise.",
+            "review_score": "1"
+        }
+    ]
+}

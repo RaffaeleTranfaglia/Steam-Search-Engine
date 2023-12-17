@@ -1,0 +1,43 @@
+{
+    "app_id": 501860,
+    "name": "Slayer Shock",
+    "release_date": "2016-09-29",
+    "developer": [
+        "Minor Key Games"
+    ],
+    "publisher": [
+        "Minor Key Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 15,
+    "positive_ratings": 39,
+    "negative_ratings": 24,
+    "price": 14.99,
+    "description": "A role-playing shooter about hunting vampires in Nebraska. Take missions to patrol the streets, rescue captive humans, and weaken the undead threat. Assemble a team, hunt the vampires, and save your hometown!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501860/header.jpg?t=1555631498",
+    "minimum_requirements": "OS: Vista or newer Processor: Intel Core 2 Duo or equivalent Memory: 512 MB RAM Graphics: DirectX 9.0-compliant device with 512MB memory Storage: 150 MB available space",
+    "recommended_requirements": "OS: Vista or newer Processor: Intel Core i5 or equivalent Memory: 512 MB RAM Graphics: Dedicated graphics card, GeForce 200/Radeon HD 4000 series or better Storage: 150 MB available space",
+    "reviews": []
+}

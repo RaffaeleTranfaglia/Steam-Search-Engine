@@ -1,0 +1,40 @@
+{
+    "app_id": 868430,
+    "name": "Brathian",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Pangake"
+    ],
+    "publisher": [
+        "Pangake"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Explore the land of Brathian, by yourself or with a friend, fighting guardians and using their powers to keep the magical crystal away from malicious hands in this retro action / platformer game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868430/header.jpg?t=1529060819",
+    "minimum_requirements": "OS: Windows 7 (64-bit) or newer Processor: 2ghz 64-bit processor and operating system Memory: 2 GB RAM Graphics: OpenGL 2.1 or better Storage: 20 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

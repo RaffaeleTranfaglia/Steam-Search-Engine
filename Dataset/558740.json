@@ -1,0 +1,39 @@
+{
+    "app_id": 558740,
+    "name": "CRAFT: Work VR Shop",
+    "release_date": "2016-12-07",
+    "developer": [
+        "CRAFT"
+    ],
+    "publisher": [
+        "CRAFT"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 4,
+    "negative_ratings": 6,
+    "price": 4.99,
+    "description": "We are working on a VR workshop which is connected to the physical fabrication factories. Currently we are able to produce the real object out from your making on woodturning lathe in CRAFT.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/558740/header.jpg?t=1490354559",
+    "minimum_requirements": "OS: windows7,windows8.1,windows10 Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

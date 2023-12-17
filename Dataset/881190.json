@@ -1,0 +1,42 @@
+{
+    "app_id": 881190,
+    "name": "Robbotto",
+    "release_date": "2018-08-16",
+    "developer": [
+        "JMJ Interactive"
+    ],
+    "publisher": [
+        "JMJ Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Co-op"
+    ],
+    "achievements": 8,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Join Robb and Otto, two intrepid maintenance robots as they must travel through a malfunctioning spaces cruiser, in an effort to shutdown all the machines rampaging through the ship!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/881190/header.jpg?t=1537050924",
+    "minimum_requirements": "OS: Winddows 7 and up Processor: 1.5 Ghz Memory: 2 GB RAM Graphics: Built-in Storage: 150 MB available space Sound Card: Built-in",
+    "recommended_requirements": null,
+    "reviews": []
+}

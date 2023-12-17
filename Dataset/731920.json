@@ -1,0 +1,38 @@
+{
+    "app_id": 731920,
+    "name": "Government Simulator",
+    "release_date": "2017-12-04",
+    "developer": [
+        "Ambiera"
+    ],
+    "publisher": [
+        "Ambiera"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 64,
+    "negative_ratings": 69,
+    "price": 7.19,
+    "description": "Government Simulator is a is a simple economic and political simulation game based on real-world data. Take control of a whole country, like the USA, Germany, France, Russia, or Austria. Change laws, taxes and budgets based on real world statistics and data, and see what happens.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/731920/header.jpg?t=1517554197",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz dual core Memory: 1 GB RAM Graphics: Hardware accelerated graphics with dedicated memory Storage: 120 MB available space Additional Notes: minimum resolution of 800x600",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware accelerated graphics with dedicated memory Storage: 120 MB available space Additional Notes: you'll see more charts at a resolution of at least 1680 x 1050",
+    "reviews": []
+}

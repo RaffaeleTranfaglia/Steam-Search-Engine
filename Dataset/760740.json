@@ -1,0 +1,33 @@
+{
+    "app_id": 760740,
+    "name": "Polaris",
+    "release_date": "2017-12-20",
+    "developer": [
+        "Vyacheslav Notbad"
+    ],
+    "publisher": [
+        "Zotdinex"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 0.72,
+    "description": "Polaris is a casual game, where you tasked to overcome the level, using 2 synchronously moving circles and sent to the next level!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/760740/header.jpg?t=1543400944",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 6100 Memory: 500 MB RAM Graphics: GeForce 210 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: Intel Core i7 7700 Memory: 2 GB RAM Graphics: GeForce GT710 Storage: 100 MB available space",
+    "reviews": []
+}

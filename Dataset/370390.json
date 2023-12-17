@@ -1,0 +1,45 @@
+{
+    "app_id": 370390,
+    "name": "Path to the Sky",
+    "release_date": "2016-02-02",
+    "developer": [
+        "DEKDEV"
+    ],
+    "publisher": [
+        "DEKDEV"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 51,
+    "negative_ratings": 14,
+    "price": 6.99,
+    "description": "Path to the Sky is a roguelite platformer that lets you explore a beautiful world of flying islands with randomly generated caves, monsters and treasures. Climb your way to the top while combining items for unique combat effects each run and enjoy the mix of retro aesthetics and modern effects.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370390/header.jpg?t=1466713326",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: Dual Core Memory: 1 GB RAM Graphics: 256 MB Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

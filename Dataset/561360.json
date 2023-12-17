@@ -1,0 +1,36 @@
+{
+    "app_id": 561360,
+    "name": "VR Invaders",
+    "release_date": "2016-12-15",
+    "developer": [
+        "My.com"
+    ],
+    "publisher": [
+        "my.games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Cyberpunk",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 26,
+    "negative_ratings": 6,
+    "price": 13.59,
+    "description": "Dive into a virtual sci-fi world as the freelance hacker Thomas Hall to save a cyber artist that got stuck in virtual reality. Fight legions of enemy drones with your multi-functional loadout. Slow time, transform your weapon and blast through your enemies in this immersive VR shooter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561360/header.jpg?t=1554908013",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 (64bit) or higher Processor: Intel Core i5-4590 3.3GHz or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970, AMD Radeon R9 290X or better. DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

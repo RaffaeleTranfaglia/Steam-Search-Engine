@@ -1,0 +1,37 @@
+{
+    "app_id": 510180,
+    "name": "NDE Rescue",
+    "release_date": "2016-09-01",
+    "developer": [
+        "6L6 Interactive"
+    ],
+    "publisher": [
+        "KSCM Consulting"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 5.59,
+    "description": "Become a NDE rescuer &amp; join the international teams that can pull you back from death!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510180/header.jpg?t=1472724066",
+    "minimum_requirements": "OS: Windows XP, Vista or 7 Processor: x86, x64 Memory: 1024 MB RAM Graphics: OpenGL ES 2.0 compatible Storage: 90 MB available space Sound Card: OpenAL compatible Additional Notes: Keyboard alone, keyboard and mouse",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: x64 Memory: 4096 MB RAM Graphics: OpenGL ES 2.0 compatible Storage: 90 MB available space Sound Card: OpenAL compatible Additional Notes: Keyboard alone, keyboard and mouse",
+    "reviews": []
+}

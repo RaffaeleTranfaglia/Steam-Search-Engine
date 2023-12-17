@@ -1,0 +1,67 @@
+{
+    "app_id": 460640,
+    "name": "Breached",
+    "release_date": "2016-06-22",
+    "developer": [
+        "Drama Drifters"
+    ],
+    "publisher": [
+        "Nkidu Games Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Sci-fi"
+    ],
+    "achievements": 8,
+    "positive_ratings": 74,
+    "negative_ratings": 51,
+    "price": 5.19,
+    "description": "Unveil the truth in a genre-blending sci-fi mystery. Awaken from cryogenic slumber you find your shelter damaged by unknown circumstances. Scavenge your surroundings, repair the shelter and explore the ruins in hopes of uncovering – or perhaps avoiding – the uncomfortable truth of what has transpired.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/460640/header.jpg?t=1525770271",
+    "minimum_requirements": "OS: 64-bit Windows Vista or later Processor: 2 GHz dual-core 64-bit CPU Memory: 4 GB RAM Graphics: DirectX 10 compatible GPU with 1 GB video RAM DirectX: Version 10 Storage: 5 GB available space Additional Notes: Integrated Intel graphics are not supported. They should work (Intel HD 4000-series or better), but with issues.",
+    "recommended_requirements": "OS: Windows 7/8.1/10 (64-bit versions) Processor: Intel Core i7-3770 / AMD FX-8350 or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 / AMD Radeon R9 290 or better DirectX: Version 11 Storage: 5 GB available space",
+    "reviews": [
+        {
+            "review_text": "It a slow paced rich-story game, where the mystery of the deserted world unfolds only after several complete game cycles. The visuals are stunning as well.  Don't miss it. Put away what you are doing and dive into this scifi adventure. Your patience will be rewarded.  PS. I was fortunate to have played Breached even before the release, thus olny 30 minutes recorded on Steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I didn't play a lot in release version, but I watched for Breached since in was small prototype made on Games Jam (same Jam where Punch Club and Message Quest appears). And I played several versions between prototype and this release version. I need to admit that game making huge progress in visual, gameplay and narrative in each version. The most thing I love in this game is its uniqueness. It doesn't clone any known game or try to repeat well known experience. No, this game is unique and it maybe not comfortable at the beginning. I recommend to be sure that you have enough time for exploring Breached on the first launch. Don't try to come here for quick fun, please.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " TL;DR: A cheap and frustrating arcade-ish game that doesn't offer much to the player besides collecting stuff spread around three maps in the whole game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Waste of time and money. Crappy controls, boring plot, no real point. great art at least.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Caused motion sickness.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I played this game once, and had a lot of fun. Its a great game. But now whenever i load up the game, all i get is a black screen. Ive verified the game cache and it returned all files to be valid, so im confused.",
+            "review_score": "1"
+        }
+    ]
+}

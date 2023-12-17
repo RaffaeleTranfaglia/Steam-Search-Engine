@@ -1,0 +1,40 @@
+{
+    "app_id": 744240,
+    "name": "FISK",
+    "release_date": "2017-12-21",
+    "developer": [
+        "fjy741"
+    ],
+    "publisher": [
+        "fjy741"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 23,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "《FISK》is a simple 2D platform game made by myself, based on the classic jumping elements of 2D platform game. You can complete the mission through enhanced action capability by interaction with monsters using simple buttons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/744240/header.jpg?t=1513913945",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8.1/10 Processor: ntel Dual Core 6600 @ 2.4GHz Memory: 512 MB RAM Graphics: Intel 4400, GeForce GTX 280, AMD Radeon HD 7750 DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

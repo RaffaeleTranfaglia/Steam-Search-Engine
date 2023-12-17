@@ -1,0 +1,45 @@
+{
+    "app_id": 872580,
+    "name": "The Neon Boy",
+    "release_date": "2018-07-02",
+    "developer": [
+        "Shenshella"
+    ],
+    "publisher": [
+        "Shenshella"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 21,
+    "positive_ratings": 25,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "The Neon Boy is extremely agressive platformer in which the neon guy escapes from the captivity",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/872580/header.jpg?t=1539108231",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-core Intel or AMD, 2.3 GHz or faster Memory: 512 MB RAM Graphics: DirectX 10 compatible graphics card DirectX: Version 10 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,52 @@
+{
+    "app_id": 557780,
+    "name": "Atom Fishing II",
+    "release_date": "2016-11-29",
+    "developer": [
+        "Woolf"
+    ],
+    "publisher": [
+        "R-Age"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "MMO",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Commentary available"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Simulation",
+        "Fishing"
+    ],
+    "achievements": 12,
+    "positive_ratings": 666,
+    "negative_ratings": 260,
+    "price": 0.0,
+    "description": "Atom Fishing 2 is a fishing simulator taken place during post-apocalyptic era.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/557780/header.jpg?t=1551259994",
+    "minimum_requirements": "OS: Windows Vista Memory: 2 GB RAM Graphics: GF GTX 460 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 4 GB RAM Graphics: GF GT 7xx DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "good game. 10/10 would recommend to people that like a lannguage barrier... 9/10 to those who dont",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Installed it, selected english, no idea what's going on because just about everything is in Russian. I don't mind Russia or Russians, I love Russia, my wife is Russian, but I can't speak it, neither can 99% of steam users, so releasing this game in Russian only seems kinda stupid.",
+            "review_score": "-1"
+        }
+    ]
+}

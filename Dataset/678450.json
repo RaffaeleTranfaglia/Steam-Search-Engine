@@ -1,0 +1,44 @@
+{
+    "app_id": 678450,
+    "name": "Full-On Paintball",
+    "release_date": "2018-03-12",
+    "developer": [
+        "Gamepainters"
+    ],
+    "publisher": [
+        "Gamepainters"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Massively Multiplayer",
+        "Indie"
+    ],
+    "achievements": 88,
+    "positive_ratings": 6,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Best first person shooter paintball game simulation ever! 32 Players Dedicated Servers, 20+ Maps, 10 Gametypes, 20+ Weapons, Character &amp; Weapon Customization, Skills and Ranks! Enjoy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/678450/header.jpg?t=1550581966",
+    "minimum_requirements": "OS: Windows XP SP3 (32-bit only) Processor: 2.0+ GHz processor Memory: 2 GB RAM Graphics: A graphics card with shader model 3.0 support. DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7 64-bit Processor: 2.0+ GHz multi-core processor Memory: 8 GB RAM Graphics: NVIDIA 8000 series or higher graphics card DirectX: Version 9.0 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

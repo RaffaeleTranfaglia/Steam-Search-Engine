@@ -1,0 +1,40 @@
+{
+    "app_id": 672290,
+    "name": "Magic Forest",
+    "release_date": "2017-09-18",
+    "developer": [
+        "Sultan.emr"
+    ],
+    "publisher": [
+        "Anea_Duo_Dev "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 4,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Magic Forest is a classic platformer in which you learn a little history of the travels of the rabbit",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672290/header.jpg?t=1511499860",
+    "minimum_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Core 2 Quad Q6700 Memory: 512 MB RAM Graphics: NVIDIA GeForce GTX 650ti or comparable DirectX: Version 10 Storage: 200 MB available space Sound Card: DirectX 9.0 Compatible Sound",
+    "recommended_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Core 2 Quad Q6700 Memory: 1 GB RAM Graphics: NVIDIA GeForce GTX 650ti or comparable DirectX: Version 11 Storage: 200 MB available space Sound Card: DirectX 9.0 Compatible Sound",
+    "reviews": []
+}

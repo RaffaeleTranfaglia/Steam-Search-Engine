@@ -1,0 +1,38 @@
+{
+    "app_id": 633300,
+    "name": "GlobalMap Astro",
+    "release_date": "2018-06-12",
+    "developer": [
+        "Gradoservice"
+    ],
+    "publisher": [
+        "Gradoservice"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Education"
+    ],
+    "tags": [
+        "Education",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 39.99,
+    "description": "GlobalMap Astro is a program for observing the Universe in 3D format. It is your guide in a three-dimensional model of the Universe. It allows you to see 1.6 million galaxies, over 6 million stars (up to 13th magnitude), as well as planets, comets, asteroids, artificial satellites, spaceports and cities of our planet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/633300/header.jpg?t=1549347722",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: with 2048 MB of video memory or higher with OpenGL 4 support Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 Processor: Intel Core i7 Memory: 16 GB RAM Network: Broadband Internet connection Storage: 32 GB available space",
+    "reviews": []
+}

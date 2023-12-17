@@ -1,0 +1,43 @@
+{
+    "app_id": 511610,
+    "name": "Adventure Of Thieves",
+    "release_date": "2016-08-17",
+    "developer": [
+        "Binarystudio 54"
+    ],
+    "publisher": [
+        "Binarystudio 54"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Platformer Lovers !!! Dare to accept the challenge? Player vs Player addicted? Train your skills in single player and join in PvP arena.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/511610/header.jpg?t=1471935610",
+    "minimum_requirements": "OS: Windows XP, Vista, 7 Processor: Pentium 4 2.0GHz Memory: 512 MB RAM Graphics: GeForce 205 , Radeon HD 4290 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Pentium 4 3.0GHz Memory: 1024 MB RAM Graphics: GeForce GT 120, Radeon 9800 Pro DirectX: Version 9.0 Network: Broadband Internet connection Storage: 256 MB available space",
+    "reviews": []
+}

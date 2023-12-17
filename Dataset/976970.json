@@ -1,0 +1,42 @@
+{
+    "app_id": 976970,
+    "name": "A Cheesy Game",
+    "release_date": "2018-11-29",
+    "developer": [
+        "Levhi"
+    ],
+    "publisher": [
+        "Levhi"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A back-to-the-roots platformer that strives to be easy to understand, yet difficult to master. The game’s best features are its physics, level creator and of course – its endless supply of puns.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/976970/header.jpg?t=1549303945",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 2.4Ghz Memory: 2 GB RAM Graphics: NVIDIA GeForce MX150 2GB DirectX: Version 9.0 Storage: 350 MB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Gamepad Recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

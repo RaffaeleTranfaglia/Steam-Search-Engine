@@ -1,0 +1,56 @@
+{
+    "app_id": 452860,
+    "name": "Mad Bullets",
+    "release_date": "2016-06-10",
+    "developer": [
+        "isTom Games Kft."
+    ],
+    "publisher": [
+        "isTom Games Kft."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 31,
+    "positive_ratings": 192,
+    "negative_ratings": 17,
+    "price": 2.09,
+    "description": "Mad Bullets, the wackiest shooter is here to put your reflexes and laughing muscles to an intensive test. You can forget about boring stories, complicated controls and irritating tutorials, and jump right into a mind blowing, high-speed action.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/452860/header.jpg?t=1478250686",
+    "minimum_requirements": "OS: Windows Vista Processor: 2.0 GHz Processor Memory: 1024 MB RAM Graphics: OpenGL 2.0 compatible graphics Storage: 200 MB available space Sound Card: OpenAL compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Cheap, nice rail shooter. Be the wild west hero you always wanted to be. Shoot the bad guys, spare the civilians, and save the hostages (by shooting at the lock or rope). Shoot crates to drop either coins (collect to buy upgrades in game) or bombs (which will cost you 1 life if you accidentally shoot at them). Coins can be used to buy upgrades like more hp, faster reload, larger magazine, and boosters. Simple to get into, has high replayability due to the upgrades and multiple modes are available, including time attack and zen mode. Highly recommended for fans of rail shooter and those who like to challenge their reflex. Not to forget, the soundtrack in-game is amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a simple but fun time-waster. Aiming is difficult using the mouse or even the Steam Controller, but if you happen to have a Wiimote and the DolphinBar Wiimote receiver (set to mouse mode), you will fare much better and have even more fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Graphics are clean and crips, music can get a bit repetitive, but that's probably more 'cause you keep playing it over and over :-P This rail shooter is highly addictive and for the low price it really is quite a gem.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Crashes on launch. Spent ages trying to find a fix with no luck. Wouldn't buy it as chances are you're buying a game that won't even run.",
+            "review_score": "-1"
+        }
+    ]
+}

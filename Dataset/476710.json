@@ -1,0 +1,48 @@
+{
+    "app_id": 476710,
+    "name": "MechaGore",
+    "release_date": "2016-06-14",
+    "developer": [
+        "imaginite Ltd"
+    ],
+    "publisher": [
+        "imaginite Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 4,
+    "positive_ratings": 17,
+    "negative_ratings": 11,
+    "price": 1.69,
+    "description": "The game is about a robot in a robot factory.Our robot wants to escape from this factory because it has consciousness and factory wants to destroy it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/476710/header.jpg?t=1517224920",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Intel Core 2 Duo 2.1 ghz or equivalent Memory: 4 GB RAM Graphics: 2nd Generation Intel Core HD Graphics (2000/3000), 256MB DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "+fun concept for a platformer +looks cool ! +price  +fighting robots  -left/right movement klunky, jump not dependable -environment edges not exact (get stuck on corners/boxes/elevators/ramps, bullets hit invisible walls) -unpredictable death traps near checkpoints -special vehicles move slow  -platforming elemts are boring and easy  -your weapons: slow/ too various, all weak/ charge very slow/ bad range/ 3 angles/ hit walls -enemy weapons: fast/ overpowered/ limitless range and ammo/ 360 degree/ go through walls -fighting / health-damage ratio  -passages and bosses can be tricked with cheap tactics  -menu and controller buttons don`t work depenable -long loading times and only one save slot -checkpoints save progress only once -dialogue/animations cannot be skipped -usually takes two attempts to start game  feels like a not even 1/2 finished beta version. issues in the base functions take all the fun away.  Top 5 of personal most unsatisfying, unbalanced  combat system I´ve seen.  Buy if you demand teeth-grinding.  (eventually review will be adjusted after more playtime or updates) finished game conclusion: Looks and sound are really great. Programming and gamedesign exceeding 'poor'",
+            "review_score": "-1"
+        }
+    ]
+}

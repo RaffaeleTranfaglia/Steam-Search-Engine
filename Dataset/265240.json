@@ -1,0 +1,45 @@
+{
+    "app_id": 265240,
+    "name": "Crazy Machines: Golden Gears",
+    "release_date": "2014-03-27",
+    "developer": [
+        "FAKT Software Gmbh"
+    ],
+    "publisher": [
+        "Viva Media Inc"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Puzzle"
+    ],
+    "achievements": 8,
+    "positive_ratings": 9,
+    "negative_ratings": 14,
+    "price": 6.99,
+    "description": "In this &quot;Rube-Goldberg&quot; style puzzle game, experiment and build your wacky contraptions with physics action like never before! Experience dazzling visuals of explosives, fire, and true to life physics behavior when you put the experiment into motion!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/265240/header.jpg?t=1450301940",
+    "minimum_requirements": "OS: Windows® XP (Home &amp; Pro) SP3, Windows Vista® SP1, Windows® 7, Windows® 8 Processor: Intel® Core ™ Solo 1.5 GHz processor or faster Memory: 2 GB RAM Graphics: 256 MB VRAM DirectX 9.0c Compliant Video Card with Vertex- and Pixelshader Version 3.0 support required DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX Compliant Sound Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's the only crazy machines I don't like. The 3 stars system isn't clear and it's boring to try different solutions without knowing which one will give more points. I preferred the secondary goals of the previous games.",
+            "review_score": "-1"
+        }
+    ]
+}

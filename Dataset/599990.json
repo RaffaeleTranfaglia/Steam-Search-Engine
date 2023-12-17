@@ -1,0 +1,41 @@
+{
+    "app_id": 599990,
+    "name": "SecondSpeed",
+    "release_date": "2017-05-12",
+    "developer": [
+        "izzYFoxDev",
+        "Panda2U"
+    ],
+    "publisher": [
+        "izzYFoxDev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 1,
+    "positive_ratings": 7,
+    "negative_ratings": 7,
+    "price": 1.59,
+    "description": "SecondSpeed is a single-player 3D platformer. Run, jump from the walls, fall, slide – do whatever you want!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/599990/header.jpg?t=1496123789",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7,8,10; x64 Only Processor: Core i3 or equal; Memory: 2 GB RAM Graphics: GTX 550Ti or equal; DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7,8,10; x64 Only Processor: Core i5 or equal; Memory: 4 GB RAM Graphics: GTX 750Ti or equal; DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

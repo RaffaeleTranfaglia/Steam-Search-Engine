@@ -1,0 +1,36 @@
+{
+    "app_id": 765530,
+    "name": "Fall Down",
+    "release_date": "2018-04-30",
+    "developer": [
+        "Kadir Demiroğlu"
+    ],
+    "publisher": [
+        "Kadir Demiroğlu"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 60,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "A Sımple Game. You are trying to run away from the obstacles when you falling down.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765530/header.jpg?t=1525105462",
+    "minimum_requirements": "OS: Windows Xp Processor: Intel® Pentium® Silver J5005 Memory: 1 GB RAM Graphics: OnBoard Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

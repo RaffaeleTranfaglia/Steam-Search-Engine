@@ -1,0 +1,39 @@
+{
+    "app_id": 540190,
+    "name": "Tetropunk",
+    "release_date": "2017-12-13",
+    "developer": [
+        "Сrazy Creator",
+        "Rosyaev"
+    ],
+    "publisher": [
+        "Rosyaev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 15,
+    "negative_ratings": 6,
+    "price": 2.09,
+    "description": "The classic arcade is back in a new style! It's time to prove that you are one of the best!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/540190/header.jpg?t=1513203137",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 10 Processor: Pentium 200 or above Memory: 32 MB RAM Graphics: Direct3D Compatible Graphics Card Storage: 86 MB available space Sound Card: 3D Sound Card Optional",
+    "recommended_requirements": null,
+    "reviews": []
+}

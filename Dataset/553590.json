@@ -1,0 +1,48 @@
+{
+    "app_id": 553590,
+    "name": "Hot Squat",
+    "release_date": "2016-11-22",
+    "developer": [
+        "Bean Boy Games"
+    ],
+    "publisher": [
+        "Bean Boy Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "VR",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 15,
+    "positive_ratings": 82,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "Welcome to Flynn Fitness, home of the Hot Squat. Prepare to undergo a rigorous test to not only your legs, but also your will to do as many squats as you possibly can. Compete against your friends, yourself, and the world to get the highest squat count.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553590/header.jpg?t=1497998046",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 (64 Bit) Processor: Intel Core i5-4590/AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better DirectX: Version 11 Storage: 200 MB available space Additional Notes: These are the HTC Vive minimum requirements.",
+    "recommended_requirements": "OS: Windows 10 (64 Bit) Processor: Intel Core i7-3820 3.6 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 6GB DirectX: Version 12 Storage: 200 MB available space Additional Notes: These are the specs on the computer we tested Hot Squat with.",
+    "reviews": [
+        {
+            "review_text": "Damn ! 190 squats in one round and I'm only ranked #90 é_è  You guys are crazy !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wanted to give this challeng a try but it just doesn't work well. I'm not super tall and I feel like I have to curl up into a ball to fit under the obstacles. It forces you to go way out of form to fit in the openings. I tried calibrating but it didn't help at all.  Sorry guys. Looks like a fun challenge with a fun soundtrack.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "app_id": 954350,
+    "name": "NOLO HOME",
+    "release_date": "2019-03-22",
+    "developer": [
+        "北京凌宇智控科技有限公司"
+    ],
+    "publisher": [
+        "北京凌宇智控科技有限公司"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "In-App Purchases",
+        "Stats"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "NOLO HOME is a streaming software that allows you to play SteamVR games with your standalone VR headset and Gear VR. For room-scale VR titles, NOLO CV1 VR controller is highly recommended.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/954350/header.jpg?t=1553566302",
+    "minimum_requirements": "Minimale : Système d'exploitation et processeur 64 bits nécessaires Système d'exploitation : windows10 64bit Processeur : Intel® i5-4590 / AMD FX 8350 equivalent or greater Mémoire vive : 8 GB de mémoire Graphiques : NVIDIA GeForce® GTX 1050 / AMD Radeon™ RX 560 equivalent DirectX : Version 11 Réseau : Connexion internet haut débit Espace disque : 200 MB d'espace disque disponible Notes supplémentaires : Steam VR required",
+    "recommended_requirements": "Recommandée : Système d'exploitation et processeur 64 bits nécessaires Système d'exploitation : windows10 64bit Processeur : Intel Core i7 Skylake or equivalent Mémoire vive : 16 GB de mémoire Graphiques : NVIDIA GeForce® GTX 1070 DirectX : Version 11 Réseau : Connexion internet haut débit Espace disque : 200 MB d'espace disque disponible Notes supplémentaires : Steam VR required",
+    "reviews": []
+}

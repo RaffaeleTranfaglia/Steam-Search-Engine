@@ -1,0 +1,41 @@
+{
+    "app_id": 555160,
+    "name": "Pavlov VR",
+    "release_date": "2017-02-27",
+    "developer": [
+        "davevillz"
+    ],
+    "publisher": [
+        "davevillz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "VR",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2952,
+    "negative_ratings": 355,
+    "price": 6.99,
+    "description": "Pavlov is a multiplayer shooter for the HTC Vive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555160/header.jpg?t=1531839731",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 bit Processor: Intel Quad Core 3 Ghz + Memory: 4 GB RAM Graphics: GTX 970 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64 bit Processor: Intel Quad Core 3 Ghz + Memory: 8 GB RAM Graphics: GTX 980 ti or GTX 1070 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

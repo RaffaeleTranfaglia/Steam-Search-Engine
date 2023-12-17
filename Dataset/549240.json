@@ -1,0 +1,40 @@
+{
+    "app_id": 549240,
+    "name": "Beans: The Coffee Shop Simulator",
+    "release_date": "2017-06-30",
+    "developer": [
+        "Whitethorn Digital"
+    ],
+    "publisher": [
+        "Whitethorn Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 35,
+    "positive_ratings": 58,
+    "negative_ratings": 23,
+    "price": 3.99,
+    "description": "Beans is a sardonic 'tycoon' simulation game about hipsters running a coffee shop replete with dismal puns, coffee, chiptunes, and mystery!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/549240/header.jpg?t=1532112024",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 or Better Processor: 1 GHz Processor Memory: 1 GB RAM Graphics: OpenGL Supported Graphics Adapter Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7 64-Bit or Newer Memory: 4 GB RAM Graphics: nVidia or AMD with at least 512MB VRAM and OpenGL 2.0+ Network: Broadband Internet connection Storage: 750 MB available space",
+    "reviews": []
+}

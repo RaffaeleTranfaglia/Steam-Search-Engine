@@ -1,0 +1,40 @@
+{
+    "app_id": 720200,
+    "name": "Vinewing",
+    "release_date": "2017-11-07",
+    "developer": [
+        "Eelooz AB"
+    ],
+    "publisher": [
+        "Eelooz AB"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 44,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "Unravel the dark forces that threaten the people of Arrowtide. Hunt monsters and huge bosses, acquire new items, weapons and allies. Embark upon an adventure where little heroes can achieve big things!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/720200/header.jpg?t=1510331758",
+    "minimum_requirements": "OS: Windows 7/Windows 8/Windows 10 Processor: 2GHz CPU Memory: 2 GB RAM Graphics: 512MB VRAM GPU DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

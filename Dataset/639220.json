@@ -1,0 +1,43 @@
+{
+    "app_id": 639220,
+    "name": "Throttle Powah VR",
+    "release_date": "2017-05-30",
+    "developer": [
+        "Diego F Beltran",
+        "Mauricio Tunes",
+        "Luiz Zaiats",
+        "Danilo Nishimura"
+    ],
+    "publisher": [
+        "Diego F Beltran"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 33,
+    "negative_ratings": 8,
+    "price": 6.19,
+    "description": "Welcome to a fresh multiplayer, VR, racing, freestyle and Soccer experience. Each VR tracked controller is a mono-wheel motorized rocket. You have freedom to race and perform freestyle jumps and maneuvers in VR using the physics principle of sports like snowboard, skate and motocross.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/639220/header.jpg?t=1529871174",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 MB RAM Graphics: NVIDIA GeForce® GTX 980 / AMD Radeon™ R9 380 equivalent or greater DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": []
+}

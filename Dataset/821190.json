@@ -1,0 +1,37 @@
+{
+    "app_id": 821190,
+    "name": "Minitime",
+    "release_date": "2018-05-08",
+    "developer": [
+        "Minibyte"
+    ],
+    "publisher": [
+        "Danvik FHS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 1,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "Minitime is a fast paced, challenging and fun collection of different minigames. Everything from abducting a cow to flipping a pancake, it has something for everyone. Themed chapters, endless mode and custom mode awaits you, how many points can you rack up?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/821190/header.jpg?t=1525872739",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel Core 2 | AMD Athlon X2 or Higher Memory: 2 GB RAM Graphics: Nvidia GTX 670 DirectX: Version 9.0 Storage: 670 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 6600+ Memory: 4 GB RAM Graphics: Nvidia GTX 960 DirectX: Version 10 Storage: 780 MB available space",
+    "reviews": []
+}

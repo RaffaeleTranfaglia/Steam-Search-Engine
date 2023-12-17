@@ -1,0 +1,42 @@
+{
+    "app_id": 1004100,
+    "name": "Chaos Caves",
+    "release_date": "2019-01-25",
+    "developer": [
+        "Waz"
+    ],
+    "publisher": [
+        "Waz Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Physics"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Chaos Caves is an all-action couch game where you blast each other with completely unreasonable weaponry. Games last about a minute, everyone gets a turn at the Nuke, and failure is just as funny as winning. Next time, grapple out of range!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1004100/header.jpg?t=1552252521",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Dual Core Memory: 2 GB RAM Graphics: HD 4400 DirectX: Version 11 Storage: 200 MB available space Additional Notes: Expect 30Hz refresh with minimal requirements.",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 GHz Dual Core Memory: 2 GB RAM Graphics: GTX 750ti or better DirectX: Version 11 Storage: 200 MB available space Additional Notes: 4K fully supported",
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 980440,
+    "name": "Knights Rubbish",
+    "release_date": "2018-12-06",
+    "developer": [
+        "Yu Chao"
+    ],
+    "publisher": [
+        "Yu Chao"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 37,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.99,
+    "description": "A co-op platformer fighter game made with real photos, featuring our beloved character Keshia Erasia and his friends. They have risen from the rubbish and they seek for adventures. Invite a friend (you can also play alone if you don't have any friends) and play as your favorite rubbish! WOW!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/980440/header.jpg?t=1544198943",
+    "minimum_requirements": "OS: Windows 7 Processor: 64-bit CPU Memory: 2 GB RAM Graphics: Drivers with support for OpenGL 3.3 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

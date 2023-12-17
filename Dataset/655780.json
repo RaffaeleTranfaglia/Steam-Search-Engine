@@ -1,0 +1,46 @@
+{
+    "app_id": 655780,
+    "name": "Project 5: Sightseer",
+    "release_date": "2017-12-04",
+    "developer": [
+        "Tasharen Entertainment Inc."
+    ],
+    "publisher": [
+        "Tasharen Entertainment Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 132,
+    "negative_ratings": 38,
+    "price": 15.49,
+    "description": "Open world multiplayer sandbox/RPG game. Explore, discover, build, research, and fight to protect what's yours -- by yourself or together with your friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655780/header.jpg?t=1552626277",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 7 Processor: Dual-core Intel i3 Memory: 8 GB RAM Graphics: NVIDIA GTX 560 DirectX: Version 11 Storage: 1500 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: 7 Processor: Quad-core Intel i7 4790K Memory: 8 GB RAM Graphics: NVIDIA GTX 780 or better (resolution-dependent) DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

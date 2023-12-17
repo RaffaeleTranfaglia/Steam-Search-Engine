@@ -1,0 +1,42 @@
+{
+    "app_id": 840620,
+    "name": "Geometry Boxer",
+    "release_date": "2018-05-01",
+    "developer": [
+        "The Geometry Boxers"
+    ],
+    "publisher": [
+        "The Geometry Boxers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 35,
+    "negative_ratings": 16,
+    "price": 0.0,
+    "description": "Beat the shapes outta your enemies using special powers, melee weapons, or the old fashioned fisticuffs way - solo or cooperatively - in this physics based, geometric, mob fighter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840620/header.jpg?t=1527026914",
+    "minimum_requirements": "OS: Windows 7 (32 or 64 bit) Processor: Intel Core 2 Duo or AMD Equivalent, 2.0GHz Memory: 768 MB RAM Graphics: *Integrated Graphics for Low Settings, GTX560, AMD 5770, or Equivalent, 1GB VRAM DirectX: Version 10 Storage: 1500 MB available space Sound Card: Onboard Sound Additional Notes: *Integrated Graphics will most likely play the game, but at low performance. A graphics card is highly recommended",
+    "recommended_requirements": "OS: Windows 10 (32 or 64 bit) Processor: Quad Core Processor, i5, i7 or AMD Equivalent, 2.0GHz Memory: 2 GB RAM Graphics: GTX750ti or AMD Equivalent, 1.0GB+ VRAM DirectX: Version 10 Storage: 1500 MB available space Sound Card: Onboard Sound Additional Notes: *Most modern Graphics Cards should perform optimally",
+    "reviews": []
+}

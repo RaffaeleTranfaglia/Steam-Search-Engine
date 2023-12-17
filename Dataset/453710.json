@@ -1,0 +1,66 @@
+{
+    "app_id": 453710,
+    "name": "TableTop Soccer",
+    "release_date": "2016-04-22",
+    "developer": [
+        "Dancing Developers"
+    ],
+    "publisher": [
+        "Dancing Developers"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 20,
+    "positive_ratings": 87,
+    "negative_ratings": 21,
+    "price": 0.79,
+    "description": "Online, Single/Multiplayer tactical, simultaneous turn-based soccer strategy game. Play live games or play resumable games over a few days. Level up your team, unlock abilities and dominate the leaderboards. Or just embarrass your friends with your superior skills.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/453710/header.jpg?t=1493668913",
+    "minimum_requirements": "OS: Windows XP (SP2) Processor: 1.6 Ghz Memory: 1 GB RAM Graphics: 256MB Network: Broadband Internet connection Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: 2.0 Ghz Memory: 2 GB RAM Graphics: 512MB Network: Broadband Internet connection Storage: 350 MB available space",
+    "reviews": [
+        {
+            "review_text": "Mixing soccer with turn based tactic is quite innovative, and this game do it well. There is also some kinf of RPG evolution of the team while you play, giving points to players to change their stats. The match versus the bot are fun, but get boring after some games.  Matches against human are very good, with the 'play later' style that let you have a lot of game going on at the same time. The problem is that the community is really small, so you may end up with ten open mathces with the same 3 players or, worse, fail to find someone to play with.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I know i have short time playing it but...  I love this game, it is that kind of game where graphics go to a second place and gameplay is that funny that you dont think about them anymore.  It is a fast paced real time turn based game somewhere around a football match. You can customize the roster to your likings, so there is some kind of progression points you earn during matches and you can invest to improve your team members skills etc   Best money/fun factor ratio",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good turn-based effort that deserves something in-between a YES and a NO vote. Graphics, sound, models and complexity really need work but the premise is great. I played the tutorial and one half of a game and then it crashed.   I want to encourage the dev so overall I’m giving this a YES.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "doesn't work the bot practically rage quits, so you can never finish a game.",
+            "review_score": "-1"
+        }
+    ]
+}

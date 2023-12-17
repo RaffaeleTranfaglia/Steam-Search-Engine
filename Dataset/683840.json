@@ -1,0 +1,41 @@
+{
+    "app_id": 683840,
+    "name": "Galaxia Conquestum",
+    "release_date": "2017-09-15",
+    "developer": [
+        "Alien Octopus Studio"
+    ],
+    "publisher": [
+        "Alien Octopus Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Galaxia Conquestum is a turn-base/arcade game. Select your faction and enter the galaxy map to strategically choose your galaxy to conquer. Then fight in a space arcade scrolling shooter to conquer that galaxy! Be careful, your opponent(s) can also attack you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/683840/header.jpg?t=1505483756",
+    "minimum_requirements": "OS: Windows XP Processor: 1.0 GHz Memory: 128 MB RAM DirectX: Version 8.0 Storage: 100 MB available space Sound Card: DirectX 8",
+    "recommended_requirements": "OS: Windows 8 Processor: 1.0 GHz Memory: 1 GB RAM DirectX: Version 9.0c Storage: 100 MB available space Sound Card: DirectX 9+",
+    "reviews": []
+}

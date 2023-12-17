@@ -1,0 +1,38 @@
+{
+    "app_id": 586950,
+    "name": "The Wizards - Enhanced Edition",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Carbon Studio"
+    ],
+    "publisher": [
+        "Carbon Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "VR"
+    ],
+    "achievements": 19,
+    "positive_ratings": 186,
+    "negative_ratings": 27,
+    "price": 19.99,
+    "description": "Become a powerful Wizard and take fate into your own hands! Immerse yourself in a beautiful fantasy world and destroy your enemies by casting spells with hand gestures!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586950/header.jpg?t=1555059471",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i3-6100 / AMD FX4350 or greater (only Oculus Rift, for Vive see Recomended spec) Memory: 8 GB RAM Graphics: NVIDIA GTX 960 or greater (only Oculus Rift, for Vive see Recomended spec) Storage: 5300 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 1060 / GTX 970 / AMD Radeon RX 480 or greater Storage: 5300 MB available space",
+    "reviews": []
+}

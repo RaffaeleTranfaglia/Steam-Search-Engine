@@ -1,0 +1,57 @@
+{
+    "app_id": 392680,
+    "name": "Jeeboman",
+    "release_date": "2016-04-05",
+    "developer": [
+        "Futuretown"
+    ],
+    "publisher": [
+        "Futuretown"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "VR Support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 21,
+    "positive_ratings": 28,
+    "negative_ratings": 10,
+    "price": 6.99,
+    "description": "A fast paced retro arcade shooter built ground up for room scale VR. Save the city from waves of invading robots and dish out destruction with a full arsenal of futuristic weaponry!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/392680/header.jpg?t=1518498425",
+    "minimum_requirements": "OS: Windows 7,8 or 10 (64bit) Processor: Intel Core i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 /Radeon R9 290 equivalent or greater Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I actually REALLY disliked this game the first time I tried it - the colors were so garish! The text was so hard to read! Don't let the visuals put you off - once I got to the gameplay it won me over quickly. Now I've grown to love the look and style (especially the bright neon cityscape) and I can't wait to beat it on the hardest difficulty.  I have a feeling Jeeboman will be compared to Space Pirate Trainer a lot, and while I wouldn't say the comparison is unfair, to me they almost feel like separate genres. Space Pirate Trainer is one hundred percent about chaos. You're in the middle of it and there's nothing you can do but blast your way through. Jeeboman is more about trying to  avoid  chaos by zipping around to (briefly!) safe locations and taking enemies out from a distance. There's plenty of blasting, don't get me wrong, but there's also more room for long-term strategey and careful decision making.  If you're looking for a fun arcade shooter with just the right amount of strategy and pretty good replay value give this one a shot.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Extremely enjoyable if you like frantic gameplay. I have a feeling I wouldn't like something so fast paced if it were controlled on a classic keyboard, but I was surprised how much I enjoyed it on the Vive. You have to constantly teleport as well as physically move (A tip: don't use the shield too much, it drains the battery quickly, keep teleporting). This was the first game to get me to break a sweat (and that was on normal difficulty), and unlike Space Pirate Trainer, I don't feel like my small play space limits my ability to survive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Incredibly awesome game! Far better than Space Pirate Trainer, with good strategies and satisfying, useful weapons. This is THE game of this type to get for Vive! And the price can't be beat either.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is mayhem and not in a good way. There are too many enemies that swarm you from all directions without any kind of indication of where they are coming from. In its current state I can't recommend it. The idea is brilliant. But execution needs some work. The game would benefit greatly from an ingame radar or similar.  Edit: The game is show shallow and there is so little to do, it's pretty easy to make this judgement with the small amount of time played.",
+            "review_score": "-1"
+        }
+    ]
+}

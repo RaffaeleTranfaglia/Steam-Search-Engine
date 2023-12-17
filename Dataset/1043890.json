@@ -1,0 +1,36 @@
+{
+    "app_id": 1043890,
+    "name": "Tipping Point",
+    "release_date": "2019-04-11",
+    "developer": [
+        "Dan Russell-Pinson"
+    ],
+    "publisher": [
+        "Freecloud Design, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Tipping Point is an immersive, photorealistic adventure game with challenging puzzles and a satisfying story filled with drama, humor and unexpected plot twists. Original music, lifelike characters, animals and scenery all come together to create a cinematic experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/header.jpg?t=1554979526",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities. DirectX: Version 10 Storage: 500 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

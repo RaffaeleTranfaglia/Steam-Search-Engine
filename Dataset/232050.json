@@ -1,0 +1,389 @@
+{
+    "app_id": 232050,
+    "name": "Eador. Masters of the Broken World",
+    "release_date": "2013-04-19",
+    "developer": [
+        "Snowbird Games"
+    ],
+    "publisher": [
+        "Snowbird Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Fantasy"
+    ],
+    "achievements": 56,
+    "positive_ratings": 1365,
+    "negative_ratings": 679,
+    "price": 14.99,
+    "description": "Eador is a universe made of countless shards of land drifting in the Great Nothing. Each of the shards is a little world unto itself, with geography and denizens of its own. The power over the shards is bitterly contested by Masters, the immortal beings mortals believe to be gods.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/232050/header.jpg?t=1511448807",
+    "minimum_requirements": "OS:Microsoft® Windows® XP SP2 / Vista / 7 Processor:Intel® Pentium 2,0 GHz/AMD 2000+ Memory:2 GB RAM Graphics:GeForce 7300/Radeon 9200 DirectX®:9.0c Hard Drive:2 GB HD space Sound:DirectX® compatible",
+    "recommended_requirements": "OS:Microsoft® Windows® XP SP2 / Vista / 7 Processor:Intel® Core 2 Duo 1.6/AMD 3000+ Memory:4 GB RAM Graphics:GeForce 8800/Radeon X1900 DirectX®:9.0c Hard Drive:4 GB HD space Sound:DirectX® compatible",
+    "reviews": [
+        {
+            "review_text": "This is so close to being an amazing game that it causes me physical pain. It's that close, but there are a few crippling flaws that just ruin it. First, there's the combat. There are different ranks of creatures, one through four, one being weakest and four being most powerful. The problem with this is, after a certain point, anything below rank three will die in the first turn of battle because the enemy AI consists entirely of 'KILL WEAKEST CHARACTER'. The combat maps are tiny so forget any sort of strategy, mid and end game opponents can hit you anywhere you stand. Oh, and those opponents are almost always all one to nine monsters, plus nine to twelve wizards. There are three wizard types, and you will see up to a dozen in every single combat.  There are dragons in the game, and you can find them as random encounters. That isn't a problem. A single low level dragon can be beaten, but it's fairly tough unless you come loaded for end game critter hunting with high end, high level units. It's cool. You get an achievement. What isn't cool is that the dragons can spawn in groups of up to six, and all of them in the level 15 range. There might be worse groups out there, but this is literally what invaded one of my provinces in my current game. This isn't something you can fight. I also mean that Literally. You can not defeat these multiple dragon encounters. It isn't possible. You can build an arena in your home province and send heroes to battle in it to gain experience. Why am I mentioning this? because as soon as a hero reaches level ten, the enemy heroes you battle in the arena can also spawn with dragons as minions. It goes about as well as you'd expect.  On the plus side, your units can level up and improve their abilities, but it really doesn't matter, because a lvl 30 tier one unit will still be instagibbed by a lvl 1 tier four. And the upgrade system is utterly worthless as well. Why yes random number generator, I did want to improve my crossbowmans hand to hand skills for the fourth time in a row. No, he doesn't need better ranged attacks, he needs to be able to swing that butterknife he has like a man!  There are hundreds of items you can find, which is nice, but there's almost no storage space for them. You get a tiny little vault that can't be upgraded. It wouldn't be so bad but on the same screen you have access to the merchant window to sell stuff, and hey, if you guessed that had a scroll bar and infinite space in it, go get a cookie or something. You can build an artifact shop so you can buy artifacts, but unfortunately it doesn't cycle through different ones. You get the opportunity to buy three randomly chosen ones and it never changes for the rest of the game. Those three items are pretty much going to be terrible and I really want to chalk it up to being a bug that it doesn't refresh every so often, but it's been like that since release so probably it isn't.  There are four types of hero you can recruit, but you shouldn't bother getting anything but a warrior. The warrior is so much better than the other three it defies belief. Scouts can be useful for the rare encounters designed exclusively to kill warriors, but that's about it. Oh, and yeah, there are encounters designed from the ground up to murder warriors. packs of medusa will petrify you and then poison you, giant spiders will web you down and poison you, giant slugs will poison you if you hit them or vomit poison on you from a distance if you don't.  Edit: Okay, so I finally managed to grind a mage high enough to use a specific spell named 'white magic', and basically, it lets you break the game over your knee like a rotten twig. Two casts will clear virtually any combat encounter of critters, barring the two (the latest update may have added more) creatures who are magic immune. Once you get one cast per combat, better beleive that mage is going straight to lvl 30 since he can now effectively obliterate entire armies. Unconquerable foes turn instantly into big, meaty sacks of free XP. Just load up every unit slot with lvl 1 swordsmen, the enemy creatures/mages/whatever will go and kill them while your mage, free and unharmed, fires magic nukes that hit EVERYTHING ON THE MAP FOR MASSIVE DAMAGE. This is a well balanced, well implimented ability that reduces multiplayer combat to 'whoever goes first wins'. Casting it does a small amount of damage to the mage, but a couple of healers can fix it easily before any monsters that made it to turn two kill them for being a weaker, easier target than the wizard FIRING MAGICAL NUKES AT THEM.  Oh, and I hope you like really, really really loud TING! sounds, because the game plays one over and over at random for no reason I can discern.   Edit: I also hope you don't like loading saved games, because doing that while the game is running will cause the entire thing to crash. Not always, but often enough that I had to mention it.     Shouted at by a dev and I didn't even get an acheivement for it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The idea is interesting but the implementation is lacking. Highly random starting positions can vary the difficulty from 'cakewalk' to 'impossible,' and strategy games should be decided more by your decisions than by randomness. Hero units drive the game, so if your starting area is good, you steamroll the map; if not, you may be able to grind through, provided the enemy hero did not get a steamroll start that lets it one-shot your troops and two-shot your hero. 'First OP hero wins' is not an interesting strategy dynamic.  Before each fight, the game evaluates your forces versus your enemies and gives you a difficulty estimate from 'no casualties' to 'no chance.' Whatever math is being done does not compare the units' strengths and weaknesses. You will regularly find impossible 'easy' fights and 'run away!' fights you can win without taking damage. Between this and the highly random elements, you can see why so many places on the forums advocate save scumming.  I encountered fewer crash bugs than other reviewers did.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Imagine a typical hex-based strategy game such as Dawn of Fantasy, make it 10x bigger, twice as good, and inject an original and well-written storyline - this is what you get. There are some very minor issues in that the manual is written for acrobat reader but clicking 'manual' from the splash screen does not initiate acrobat reader so you have to find the file and do it 'manually' - ironic. Also, for some reason, the graphics auto-detect at highest levels produces in game errors where I had to change settings to get screens to display correctly. These issues aside, this is a must-buy game for any who like the genre and all but hardened haters. 90%",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Broken to all hell on Linux. Doesn't launch on most platforms, huge graphical problems with nvidia drivers, and when it does start by navigating to and directly launching the game, it's so hard to see anything that it is unplayable.  Needs to be fixed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "nice tactical system but too long, too slow, too repetitive . On harder than normal it's too hard if you don't do it the only right way after a while in. Prepare to get stuck and owned making it slower and slower. AI hired guards don't scale with you. Item repair also ridiculous. loads of crashes still after 1 year and a half of patching and randomness.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A great game, but full of bugs, at least if running on Wins XP. As I count Heroes of M and M III for the best turn based strategy game, I dare say Eador can compete with this title. Fans of strategy games should really at least try it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is pretty ♥♥♥♥ing awesome. Imagine a slower paced and much harder Heroes of Might and Magic and you'll come pretty close to describing this game. It gets a solid 8/10 from me. Well worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly Recommended by me if you like Fantasy style Civ games, It plays similar to my favorite mod of all time; RiFe for Civ 4 - mixed with turn based Might and Magic type stuff. The elements of being able to Explore every province is pretty darn fun, and allows for alot of time to sink into a map. But by far the biggest pull for me in the game is the campaign; Imagine starting a game of Civ with a tech cap on most buildings/units. Choosing which 'shards' to attack allows you to get new bonuses and slowly unlock everything. It's pretty awesome to have that sort of Metagame aspect to it. seeing as i can easily run through a million and and a half games of Civ that extra layer of progression was really fun to me. If you've got time and enjoy that type of game i'd recommend it to anyone. it's a grade A droning game.   It's more a game of unlocking and and collecting items to upgrade your hero/buff your armies that civilization upgrading, but it works well i feel. and the different spells and unit types definitly give you the ability to mix it up a bit and find whatever is fun for you. That's the best part about this game is it tends to just let you go whatever path you want (beacuse most all paths will eventually let you win lol)  But, Pick it up if it's on sale, and Take care all!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have been loving this game, it is unique and different then other 4x games... Only downside is I think it has a level cap of 30 and it takes many hours to conquer a shard. I am enjoying the story as I conquer the shards this is a worthy game to pickup to add to your collection.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So frustrating...the gameplay is great, nice graphics, vast World to explore. Seems like a great game...but it does crash a LOT. It takes away the joy out of playing as this game crashes for me almost every 10-15 minutes. Frustration is a mild term to use here. I would recommend it to anyone who likes strategy turn based games with RPG elements, but it is still full of bugs almost a year after the release - the patches don't seem to fix the problem a lot of the players are facing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The most in depth 4X ever, no bugs that ruin game play, way worth a $20 price tag.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful, super addicting game! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly recommended! I play a lot of 4x games. But I find myself replaying Eador more than just about any other game I played. Finishing the campaign takes really a huge effort (estimate 600 hours). And after, I immediately started playing a new one. When making comparisons, Heroes of might &amp; magic comes to mind. But me, I like this game better.  + The game has personality: a lot of random events - tied to the personality (karma) of the master you play - and really adding flavour and also the opportunity to develop that personality further. Also pretty funny. + Challenging: rather difficult. Different scenario's take a different approach. Also, the technologies you develop add to that. On normal difficulty an experienced player might need several tries to conquer a world. + Strategic: resources are scarce. Investments in your lands take a long time to pay off (10-30 turns) and are nicely balanced to investing in units. + When comparing to Heroes of M&amp;M: the units, spells and choices to make are just more interesting. + Lots of replay value: because of the above.  - Mixed feelings about the Allied forces DLC. I think it distorts the balance in the game. Because of that it is even more difficult.  +- The game did have a lot of bugs. But most are fixed and it is stable now. Nothing gamebreaking.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What a great, old school heroes style game. I really liked this one as a 31 year old casual gamer, it has a lot to offer me. I find my gaming life is winding down and that I am not as good as most of the kids out there playing; this game makes me feel like a kid again, lets just say :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game shines for me. It has its own distinct visual feel, a uniquely flavoured narrative and a varied and tactically deep combat system. I rate this way above the HOMM series which I was a fan of til 6. I t has given me so many hours of enjoyment that I thank the devs for, a real gem for fantasy TBS gamers. Its had a mixed review because of its buggy history. At one point it was a game breaker but was patched to my satisfaction. I still get some crashes after long hours of play, but nothing game breaking or that a reload of the game hasn't fixed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game, it's a bit like a lesser HoMM3. Absoultely riddled with bugs, including game breaking ones, which makes it hard to recommend but I will all the same.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This has got to be one of the buggyest games ive ever played. there are long load times when the enemy units start their turns, saves some times fail to load, and sometimes an enemy will drop to 0 hp but remain alive without the ability to attack or be attacked; preventing you from finishing a match. Oh and by the way it crashes your PC  That being said this is game is rediculaously fun. if the bigger (and frankly obvious) bugs are fixed this would be amongst my all time favorite games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Russian literature of turn-based strategy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played about 7 hours. The problem is the game repeats the same fight over and over on the shards, and you find yourself just ignoring the stupid random messages that become an annoyance rather than fun. Add in the fact that there's almost no strategy to any of the game.  Here's the strategy on how to win: Move as fast as you can to conquer sections. That's it. If you can do that, you win. It's another game that's more about rushing around than actual strategy, or building up defenses, or dealing with an economy that makes any sense. Add in the fact that the mood metrics of the game are very convoluted, and you end up with gameplay that you'll be trying to skip rather than playing.  Eventually I just got so frustrated I gave up. It's trying to be HOMM with a bigger veneer on it, but it's nowhere near as fun. Shame, because if they fleshed out the overland map part, it could be fun. But it's completely unbalanced and as such it makes no sense.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Campaign is addictive, repetitive and repetitive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game ^_^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of fun. Strategy game at its best!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is better than Heros of Might of magic in almost every way. This is what HOMM6 should have been",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a good game for those who wanted turn based strategy,management builder,alignment scenario depending on your game play , the units you use levels up individually so even a tier1 unit can beat a tier2 w/ sufficient levels. how you rule your world will be up to you. if you wanted to be a tyrant lord who will not hesitate to transform your own subjects to resources. or a paladin who will bring devine punishment , eternal crusade and unreasonable hatered to anyone who sides with the darkness. or a little goodie two shoes who will rule them all is up to you. how you protect your low tier units to be too highly leveled and awarded w/ multiple medals to match high tier units is up to you. strategy is very important. a good game that is easy to learn yet hard to master   Downsides:  the daw back for this game is that it takes neary a lot of time and i mean Hundreds of hours to finish and in my case im still probably in the half or close to half of the game  the bugs are crawling and some updates can fix some of the bugs but not all. cleary to a point making the game unplayable and rendering a savefile useless. currently i can say im still waiting for major fixes for the game so that i can probably play this w/ smooth sailing.  if you can overcome and have a LOT of patience for these downsides i can say grab this game if on sale. its a good game w/ good concepts its just that bugs crawl and used to be A LOT.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game, along with Eador: Genesis are a pair of turn based fantasy strategy games made by a handful of russian Devs, and it's cleary a labor of love. If you've played any classic fantasy strategy games like Heroes of Might and Magic, Disciples, or Age of Wonders, you'll feel right at home here. There's a large number of buildings to construct, units to field, all set over a massive, randomly generated campaign that gets more complex as you get further in. If you love any of the games I mentioned, this ones worth a look. One warning though: They're hard, especially Eador: Genesis, which forces you to play in ironman mode: no loading older saves when things go wrong.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's knda fun. has some bugs. past level 10 the choices kinda suck. heroes need more class specifics not mashing it with other heroes abilities.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deep strategy, chess like gameplay, takes ages to get to grips with but very rewarding once you do.  If your looking for a flashy game with great animations and personal custamization then... go find another 4x game because this isn't it.  it's all about strategy, it's all about perfecting your early game and reaping the steam rolling rewards in the late game. It's on the deeper end of the complexity scale but unlike something like crusader kings 2, it's not initially mind boggling... for the most part. Though the building tree is extremely expansive and not very well laid out...  It doesn't run very smoothly either... I've got a 780 now and it works fine, but my previous 570m on my l;aptop had some stuttering, though anything over a 760 should be very smooth. And most people have that at least, so this is just a wasted sentence i guess lol.  anyway.  the game has it's flaws; the campaign is excessivley long and boring. Though the writing is great I'd reccomend just free play or whatever it's called.  also steam rolling... not very fun late game, it's a problem with most 4x games, it's steam rolling. Once you've bumped off the enemy commander a couple times YOU WIN.  though it can be fun to maintain and manage a huge kingdom, exploring your lands etc.   it's worth the price, it's worth putting a good 100-150 hours into, and it's a 4x game I'll be coming back to at some point. The ai is very good and it's heart warming to see how many different strategies can be played out in this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am actually glad that I decided to go through with this game despite the bad reviews that users have been giving it. At a glance, it looks a lot like most fantasy setting 4x hexagonal grid strat rpg games, but this one is by far more punishing. As an example, the Age of Wonders series, when you make a mistake in that game it is typically a simple process to work your way back out of it, time consuming, but simple. This game is a lot less forgiving, to the point that even with all the right moves, you downright have to be cheating to get anywhere at all. In one game I had a single hero at level 2, was barely managing to stay on top of 4 hexes of land, and then a SINGLE beginner difficulty AI warrior hero comes along and stomps me. in the same amount of time the AI had somehow magically managed to have a level 5 hero, with 2 maxed abilities, and another with three points in it, which as far as I know so far, is not evne possible. So, all in all I definitely would have to give this game a 7/10, just for the sake of the mind-numbingly stupid situations I find myself in because of the balancing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While this game is worthwhile on a number of levels, such as the many choices of buildings to construct, the endless variety of maps that are generated, and the many different items you may find as loot, what I am most intrigued by are the continuously important choices you must make when it comes to whether or not to fight a battle. Going up against 3 giant spiders may seem somewhat easy for an archer who has gained several levels and found a decent bow, but 8 or 9 may be overwhelming, so getting a sense of what is and is not achievable, and when, is a real skill here. Should you decide to play at a high enough difficulty that the advice is turned off, then skillfull decisions become crucial, because it is there that the handholding is truly gone.  The discovery of what unit types complement one another is also quite fun to explore, especially on the occasion when you may acquire a unit type that cannot be recruited in your own castle. I am dying to mention some of my favorites combinations, but it is the joy of these discoveries that makes them satisfying, so I will leave it at that.  True, there is still an occasional crash, but I have not had to begin a new game because of them in well over a year, maybe longer. Restarting the game lets me resume play after replaying only a single turn, so it's not much of an inconvenience. In the end, this game keeps me coming back again and again because of its good things, and I am always delighted to discover more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fantastic little game will give u hrs of gameplay  good mix of games such as heroes, total war and civilizations  well worth the $20 price tag",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is extremely fun, it looks kind of wonky and complicated but it quickly becomes incredibily addicting. The amount of replay value the game has is nearly as staggering as the amount of time it takes to even beat it the first time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very much enjoying this, although I'm finding that I really need a good flowchart to figure out pre-requisites. Have only had one crash when alt-tabbing, so it seems pretty stable. Tough start, but once I got the basics down it really began to eat up time.  If you like Master of Magic, I would recommend this. It's not really a MoM replacement, but it's definitely in the same vein.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'd heard really bad things about this game, but my experience thirty hours in has been positive - no bugs and a nice turn based chill out game which is what I was after when i bought it. For what I paid for it and to play for thirty hours is a bargain imo, and the longer I play the better it gets.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is the perfect blend of Civilization and Heroes of Might and Magic. If you're into that kind of fun, dont miss this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you lik turn based Strategy games you'll like this game. Nice story line and graphics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like it! Loads of things to build, loads of powerups to select for both your heroes and troops and the graphics look great. Starts off nice and easy, then gets a bit tricky :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant! Very interesting story line ,massive graphic . I would recommend to anybody.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good Fantasy strategy turn based game. Excellent replayability with the randomness. Highly endorse if you enjoy this type of game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a great game if you like turn based strategy. I really enjoyed it even tho I didn't play eador geneis. It's kinda hard at first but after you understand some strategies and take it slow it goes wayyy better. Also it offer huge ammounts of gameplay, since the campaign is ♥♥♥♥ing huge. About 100 hours more.!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Okay, I enjoy this game. I enjoy it alot. I have dumped alot of time into the game. If you like Strategy/RPG mix overall I think this game is something to look at. I won't hide the fact that the game is still buggy even after being out for a year, but the developers have been patching the game non-stop since it came out April 2013.  The Ugly:  Okay this game still has bugs, for some people game breaking bugs, and for others bugs that are iritating enough that can make it painful to play the game sometimes. The game was released last April almost completely unplayable, and over the past year it has improved for the major part. Yet I won't gloss over the fact that their is still alot wrong with the game.  The Bad:  The game probably is not all that balanced. Their are 4 tiers of units, and some T4 units could trample an entire army. Not all of the Hero classes are balanced. Their are 4 of them, but they all are playable. It will be nice to see what the game is like in the future.  The Good:  Did I mention patching? The developers still care about the game. They have been patching it a while, and still patch it.   There is alot in this game, alot of units, alot of choice. Alot of lore burried deep within a rough exterior. The game does not look half bad. The game is not fast paced, but is the type of game you can start playing, and come back between turns as you do something else, but will also keep you wanting to play 'one more turn' when things are getting good or you near to beating another map. The developers have recently added a boat load of new units and spells, and have dropped hints are future expansion to the game.   Is the game, worth $19.99? Its a hard sell considering how buggy it can still be. I do thing its a hard sell, but I've enjoy the time I've dumped into the game and I do appreciate the patches that have gone into it. The game has gotten good, and hopefully it will cotinue getting better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game if you know what you are getting yourself into.  The downsides:  Crashes, bugs, but not unplayable. Repetitive, really repetitive towards the end of the game.  The upsides: Fun turn based combat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game, however I think the game should be improved in the Battle AI ans also the effective difficulty kevel should be more efficient, especially when select Beginning levvel.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent and also extremely long game, sadly the battles can get repetive after a while.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the multi-layered strategy and the worldbuilding that ties together different game mechanics. Definitely a relatively punishing 4X, but absolutely worth diving into if you enjoy 4X/RPG hybrids that offer a real challenge without making it feel like the AI is simply overpowered.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+:   gameplay you have never seen, and it works!  nice map generator, every time - new adventure.  if you like fantasy turn-based strategies, you will be able to enjoy this one about 100-200 hours.  orijinal story and setting, campaign is sloooow, but quite interesting and not-linear +-:  music exists and it is not bad, but too few tracks (for such big game) which are repeating.. and repeating.. . also no special zones music, just same playlist all the time.  unbalanced beginning difficulty for classes: easy for ranger, normal for warrior and wisard, NIGHTMARE for general. -:  lack of visual content and its quality - spells effects look ♥♥♥♥♥♥, no corpses lying on battlefield but piles of bones, rough fight animations.  no weapon visualisation on heroes - you can equip bow and hero model picks a scepter, no sub-class visualisation for heroes,,, SERIOUSLY, they made tons of monster`s models and animations but couldn`t make different models for paladin and berserker.,,  no positive changes since release about make this nice game look nice, now it`s only played nice. only bug-fixing and adding content (which is not bad, but not needed while the game looks bad) 7/10  **old version for russian region**  ♥♥♥♥♥♥♥♥♥♥ся за осколки с такими же конченными упырями, как и ты сам! Снова и снова охуевай от необходимости выкачивать героя с нуля! Выгони стартовых крестьянина и пращника для экономии - и тут же угоди в засаду разбойников героем 1 уровня! Поиграй 100 часов и проеби сейв!  ТРУПЫ ГДЕ?! ДАЖЕ ВО 2х ГЕРОЯХ БЫЛИ ТРУПЫ!  7\\10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Used to be unplayable on release, hence the many negative reviews - but it's fixed now and deserves a better score.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While many of the serious bugs have been resolved a year later, a few game-breaking bugs do remain (albeit the ones listed above do not).  Gameplay balance remains an issue, and it inherently leads to a very grindy game.  So it remains a diamond in the rough.  ---  After almost a year, this game remains a bug-ridden hellhole, with very little tactical or strategic balance at most levels of the gameplay. I'm almost tempted to say the bugs are worse now than they were a year ago.  Some bugs include: - if more than one battle of any kind occurs on the map, no other battles can occur. They immediately auto-resolve with both sides being listed as dead despite not being dead. - The AI cannot conquer any terrain where it has to fight player guards. Neither the guards will die nor will the province be conquered.  Some gameplay issues include: - In campaign mode, it is entirely possible for the capitol of an AI to be guarded by 9 centaurs. Centaurs are powerful tier 2 units. If this occurs in the first or second mission, you have been given a near-impossible task, as the gameplay elements that allow you to defeat centaurs are not available until later in the game. You can, of course, surrender, and keep playing. This, and similar balance issues, remain a frustrating element of the game. - Starting units are worthless and unless you follow certain strategies or know what you're doing, you're likely to be stuck in your home province for many, many turns.  All of this is incredibly sad, as the game's core concept is pretty great. The programming and game design, however, are lackluster and poor. A great game marred by poor design.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I saw videos and previews of this game a long time ago and thought it looked awesome. I really liked the idea of a turn based fantasy based strategy with tactical combat.  So when the game came out I waited a bit and then bought it. I'm honestly not sure what to think of this game. There is all the right pieces there for a awesome RPG tactical strategy game, but for some reason it just falls short.  The hero characters aren't very balanced and just feel kind of blah. The game gets very repetitive very fast as you keep running into the same thing over and over.  While playing I just couldn't help but compare it to Fallen Enchantress which is a similar style game. In pretty much every way it feel short. Maybe not fair as Stardock is a larger company. But still the point is there.  You may love this game, you may hate it. If you play Fallen Enchantress I'd stick with that and not bother with this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good game, needs to fix those bugs though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I prefered the older version. Nothing really new besides the bugs and 3d animation, Story line is still seemed to be the same...I thought the hotkeys would be the same as the older. Apparently not... Combact speed is also pretty slow. Needs a decent graphics card or processor to manage it. 4/10.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice little turn-based strategie game. this won't be the title you have waited for... thats for sure due some game mechanics and the 'story' are unnecessary and mainly boring. but overall the gameplay is a nicely balanced and joyfull. if you like this kind of genre and you get i cheap it's worth a try",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Eador is a hard game to recomend. It was actually too tough for me I figured at one point and quit it there and then. I really like how the game fundamentally works but for some reason it is punishingly hard at points. Like, literally impossible missions looming. Maybe I didnt quite get the funding and recruitment properly because some of the fights... well, I feel bad just thinking of them now!   That said, I do feel like its a TBS game with a big heart. I'd love to see a sequel that is similar but gives me a chance!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Despite the occasional game breaking bug, I have logged almost 500 hours on this. This is grand strategy at its finest.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What can I say... In this game, you have tons of thing to do, yes, tons of thing, repeatedly, YES, REPEATEDLY.  This is kind of Disciple or Heroes of Might and Magic turn base kind of game, where you have to take turn for everything, like planing which world you'll conquer, and how you conquer that world. This game does that aspect really good, though. You have a good amount of unit and enough ways to level up you heroes( yeah, just enough), then, you have a tons amount of choices when you are in a world.You totally feel like you conquer and control that world. That's a good thing.  But you have to feel this good feeling tons of times. I mean, whenever you conquer a world(or shard), you have to restart from the begining, YES, FROM THE BEGINnING. While this is not a bad idea, I mean it, but this kind of game IS very long, the campaign IS very long, and after sometimes, you will think, 'What, I need to do it again? All right, I will do this, I will chose that. Come on, let get this war end'. And BAM, after this, you have to that, again.  Don't get me wrong, it's up to you, I just show what you will do. But imo the game offers not enough content to make this mechanic fun to play.   The graphic is kind of acceptable, the music is nice.   What all I have to say, can not recommend though, our life is busy enough to keep doing the same thing over again to get a short ending.   ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun game but it has a memory error that basically makes it unplayable if it manifests on your save game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Too buggy. Only one hour in and I want to quit. Main issue, which other reviewers have expressed is that units that are killed don't die. Their HP reach 0 and they just stop moving. This is quite a problem since you need to kill every single unit on the map to win the battle. Your best hope is to click auto battle and hope after a few turns the unit will finally die. Otherwise you constantly have to reload the game from your previous save. Way too much hassle.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "good fun but still full of bugs a year on from release",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Tedious, buggy, not fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Super fun, 4x-ish fantasy game. Loving it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Buggy - monsters at 0hp are still alive, and are unkillable.  Gameplay wants to be civ + homm, but seems to take the worst of both versions of those games. I've only played for an hour, or two though, but if I cannot keep progressing beyond unkillable monsters, then why did I pay money for this again?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Could have been good, but was plagued from the start with bad tutorials, confusing menus, and, amazingly enough, bugs during combat that would prevent progression.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "VERY detailed, rich, interesting game. It LOOKS really good, and on paper it SOUNDS amazing: conquer floating shards and add them to your own floating world to create a massive continent and challenge other gods and take their land. Where each shard is it's own map and you fly on over to it using a Hero to command troops n' ♥♥♥♥. It's basically like Civs. It's another Civs hexagon RTS game, okay?  Anyway, it's buggy as ♥♥♥♥: A.I is dumb, game is unplayable if you've got more than 2 players, the combat is long and can take away from the rest of the game, and the 'auto-fight' option to skip all that does NOT prioratize your hero (if your hero dies you have to Rez him or create an entire new party of troops to take control/fight for tiles)... so seriously, wtf. There's also no 'free play mode' so if you want to do what the game advertises you have to play the campaign.  I dunno, it's alright, but It becomes more unplayable the longer you play it. The Games difficulty setting has no baring on how intelligent the Comp is as well.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good game for the short period that it worked. The game is very buggy with some bugs (particularly battle screen freezes) popping up at highly inoportune times forcing the cancellation of entire campaign games that you have invested hours playing because you cannot proceed past the bug. Deleting and reloading doesn't appear to help as it only seems to bring out different bugs and glitches. Potentially a good game and I will have another look at it in a year or two after the developers have released some much needed patches.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Although very promising premise this game has an extreme steap learning curve and it takes ages to get anywhere in this game. Even after 20hrs of playing I just managed to conquer three shards so far. The shear amount of repeated action also takes its toll on the fun level. It is not bad but also not particular good. There is great potential in the game that just doesn't get through.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "*Nominated for Steam's “Game that never stops kicking your b*tt” Award*  This game is relentless. Uncaring. Unforgiving. And it will always find more creative ways to humiliate you. Punish you. At first, you think you're such a tough guy/gal, because you've been playing tactical games for decades, so you turn up the difficulty and start your first game. You are told you are a God, and you feel like you'll own this world. You laugh at the tutorial, thinking 'please... this is not my first barbecue here, enough with the holding-my-hand gameplay, give me a real challenge.' And surely these goblins are just cannon fodder for xp right? Think again. They will tear you apart. On your first battle. It's like getting slapped in the face and get told to get back to your seat. You slowly realize how dangerous this first world is. And then it dawns on you : 'Wait... I... actually may lose before completing this tutorial world...' Careful planning, pacing, and never under-estimating choices become a necessity. For survival. After a few hours, just when you think you're starting to get the hang of it... you have this strategy all prepared... you have this old units getting tougher and tougher... Then the game crushed you again. It never takes much : it takes one wrong move on the battlefield ; it takes one daring click during a random event ; it takes one management mistake for your equipment or fortress...  Soon you're back to the main menu and a lesson in humility has been learned. You click 'expert' difficulty (default gameplay stats) wishing you had the guts to click 'beginner' instead... but there's always a bit of pride left in you, isn't there? And then you're off to another b*tt-kicking. This is not a bad thing. This is actually a great thing. Your choices matter. All of them. Because each time you're wrong, you fail. And each victory, each captured shard, is a real hard-fought battle. It's an endeavour. A real achievement. Overcoming the odds. Until that moment when the game will find another way to mess with everything you thought you had mastered, in a way you never saw coming.  This game is a tactical boot-camp. Russian style. Be warned.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game had so much potential, but script and dialogue box errors and glitches make the game unplayable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is a disappointment. I'm a big fan of fantasy games but Eador was a letdown in every aspect. Horrible graphics, broken controls, stuttering animations and constant framerate drops. What could've been a good game was ultimately a horrible mistake. The only redeeming thing about this game was it was cheap when I bought it. But a dollar wasted is still a dollar wasted. No point in buying this anyway, as the devs have basically washed their hands off this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Surprsingly deep and fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun the first few times. Then the campaign devolves into conquering the next shard and the next shard and the next shard, making you incremenally more efficient at repeating the process. The rate of progression is geological in span, and the idea that there are mildy autistic masochists out there who have completed this game enough time to see multiple endings (the game has an end?) boggles the mind.   It also possesses a considerable number of never-explained and grotesquely unfair gameplay mechanics each of which will make you lose a level at least once. Then a little Gremlin taunts you.  Avoid.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I Can't load any saved games. WTF is with this broken P.o.S being released? IF they get their act together, this looks to be a really enjoable, fun and interesting game. At this point in time, f*ck this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'd really like to recommend this game, but I can't, really.  It's just so good in its basic premise, and the execution is not half bad either, but some bad design and balance decisions make it a sad game to play. After a while you understand just how badly the AI cheats, how only one character class is truly good (warrior, solo all enemies, all armies), and the crash bugs finally get to you..  In short, I probably wouldn't get this unless the game balance is addressed.  If you got a fun and balanced game, even crash bugs don't bother you because you just reboot it and continue. A bad game, even if technically perfect, you just won't want to play at all",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was a complete surprise that the game can't even launch, so that earns the game 0/10 since it does not even launch.  PS.  How is it that after 2 years it does not work?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "simply put, the AI is a cheating ♥♥♥♥♥♥♥, far more then what is acceptable from an AI.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Are you looking for a reason to complain? Want a game that will treat you like garbage? Then this is the game for you! If you buy it now, you too can be an insignificant gnat in a horribly unbalanced game! And that's just beginner mode!   Do you feel like real life is just too easy? Are you upset because you have nothing to complain about? This is the game for you! Instead of playing something fun, would you rather pour hours into a game that will turn out to be a fruitless chore? This is the game for you!   Buy now! Ragequits GUARANTEED!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Total waste of money - spent hours trying to get the game to load.  It doesn't support my Radeon HD 4670 GFX Card. It gives 'Your video card does not support hardware acceleration' at startup and then fails during loading. Searched and searched for a solution, but have been unable to find a fix.  I suggest avoiding if your GFX card uses the Microsoft WDDM 1.1 driver on Windows 8.1.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this game has nothing but problems, stay away",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Actually enjoy the gameplay on this one, though exploring the provinces can be a bit tedious. Reason for downvote is that the game frequently crashes after battle resolution (transition between loot phase and world map) - with multiple leaders especially. Pretty unplayable, and my rig has no problem with games that have higher performance requirements.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Eador: Masters of the Broken World is a remake of Eador: Genesis. It is nearly identical, with almost all changes being graphics and GUI layout. Unfortunately, they absolutely failed at the GUI. They managed to make a game that was over ten years old harder to play through a series of changes that did nothing to improve the game, only hinder players.  Eador: Genesis was an incredible game for the time, and is still highly enjoyable. If you can find it, play it instead. The few enhancements Masters of the Broken World received are not worth the investment.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A complex and rich game worth your time if you like grinding and continually losing units to overpowered enemies - while the new units you buy are rank zero cannon fodder. The game continually throws at you events that make you lose land you have dearly fought over. You may build ONE building over your whole empire PER TURN, and your units recover ONE life point PER TURN. You'll spend the first few hours of a game waiting for your units to heal. 'Easy' difficulty means '♥♥♥♥ you' as the whole experience has been carefully balanced to make you rage quit as soon as possible.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good idea, bad game. The game has alot of portential but quickly decent into repetative. The best way to discripe it is: Done one shard done them all.  Exploring is fun at first but you quickly learn the right answers for everything and you are just going through the motions. Combat is just as repetive. Sure you heroes are fun and the units leveling up encourge's to keep them alive(save scum). But the fights themself quickly become tiresome. I found myself fighting the same groups over and over. Killing a group of bandits for example stops being fun after the fith time.  The game has lot of good idea's(and bugs) But you will spent most of your time feeling ugh again?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's just extremely extremely extremely repetitive. For every new shard, play with a brand new hero. Build the exact same buildings and units over. Fight the same battles in the same way over.  Part of the problem is that it's not balanced. Certain units are just SO superior to others, and the difficulty can be punishing, which has you using those same units and fighting in the same way over and over.  Basically, once you've won one shard, you've won them all.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Before you're able to support a decent army you get bored.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  what",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wanted to like this game BUT... it sucks!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Addictive, classic 90's style hex based warefare. Can't beat the price - even an afternoon of fun will pay for this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Utterly broken. Was plagued by pointer errors, no longer even starts.  Further, the developer simply abandoned the game once it became clear that their code was going to be hell to untangle.  Avoid both the game and the developer.",
+            "review_score": "-1"
+        }
+    ]
+}

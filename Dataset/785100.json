@@ -1,0 +1,39 @@
+{
+    "app_id": 785100,
+    "name": "Cosmic Top Secret",
+    "release_date": "2018-11-15",
+    "developer": [
+        "Klassefilm"
+    ],
+    "publisher": [
+        "Klassefilm"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Story Rich"
+    ],
+    "achievements": 12,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "Play the incredible true story of T and her quest to uncover the truth about her parents’ work for the Danish Intelligence during the Cold War.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/785100/header.jpg?t=1548417379",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel Core™ i3 or better Memory: 2 GB RAM Graphics: NVIDIA 8000 series or higher DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel® Core™ i5 or better Memory: 4 GB RAM Graphics: NVIDIA 500 series or higher DirectX: Version 9.0c Storage: 2 GB available space",
+    "reviews": []
+}

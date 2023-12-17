@@ -1,0 +1,40 @@
+{
+    "app_id": 644640,
+    "name": "Band of Defenders",
+    "release_date": "2018-04-05",
+    "developer": [
+        "Alda Games"
+    ],
+    "publisher": [
+        "Alda Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Gore",
+        "Violent"
+    ],
+    "achievements": 45,
+    "positive_ratings": 163,
+    "negative_ratings": 139,
+    "price": 10.99,
+    "description": "A Co-Op FPS game with base building in a post-apocalyptic world. Craft weapons, build barricades and automated turrets, unlock new gear and items for visual customization and kill all savages and mutants trying to destroy the remnants of human civilization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/644640/header.jpg?t=1535355841",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher Processor: Recent Intel i3 or AMD alternative Memory: 4 GB RAM Graphics: Nvidia 750Ti with 2GB or AMD alternative DirectX: Version 11 Storage: 15 GB available space Additional Notes: requires online connection",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher Processor: Recent Intel i7 or AMD alternative Memory: 8 GB RAM Graphics: Nvidia 1060 or AMD alternative DirectX: Version 11 Storage: 15 GB available space Additional Notes: requires online connection",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 606850,
+    "name": "VR Batting",
+    "release_date": "2017-03-20",
+    "developer": [
+        "Saad Khan",
+        "Irfan Abbasi",
+        "Hassan Yawar"
+    ],
+    "publisher": [
+        "Arbisoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 47,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "'VR Batting' is a virtual reality cricket simulator made for the HTC Vive. Pickup the bat, take guard and play! From smashing the ball out of the park to playing textbook cover drives, play real cricket shots all over the ground in a virtual cricket field.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/606850/header.jpg?t=1494602494",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: Nvidia GeForce GTX970, or AMD Radeon R9 290 equivalent or greater Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

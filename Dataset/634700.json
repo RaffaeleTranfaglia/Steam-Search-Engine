@@ -1,0 +1,37 @@
+{
+    "app_id": 634700,
+    "name": "PLUTONIUM",
+    "release_date": "2017-05-09",
+    "developer": [
+        "Ch.ZBK"
+    ],
+    "publisher": [
+        "Ch.ZBK"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 14,
+    "positive_ratings": 122,
+    "negative_ratings": 85,
+    "price": 1.59,
+    "description": "PLUTONIUM: Distorted Shelter is a 2D adventure game about a major event that took place in a highly developed city state called Plutonium.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/634700/header.jpg?t=1494454133",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 700 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 700 MB available space Sound Card: - Additional Notes: -",
+    "recommended_requirements": null,
+    "reviews": []
+}

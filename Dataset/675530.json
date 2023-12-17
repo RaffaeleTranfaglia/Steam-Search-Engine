@@ -1,0 +1,43 @@
+{
+    "app_id": 675530,
+    "name": "M1: A Death in the Desert",
+    "release_date": "2017-08-08",
+    "developer": [
+        "Dracula's Cave"
+    ],
+    "publisher": [
+        "Dracula's Cave"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 19,
+    "positive_ratings": 10,
+    "negative_ratings": 5,
+    "price": 1.99,
+    "description": "When M wakes up in an abandoned hotel he has no memory of how he got there. In the bedside draw he finds a list with three names and a gun with three bullets, but what he does with this information is up to you. How far will you go to discover the truth?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/675530/header.jpg?t=1502214152",
+    "minimum_requirements": "OS: Windows XP x86 or later Processor: Pentium 4 1.66 GHz Memory: 512 MB RAM Graphics: DirectX capabilities Storage: 200 MB available space Sound Card: DirectX capabilities",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 483950,
+    "name": "SMILE GAME BUILDER",
+    "release_date": "2016-09-07",
+    "developer": [
+        "SmileBoom Co.Ltd."
+    ],
+    "publisher": [
+        "SmileBoom Co.Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Design & Illustration",
+        "Web Publishing"
+    ],
+    "tags": [
+        "Game Development",
+        "Web Publishing",
+        "Design & Illustration"
+    ],
+    "achievements": 0,
+    "positive_ratings": 130,
+    "negative_ratings": 15,
+    "price": 52.99,
+    "description": "SMILE GAME BUILDER is a game making software. Programming is NOT a required skill! All necessary materials are included such as 3D models, graphics, music and more. NOW, all you need is your creativity!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/483950/header.jpg?t=1548229144",
+    "minimum_requirements": "OS: Microsoft® Windows7/8/10 (32/64bit) Processor: Intel Core 2 Duo processor or AMD Athlon™ 64 Memory: 2 GB RAM Graphics: Intel HD graphics 4400 or more, Radeon HD graphics 5430 or more, OpenGL 3.0 or more Network: Broadband Internet connection Storage: 800 MB available space Additional Notes: Performance is not guaranteed under a virtual or emulated environment.",
+    "recommended_requirements": "OS: Microsoft® Windows7/8/10 (32/64bit) Processor: Intel Core or AMD Athlon™ II (K10) Memory: 4 GB RAM Graphics: NVIDIA® GeForce® 400 series, AMD Radeon™ HD 5000 series Network: Broadband Internet connection Additional Notes: Performance is not guaranteed under a virtual or emulated environment.",
+    "reviews": [
+        {
+            "review_text": "I really like this program. It's simple and fun to use. I just hope for more dlc in the future, since there isn't enough assets for me in the program yet. But i really like it and have had a lot of fun with it :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Easy to use, not expansive to get and a FPS camera mode built-in!  You can think its is a RPG Maker on 3D steroid, and the devs are like lighting fast to reply to your questions,  and constantly upgrade the code and get new functions for FREE! (And workshop in the future! YAY!)  Tough there are yet some vital event or condition functions missing currently (but the devs are already promised to plan to add them later), comparing to its 2D rival (I am looking at you RMMV you piece of unreliable sh!t), but SGB is more like a early prototype of the next gen thing.   Try the demo, I promise you would like it in no time!",
+            "review_score": "1"
+        }
+    ]
+}

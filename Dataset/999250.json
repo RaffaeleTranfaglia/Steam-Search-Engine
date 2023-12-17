@@ -1,0 +1,36 @@
+{
+    "app_id": 999250,
+    "name": "Chucky",
+    "release_date": "2019-01-19",
+    "developer": [
+        "Shichifu"
+    ],
+    "publisher": [
+        "Shichifu"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "2D",
+        "Casual"
+    ],
+    "achievements": 53,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "In this game you will find endless darkness and challenging levels. Your mission is simple: help Chucky get to his home avoiding danger.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/999250/header.jpg?t=1555589184",
+    "minimum_requirements": "OS: Windows 7/8/10",
+    "recommended_requirements": null,
+    "reviews": []
+}

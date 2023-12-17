@@ -1,0 +1,40 @@
+{
+    "app_id": 830810,
+    "name": "Death Game+",
+    "release_date": "2018-04-19",
+    "developer": [
+        "Enemby Games"
+    ],
+    "publisher": [
+        "Enemby Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "It's a race to your grave! Can you die before everyone else, or will you be forced to watch in despair, living to a ripe old age before finally succumbing to a regular, uninteresting ending?!!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/830810/header.jpg?t=1531335081",
+    "minimum_requirements": "OS: Windows Vista SP1+, Mac OS X 10.9+, Ubuntu 12.04+, SteamOS+. Processor: CPU: SSE2 instruction set support. (So pretty much anything in the last 10 years) Memory: 256 MB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities. DirectX: Version 10 Storage: 100 MB available space Additional Notes: Game size is dependant on platform",
+    "recommended_requirements": null,
+    "reviews": []
+}

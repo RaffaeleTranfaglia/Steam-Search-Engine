@@ -1,0 +1,41 @@
+{
+    "app_id": 760030,
+    "name": "Dizzy Dungeon",
+    "release_date": "2018-05-07",
+    "developer": [
+        "DigiFeather"
+    ],
+    "publisher": [
+        "DigiFeather"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 40,
+    "positive_ratings": 16,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Move, rotate and fall. Move, rotate and fall. Get ready for dizziness, find to best strategy to conquer the dungeon.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/760030/header.jpg?t=1525678251",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GB Memory: 2000 MB RAM Graphics: Intel HD 3000 Storage: 1000 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

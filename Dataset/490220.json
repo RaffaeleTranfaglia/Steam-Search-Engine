@@ -1,0 +1,45 @@
+{
+    "app_id": 490220,
+    "name": "Prismata",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Lunarch Studios"
+    ],
+    "publisher": [
+        "Lunarch Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 114,
+    "positive_ratings": 697,
+    "negative_ratings": 146,
+    "price": 0.0,
+    "description": "A perfect-information strategy game inspired by RTS, deckbuilders, and board games. Choose from three distinct technology classes and outwit your foes by snowballing your starting resources into a powerful cybernetic army. ABSOLUTELY NO PAY-TO-WIN.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/490220/header.jpg?t=1547460819",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom 1.6GHz or faster processor Memory: 4 GB RAM Graphics: 0.5GB VRAM Network: Broadband Internet connection Storage: 800 MB available space Additional Notes: *Extremely* old (2006 or earlier) graphics chipsets may not support the hardware graphics acceleration used by Prismata. In this case, the game's performance may be reduced.",
+    "recommended_requirements": null,
+    "reviews": []
+}

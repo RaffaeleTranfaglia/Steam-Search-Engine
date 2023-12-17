@@ -1,0 +1,41 @@
+{
+    "app_id": 540690,
+    "name": "Hellenica",
+    "release_date": "2017-01-23",
+    "developer": [
+        "The Dragonloft"
+    ],
+    "publisher": [
+        "The Dragonloft"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Turn-Based Tactics",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 47,
+    "positive_ratings": 30,
+    "negative_ratings": 15,
+    "price": 7.19,
+    "description": "In this puzzle RPG, explore a steam-powered ancient Greece as Artemis' bear warrior on a mythological quest of technology and magic. Push, toss, and bounce friend and foe, and use the environment to your advantage. You choose the battles, allies, and plots you encounter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/540690/header.jpg?t=1500315891",
+    "minimum_requirements": "OS: Windows XP SP2+ Memory: 1 GB RAM DirectX: Version 9.0c Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 10 Memory: 2 GB RAM DirectX: Version 9.0c Storage: 600 MB available space",
+    "reviews": []
+}

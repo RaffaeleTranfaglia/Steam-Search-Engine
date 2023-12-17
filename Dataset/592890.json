@@ -1,0 +1,43 @@
+{
+    "app_id": 592890,
+    "name": "Insidia",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Bad Seed"
+    ],
+    "publisher": [
+        "Bad Seed"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 157,
+    "negative_ratings": 70,
+    "price": 0.0,
+    "description": "INSIDIA is a tactical game of turn based duels. Carefully move your team of powerful champions and weave their attacks together to claim victory in the field of battle. Conquer your foes and claim the spoils of the post-apocalyptic world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/592890/header.jpg?t=1520862337",
+    "minimum_requirements": "OS: 64-bit Windows 7, Windows 8.1, or Windows 10 Processor: Dual-Core 2.0 GHz or higher Memory: 4 GB RAM Graphics: DirectX 10 compatible graphics card DirectX: Version 10 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 765940,
+    "name": "SOK",
+    "release_date": "2017-12-22",
+    "developer": [
+        "Enter Name Here"
+    ],
+    "publisher": [
+        "Enter Name Here"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Puzzle",
+        "Sokoban"
+    ],
+    "achievements": 102,
+    "positive_ratings": 24,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "SOK is a sokoban classic puzzle game. The goal of the game is to move all the boxes to their positions. It's not as easy as it seems. The player can push one box at a time, but do not pull it off.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765940/header.jpg?t=1543388704",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Celeron 1.4 GHz Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 11 Storage: 50 MB available space Additional Notes: Keyboard",
+    "recommended_requirements": null,
+    "reviews": []
+}

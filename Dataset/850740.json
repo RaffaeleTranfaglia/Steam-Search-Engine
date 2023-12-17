@@ -1,0 +1,39 @@
+{
+    "app_id": 850740,
+    "name": "The Princess Adventure",
+    "release_date": "2018-11-08",
+    "developer": [
+        "FalconDev"
+    ],
+    "publisher": [
+        "FalconDev"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 4.79,
+    "description": "Use your skills in this 2D platform game, to save your kingdom from an almost inevitable war. Face enemies and challenges that will make you think every step you must take. For anything here can cost you to live...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/850740/header.jpg?t=1554494424",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2 Ghz or faster processor Memory: 1 GB RAM Graphics: Intel Integrated Graphics DirectX: Version 10 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 64b Processor: 2 Ghz Memory: 2 GB RAM Graphics: 1 GB (with Pixel Shader support) DirectX: Version 12 Storage: 100 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 453780,
+    "name": "Secrets of Magic: The Book of Spells",
+    "release_date": "2016-10-20",
+    "developer": [
+        "Green Sauce Games"
+    ],
+    "publisher": [
+        "Green Sauce Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Match 3"
+    ],
+    "achievements": 36,
+    "positive_ratings": 25,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Dive into a magical world of witches and wizards. Travel through magical lands, relaxing music and help Victoria collect unique items along her journey to become a witch. Learn from the ancient Book of Spells in this engaging Match 3 game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/453780/header.jpg?t=1478025966",
+    "minimum_requirements": "OS: 7/8/10 Processor: 2 GHz Memory: 2 GB RAM Graphics: 256 MB DirectX: Version 9.0 Storage: 170 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Nice match 3 game. Fun progression elements on the powerup upgrades. Interesting levels that really make you think for this type of game.  8 / 10",
+            "review_score": "1"
+        }
+    ]
+}

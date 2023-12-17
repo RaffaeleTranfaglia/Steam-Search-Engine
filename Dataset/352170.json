@@ -1,0 +1,50 @@
+{
+    "app_id": 352170,
+    "name": "MadOut",
+    "release_date": "2015-06-05",
+    "developer": [
+        "Nuligine"
+    ],
+    "publisher": [
+        "Nuligine"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 30,
+    "price": 6.99,
+    "description": "Destroy opponents, improve your car and weapons. Feel the dynamics of the chase and fighting battles. Enjoy good physics cars. You can choose between 15 cars, more than 80 unique tracks and several kind of weather condition.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352170/header.jpg?t=1482990874",
+    "minimum_requirements": "OS: Windows Vista, Windows 7 or Window 8 Processor: Intel® Pentium Dual Core 1.5GHz or equivalent Memory: 1 GB RAM Graphics: NVIDIA GeForce 9600 GT or equivalent DirectX: Version 9.0 Storage: 300 MB available space Additional Notes: OpenGL version 1.2",
+    "recommended_requirements": "OS: Windows Vista, Windows 7 or Window 8 Processor: Intel® Core 2 Duo 2.5GHz or equivalent Memory: 1 GB RAM Graphics: NVIDIA GeForce GTX 470 or equivalent DirectX: Version 9.0 Storage: 300 MB available space Additional Notes: OpenGL version 3.3",
+    "reviews": [
+        {
+            "review_text": "MadOut is basically one of those games that make graphics look cool to get people to buy it, just to have the consumer realize that what he has bought is not a game, it's a creation made by the devil himself.  The menus have no effort put into them and are hard to navigate, the translations are complete ♥♥♥♥ and the maps are simple and boring as ♥♥♥♥. Well, not only that, but the gameplay itself, as in racing is ♥♥♥♥ing ♥♥♥♥♥♥♥t requiring more luck than skill, and is full of bugs that are yet to be fixed.  -Example: The bots disappear midgame and you are alone.  (They won't be fixed, lets be real)  So in a nutshell, don't buy this ♥♥♥♥.  Linux user? Read this: -You may see comments saying 'If you are on Linux you might have fun', but I had more fun playing SuperTuxCart for ♥♥♥♥s sake. (A game with ♥♥♥♥♥♥ graphics that has animals race) At least it required more skill than this piece of crap and not luck.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This feels like mario kart without the nintendo style. There is still room for polishing and maybe the price is a bit too much,  but overall I like the game.",
+            "review_score": "1"
+        }
+    ]
+}

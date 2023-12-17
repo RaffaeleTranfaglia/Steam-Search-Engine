@@ -1,0 +1,40 @@
+{
+    "app_id": 871710,
+    "name": "Galactic Dominion",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Forever Years"
+    ],
+    "publisher": [
+        "Forever Years"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 9.99,
+    "description": "Galactic Dominion is a fast paced 4x space strategy game. Explore the stars, perform research, manage your colonies, build a fleet, defend your systems, and conquer the galaxy. Play through an epic story driven campaign or alternatively customize your games for countless re-playability!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/871710/header.jpg?t=1538264719",
+    "minimum_requirements": "OS: Windows 7 x86 or newer Processor: Intel i3 / AMD A6 series Memory: 2 GB RAM Graphics: Intel HD 4000 / AMD Radeon 5800 series / NVidia 550Ti DirectX: Version 11 Storage: 300 MB available space Sound Card: DX11 compatible",
+    "recommended_requirements": "OS: Windows 7 x86 or newer Processor: Intel i5 / AMD FX series Memory: 4 GB RAM Graphics: AMD Radeon 8000 series / NVidia GTX 660 or newer DirectX: Version 11 Storage: 500 MB available space Sound Card: DX11 compatible",
+    "reviews": []
+}

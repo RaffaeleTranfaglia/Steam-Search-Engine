@@ -1,0 +1,40 @@
+{
+    "app_id": 731820,
+    "name": "Final Storm",
+    "release_date": "2017-11-02",
+    "developer": [
+        "Bit Bionic LLC"
+    ],
+    "publisher": [
+        "Bit Bionic LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 15,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "A cross-platform twin-stick shooter and bullet hellish game. It's designed as a pickup game you can play in 5-10 minutes when you just wanna shoot a lot of bullets and dodge just as many. Survive as many waves as possible and pickup a few power-ups along the way (.. ahem... you'll need them).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/731820/header.jpg?t=1529760829",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7,8,10 - 64-bit Processor: Intel Sandy Bridge (2nd Gen) i5 or greater,  AMD Bulldozer Series Memory: 2 GB RAM Graphics: (Uses OpenGL 2.1+)  Intel HD 4000, NVIDIA GTX 500, RADEON HD 7000 series Storage: 70 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7,8,10 - 64-bit Processor: Intel Ivy Bridge i5 or i7 (3000 series) or better, AMD Ryzen Series Memory: 4 GB RAM Graphics: (Uses OpenGL 2.1+) Intel HD 5000+, NVIDIA GTX 600+, Radeon R5 or better Storage: 70 MB available space",
+    "reviews": []
+}

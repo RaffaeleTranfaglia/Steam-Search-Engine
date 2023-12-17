@@ -1,0 +1,38 @@
+{
+    "app_id": 603800,
+    "name": "ReThink",
+    "release_date": "2017-03-08",
+    "developer": [
+        "Yaeko"
+    ],
+    "publisher": [
+        "Yaeko"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 7,
+    "positive_ratings": 98,
+    "negative_ratings": 32,
+    "price": 6.99,
+    "description": "As an inmate of a government-controlled Correctional Facility in the year 2275, you have the right to prove yourself worthy of being part of Society again. Show your skills in logical thinking by solving about 60 puzzles of varying size, type and difficulty in this first-Person puzzle game, and redeem your freedom!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/603800/header.jpg?t=1548634823",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or newer Processor: AMD Phenom / Intel Pentium Memory: 4 GB RAM Graphics: AMD R9 270X / nvidia GTX 950 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or newer Processor: AMD Ryzen 3 / Intel Core i3 Memory: 4 GB RAM Graphics: AMD R9 290 / nvidia GTX 970 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

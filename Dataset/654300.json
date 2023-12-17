@@ -1,0 +1,41 @@
+{
+    "app_id": 654300,
+    "name": "Darkest Hunters",
+    "release_date": "2017-09-27",
+    "developer": [
+        "ECC GAMES S.A."
+    ],
+    "publisher": [
+        "Ultimate Games S.A."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "RPG",
+        "Strategy"
+    ],
+    "achievements": 12,
+    "positive_ratings": 26,
+    "negative_ratings": 27,
+    "price": 4.79,
+    "description": "Choose your hero, grab a weapon, learn new spells and… HUNT! Eliminate every nasty beast you meet, collect loot and find the rarest and the greatest equipment ever made. Remember, it’s the live of a Hunter you’ve become, only you are able to defeat the essence of evil.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654300/header.jpg?t=1555486591",
+    "minimum_requirements": "OS: Windows XP with Service Pack 2 or higher Processor: 2.0 GHz Memory: 1 GB RAM Graphics: 512 MB video memory, shader model 3.0 DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

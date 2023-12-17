@@ -1,0 +1,60 @@
+{
+    "app_id": 281260,
+    "name": "Desert Gunner",
+    "release_date": "2014-03-18",
+    "developer": [
+        "Digital Fusion"
+    ],
+    "publisher": [
+        "Digital Fusion Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "On-Rails Shooter",
+        "Action",
+        "FPS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 29,
+    "negative_ratings": 38,
+    "price": 1.99,
+    "description": "You’re the designated gunner, you’re on patrol… and yes, you’re a target. It’s your assignment to be the bait and to draw fire, you were handpicked and it’s your job. Trigger finger at the ready; At least you have the fire-power to keep the bad-guys at bay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/281260/header.jpg?t=1502149382",
+    "minimum_requirements": "OS: Windows ME/2000/XP/Vista/7/8 Processor: 850 Mhz Pentium III Memory: 128 MB RAM Graphics: OpenGL compatible video cards Storage: 200 MB available space Sound Card: DirectX compatible sound card Additional Notes: Currently the game doesn't run properly with the default steam shortcut. Instead run the .exe directly.  The .exe files are usually in their respective game folders at \\Steam\\steamapps\\common. Combatability problems can be avoided by setting the executable to run in compatibility mode for windows XP.",
+    "recommended_requirements": "OS: Windows ME/2000/XP/Vista/7/8 Processor: 850 Mhz Pentium III or higher Memory: 128 MB RAM Graphics: OpenGL compatible video cards (64MB or higher) Storage: 200 MB available space Sound Card: DirectX compatible sound card Additional Notes: Currently the game doesn't run properly with the default steam shortcut. Instead run the .exe directly.  The .exe files are usually in their respective game folders at \\Steam\\steamapps\\common. Combatability problems can be avoided by setting the executable to run in compatibility mode for windows XP.",
+    "reviews": [
+        {
+            "review_text": "I didn;t have any of the problems these people did. The game worked fine. It's not amazing, true, but it's not horrifyingly bad either. It's form 2006 after all, some things just don't age well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it was worth the 50 cents but not a penny more",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this on sale and for around a dollar its not a bad grab for some quick action. Considering it is a 2006 title the graphics are not bad and it runs smoothly. The real issue is the lack of introduction or instruction. The first mission you are immediately being attacked. I figured out that you can shoot the primary weapon with left mouse button and usually a machine gun with right mouse, also you can switch between units in your convoy with up and down. Are there any other controls? I don't know.   6/10 buy for a dollar.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First let me get this out of the way: I've played this for probably an hour, despite what steam's weird gametime tracking thing says. I've played it on a few different computers which is probably why it says I've played it for such a short time.  Secondly: This is probably the second worst game I've gotten on Steam, the worst obviously being Air Control.  In Desert Gunner, you're a guy manning a turret. In the desert. That's literally it. The 'multifacited levels' the game description promises is really just one level where your convoy drives slowly in a straight line and you shoot at things.  Unlike some of the great turret shooters out there (Beachhead 2002, lookin' at you buddy), in this one you'll have NO clue weather or not you're actually hitting anything. You fire and fire and fire and no visible damage or anything happens. Then your'e dead. Start the level over again. But when you start the level over again you won't be able to tell because the whole level is a straight line.  You can switch between guns with the WASD keys, not that the game tells you that. Also, when you start the game up, the three green dots that are offscreen on the main menu are actually 'options', 'credits', and 'exit' respectively. You simply won't be able to read them because the game, on all three computers I've tested it on, the game insists on running on a non-native, non supported resolution.  I've tried it on a 4:3 monitor where it started in 16:9, and a 16:9 where it started in 4:3. No idea why that is, but worth noting: You won't be able to read half the main menu items.  If you're a gun-nut such as myself, you might be interested in reading the technical specs the game has on all the weaponry you'll be using. You'll be significantly less interested when you find out that most of them are downright incorrect, and all of them are wirtten in text with font so small that you can't read them.  All in all, don't waste your dollar. It's not even fun to laugh at like Air Control, it's just a mess. The developer put three seconds of effort into this, so you should treat them similarly.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'm a sucker for budget titles....so I figured I would drop the .50 cents that was required to purchase this game. It's an on rails shooter....which means that you have no control on where you are actually going....and it always results in you traveling in a straight line. But I'm getting ahead of myself here. First off....there is something seriously wrong with the start up screen. There is some sort of ripple effect streaming down from the top of the screen. I don't know exactly what it is....but it's a graphical error to say the least. Once you start up the game it disappears....and you are smack dab playing the role of an invisible soldier in a convoy. There is no tutorial....you just mow down whatever flashes red. There are different vehicles in your convoy....with an assorted array of weaponry. I didn't spend enough time in the game to see if I could switch between any of them....but I do know that when the vehicle you're in blows up....you do gain control of the next one. There is usually a health pickup lying in the road at some point....but that's all that is remotely noteworthy about the levels. The graphics are obviously nothing to write home about and the sound effects are nothing more than boom-boom and pew-pew. I played the game until I died for the first time (the third level)....and trust me....your .50 cents....would be better spent on a canned soda from a vending machine.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "terrible. if someone told me this game was created as a first-year CS homework assignment, I would believe them. think flash game. you might find it fun for 5 minutes and then you'll get bored and uninstall it never to let it clutter your hdd again.",
+            "review_score": "-1"
+        }
+    ]
+}

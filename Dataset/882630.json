@@ -1,0 +1,35 @@
+{
+    "app_id": 882630,
+    "name": "Leviathan",
+    "release_date": "2018-07-02",
+    "developer": [
+        "Leviathan"
+    ],
+    "publisher": [
+        "Leviathan"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Leviathan is third person view control whale phagocytosis game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/882630/header.jpg?t=1531914248",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Pentium G3260 Memory: 4000 MB RAM Graphics: Intel Pentium G3260 integrated graphics card DirectX: Version 11 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i3 Memory: 8000 MB RAM Graphics: Intel Pentium G3260 integrated graphics card DirectX: Version 11 Storage: 100 MB available space",
+    "reviews": []
+}

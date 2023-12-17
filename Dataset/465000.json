@@ -1,0 +1,40 @@
+{
+    "app_id": 465000,
+    "name": "Event Horizon",
+    "release_date": "2018-12-20",
+    "developer": [
+        "Pavel Zinchenko"
+    ],
+    "publisher": [
+        "Pavel Zinchenko"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 61,
+    "negative_ratings": 22,
+    "price": 4.79,
+    "description": "Take command of a space fleet and start your galaxy exploration mission.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/465000/header.jpg?t=1545296273",
+    "minimum_requirements": "OS: Windows XP SP2, Vista, 7, 8, 10 Processor: Intel® Core™, Intel® Atom™, AMD Athlon 64 Memory: 512 MB RAM Graphics: DirectX 9 compatible graphics card DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

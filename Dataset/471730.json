@@ -1,0 +1,43 @@
+{
+    "app_id": 471730,
+    "name": "Rocket Ski Racing",
+    "release_date": "2016-10-13",
+    "developer": [
+        "nocanwin"
+    ],
+    "publisher": [
+        "nocanwin"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 40,
+    "positive_ratings": 17,
+    "negative_ratings": 5,
+    "price": 2.09,
+    "description": "Hold the line as your booster rocket pushes you to increasingly insane speeds after every lap in this high speed, unforgiving, 3rd person racer! Watch out for blocks of ice and the edge of the track or you'll explode into a scattered pile of parts. Drift off the fast line and an opponent will edge their way to 1st!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/471730/header.jpg?t=1476379025",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 Memory: 4 GB RAM Graphics: Nvidia Geforce 650M or equivalent DirectX: Version 9.0c Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i5 Memory: 4 GB RAM Graphics: Nvidia 660 GTX DirectX: Version 11 Storage: 250 MB available space",
+    "reviews": []
+}

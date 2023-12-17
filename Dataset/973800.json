@@ -1,0 +1,42 @@
+{
+    "app_id": 973800,
+    "name": "Dragon World",
+    "release_date": "2018-12-06",
+    "developer": [
+        "FreezeNova"
+    ],
+    "publisher": [
+        "FreezeNova"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Dragons"
+    ],
+    "achievements": 7,
+    "positive_ratings": 6,
+    "negative_ratings": 6,
+    "price": 1.69,
+    "description": "Dragon World is a fun dragon game in a cartoon style. Battle other players or play cooperative in a survival game mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/973800/header.jpg?t=1554190920",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E6600/AMD Phenom X3 8750 Memory: 2 GB RAM Graphics: GeForce GTX 260/Radeon HD 4870 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,60 @@
+{
+    "app_id": 261920,
+    "name": "Catzilla 4K - Advanced",
+    "release_date": "2014-02-28",
+    "developer": [
+        "ALLPlayer Group Ltd."
+    ],
+    "publisher": [
+        "ALLPlayer Group Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "Benchmark",
+        "Utilities",
+        "Cats"
+    ],
+    "achievements": 12,
+    "positive_ratings": 48,
+    "negative_ratings": 69,
+    "price": 10.99,
+    "description": "Catzilla - Advanced version - tests and recommendations for gamers.Features: custom tests, recommendations, archiving and comparing historical results. These options are not available in FREE and BASIC versions. Tests are focused to check all computer components simultaneously (not only GPU).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/261920/header.jpg?t=1460114679",
+    "minimum_requirements": "OS: Windows10, Windows 8, Windows 7, Windows Vista Processor: Intel Core2Duo or AMD Athlon II Memory: 4 GB RAM Graphics: GeForce 8x00 series or Radeon HD2000 series DirectX: Version 10 Storage: 500 MB available space Sound Card: not required",
+    "recommended_requirements": "OS: Windows10, Windows 8, Windows 7 Processor: Intel i5 CPU, AMD FX 6xxx Memory: 4 GB RAM Graphics: GeForce 8xxx series or Radeon HD 5xxx series DirectX: Version 11 Storage: 500 MB available space Sound Card: not required",
+    "reviews": [
+        {
+            "review_text": "this is a fun benchmark! i love it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Given that the product is a benchmarking suite, it does what it does and it doesn't take very long, especially when compared to other popular programs. For the record, the scores you earn in this program aren't necessarily easily translated into the real world.  In essence, it runs several graphic and processor intensive scenes and uses a mathematical formula to come up with individual scores for each scene which then go through another formula to come up with a combined score. This can then be used to compare against other people.  For some, the advanced version is nice because it allows you to post scores directly to your Facebook timeline (I can't tell whether this is worth it or not, but I don't use Facebook that much), or to HWBot (which I think is of greater use alongside the 1080p and 1440p benches that are unlocked). I'd only recommend that someone actually purchase this if they intended to use it on a semi-regular basis.   If you're looking to run it once or twice to be all 'OMG, what is this music and screaming cats with laser beams coming out of their eyes, and why is there an anime chick in a skirt bringing in a second one through a giant pill that drops from the heavens'...... Try the demo, as you can get 576p for free, and 720p for free as well if you register on the Catzilla website.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's pretty good. Nothing that really sets it aside from others apart from an awesome movie, but nothing that makes it much worse than others. I'd reccomend it if you're looking for a broad spectrum of benchmarks for a graphics card review, or if you're looking for an advanced benchmark besides 3DMARK.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sadly, it doesn't work as it needs to. Despite having a secondary card slaved to PhysX only, this benchmark seems to only want to use this card for any tests. In order to get a test on my actual card, I have to uninstall/disable my secondary card in the system for the benchmark to ignore it.  The benchmark is short, and while funny to watch, doesn't seem to really stress hardware as much as it should. Sorry to say, but you're better off with 3DMark.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Tried formatting and still doesnt give me a CDKEY &gt;_&lt; tried uploading results and still wont verify cause it says i need CDKEY &gt;_&lt; i made an account thru their webpage and still bullcrap &gt;_&lt;",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I used to like this but it doesn't work anymore since the update, and the websites forum is full of spam with a moderator last logging in about 4 months ago that I found. Save your money as this appears to be abandoned.",
+            "review_score": "-1"
+        }
+    ]
+}

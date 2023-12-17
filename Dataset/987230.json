@@ -1,0 +1,37 @@
+{
+    "app_id": 987230,
+    "name": "Shadow Legend VR",
+    "release_date": "2019-03-07",
+    "developer": [
+        "VitruviusVR"
+    ],
+    "publisher": [
+        "VitruviusVR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Gore"
+    ],
+    "achievements": 24,
+    "positive_ratings": 76,
+    "negative_ratings": 28,
+    "price": 19.49,
+    "description": "Shadow Legend is an exploration-RPG exclusively designed for VR where you play as the Grand Master of the Knights Templar in a story-driven medieval crusade. Freely explore densely filled worlds and use your sword, bow, and magic skills to save your kingdom from the destruction of Lord Adaroth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/987230/header.jpg?t=1552059051",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 8 Processor: Intel i5-4590 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GTX 970 / AMD equivalent or greater DirectX: Version 11 Storage: 18 GB available space Additional Notes: VR Headset required, 2x USB 3.0 ports",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7 6700K equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 1070 / AMD equivalent or greater DirectX: Version 12 Storage: 18 GB available space Additional Notes: VR Headset required, 2x USB 3.0 ports",
+    "reviews": []
+}

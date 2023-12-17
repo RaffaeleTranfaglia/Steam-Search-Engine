@@ -1,0 +1,48 @@
+{
+    "app_id": 559250,
+    "name": "Ghostlight Manor",
+    "release_date": "2016-12-10",
+    "developer": [
+        "Digital Future Lab"
+    ],
+    "publisher": [
+        "Functional Unicorn"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 33,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "Ghostlight Manor is a strategic puzzler with 60 hauntingly challenging levels. Encounter a cast of beloved classic monsters while locating the source of the monster invasion before it’s too late! In multiplayer test your skills against our brand new A.I.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/559250/header.jpg?t=1553026808",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 bit Processor: Intel Core i5, 2.67 GHz Memory: 1 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: 1280 X 720 Minimum Resolution",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

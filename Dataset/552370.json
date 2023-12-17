@@ -1,0 +1,42 @@
+{
+    "app_id": 552370,
+    "name": "Riders of Asgard",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Gobbo Games"
+    ],
+    "publisher": [
+        "Gobbo Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Indie",
+        "BMX"
+    ],
+    "achievements": 21,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 5.79,
+    "description": "Riders of Asgard is a fun and challenging Viking BMX game. Unlock new maps and items to upgrade your Bike and Rider, and access previously unreachable places. Riders of Asgard features a full single player campaign as well as local multiplayer to take on your friends!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/552370/header.jpg?t=1500566874",
+    "minimum_requirements": "OS: Windows 7 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 4 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 11 compatible sound card",
+    "recommended_requirements": "OS: Windows 10 Memory: 8 GB RAM DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 660920,
+    "name": "The Warhorn",
+    "release_date": "2019-01-29",
+    "developer": [
+        "Pigeons Interactive"
+    ],
+    "publisher": [
+        "Pigeons Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Adventure"
+    ],
+    "achievements": 30,
+    "positive_ratings": 77,
+    "negative_ratings": 26,
+    "price": 15.49,
+    "description": "The Warhorn is a medieval RPG mixed with city-building and management elements. Play as an adventurer who decided to leave his dull life as a lumberjack behind to explore a dangerous world full of puzzles in the pursuit of the most valuable relic mankind has ever seen: The Warhorn!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/660920/header.jpg?t=1552473997",
+    "minimum_requirements": "OS: 64-bit Windows 7 Processor: Intel Core i5-3330 or AMD FX 8320 Memory: 6 GB RAM Graphics: NVIDIA GTX 660 2GB or AMD HD7770 DirectX: Version 10 Storage: 11 GB available space",
+    "recommended_requirements": "OS: 64-bit Windows 7 Processor: Intel Core i5-4590 or AMD FX 9590 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280 3GB DirectX: Version 11 Storage: 11 GB available space",
+    "reviews": []
+}

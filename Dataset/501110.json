@@ -1,0 +1,54 @@
+{
+    "app_id": 501110,
+    "name": "Mount Wingsuit",
+    "release_date": "2016-08-25",
+    "developer": [
+        "Ninja Whale Studios"
+    ],
+    "publisher": [
+        "Ninja Whale Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 25,
+    "positive_ratings": 53,
+    "negative_ratings": 21,
+    "price": 10.99,
+    "description": "Welcome to Mount Wingsuit, where the thrill of hurtling down a mountain side in immersive VR with fast-paced arcade style gameplay will keep you in the zone for hours at a time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501110/header.jpg?t=1473278042",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer, 64 bit Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: Nvidia GeForce GTX970, AMD Radeon R9 290 equivalent or greater Storage: 1500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Been playing it using HTC VIVE and it is pure fun!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've got this to play on my HTC vive after a friend recommended it to me. I've got to say that I love it. I set up a fan in front of me and the immersion is great. It took a few attempts to get the hang of it but it is quite intuitive with the vive motion controllers and feels very natural now. Well worth the £10.99",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok so it's pretty freaky the feeling of falling.. So far this has been the only experience to give me a bit of motion sickness.. Graphics are kinda eh... But it's certainly unique and different",
+            "review_score": "1"
+        }
+    ]
+}

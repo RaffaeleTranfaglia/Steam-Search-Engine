@@ -1,0 +1,57 @@
+{
+    "app_id": 282640,
+    "name": "LOST ORBIT",
+    "release_date": "2015-05-12",
+    "developer": [
+        "PixelNAUTS"
+    ],
+    "publisher": [
+        "PixelNAUTS"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Space"
+    ],
+    "achievements": 28,
+    "positive_ratings": 36,
+    "negative_ratings": 1,
+    "price": 8.99,
+    "description": "Stranded after his ship is destroyed in deep space, Harrison, a lowly maintenance worker and our hero, must struggle to find his way home... LOST ORBIT centers around the exploration of space. Players take control of a lone astronaut (Harrison) who sets off on a dangerous journey to rejoin his civilization, armed with only an improvised...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/282640/header.jpg?t=1512763306",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core I5 Series Memory: 4 GB RAM Graphics: GeForce 4 Series DirectX: Version 9.0c Storage: 1300 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core I7 Series Memory: 8 GB RAM Graphics: Geforce 5+ Series DirectX: Version 9.0c Storage: 1300 MB available space",
+    "reviews": [
+        {
+            "review_text": "LOST ORBIT: ~~~~~~~~~~  Being a maintenance worker in deep space can be very challenging! The perfect case scenario is our hero, “Harrison.” His job is to go from one communication relay to another in deep space and patch them up. Everything was going as planned, working on the relay, until a big bang occurred and destroyed his vessel. Stranded in deep space, equipped with his suit and jetpack, he has to make his way back home.  LOST ORBIT is a fast-paced action game set in deep space where you play “Harrison” and need to find his way back home through 40 levels in 4 Solar systems. In each level, you will have to collect all Obtainiums (pink crystals) and make it to the end of the level as fast as you can with no deaths in order to be awarded platinum badges and you will received additional Obtainiums by doing so.   You will be able to use the collected Obtainiums to upgrade your equipment such as: Mega boost – which combine booster fuel, recharge and speed – Defensive: ability to reverse your thrusters and get additional bombs – Utilities: Barrel roll and magnetise (drag the Obtainium crystals towards you from a distance).   The gameplay is absolutely brilliant; fast, fluid, with a large number of close encounters with asteroids, from which you will come out . . . . let’s say . . . dead! I really enjoy the one where the impact is so strong that Harrison’s skeleton ends up flying all alone in deep space. However, if you use all the tricks - barrel roll, mega boost or the bomb at the right moment - you might well finish the level without dying! However, if you are as good as I am, you will be very grateful that each level has several checkpoints. If you die, you will start from the last saving point. Also, you will be able to use orbital boosts, pulsars, ramps and more to reach the end of the level rapidly or die once more!  Plenty of replay ability in this game especially if you want to achieve the platinum badge; it is hard to achieve, to be honest.   The controls are very responsive and I would strongly recommend playing with a gamepad. Great graphics, splendid soundtrack and the story is very well narrated.   Positives: ~~~~~~~   - Great graphics - Splendid gameplay and good replay ability - Controls are good and very responsive - Good soundtrack and great narration - Challenging - Achievements and trading cards  Negatives: ~~~~~~~~  - Hard to get platinum badges  LOST ORBIT is marvellously executed. Just splendid! Come on Ladies and Gents, jump into orbit and help our friend Harrison!  9/10  Key provided by developer/publisher for review purposes. Any opinions expressed are entirely my own!    MORE THE_CPT_FROGGY REVIEWS HERE      FOLLOW THE CPT FROGGY CURATOR PAGE HERE   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A cute and rarther enjoyable game if you are ever looking for just a fun and not to long single player game this is it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is unplayable on Ubuntu 15.04 with triple head monitor setup (3 vertical monitors 1200x1920 each).  The menu is stretched like a horizontal ♥♥♥♥ and nearly unusable. The game starts but graphics are mostly placed outside of view port. Seems as if this game has never been tested at 3600x1920 resolution. Unfortunately it cannot be switched to windowed mode or to lower its resolution,  Before LO, I played train valley demo which looks and runs just great on triple head setup.  Did anybody test LO on 4k monitors?  Please fix this issue so that I can write a positive feedback.",
+            "review_score": "-1"
+        }
+    ]
+}

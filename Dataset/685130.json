@@ -1,0 +1,39 @@
+{
+    "app_id": 685130,
+    "name": "Radar Defense",
+    "release_date": "2017-12-28",
+    "developer": [
+        "Adage Games"
+    ],
+    "publisher": [
+        "Adage Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 120,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Radar Defense is the first Strategy Tower Defense Game with a “seek and destroy” game mechanic. Use your Radar to find and identify the threat, or use your intuition to guess the position and the types of the enemy units. Destroy them with the right weapon.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/685130/header.jpg?t=1514498263",
+    "minimum_requirements": "OS: Windows 7 SP1+, 8, 10 Processor: Intel Core i3 or equivalent Memory: 4 GB RAM Graphics: GeForce GTX560 Ti 1GB VRAM or better DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7-4790K @ 4.00 GHz or AMD FX-9590 @ 4.7 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 780 or AMD GPU Radeon R9 290 DirectX: Version 11 Storage: 300 MB available space",
+    "reviews": []
+}

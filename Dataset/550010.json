@@ -1,0 +1,43 @@
+{
+    "app_id": 550010,
+    "name": "Happy Room",
+    "release_date": "2016-12-19",
+    "developer": [
+        "Mana Potion Studios"
+    ],
+    "publisher": [
+        "Mana Potion Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "Funny"
+    ],
+    "achievements": 70,
+    "positive_ratings": 900,
+    "negative_ratings": 188,
+    "price": 3.99,
+    "description": "Welcome to the laboratory! Here tests are taken upon highly durable human clones using newest weapon technologies. Your goal is to head these tests.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/550010/header.jpg?t=1554111179",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E4500 @ 2.2GHz or AMD Athlon 64 X2 5600+ @ 2.8 GHz Memory: 4 GB RAM Graphics: GeForce 240 GT or Radeon HD 6570 – 1024 MB (1 gig) Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 2300 or AMD FX6120 Graphics: GeForce GTX 550 Ti or Radeon HD 6770 Storage: 400 MB available space",
+    "reviews": []
+}

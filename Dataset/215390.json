@@ -1,0 +1,46 @@
+{
+    "app_id": 215390,
+    "name": "Damage Inc. Pacific Squadron WWII",
+    "release_date": "2012-08-28",
+    "developer": [
+        "Trickstar Games"
+    ],
+    "publisher": [
+        "Mad Catz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "Flight"
+    ],
+    "achievements": 36,
+    "positive_ratings": 6,
+    "negative_ratings": 6,
+    "price": 29.99,
+    "description": "Take to the skies in one of over 30 accurately represented aircraft and defend the Pacific Theatre from invading enemy forces.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/215390/header.jpg?t=1447356133",
+    "minimum_requirements": "OS:Windows XP (SP2)Processor:Intel Core 2 Duo 2.0GHz or AMD Athlon X2 4000+Memory:1 GB RAMGraphics:NVIDIA GeForce 7800 or ATI Radeon HD 2600 Pro, 256MB, Shader Model 3.0+ Graphics CardDirectX&reg;:9.0cHard Drive:4 GB HD spaceSound:DirectX 9.0c-compatible Sound CardOther Requirements:Broadband Internet connection",
+    "recommended_requirements": "Memory:2 GB RAM",
+    "reviews": [
+        {
+            "review_text": "Fun arcade style world war two flight sim. Has a large variety of planes and fun gameplay.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 652460,
+    "name": "Fragmentum",
+    "release_date": "2018-05-01",
+    "developer": [
+        "Lundar Games"
+    ],
+    "publisher": [
+        "Lundar Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Building"
+    ],
+    "achievements": 7,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Fragmentum is an Experimental Real Time Strategy (RTS) game with customizable units and factions, dynamic units and complex 3D terrain. Units are built from voxel-like modules that determine their stats and abilities. Features multiplayer, Procedural maps, replays, and a simple single player campaign.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652460/header.jpg?t=1525191002",
+    "minimum_requirements": "Requires a 64-bit processor and operating system Processor: 2.0 GHz dual core CPU with SSE (Intel Core 2 Duo or equivalent) Memory: 4 GB RAM Graphics: NVidia Geforce 560 DirectX: Version 10 Storage: 400 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system Memory: 12 GB RAM Graphics: NVidia Geforce 960",
+    "reviews": []
+}

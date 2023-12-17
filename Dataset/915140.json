@@ -1,0 +1,36 @@
+{
+    "app_id": 915140,
+    "name": "Adera",
+    "release_date": "2018-08-27",
+    "developer": [
+        "HitPoint Studios Inc."
+    ],
+    "publisher": [
+        "HitPoint Studios Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Hidden Object"
+    ],
+    "achievements": 64,
+    "positive_ratings": 15,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "Jane Sinclaire faces her greatest challenge in the mysterious city of Adera. Solve puzzles, collect artifacts, and unlock its secrets!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/915140/header.jpg?t=1535375427",
+    "minimum_requirements": "OS: Vista, 7, 8.1, or 10 Processor: 2 GHz CPU Memory: 1 GB RAM Graphics: 256 MB GPU with shader model 4.0 DirectX: Version 10 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

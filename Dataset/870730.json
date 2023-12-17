@@ -1,0 +1,42 @@
+{
+    "app_id": 870730,
+    "name": "Adapt or Perish",
+    "release_date": "2019-02-11",
+    "developer": [
+        "Phr00t's Software"
+    ],
+    "publisher": [
+        "Phr00t's Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 8,
+    "positive_ratings": 28,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "This is more than just an odd looking strategy game, it is a strategy platform. Genetically engineer amorphic creatures &amp; buildings, in real time, in an endlessly open world that adapts to your playstyle. Share, and even battle your designs. How much will they be worth?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/870730/header.jpg?t=1556552260",
+    "minimum_requirements": "OS: Windows 7+ Processor: Quad Core+ Memory: 2 GB RAM Graphics: non-VR: Anything in the past ~5 years should do DirectX: Version 11 Storage: 750 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: VR: AMD 8350 or i5-4590 Memory: 4 GB RAM Graphics: VR: 1050Ti or equivelant DirectX: Version 12",
+    "reviews": []
+}

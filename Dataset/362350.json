@@ -1,0 +1,41 @@
+{
+    "app_id": 362350,
+    "name": "Boss Monster",
+    "release_date": "2016-04-28",
+    "developer": [
+        "Plain Concepts Corp"
+    ],
+    "publisher": [
+        "Plain Concepts Corp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 197,
+    "negative_ratings": 127,
+    "price": 3.99,
+    "description": "Boss Monster is a dungeon-building game based on the boardgame of the same name.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/362350/header.jpg?t=1463405117",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 512 MB RAM DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Dual Core+ Memory: 512 MB RAM DirectX: Version 10 Storage: 600 MB available space",
+    "reviews": []
+}

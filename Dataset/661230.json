@@ -1,0 +1,42 @@
+{
+    "app_id": 661230,
+    "name": "Progress Bar Simulator",
+    "release_date": "2019-04-04",
+    "developer": [
+        "SpielmannSpiel"
+    ],
+    "publisher": [
+        "SpielmannSpiel"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 24,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 0.99,
+    "description": "Ever wanted to accelerate the progress bar of your download, slow installation, Windows update or just to kill some time until something else has finished?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/661230/header_alt_assets_0.jpg?t=1555883010",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i3 / AMD A6-9500 Memory: 1 GB RAM Graphics: Intel HD 4000 / AMD Radeon R5 Storage: 1 GB available space Sound Card: Recommended",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5 / Ryzen 3 Memory: 2 GB RAM Graphics: Nvidia GeForce 1050 / AMD Radeon VEGA or similar Storage: 1 GB available space Sound Card: Recommended",
+    "reviews": []
+}

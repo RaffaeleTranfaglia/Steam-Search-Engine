@@ -1,0 +1,42 @@
+{
+    "app_id": 484990,
+    "name": "Alveari",
+    "release_date": "2016-10-10",
+    "developer": [
+        "BeehiveBob"
+    ],
+    "publisher": [
+        "BeehiveBob"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 5,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 10.99,
+    "description": "A collection of VR mini-games! Slow motion action!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/484990/header.jpg?t=1494433438",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space Sound Card: Yes",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 Processor: Intel i5-4590 equivalent or greater Memory: 16 GB RAM Graphics: AMD 390 equivalent or greater DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space Sound Card: Yes",
+    "reviews": []
+}

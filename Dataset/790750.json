@@ -1,0 +1,42 @@
+{
+    "app_id": 790750,
+    "name": "oVRshot",
+    "release_date": "2018-11-09",
+    "developer": [
+        "Window Licker Games"
+    ],
+    "publisher": [
+        "Window Licker Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "FPS"
+    ],
+    "achievements": 31,
+    "positive_ratings": 33,
+    "negative_ratings": 4,
+    "price": 0.0,
+    "description": "oVRshot is an intensely fast-paced multiplayer arena bow shooter built for VR. Step into the arena armed with a bow and a variety of powerful abilities and turn the tide of a match by tactically using these abilities to demolish your enemies or shield your allies from harm.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/790750/header.jpg?t=1555078002",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 - 64 bit Processor: Intel i3-6100 / AMD FX4350 or equivalent Memory: 8 GB RAM Graphics: GTX 970/RX 570 or equivalent at 2x MSAA DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: VR Headset required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4670 / AMD R5-1400 or equivalent Memory: 16 GB RAM Graphics: GTX 1070 / GTX 980 Ti / Vega 56 or equivalent at 8x MSAA DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: VR Headset required",
+    "reviews": []
+}

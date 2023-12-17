@@ -1,0 +1,51 @@
+{
+    "app_id": 347040,
+    "name": "Keebles",
+    "release_date": "2015-03-27",
+    "developer": [
+        "Burnt Fuse"
+    ],
+    "publisher": [
+        "Green Man Gaming Publishing"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Physics"
+    ],
+    "achievements": 36,
+    "positive_ratings": 46,
+    "negative_ratings": 11,
+    "price": 6.99,
+    "description": "An addictive physics-based vehicle building puzzle game. Build weird and wonderful vehicles using whatever you can find. Master rockets, balloons, parachutes and more. Save as many Keebles as you can, and be quick - the Whale at the End of the World won't wait forever.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/347040/header.jpg?t=1505825029",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1GHz or faster Memory: 1 GB RAM Graphics: NVIDIA GeForce Go 7400 or better DirectX: Version 9.0c Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's like bad piggies without the angry birds brand. Fun game so far",
+            "review_score": "1"
+        },
+        {
+            "review_text": "best strategy game of 2016. 10/10",
+            "review_score": "1"
+        }
+    ]
+}

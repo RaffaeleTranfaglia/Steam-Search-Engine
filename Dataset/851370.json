@@ -1,0 +1,38 @@
+{
+    "app_id": 851370,
+    "name": "EXAELLA",
+    "release_date": "2018-05-14",
+    "developer": [
+        "Andrew Oudot",
+        "Denis Isakov"
+    ],
+    "publisher": [
+        "Denis Isakov"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "EXAELLA is a 3D side-scrolling shooter game where you must guide the chief operator through the dark corridors of the artificial sleep centre Xonasu. On the way, you must solve multiple tasks, gather resources, and defend itself and the helplessly sleeping patients of a Xonasu complex.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/851370/header.jpg?t=1526806596",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 2.3 ГГц Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 9.0 Storage: 1130 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

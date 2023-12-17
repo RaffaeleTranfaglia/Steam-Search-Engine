@@ -1,0 +1,42 @@
+{
+    "app_id": 839130,
+    "name": "Snowball Saves Summer",
+    "release_date": "2018-09-26",
+    "developer": [
+        "Goldbar Games"
+    ],
+    "publisher": [
+        "Goldbar Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Play as Snowball in this 2D physics platformer. Rescue the kidnapped Snow Queen, and stop the North Pole from melting during the hottest summer ever!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/839130/header.jpg?t=1542959912",
+    "minimum_requirements": "OS: Windows XP SP2+, 7, 8, 10 Processor: Intel(R) Core(TM) i5 2.3GHz or above Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows XP SP2+, 7, 8, 10 Processor: Intel(R) Core(TM) i7 2.6GHz or above Memory: 512 MB RAM Graphics: Nvidia GeForce GTX 960M DirectX: Version 9.0 Storage: 300 MB available space",
+    "reviews": []
+}

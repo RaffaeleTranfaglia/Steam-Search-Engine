@@ -1,0 +1,39 @@
+{
+    "app_id": 792340,
+    "name": "ESPER",
+    "release_date": "2018-07-06",
+    "developer": [
+        "Coatsink"
+    ],
+    "publisher": [
+        "Coatsink"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 18,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 6.19,
+    "description": "As one of a small number of citizens who have been endowed with the power to move objects with their minds, you have been enrolled by the government to undertake a series of tests to show that you are in control of your powers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/792340/header.jpg?t=1539082001",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: i5 6400 / FX8350 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 / Radeon R9 290 DirectX: Version 11 Storage: 520 MB available space",
+    "recommended_requirements": "OS: Windows 10 Fall Creators or Later Processor: i5 8500 / AMD Ryzen 5 2600 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1070 / RX Vega 56 DirectX: Version 11 Storage: 520 MB available space",
+    "reviews": []
+}

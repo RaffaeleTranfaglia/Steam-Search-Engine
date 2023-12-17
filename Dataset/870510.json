@@ -1,0 +1,36 @@
+{
+    "app_id": 870510,
+    "name": "The Fiend's Tavern",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Ferocious Bunny"
+    ],
+    "publisher": [
+        "Ferocious Bunny"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "The Fiend's Tavern, is a tavern management game, where you can purchase upgrades and help various customers, to keep your tavern alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/870510/header.jpg?t=1539709428",
+    "minimum_requirements": "OS: windows 7 Processor: Intel Celeron CPU N3350 @1.10GHz or equivalent Memory: 3 GB RAM Graphics: Intel HD Graphics 500 DirectX: Version 9.0 Storage: 700 MB available space",
+    "recommended_requirements": "OS: windows 10 Processor: AMD FX-8320 3.50 GHz Memory: 8 GB RAM Graphics: AMD Radeon R9 200 Series Storage: 700 MB available space",
+    "reviews": []
+}

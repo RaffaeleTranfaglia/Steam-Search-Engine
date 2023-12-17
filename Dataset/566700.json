@@ -1,0 +1,39 @@
+{
+    "app_id": 566700,
+    "name": "Eye in the Sky",
+    "release_date": "2017-12-05",
+    "developer": [
+        "VinLia Games"
+    ],
+    "publisher": [
+        "VinLia Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 10,
+    "positive_ratings": 49,
+    "negative_ratings": 0,
+    "price": 7.99,
+    "description": "Eye in the Sky is an asymmetrical local co-op escape room where a VR player and a Computer player solve puzzles from different perspectives. The goal is to share information from each perspective and overcome the obstacles on a journey to the center of a post-apocalyptic robot planet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/566700/header.jpg?t=1518639283",
+    "minimum_requirements": "Betriebssystem: Windows 8.1 Prozessor: Intel Core i5 2500K Arbeitsspeicher: 8 GB RAM Grafik: GTX 970 or AMD RX 480 Speicherplatz: 4900 MB verfügbarer Speicherplatz Zusätzliche Anmerkungen: HTC Vive or Oculus Rift + Touch required",
+    "recommended_requirements": "Empfohlen: Betriebssystem: Windows 10 Prozessor: Intel Core i7 4770k or AMD Ryzen 7 1700 Arbeitsspeicher: 16 GB RAM Grafik: GTX 1070 Speicherplatz: 4900 MB verfügbarer Speicherplatz Zusätzliche Anmerkungen: HTC Vive or Oculus Rift + Touch required",
+    "reviews": []
+}

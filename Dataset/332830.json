@@ -1,0 +1,42 @@
+{
+    "app_id": 332830,
+    "name": "Prelogate",
+    "release_date": "2014-12-10",
+    "developer": [
+        "blamedrop"
+    ],
+    "publisher": [
+        "blamedrop"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 16,
+    "positive_ratings": 77,
+    "negative_ratings": 5,
+    "price": 2.79,
+    "description": "Prelogate is a logic puzzle game. Solve puzzles by redirecting laser beams, mixing them and controlling them with logic gates.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/332830/header.jpg?t=1447364954",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 or later Graphics: 800x600 minimum resolution Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 616520,
+    "name": "Cheap Golf",
+    "release_date": "2018-11-05",
+    "developer": [
+        "Pixeljam"
+    ],
+    "publisher": [
+        "Pixeljam"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Sports",
+        "Action"
+    ],
+    "achievements": 4,
+    "positive_ratings": 48,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "A retromoderrn and surreal minigolf comedy hosted by the infamous AI bot SUSAN. ...//-- Fling up and go FULL BOOP --\\\\...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/616520/header.jpg?t=1542418150",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 Ghz CPU Memory: 500 MB RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

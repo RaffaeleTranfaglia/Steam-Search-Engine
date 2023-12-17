@@ -1,0 +1,39 @@
+{
+    "app_id": 786370,
+    "name": "Alien Crusader",
+    "release_date": "2018-03-09",
+    "developer": [
+        "Zydrone"
+    ],
+    "publisher": [
+        "Zydrone"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 32,
+    "negative_ratings": 20,
+    "price": 0.0,
+    "description": "Alien Crusader is an action packed, vertical scrolling, space shooter game, similar to classic coin-up arcade and shoot'em up games.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786370/header.jpg?t=1523023073",
+    "minimum_requirements": "OS: 7 Processor: 2 GHz processor (supporting SSE2 instruction set or higher) Memory: 4 GB RAM Graphics: Shader version 2.0 capable video card DirectX: Version 9.0c Network: Broadband Internet connection Storage: 256 MB available space",
+    "recommended_requirements": "OS: 10 Processor: 3 GHz processor Memory: 8 GB RAM Graphics: Nvidia GeForce 8800/AMD Radeon HD 5670 or equivalent video card (Dedicated GPU with 512MB or higher Video Memory(VRAM)) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": []
+}

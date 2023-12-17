@@ -1,0 +1,35 @@
+{
+    "app_id": 800530,
+    "name": "Ninja jump",
+    "release_date": "2018-02-28",
+    "developer": [
+        "D1ONE"
+    ],
+    "publisher": [
+        "D1ONE"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 13,
+    "price": 2.89,
+    "description": "Jump from roof to roof, look at the scale, the higher the scale at the moment you touch the screen, the higher and further the jump!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/800530/header.jpg?t=1519810555",
+    "minimum_requirements": "Минимальные: ОС: Windows XP Процессор: Процессор с тактовой частотой 500 МГц, Оперативная память: 256 MB ОЗУ Видеокарта: Intel hd 4600 DirectX: Версии 10 Место на диске: 50 MB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 10 Процессор: Intel Core i9 Оперативная память: 4 GB ОЗУ Видеокарта: Nvidia 1080ti DirectX: Версии 12 Место на диске: 1 GB",
+    "reviews": []
+}

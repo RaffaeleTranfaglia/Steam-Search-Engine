@@ -1,0 +1,42 @@
+{
+    "app_id": 486430,
+    "name": "Sphoxie",
+    "release_date": "2018-05-17",
+    "developer": [
+        "Olivier Archer"
+    ],
+    "publisher": [
+        "Olivier Archer"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 2.79,
+    "description": "In Sphoxie you must help our little spikey blue spherical dude get back home after a portal sucked him to a strange cube world. Many dangers and obstacles await, can you handle it?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486430/header.jpg?t=1544522833",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Dual-core Intel or AMD processor Memory: 2 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD DirectX: Version 10 Storage: 680 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit or later Processor: Quad-core Intel or AMD processor Memory: 4 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 11 Storage: 680 MB available space",
+    "reviews": []
+}

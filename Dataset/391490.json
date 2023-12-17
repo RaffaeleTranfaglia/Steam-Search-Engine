@@ -1,0 +1,58 @@
+{
+    "app_id": 391490,
+    "name": "Braveland Pirate",
+    "release_date": "2015-09-14",
+    "developer": [
+        "Tortuga Team"
+    ],
+    "publisher": [
+        "Tortuga Team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Casual"
+    ],
+    "achievements": 26,
+    "positive_ratings": 192,
+    "negative_ratings": 24,
+    "price": 5.99,
+    "description": "The Braveland trilogy concludes with the most exciting book of all, number three – welcome to Braveland Pirate strategy game! A crew of pirates led by Captain Jim embarks on a search for the Eternal Treasure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/391490/header.jpg?t=1536329822",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 or later Processor: 1.7 GHz Dual Core Memory: 2 GB RAM DirectX: Version 9.0c Storage: 750 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "For a game under $3.00 I found this rather interesting. It had a great storyline and the music was nice and soothing and I’ve played the game for hours and the music didn’t annoy me. Overall it’s a good game for its price in my opinion and you should give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, nice music and beautiful graphics. Enjoying it a lot.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you liked the first two Braveland games, you'll like this. If you haven't played any of them, get one (or all) on sale. Simple fun, but I'd only recommend playing the games at least 6 months apart as not much changes from game to game.   Everything else is details.  ",
+            "review_score": "1"
+        }
+    ]
+}

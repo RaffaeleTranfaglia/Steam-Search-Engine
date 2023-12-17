@@ -1,0 +1,45 @@
+{
+    "app_id": 732370,
+    "name": "Juicy Realm",
+    "release_date": "2018-05-03",
+    "developer": [
+        "SpaceCan"
+    ],
+    "publisher": [
+        "X.D. Network Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 20,
+    "positive_ratings": 494,
+    "negative_ratings": 154,
+    "price": 7.19,
+    "description": "Juicy Realm is a roguelike game in which players must square off against bizarre fruits all across the world. The line between the animal and the plant world has become blurred, and the food chain has been completely disrupted.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/732370/header.jpg?t=1548832033",
+    "minimum_requirements": "OS: Windows 7+ Processor: 1.8 GHz Processor Memory:  4 GB RAM Graphics: Intel(R) HD Graphics 5500 Additional Notes: OpenGL 3.2+",
+    "recommended_requirements": "Graphics: nVidia GeForce GTX 560 series or higher / AMD HD 6870 or higher Additional Notes: OpenGL 3.2+",
+    "reviews": []
+}

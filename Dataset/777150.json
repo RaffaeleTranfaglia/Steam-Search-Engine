@@ -1,0 +1,43 @@
+{
+    "app_id": 777150,
+    "name": "Adventure Land - The Code MMORPG",
+    "release_date": "2019-01-28",
+    "developer": [
+        "Kaan Soral"
+    ],
+    "publisher": [
+        "Kaan Soral"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "MMO",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Massively Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 36,
+    "negative_ratings": 6,
+    "price": 12.49,
+    "description": "Adventure Land is an experimental Indie MMORPG. ANYONE can Code not just one, but up to 4 characters! You can play manually, use the given default Code, or learn programming to do more! Going open-source at 50,000 installs!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777150/header.jpg?t=1549854220",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 [64-Bit] Processor: 1.5Ghz or better Memory: 2048 MB RAM Graphics: Direct3D 9.0 Capable System DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: While the game is 2D and simple, the system needs to be WebGL capable, and running multiple characters use up RAM",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: 2Ghz or better Memory: 4096 MB RAM Graphics: 2GB Dedicated DirectX: Version 9.0 Network: Broadband Internet connection Storage: 200 MB available space",
+    "reviews": []
+}

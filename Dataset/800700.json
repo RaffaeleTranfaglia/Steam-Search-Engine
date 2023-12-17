@@ -1,0 +1,41 @@
+{
+    "app_id": 800700,
+    "name": "Project Hastur",
+    "release_date": "2019-02-12",
+    "developer": [
+        "Polymorphic Games"
+    ],
+    "publisher": [
+        "Polymorphic Games",
+        "University of Idaho"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Defend humanity against the ever changing threat of the alien Proteans. Project Hastur combines elements of 3D tower defense and real-time strategy with models of biological evolution to create a uniquely challenging experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/800700/header.jpg?t=1550087708",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1+, 64-bit only Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: DX10 (shader model 4.0) capabilities Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

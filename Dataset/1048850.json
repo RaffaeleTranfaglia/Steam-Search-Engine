@@ -1,0 +1,37 @@
+{
+    "app_id": 1048850,
+    "name": "Jelly Blocks",
+    "release_date": "2019-04-11",
+    "developer": [
+        "Creative Cog Games"
+    ],
+    "publisher": [
+        "Creative Cog LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Match 3"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "A unique, simple, relaxing and fun puzzle/match-3 game built using soft body physics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1048850/header.jpg?t=1554987115",
+    "minimum_requirements": "OS: Modern-ish like 7+ Processor: Just about anything Memory: 1 GB RAM Graphics: Eh, anything Storage: 50 MB available space Sound Card: Do people still install these?",
+    "recommended_requirements": "OS: Windows 10 I guess? Processor: Whatever you've got Memory: 4 GB RAM Graphics: Can it mine blockchain? Then it's way more than this game needs Storage: 50 MB available space",
+    "reviews": []
+}

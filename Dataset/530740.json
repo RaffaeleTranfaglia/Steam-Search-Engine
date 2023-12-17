@@ -1,0 +1,43 @@
+{
+    "app_id": 530740,
+    "name": "Spareware",
+    "release_date": "2016-10-10",
+    "developer": [
+        "Rusto"
+    ],
+    "publisher": [
+        "Rusto"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Robots"
+    ],
+    "achievements": 36,
+    "positive_ratings": 17,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "Mow your way through waves of humans to save mankind from itself in a shooter with roguelike elements for 1 to 4 players. Build up your robot from spare parts and traverse the cities of the future unlocking new equipment and abilities as you go.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/530740/header.jpg?t=1478069241",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: DualCore AMD/Intel 2.3 GHz Memory: 4 GB RAM Graphics: AMD Radeon 4850 / Nvidia 8800 GTS 512 Mb or equivalent DirectX: Version 9.0 Storage: 1024 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

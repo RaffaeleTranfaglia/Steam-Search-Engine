@@ -1,0 +1,46 @@
+{
+    "app_id": 503770,
+    "name": "Elven Assassin",
+    "release_date": "2016-09-10",
+    "developer": [
+        "Wenkly Studio Sp. z o.o."
+    ],
+    "publisher": [
+        "Wenkly Studio Sp. z o.o."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 21,
+    "positive_ratings": 257,
+    "negative_ratings": 35,
+    "price": 11.39,
+    "description": "Take a bow and kill hordes of orcs in the epic town defense game. You can play alone to conquer the leaderboards or unite with other assassins in online co-op mode. PS. Be careful to avoid massive axes thrown at you by orc warriors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/503770/header.jpg?t=1539866888",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater Storage: 1 GB available space Additional Notes: Video Output: HDMI 1.4 or DisplayPort 1.2 or newer; USB Port: 1x USB 2.0 or greater port",
+    "recommended_requirements": null,
+    "reviews": []
+}

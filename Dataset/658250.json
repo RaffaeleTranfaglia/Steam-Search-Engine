@@ -1,0 +1,40 @@
+{
+    "app_id": 658250,
+    "name": "Xtrike",
+    "release_date": "2017-08-26",
+    "developer": [
+        "Chengen Zhao"
+    ],
+    "publisher": [
+        "Chengen Zhao"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Xtrike is a shoot'em up game integrated with action real-time strategies. Players need to produce battle units and also control heroes to destroy incoming enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658250/header.jpg?t=1548899709",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: 2.0 Ghz i5 or better Memory: 4 GB RAM Storage: 500 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: 2.0 Ghz i5 or better Memory: 8 GB RAM Storage: 500 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 538390,
+    "name": "Crimson Nights",
+    "release_date": "2017-01-02",
+    "developer": [
+        "The Crimson Nights Team",
+        "Spiky Fish Games"
+    ],
+    "publisher": [
+        "The Crimson Nights Team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 14,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Crimson Nights is a Multiplayer Dungeon Crawler Video Game",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/538390/header.jpg?t=1483344851",
+    "minimum_requirements": "OS: Windows 7 Processor: core i3 Memory: 1 GB RAM Graphics: gtx 460 DirectX: Version 11 Storage: 700 MB available space Sound Card: Stereo Sound",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 588340,
+    "name": "Stolen Steel VR",
+    "release_date": "2017-02-22",
+    "developer": [
+        "Impromptu Games"
+    ],
+    "publisher": [
+        "Impromptu Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 20,
+    "negative_ratings": 17,
+    "price": 5.79,
+    "description": "An room-scale VR arena swordfighting experience featuring one-on-one fencing with AI opponents.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/588340/header.jpg?t=1508404816",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better. Memory: 4000 MB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better. DirectX: Version 11 Storage: 1 GB available space Additional Notes: HTC Vive or Oculus Rift with Touch controllers",
+    "recommended_requirements": null,
+    "reviews": []
+}

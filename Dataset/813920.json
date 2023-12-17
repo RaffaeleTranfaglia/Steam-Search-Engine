@@ -1,0 +1,37 @@
+{
+    "app_id": 813920,
+    "name": "oldTail",
+    "release_date": "2018-05-03",
+    "developer": [
+        "SeungWoonS"
+    ],
+    "publisher": [
+        "SeungWoonS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Open World"
+    ],
+    "achievements": 18,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Collect shiny herbs. Seven maps! Seven herbs! Seven ways! Find and track clues.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/813920/header.jpg?t=1538026813",
+    "minimum_requirements": "OS: Windows 7/8/10 (32 or 64bit) Processor: 3.0ghz Intel Core 2 Duo or equivalent Memory: 4 GB RAM Graphics: shader version 3.0 capable video card, 1GB video card memory, (Ati Radeon HD 5770, Nvidia GeForce GT 730) DirectX: Version 9.0c Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 (32 or 64bit) Processor: 3.50ghz Intel Core i7 or Higher Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 760, Radeon HD 7870 (2GB video card memory) DirectX: Version 12 Storage: 10 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 1052220,
+    "name": "GlassSmash",
+    "release_date": "2019-04-16",
+    "developer": [
+        "Anvate Games"
+    ],
+    "publisher": [
+        "Anvate Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Physics"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "GlassSmash is indie puzzle game with glass smashing by sledgehammer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1052220/header.jpg?t=1556258786",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Pentium 4 Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": "OS: Windows 7/Vista/8/8.1/10 Processor: Intel Core i3 Memory: 1 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 60 MB available space",
+    "reviews": []
+}

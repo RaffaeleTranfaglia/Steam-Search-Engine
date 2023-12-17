@@ -1,0 +1,45 @@
+{
+    "app_id": 333640,
+    "name": "Caves of Qud",
+    "release_date": "2015-07-15",
+    "developer": [
+        "Freehold Games"
+    ],
+    "publisher": [
+        "Freehold Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Rogue-like",
+        "RPG"
+    ],
+    "achievements": 52,
+    "positive_ratings": 1498,
+    "negative_ratings": 46,
+    "price": 11.39,
+    "description": "Caves of Qud is a science fantasy roguelike epic steeped in retrofuturism, deep simulation, and swathes of sentient plants. Come inhabit an exotic world and chisel through layers of thousand-year-old civilizations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333640/header.jpg?t=1531251194",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: 1GHz or faster. SSE2 instruction set support. Memory: 4 GB RAM Graphics: Graphics card:  DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

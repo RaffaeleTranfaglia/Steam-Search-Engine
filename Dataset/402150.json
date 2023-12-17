@@ -1,0 +1,55 @@
+{
+    "app_id": 402150,
+    "name": "String Theory",
+    "release_date": "2016-02-17",
+    "developer": [
+        "Zenisport"
+    ],
+    "publisher": [
+        "Zenisport"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Education",
+        "Music"
+    ],
+    "achievements": 76,
+    "positive_ratings": 37,
+    "negative_ratings": 12,
+    "price": 5.99,
+    "description": "You've played rhythm games, but have you ever played a music game? String Theory is a unique audio puzzle game that trains the player to recognize musical chords. Pit your ear against 20 different BGMs, each with 14 different chord variations. Learn to recognize chords played on over 20 different instruments and synthesizers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/402150/header.jpg?t=1466368288",
+    "minimum_requirements": "OS: Windows XP or above Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I really like the idea behind this game, but I feel like it's a far cry from what it claims to be and I can't recommend it in its current state. I think the developers have their heart in the right place and maybe they're a little too familiar with the content to see some of the things I feel are shortcomings. With that in mind I have several criticism which I sincerely hope are taken constructively because I want to see this become the game I thought it would be.  I don't feel like I'm learning anything. It might be fun if I already knew something about music, but even when I pass a tier I don't feel like I understand what I did. I wish there was more of an educational element.  The help/cheats aren't very helpful. They just give you answers. I'd consider slowing down the music, or playing the chord clearly without the music, or playing the notes in the chord one at a time to be more helpful. Using the cheats doesn't actually feel like it's helping, just postponing my next failure.  After failing the only option I have is to start the tier over. There is no guidance for your mistake, nothing is clarified. At the very least I'd like to try it again without credit to see if I can recognize my error. I would hope for a lot more feedback. Show me where each string falls on a scale and which ones I cut/left and which ones were correct.  I'm on tier 15 and I still get presented with stages that I think are easy and I cut strings after hearing them after a single pluck. Within the same tier sometimes I get completely stumped. This has been happening to me since tier 5. I feel like if this game had a suitable educational element, I'd have an explanation for this seemingly random difficulty.   Some things I'd like to see in future versions: -I'd like to play with my eyes closed, but the interface requires a mouse. It'd be nice to have ASDF...or 1234... assigned to the strings.  - More music. The music is lackluster. Some songs have too much delay before the chords. If you're troubled with a tier, the music can be tiresome.  - It'd be nice to have the option to mark what I think is the root/3rd/5th as I make my progress.  - There's a constant audio static which I believe is intentional (maybe like a record?) that would be very nice to shut off.  Other bugs: the disabled state for he 5th cheat button is the 3rd button The drop shadow on the string cut button is cut off on the bottom all 3 circles for the play chord, mute and settings buttons have flat bottom and right sides ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "First off, this game is a fantastic addition to any music lover's game library. The concept is really cool and is a fun and interactive way to train your ear to hear different chord qualities. However, I do have a little beef with this game as of now. The simpler levels where you learn to identify major and minor triads are perfectly fine, but things start to get mislabled once the seventh gets involved. For example: whenever the song is in the key of A Major in these levels, your goal is to identify an A Major Seventh chord, but the chord identified as the A Major Seventh is spelled 'A-C#-E-F#' (an A Major with an added sixth). This also applies to the E Major Seventh. Also, no distinction is made between a dominant seventh and a major seventh, or between a minor seventh and a minor chord with a major seventh. Sorry for my lil rant here. I just don't want people to wonder why one seventh chord sounds different than another seventh chord with the same label. Also, I've only played for about an hour, so maybe this is cleared up in later levels. :p Otherwise, this is a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  I'll be recommending this game to any theory students who are having difficulty with first-semester ear training. It's fun, comes with a variety of options for assistance (identifying the root and then working from there, for instance), and well presented.  At the price point, I don't think there's anything else that comes close. I've been told that there is an update in the works for more complex chords also, so this might eventually be useful in upper-level ear training courses as well...I'll be keeping my eye on it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": " An Educational Music Game",
+            "review_score": "1"
+        }
+    ]
+}

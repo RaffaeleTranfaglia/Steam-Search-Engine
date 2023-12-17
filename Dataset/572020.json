@@ -1,0 +1,48 @@
+{
+    "app_id": 572020,
+    "name": "Darwin's Demons",
+    "release_date": "2017-02-13",
+    "developer": [
+        "Polymorphic Games"
+    ],
+    "publisher": [
+        "Polymorphic Games",
+        "University of Idaho"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 24,
+    "positive_ratings": 25,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "Darwin’s Demons is an arcade style space shooter in which you battle a population of evolving aliens. The alien’s morphology, fire type, and behaviors are all encoded by a digital genome. The aliens that are best able to shoot or evade you reproduce to make the next generation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/572020/header.jpg?t=1493922544",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

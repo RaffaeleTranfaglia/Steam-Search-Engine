@@ -1,0 +1,52 @@
+{
+    "app_id": 403270,
+    "name": "Cloudrift",
+    "release_date": "2015-10-30",
+    "developer": [
+        "friendlyOctopus"
+    ],
+    "publisher": [
+        "friendlyOctopus"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 24,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Player One and Player Two try to stay atop the colourful, wibbly wobbly cloud, while mysterious and powerful items fall from the sky. A procedurally generated experience like no other!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/403270/header.jpg?t=1478082557",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Quad CPU Q6600 Memory: 2 GB RAM Graphics: GeForce GTX 560 DirectX: Version 9.0c Storage: 200 MB available space Additional Notes: **** A gamepad controller (or two) is required to play Cloudrift! In case of emergency, Player One: WASD and Space, Player Two: Cursor keys and Enter ****",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Relaxing but still challenging game that hits for me the perfect balance. One of my VR surprises.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Arguably the spirtual sucessor to Marble Madness in the arcades of old, this little gem of a game is pretty much perfect. It's hellishly addictive, lots and lots of fun and is even funny in places (spoiler = space worms!). I highly recommend this game! Especially if you ever played and liked Marble Madness.  Pros.    Its better than marble madness. (High praise!)   This is great value, and will give you hours of fun!   It works well on oculus rift too!   Play with the xbox controller.   It wont hurt your wallet unduly.   Every game is different, as it's procedurally generated.   Cons   I doesnt have native mouse support so you'll have to use a little work around to get your trackball to work with it. It can be done using an autohotkey script to emulate the keyboard controls. Who knows the dev may add mouse support in the future.   You may get addicted to this!   That's it!  ",
+            "review_score": "1"
+        }
+    ]
+}

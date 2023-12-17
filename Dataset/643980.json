@@ -1,0 +1,45 @@
+{
+    "app_id": 643980,
+    "name": "Ironbound",
+    "release_date": "2018-01-04",
+    "developer": [
+        "Secret Level SRL"
+    ],
+    "publisher": [
+        "Making Fun, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "RPG",
+        "Strategy"
+    ],
+    "achievements": 26,
+    "positive_ratings": 143,
+    "negative_ratings": 65,
+    "price": 0.0,
+    "description": "Ironbound is a turn-based multiplayer strategy game with fast-paced duels and deep meta-game. Upgrade your character and equipment and climb to the top of the multiplayer ladder!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/643980/header.jpg?t=1544435894",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel® Pentium® D or AMD® Athlon™ 64 X2 Memory: 2 GB RAM Graphics: NVIDIA® GeForce® 8 Series, ATI™ Radeon™ HD 2000 Series, Intel® HD Graphics 2000 DirectX: Version 10 Network: Broadband Internet connection Storage: 200 MB available space Sound Card: not required",
+    "recommended_requirements": null,
+    "reviews": []
+}

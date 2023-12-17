@@ -1,0 +1,39 @@
+{
+    "app_id": 786770,
+    "name": "Z: The End",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Ridgeline Studios"
+    ],
+    "publisher": [
+        "Ridgeline Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Z: The End is a survival game set in a world infested with zombies with the perspective of a top down shooter. Explore a world destroyed by disease, scavenge for food, drinks, and weapons and survive as long as you can against the zombies and nature.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786770/header.jpg?t=1555297564",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 3.0 GHz Memory: 2 GB RAM Graphics: Intergrated Graphics DirectX: Version 9.0 Storage: 50 MB available space",
+    "recommended_requirements": "OS: Windows 10 DirectX: Version 11 Storage: 50 MB available space",
+    "reviews": []
+}

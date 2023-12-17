@@ -1,0 +1,201 @@
+{
+    "app_id": 469920,
+    "name": "hackmud",
+    "release_date": "2016-09-22",
+    "developer": [
+        "Drizzly Bear"
+    ],
+    "publisher": [
+        "Drizzly Bear"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "MMO",
+        "Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Hacking",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 437,
+    "negative_ratings": 137,
+    "price": 14.99,
+    "description": "hackmud is a text-based multiplayer hacking simulator for Intel-compatible personal home computers. Crack protected systems and solve puzzles as you explore the abandoned internet of the future. Write scripts to protect your winnings and trick other players. Lose everything. Get it back.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/469920/header.jpg?t=1531739154",
+    "minimum_requirements": "OS: Windows 7 Memory: 2 GB RAM DirectX: Version 10",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  sys.init kernel.hardline steamstore.review{game:'good', reccomend:true}",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would wait a few month until they get everything fixed and working again.  First: Server is constantly down it is not even funny. Can not even play it for more then 30min a time before getting “The Multi User Domain is temporarily unavailable” error.  Second: After a server shutdown from the company my game no longer shows my chats or my scratch history. Now I can no longer continue with my single player leaving me trying to figure out how to completely restart and start over.   Third: I can understand why they thought the blurry type would add the the experience - however as time goes by it becomes more of a hindrance. I am not talking type size - its the blurry scan lines that is a major strain to the eyes. I can not speak for everyone but man - it becomes a total distraction that is taking away from the experience.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Let me just point out, you aren't the smartest, someone is always smarter then you, someone always wants to get you and everything you own, someone never wants to be friendly (Most of the time), people offering free money will never part with that money for free and all the chance games are rigged.  Other then all that, this is a damn great game. Want to steal everyone's money? No problem. Want to scam players for ♥♥♥♥♥ and giggles? No Problemo haha. The options are limitless, I dare you to try and thnk your smart, just do it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hackmud is a 90s hacking game based entirely on text-driven interactions.  The tutorial is rather long, though if you memorized or just wrote down some commands you can practically breeze through it. Which you will have to, unless you want to scour the internet for the answers. While sometimes slightly confusing the game still gives you all parts to piece puzzles together yourself.  The scripting is extremely fun, the timer on hacking missions adds to the thrill nicely.   Where the game falls apart for me though, is the second stage when you leave the 'tutorial area' and join the multiplayer. (you still have to permanently be online to play the tutorial though) See, to get GC (the currency used in Hackmud) you have to hack either NPCs or other players. Since hacking other players isn't really an option at that point you're forced to search for the Tier 1 NPCs and hack them to steal their money. While this is all nice and good, about an hour after the nightly NPC reset all of them are already emptied. This means that a new player, fresh out of the tutorial and ready to betray his fellow sentiences, can't even get started unless he either spends countless hours searching for the 3-4 non-emptied NPCs or has to wait for the nightly NPC reset.  While a lot of people would think this to be of little concern, this game is seemingly aimed at adults who can't just stay up all night hoping to get lucky because they have an actual job where they earn actual money.   From what I understand the community now consists mostly of the elite players, who empty all NPCs with their own scripts. (yes, you can write your own scripts) The starter chat 0000 is full of toxic people spamming their scripts to add them to your own autocomplete in vain hopes of having you run them by accident, stealing your money or revealing your loc. (having your loc revealed by a player means they can hack you and basically ♥♥♥♥ you up with no way around it)   The brutal barrier this creates almost always blocks new people from joining. The long tutorial then also means you can't rightly refund your purchase.   It's still a good game, I'll probably keep trying my luck because I'm a ♥♥♥♥ing idiot. Just don't think you'll be the lucky one to suddenly make it big and finish it, becoming some kind of hacking demi-god, like most other hacking games on the market.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Well, there ya go. My first review ever. And that is because I want to show my appreciation for this one man's endevour.  Personally I always enjoyed hacking styled games since I was a kid. That is why this might be a little bit biased but nontheless I will try to keep it as objective as possible:  WARNING. THIS IS FROM A T2 PERSPECTIVE. CORRECT ME IF I AM WRONG.    H4x0r",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not only a great puzzle game. It's also a game about alliances, a game about enemies and being smarter than them. Also, scripting. And JavaScript. Fooling people. Typos inside. If you like to code and socialize with people that like to code and solve puzzles too, you should get it. Recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's an awesome game so far, the interface is gorgeous, if you like 'Coding' in game, it's great.  But right now, it's suffering from terrible server issues, don't buy the game, wait a week or so. even the singleplayer is unplayable because of this.  Will update when the servers are fixed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Well, let's review it.  Hackmud is a great game in my opinion. It does have some flaws BUT it is as far as I know a One-Man-Project and to create such a game alone is probably quite hard. I do have some experience with Linux + Coding in general, so the start was a bit easier for as it may be for others. E.g. my buddy bought this game for both of us, i do have experience, he doesn't. It is way harder for him to learn or understand some things in this game but he tries to learn and improve himself.  That showed me that this game is not only for people who know some stuff and more, but also for someone who does not give up and tries to learn more and more. It may be way harder but you got to start somewhere.  It's like the Dark Souls of Coding. You have to be careful who you trust and which script you run. (But you can trust dtr, he is a really nice and supportive guy. He even made an email-Account just for this game and you can mail him. Can't really say much about the others but be careful that v doesn't fools you.)  I also read some reviews and 1 negative review was quite interesting. He/She said that you can only write 1 line in your small scratch'book'. Well He/She didn't know that you can write more lines. Just hit STRG+Return/CTRL+Retunr/CMD+Return while you're 'writing' inside of it and boom you have a new line.  I also don't know much about server issues. Since I got the game it runs fluently and i never got a unwanted dc.  But I do have a really big issue: It is veeeery hard to get some GC (Money) once you're out of the prologue. Almost every low-tier NPC is already hacked and henceworth you can't get money to init your system. That way you can't upload any public scripts and more. I put about 4-5 hours into the game just to find some existing NPCs just to get the message that they are already hacked.  All in all it is a solid game, even though it is very hard to get some money. I like it, i will play it for a while and if you're interested in such games and you're not scared to learn and put many hours into a game than this might be something for you. Just be cautious, don't get fooled, try to learn and be patient.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very interesting game with an even more interesting multiplayer mode. Would recommend to people with the interest and spare time to learn JavaScript in order to be able to 'step up' their game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game that encourages you to think and it is not like the other games on Steam. Simply GREAT!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very niche little game, but also very good. It's fun, relaxing, and can get a bit difficult at some points. Highly recommend it if you're into cyber punk, it doesn't spoon feed you a lot of story, but the atmosphere is enough to really get you going.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "HACKMUD would be great but unfortunatly after the vlan basically this game equates to 'The rich get richer, the poor stay poor.' Looks good, but still needs a bit of work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unforgiving unless you play it smart. Read up as much as you can and ask questions when you can. But don't always depend on others to help. Think outside of the box. Like the game 'EvE Online', this game doesn't hold your hand much. You get the basics of what can be done and out to the wild to the wolves.  Its danguous out there alone, take this with you: scripts.fullsec   Learning how to write javascript does help but not needed if you wanna seem like an old school hacker typing you &amp;*! off to beat the clock. Good fun and much more to come in the future since its only the beginning.  P.S.:Don't Depend On Auto Complete, it might cost you your hard work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Edit: Stability issues seem to be resolving themselves, which are the source for the negative reviews. Cool beans.  This is the command-line hacking game you've wanted since seeing your first 90's cyberpunk flick. Steep learning curve, but these are my kind of puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10 CLS 20 PRINT 'HELLO SENTIENTS' 30 PRINT 'I'm here to tell you the world as you know it' 40 PRINT 'Will end unless to deposit to my account :10bux:.' 50 PRINT '... or I will erase you...' 60 CLS 'You are being erased now...' 70 PRINT 'Finally, on line 80, I'll use END.' 80 END 'And return to PRINT' 90 PRINT 'JOIN GOONCORP'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is officially the best hacking game out there. It's a solo developer, so give him a break over the server issues.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has great amounts of potential. It hits those same buttons that UpLink and HackerEvolution did. It nails it right on the head! Since it is a solo-developed game, I know getting the right kind of servers in the right places may hinder the first few weeks, but after these kinks get fixed, this game /will/ be worth it. The developer is kind enough to keep everyone up to date on all the things he's /actively doing/ to fix these issues, and I honestly can't say the same of most of the bigger publishers' games. As soon as the issues are fixed, absolutely buy this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game with great community and developers",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is really fun for people who enjoy problem solving, programming or both.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "{Disclaimer: Early review, hampered by severe bugs and server issues, will update with changes/patches.}  TL;DR: The game is currently unplayable and was definatly released witout proper testing. The online server cant handle the players. I strongly suggest not to buy the game until this is sorted out. (And to be honest thats nothing a single coder will solve in just a few days!)   Maybe theres an interesting game below the surface. I dont know. I cant know.  Hackmud is an online-only game and the dev is currently not capable to provide a working server for his game at launch.  Edit:2: The broken server is a big mistake that should have been solved before release. The server doest work and wasnt properly tested before launch. This was a failure made by the developer. Happens. Shouldnt happen. No offense or blame to Sean here, just stating the facts.  However Ive decided to request a refund because the game is unplayable and was clearly not ready for release. Will it be a cool game when the issues are solved? Maybe. No clue.  Edit1: The dev patched some stuff and the server runs way better now. Still its often too laggy to recognize your commands within the 5-sec allowance until it rejects your input. Not really acceptable.  Also the game completly crashed my PC multiple times (freeze/lockup with hard reset needed). That was solved after the patch yesterday. Today my game crashs my PC again and its 100% reproducable when I try to alt-tab out of the game (worked flawless yesterday). So far nobody else replied this issue. My PC never locked up before and its only with this game.  The dev is actively working on the game but this rocky launch after 2yrs+ development speaks for itself.  In my opinion you better stay away from this for a while until you see a clear notice that the severe issues a solved properly!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Let's get this clear right off the bat, this game is far from perfect, and could use a lot of touching up, but the biggest thing going for it is it's uniqueness, and the fact that one person made this by themselves.  Pros: +really neat asthetic, everything feels like part of a greater thing +the tutorial is mind blowing and its real neat and shows everything this can be +easy to get into with its auto suggestions  Cons: -I hear the chat in game is kind of dead since people moved to external chat services??? idk why, that defeats the point -the fact that its too hard to find NPCs to hack since they aren't instanced per player is a problem -veteran players can be snobby and unwilling to help new players  Overall, if you like this sort of thing, get it for the beginning single player part and dabble with the multiplayer, the game has time to be improved and I'm sure the lone dev is trying hard to keep up with updates (I mean people kept crashing the servers inetntionally, so a lot of early work was done on retroactively fixing those exploits)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lot of people may say this game is terrible because of the server issues I disagree for the following reasons 1) The developer is working very hard to improve the servers so it will only be temporary 2) I actually thought for a bit that the errors were fake in-game errors that made it look even more like the 90's (error prone) 3) because of the temporary server lag it will make the game more challenging which is also nice And this is an excellent game (if it wasn’t nobody would have bought it and it wouldn't have server issues). Lastly if you are still worried about the server then just wait until it is fixed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly recommended for a programmer. I've spent much hours already on this and can say, with the script creations through javascript and the community, its well worth my money. For such a small sized (~90MB) game, a definite success.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, but the server timeouts are way way too prevalent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are thinking about buying this than the short answear is that you should buy. Have fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fun :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok so basically I promise to give this game a positive review if they fix the bug that can get you stuck in the tutorial indefenitely if you do things in the wrong order. I actually couldn't even run the shutdown script because I hadn't finished the tutorial.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is perfect in this genre. Honestly no other game can match up to this when it comes to fake hacking and learning to script.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "hackmud   For a long time I've been in the mood to play a MUD with a text based multi user zone/dungeons/levels. Haven't really found a cool and outstanding .hack MUD until finally ｈａｃｋｍｕｄ came out. I play it since CB (early adopter).  Mates, I love this game! It has a refreshing game concept mixed up with an awesome soundtrack. If you are familiar with some shell commands you'll fall in love too, seriously: code and use your own script(s) And if not don't panic your kernel. There is an ingame tutorial right from the start combined with a story.  -- &gt; exf1ltr4ti⧺n has been �arted :: e⧺ap� y█ virtua█ ██  ␗",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's okay, but not really that great. I actually refunded this. There are better, free MUD's out there. Just goolge them. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "T H I S G A M E R E Q U I R E S S E N T I E N C E .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is hard as balls if you make one mistake you restart. Make it easyier!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do you like hacking? Political intrigue? Fantastic emergent storytelling? Then buy this game.  Hackmud is an incredibly unique game the likes of which you won't find elsewhere. It's incredible simple, has a captivating world and stories that live within it, and gains a lot of milage out of clever player interactions. It has a bit of a learning curve, but no programming experience is necessary, and there's a friendly community if you really do get stuck.  The game's player interactions are designed to encourage and reward cleverness, sneakiness, and political intrigue. If you've ever been interested in seeing what player drama/stories EVE Online is all about, check out this game instead. Everything in hackmud is designed around those ideas.  The single player campaign lasts between 3-5 hours and can be skipped any time with a single command but, similar to Her Story, the overall puzzle involves figuring out what it is. That said, the campaign story is fairly interesting and worth your time. Unlike most 'tutorials,' it's actually pretty dang fun, and could be a short game all its own.  The only current issue with hackmud is that the (single solo) developer for the game is a bit overwhelmed with its popularity and is currently trying to upgrade and stablize the servers, which have occasional timeout errors. Luckily, the dev is making it his top priority, and he develops for this game full time, so it should hopefully be resolved soon.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "once you are past the tutorial there is no way to make money since all npc accounts are taken.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Damn, where to start...  scripts.fullsec &lt;-- that is where.   This game has an incredible potential, and I am amazed how one developer made this possible. If you are looking for a 'real hacking game/simulator', this is as close as you will get, while still being interesting.  You can live off just by clicking and using simple terms, similar to uplink, (hovewer javascript is used here), and it will still be very intersting. But if you decide to explore the scripting realm... It will be a hell of a curve if you've never programmed before, but I bet my b*lls you won't find a game that makes it as interesting and rewarding as this game does...  ===Warning! This game is not newbie-friendly!=== Tho community is great! I'd advise you to visit 0000 and 7001 chatrooms, they are very prone to helping.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Complicated at start.. But worth it~",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Incredibly niche game, but if you're willing to write code to get the most out of this, I'd definitely recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it was fun for a while; but at this point the game changes too much to call it finished. =&gt; ie airgaps become vulnerable etc...  Better spend you money on screeps if you are into programming games! (screeps also has a private server, so no need for expensive subscriptions)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I've never found a game that tried so hard to convince me it was something else. Fascinating, but probably not for a lot of people. Don't know how far I'll go down the rabit hole.",
+            "review_score": "1"
+        }
+    ]
+}

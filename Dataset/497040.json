@@ -1,0 +1,41 @@
+{
+    "app_id": 497040,
+    "name": "Underground Keeper",
+    "release_date": "2016-08-15",
+    "developer": [
+        "Render System"
+    ],
+    "publisher": [
+        "Render System"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 63,
+    "positive_ratings": 32,
+    "negative_ratings": 11,
+    "price": 4.79,
+    "description": "Underground Keeper is a logical 3D puzzle game from a first person view, inspired by Minesweeper. You will enjoy hours of excellent entertainment in a 60 levels and 4 different environments. Level generator included!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/497040/header.jpg?t=1551772675",
+    "minimum_requirements": "Betriebssystem: Windows XP+ Prozessor: CPU - SSE2 instruction set support Arbeitsspeicher: 2 GB RAM Grafik: Graphics card: DX9 (shader model 3.0) capabilities DirectX: Version 9.0c Speicherplatz: 300 MB verfügbarer Speicherplatz",
+    "recommended_requirements": null,
+    "reviews": []
+}

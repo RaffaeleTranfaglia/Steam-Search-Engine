@@ -1,0 +1,43 @@
+{
+    "app_id": 614910,
+    "name": "#monstercakes",
+    "release_date": "2017-05-05",
+    "developer": [
+        "Paleno Games"
+    ],
+    "publisher": [
+        "Paleno Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 118,
+    "positive_ratings": 386,
+    "negative_ratings": 51,
+    "price": 0.79,
+    "description": "Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes. Put your monster cake in the good hole and combine them together to get higher monster cake. Combine them as high as you can and be on the top of the leaderboard!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/614910/header.jpg?t=1515955042",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual core Memory: 512 MB RAM Graphics: Supported Storage: 98 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

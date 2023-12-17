@@ -1,0 +1,40 @@
+{
+    "app_id": 486990,
+    "name": "Jump Stars",
+    "release_date": "2017-06-09",
+    "developer": [
+        "Jamit Games"
+    ],
+    "publisher": [
+        "Curve Digital"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 10,
+    "price": 7.99,
+    "description": "Jump Stars is a two to four player party game that blurs the lines between cooperative and competitive play. Work as a team to beat the show, but there can be only one winner! Who will turn on who first?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486990/header.jpg?t=1510921674",
+    "minimum_requirements": "OS: Windows Vista/7/8/8.1/10 x86 and x64 Processor: Intel Core2 Duo E6750 (2 * 2660) or equivalent | AMD Athlon 64 X2 Dual Core 6000+ (2 * 3000) or equivalent Memory: 1024 MB RAM Graphics: GeForce GT 740 (2048 MB) or equivalent | Radeon HD 5770 (1024 MB) DirectX: Version 11 Storage: 1500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

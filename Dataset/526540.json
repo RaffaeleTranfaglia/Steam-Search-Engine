@@ -1,0 +1,64 @@
+{
+    "app_id": 526540,
+    "name": "8infinity",
+    "release_date": "2016-09-23",
+    "developer": [
+        "ENTERi"
+    ],
+    "publisher": [
+        "Forever Entertainment S. A."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 6,
+    "positive_ratings": 167,
+    "negative_ratings": 86,
+    "price": 0.79,
+    "description": "8infinity (8 infinity) is a dynamic and rhythm game where the player reaches eights “8” - levels of infinity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526540/header.jpg?t=1474657231",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual core from Intel or AMD at 2.0 GHz Memory: 2 GB RAM Graphics: nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This one is an exercise in patience. The controls are simple, left, right, nothing and left and right. You control the tracks that a ball rolls on, using the controls to guide its path for an inifinite amount of time. This game was fun for a few minutes, but the charm quickly rolled off as the boring looped music droned on while frustration mounted after each failed attempt. This one is on sale for .49c right now, so if you have the spare change on your account, pick it up for the cards, but other than that, you'll be quickly uninstalling this title.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is fun, challenging, but fun. The closest thing I can think of to compare this with is super hexagon, but with arrow keys instead of your mouse. The only downside is that the music is REALLY slow, in my opinion they should either change it to something fast paced or let us choose our own.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't stop playing &lt;3 :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well made game with quick time event\\click. Hard, very hard one. More challenging than Timberman or similar games.",
+            "review_score": "1"
+        }
+    ]
+}

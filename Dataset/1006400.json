@@ -1,0 +1,40 @@
+{
+    "app_id": 1006400,
+    "name": "Fantasia of the Wind 2 风之幻想曲 第二部",
+    "release_date": "2019-04-05",
+    "developer": [
+        "Fantasia Studio"
+    ],
+    "publisher": [
+        "Fantasia Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 66,
+    "positive_ratings": 29,
+    "negative_ratings": 2,
+    "price": 5.19,
+    "description": "与时间女神签订契约的珊朵拉和同伴一起拯救了马尔库斯大陆，但随着同伴的相继离开，珊朵拉开始后悔之前的选择——如果在时间的起点，自己选择了其他道路的话……",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1006400/header.jpg?t=1554452577",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 64bit Processor: 1.0 Ghz or above Memory: 2 GB RAM Graphics: Any DirectX 9.0 supported card / 1280 x 720 or above DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 64bit Processor: 2.0 Ghz or above Memory: 4 GB RAM Graphics: Any non-integrated card with DirectX 9.0 support / 1280 x 720 or above DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

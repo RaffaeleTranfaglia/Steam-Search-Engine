@@ -1,0 +1,41 @@
+{
+    "app_id": 802740,
+    "name": "Wild Glory",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Manalith Studios"
+    ],
+    "publisher": [
+        "LAJE Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 23,
+    "positive_ratings": 34,
+    "negative_ratings": 1,
+    "price": 1.98,
+    "description": "In Wild Glory, you fight against your friends to conquer the Coliseum crowd and become the most acclaimed champion!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/802740/header.jpg?t=1520553750",
+    "minimum_requirements": "OS: Windows Vista, 7, 8, 10 Processor: Intel Core 2 Quad Q9650 Memory: 2 GB RAM Graphics: 512MB Video Memory DirectX: Version 9.0c Storage: 128 MB available space",
+    "recommended_requirements": "Processor: Intel Core i3 500",
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 463440,
+    "name": "Retool",
+    "release_date": "2016-05-19",
+    "developer": [
+        "Hut 90, Inc."
+    ],
+    "publisher": [
+        "Hut 90, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 0,
+    "negative_ratings": 3,
+    "price": 6.59,
+    "description": "Retool is a 3D hacking puzzle game where you try to escape incomplete orbital stations by hacking into computers to rewire outputs of electronics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463440/header.jpg?t=1525442284",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.6GHz Memory: 4 GB RAM Graphics: 1GB DirectX: Version 10 Storage: 2 GB available space Additional Notes: Full controller support",
+    "recommended_requirements": "OS: Windows 10 Processor: 2GHz Memory: 6 GB RAM Graphics: 2GB DirectX: Version 10 Storage: 2 GB available space Additional Notes: Full controller support",
+    "reviews": []
+}

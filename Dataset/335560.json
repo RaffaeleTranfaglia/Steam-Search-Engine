@@ -1,0 +1,44 @@
+{
+    "app_id": 335560,
+    "name": "Light Bound",
+    "release_date": "2015-04-23",
+    "developer": [
+        "Garden Knight Games"
+    ],
+    "publisher": [
+        "Garden Knight Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 40,
+    "positive_ratings": 18,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Get thrown into randomly generated arenas that can only be seen by the light of the players and their weapons. Explore, collect weapons and upgrades, and do battle against your friends or the computer. Customize each game using a variety of configurable options.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/335560/header.jpg?t=1447365511",
+    "minimum_requirements": "OS: Microsoft® Windows® Vista / 7 / 8 Processor: 2GHz processor Memory: 1 GB RAM Graphics: Direct 9.0c compatible card with at least 256 MB of video memory DirectX: Version 9.0c Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

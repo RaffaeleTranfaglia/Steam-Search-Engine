@@ -1,0 +1,47 @@
+{
+    "app_id": 541300,
+    "name": "Survive the Nights",
+    "release_date": "2017-12-21",
+    "developer": [
+        "a2z Interactive"
+    ],
+    "publisher": [
+        "a2z Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Zombies"
+    ],
+    "achievements": 20,
+    "positive_ratings": 629,
+    "negative_ratings": 723,
+    "price": 19.99,
+    "description": "This is an unlisted pre-alpha version of STN and is a WORK IN PROGRESS. Please only consider purchasing the game if you're interested in testing builds and fleshing out features. Many features are missing, many features need balancing!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/541300/header.jpg?t=1517239357",
+    "minimum_requirements": "OS: Windows 7 64 bit Processor: 2ghz Memory: 6 GB RAM Graphics: NVIDIA GTX 660 or higher/AMD Radeon HD 7870 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 10 GB available space",
+    "recommended_requirements": "OS: Windows 10 64 bit Processor: 3ghz Memory: 8 GB RAM Graphics: NVIDIA GTX 1060/AMD Radeon RX 480 DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space",
+    "reviews": []
+}

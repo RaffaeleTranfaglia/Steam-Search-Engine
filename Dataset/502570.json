@@ -1,0 +1,38 @@
+{
+    "app_id": 502570,
+    "name": "Houdini Indie",
+    "release_date": "2018-10-10",
+    "developer": [
+        "SideFX"
+    ],
+    "publisher": [
+        "SideFX"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development"
+    ],
+    "tags": [
+        "Animation & Modeling",
+        "Game Development",
+        "3D"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 0,
+    "price": 209.99,
+    "description": "Houdini Indie's procedural node-based workflow offers a smarter way to create high quality game art. Houdini technology is used by AAA studios to take their games to the next level and now this procedural power is also available to indie game devs around the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/502570/header.jpg?t=1544488569",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (64 bit) Windows 8.1 Windows 8 Windows 7 SP1 (future versions of Houdini will not be supported on Win7) Windows Server (any version) is NOT supported. Processor: Intel or AMD x64 CPU with SSE 4.2 required. Houdini 17.0 will not run on a system with an instruction set lower than SSE 4.1. Memory: 4 GB RAM Graphics: A GL4.0 compliant graphics card is required. GL3.3 cards will have missing features and lower GL versions will not run Houdini 17 at all.  4GB VRAM or more is required. Less than this can result in display errors such as blank windows. High DPI displays (4K, 5K) or multiple monitors require a minimum of 4GB.  Graphics card must support OpenCL version 1.2.   The OptiX Denoiser requires a Kepler or later Nvidia GPU (K, P, M, V prefixes). - NVidia GeForce GPUs: 390.77 or higher (don't use 376.xx - you'll have slow performance and crashes)  - NVidia Quadro GPUs: 390.77 or higher (don't use 376.xx - you'll have slow performance and crashes)   - AMD: 17.Q3 or higher   - Intel 10.18.10.3958 or higher. DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: 3 Button mouse required. Scroll wheel used where present. Tablet recommended for Houdini's brush-based tools.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS:  Processor: 8 GB or higher and 64GB strongly recommended for fluid simulations Memory: 8 GB RAM Graphics: It is VERY important that you install the latest driver for your graphics card. Failing to do so may result in display issues and/or slow performance Storage: 8 GB available space",
+    "reviews": []
+}

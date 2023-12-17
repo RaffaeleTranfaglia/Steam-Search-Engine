@@ -1,0 +1,43 @@
+{
+    "app_id": 491220,
+    "name": "Mr. Pumpkin Adventure",
+    "release_date": "2016-07-08",
+    "developer": [
+        "Cotton Game"
+    ],
+    "publisher": [
+        "CottonGame"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 14,
+    "positive_ratings": 108,
+    "negative_ratings": 11,
+    "price": 2.79,
+    "description": "Mr. Pumpkin's Adventure is a point-and-click puzzle game. The main character of this game is Mr. Pumpkin who lost his memories. During the adventure, you will help him solve all the puzzles, which will eventually unveil an evil plot.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/491220/header.jpg?t=1526441723",
+    "minimum_requirements": "OS: WinXp Processor: Intel Pentium 4 Memory: 1024 MB RAM Graphics: Intel GMA 950 DirectX: Version 9.0c Storage: 1200 MB available space Additional Notes: monitor resolution at least 1366*768",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "i found out a problem when i play this game:  ~That is the screen of my computer can't show the full pic of the game [edges of picture are cutted ] (can't see the dairy and ? buttons and just can see some part of tools image).....i have tried the fix the resolution of image (from 1280 X 768 to higher eg. 1366 X 768)but it just let the size of picture become bigger (means that larger part of pic are cutted).... but i found that the smallest resolution of the game setting is 1280 X 768 and i can't down scale the setting....why the size of game pic is become bigger when i set the upgrade the resolution....what can i do ? i can't play the game sine my computer can't show the full game pic.....&gt;__&lt;",
+            "review_score": "1"
+        }
+    ]
+}

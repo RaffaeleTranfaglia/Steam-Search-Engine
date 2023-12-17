@@ -1,0 +1,46 @@
+{
+    "app_id": 617440,
+    "name": "Juanito Arcade Mayhem",
+    "release_date": "2017-08-03",
+    "developer": [
+        "Game Ever Studio"
+    ],
+    "publisher": [
+        "Game Ever Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 81,
+    "positive_ratings": 179,
+    "negative_ratings": 10,
+    "price": 6.99,
+    "description": "Juanito Arcade Mayhem is the arcade-hopping adventure. Teleport into different video games, play with unique mechanics inspired by well-known arcade games, face stunningly animated bosses and join the fight against the clonocell invasion.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/617440/header.jpg?t=1523389288",
+    "minimum_requirements": "OS: Windows 7, Windows 8.1 or Windows 10 Processor: Intel Core2 duo / AMD A4-3300M APU 1.90GHz Memory: 4 GB RAM Graphics: Card with 512 MB RAM DirectX: Version 10",
+    "recommended_requirements": "OS: Windows 7, Windows 8.1 or Windows 10 Processor: Intel or AMD multicore processor from recent years Memory: 4 GB RAM Graphics: Card with 512 MB RAM DirectX: Version 10",
+    "reviews": []
+}

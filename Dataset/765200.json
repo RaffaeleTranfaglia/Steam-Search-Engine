@@ -1,0 +1,39 @@
+{
+    "app_id": 765200,
+    "name": "Project Earth",
+    "release_date": "2017-12-28",
+    "developer": [
+        "Esbol Amirov"
+    ],
+    "publisher": [
+        "Vadim Alekseevich"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 18,
+    "negative_ratings": 19,
+    "price": 0.79,
+    "description": "World conspiracy or UFO attack? It's up to you to decide what to believe. One of the superpowers is developing the newest modern weapons of the 25th generation. A lot of scattered laboratories are working on this weapon.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765200/header.jpg?t=1520017870",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 2 Duo or higher Memory: 1 MB RAM Graphics: DirectX11 Compatible GPU with 512 MB Video RAM Storage: 280 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 4 Duo or higher Memory: 2 MB RAM Graphics: DirectX11 Compatible GPU with 1 GB Video RAM Storage: 300 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

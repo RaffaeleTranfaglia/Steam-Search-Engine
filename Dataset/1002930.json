@@ -1,0 +1,42 @@
+{
+    "app_id": 1002930,
+    "name": "坦克大战：共和国之辉",
+    "release_date": "2019-04-08",
+    "developer": [
+        "HQGames"
+    ],
+    "publisher": [
+        "HQGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Co-op",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Strategy"
+    ],
+    "achievements": 85,
+    "positive_ratings": 40,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "即时制RPG坦克游戏《坦克大战：共和国之辉》复刻二战经典坦克，还原震撼战争画面，幻想式二战剧情，未来时空神秘战车，跨越历史，重燃战意，用铁血意志铸就不屈钢铁战魂。",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1002930/header.jpg?t=1556422196",
+    "minimum_requirements": "OS: Windows 7 Processor: Pentium（R）-Core E2210@2.20GHz Memory: 2 GB RAM Graphics: 512MB Integrated Graphics Card DirectX: Version 9.0c Network: Broadband Internet connection Storage: 800 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel I3 or better processor Memory: 4 GB RAM Graphics: 1G or 2G Dedicated Graphics Card DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

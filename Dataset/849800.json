@@ -1,0 +1,39 @@
+{
+    "app_id": 849800,
+    "name": "Mermaid Mission: Titanic",
+    "release_date": "2018-06-06",
+    "developer": [
+        "Arglefumph"
+    ],
+    "publisher": [
+        "Arglefumph"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Captions available"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Visual Novel"
+    ],
+    "achievements": 9,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Play as a mermaid, who has been sent to the human world to discover why they're building a giant ship called the Titanic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/849800/header.jpg?t=1528290926",
+    "minimum_requirements": "OS: : Windows XP or higher Processor: 1Ghz Memory: 512 MB RAM MB RAM Graphics: DirectX or OpenGL compatible card",
+    "recommended_requirements": null,
+    "reviews": []
+}

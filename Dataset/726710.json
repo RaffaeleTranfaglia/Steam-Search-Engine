@@ -1,0 +1,42 @@
+{
+    "app_id": 726710,
+    "name": "RAZED",
+    "release_date": "2018-09-14",
+    "developer": [
+        "Warpfish Games"
+    ],
+    "publisher": [
+        "PQube Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "3D Platformer"
+    ],
+    "achievements": 42,
+    "positive_ratings": 19,
+    "negative_ratings": 7,
+    "price": 9.29,
+    "description": "Sprint through dynamic neon levels in the quickest time possible, employing skills such as super-speed boosts, mega-jumps, drifts, stomps and strafes to bypass obstacles and uncover shortcuts to propel yourself up the online leaderboards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/726710/header.jpg?t=1542371872",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7 (32-bit) 处理器: Dual Core 2.2 GHz 内存: 2 GB RAM 图形: Intel HD 3000 / GeForce 310m /Radeon HD 5450 存储空间: 需要 700 MB 可用空间",
+    "recommended_requirements": "推荐配置: 操作系统: Windows 10 处理器: Intel Core I5-7400 3.00GHZ 内存: 16 GB RAM 图形: NVidia GeForce Gtx 1060 存储空间: 需要 700 MB 可用空间",
+    "reviews": []
+}

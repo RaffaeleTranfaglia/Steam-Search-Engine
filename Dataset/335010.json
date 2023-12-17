@@ -1,0 +1,45 @@
+{
+    "app_id": 335010,
+    "name": "Steam and Metal",
+    "release_date": "2015-02-09",
+    "developer": [
+        "Maltakreuz"
+    ],
+    "publisher": [
+        "Maltakreuz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Steampunk",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 28,
+    "positive_ratings": 46,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "Welcome to helm! Steam and Metal — scroll shooter in the steampunk world. Hordes of steam enemies and huge bosses are waiting to be destroyed. Spectacular levels of handcrafted pixels waiting for someone to pass through them. When there are too many enemies — just shoot 'em all up!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/335010/header.jpg?t=1498061859",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 Processor: Intel Core2 Duo / Athron64 X2 Memory: 1024 MB RAM Graphics: Graphics card supporting shader 2.0 or higher, 1280x720 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Surprisingly interesting storyline -for a shump- with striking art style ala steampunk aestetic. A great way to get some bullet-hell angst out against those evil corporate overlords plotting to use the steamengine for war instead of peace. Happy to have supported this one through Greenlight via Lazy Guys. This one is cool.",
+            "review_score": "1"
+        }
+    ]
+}

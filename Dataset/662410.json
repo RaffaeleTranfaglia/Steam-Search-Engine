@@ -1,0 +1,41 @@
+{
+    "app_id": 662410,
+    "name": "Circuit Dude",
+    "release_date": "2017-08-03",
+    "developer": [
+        "Jonathan Holmes (crait)"
+    ],
+    "publisher": [
+        "Jonathan Holmes (crait)"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Captions available",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 10,
+    "positive_ratings": 13,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "Circuit Dude is a top-down, tile-based puzzler with 100 levels. Help Circuit Dude build his ultimate secret invention by plugging in chips, moving blocks, rotating walls, and much more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/662410/header.jpg?t=1505321228",
+    "minimum_requirements": "OS: Windows XP Memory: 400 MB RAM Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

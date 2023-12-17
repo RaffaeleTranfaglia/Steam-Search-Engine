@@ -1,0 +1,50 @@
+{
+    "app_id": 46200,
+    "name": "A.I.M. Racing",
+    "release_date": "2010-01-22",
+    "developer": [
+        "SkyRiver Studios"
+    ],
+    "publisher": [
+        "1C Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 54,
+    "negative_ratings": 21,
+    "price": 0.0,
+    "description": "A.I.M. Racing welcomes you to the planet Polygon-4, where deadly vehicles of the distant future compete, swishing planet’s dusty atmosphere at a tremendous pace. Years ago humans along with the Arlings used Polygon-4 for a number of military experiments, but later left the test complex.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/46200/header.jpg?t=1553010746",
+    "minimum_requirements": "OS: Windows® 98/ME/2000/XP/7/8/10  Processor: Pentium 4 1.5 GHz   Memory: 384 MB RAM   Graphics: NVidia® GeForce™ 4200, ATI® Radeon™ 9500   DirectX®: DirectX 9.0  Hard Drive: 2.5 GB Sound: DirectX™ 9.0 compatible",
+    "recommended_requirements": "Processor: Pentium 4 2.5 GHz   Memory: 512 MB RAM   Graphics: NVidia® GeForce™ 6800, ATI® Radeon™ x800",
+    "reviews": [
+        {
+            "review_text": "This game really has the feel of star wars pod racing. You can pick up power-ups that can affect the gameplay of the match. It can get a little frustrating in the begging to drive each vehicle. The graphics are alright and fun to look at. The opponents can be very stupid at times and run into the walls. The game is a good arcade racer with potential to be alot of fun. I would recommend this game to any racer that likes having power-ups to blow the competition away. Its a good game but can be improved.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a good hover racing game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Very fun, get used to the controls, and NEEDS more people playing it.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "app_id": 20700,
+    "name": "Starscape",
+    "release_date": "2008-11-03",
+    "developer": [
+        "Moonpod"
+    ],
+    "publisher": [
+        "Moonpod"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 18,
+    "positive_ratings": 50,
+    "negative_ratings": 15,
+    "price": 5.99,
+    "description": "Moonpod's Starscape mixes old school arcade game play values with characterization and an involving plot to deepen the whole experience. With most of its crew missing and its weapons systems ruined, the space research station Aegis is all but lost.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/20700/header.jpg?t=1499419301",
+    "minimum_requirements": "Supported OS:  Windows                     Processor: Pentium II 300 MHz or higher                     Memory: 128Mb or more free system memory                     Hard disk space: 100Mb                     DirectX version: DirectX 8 or higher                     Video: Any Hardware 3D graphics accelerator with 32Mb or more of onboard memory                     Sound: Any DirectSound compatible soundcard                     Controller: Any Direct compatible pad",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Even without the underlying story of fighting aliens, it's surprisingly fun to just shoot at asteroids and collect minerals.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome mix of old school arcade madness with RTS elements. Sort of like Sinistar (minus the ridiculous difficulty level) where you get to customize and upgrade your ship over time. You really have two ships. The 'mother' ship is also customizeable and upgradeable, but just the single hull and it will come to your aid and fight/mine as well.  Now I really want to create the sequel to this game :) Or play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the kind of game where, if they had more of a budget, they could've done really well with. Buuut it's just too repetitive now. Not enough features at all.  Fun story: I actually played the demo of this waaay back when it first came out. At the same time as Massive Assault (which as we all know is a game I absolutely love). I really wanted to get it back then, so I got it on Steam when I heard it existed. While it's not that great a game, I have zero regrets on the matter!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Any of you grow up playing SubSpace? That old online top-down space shooter, that could have been the first MMO? (lots of players per server, 'till the very end, and that game was OLD - the days of dial-up. Beat that.) Well, this game feels a bit similar to that and Asteroids - fly around in a spaceship, blow up asteroids, and like in SubSpace, collect stuff to make your ship cooler. But in this, you collect minerals from the asteroids and enemy capital ships with a tractor beam, and you can only hold so much before you have to drop it off in the hangar. To actually make stuff out of it, you have to do some R&amp;D - research better stuff, then actually build it. Both actions take minerals, and there's only so many minerals per area. And they don't come back. Thankfully we have a dangerous zone with infinite resources. *gulp* Oh, and this will play on pretty much anything. Woo!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Who would have thought that an Asteroids clone with tactics and strategy elements could work so well? But be warned: On a scale from 1 through 10, this little 2D mining and space warfare game has an addiction index of about 25. You can design your own starfighters, for crying out loud.",
+            "review_score": "1"
+        }
+    ]
+}

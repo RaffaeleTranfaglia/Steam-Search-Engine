@@ -1,0 +1,43 @@
+{
+    "app_id": 977540,
+    "name": "Super Hero Fight Club: Reloaded",
+    "release_date": "2018-12-27",
+    "developer": [
+        "Incuvo S.A."
+    ],
+    "publisher": [
+        "Incuvo S.A."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "An epic, fast-paced action-brawl featuring Super Heroes, which you’ve never seen before in up to 4-player local gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/977540/header.jpg?t=1552905743",
+    "minimum_requirements": "OS: 7, 8 or 10 Processor: Intel Core™ Duo or faster Memory: 4 GB RAM Graphics: Dedicated GPU recommended Storage: 300 MB available space Additional Notes: Gamepad required",
+    "recommended_requirements": null,
+    "reviews": []
+}

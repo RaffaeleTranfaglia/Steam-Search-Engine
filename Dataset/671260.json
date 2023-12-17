@@ -1,0 +1,41 @@
+{
+    "app_id": 671260,
+    "name": "GOKEN",
+    "release_date": "2017-09-28",
+    "developer": [
+        "GIANTY Inc."
+    ],
+    "publisher": [
+        "GIANTY Inc."
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Action RPG"
+    ],
+    "achievements": 23,
+    "positive_ratings": 51,
+    "negative_ratings": 22,
+    "price": 11.39,
+    "description": "GOKEN is an action filled RPG where you're in the search for the lost five swords and maybe saving the world too.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/671260/header.jpg?t=1508462505",
+    "minimum_requirements": "最低: 64 ビットプロセッサとオペレーティングシステムが必要です OS: Windows 7(64bit), Windows 8/8.1(64bit), Windows 10(64bit) プロセッサー: Core i3 2GHz and above メモリー: 2 GB RAM グラフィック: GeForce GTS250 / Radeon HD5750 or better DirectX: Version 9.0c ストレージ: 5 GB 利用可能",
+    "recommended_requirements": "推奨: 64 ビットプロセッサとオペレーティングシステムが必要です OS: Windows 7(64bit), Windows 8/8.1(64bit), Windows 10(64bit) プロセッサー: Core i5 2.2GHz and above メモリー: 4 GB RAM グラフィック: Geforce GTX460 / Radeon HD6850 or better DirectX: Version 9.0c ストレージ: 5 GB 利用可能",
+    "reviews": []
+}

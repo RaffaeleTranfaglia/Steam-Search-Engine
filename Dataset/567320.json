@@ -1,0 +1,44 @@
+{
+    "app_id": 567320,
+    "name": "VThree",
+    "release_date": "2017-02-28",
+    "developer": [
+        "2xMilk"
+    ],
+    "publisher": [
+        "2xMilk"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 19,
+    "positive_ratings": 46,
+    "negative_ratings": 49,
+    "price": 5.79,
+    "description": "VThree is the low poly, atmospheric, fast paced first person platformer you didn’t know you needed. Run, jump, and wall jump your way to the top of the leader boards, snagging platinum achievements along the way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/567320/header.jpg?t=1511330813",
+    "minimum_requirements": "OS: Windows 7 Processor: 2GHZ Dual Core Memory: 4 GB RAM Graphics: NVIDIA GTX 580 / Radeon HD 6950 DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2GHZ Dual Core Memory: 8 GB RAM Graphics: GeForce GTX 760 DirectX: Version 11",
+    "reviews": []
+}

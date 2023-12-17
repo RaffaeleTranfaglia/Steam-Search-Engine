@@ -1,0 +1,42 @@
+{
+    "app_id": 391140,
+    "name": "Blast-off",
+    "release_date": "2018-01-22",
+    "developer": [
+        "Quad-Games"
+    ],
+    "publisher": [
+        "Quad-Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 16,
+    "positive_ratings": 59,
+    "negative_ratings": 4,
+    "price": 7.19,
+    "description": "Blast-off is a hardcore jumper/runner/shmup, where your alter ego will be a ball of anti-matter seeking to leave our Universe. Anti-matter is extremely difficult to exist in our universe, because when it contact with matter it annihilates.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/391140/header.jpg?t=1556099263",
+    "minimum_requirements": "OS: Windows XP or higher Processor: Intel Core i3 Memory: 2 GB RAM Graphics: Intel HD 4600 DirectX: Version 9.0c Storage: 180 MB available space Sound Card: Windows compatible",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel Core i5 Memory: 4 GB RAM Graphics: nVidia GeForce 660Ti DirectX: Version 9.0c Storage: 300 MB available space Sound Card: Windows compatible",
+    "reviews": []
+}

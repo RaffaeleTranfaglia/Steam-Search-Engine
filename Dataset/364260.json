@@ -1,0 +1,42 @@
+{
+    "app_id": 364260,
+    "name": "Warlock's Citadel",
+    "release_date": "2015-10-09",
+    "developer": [
+        "Byte-UP Co., ltd."
+    ],
+    "publisher": [
+        "Byte-UP Co., ltd."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 32,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Fight your way through dungeons littered with dangerous traps, equip your character, learn various skills and spells, defeat hordes of monsters, and save the kingdom from a threats of evil warlock.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364260/header.jpg?t=1447372872",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.4GHz dual core (Intel Core i3 or better, AMD Athlon X2 or better) Memory: 2 GB RAM Graphics: OpenGL 2 compatible, 256 Mb RAM or better (e.g. Intel HD 4000, nVidia GTX220, ATI Mobility Radeon 4570) Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

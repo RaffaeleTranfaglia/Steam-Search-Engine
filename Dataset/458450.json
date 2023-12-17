@@ -1,0 +1,45 @@
+{
+    "app_id": 458450,
+    "name": "GAIN",
+    "release_date": "2016-06-14",
+    "developer": [
+        "Worldgame entertainement"
+    ],
+    "publisher": [
+        "Worldgame entertainment "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Stealth"
+    ],
+    "achievements": 3,
+    "positive_ratings": 16,
+    "negative_ratings": 32,
+    "price": 3.99,
+    "description": "The job is simple: Dont die! GAIN is an arcade style stealth game with perma-death. Freeze guards, slow time and collect the documents in seven frustrating levels without dying. Classic stealth game with no saves. Once you die, its back to the beginning....",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/458450/header.jpg?t=1465896844",
+    "minimum_requirements": "OS: Microsoft Windows 7 and above Processor: 2Ghz Dual Core Processor Memory: 4 GB RAM Graphics: 1GB Dedicated Graphics Card DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Microsoft Windows 7 and above Processor: 2.8Ghz Quad Core or Higher Memory: 8 GB RAM Graphics: AMD R9 270 or Nvidia GeForce 760 or Higher Storage: 4 GB available space",
+    "reviews": [
+        {
+            "review_text": "If you like stealth games, and hard difficulty, try to play it. 'Once you die, it's back to the beginning...' Short Gameplay - 2K [1440p]         YouTube™ Video:  GAIN - Gameplay - PC 2K [1440p]&nbsp;",
+            "review_score": "1"
+        }
+    ]
+}

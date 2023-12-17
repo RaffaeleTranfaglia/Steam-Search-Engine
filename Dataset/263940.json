@@ -1,0 +1,54 @@
+{
+    "app_id": 263940,
+    "name": "Red Baron Pack",
+    "release_date": "2016-01-07",
+    "developer": [
+        "Mad Otter Games"
+    ],
+    "publisher": [
+        "Mad Otter Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "World War I",
+        "Flight"
+    ],
+    "achievements": 0,
+    "positive_ratings": 37,
+    "negative_ratings": 14,
+    "price": 6.99,
+    "description": "The Red Baron flies again!Return to the classic Red Baron games with this digital collection featuring the original Red Baron, Red Baron 3D, the Red Baron Mission Builder and high-quality scans of the original manuals, maps and reference cards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/263940/header.jpg?t=1478022925",
+    "minimum_requirements": "OS: Windows (XP, Vista, 7, 8, 10) Processor: 1 GHz Memory: 512 MB RAM Graphics: 3D graphics card DirectX: Version 7.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows (XP, Vista, 7, 8, 10) Processor: 1.4 GHz Memory: 512 MB RAM Graphics: 3D graphics card DirectX: Version 9.0 Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "Some minor graphics problems (sometimes the colors on the screen go through an acid trip) but they are easily fixed by going back and forth on the menu.  All in all, an amazing game, great classic.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So much memories! And they work! Well, most of the time. Red Baron classic tends to screw up my joystick and softlock itself. Oh well. These games have the ultimate WW1 pilot career mode that is missing from The Rise of Flight. Take to the skies, shoot down the enemy machines. Get medals and promotions. Paint your plane and become a terror to behold. 10/10 would get a headache from oversized pixels all over again!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great classic!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Red Baron 3D doesn't work. Somehow conflicts with Windows. Wasted $8.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "app_id": 315130,
+    "name": "CO-OP : Decrypted",
+    "release_date": "2015-08-17",
+    "developer": [
+        "Pixelz Games"
+    ],
+    "publisher": [
+        "Pixelz Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Co-op"
+    ],
+    "achievements": 20,
+    "positive_ratings": 27,
+    "negative_ratings": 31,
+    "price": 6.99,
+    "description": "CO-OP is a 2.5D puzzle-platformer. You control two robots; R3D, who can absorb all the light sources around him, and BLU3, who converts that energy into an explosive power. They find themselves in what seems like a recycling facility, with drones analyzing their every move...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/315130/header.jpg?t=1447362861",
+    "minimum_requirements": "OS: Win 7 , Vista, XP Processor: 2.4 GHz Dual Core CPU Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 260 /ATI Radeon HD 5670 DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Basic sound card",
+    "recommended_requirements": "OS: Win 8, Win 7 Processor: 2.8 Ghz Quad Core CPU Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 /ATI Radeon HD 6950 DirectX: Version 9.0 Storage: 3 GB available space Sound Card: Basic sound card",
+    "reviews": [
+        {
+            "review_text": "Fun little puzzle platformer with great artwork! You're commanding two robots with complementing abilities through some kind of futuristic facility. One robot can collect energy from the environment, the other can use that energy to blow stuff up. One can carry and stack boxes to help its heavier companion reach higher platforms.  The puzzles are all fairly straight-forward, and the required platforming skills are pretty moderate. Both won't give a practiced player much of a challenge. Even the optional collectible orbs are usually so obvious that I didn't miss a single one on my first play-through. I wish there would have been some more difficult levels. There are plenty of game elements that could have been used to design some fiendish puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The buggiest game I have ever played, stay away.",
+            "review_score": "-1"
+        }
+    ]
+}

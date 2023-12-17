@@ -1,0 +1,46 @@
+{
+    "app_id": 708760,
+    "name": "Social Club VR : Casino Nights",
+    "release_date": "2018-06-21",
+    "developer": [
+        "Perilous Orbit"
+    ],
+    "publisher": [
+        "Perilous Orbit"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Sports",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 32,
+    "positive_ratings": 35,
+    "negative_ratings": 6,
+    "price": 15.49,
+    "description": "When you enter Social Club VR : Casino Nights you enter into a high-class Casino, where you can play your favorite casino table games, like Blackjack, Texas Hold'em Poker and Roulette. Play a private game with friends you know, or get to know people from around the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/708760/header.jpg?t=1545873954",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 980 / AMD Radeon™ R9 380 equivalent or greater DirectX: Version 11 Storage: 6 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 961620,
+    "name": "Flashback",
+    "release_date": "2019-02-28",
+    "developer": [
+        "Paul Cuisset"
+    ],
+    "publisher": [
+        "Microids"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Retro"
+    ],
+    "achievements": 12,
+    "positive_ratings": 31,
+    "negative_ratings": 2,
+    "price": 8.99,
+    "description": "FLASHBACK™, the hit action-adventure game with over 2.2 million units sold, is back!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/961620/header.jpg?t=1554473858",
+    "minimum_requirements": "OS: Windows 10 Processor: 2 Ghz Memory: 1 GB RAM Graphics: 512 MB DirectX: Version 10 Storage: 204 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

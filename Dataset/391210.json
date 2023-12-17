@@ -1,0 +1,49 @@
+{
+    "app_id": 391210,
+    "name": "Arclight Cascade",
+    "release_date": "2015-08-25",
+    "developer": [
+        "Hexdragonal Games"
+    ],
+    "publisher": [
+        "Hexdragonal Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "4 Player Local"
+    ],
+    "achievements": 23,
+    "positive_ratings": 25,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "In the Arclight Arena, you fend off Glass Drones and other Player Pilots by swiping and slashing them away in glorious 4-way Sabre clashing combat!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/391210/header.jpg?t=1494003607",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2.3 GHz or AMD Athlon X2 2.5 GHz Memory: 1 GB RAM Graphics: NVIDIA GeForce 8800GT or AMD Radeon HD 3830 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7/8.1/10 Processor: Intel Core i5 2.5 GHz or AMD FX 4.0 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 or AMD Radeon HD 7750 Storage: 400 MB available space",
+    "reviews": [
+        {
+            "review_text": "Nice casual arcade game. Kinda like Asteroids with a sword and you gotta hit things into a certain area. Just move around and swing your mouse like crazy. So much satisfaction when you get the Grow powerup and hit everything with one swing :) If you're mad, great stress reliever. You can also change the speed Problems naming first player, too many extra letters to choose from.",
+            "review_score": "1"
+        }
+    ]
+}

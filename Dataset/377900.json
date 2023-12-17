@@ -1,0 +1,45 @@
+{
+    "app_id": 377900,
+    "name": "Empire TV Tycoon",
+    "release_date": "2015-10-20",
+    "developer": [
+        "Dreamsite Games"
+    ],
+    "publisher": [
+        "Dreamsite Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Management",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 43,
+    "positive_ratings": 520,
+    "negative_ratings": 169,
+    "price": 6.99,
+    "description": "Empire TV Tycoon is a game in which you manage a TV channel and fight for audiences taking decisions that will project your channel to fame and fortune.You will decide the content of your channel, select advertisers, hire workers, make your own productions, hire actors, and engage in much more activities!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/377900/header.jpg?t=1464983596",
+    "minimum_requirements": "OS: Windows XP Memory: 4096 MB RAM DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

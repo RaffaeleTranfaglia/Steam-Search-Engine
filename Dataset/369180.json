@@ -1,0 +1,49 @@
+{
+    "app_id": 369180,
+    "name": "SoulCraft",
+    "release_date": "2015-06-01",
+    "developer": [
+        "MobileBits"
+    ],
+    "publisher": [
+        "Headup Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Casual"
+    ],
+    "achievements": 41,
+    "positive_ratings": 45,
+    "negative_ratings": 50,
+    "price": 3.99,
+    "description": "Humankind is on the brink to discover the secret of eternal life. Fearful of their existence, angels and demons make a pact to proclaim the apocalypse enabling them to materialize on earth and fight the humans.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/369180/header.jpg?t=1478537488",
+    "minimum_requirements": "OS: Windows XP Processor: 1 Ghz Memory: 1024 MB RAM DirectX: Version 9.0c Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is obviously a cellphone/tablet port. That wouldn't be a bad thing. However, the original game was obviously a classic free2play bait where the difficutly rises faster than your ability to fight. Pretty soon, you have to buy more powerful weapons and abilities, rather than wait for them to unlock in the course of the game. I personally hate this kind of games and it's reason enough for me to rate them abysmally low. Here, however, we have something worse. The whole thing got ported without the f2p feature, so without an option for you to buy more stuff. You get gold every day, if you navigate to the proper button, yes. But I'd like to play a game when I'm in the mood, not having it sit on my hard drive for a week just collecting the daily 'gifts', just so I can afford a decent attack and progress.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is a port from android version. There is a bug with daily gold claim, also the model was pay-to-win. At android version you need to pay real money in option to advance more your character and to gain strongest weapons. In pc version you gain to slow gold. There is no opton for paying real money to purchace gold. The only option u have is to play the dayly quests and u gain every 5 quests about 50-60 gold. I do not recoment this game or any game for this reason. Pay-to-win model is not fun for gamers.",
+            "review_score": "-1"
+        }
+    ]
+}

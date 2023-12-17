@@ -1,0 +1,35 @@
+{
+    "app_id": 765100,
+    "name": "Labirinto",
+    "release_date": "2018-01-09",
+    "developer": [
+        "Iriya72"
+    ],
+    "publisher": [
+        "Iriya72"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Labirinto this is a simple game in which you need to get square to the other end of the maze.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765100/header.jpg?t=1515554742",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core CPU 2.4 gHz Memory: 2 GB RAM Graphics: Intel HD Graphics 4000, Nvidia GeForce 8000, ATI Radeon HD 4800 Series Storage: 100 MB available space Sound Card: Windows Compatible Card",
+    "recommended_requirements": null,
+    "reviews": []
+}

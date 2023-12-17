@@ -1,0 +1,41 @@
+{
+    "app_id": 546170,
+    "name": "Gem Forge",
+    "release_date": "2016-11-01",
+    "developer": [
+        "Bogemic Games"
+    ],
+    "publisher": [
+        "Bogemic Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Match 3"
+    ],
+    "achievements": 24,
+    "positive_ratings": 21,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "An addictive puzzle game where you need to move and merge gems of the same type. The game is similar to the games like Threes! and 2048, except there is no numbers here, but gemstones.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/546170/header.jpg?t=1555520602",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 Ghz Memory: 1 GB RAM DirectX: Version 11 Storage: 34 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

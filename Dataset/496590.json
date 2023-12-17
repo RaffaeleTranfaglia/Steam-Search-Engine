@@ -1,0 +1,48 @@
+{
+    "app_id": 496590,
+    "name": "Crystal Cosmos",
+    "release_date": "2016-07-22",
+    "developer": [
+        "Sea Beast Productions"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 25,
+    "positive_ratings": 25,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Crystal Cosmos is a side scrolling color-based space shooter. You need to match your ship's color to your enemies color in order to destroy them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496590/header.jpg?t=1519290808",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 2 GB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This shoot them up is really beautiful. The game is a question of color. You have to kill the enemies with the right color and the most difficult part, it is when the ennemies are a combination of the basic colors... you have to find which colors are right to kill them.  The story? The Universe is in danger, Chaos became stronger and kicked you in the ♥♥♥. You are playing the Law, you need to train, to learn more tricks and when you will be ready, you will push Chaos to its place and find the right balance for the Universe.  ",
+            "review_score": "1"
+        }
+    ]
+}

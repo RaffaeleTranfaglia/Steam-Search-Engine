@@ -1,0 +1,37 @@
+{
+    "app_id": 1035640,
+    "name": "I Support Breast Cancer Research",
+    "release_date": "2019-03-15",
+    "developer": [
+        "SUPPORT"
+    ],
+    "publisher": [
+        "SUPPORT"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Relaxing",
+        "Top-Down Shooter"
+    ],
+    "achievements": 10,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "The Breast Cancer Research Foundation is an independent, not-for-profit organization which supports clinical and transnational research on breast cancer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1035640/header.jpg?t=1556189694",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: CPU with SSE2 instruction set support Memory: 4 GB RAM Graphics: DirectX 9 - Standard on-board GPU DirectX: Version 9.0 Storage: 100 MB available space Sound Card: Standard Sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

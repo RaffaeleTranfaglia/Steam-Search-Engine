@@ -1,0 +1,673 @@
+{
+    "app_id": 238370,
+    "name": "Magicka 2",
+    "release_date": "2015-05-26",
+    "developer": [
+        "Pieces Interactive"
+    ],
+    "publisher": [
+        "Paradox Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Magic",
+        "Co-op",
+        "Adventure"
+    ],
+    "achievements": 47,
+    "positive_ratings": 4873,
+    "negative_ratings": 1382,
+    "price": 10.99,
+    "description": "The world’s most irreverent co-op action adventure returns! In the next chapter of Magicka, players ascend from the ruins of Aldrheim to experience a Midgård almost wiped free of Wizards after the Wizard Wars, with the few that do remain having either gone mad or extremely hostile toward all...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/238370/header.jpg?t=1552039729",
+    "minimum_requirements": "OS: Windows 7,  8 or 10 Processor: CPU: 3GHz Dual Core (Intel Pentium G3220 or higher / AMD A4-4000 or higher) Memory: 2 GB RAM Graphics: Nvidia GeForce 550 or better / ATI Radeon HD 5850 or better Storage: 3 GB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": "OS: Windows 7,  8 or 10 Processor: 2.8GHz Quad Core (Intel Core i5-2300 or higher / AMD A8-3850 or higher) Memory: 4 GB RAM Graphics: Nvidia GeForce 640 or better / ATI Radeon HD 6670 or better Storage: 3 GB available space Sound Card: DirectX Compatible Sound Card",
+    "reviews": [
+        {
+            "review_text": "Absolutely inferior to the first game in every way except graphics and stability. Still pretty good, just has a bad case of sequel syndrome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have seen a lot of people giving negative feedback in reviews about Magicka 2 because they think that the spellcasting system is a worse version of the first game. This is simply not true. There is a distinction between Devs making deliberate balance and gameplay choices and removing features for the sake of removing features. Yes, there are many things that have changed and that have been adopted from Wizard Wars, but in my opinion a lot of these are not worse or better, they just change the way the player plays the game. Going over the comprehensive list of changes I've seen since the first one and why it's still a great game:  - Spellbar nerfed. The elements that used to combine to one in the spell bar don't. This is the most major complaint I've noticed. However, the only thing this affects gameplay-wise is that lightning no longer works in the same spell with steam (intended effect), and lightning no longer works with ice (side-effect and a combo I actually miss). Nor can you cast 5 of steam or ice. This is obviously a balance choice designed to make it so that you cannot give wet status and deal double lightning damage to a target in the same spell cast. It's essentially a general debuff to wizard damage and makes the max amount of button presses per spell always 5.  - Enemies are are buffed. Enemies move at you faster, are more accurate, have clever skills such as trapping you with walls and can swarm you easily. Noticeably enemies that chill you among groups seem to be pretty deadly if you don't remove it fast enough. There is more focus on finding the correct element to blast enemies with as they all have special weaknesses that take them out quickly.   - Magicks nerfed and made easier to cast. There is now a hotkey system for magicks that makes them quick to cast and works on its own cooldown, and you can still manually cast magicks which also has a seperate, short, invisible global cooldown. The two methods can be used simultaneously to cast two magicks in quick succession. There are also a lot less magicks in the game than the first one. Some are still OP (looking at you dragon strike and thunderhead). You also get a little familiar should you so choose that revives you on death in singleplayer/multiplayer which itself can also be revived with the revive magick, giving effectively infinite lives. Push as a standard move (casting without elements conjured) has been changed into a Magick.  - Movement is buffed. You can now move while casting spells; this can be hard to get the hang of at first, but is crucial for being able to kite and fight the now more challenging enemies. You can also heal while on the go. One of the more effective ways I've found to heal now is no longer setting up life mines but instead standard casting a rock element with four life element no charge at your feet for quick powerful heals.   - Weapon Enchants are buffed. Enchantments that include projectile, beam, and shield type spells work similarly as a one time cast, but spray type and lightning type spells now remain on your weapon no matter how many times you swing with it, unless you come into contact with an element of opposite type or have it 'nullified' (more on that in a bit).  - Resistances are reworked. No longer does one resistance level of an element cause complete immunity to it, nor can you give your resistances to others by proximity. It is now on-self and staged in power, requiring more thinking/investment into certain defenses. One resist simply reduces damage. Two removes the harm of status effects, chilled, shocked, burning, frozen, and wet and further reduces damage. Three grants immunity to damage of the type. Four gives you major absorption to the damage type. This means for example should you choose to shield four death, yes you will be able to heal while spamming mines on your opponent, but you will be significantly weaker to physical damage due to not being able to add as much rock or ice armor to yourself.   -Some spell modifiers have slightly less representation. Things such as adding more fire to a fireball, won't cause the radius of the fire explosion after the rock lands to be larger. Similarly AOE attacks won't expand in size. Sprays and lightning retain this ability to grow in range. Other modifiers stay the same, like duration or more damage from adding same type elements.  - Lightning has been reworked. It has increased in spell priority to equal projectile type. Since lightning cannot be used with projectiles rock or ice, there's no info on which is higher. This means that beams no longer carry lightning but lightning instead carries beam element types. It also means that lightning mines are no longer available but instead create a kind of life or death vortex wall. Lightning also causes less stun than before.  - Water knockback nerf. Water element knockback and knockback in general are greatly reduced but still workable. I still use it to keep enemies at bay and for wet status. Mines also don't send you flying nearly as far but some enemy attacks do. This can be frustrating as you can't que spells while in mid-air, something they should change.  - Rock reworked. Charge time greatly extended and distance at low charge reduced. Happens to be a high damage option given that other high damage options are nerfed. AOE Attacks that include rock are particularly powerful since they can be spammed quickly such as water rock death fire (also strong standard cast). Or weapon enchantments like rock death fire x3. Using a single rock in standard cast attacks seems to be best for range and charge.  -Ice has been reworked. Granting yourself ice armor does not cause as much damage with the thorns effect and it also has less damage radius. Ice shards remain powerful. Ice walls and armor now reflect beams, making them much more useful.  - Shields reworked. They now work on a timer that cannot be extended, allow for movement through the barrier, and still protect against beams and sprays, but do not suffice against projectiles which pierce straight through now. The shield dome - shift-middle mouse - now causes a 'nullification' effect, where it removes enchantments from your weapon, prevents you from adding more while inside it, and also removing and preventing the effect of status ailments on you, chilled, burning, wet (big bonus there).  - Crossing life and death beams in Co-op. Now creates a 2000 damage blackhole. Able to be resisted with death resistance and a great cheesy damage technique. Risky without resistance. Life, death, and cold elements also appear to have kept the same qualities from the first game.   On a side note, the campaign feels a little bit shorter than the original, and the humour and references, while still great hadn't tickled me as much this time around. As a plus, the boss battles are all more interesting than before, and enemy type design is more creative. It's a lot easier to hop into a game with friends or complete strangers, and playing through in co-op makes it miles better. If you are a die-hard Magicka 1 fan, and these changes don't sound good to you, stick to Magicka 1. If you're on the fence, get it when it goes on sale. All in all, in my opinion these changes make it a more mobile, defensive, challenging, and strategic game. I have a great deal of fun playing it and look forward to future related projects. Highly recommend it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "im new to magicka, never played the first one, so my review is only based in this one. I really like, i find it challenging and fun, but its not a game you will enjoy playing alone that much, and since there are more players in the first magicka, finding someone to play with is hard. Probably gonna try the first one some day, but until now this one is pretty good. Worth the money :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've never played any other games in the series, so I can't make comparisons to previous games in the series. But just as I experienced it, the spell system was exhilarating, and exploring more of the seemingly infinite combinations kept the game refreshing. The spell effects are satisfying: if you combine poison and ice, you get poison icicles!  The only criticism that I'd have is for the solo mode. Solo play is smooth for the most part, but it can be a bit frustrating when you're stuck on one particular part of the story. They have made it so that you are pretty much guarenteed to win eventually, but the worst-case scenario is ressing, doing a quick W-A-[space], and then dying again (repeat) without causing much damage at all. It's more noticable when the enemies have health regen, e.g. in the harder difficulties.  Magicka 2 is fun to play with friends. (Sorry Bob, that high-velocity rock to the back of your head was an 'accident'.) The online community is great as well—you might be worried that there'd be trolls all over the place, but most people are reasonable and cooperative.  Recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finished the single-player with other 2 friends, it's fun! I'd recommend disabling the companion as this trivializes a lot of the content, we ended up doing so half-way through the game.  So what is Magicka 2? it's a 1-4 player action spellcasting game with silly jokes and cultural references, you have 8 spells to combine in creative ways, want mines that heal you? combine 'Shield with Life' want to throw a fiery rock? Rock and Fire will do the trick! and so on...  They seem to have simplified the game a little bit, I assume this is because there's now a console version to worry about which might dissapoint a lot of fans of the original game.  So do I recommend giving this a try? yeah, for the asking price it has enough content and fun to get you through it, however I felt that the first game had better story/humor and was lenghtier but at the same time it was a buggy mess, crashed a lot and the netcode was broken.  Give it a go if you have friends to play this with! it makes for a fun weekend of chaos! ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IT HAS BEEN PERFECTED AFTER THE NEW PATCH",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good sequel, it has to be noted that earlier complaints about QF and QR not combining to make their respective elements has been changed, in fact we now have a third 'extra' element in the form of QS.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's an amazing game, if you loved magicka 1 you'll love this one too. Just give it a chance! Altough I had trouble setting up online play because of my antivirus (Bitdefender) it was worth it. It's a great game, where you can murder your friends on accident or less 'on accident' :P You might have to get used to the fact that you can run and cast spells at the same time, I ran of a cliff a few times :P  The story is not that long but you can somehow change it using artefacts, and there also are a ton of challenges.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I recommend this game, but not very strongly. It's a magicka game, but it plays little like the first one. Something about the controls makes it feel off and I can't put my finger on how to fix it. Another major difference is that this is hordes of enemies, all the time. I don't know if the number of enemies scales off of how many peopke you have but with 3 people it was impossible to stay alive for more than a minute. There is lots of the same mini-boss at times, along with constant hordes of enemies. Also there is much less veriety in the weapons available to be picked up, where as in magicka 1 almost every weapon that wasn't bigger than you were was able to be picked up. Overall it has the humor of the original, but not close to the level of gameplay, and that fact is going to couteract the humor, extremely funny as it is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;Buys Game &gt;Game on sale 1 week later  10/10  Onto the real review  IT'S A DIFFERENT GAME It takes some from Wizard Wars, some from the first Magicka game, and then puts it together is a fairly harder game for a lot of fun! Also the multiplayer isn't completely broken!  Completely.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game has been patched. It's amazing now. I don't consider it better or worse than Magicka 1. The spells are simply balanced differently.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a great improvement over the first one in almost every way.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "More Magicka. If you liked 1, and aren't burned out on it, get 2. If you didn't like 1, or just don't want to play more 1, don't get 2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Regardless of all the negative reviews at release , the game got the updates to fix mostly of the problems or missing features .  +Funny and enjoyable as Magicka 1 +You are still an overpowered wizard who can kill your teammates with one shot +Added the missing elements from the release (ice / steam ) +Now added poison element +Added server browser to find open lobbies  -Shortcut for magicks -No vampires  It's time to get the game , you will not regret",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok things changed for the better, still half way...  Now these are the main points that i hate: -the enemys make the game unbalanced for single player, which brings me to the last point -magic, with lots of reason (if you like wizzard wars magic you are fine but for a magicka player who hated wizzard wars spellcasting) these are the main reason: -the spells with more different element are less powerfull than the simple ones (one element) -you CAN WALK TROUGH SHIELDS, why? -armors are weak, increadibly so -protection auras with multi element are useless, completely -magicks hotkeys are not necessary bad but are completely useless since you can do them with elements without cooldown (for me a least is faster to press 'w+a+space' than '4', and for longer spells is still useless, in magicka the SEDQFS i could cast it five times in 1 second and i got good with training, thats why i got stronger not macros) -cooldowns on magicks without hotkey a second or so (doesn't seem much but it's still annoing) -and there is little other things, but these are the main.  Now the good things. -more magicka story (the story at least feels like a sequel, not the best but good) -the single element aura (ESSSS for example) can absorb the element for healing -graphics  Now the changes that improved the game (that for some reason we had to wait to get): -the priority of lighting over arcane/life has returned (all hail to the lightning beam) -steam and ice are back (but without the lightning water trick, if you know what i mean) -and the new poison element (S+W), it works the same as ice and steam, so we have the 3rd water element -so now we have all the magic back, with more than before (now this is a sequel, with MORE magic than the first)  Still some damage balnce issues but a lot better than before. I personally still prefer the first but now this is a good game, finally. Still missing PvP cause wizzard wars is no more......",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It was hard for me to figure out the controls so i could assist my friends properly, i just caused them more trubble! But realy like the concept of the game. Havent played Magicka before, perhaps i´ll take a turn in the time-line and visit the first game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game but isn't quite as good as the original was but still worth it to play with friends!                        If I had any... ;-;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I initially wanted to refund this game because it was so unlike the first part, and now i'm glad i didn't. With the recent big update it finally feels like a sequel to Magicka and i really enjoy playing it in local coop!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After beating the game, i had to change my mind.  I'm a big fan of the Magicka series, i played 60+ hours of Magicka. This one did not disappoint me.  I'm gonna make a quick rating about every peice that makes this game into what i think it is:    - Singleplayer Campaign: 9/10  Good. Of course it's impossible to beat without knowing that you can revive your fairy, witch i did not.   - Gameplay 8/10  There was LOTS of changes from Magicka 1 to this one. I'm of with the strafing, it's kinda neat, but one of the things that bug me is that i can't combine steam with lightning, (trust me, that's all i did in the first game) and cooldowns really makes the game annoying,    MAGICKA IS ALL ABOUT SPAMMING, THERE IS NO REASON FOR COOLDOWNS!      - Soundtrack 10/10  I always loved magicka's music, and my opinions about it will never change. The soundtrack is amazing, better than the first one.   - Graphics 9/10  The graphics are nice, they are a lot enhaced, comparing to the first game.   - Humor 11/10  Just like the first game, it's hilarious. Final rating: 9,4/10  For someone who really loves the series this game is great. &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so hilarious with friends. The spell combinations keep me coming back for more, although after completing the main mission I feel like there's not much to do except re-complete it under a high difficulty with different robe and staff combinations. Still, it was a good 20 hours of fun. Gameplay consists of mashing the speed spell while reviving your teammates (who are the only ones doing any actual work) and praying that whatever abomination is chasing you doesn't finish you off.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It may have had a rocky start, but this is definitely magicka........for better or for worse.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I pre-ordered this ♥♥♥♥. I AM SO PROUD WITH MY EPIC DECISION",
+            "review_score": "1"
+        },
+        {
+            "review_text": "hello,can i play this with my friends?like only on my acc",
+            "review_score": "1"
+        },
+        {
+            "review_text": "MAGICKA 2, I don't really know why the people hate this game so much. I've completed the 1st part (and had so much fun playing local co-op) so far and the 2nd just amazed me. +The graphics are exellent +There are a lot of different monsters, bosses, artifacts spells and equipment (robes and staffs) +Slowly gets boring +You need a lot of time to unlock all the content and pass all the challenges +You can blow up your friends +The controllers are easier to use But... -The community is often rude and kicks you out of the game, instead of telling you, you should go -SOMETIMES is buggy -It is hard to complete a chapter (level) alone -Local multiplayer works only with the Microsoft controller, so if you don't have it, you can play with your friends only by Internet -The steam and ice elements can't be summoned anymore (by connecting fire and water or frost and water) I recommend Magicka 2, I have a great time still playing this game. It is worth every money (but you can also buy it on sale :D).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is a fun, yet different successor of the previous game. To play the campaign was enjoyable yet disappointing compared to the original Magicka, which had some enexpected twists and turns and had a much more fleshed out world. The references gets a little bit old, and I expected much more from the story. The gameplay is quite slower and easier, which I dislike. The spell system has been reworked for the worse, with far fewer viable spells and only one good AOE spell, you only can do when you have a teammate, which would be OK concept if there were more than 1 of such spells. But the artifact system is great but could have been made more interesting, here I am comparing it with 'The Bastion' which has a much similar system where you pray to 'gods' that grants gold/xp bonuses to you but makes the enemies stronger in some specific way, or you weaker. But overall it was an enjoyable game, it does everything better than the original except story and gameplay. It does not however entice me with its lack of replayability, despite the artifact system.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're like me and you loved how Wizard Wars looked and played, then you'll enjoy this game. I've wanted Paradox to base their Magicka game with the style that Wizard Wars brought. Magicka 2 definitely reflects it pretty well.  My only quarrel with this game is that it's short. It's meant to be replayed, however, because there are difficulty settings for each of the 9 chapters.   Notice that my quarrel with this game isn't the 'dumbed down' spell casting. Admittedly, at first I thought it was very casualized, but then I started thinking about the first game, and how I only EVER used the one OP spell combo (FQASA). There wasn't ever really any reason to not use it, save for a couple of enemies using a lightning ward. Magicka 2 had me experiment with the elements again, and it was very enjoyable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game isn't exactly what i expected but it was still fun. the controls are different to the normal rpg based game which took me longer time to get used to. it's a bit difficult killing the stronger enemies while trying to summon lasers but meh, minor complaint",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sadly but Magicka 2 is worse than Magicka 1, I will be comparing Magicka 2 to the original Magicka.  So to start things off I will talk about the spell casting system :   Magicka 1 :  -combine whatever you want a deal massive damage and have lot's of fun killing everything -you need to remember magicks  -Vlad is not a vampire  Magicka 2 : -limited combinations, less dmg = less fun but makes the game harder and more challenging -you don't have to remember all the combinations for magicks -Vlad is absolutely not a vampire   Gameplay :  Magicka 1 :  -you can solo, have fun throwing around stuff etc. -funny situations and easter eggs -epic language in-game, that is mixed with a few of the worlds languages -Vlad is not a vampire  Magicka 2 :  -soloing is too hard -less funny situations and less cool easter eggs -language in-game stays -Vlad is FOR SURE not a vampire   Graphics  Magicka 1 :  -everything looks ok -Vlad is NOT a freaking vampire  Magicka 2 :  -graphics are improved and look better -Vlad is a Manpire  Summary :  comparing Magicka 1 to Magicka 2 I think Magicka 1 was beter but this one is also ok just less 'cool' in a way. Play Magicka 1 after Magicka 2 if you didn't play it yet. If you disagree it's alright, it's my personal opinion.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it is a ♥♥♥♥♥ punch game-10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Same fun casting and teamkilling with friends. Story seems to be a lacking a bit, but number of references makes it up quite nicely!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Magic 2 tagline of 'Learn to Spell Again' is absolutely right.   The tl;dr",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If Magicka got a nickle everytime I had a laugh in this game I would be homeless and broke.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finished the game yesterday. What can I say? The second part is great! Firstly, I like the plot of the game. This was really interesting. However, it's kinda short in my opinion. Thus, the gameplay is about 4 hours only. Im already waitng for DLCs ^^. Secondly, I like the customization options. Frankly, I think thats OP cuz you can increase only one element and kill enemies without a doubt (say hello to Wizard Wards). Lots of robes (say hello to Wizard Wards again). Overall, customization is fun and the game doesnt get boring. Thirdly, I like the new spells. THEY ARE AWESOME. The improved THUDER STORM IS SO SWEET. But I dont like the key combinations. Despite the fact that you got the quick cast panel you made combos so simple. Seriously guys FFDFF, QEQE, FFSAA? REALLY??!? DO I HAVE ONE HAND? I GOT BOTH SO ID LIKE TO PRESS SOMETHING LIKE FDFQDF OR QFDWFF. Also the new casting system is cool. So, you dont have to stop while casting. In a nutshell, the game is fun. And its worth 16.99$. I like the magicka universe. And this particular game is a good one. Totally recommended. Dunka Dunka. Thats is all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2: When you don't know what you fell about it after the 1st game  As for me, first part of this game was something special, you know. All that things with friends killing, spells learning, 'Not a vampire' jokes and so on made this game some kind of atmospheric for me, made me fall in love with it. And after all, 'Magicka 2' announcment, you scream out loud 'OH GOD, I CAN'T BELIEVE IT', but i can't get one thing, why it was released?   And my first claim is an awful spell control, u know, really awful! Absouluetly.  -Spell while you moving isn't comfortable -'1234' panel is one of the worst thing i've ever seen  -You can't cast a lot of great spells from magicka one  -And the last one. It's bad, just, uhmmm, really bad.   2nd claim. Story. For me that part of the game had never been so important, but it was kind of funny. You could just relax and walk through the adventures, then you could listen to Vlad stories cause he was the big part of the game, now i kinda feeling he isn't. And yup, I'm really disappointed cause of it. Big fat minus again.   And in the end there will be the graphics part. AND I KNOW. Nobody really cares about graphics in magicka, but now i don't like it dunno why. Maybe cause of all these parts in total, maybe cause it doesn't suit for the game.   PROS NOW:   -Now u can open robes and customize your wizzard  -It's still Magicka even if it's not good enough -Nostalgia  I will recommend it cause it's magicka. Well, if you like first part, u, probably, won't mind to play it, even if it's a way worst.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game How to play with friends: 1 - give your friends a controller 2 - tell them how to play 3 - look at their perplexed faces 4 - run in a safe location 5 - enjoy their more or less 'accidental' destruction power 6 - let them learn how to don't kill themself 7 - start a senseless pvp battle and lose the level 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I saw that the reviews were getting better since the initial release so I decided to give it a try. While I'm happy that the AI's difficulty has been upped since the first game, I abhor the spell cooldown system. A huge part of my enjoyment while playing the first magicka was spamming overpowered spells after having memorised each and every one of them. With Magicka 2, you can no longer do that.   Other than that, the game has been really entertaining for me so far, the storyline, humor, even better than the first game. Would probably be more fun once I play this multiplayer.  Edited (After completing campaign on normal difficulty, attempting some trials and challenges on normal and hard difficulties and collecting all magicks):  It seems that the idea of having a cool down for spells is actually for balancing purposes. After getting used to the controls, I feel like normal mode is easy as long as you calmly analyse the enemies' elemental resistance and cast the appropriate elements countering them. It is no doubt more difficult than the first Magicka so take some time to learn the elemental and spell interaction mechanics. Moving around is much more important as shield spells are no longer as strong as they used to be. Ultimately, I think this is actually better than the first Magicka although I still find myself soloing most things since many people will immediately kick you from their game without even letting you show your abilities to work as a team without blowing them up to bits in every battle.   Verdict: Get this game, especially if you have good friends who can play with you. Seriously, like 9/10 rating, for its price this is one of the most enjoyable games I've had in a long time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka is a great game to play if you are really into a adventure. It kind of takes some skill because you need to get in the habbit of using combos for fight situations.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/10 would kill myself and my friends over and over and over and over and.... I think you get the point.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 if you want a game where your teammates are the real enemies",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has been falsely accused for being too 'casual'.  I'll tell you all the truth right now: Today I saw guys who were telling everyone to not buy this game because it's bad but actually they've played this game only for couple of minutes and were stuck on chapter 1 at normal difficulty level cause they were terrible noobs and I assume you that most of all the negative reviews are written by noobs like these.  Either they are stuck on chapter 1 because their hands grow from their backs or they've decided to jump on a 'bandwagon of hate'. Some of those noobs who've played the game only for 20 minutes even dare to say that the game has only 4 magicks...  So, don't be tricked by those reviews and even if some will say that people who give positive reviews are just 'fanboys who defend game developers' don't believe them cause I'm not trying to 'white-knight' anybody here.  I'm just telling truth and if that's not enough for you to believe that me or someone else whose opinion is similar to mine is telling truth about this game just check my or their profiles and you'll see that they've played it for more time than any of those haters did. ---------------------------------------------------------- Now some review about the game itself: Most of the people are complaining about removal of overpowered magicks. What they actually want to say is that 'it's bad to kill enemies using tactics, thinking, escaping, defending' and they'd rather just use some overpowered magicks on enemies for it to be '1 second job'.  Judge for yourself what's better but as I think it's better to have real fun thinking than just watching enemies die in a seconds.  People say 'those hotkeys were made for stupid PS users'. Those hotkeys got recharge time and that's what people are mostly complaining about. Actually those recharges can be easily bypassed if you'll activate magicks manually.  Example: Pressing 3 to use thunderhead will take 3 seconds to recharge with basic set. But if you'll do FFSAA this'll make it activate right after it was fully conjured so everytime you use thunderhead with FFSAA you can just do FFSAA again and there'll be no recharge time and still you'll get that magick activated.  People say 'game is non-beatable on bananas alone'. Actually I completed game on bananas alone and even if that's hard it's still manageable because familiars that revive you can be revived too, if you'll not run like mad but watch your step and try to deal with enemy groups one by one you'll get your success.  Only thing that I don't like about this game is that it doesn't have much of a content. Sure there'll be more downloadable content and updates later but for now it's not much.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun co-op game, not as buggy as the original Magicka (which was to some extend unplayable) but it still has a few bugs nonetheless. It badly requires custom keybindings, and they should rather have released the console version first and finished up the PC version instead. Some cutscenes should have been cut down a bit and they should perhaps have tested the game on PC instead of only focusing on the console version.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "magicka 2 is very simiilar to one, but in this u make things that you couldnt before",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is alot of fun. Great for single player or co-op.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is way fun if you have a few friends to spare. The settings given in the game help ease the chage in gameplay for magicka 1 players as well. Highly Recommended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is fun I killed my friend he killed me then I killed him again  8 friend kills out of 10 friend kills",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not as good as the first, but still awesome!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm going to be as fair as I can. Do I recommend this game? Yes. It's an unique, adventure game that is a lot of fun with friends and the devs increased the replay value a little by adding multiple levels of difficulty to the   adventure   this time.  But I have to be honest on my feelings towards this sequel that I was looking forward to for quite some time. At the time of writing this review I have about 20hrs in game and almost 700 hrs in the prequel. I was clearly an avid Magicka player but I felt this sequel fell short of what made the original game 'magical' (pun intended).   Lets start with the spell casting. I miss the freedom and creativity of casting a multitude of varying spells at will to defeat my surrounding enemies in the prequel. Where as in the sequel I feel limited, weaker and as if I'm spamming the same spells because not much else works. Also the Magicks are no where near as impressive as in the original.  The challenge mode is another example of 'better in the prequel' and the missing VS mode is a disappointment and if Magicka: Wizard Wars is supposed to fill that void then... no thanks. I already had my fill on the sequel and not sure how much more time I'll spend on it.   I understand that this game was developed for the PS4 as well. Not sure if the changes were to make the game more controller friendly or if the devs wanted to manipulate how players played their game. In comparison this Magicka has lost it's touch.  ----Bottom Line----  Magicka 2 is a cool little game on it's own. But with it's prequel standing behind, it's easily overshadowed. Some may agree that Magicka 2 would make more sense as the prequel and the original it's sequel.   If you never played any Magicka game before I recommend this one because the online presence in the first game is almost non existent at this point.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a really fun game to play with friends  Phase 20 of the festival i can't figure out though, the 3 diablo enemies just keep healing each other and I can't do damage to them. But on one run, one of them died and I don't know how it did. Does anybody know how to kill them? ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Despite its flaws, it's still Magicka. Some of the best stupid fun on Steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "magicka 2 is a dream come true xD  yes it is not as good as the first one but it is still awesome xD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game expecting it to be terrible, but I was pleasantly surprised.  One of the things that worried me the most was that they were changing the magick system; I thought that because magicks are so critical to gameplay, having a cooldown or being limited in the number of magicks would change everything too much, but you actually have all magicks available at once, the hotbar is only there to aid in quickcasting certain things, this way you can cast resurrection while wet etc. Secondly, the cooldown is actually very low, especially if you do the magick the old fashioned way. The hotbar cooldowns are independent of the normal input cooldown, so you can use the two in tandem to let off magicks really quickly. I understand how the cooldowns can be seen as a pain in the ♥♥♥, but keep in mind that you get very powerful magicks from the start, so if you could spam like you could in Magicka 1, the game would be too easy.  Another thing that can be upsetting is the fact that steam and ice are not separate elements anymore, but this is honestly for the better, as the old steam-and-lightning-ray from the original Magicka made the game way too easy. In Magicka 2 you actually have to be adaptive in how you play and use different spells to take down different enemies.  As a result, the game is much harder than the first, but I think this is honestly a good thing. They send more varied enemies at you so you have to selectively shield yourself from different elements and you absolutely have to make use of your ability to walk an cast at the same time in order to survive.  The new system of robes and staves is also good because there aren't any overpowered robes like the cyber robe from the first game.  I actually think that despite some of my favorite things being missing, this game is actually better than the first one. The tagline 'Learn to Spell, Again' is very accurate, as this game plays completely different from the first. One of my only complaints with the game is the number of meme jokes they put in the game. They retained their good comedy from the first one, but they added way too many pop-culture references in between.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Comparing to Magicka 1, the quick cast greatly simplify the game for console players and new comers. However, Magicka 2 is still a challenging game to solo.  It is entertaining to become the best magicka (keyboardka) spamming spells. :D It is still a must have game for local coop",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super fun though challenging in some ways....like not constantly killing your friends. Challenge mode is a pain though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I find this game to be great to play with my GF on the couch. Would be great with roommates too, or friends when they come over (albeit you would need to be patient with them while they learn the spells).  It is fun figuring out the spell combos and how to get past some parts. This game is a puzzle game of sorts in that some strategies work well in some places, but not others.   Would rate 8.5/10. Coop camera and character control could be improved (PC). Would buy again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Only recommended if you have someone to play with.  A great looking game that is a lot of fun to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a really good game, those diverse skills attract me from the beginning, since I never played Magicka1, I don't know is it developed or not, but for those new player, It's will be a very good Multiplayer game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Was given this as a gift from my friend but I should of bought it sooner since this game is brilliant with the cartoony look but mature twist AND WIZARDS!  10/10 Best game i've played in a while",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some changes from magicka 1, some things could be a lot better, but still fun to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Me before spell balance update: grrr me after spell balance update: is good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great with a gamepad, not so much with mouse and keyboard. Funny like the last one, with references, silly writing and fake swedish. A bunch of stuff to unlock, like weapons, robes, robe colours, staves and spells. Spells are less tedious to cast than in the first game thanks to the quickbar. A lot of the overpowered combinations from the last game like the steam and lightning beam have been nerfed/removed. Singleplayer is no longer horrible thanks to a tiny thingjig that follows you around and resurrects you if you die. Once. Unless you resurrect it back.  Overall it's good. Unless you don't have a gamepad. Then it's not very good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As someone who's played dozens of hours of the first Magicka game without really delving into Wizard Wars before playing this, I actually recommend Magicka 2 overall.  Spiritually, I find it to be much the same as the original magicka, even if at times the puns and things seemed to be laid a little thick. But then I realize that some players might not be as thorough as I trying to find all the fun stuff that magicka throws in there for us. I LOVED the feeling of going through the world and going 'OH! This is where this happened in the first game!' It really made the game world feel like a static, solid thing and not just a backdrop for all the magical foolery this game is known for. Some of the secrets I've found in this game were really clever and some of them, honestly, I never would have found if it weren't for a misfired spell or six. I also loved some of the puzzles, and really hope they make some kinda puzzle map or something later down the road.  But when it actually comes to the gameplay, as someone who wasn't familiar at all with Wizard Wars there was definitely a learning curve involved trying to 'learn to spell again'. The changes to steam and ice most notably screwed me up until I found spells and a playstyle that suited me. Pairing steam/ice with lightning is no longer a thing, but I think that in light of the other changes in the game it's actually a good thing to not have 'one-hit wonder' type spells that are entirely self-sufficient. It's no longer a case of one-shot or get one-shot type combat, in most circumstances you'll have reaction time to save yourself and adapt to your circumstances. A few of the controls changed, which made it hard for me to rely on my muscle memory from Magicka, but it wasn't anything a bit of practice couldn't fix. Selfies were involved. But I hear they're going to allow remappable keys in the near future which is great, even if it's not a big deal for me personally.  Defensive magic and movement recieved a huge overhaul in Magicka 2 from Magicka and, imo, the sooner you master how to cast while moving the better off you'll be, as spells no longer encumber you NEAR as much as they used to, it's barely noticeable in normal play. But with the changes to solid-based defense spells (ice/stone walls and armors) you'll find that these spells more situational by comparison than in the first Magicka, given that they now have a duration based on magnitude and no longer protect you as completely as they used to. For non-solid based defense spells (fire, lightning, cold, etc.) they made them into scaling resistance based on magnitude that scales from resistance to immunity to full on absorption. These wards, as they're called in game, are an excellent reason why I think the changes to steam/ice are a good thing, because in a co-op setting it makes people choose from fewer elements (less slots, opposites) which makes it easier to defend against or even benefit from friendly fire, arguably one of the most frustrating aspects in the old game because the spells were so powerful you usually got instantly killed from multi-element assault.  Further, when it comes to personalization and choice within the game, I think the changes to the robe/weapon choices were monumental. When I played co-op I HATED finally finding the tesla staff in the campaign, dying and being almost guaranteed to lose it forever because combat would blow everything everywhere/cliffs involved. But now, you find something in the world and you unlock it permanently to be used whenever you want in something of a loadout system that can be accessed from the main menu of the game, so that if you die you spawn with it in hand, ready to rock. ♥♥♥♥ing awesome. But more over is that these choices of wardrobe actually have a huge impact on your playstyle, much more so than before, imo. They grant great power, but limit your ability to perform with other elements, which I think is a thoughtful twist that I personally like. It makes me problem solve on the fly and see how far I can take one or two main elements.  The only thing that's gotten me any kind of irritation is the somewhat buggy co-op. It's not often, but there are times when I get randomly dropped from a game with my friend sitting a room over from me while we're in menu setting up a game. I'm not sure what the root cause is, but it's not happened when we're actually in-game, thankfully. I'm not sure what the deal is with unlocks either, as some of them, no matter how many times we brought an item with us to the end of a level, just wouldn't unlock, so I presume they're barred by difficulty? In the event they're not, though, I find it highly irritating.  I also found the story, while interesting, to be somewhat shorter than what I had anticipated. Maybe it just felt shorter because I tore into it like a kid at Christmas, but it felt like...it was missing an element of epicness that the first one had somehow. Most of the time in the story I was just going 'WTF vlad', because some of the things he did (no spoilers) simply didn't make sense to me. I hope they'll do another 'other side of the coin' type deal to expand on that.  All in all I know this game will keep me busy for a while and I recommend it to anyone willing to give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "my gameplay: #1 started game #2 game crashed #3 game crashed again #4 got to main menu #5 spent like 5 hours learning how to play this game #6 joined a multiplayer game #7-#20 got tked over and over #21 finally reached the boss wit my team #22 ♥♥♥♥ BLYAAAAAAAAAAAAAAAAT and evryone left #23 i was left alone to fight boss winch i cried and faped too at the same time #24-69 kept on dying #70 rage quited #71 unistalled the game  #72 shot myself in the head with toy gun #73 i gave up on school and life     10/10 would get tked again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although it is definatly not as good as the first game (which is amazing btw, you chould go buy it)  It is still a good game and is deserving of a positive reveiw, magika fans will be alittle dissapointed, but will still enjoy very much.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lot of people are complaining because they made the game harder. This game is meant to be played with friends and its suppose to be a challenge. The first game anyone could mash the keyboard and hope to win, but now that there is some thought in what a player does people are freaking out. I think this game is worth it and I'm having fun playing it. One persons comment stated 'can't queue spells while in mid air'.... No ♥♥♥♥ you got knocked off your ♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When you glance at first, there is a big difference between Magicka and its sequel. Ice and Steam are no longer their own element. Quick bind keys for Magicks, making memorization pointless. Lightning has precedence over arcane (which is now death) meaning no lightning lasers or ♥♥♥♥ mines. Also, no giga ice swords. But, all of these actually made the game insanely easy. Spamming mines in a corner and teleporting with a premade sword made it quite easy. With cooldowns and comboing and proper elemental usage taking importance over strong spells, I feel like its improved a bit.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliantly fun game 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so much fun. It's absolutely incredible. :')",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is a simple concept with a fun story, great characters. Its querky and enjoyable with refrences jokes and secrets everywhere! All kinds of cool things to find to customize your wizard. But oh no! its dangerus out there you could get killed! Dont wory! just plug in a controller and play with up to 4 freinds and have great fun, after you stop killing each other, Geez... guys theres an arena mode for that. Then once youve completed the story. Play it again. but look for secrets in places you would never have checked, then play waves or trials or challenges or get the special challenge pack dlc if you love it that much. All in all magicka 2 is everything you could hope for in a game like this. 'fun'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "HOLY ♥♥♥♥! this game is super hard! play it with friends or it becomes nearly impossible!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At it's core, it's still Magicka. It still has the amazing spell-casting mechanic, the frantic combat complete with accidentally killing friends. There have been some changes to how a few things work, but they're fairly minor and easy to get used to. I'd say if you enjoyed the first Magicka, this one offers more of that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, i need not say more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "All of the fun of the original with some improvements, especially for anyone using an XBox-style controller. It plays great for co-op, and my child and I play it nightly (she's under 6). The various game modes and DLC are all worth it, and co-op, especially local, same-screen, is awesome, as is the ability (should you desire) for others to join your active game. We made a lot of progress on the Single Player game (which unlocks new 'Magicks') with the help of a lot of other gamers out there, which was a nice change.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome soundtrack, funny jokes, lot's of easter-eggs, like in magicka 1.  The controls have changed, some elements work differently, personally I think it's more logical now, and also more balanced. There is no key bindings option yet, but they say it's coming.  One real negative is: you can't access options from in-game. You have to quit to main menu to do that...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutly fantastic game. I loved this game so much i 100%ed it.  10/10 Highly recommend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I finished yesterday the adventure on banana difficulty, here are a few observation : 1- With the right staff, the game is a breeze (except for the constant one shot kill) 2- Robes' effects are negligible, too many things murders you instantly (goblin bombers, trolls) 3- Armors are even more important, a good armor in the right situation can save you lots of problems. 4- I haven't found any way to stop the green type of damage (even life absorb did nothing) Also, if you can't finish the game on solo in hard difficulty or even normal and complain that it is too hard, then I am sorry to tell you, but LEARN TO SPELL...   As far as solo goes, you can swap robe quickly at each checkpoints (simply reach a checkpoint, quit, change your equips, then go back to adventure).   If you are in a group, you only need one strong arcane user and one strong ice user to wreck the content. Arcane is strong against any living creature, so far, there is no real use of undead creatures, so arcane is strong against anyone except for fire mobs (somehow resists arcane ?). Since fire mobs are weak to ice, then just have a strong ice user. A healer might be a good idea, since many staves reduce life magic. Life + Arcane cross beam is useful too.  All in all, the game is not difficult if you know how it works, you MUST move while casting. The keybinding just came up, a bit rudimentary, but I can live with it for now.  Lastly, I found a single irritating bug, which is a problem with the Y axis (a beam going through an enemy because some derping on the Y axis), but if you using an AoE instead of a beam or a projectile, you'll be fine.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is really nice game they changed the spell system abit so that old op spells cannot be used anymore. I got 2 crashes while playing the entire game, magicka 1 used to crash alot :D  the only problem i had with Magicka 2.  The story was waaaaaaay to short. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think a lot of the other review are unfair.   Yes this game is different, but thats the nature of sequels. If it wasnt different you couldnt justify spending another $16 to get a game thats the same as one you already have. Its different and thats OK. It will take getting used to.  Magicka 2 is still has a very versatile spell casting system, its still hilarious, and it has better online support.   I look forward to playing more of this game.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So, from what I have played, so far, this is a very interesting game. It has a spell combination system that encourages you to test different combinations, although you will eventually just find something that fits your playstyle best. The fighting is pretty simple, but very fun. If you can stick with it, it will treat you very well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is cool",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2!   PROS: - Spellcasting is awesome - Hilarious voice-acting &amp; story - Unlocking robes, colours, weapons, staffs is far more rewarding than buying DLC (Magicka 1). - DUNKA DUNKA  CONS: - No serverbrowser, which is just plain stupid.   Verdict: 8/10. Put on your robe and your Wizard hat again, it's far better than Magicka 1 was at launch.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'll say now, I’m glad I paid the $25 for the deluxe even though it’s not released yet. I played through all of the Sneak Peak on the highest difficulty (Banana), got all the unlockables (so far), and I cannot wait for more. 'Killing your friends? You’re doing it right!' was the moto for the first game, this one is much more 'team-based' for the harder modes (which isn’t a bad thing!) It allows you to enjoy your first time around just doing whatever, whether it be killing your friends, to healing or helping the minions and then killing your friends.. The next few times through (I’ve found) that you look for the unlockables... then kill your friends. And as you increase the difficulty it becomes more and more team based and you actually need to think about the correct answer to solving a puzzle. The first Magicka game set the bar high for the ones to come (MWW and this) and so far I’m liking M2 so much it’s going to break my rating scale... But, this game did have 2 down sides when playing it... The first on being, at Banana Mode you need to work WITH friends (and if you've caught on you'll know I don’t have the best of times doing that) the second being that the replayability factor is a little low for me... After beating it on each difficulty and unlocking all the unlocks, and even beating challenge mode with friends its really only replayable if you haven’t beat it... (Ignoring than that singular factor I’d give this game 9001/10 but seeing how much it really means to have that replayability (and believe me the comedic part of the game almost won me over and looked past the replayability..) I’m going to rate it at 9/10 because of the replayability, but there is so much good comedy and features I almost want to look past the replayability.. Really... But hey, that’s just my theory, a GAME... oh wait.. If you get the game than Im sure you'll love it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Video Review and Impressions:         YouTube™ Video:  In My Humble Opinion... Magicka 2&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So far from playing a few chapters, I've faced lots of crabs. LOTS AND LOTS OF DANGEROUS FREEZING CRABS. I swear, it must be from eating too much crabs. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The first game was like an amazing pepperjack mac n' cheese meal with chopped up peppers and other spices and it was amazing. Wizard wars was like some Kraft knock off that i didn't bother with. And Magicka 2 is like the same pepperjack mac n' cheese but put in a fridge for 2 days and hastly reheated in a microwave in order to relive that amazing feeling of yummyiness. All in all this game was ' Eh '",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love it my husband and I bought the 4 Pack and we can't wait to play with our friends. A must have!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I understand this game is kinda getting yelled at by the magicka 2 veterans, and I played much of magicka 1 myself, but i really enjoy this game. Sure you cant combine spells to make 1 spell type anymore but i feel this game has a lot more of those magicks spells, with the whole haste and conjure rain stuff. After playing around an hour of this I still really enjoy this game and I'm sure this would be way more fun with friends. I'm still very sure people will enjoy this game. As settings wise, I didnt see anything wrong with the controls. I just really enjoy this game and don't let all the negative reviews fool you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just played for 1 hour now...and i like it :D just like the old one a good game nice work developers (: love your games magicka best :D nice easter eggs xD  theres just one problem...i didnt receive the deluxe edition items yet but its out for 1 hour now..so i think i will get them in a few hours (:  thanks for the game (:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 FIRST IMPRESSIONS   Magicka, I would say, was the most unique and creative top-down RPG/ARPG/Mage-Type game I have seen released, and in my opinion, nothing really came close ever since then. Sure, FORCED and Gauntlet was fun, but they did not really have a very high skill cap, and not much in way of PvP. There were no cooldown to spells, and how strong your mage can be is 100% determined by skill and practice, with more experienced players being able to call upon a greater arsenal of spells, and casting stronger spells and combos much more efficiently. However, the game itself was really buggy, with game breaking glitches happening more often then not. Still, the concept was brilliant, and I was really hoping to see more of it.  Magicka: Wizard Wars, took everything Magicka had, and kind of 'dumbed' it down, into a much easier to play and master package. Granted that the new 'press one button for ultimate' and 3 spell system did in fact improve PvP, as players would now spend more time killing each other than screwing up ultimate spells, but I would say I still prefer the original, although it is a great game in its own right, and free-to-play too.  Finally, Magicka 2, a continuation of the story after Wizard Wars. Long story short, I felt that Paradox tried too hard to make controller happen. Even while playing on the PC, it tells me at every turn to 'Press A/Space to continue'. I mean, probably like 3% of people who play on PC uses a controller? Furthermore, it felt like a 'noob' friendly version of the original Magicka. Having 4 spells on quickcast is great, but having it makes the game feel so... empty. The point of Magicka was being able to cast powerful spells in clutch situations, where I can do that now with 1 key press. The removal of some elements (i.e steam, ice) is also a pretty big blow to the game. No more can I cast my favourite Steam+Lightning when I'm panicking. Finally, the removal of default 'Push' ability, turning it into a spell. Maybe I'm not used to it yet, but I don't like it.  TL;DR  Pros: +Smoother gameplay, won't screw up element order due to lag +Secrets to find, stories to tell +Faster game pace V.S Magicka +Addition of new spells/changing how some elements interact with others +Addition of quickcast (easier for beginners) +Can walk while casting spells +5s V.S 5min loading screens  Cons: -Removed fusing of elements (i.e fire+water=steam) -Easy mode with 4 quickcast spells (defeats true purpose of magicka) -Trying too hard to make controller happen on an obviously PC game -Changed concept of 'Push', hard to adapt to it for old players -No more 'recipe' for spells with the mouse wheel below your hero -Cannot chain spells, there is a slight cooldown period (~0.5s-1s) between 2 spells -No option to rebind keys and sudden change of keys from original game maeks confusion -Cannot emergency teleport as you're falling off a cliff to save yourself -Screen doesn't center on your character (pretty game breaking) ---------CAN'T CLICK TO CONTINUE PLEASE I BOUGHT THE PC VERSION I WANT TO CLICK TO CONTINUE I DONT WANNA PRESS A -Freaking loading screen suggested I throw a rock on myself (LOL)  Suggestions: Adding a 'hardcore mode', where the 4 quickcast slots are disabled, AND you walk exponentially slower for each element you have prepared Make spell spamming/chaining a thing again Bring back fusion of elements An option to switch walking back to holding down the mouse button only instead of both clicking and holding working together.  Overall, I would give it a 7.5/10, very much worth playing, but has potential to be soooo much better, for $15, I would definitely recommend getting this game. HOWEVER, getting Magicka (the original) first would be better, I can see Magicka players transitioning into Magicka 2, but not the other way around.   P.S, I've only gone 1 hour into the game + sneak peak so far, sooooooo some things above may or may not be accurate, I honestly have no idea if you get to fuse elements later on into the game or not, but like I said, first impressions review. Will update when have more hours.  P.P.S Cast EFFFF on yourself then spamming FFDFF Space pretty much owns every level",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is Magicka, too. Have all the fun blowing up your enemies, and having your partners die in collateral.  Mechanics - Large number of mechanics brought over from Wizard Wars. You can move while casting (ALL casting now), Steam/Ice is a seperate fire/water/frost element element, bombs remain when you do stone/shield/anything.  They also kept the Magick hotkeys from Wizard Wars. You can assign things like Revive/Haste to hotkeys now, which trigger a short CD on the hotkey. Magicks can ALSO be casted manually, but hotkeys ignore various incompatilities (For instance, you can use Haste/Revive while wet with Hotkeys).  Controls are a bit different. Melee/imbue is now shift-right. They seem to have removed the ability to cast wind baseline. AoE is shift-middle mouse button. One of the ONLY annoying things I've seen in Magicka 2, since casting AoE is now a bit more tricky, and I can't count how many times I've killed myself with that.  Wards have 4 stages. 1 element provides bout 33% damage reduction to that element. 2 elements provide 50%, and immunity to any side effects (Wet/Burning/Frozen). 3 elements provide full protection, and 4 elements provide absorption. In addition, rock armor no longer prevents one from being knocked back. Strangely enough, it seems that COLD ward provides knockback immunity from what I've noticed.  Finally, damage has been, more or less, reduced compared to Magicka 2. Remember those ice balls that one-shotted bosses, full powered stones that plowed through all the enemies, and the usage of Ice AoE/Steam to quickly slaughter all the small fry? Thats gone now. A full rock still does quite a bit of damage, but it's not going to oneshot anything bigger then a goblin. Ice, when combined with rock, deals LESS damage then a pure rock, its just that Ice shatters preventing the risk of a ricochet killing you (Rocks now have a tendency to bounce back at you if it doesn't kill the mob, and even when it does, be prepared to get pwned by your own boulder). Steam's main purpose now is to wet targets while dealing slight damage.  It also takes a bit longer to fully charge Rock/Ice, about 2-3 seconds longer. Good news is that Ice does a significantly larger amount of damage, and is very useful in close quarters combat. Killing enemies quickly is now about figuring out their weakness, rather then launching overpowered balls of doom or beams of zapping steam to slaughter everything in your way.  Also, in each game, you have a familiar. You have the basic fairy (Who DOESN'T annoy you anymore!), as well as two additional familiars that provide a dps boost (There may be more added in the future). New thing - You can REVIVE your fairy! This means that you should, more or less, never wipe.   Content - Magicka 2 uses a new gearing system, where you select your robe, your staff, your weapon, and your color at the main menu. If you find a staff, and generally if you acquire a weapon, it'll be added to your collection for you to use whenever you please. Magicks are also added to your collection to keep across the Adventure mode. Finally, theres a new thing called Artifacts, which allow you to further customize your games, with options such as weaking/buffing/removing a system of magic, greatly strengthing/weakening yourself/your enemies, and even fun options, such as causing background laughter whenever someone dies.   There are also two modes - Adventure, and Challenge. Challenge is just like in Magicka, you fight a number of predetermined waves of enemies. In Adventure mode, you have the main chapters, as well as small mini-challenges attached to each chapter. Like Magicka, there is no baseline Versus mode in the game.   For those interested in the amount of content of the main adventure, currently it seems as though the Adventure mode in Magicka 2 is about 3-4 hours shorter then that of Magicka.  TL:DR - Magicka 2 is Magicka, too!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great fun, best played with 2+ friends while drinking",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finished game was very short and very simple. Game was fun but idk about worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is very good and if u have some friends is awesome. Its very fun with friends. You can soo much things new spells and much more. + better graphics + easy controls  + coop and multiplayer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reading all the reviews, I expected the game to be bad, but guess what, it is NOT!  The game is quite different than the first, so if you mastered Magicka one and play 2 you are dead. Spells have been tuned, enemies are quite smart too now. They use spells and shields in a better way now.  pros:  New elements/spells story is quite good the jokes are still good you can kill your friends and even get achievements for it you will kill yourself in ways never imagined Robes and swords/staves have impact on your spells  cons:  Sometimes it feels as if some parts are just filled with too many mosters, just to slow you down Spells like Thunder(bolt?) are terribly unaimed and will kill you or your friends more than your enemies the cheese slicer doesn't slice cheese(or your friends for that matter)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game. Great to play solo or Local Co-op with up to 4 friends. Easy to play hard to master. I think this game is highly unrated. Deffinitally one of my all time fav games. The controller suppourt works like a dream and you can tell the creators really loved making this game. HIGHLY RECCOMEND",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why do you not have this game yet. Use magic to kill yourself, Thunderbolt your friends. Death mines are the best way to fly. Fly everywhere with death mines. Really you need his game. You can even poison yor friends now. Isn't that great watch them slowly die and run around them with haste, they will love you for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's not exactly like the first game. Seems shorter and the humor can seem a little obnoxious sometimes. That said, it's quite fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Decent sequel of the previous game, but could be better. There are less spells and the story is in my opinion worse.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "These skunk mosquitoes made me angry, so I burn them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you like magic? Do you like mayhem? Do you like spell-casting chaos? Do you like your friends? The last one is irrelevant, bring them anyway and let the madness ensue, this game is great for endless facepalms and giggles! With friends like these who needs enemies?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "generally a cool game but attacking your allies? 'i thought i couldnt be hurt that much'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, with a lot of in-game puns. Really funny to play together with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Magicka 2 is a super fun game to play with friends, even the local co-op is great. The spell casting system is intuitive, and there are tons of different spell combinations; the possibilities are endless. The main story is kind of short, (I think it took about 8 hours for me to beat it, and that was with lots of lollygagging included) but it does have replay value, because there are tons of secrets to discover throughout the different levels. There are also lots of extra challenges to keep you entertained for hours. Overall it's a fun, aesthetically pleasing game, with a self aware and allusion based humour.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "More magicka with better graphics and soundtrack. ♥♥♥♥ing hard if played without friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, first off. Its not a terrible game but it is bad. If you've played it already you might disagree with me and that's fine.  If you haven't played Magicka 2 yet however and you are wondering whether to buy it then i would say go buy the first one instead if you haven't already.   So far my experience with this game was 20 minutes of trying to get the compulsory Paradox account setup which doesn't connect to the servers half the time. Then after that I ran the tutorial in a similar fashion to the Magicka 1 tutorial, no problems so far except the controls being changed slightly.  However, when I started fighting enemies it was so boring and the spells are almost useless as well as using magicks. The goblins are not too bad but the crabs you fight for the first hour of the game can freeze you and one of the big crab enemies is immune to EVERYTHING from the front. I had to invite a friend just so I could get behind it to kill it and then to my surprise they don't send anything but more of these crabs and a crab which fires poison at you for the next hour after that point.   Now you may just say I'm bad at the game but Magicka 1 never annoyed me like that and it never felt like a pain in the ♥♥♥ to kill something. Whats the point in being given access to all these spells etc when half the enemies you meet are immune to them. For most enemies so far all me and my friend have done is just use Fire as its stupidly OP against anything that isn't resistant to it. While Earth and Ice are completley useless, they do below 1000 damage fully charged while fire gets to that damage with it spell (while casting) in seconds. I will probably update this review if I find anything new to consider.  Sorry for that rant there.  TL:DR Basically the game just isn't balanced well and the enemies are pretty unfair for the player to fight as most spells are ineffective, especially as this is a mere hour into the game (that I've reached).   If I find anything else worth mentioning in the future i'll update this review. Thanks for reading :)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Magicka 2 makes me feel... Betrayed. Kind of. Changes are questionable at best.   Humour...  A bit more agressive. Not offensive, agressive. First magicka was like a shy, clunky but funny wizard, who isn't takes himself too serious. By the times of the sequel he bought a red nose, bright stupid robe and megaphone and roams the streets, screaming 'LOOK I'MA CLUMSY WIZARD! LAUGH!' Point: Most of jokes there have no point.  Okay, maybe this one isn't correct, and first game was just as screaming 'I'M FUNNY', and it's my nostalgic-o-filter removed any bad memories. Soo, this part will be in the final score, but have no influence on it.   Magic system changes...  Huge nerf hit the best steam-shock-arcane and ice-earth combos. R.I.P. my only usable lategame/DLC spells. Basic wind attack are magicka now. Also, cooldowns for everything. EVERYTHING. They put a high priority in nerfs. Are we playing serious PvE MOBA now? ..wait, aren't those two terms mutually exclusive?.. Point: Unnecessary, even stupid changes.   Difficulty...   I was unable to pass trough a some point where you should spin a water wheel. Why? I was alone. Enemies keep spawning endlessly, and water wheel needs to be constantly showered for... For at least 15 seconds, I guess. More than enough for crabs to butcher a player. Point: Simply unplayable at singleplayer. Like at all.  Looks like that part with water wheel got changed a bit, with flow of crabs replaced by a few scripted bunches. That point will be rewritten after I make it to the end. Still, no one of my friends wants to buy it now.    Interface and controls...   My god.  Warning: lots of bunnies ahead. First. What the bunny is this? Hotbar? It's just... Wrong. Magicka is a game about pure button mashing, with disadvantage of high error chance being an important part of the first game. It's like for a fighting game devs to include hotkeys for instant combo attacks. Second. What the bunny is wrong with this camera? At the moment battle beguns it moves to the monsters, basically instantly cornering player with enemies all over the screen. That's bunny beautiful. Third. What is this, strafing? Okay, where is my covers, regeneration, machinegun and first-person view? Games where attack (shot) happens when you press mouse button may need strafing.  Games where attack (boulder throw) happens after you release mouse button should NOT have strafing. It's bunny annoying to aim. Fourth. Loading screens. Menus. Tips. Ahem. Are you... Wait a second. Ahem. ARE YOU   BUNNY KIDDING ME?! IF DEVELOPERS ARE TO BUNNY LAZY TO SIT TEN MINUTES IN A BUNNY IMAGE EDITOR AND MAKE A TWO BUNNY SEPARATE 'Press X to continue' IMAGES FOR PC AND CONSOLE, THEY SHOULD ALREADY CONSIDER FINDING A NEW BUNNY JOB. Mostly because such laziness shows how much they care about what are they doing. It's literally twenty minutes of work at worst, and it pokes in the eyes of every player from every bunny loading screen! Okay, maybe it was due to some technical limitations. Then I'm sorry. BUT IT ISN'T BUNNY 80s, AND WE AREN'T PLAYING 8-bit CONSOLE GAMES  , ARE WE? Point: Embarrassing. Ugly status effects. Annoying strafing. And I don't want to know what button I should press on gamepad my PC don't have.   Graphics...  Okay, spells looks cooler than in first game. But they are just taken from Magicka: WW, aren't they? Point: Better than in first game, same as in MWW. Nothing looks improved.  Final scores:       Element   Effect        Humour    Vlad/10        Magic changes    Nerf/10        Difficulty    Alone/10        Interface and controls    Bunny/10        Graphics    MWW/10        Combination of those 5 elements?    Preordered it 3 months ago and almost sorry about it now.     ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Played with 3 friends, had a few good laughs, finished the story in 4 hours, not impressed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good stuff: Nicer graphics, multiplayer functions way better. Super easy to join a friends game or invite others Bad stuff. Spell variety feels lessed. Spells do not combine as they once did. Many spells were nerfed to the point where they are now worthless.   This game feels like a watered down version of the original Magicka. I would recommend the original Magicka. Wait for this one to go on sale or something if you really want it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The first Magicka game was tons of fun. It was hard to play in single player mode but it was doable. Now I cant even get through the first boss battle with out having to spam the 'dragons breath' spell I really do love that I can revive my familiar ( who then in turn will revive me) because without that I cant make it through the first level. the shield spells mean nothing more then moving slower. I'll keep trying to play the game and will change my review if y opinion changes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'm actually very disappointed. Magicka 1 was amazing, I loved the physics, how the elements worked, how risk vs reward certain elements were in situations. Now this, this is just Wizard Wars in a campaign version, and personally I much rather the original concept, it just doesn't feel right, feels very slow, spells feel weak, and the use of auto casted spells is just eugh. Personally I wouldn't recommend this if you loved original Magicka.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Feels very unfinished, Solo is no fun at all.  The amount of enemies has been increased and you can get swarmed easy but the amount of damage you put out feels reduced.  They change how elements fit together now so instead of putting Fire+Water= Steam and getting a new icon and being able to change it up a bit. The change to the combinations of the elements stays separate and now you cancel it out. A lot of the fun spells like (steam+arcane+lightning x3) are no longer a thing. There is a cool down on comb spells like hast, it's minor but when you have a small health bar and the ♥♥♥♥ is charging at you constantly it kills it.   Personally I am not happy with this buy at all, I would rather play the old magicka then this one. Sad to say it but I feel like i wasted my money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "In comparison to it's former, the game is a bit more lackluster than the previous. It's as if they took a table, tore a leg off of it, and covered it in paint. Sure, it looks different. But it's still similar to the original. There needs to be some more content than what there is now. Magicka has tons, and I mean TONS of items without DLC. Magicka 2 has very few in comparison, especially if you include all of their respective DLCs. As of right now, Magicka is much more worth it than this one, especially with the huge discounts. Now, I wouldn't write a review if I didn't play this game more. I have it on my PS4, and even if the controller brings a different experience in terms of control, the general feel is still there. By no means am I saying 'Hey, don't get this game because it's terrible.' It isn't, it's pretty alright.   Now, to bring up few things that I felt were a bit jarring at first; The adjustments to shield channeling. As well as the poison element. I can get both of them, and they're both great! It's just that I tended to use water arcane attacks while a friend would use cold or lightning-based ones, which would result in a rather horrifying combo.   TL;DR  Just get Magicka 1, until more things are added onto this one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Wizard wars 2:Singelplayer",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "After only playing a few hours, I can tell this game can never replace the first Magicka. It's a very different beast, and not in a good way. Pieces attempted to put together a more challenging experience, however, the result is ultimately a more tedious and less exciting one. This is compounded by the recycling of the design of spells, spell types, and spellcasting from Wizard Wars. During the conversion, much of the character that these things previously possessed was lost. There is enjoyment to be had in Magicka 2, but so far, it's hardly what I was looking forward to.   I cannot recommend Magicka 2 in this state and I will not write a fairer review, so long as the wizardry of Magicka 2 remains as is, at the time of this review.  Looks like I won't be writing a 'fairer' review. It's very clear to me that, since the game is in Paradox's hands, nothing that matters will be improved or revised. The elements will always be shallow. Simple spells will always be the best. Spell metrics will always be dull. Melee will always be clunky. Many spelltypes will always be half broken. Most importantly, wizards will always be a shadow of their former, Magicka 1 glory.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "At it's current state i love it and really want to get into it, But honestly ♥♥♥♥ no option to rebind, I want it to play like the old magicka and use my thumb button because the middle mouse on my mouse is not easy to hit when i already need fingers for left and right click...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's a sequel, not another expansion. On top it's also by an entirely different development studio than the first, and by the third (fourth if you count the mobile game) studio to work on the series. Therefore it obviously plays differently in many ways past the basic concept, compared to any previous iteration in the series.  However, one thing it has done the same so far as the first game, is the rocky start, seemingly completely void of any practical thought or testing put into some parts during development.  For example, when you start the game for the first time, it starts in 1280x720, and puts you right into the prologue/tutorial chapter. Wouldn't be a big issue, if the options menu wasn't only available from the main menu of the game. Supposedly (can't confirm as I did the prologue as it was), exiting the game into main menu before completing the tutorial also locks you out of the main game, and requires editing config files or reinstalling the game, to have the game run for the 'first time' again. On launch the game was also missing all forms of control settings. As of right now it's only added in the form of including keybindings in the config file to edit. The hastily written guide on how to edit it is missing a lot of details, and has some info plain wrong.  Magicka 2 keeps in various balance changes and limitations made for the PvP spin-off Wizard Wars, which were sensible for a PvP-only game, but hardly so for a regular PvE game. Especially in a series where the draw came from the freedom of doing anything and everything exactly as fast and accurately as you could hit your keyboard keys. There's  a post in the community discussions  which explains a lot better than I can, how the game was simplified and rebalanced compared to 1  The newly introduced cooldown system makes the selection of various staves you acquire during the game rather useless. In chapter 2 you find the Jester staff, which majorly reduces magick cooldowns. Additionally it increases the effectiveness of the shield element, used for both crucial survivability as shields and resistances, and damage, in the form of mines and elemental walls.  The game is very much designed around multiplayer, and when playing solo, not only will it be brutal at parts, you will straight up miss on content, as there are some secrets that require multiple people to open. Fortunately the game does seem to point these out when found, so you don't waste your time trying for too long.  In all, it takes getting used to, if coming from the first game, but  it's not unplayable . However right now I'd still recommend waiting for the upcoming patches being put out based on community feedback. Then look again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "They pretty much ruined a fantastic game. First Wizard Wars, now Magicka 2. Both ♥♥♥♥. Magic has been nerfed. I no longer feel like a strong wizard, I feel like a weakling trying desperately to survive. This isn't the Magicka I know.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Lacking in both content and in the style that made the original game great. Gone are weapons with hilarious, sometimes useless effects. Instead now you have a ton of 'BUFF X NERF Z' and nothing else. There is a quarter of the amount of spells in the game as the original. Refrences are also now purely enviormental, so if you liked the Sword of Masters or Arcane Saber, you're out of luck Not worth buying, just get the original games DLC.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "After only playing a few hours, I can tell this game can never replace the first Magicka. It's a very different beast, and not in a good way. Pieces attempted to put together a more challenging experience, however, the result is ultimately a more tedious and less exciting one. This is compounded by the recycling of the design of spells, spell types, and spellcasting from Wizard Wars. During the conversion, much of the character that these things previously possessed was lost. There is enjoyment to be had in Magicka 2, but so far, it's hardly what I was looking forward to.   I cannot recommend Magicka 2 in this state and I will not write a fairer review, so long as the wizardry of Magicka 2 remains as is, at the time of this review.  Looks like I won't be writing a 'fairer' review. It's very clear to me that, since the game is in Paradox's hands, nothing that matters will be improved or revised. The elements will always be shallow. Simple spells will always be the best. Spell metrics will always be dull. Melee will always be clunky. Many spelltypes will always be half broken. Most importantly, wizards will always be a shadow of their former, Magicka 1 glory.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Well, that was a complete disappointment. I love Magicka 1, played it for nearly 100 hours and earned over 90% of the achievements. Ever since it was announced I was really looking forward to a suitable successor to this great game so naturally I pre-ordered it. Bad idea.  Some weeks ago when we were able to try out the first level I was shocked. The gameplay felt rough, the graphics worse than in the first game, the level design sloppy and the overall experience highly unsatisfying. I hoped it would get better with the full release of the game.  How wrong I was. Basically the same game as in the sneak-peak only worse. Why should I make an ADDITIONAL account for playing online? NOWHERE does it state that was necessary. (although I can't even get as far as creating one as I am one of the many people to find it unable to get any connection to the paradox servers)  One of the first games I pre-ordered and I doubt I'll do that again soon. I hope steam will grant a refund seeing as that's pretty much malicious deception.          Magicka 2&nbsp;",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Long story short : Magicka 1 was better.  Casting while walking is a nice option,so are these skill 'shortcuts'.But cooldowns ? Seriously ? The added cooldowns to abilities.What made magicka fun was the ability to spam spells.If you were in a sticky situation you could spam A-S-A to get away.But in Magicka 2,you can cast it like once in 2 seconds.I'm dissapointed in that  Story was awfully short.I had near to no-fun while playing with my friend.Story made no sense.Artifacts are strange as ♥♥♥♥.Whose idea was that to implement them ?  And they added little to no new spells.It gets boring after a few hours.  Only thing that are better in this game are easter eggs and collectibles.You'll find lots of easter eggs in the story mode.While collectibles add somewhat 'replayability'.   AND THEY REMOVED CRASH TO DESKTOP WHY THE ♥♥♥♥ WOULD YOU REMOVE THAT THAT'S A HUGE NEGATIVE",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  In order to play multiplayer, you have to register a useless Paradox Account. That's just ♥♥♥♥♥♥♥t. Magicka 1 was running fine using Steam multiplayer features. I don't want yet another random account. Not stating clearly (the info is hidden in the EULA) that you have to create a third party account to play multiplayer in a game where all the fun is in coop play is sneaky.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Magicka 2 is a sub par game that is still quite funny, but the decisions made by the developers and lack of progression from the first game to the sequel let it down.  The first Magicka was probably my favourite co-op game, the art style was fun, the spells were awesome, and the overall design of the levels felt really good with a mix of rpg style dungeon locations, to lakes and forest. But i'm here to talk about Magicka 2.  The game feels backwards instead of something brand new, almost like the original magicka would be more fitting as the sequel, sure not because of story, but for little experience things and obvious mechanics that were present in the first game, but missing in the second game is why people get frustrated by this game.  Firstly, you cant change controls and are locked to their default, which might not be the best for you, i am left handed so it is quite awkward to use the default control scheme, the problem with this, is that you were able to change controls in the original magicka game no problem, and in wizard wars, so it's a bit strange that they didn't include this for the sequel, in 2015. It is really strange and makes no sense, they then later responded by adding a config, but the config text document, doesnt allow you to use all keyboard controls to change, but only a specific amount. A huge turn-off, the magick system is different, and seems to follow some of the rules to wizard wars, but with the same 5 elements, i don't like this, why not build upon the first games system, with the unique spells you could use to keep things just like magicka, and leave the other systems for the different games, it feels like a downgrade, some of elements on screen are placed quite strangely too.  The actual game though is ok, i'm not going to say its fun, but its not, not enjoyable atleast, and i'm sure with the DLC they can improve and make this game twice as good.   Pros   Co-op is good Challenges are challenging Good art style   Cons   No customising controls Spellcasting system is not good Wards are weak Floaty gameplay UI elements placing Story  The game is ok, it's not worth the full price though 7.99 like magicka 1 is ok rather than 10.99 the developers must have been really lazy, but it can always improve with updates and DLC, thats actually worth it, and not just the same broken game for more cash.  If i knew the game would be this bad i would have never preordered it, i guess i got put into a trap by how good M1 and MWW are. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'm sure it would be a 'okish' game if it worked.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Spells feel weak as hell, you can't pick up any weapon or staff dropped by enemies, shields are made of crackers, and mines don't send enemies to the air.   Magicka 2 just lost most of the stuff that made the first one so fun and addictive.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Right gonna keep this Review short and just gonna say what i think from this game soo right lets begin.  the good ones. cool looking game it looks realy nice beter then the Orginel Magicka . spells are fun to but sadly same of the spells from the Orginel Magicka are not in this game . Same times the game is funny to like the orginel one . now ... then the bad the reason i make this Review   Cons  Movent Is annyoning as hell its your like the holo freaking time on a skateboard and you cant control it for ♥♥♥♥ . Enemys Oh god this is a bad one thought enemys are OP as crazy its not even fair you have to same time kill 15 at the same time and same of the can 2 hit you and yes the small ones hell there is even a leven where they keep spamming and you have to surve your sorry ♥♥♥ throught that not freaking fair .. same times the game crashse out of no where thats realy annyoning to . soo i would say with al this problems i just cant gift it a posetief review its sad cuse i realy like magicke but this game realy need same chances first my score this game is a 4 of 10 soo ye not a recomend",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "As a fan of the first magicka, I can't recomend this game. It's shorter, has less magicks, less weapons, less elements and less combinations of those elements. They've also made the game much harder - which isn't necesarily a bad thing, but the way they've done it just encourages ragequiting. Sheild spells and elemnet immunities are almost entierly removed from the game, and most enemies now 1-shot a player. This makes single player very difficult, and makes multiplayer far less strategic. There used to be multiple team members casting diffiernt buffs and healing. Now you just choose who's the distraction to run at the enemy, die, and get revived while a few friends hang back and shoot things.  Pros: Music is great, as it was in the first game. Writting is on point too. Classic magicka humor will have you cracking up.  Overall, it feels like a beta test of the first Magicka before they realized what good gameplay was and how awesome a truly dynamic spell system is and decided to add those. Except it's 4 years after the original... Is this what passes for a sequel these days?  3/10 Might be worth 1-2 dollars on a steam sale some day.  I think for the current price you could get the original + all DLC (which are very good) and have about 5x more gamplay, 3x the replayablity, and 2x more fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this is the nerfed version of magicka.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Several days after launch, still receiving the 'Unable to connect to Paradox server' error. The developers are on it 'ASAP'...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Several days after launch, still receiving the 'Unable to connect to Paradox server' error. The developers are on it 'ASAP'...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not recommended if you have no friends. XD",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Easily the best example of 'sequals suck' that i have seen.They wrecked the whole game ,the spellcasting system changed and it is nothing like before you cant do half the spells you did in the first game.The story is too short and my friend who bought the deluxe edition is so OP that i dont even want to play with him.the wands are not creative and the cutscenes are so boring and not funny.I am so dissappointed right now.I hate the fact that i wasted 24 TL's on this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really liked the original magicka. But the changes in magicka 2 are not for me.  I find the new movement system interesting. Being able to cast spells on the move makes you more mobile as a wizard. The problem is that the ranges of cone and AOE spells are decreased. Also the damage of al spells is decreased. As a result you feel weak in comparison to the first Magicka.   I also do not like the new spell formula. I can understand why some people would like to cast spells with fewer amount of button clicks. I rely liked the old way. The most powerful spells demanded up to 10 clicks. With the new system you can’t cast spell with more than 5 basic elements. Fire and water do not become steam in one slot. It is the same with water and ice.   A minor problem for me is that the game seems to have been made with consoles in mind. The new spell casting system would fit controllers better than mouse and keyboard.   I really wanted to like this game. But sadly it was not to my liking. If anyone want more magicka, buy the DLC to the first game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Way to ♥♥♥♥♥ difficult, i cant even finish the prologue solo, mostly because of the new movement system that fks everything up, half the time i walk right into my death",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You are basically required to go co-op the entire game and they've taken the nerf bat to so many things. It's just more of a chore to go through levels than it was fun. Play the first game it was better.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Irreverance is only charming the first five times you're irreverant, and you used up your five times in the first game! Now you're just taking yourself too seriously.  Also push is now a Magick? Why?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game feels rushed and underdeveloped. There no longer is a change to the armor that you apply to yourself with rock and shield. The controls are very clunky. They completely removed the ice element all together (the element from mixing water and frost). This game just doesnt play like it used to, if they would have kept the same playstyle and just expanded upon the previous installment i think it would have made for a way better game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game feels rushed and underdeveloped. There no longer is a change to the armor that you apply to yourself with rock and shield. The controls are very clunky. They completely removed the ice element all together (the element from mixing water and frost). This game just doesnt play like it used to, if they would have kept the same playstyle and just expanded upon the previous installment i think it would have made for a way better game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I would gladly pay this money for the Wizard Wars to stay up....   Magica 2 - dull game indeed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "as much as i love to play magicka 1, magicka 2 is a more hard than the first, the spell casting is difficult and made almost every level impossible to play in single player. please developers update everything in this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Put simply, it's Magicka if Magicka wasn't Magicka.  The form is recognisable, many of the design elements familiar, but so much of the charm, pacing, OTT-fun and even narrative of the first game seems completely absent. It's not frantic, it's not intuitive, it's not hilarious. It's sluggish and balanced with no semblance of character and cheap references that go on too long or seem too random. Playing through this with friends, I was recording, and the first laugh we had was 49 minutes in. 49 minutes of play without a single giggle, in a Magicka game, where the first time the player uses their powers they should die horribly and unexpectedly. It seems like every little alteration to the game was made by chopping out or simplifying one of the things that gave the first game its unique character and it really, really shows. This is a smooth, balanced game, devoid of joy or absurdity and too invested in keeping itself streamlined to immerse you for more than a few seconds at a time (unfortunately, I'm not exaggerating there).  It's ok, sure. Perhaps not to everyone's tastes, but definitely worth £11. It's just not a good Magicka sequel, and if you enjoyed the first one at all, you will almost certainly be heartbroken by this. I wish I could use a weaker word, but honestly, it's 100% appropriate.  Defining moment so far was hearing the Magicka end-of-level tune for the first time amid all the new tracks, and the first words on our Skype call were 'you have not earned the right to that music'.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's the same ham-fisted approach to balancing that made Diablo 3 one of the shortest-lived online RPGs.  Games shouldn't be designed like this. It never works when the player is balanced; it's only fun when the game is balanced around an OP player.  They've removed steam and ice elements, which means that for each kind of projectile, there are only two-three combos to make. It's ridiculously watered-down. There's nothing to learn. You can hardly even kill yourself in this game.  Completely misses the mark; doesn't understand what made the original game so much fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's the same ham-fisted approach to balancing that made Diablo 3 one of the shortest-lived online RPGs.  Games shouldn't be designed like this. It never works when the player is balanced; it's only fun when the game is balanced around an OP player.  They've removed steam and ice elements, which means that for each kind of projectile, there are only two-three combos to make. It's ridiculously watered-down. There's nothing to learn. You can hardly even kill yourself in this game.  Completely misses the mark; doesn't understand what made the original game so much fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Unfair. You can waist you time fighting someone only to be thrown in abyss by attack you cannot see. Upon respawn be thrown in the swarm of mobs only to be be thrown\\killed again. This scenerio repeat again and again making playing this game a rage quest. Worst 3 hours of my time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'Your refund request is now on pending.'",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Inferior to magicka 1 and not even the dank memes can rescue this one",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Here are the 12 minutes which I played the game for:  Minute 0: Intro; Minute 1: Main menu: Minute 2: Tutorial (which then transitions into chapter 1); Minute 5: Want to rebind the keys since the original  Magicka  key layout was less complicated; Minute 10: Game crashes after I have been trying to configure the controls for 5 minutes - without any notable success; Minute 12: Task manager finally overcomes the .exe and puts an end to my unfortunate journey.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Note: this isn't exactly a full review because I play 10 minutes and then refunded immediately. Magicka 1 is 900 times better than this game. The movement controlled are all f---ed up. Instead of clicking in a dirrection and having your character move there and then when you stop clicking your character stops moving, you click an area on the screen and your character moves there with no easy way of stopping him even if the area you clicked is a giant pillar of flames on a river. You'll go right through it. IT'S LIKE YOU'RE WALKING ON ICE ALL THE TIME. that there is enough for you not to get this game if you like Magicka. Honestly, you're better off just playing magicka 1 again. Don't even try this bag of sh--.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Graphics are terrible, controls are annoying, and you need a third party account for multiplayer. Get it on PS4 instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I liked the wizard wars but I don't know what it is but thisgame sucks",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "More of the same? Would rather replay magicka 1",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this game is ♥♥♥♥ you cant create or sign in your account i mean wtf so ♥♥♥♥ you wont be able to play online without the sign in its ♥♥♥♥ click the word once it doubles why? i gues i will never find out",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome game but only took 8 hours to finish whole game :( quite disappointed for $20 AUD should be alot longer, i mean grim Dawn was $25 AUD and i have 40 hours in that and i still have a chapter and a half to go",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "too diffucult, unbalanced game ...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Magicka 1 is better than 2 i think... control sucks and less fun only graphic greater",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "What happens on the screen mostly is something unspeakably awful: there is too much hardcore here, physics fails much compared to the first magicka. Some people whines devs casualed the game, but in my opinion they made it too hard to play - I was used to constantly use magickas before, such as lighting or teleport, now with automagickas ('press 4 for ressurect') I have to wait lot of seconds before using it again.  Really, it's hard even on normal difficulty. Amount of enemies is too high, I can't even see my character, not to mention magicks I cast. What are they trying to accomplish here, compete with starcraft 2? On 9th level I still haven't lighting strike, pfft.   One thing that is really improved - multiplayer system. Finally I can join anyone's game during the process, host can kick abusers / intruders, but otherwise game is a fail. Srsly, it's unplayable, if only magicka1 had the same multiplayer system I'd returned there and forgot about sequel as a nightmare.  То, что творится на экране - это какой-то абзац. Врагов очень много, дохнут они долго даже на минимальной сложности, магик мало, из-за 'оказуаливания' между ними теперь долгий перерыв. К примеру, в первой магике я мог кастануть с десяток молний подряд, в пвп получались офигенные окмбо, т. к. я выучил комбинации для кучи полезных магий. Классический пример с 9 уровня: узкий участок карты на который со всех сторон лезут бесконечные противники, учитывая, что каждый выпиливается несколько секунд, а массовых магий нет, выпиливать эти толпы сплошное 'удовольствие'. Приходится ждать пол минуты для респавна, полминуты карл! Магика онлайн не пошла на пользу серии. Единственное, что радует - это мультиплеер, вот его бы в первую магику запихнуть и вторую можно выкидывать.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is only slightly like the original. I can see they tried to make is more 'challenging', but in reality the only thing that makes is challenging is the lack of freedom the player has with the abilities themselves. Placing timers between casting the same spell, weakening shields so you're constantly spamming them just to stay alive, taking more damage from your own abilities, and making it so that elemental immunity requires 4 of one element+shield (Which effectively means you better pick one and take physical plus other elemental damage, or choose your poorly protective simple shield... in which you still take a considerable amount of health damage). In reality; the first game was fun because it was humorous, and had a sense of power for the player wherein you could spam spells as fast as your fingers could type them, and the enemies kept coming with different attributes, forcing creativity with a very intuitive and genius system. Taking away power from the player does not create a challenge, it creates frustration. I was very disappointed in this version of the game, and if I could I would ask for my money back. I plan to simply play expansions for the first one until I am done with them.",
+            "review_score": "-1"
+        }
+    ]
+}

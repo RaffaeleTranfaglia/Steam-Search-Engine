@@ -1,0 +1,38 @@
+{
+    "app_id": 1058430,
+    "name": "A Legionary's Life",
+    "release_date": "2019-04-19",
+    "developer": [
+        "Alessandro Roberti"
+    ],
+    "publisher": [
+        "Alessandro Roberti"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 23,
+    "positive_ratings": 22,
+    "negative_ratings": 8,
+    "price": 6.1,
+    "description": "A Legionary's Life lets you play as a Roman soldier during the years of the Second Punic War and beyond. Rise up through the ranks and win prestigious awards or just focus on making it home in one piece; it's up to you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1058430/header.jpg?t=1556556608",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7 SP1+ 处理器: Any CPU with SSE2 instruction set support: Intel Pentium 4+, AMD Athlon 64+ 内存: 1 GB RAM 图形: Any graphics card with DX10 (shader model 4.0) capabilities 存储空间: 需要 200 MB 可用空间",
+    "recommended_requirements": null,
+    "reviews": []
+}

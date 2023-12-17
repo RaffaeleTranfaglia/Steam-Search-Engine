@@ -1,0 +1,43 @@
+{
+    "app_id": 523760,
+    "name": "Loot or Die",
+    "release_date": "2016-09-13",
+    "developer": [
+        "Chris Antoni"
+    ],
+    "publisher": [
+        "Chris Antoni"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 28,
+    "positive_ratings": 24,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "Let's be honest, RPG's are more fun with machine guns. Experience fast paced action supported by loot collection and item optimization. Drop in multiplayer means you never have to wait in lobbies. Plunder the universe with friends to take on tougher foes; then PvP to see who has the best gear!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/523760/header.jpg?t=1473991053",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 Processor: Direct X9.0 Compatible Card Memory: 1 GB RAM Graphics: Direct X9.0 Compatible Card DirectX: Version 9.0 Storage: 400 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

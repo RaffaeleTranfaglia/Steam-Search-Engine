@@ -1,0 +1,37 @@
+{
+    "app_id": 849920,
+    "name": "Dungeon Quest",
+    "release_date": "2018-05-07",
+    "developer": [
+        "Akash Balloo"
+    ],
+    "publisher": [
+        "Akash Balloo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "RPGMaker",
+        "Indie"
+    ],
+    "achievements": 26,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Fight through enemies in search of an ancient artifact. Three playable classes. Six dungeon levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/849920/header.jpg?t=1550202239",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit) Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 512 MB RAM Graphics: 1024 x 768 pixels or higher desktop resolution Storage: 400 MB available space",
+    "recommended_requirements": "Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 512 MB RAM",
+    "reviews": []
+}

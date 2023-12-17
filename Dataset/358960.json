@@ -1,0 +1,96 @@
+{
+    "app_id": 358960,
+    "name": "Canabalt",
+    "release_date": "2015-04-30",
+    "developer": [
+        "Finji",
+        "Kittehface Software"
+    ],
+    "publisher": [
+        "Finji"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 31,
+    "positive_ratings": 175,
+    "negative_ratings": 29,
+    "price": 1.99,
+    "description": "Escape the destruction of your city with just one button! The game that popularized the infinite runner genre is back with two-player mode and new challenges.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/358960/header.jpg?t=1447371337",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 1 GB RAM Storage: 75 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I know Canabalt was instrumental in kickstarting the infinite runner genre, and I know I'm going to get a lot of hate for this, but I honestly can't recommend this PC port. It's not about the gameplay; the gameplay is fine, and always has been. But I found this port to be rife with technical issues.   This game is buggy. My  god , this game is buggy.  You probably already know what Canabalt is, but if not, it's a very simplistic game where you play as a man running and jumping across rooftops, and the goal is to earn a high score by running as far as possible before inevitably making a mistake and dying. There's only one button used to jump, but you'll have to learn to aim and adjust that jump to hairpin perfection if you want to survive for long. You speed up the longer you run, and you can trip over boxes to slow down. Problem is, if you are running too slow, you won't be able to jump on rising I-beams in time or run across falling buildings, but if you're running too fast, you won't have time to adjust your jump to land on tiny platforms. So it's all about running into boxes when you need to, and maintaining a perfect pace, hoping the game doesn't throw anything too tricky at you. It's a good balance between skill and luck. Otherwise, that's pretty much it; if you're expecting a game with tons of content, this isn't it. But as far as low-investment casual games go, Canabalt is one of the most tried and true.  The graphics are stylish and gritty, and the whole immersive atmosphere of an alien invasion is probably the best part of the game. The Danny Baranowsky track 'RUN!' is awesome and never seems to get old.  The new PC port adds some slightly better graphics, and extra features that weren't in the original mobile version. There's a new 2-player mode where you try to run alongside a friend, and your scores are added together for your final total. It's fun for a little while, and if your friend abandons you, it's easy enough to play as two players yourself; it's just one extra button, after all. There are also some new challenge modes, most of which are the same game but with some tweaks, like replacing all the random obstacles with one kind of obstacle. And of course, now we have Steamworks features like cloud synch, trading cards, leaderboards, and achievements.  Admittedly, it's much harder on a keyboard than it is on a touch screen to make the tiny tap-jumps which the game will sometimes require for your survival, unless you have very thin keys. Luckily, you can also use the mouse.  So what are my complaints? Well, here are just a few of the issues I ran into:  * The game is not alt+tab friendly at all. After returning from an alt+tab, I've had a wide number of glitches ranging from infinitely looping menus, to disappearing game objects, to soft-locked death screens.   * The game seems to hang a lot in the middle of the run, notably when kicking boxes. I assume this is due to the game buffering the different box kicking sound effects the first time they are played, but it has ruined many runs for me, especially during co-op.  * After some extended co-op sessions with two actual people, we have concluded that there is a bug which periodically causes one player's controls to make the other player jump, even if they're already in midair, causing an awkward and impossible midair jump. It's not something I noticed when controlling two players myself, but it became very apparent with an actual second player.  * Sometimes when you kick a box, another box somewhere else on the screen will mysteriously get kicked also. This is very apparent while running at high speeds on the 'box tripper' challenge. This, combined with the 'wrong player control' issue described above, indicates that there's some kind of pointer / memory corruption happening.  * On more than one occasion, I've restarted a run and all the buildings were gone, and I kept instantly falling to my death. When I tried to quit, the game soft-locked with a white screen.  * The Game Over menu is very lazily implemented. You can't merely press a button to restart the run, but you have to use the arrow keys or the mouse to select the 'restart' option. The default option on the Game Over menu depends on where your mouse cursor is at the time you died; so if you make sure your mouse cursor is at the bottom-right corner of the screen while playing, then you can hit 'enter' to restart the run when you die. Otherwise you might open the options or something.  * Kicking a box immediately after coming out of a roll from a high jump will sometimes cause the character's running animation to freeze, making him look like he's skating across the rooftops.  * Very wonky physics at high speeds; on at least two occasions I've jumped straight through solid objects at breakneck speeds, like when playing the 'Panic' challenge.  * The jump button is the only button you can remap, despite the game menus using several other keys.  Overall, I just don't understand why something so simple as Canabalt can be screwed up and left without so much polish for a proper PC release. I mean, this is  not  a complex game; would it really have been that hard not to leave in so many bugs?   If you just want an occasional run across the rooftops in single player on your PC instead of your phone, this port seems to hold up in that regard -- although you can also just Google 'Canabalt' and play a web version of it completely for free. I am just disappointed that what was supposed to be a definitive version of a great game is, in the end, just a lazy mobile port.   Achievement hunters: this is not an easy 100%. Not that there's anything wrong with that from a game design perspective (though some might raise objections that the game expects you to survive for 40,000 meters with so many random luck elements involved), but just don't expect to get the last few achievements unless you're very persistent and dedicated.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of those games that you can play for just a few minutes or an hour straight. Lots of fun, and a few cool modes that can be quite challening, as well as leaderboards to encourage replayability!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well its an unlimited running game, what do you expect. But, what i like about this game is there are levels/world that you can complete it, not just that, they also have an option to play the game in 3D/2D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is HIGHLY ADDICTIVE. I would only recommend that you buy if you have lots of free time,and patience. Things that were AMAZING:The soundtrack,2D/3D option,window smashing,and the fast paced action of it. Things that were ANNOYING AS ♥♥♥♥:*hair hit roof while trying to break window* 'Welp,I'm dead now.',GOD DAMN WALKER LEGS,windows,and how blurry it gets. I'd rate Canabalt 9/10. Just because there are some things that could be fixed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'This game is so cool I wanna  be  this game.'  ~ Yusha (4)",
+            "review_score": "1"
+        },
+        {
+            "review_text": " First Impression Review",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome and addictive little game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I just felt like running      IMPORTANT: May cause PTSD in people who have played Hotline Miami 1/2      *twitch* *twitch*    Windows   *twitch*",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Play  Super Hexagon  and  Boson X  instead. They are the same thing and significantly better IMO. Better twitch gameplay and far better music. A great endless runner owes about 50% of its greatness to the music score.   I bought this game for my iPhone a while ago, and didn't really feel it then either. I thought I would try again. It is fine, but there are betters out there.  My main problems:  1. The one-button mechanic is a bit too simple (hence it was a phone game first) 2. The roof running thing is not exciting enough to carry this game - maybe needs a slightly more refined mechanic? I am not sure 3. Just do not feel compelled to keep playing  I'd pass on this unless you have exhausted all (the better) other endless runners.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Best one-button game I've ever played, hands down. Full of adrenaline and has a lot of variety to it saying you only use one button. Plus, it's stupidly addictive! Well worth the £2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An awesome flash game classic ported to Windows with new gameplay modes and features!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How do you not love Canabalt! In many ways it spawned the Free Runner genre, especially on mobile devices. Having it on PC is nice, but it's a time killer for sure.   I love the extra modes/challenges they added as it mixes the formula up a bit too.  There's not much else to say here really. If you haven't played Canabalt before, do yourself the favor and play it either on Steam or Mobile - Both are equally enjoyable. The music is great, the gameplay is intense and the play sessions are short.",
+            "review_score": "1"
+        }
+    ]
+}

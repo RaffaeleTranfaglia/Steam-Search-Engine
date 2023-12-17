@@ -1,0 +1,44 @@
+{
+    "app_id": 652000,
+    "name": "Quantum Pilot",
+    "release_date": "2017-10-20",
+    "developer": [
+        "Quantum Productions"
+    ],
+    "publisher": [
+        "Quantum Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Predict, Adapt and Obliterate your Past Lives.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652000/header.jpg?t=1511236121",
+    "minimum_requirements": "OS: Windows 7 Processor: Anything within the last 6 years Memory: 512 MB RAM Graphics: Anything within the last 6 years",
+    "recommended_requirements": null,
+    "reviews": []
+}

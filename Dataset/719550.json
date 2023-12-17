@@ -1,0 +1,40 @@
+{
+    "app_id": 719550,
+    "name": "Puzzler",
+    "release_date": "2017-10-12",
+    "developer": [
+        "Monane"
+    ],
+    "publisher": [
+        "Monane"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 19,
+    "positive_ratings": 12,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Stack different shapes together to get one cube.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/719550/header.jpg?t=1531074470",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: dual-core with 1GHz+ Memory: 1 GB RAM Graphics: with support DX10 (shader 4.0) DirectX: Version 10 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

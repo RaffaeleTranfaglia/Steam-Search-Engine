@@ -1,0 +1,50 @@
+{
+    "app_id": 428460,
+    "name": "Kings of Israel",
+    "release_date": "2015-12-21",
+    "developer": [
+        "Alastair John Jack",
+        "Lance Hill"
+    ],
+    "publisher": [
+        "Funhill Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 41,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Kings of Israel is a strategic, turn based game based off the board game of the same name. Kings of Israel is easy to pick up but adapts in difficulty to challenge even the most advanced gamer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428460/header.jpg?t=1485265364",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 or better Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Make no mistake, this game was clearly inspired by Pandemic. Just swap out the agents with preachers and the viruses with sins. That said, this game really adds a number of novel twists to the Pandemic formula. I think Kings of Israel has a much more interesting resource management system, a wider variety special events (called blessings and curses here), and agent abilities.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sure, it's Bible themed, but it's actually got some pretty good gameplay. Plays sort of like Pandemic the board game, it's definitely heavily influenced by it at least.",
+            "review_score": "1"
+        }
+    ]
+}

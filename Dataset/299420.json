@@ -1,0 +1,45 @@
+{
+    "app_id": 299420,
+    "name": "CubeGun",
+    "release_date": "2014-05-21",
+    "developer": [
+        "candyrocketstudio"
+    ],
+    "publisher": [
+        "candyrocketstudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Sandbox"
+    ],
+    "achievements": 42,
+    "positive_ratings": 193,
+    "negative_ratings": 115,
+    "price": 0.0,
+    "description": "A Sandbox Multiplayer Airship Shooting Game.Design battleships with weapons in a &quot;rock paper scissors&quot; mechanic.Shoot or Collide enemy ships into pieces.Challenge players all over the world with ships designed by yourself!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/299420/header.jpg?t=1486783416",
+    "minimum_requirements": "OS: Windows XP or Later Processor: 1.6 Ghz Memory: 1 GB RAM Graphics: 512 MB graphics memory Network: Broadband Internet connection Storage: 40 MB available space",
+    "recommended_requirements": "OS: Windows  7 Processor: Core i3 Memory: 2 GB RAM Graphics: 1GB graphics memory Network: Broadband Internet connection Storage: 40 MB available space",
+    "reviews": []
+}

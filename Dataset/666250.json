@@ -1,0 +1,40 @@
+{
+    "app_id": 666250,
+    "name": "Equalizer",
+    "release_date": "2017-08-11",
+    "developer": [
+        "Sergey Shushunov"
+    ],
+    "publisher": [
+        "Sergey Shushunov"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 18,
+    "positive_ratings": 24,
+    "negative_ratings": 20,
+    "price": 1.69,
+    "description": "Equalizer is a musical arcade game in which you act as the main character inside a music tape recorder where you have to jump on platforms and discover new possibilities, such as music tracks and environments.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/666250/header.jpg?t=1502524298",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Core i3 Memory: 2 GB RAM Graphics: GeForce GTX 460 or Radeon HD 6850 DirectX: Version 9.0c Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Core i5 Memory: 4 GB RAM Graphics: GeForce GT 750 or equivalent DirectX: Version 9.0c Storage: 400 MB available space",
+    "reviews": []
+}

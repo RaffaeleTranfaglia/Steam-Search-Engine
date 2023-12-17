@@ -1,0 +1,42 @@
+{
+    "app_id": 446840,
+    "name": "Splasher",
+    "release_date": "2017-02-07",
+    "developer": [
+        "Splashteam"
+    ],
+    "publisher": [
+        "Dear Villagers"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Platformer",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 47,
+    "positive_ratings": 567,
+    "negative_ratings": 37,
+    "price": 10.99,
+    "description": "Splasher is a fun and challenging 2D Platformer filled with humor and surprises. Armed with a paint cannon, you’ll face the dangers of the Inkorp mega-factory in order to save your companions, the Splashers, and put an end to the Machiavellian projects of the evil boss, Le Docteur.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446840/header.jpg?t=1551358961",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ 64-bit Processor: AMD Athlon IIX2 250 equivalent or more Memory: 2 GB RAM Graphics: ATI Radeon HD 5700 Series equivalent or more DirectX: Version 9.0c Storage: 700 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

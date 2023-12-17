@@ -1,0 +1,49 @@
+{
+    "app_id": 422910,
+    "name": "Creeper World: Anniversary Edition",
+    "release_date": "2016-11-16",
+    "developer": [
+        "Knuckle Cracker"
+    ],
+    "publisher": [
+        "Knuckle Cracker"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 39,
+    "positive_ratings": 133,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Imagine an enemy that is everywhere and moves like a giant, organic mass across the map. Imagine your base and your people surrounded by a blanket of crushing destruction from all directions. Your only hope, well what hope? Then you take the high ground and pound this enemy into oblivion.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/422910/header.jpg?t=1509195506",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Dual Core 2Ghz Memory: 1 GB RAM Graphics: Any DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Quad Core 2Ghz Memory: 2 GB RAM Graphics: Any DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "Fairly fun game, especially if you played Creeper World 3 and 2 and wanted to see where it started. But if you're interested in these games I actually recommend playing the third one first, as it's the best, and if you liked it, then checking out the first two. Compared to the latter two, the first one's quite primitive in story and gameplay. The characters have no names, for instance (except for one, near the end). No portrait art either.  I mainly played the game to get some background story info on the masterpiece of the third game, but was somewhat disappointed to find it didn't even have that much background info; the story was very bare-bones. Obviously this game was made much earlier, when the developer was still learning to program games, so some roughness is to be expected. If you don't expect a lot, it's worth the price (even if you can play it for free elsewhere, with some minor differences).  The one interesting thing about this game that the others don't have is its upgrade system. Unlike the others, you can't just upgrade whatever you want based on tech points or whatever, instead, you have only 6 possible upgrades, and you need to collect, on each level/map, upgrade tokens to use. Often maps don't have 6 tokens, so you need to prioritize which to spend them on. This can lead to some interesting gameplay, although in practise it's so simplistic that you almost always will just spend them on increased tower range and firing rate (those advantages are just too good to pass), and then spend the other tokens (if any) on the less attractive four options. But overall this system of upgrading is interesting and I hope it returns in Creeper World 4 or perhaps in other games by other developers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bit too old and and slow after playing 3 but still awesome.",
+            "review_score": "1"
+        }
+    ]
+}

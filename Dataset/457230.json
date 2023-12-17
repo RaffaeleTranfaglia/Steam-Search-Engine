@@ -1,0 +1,44 @@
+{
+    "app_id": 457230,
+    "name": "Atlas Reactor VR Character Viewer",
+    "release_date": "2016-04-05",
+    "developer": [
+        "Trion Worlds"
+    ],
+    "publisher": [
+        "Trion Worlds"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "VR",
+        "Futuristic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 30,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "Outwit to outlive in Atlas Reactor, the genre-breaking team tactics game coming soon from Trion Worlds.With the VR Character Viewer, you can check out all of Atlas’ most wanted Freelancers (and their skins, styles, and skills) in a revolutionary new way!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/457230/header.jpg?t=1459864544",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater DirectX: Version 11 Storage: 2 GB available space Sound Card: Yes",
+    "recommended_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i7-4770 equivalent or greater Memory: 10 GB RAM Graphics: NVIDIA GTX 980 / AMD equivalent or greater DirectX: Version 11 Storage: 2 GB available space Sound Card: Yes",
+    "reviews": [
+        {
+            "review_text": "its only a gimmick, but its very high quality vr and hey, its free, even if youre not into atlas reactor its fun to check out",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a free model and animation viewer, pretty cool!  + detailed models + very different models + great taunt voices + great animation * non-interactive apart from model/playback selection and playback options * I think some shots/abilities could be shown better (disappearing shots, jump animations while in place…) - sometimes too big/misplaced for small room scale - I had a stutter pretty much on every first animation play; not when playing an animation again ",
+            "review_score": "1"
+        }
+    ]
+}

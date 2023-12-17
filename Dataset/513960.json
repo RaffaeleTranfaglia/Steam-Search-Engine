@@ -1,0 +1,41 @@
+{
+    "app_id": 513960,
+    "name": "Galactic Fighters",
+    "release_date": "2017-03-15",
+    "developer": [
+        "StarworkGC"
+    ],
+    "publisher": [
+        "StarworkGC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "achievements": 19,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Galactic Fighters is a 3D space shooter arcade bullet hell videogame in first and third person. Will you manage to get through hordes of aliens and bosses ready to destroy you and the whole universe? Choose your spaceship power it up: the fate of the universe is in your hands.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/513960/header.jpg?t=1494866847",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel Pentium processor T4400 2.2GHz Memory: 2 GB RAM Graphics: ATI Mobility Radeon HD 4650 DirectX: Version 9.0 Storage: 1.5 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: AMD A8-3150MX APU 1.80GHz (2.4 Turbo mode) Memory: 4 GB RAM Graphics: AMD Radeon HD 6620G (400MHz) DirectX: Version 9.0 Storage: 1.5 GB available space",
+    "reviews": []
+}

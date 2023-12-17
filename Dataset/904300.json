@@ -1,0 +1,36 @@
+{
+    "app_id": 904300,
+    "name": "KOPICS",
+    "release_date": "2018-08-10",
+    "developer": [
+        "OCTET"
+    ],
+    "publisher": [
+        "OCTET"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Design & Illustration"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Anime",
+        "Software"
+    ],
+    "achievements": 48,
+    "positive_ratings": 11,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "Illustration and comic creation have never been easier or quicker than with KOPICS. You can create illustrations by combining parts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/904300/header.jpg?t=1555647531",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 1.5 Ghz Dual Core Memory: 4 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

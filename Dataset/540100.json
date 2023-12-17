@@ -1,0 +1,57 @@
+{
+    "app_id": 540100,
+    "name": "Imprisoned Light",
+    "release_date": "2016-10-28",
+    "developer": [
+        "imaginite Ltd"
+    ],
+    "publisher": [
+        "imaginite Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 44,
+    "positive_ratings": 116,
+    "negative_ratings": 56,
+    "price": 0.79,
+    "description": "No Time, you must save the kingdom from demons. Kill all monsters and Stop the Arch Demon! The Salvation of the kingdom lies in your hands.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/540100/header.jpg?t=1514193412",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core 2 Duo 2.1 ghz or equivalent Memory: 2 GB RAM Graphics: 2nd Generation Intel Core HD Graphics (2000/3000), 256MB Storage: 100 MB available space",
+    "recommended_requirements": "Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "This game is awesome! It's the kind of game you don't see everyday. There's a certain logic that makes the game very fun(I'm talking about the souls you collect), specially when you're playing coop with your friends. Totally reccomended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is stupid. Doesn't tell you anything on how to play at first so you gotta go to the 'Keyboard Schmea' or however you spell it. After time this 'Crystal' you have you protect deals damage even if no enemies attack it, it doesn't allow you to advance. I really wish I could get a refund.",
+            "review_score": "-1"
+        }
+    ]
+}

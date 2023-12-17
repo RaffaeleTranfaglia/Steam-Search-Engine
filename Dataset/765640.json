@@ -1,0 +1,39 @@
+{
+    "app_id": 765640,
+    "name": "Change",
+    "release_date": "2017-12-27",
+    "developer": [
+        "Ryu Productions Co., Ltd"
+    ],
+    "publisher": [
+        "Ryu Productions Co., Ltd",
+        "Gamera Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Visual Novel"
+    ],
+    "achievements": 1,
+    "positive_ratings": 269,
+    "negative_ratings": 16,
+    "price": 3.99,
+    "description": "你有没有一段时间，无论如何都提不起精神来，总以为离开这里会变好，换了个环境却没有任何改变。 觉得自己做的事情毫无意义，只想做“自己想做的事情”，却连什么是“自己想做的事情”都不知道。",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765640/header.jpg?t=1551769766",
+    "minimum_requirements": "OS: windows7 Processor: AMD Athlon x2 250 Memory: 800 MB RAM Graphics: Radeon HD 3450 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: windows7 Processor: AMD Athlon x2 250 Memory: 800 MB RAM Graphics: Radeon RX 480 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

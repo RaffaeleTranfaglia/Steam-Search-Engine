@@ -1,0 +1,44 @@
+{
+    "app_id": 621780,
+    "name": "Virtually Impossible",
+    "release_date": "2017-04-13",
+    "developer": [
+        "Growl Interactive"
+    ],
+    "publisher": [
+        "Growl Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 5,
+    "positive_ratings": 7,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "The Impossible VR Party Game. Compete in a marathon of ridiculous challenges. Deceivingly simple and hilarious for players and audiences that is sure to bring the room to its feet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/621780/header.jpg?t=1509410439",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better. Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 2300 MB available space Sound Card: N/A Additional Notes: VR only.",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: Intel i5-6400, AMD FX 8350 equivalent or better. Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 2300 MB available space Sound Card: N/A Additional Notes: VR only.",
+    "reviews": []
+}

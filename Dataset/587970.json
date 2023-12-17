@@ -1,0 +1,40 @@
+{
+    "app_id": 587970,
+    "name": "Dead Drop",
+    "release_date": "2017-04-21",
+    "developer": [
+        "Ethan Waite"
+    ],
+    "publisher": [
+        "Ethan Waite"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Dead Drop is a tense two-player game of espionage and deception, where one player has to blend into a crowd and mimic AI movement to avoid detection from the other player.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587970/header.jpg?t=1492816313",
+    "minimum_requirements": "OS: Windows XP Processor: 1.0GHz Memory: 500 MB RAM Graphics: Onboard Graphics Storage: 150 MB available space Additional Notes: Basically a toaster can run this",
+    "recommended_requirements": null,
+    "reviews": []
+}

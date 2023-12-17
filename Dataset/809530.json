@@ -1,0 +1,42 @@
+{
+    "app_id": 809530,
+    "name": "Hypergate",
+    "release_date": "2018-12-20",
+    "developer": [
+        "Geoff Nagy"
+    ],
+    "publisher": [
+        "Geoff Nagy"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 30,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "You are a new pilot of the Novan Interplanetary Alliance---and your side is losing the war. Master space fighter combat amid a crumbling Alliance. Shoot your way through enemy fleets. Fight in a single-player campaign to save humanity, or build your own massive space battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809530/header.jpg?t=1552022884",
+    "minimum_requirements": "OS: Windows 8 Processor: 2 GHz, Quad-Core Processor Memory: 4 GB RAM Graphics: AMD Radeon HD 7660G (or equivalent) [OpenGL 3.3 support required] Storage: 500 MB available space Sound Card: OpenAL-capable sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

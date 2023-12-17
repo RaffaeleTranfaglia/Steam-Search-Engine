@@ -1,0 +1,43 @@
+{
+    "app_id": 671720,
+    "name": "Robin",
+    "release_date": "2018-02-08",
+    "developer": [
+        "Isabelle Dela Torre",
+        "José Fernando Gracia",
+        "Annaliese Bevan",
+        "Poppy de Raad"
+    ],
+    "publisher": [
+        "Group Pug"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 317,
+    "negative_ratings": 56,
+    "price": 0.0,
+    "description": "Robin is a short slice of life game that was made to give some visibility to an invisible illness - Chronic Fatigue Syndrome.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/671720/header.jpg?t=1518120081",
+    "minimum_requirements": "OS: Windows 10 Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 497800,
+    "name": "Golden Krone Hotel",
+    "release_date": "2017-10-26",
+    "developer": [
+        "Vulgat"
+    ],
+    "publisher": [
+        "Vulgat"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Rogue-like",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 29,
+    "positive_ratings": 100,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Golden Krone Hotel is a gothic horror roguelike. Fight vampires with sunlight or become a vampire yourself and sneak in the shadows. Combines classic turn-based combat with dynamic lighting, an innovative potion system, and fast paced gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/497800/header.jpg?t=1532194398",
+    "minimum_requirements": "OS: Windows 7 or higher Memory: 4 GB RAM Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

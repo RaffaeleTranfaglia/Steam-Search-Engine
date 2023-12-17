@@ -1,0 +1,39 @@
+{
+    "app_id": 371790,
+    "name": "Ramayana",
+    "release_date": "2015-05-25",
+    "developer": [
+        "Rakesh Malik"
+    ],
+    "publisher": [
+        "Rakesh Malik"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "Real-Time-Strategy game based on great Indian epic Ramayana.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371790/header.jpg?t=1483074955",
+    "minimum_requirements": "OS: Windows 7 or Higher (64bit, 32bit) Processor: Intel i3 or Higher Memory: 2000 MB RAM Graphics: Graphics Card supporting OpenGL 3.1 Storage: 2500 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

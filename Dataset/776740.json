@@ -1,0 +1,41 @@
+{
+    "app_id": 776740,
+    "name": "Unveloped",
+    "release_date": "2018-01-23",
+    "developer": [
+        "Lazy Gaming"
+    ],
+    "publisher": [
+        "Lazy Gaming"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Join Anton and Garlo as they travel across the land to stop Angor, a black fairy who develops really bad games.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/776740/header.jpg?t=1549610702",
+    "minimum_requirements": "OS: Windows Vista (32bit) Service Pack 2 Processor: Intel​ ​Pentium​ ​4, AMD Athlon​ ​64 Memory: 512 MB RAM Graphics: Nvidia​ ​Geforce​ ​/​ ​ATI​ ​Radeon​ ​128MB Storage: 32 MB available space Additional Notes: May lag",
+    "recommended_requirements": "OS: Windows​ ​10 (32bit/64bit) Processor: Intel​ ​Core​ ​i3,​ ​AMD​ ​Ryzen​ ​3 Memory: 2 GB RAM Graphics: Nvidia​ ​Geforce​ ​GTX​ ​/​ ​ATI​ ​Radeon​ ​1GB Storage: 32 MB available space Additional Notes: May run at 60fps",
+    "reviews": []
+}

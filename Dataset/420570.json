@@ -1,0 +1,46 @@
+{
+    "app_id": 420570,
+    "name": "Cubixx HD",
+    "release_date": "2016-01-28",
+    "developer": [
+        "Laughing Jackal LTD"
+    ],
+    "publisher": [
+        "Ghostlight LTD"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 18,
+    "positive_ratings": 26,
+    "negative_ratings": 3,
+    "price": 5.99,
+    "description": "Cubixx HD is a fast paced action puzzle game which sends high scoring, combo chasing gameplay to the third dimension! Play through the epic 50 level arcade mode, challenge your skills to the limit in 50 challenges or take on the world in over 150 online leaderboards!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/420570/header.jpg?t=1454000210",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.13GHz Intel Core2 Duo or equivalent Memory: 1 GB RAM Graphics: DirectX 9.0c compatible graphics card with 512Mb RAM and support for v3 shaders DirectX: Version 9.0c Storage: 80 MB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 3GHz Intel i3 or equivalent Memory: 4 GB RAM Graphics: DirectX 9.0c compatible graphics card with 1GB RAM and support for v3 shaders DirectX: Version 9.0c Storage: 80 MB available space Sound Card: DirectX 9.0c compatible sound card",
+    "reviews": [
+        {
+            "review_text": "I used to play this on my XBOX 360. It's a 3D version of Qix, basically. The music reminds me of Geometry Wars. Works great with an XBOX controller, too.  Only problem with it is the menus and leaderboards are off-center. The game area is centered, but no matter what resolution I set, there are words off the right side of the screen.",
+            "review_score": "1"
+        }
+    ]
+}

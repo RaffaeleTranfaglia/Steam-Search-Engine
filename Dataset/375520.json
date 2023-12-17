@@ -1,0 +1,59 @@
+{
+    "app_id": 375520,
+    "name": "Taimumari",
+    "release_date": "2015-12-16",
+    "developer": [
+        "TERNOX"
+    ],
+    "publisher": [
+        "TERNOX"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 32,
+    "positive_ratings": 139,
+    "negative_ratings": 36,
+    "price": 3.99,
+    "description": "Retro-style platform game in keeping with the best traditions of games of our childhood! Take control of the Himari, the young female wizard travelling across various ages to settle the balance in time across the whole world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375520/header.jpg?t=1547150095",
+    "minimum_requirements": "最低配置: 操作系统: Windows XP, Vista, 7, 8, 10 处理器: Pentium 4 or higher, 2GHz 内存: 2 GB RAM 图形: 128MB or higher DirectX 版本: 9.0 存储空间: 需要 50 MB 可用空间 声卡:",
+    "recommended_requirements": "推荐配置: 操作系统: Windows XP, Vista, 7, 8, 10 处理器: Core 2 Duo or higher, 2GHz+ 内存: 3 GB RAM 图形: 512MB or higher DirectX 版本: 9.0 存储空间: 需要 50 MB 可用空间 声卡:",
+    "reviews": [
+        {
+            "review_text": "Tired of the metroid and castlevania clones? How about a great megaman clone? Excellent game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Following the footsteps of Shovel Knight and Freedom Planet, Taimumari is another homage to retro style gaming. Borrowing from MegaMan and throwing in some elements from Bullet-Hell style shooters, this is a very challenging game that could be frustrating at times but very satisfying when you finally scrape through that difficult level on your last heart. While there are cons that could certainly turn someone off of this game, such as dodgy tranlsation, the occasional block of text and lackluster story, it is cheap little game that provides a good amount of challenge and entertaining gameplay to make up for it few shortcomings.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is so depressingly easy to take the wrong lessons from classic games. Mega Man 2, for example, is a master class in play control, graphics, sound design, and challenge. However, there were undeniably some enemies that were tuned a little too high, and some level segments that presented unfair challenges or could force a restart under some conditions. Taimumari is a retro platformer made by the sort of people who look at the laser beams in Quick Man's stage and think yes, this is the sort of thing we should be shooting for.  The enormous blocks of poorly-written text the game opens with explain that your magical world had a thingy that could make everyone divine but some dudes messed with it and now everything is disappearing. You play a young, inexperienced mage who gets the quest to save the world thrust upon her for unclear reasons. The pleasant, pastoral intro level eases you into your double-jumps, wall jumping, magic, and dash abilities before depositing you into the hub town. Here you can talk to people, buy upgrades with stars, or choose your next level to challenge.  For God's sake, start with Sir Fallenstar because his creepy-themed level is the only one that offers a reasonable challenge. All the others devolve into improbable arrays of bottomless pits and instant-kill spike platforms that will force you into Super Meat Boy-esque contortions to pass. Explosion Girl's stage has a long moving platform section where you have to keep perfect pace with your ride, and Roketto's stage (I swear I am not making these names up) has some Flappy Bird-style weaving through spike gauntlets. Passing these obstacles can take numerous attempts, sending you back to distant checkpoints for each retry.  This alone wouldn't damn Taimumari, because honestly the platforming challenges aren't all that much worse than those of the NES ball-breakers of yore. No, what kills this game is that you get exactly three tries to pass each level. Lose all your lives, and you get kicked straight back to the hub with a big, chunky GAME OVER. You can spend your precious stars on 1-ups, and most levels have one or two hidden away in particularly deadly spots, but that does little to ease the pain of losing your last life on learning a boss and having to re-do the entire 10-minute stage.  If the game was particularly polished or compelling you could almost make a case to stick it out, but Taimumari can't manage that either. The graphics are strangely flickery all over, especially during scene transitions. Everything is oddly-proportioned, too, with a lot of long, uneventful walks and melee combat taking place at the very bottom of the screen between squat characters. The backgrounds are detailed but the foregrounds and characters are not, especially the larger ones. Weapons are poorly balanced, your sword has aggravatingly little reach, and enemies take a ridiculous number of hits to kill.  I feel like all the right intentions to make a good game were here, but the polishing and balance passes were overlooked or skipped altogether. Unless you like your platformers absolutely punishing, something is going to make you rage in this game. It might be the umpteenth nigh-unkillable enemy, it might be the thousandth death by corner spike, or it might be the laughably bad dialogue between the embarrassingly bad characters. And with a range of threats like that, you're much better off staying far away from this one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its not a bad game per-say. Its one of those I rather there be a 'eh' or 'neutral' option on Steam. The game has a lot of flaws: such unmatching and unfitting graphics, clunky controls, and poor handeling. But one thing that drove me crazy, and I am almost sure is not part of the game, is that the graphics would start to clash every often or so. I never really had this epierence in a game before, and It doesnt seem to happen when I am paused. I figure it is from poor coding or game related issues, as I have had a few instances of something not working like it should.  The game is pretty decent for someone's first game or school project, but it feels very unpolished, and feels like someone just combined misc sprite work and tried to make their own megaman style fan game. Its playable for the most part, but its not very fun to look at.",
+            "review_score": "-1"
+        }
+    ]
+}

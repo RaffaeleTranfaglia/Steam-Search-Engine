@@ -1,0 +1,43 @@
+{
+    "app_id": 524350,
+    "name": "TileDynasty FPS Arena",
+    "release_date": "2018-01-01",
+    "developer": [
+        "Purpl3Grape"
+    ],
+    "publisher": [
+        "Purpl3Grape"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 1,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Looking to bring the old arcade-game feeling back from nostalgia. Bunny hopping is taken to the next level with smooth movement, allowing you to navigate fluidly through the maps, while defeating your opponents!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/524350/header.jpg?t=1514813154",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel i5 Processor 2.4 GHz Dual Core Memory: 4 GB RAM Graphics: Video card supporting shader model 3.0 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel i7 Processor 2.4 GHz+ Quad Core Memory: 8 GB RAM Graphics: Video card supporting shader model 3.0 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

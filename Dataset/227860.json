@@ -1,0 +1,47 @@
+{
+    "app_id": 227860,
+    "name": "Castle Story",
+    "release_date": "2017-08-17",
+    "developer": [
+        "Sauropod Studio"
+    ],
+    "publisher": [
+        "Sauropod Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Building",
+        "Sandbox"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2711,
+    "negative_ratings": 2361,
+    "price": 18.99,
+    "description": "Castle Story is a creative voxel-based strategy game in which you can build castles one brick at a time using an army of little creatures called Bricktrons. Design and build your own castles, expand your territory in a vast landscape and defend your Bricktrons against onslaughts of hostile creatures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/227860/header.jpg?t=1550775638",
+    "minimum_requirements": "Mínimo: SO: 7 and newer, 64-bit Procesador: Intel or AMD Dual-Core, 2.2 GHz+ Memoria: 6 GB de RAM Gráficos: nVidia GeForce 440 512MB, Radeon HD 4450 512MB, Intel HD 3000 DirectX: Versión 11 Almacenamiento: 1700 MB de espacio disponible Notas adicionales: Playing on large, player-made maps might affect performance.",
+    "recommended_requirements": "Recomendado: SO: 7 and newer, 64-bit Procesador: Intel or AMD Quad-Core, 2.8 GHz+ Memoria: 8 GB de RAM Gráficos: nVidia GeForce 660 1024MB or better, AMD Radeon HD 7790 1024MB or better DirectX: Versión 11 Almacenamiento: 1700 MB de espacio disponible Notas adicionales: Playing on large, player-made maps might affect performance.",
+    "reviews": []
+}

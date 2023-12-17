@@ -1,0 +1,39 @@
+{
+    "app_id": 486380,
+    "name": "Shigatari",
+    "release_date": "2017-08-25",
+    "developer": [
+        "Super Legit Games"
+    ],
+    "publisher": [
+        "Super Legit Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 43,
+    "positive_ratings": 68,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "Shigatari is a samurai role-playing game with historical artwork.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486380/header.jpg?t=1503703492",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 10 Memory: 2 GB RAM Graphics: 128MB",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, or 10 Processor: 2GHz Memory: 4 GB RAM Graphics: 512MB",
+    "reviews": []
+}

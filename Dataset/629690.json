@@ -1,0 +1,46 @@
+{
+    "app_id": 629690,
+    "name": "Vaporum",
+    "release_date": "2017-09-28",
+    "developer": [
+        "Fatbot Games, s. r. o."
+    ],
+    "publisher": [
+        "Fatbot Games, s. r. o."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Dungeon Crawler",
+        "Steampunk"
+    ],
+    "achievements": 59,
+    "positive_ratings": 367,
+    "negative_ratings": 41,
+    "price": 14.99,
+    "description": "Vaporum is a grid-based dungeon crawler RPG in an original steampunk setting, inspired by old-school classics of the genre. Stranded in the middle of an ocean, in front of a gigantic tower, the hero has to find out what the place is, what happened there, and most importantly, who he is.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/629690/header.jpg?t=1551876697",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows: Vista SP1 (64-bit), 7 (64-bit), 8 (64-bit), 10 (64-bit) Processor: 2.5 Ghz Intel® Core™2 Duo Processor or AMD equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce 400 series 512 MB video card or AMD equivalent DirectX: Version 11 Storage: 6 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows: Vista SP1 (64-bit), 7 (64-bit), 8 (64-bit), 10 (64-bit) Processor: 3.5 Ghz Intel® i5 or AMD equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 960 2 GB video card or AMD equivalent DirectX: Version 11 Storage: 6 GB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

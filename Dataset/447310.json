@@ -1,0 +1,58 @@
+{
+    "app_id": 447310,
+    "name": "Paper Train Traffic",
+    "release_date": "2016-03-04",
+    "developer": [
+        "isTom Games Kft."
+    ],
+    "publisher": [
+        "isTom Games Kft."
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 15,
+    "positive_ratings": 61,
+    "negative_ratings": 20,
+    "price": 2.09,
+    "description": "Paper Train Traffic is here to test your mind and reflexes with increasingly complex challenges. From single railroads to multi railway nodes, your task is to supervise the ongoing train traffic of many different locations around the World.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/447310/header.jpg?t=1478250840",
+    "minimum_requirements": "OS: Windows Vista Processor: 1.0 GHz Processor Memory: 1024 MB RAM Graphics: OpenGL 2.0 compatible graphics Storage: 150 MB available space Sound Card: OpenAL compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Paper Train Traffic is a second Steam game ported from smartphones and made by isTom Games (Nyan Cat: Lost in Space). This time memes turned into something more serious, trains!  Whole gameplay is based on right timing for every situation - you are in control of traffic lights and rail-switches, and your task is to keep the railroad going without any crash. It might sound easy, but the levels push you with higher difficulty to need for getting more and more patient.   What's worth mentioning is the fact that remembering the train sequences for repeating of levels won't help you - the number of wagons for trains is randomly generated, so after every restart you have to patiently check how many wagons trains on the railroad has (and how fast they are). Prepare for often crashes and keeping determination, as the game can make you tilt pretty easily.  Visuals of this game are really nice, the pen and paper style looks great! Every level looks and feels different (and there are 300 levels!), that shows up the great work developers made.  But let's mention also the cons - I can't get rid of the feeling that the smartphone version was made by a full team with proper graphics designer, but the PC version required a new menu and popup windows, which in the end look like to be done in a rush by a programmer who done the port. It looks ugly, with regular font you might use in a document and without any thought of style worthy the pen and paper in-game visuals. It's no wonder that the menu and popups are nowhere to be seen in trailer and screenshots. Also, the game's text would deserve a proofread for few small mistakes.   Conclusion:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best £1.60 I've spent in years. The paper/pencil graphics are beautiful and the game is a joy to play. Even when you fail a level the frustration is eased by the resultant train crash.  I've finished all the levels (300) in about 18 hours. But the addiction is there just to keep going back and replay the levels for those extra points, and just for the joy of the gameplay.  At this price I can only recommend you give it a try. The graphics are worthy of any full price game and the gameplay is a joy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fast paced puzzle game about reflexes and observation. Frustrating and difficult, but fun and rewarding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of fun, good artwork.",
+            "review_score": "1"
+        }
+    ]
+}

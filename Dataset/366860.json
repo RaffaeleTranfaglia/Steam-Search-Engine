@@ -1,0 +1,43 @@
+{
+    "app_id": 366860,
+    "name": "Spy Bugs",
+    "release_date": "2015-06-26",
+    "developer": [
+        "Digital Soul Games"
+    ],
+    "publisher": [
+        "TheGameWall Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Massively Multiplayer"
+    ],
+    "achievements": 23,
+    "positive_ratings": 23,
+    "negative_ratings": 10,
+    "price": 6.99,
+    "description": "Spy_Bugs is a flying game in which the protagonists are cyborg insects upgraded with high tech weapons. They can fly, land, fire weapons and make special attacks, each insect is a different character with a specific weapon, special attack and specific role.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/366860/header.jpg?t=1447373456",
+    "minimum_requirements": "OS: Windows 7 32/64 bits or greater Processor: i3 4150 3.5GHz / AMD FX-4350 Memory: 4 GB RAM Graphics: GTX 650 / HD 7750 DirectX: Version 10",
+    "recommended_requirements": "OS: Windows 7 32/64 bits or greater Processor: i5 4670 / AMD FX 6300 Memory: 8 GB RAM Graphics: GTX 760 (or higher)/ AMd R9 270 DirectX: Version 10 Network: Broadband Internet connection",
+    "reviews": []
+}

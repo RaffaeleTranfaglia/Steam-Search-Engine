@@ -1,0 +1,39 @@
+{
+    "app_id": 653050,
+    "name": "Undertaker's",
+    "release_date": "2017-08-02",
+    "developer": [
+        "Hyeson"
+    ],
+    "publisher": [
+        "Hyeson"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 8,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Inspired by the economy simulation games oft the mid 90s, Undertaker's let's you manage your very own funeral home.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/653050/header.jpg?t=1524744313",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Dual Core Memory: 2 GB RAM Graphics: Hardware Accelerated Graphics Storage: 300 MB available space Additional Notes: 16:9 screen is recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

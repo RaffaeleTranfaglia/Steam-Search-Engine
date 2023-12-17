@@ -1,0 +1,40 @@
+{
+    "app_id": 286300,
+    "name": "Algo Bot",
+    "release_date": "2018-02-14",
+    "developer": [
+        "Fishing Cactus"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Programming"
+    ],
+    "achievements": 19,
+    "positive_ratings": 51,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Algo Bot is puzzle game that takes place deep inside the Europa, a pan-galactic colonisation ship, where a recycling mission goes horribly wrong. Use your algorithm special skills to command Algo Bot, a service droid, and help PAL, a cantankerous line manager, to contain the crisis.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/286300/header.jpg?t=1548239924",
+    "minimum_requirements": "OS: Microsoft Windows XP/Vista/7/8/8.1 Processor: Intel Core i5 2400 -OR- AMD Phenom II X6 1100T Memory: 4 GB RAM Graphics: ATI Radeon HD4850 -OR- GeForce GTX 295 (Does not support Intel Integrated Graphics Cards) Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

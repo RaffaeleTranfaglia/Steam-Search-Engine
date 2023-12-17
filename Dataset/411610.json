@@ -1,0 +1,40 @@
+{
+    "app_id": 411610,
+    "name": "Tick's Tales",
+    "release_date": "2016-06-09",
+    "developer": [
+        "Digital Bounce House"
+    ],
+    "publisher": [
+        "Phoenix Online Publishing"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Point & Click",
+        "Pixel Graphics"
+    ],
+    "achievements": 11,
+    "positive_ratings": 42,
+    "negative_ratings": 5,
+    "price": 5.59,
+    "description": "Tick must prove his worth to pull the legendary Sword of Blergh from the stone if he's going to win the heart of Georgia McGorgeous and save their town from the evil goblin Bloodclot!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/411610/header.jpg?t=1478025870",
+    "minimum_requirements": "최소: 운영체제: Windows 7 프로세서: i3 or better, or equivalent processor 메모리: 2 GB RAM 그래픽: OpenGL 2.0-compatible with 128MB memory 저장공간: 150 MB 사용 가능 공간",
+    "recommended_requirements": "권장: 운영체제: Windows 7 or later 프로세서: i5 or better, or equivalent processor 메모리: 2 GB RAM 그래픽: OpenGL 2.0-compatible with 256MB memory 저장공간: 150 MB 사용 가능 공간",
+    "reviews": []
+}

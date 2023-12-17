@@ -1,0 +1,41 @@
+{
+    "app_id": 493110,
+    "name": "KOTH",
+    "release_date": "2016-09-01",
+    "developer": [
+        "Abbeytek Ltd"
+    ],
+    "publisher": [
+        "Abbeytek Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Climb your way to the top of the map and defeat the Koth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/493110/header.jpg?t=1475138657",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 Memory: 4 GB RAM Graphics: NVIDIA GTX 970 Storage: 2 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 Memory: 16 GB RAM Graphics: NVIDIA GTX 980 Storage: 5 MB available space",
+    "reviews": []
+}

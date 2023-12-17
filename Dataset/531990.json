@@ -1,0 +1,45 @@
+{
+    "app_id": 531990,
+    "name": "Egg Time",
+    "release_date": "2016-09-19",
+    "developer": [
+        "Bartoš Studio"
+    ],
+    "publisher": [
+        "Bartoš Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 38,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "The game revolves around simple mechanics and physics. Catching eggs, defusing bombs, using “egg time” a variation of bullet time to catch even the most hard to catch eggs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/531990/header.jpg?t=1517762234",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 or similar Memory: 4 GB RAM Graphics: nVidia GTX980 or AMD R9 290x DirectX: Version 11 Storage: 750 MB available space Sound Card: Any Additional Notes: HTC Vive headset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i7 Memory: 8 GB RAM Graphics: nVidia GTX 1070 or AMD R9 FURY DirectX: Version 12 Network: Broadband Internet connection Storage: 750 MB available space Sound Card: Any Additional Notes: HTC Vive headset",
+    "reviews": [
+        {
+            "review_text": "A fun free reflex tester.. I had a few laughs playing this and at 0 cost why wouldnt you try it out (small download and quite a good amount of fun )",
+            "review_score": "1"
+        }
+    ]
+}

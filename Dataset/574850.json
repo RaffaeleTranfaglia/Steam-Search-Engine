@@ -1,0 +1,36 @@
+{
+    "app_id": 574850,
+    "name": "Hardnoid",
+    "release_date": "2017-02-17",
+    "developer": [
+        "SharkGame"
+    ],
+    "publisher": [
+        "Atriagames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 1,
+    "positive_ratings": 59,
+    "negative_ratings": 31,
+    "price": 0.79,
+    "description": "Hardnoid is a challenging Arkanoid, where our goal is to protect not only one but all the four sides of the playing field with the help of the teeth or/and the hands of our character, which depends on the difficulty level of the game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/574850/header.jpg?t=1495590540",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0+ GHz Memory: 512 MB RAM Graphics: Integrated Graphics Storage: 100 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

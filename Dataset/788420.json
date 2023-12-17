@@ -1,0 +1,43 @@
+{
+    "app_id": 788420,
+    "name": "Potion Explosion",
+    "release_date": "2018-05-16",
+    "developer": [
+        "Studio Clangore"
+    ],
+    "publisher": [
+        "Asmodee Digital",
+        "Horrible Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Board Game"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "The official adaptation of Potion Explosion, the award-winning puzzle board game. Explode ingredients, trigger chain reactions and gather it all in your caldron to craft powerful mixtures with wacky effects! May the best wizard win!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/788420/header.jpg?t=1531494412",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Dual Core 1.6 GHz or better Memory: 1 GB RAM Graphics: Integrated DirectX: Version 9.0c Storage: 365 MB available space Sound Card: Windows supported Sound Card Additional Notes: Network connection needed to play online multiplayer",
+    "recommended_requirements": null,
+    "reviews": []
+}

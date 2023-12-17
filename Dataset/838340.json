@@ -1,0 +1,39 @@
+{
+    "app_id": 838340,
+    "name": "May",
+    "release_date": "2018-05-10",
+    "developer": [
+        "Team Spieluhr"
+    ],
+    "publisher": [
+        " Team Spieluhr"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Visual Novel"
+    ],
+    "achievements": 10,
+    "positive_ratings": 19,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Sudden tragic event shook up Yun’s routine: his friend is balancing between life and death. Doctors are not being supportive, not to mention that something feels shady. Would young man be able to help Max through?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/838340/header.jpg?t=1552633725",
+    "minimum_requirements": "Минимальные: ОС: Windows XP Процессор: 1.4GHz Оперативная память: 1 GB ОЗУ Видеокарта: Intel HD Graphics Место на диске: 400 MB Звуковая карта: Any",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7, 8, 8.1, 10 Процессор: 2GHz Оперативная память: 2 GB ОЗУ Видеокарта: Intel HD Graphics Место на диске: 500 MB Звуковая карта: Any",
+    "reviews": []
+}

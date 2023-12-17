@@ -1,0 +1,39 @@
+{
+    "app_id": 845970,
+    "name": "Trivia Vault: Movie Trivia",
+    "release_date": "2018-04-27",
+    "developer": [
+        "Ripknot Systems"
+    ],
+    "publisher": [
+        "Ripknot Systems"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 5000,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 9.99,
+    "description": "Welcome to the Trivia Vault contestant! Play as a contestant in a gameshow called Trivia Vault Movie Trivia and bring your thinking hat. Answer movie trivia questions as quickly as you can, the faster you answer the higher the cash value.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/845970/header.jpg?t=1524853816",
+    "minimum_requirements": "OS: Win 7 32-bit or better Processor: 2.0 ghz or higher Memory: 500 MB RAM Graphics: 500 Megs VRAM DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

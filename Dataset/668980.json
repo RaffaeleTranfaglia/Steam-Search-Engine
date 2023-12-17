@@ -1,0 +1,44 @@
+{
+    "app_id": 668980,
+    "name": "Forsaken Remastered",
+    "release_date": "2018-07-31",
+    "developer": [
+        "Nightdive Studios",
+        "Probe Entertainment",
+        "Iguana Entertainment"
+    ],
+    "publisher": [
+        "Nightdive Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Violent"
+    ],
+    "achievements": 28,
+    "positive_ratings": 55,
+    "negative_ratings": 9,
+    "price": 15.49,
+    "description": "Scavengers from all over the galaxy have come to a dead Earth to loot the remains of the technology that can found in underground tunnels. You must fight your way past the scum of the universe. As you prepare for deadly combat, you are going to quickly learn that the future is... Forsaken!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/668980/header.jpg?t=1541531657",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit (32-bit not supported) Processor: Intel or AMD Dual-Core at 2.0 GHz Memory: 1 GB RAM Graphics: GPU with OpenGL 3.2 or DirectX 10 support (256 MB) DirectX: Version 10 Storage: 1 GB available space Sound Card: 100% DirectX compatible sound card or onboard sound Additional Notes: Intel CPUs rendering graphics may not be OpenGL 3.2+ compatible.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64-bit (32-bit not supported) Processor: Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent Memory: 2 GB RAM DirectX: Version 10 Storage: 1 GB available space Sound Card: 100% DirectX compatible sound card or onboard sound Additional Notes: Intel CPUs rendering graphics may not be OpenGL 3.2+ compatible.",
+    "reviews": []
+}

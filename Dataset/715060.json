@@ -1,0 +1,40 @@
+{
+    "app_id": 715060,
+    "name": "Lost in the Forest",
+    "release_date": "2017-09-30",
+    "developer": [
+        "Mihai Morosanu"
+    ],
+    "publisher": [
+        "Mihai Morosanu"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 60,
+    "positive_ratings": 19,
+    "negative_ratings": 32,
+    "price": 0.79,
+    "description": "Join the adventures of a little boy that is lost in the forest. You must avoid all the forest creatures, like the fox, the frog, the hedgehog and many others (even a shark). Travel through many locations and try to find your way back.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/715060/header.jpg?t=1506776690",
+    "minimum_requirements": "OS: xp,7,8,8.1 10 Processor: 2 Ghz Memory: 1000 MB RAM Graphics: any with direct X DirectX: Version 9.0c Storage: 200 MB available space Sound Card: any",
+    "recommended_requirements": "OS: 7 Processor: 2 Ghz core 2 duo Memory: 2000 MB RAM Graphics: any with direct x DirectX: Version 9.0c Sound Card: any",
+    "reviews": []
+}

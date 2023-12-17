@@ -1,0 +1,41 @@
+{
+    "app_id": 916780,
+    "name": "Groundless",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Root121 Games"
+    ],
+    "publisher": [
+        "Root121 Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "Groundless is a local multiplayer arena game where you build and destroy the ground you walk on.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/916780/header.jpg?t=1536268133",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3-2120 Memory: 4 GB RAM Graphics: GeForce GTX 630 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i5-2400 Memory: 8 GB RAM Graphics: GeForce GTX 1050 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

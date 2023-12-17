@@ -1,0 +1,37 @@
+{
+    "app_id": 366000,
+    "name": "Rogue System",
+    "release_date": "2016-05-16",
+    "developer": [
+        "Digits Crossed Interactive, LLC"
+    ],
+    "publisher": [
+        "Image Space Incorporated"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Space Sim"
+    ],
+    "achievements": 6,
+    "positive_ratings": 154,
+    "negative_ratings": 32,
+    "price": 13.49,
+    "description": "Our goal is to depict the possibilities of space exploration &amp; combat within a realistic environment- to emphasize the &quot;science&quot; in science-fiction. Key features to include: proper orbital mechanics for all objects in space, detailed ship system control, functionality, inter-dependency &amp; damage reaction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/366000/header.jpg?t=1548264314",
+    "minimum_requirements": "OS: Windows Vista, 7, 8, 8.1, or 10 Processor: 2.0 ghz dual core Memory: 2 GB RAM Graphics: 1GB Nvidia or AMD, supporting at least OpenGL 4.0. Latest drivers for either are absolutely required. WARNING: Intel HD Graphics are currently NOT supported. Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

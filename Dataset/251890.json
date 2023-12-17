@@ -1,0 +1,48 @@
+{
+    "app_id": 251890,
+    "name": "World of Diving",
+    "release_date": "2014-08-26",
+    "developer": [
+        "Vertigo Games"
+    ],
+    "publisher": [
+        "Vertigo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "VR Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Adventure"
+    ],
+    "achievements": 13,
+    "positive_ratings": 349,
+    "negative_ratings": 264,
+    "price": 14.99,
+    "description": "An uncharted world awaits. World of Diving is the multiplayer online game that brings you an exhilarating underwater adventure with optional VR support.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/251890/header.jpg?t=1506082421",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 - 64 bit or Higher Processor: Dual Core Memory: 2 GB RAM Graphics: pixel shader 3.0 compatible DirectX: Version 11 Network: Broadband Internet connection Storage: 7 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 - 64 bit or Higher Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD equivalent or greater DirectX: Version 11 Network: Broadband Internet connection Storage: 7 GB available space",
+    "reviews": []
+}

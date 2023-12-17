@@ -1,0 +1,39 @@
+{
+    "app_id": 993400,
+    "name": "Finding summer",
+    "release_date": "2018-12-28",
+    "developer": [
+        "Vadd games"
+    ],
+    "publisher": [
+        "Vadd games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 1,
+    "positive_ratings": 6,
+    "negative_ratings": 7,
+    "price": 4.79,
+    "description": "Finding summer - a three-dimensional platformer about a kid named Aki, whose nostalgia for the past summer forced him to go on an unforgettable adventure - in search of summer! On the way to his goal, he will meet not only many dangers, but also make new friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/993400/header.jpg?t=1545995387",
+    "minimum_requirements": "OS: Windows Vista or later Processor: 2GHz+, SSE2 support Memory: 512 MB RAM Graphics: Intel HD Graphics 3000 DirectX: Version 11 Storage: 3600 MB available space Sound Card: Asus Xonar Essence STX",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2.0 GHz i5 Memory: 1024 MB RAM Graphics: Dedicated graphics card with 512MB of RAM, at least 1280x720 Storage: 3600 MB available space Sound Card: Asus Xonar Essence STX",
+    "reviews": []
+}

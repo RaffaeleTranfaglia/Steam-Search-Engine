@@ -1,0 +1,50 @@
+{
+    "app_id": 340050,
+    "name": "Survivalist",
+    "release_date": "2015-01-30",
+    "developer": [
+        "Bob"
+    ],
+    "publisher": [
+        "Ginormocorp Holdings Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Survival",
+        "Zombies",
+        "RPG"
+    ],
+    "achievements": 39,
+    "positive_ratings": 1605,
+    "negative_ratings": 410,
+    "price": 3.99,
+    "description": "It's one year after the collapse of civilization and self-centered hedge fund manager Joe Wheeler emerges from his specially constructed bunker in search of food. This is a huge open-world RPG where you have the freedom to play how you want - but your choices have consequences.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340050/header.jpg?t=1554515488",
+    "minimum_requirements": "OS: XP Service Pack 3 Processor: Dual Core Processor Memory: 1 GB RAM Graphics: DirectX10-capable graphics card DirectX: Version 10 Storage: 160 MB available space Sound Card: DirectX compatible Additional Notes: Uses the XNA Framework HiDef profile, which means it will run on any graphics card that is compatible with DirectX 10 or higher, and some but not all DirectX 9c ones.  PLEASE NOTE: having a version of DirectX installed on your PC is not the same thing as having a graphics card that supports it!  If in doubt play the demo.",
+    "recommended_requirements": "OS: Windows 7 or 8 Processor: Quad Core Processor Memory: 2 GB RAM Graphics: DirectX10-capable graphics card DirectX: Version 10 Storage: 160 MB available space Additional Notes: A mouse with a mouse wheel on the middle button is recommended (or an XINPUT gamepad).  If in doubt, play the demo!",
+    "reviews": [
+        {
+            "review_text": "Alice died becauase I could not buy enought insulin for her. She died just outside the bunker. Her corpse remains outside the bunker to this day reminding me what incredible failure I am. After every succesful mission I come back to see her corpose and realise I am no success at all.",
+            "review_score": "1"
+        }
+    ]
+}

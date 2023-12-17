@@ -1,0 +1,38 @@
+{
+    "app_id": 781700,
+    "name": "Guinea-Pig",
+    "release_date": "2018-01-23",
+    "developer": [
+        "IndieLip"
+    ],
+    "publisher": [
+        "IndieLip"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 34,
+    "negative_ratings": 52,
+    "price": 2.89,
+    "description": "Guinea Pig is a hardcore 2D platformer with elements of survival in which you have to pass a variety of energetic levels for the rabbit. Your main purpose in this game is to collect tablets in each level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/781700/header.jpg?t=1517520001",
+    "minimum_requirements": "OS: Win XP SP3 / Vista / Windows 7 / Windows 8 Processor: Intel Core i3 Memory: 1024 MB RAM Graphics: 500MB DirectX: Version 8.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows XP\\Vista\\7\\8\\10 Processor: Intel Core i9 Memory: 2048 MB RAM Graphics: 1 GB DirectX: Version 12 Storage: 250 MB available space",
+    "reviews": []
+}

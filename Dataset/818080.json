@@ -1,0 +1,40 @@
+{
+    "app_id": 818080,
+    "name": "Crazy Road",
+    "release_date": "2018-03-21",
+    "developer": [
+        "Cosmicdev"
+    ],
+    "publisher": [
+        "Freshtrax"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 13,
+    "price": 0.79,
+    "description": "Crazy Road - runner made in the style of dynamic racing on the counter. Try to go as far as possible under a pleasant musical accompaniment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818080/header.jpg?t=1525106836",
+    "minimum_requirements": "OS: Windows XP or higer Processor: Dual Core 2 GHz or higer Memory: 2 GB RAM Graphics: 1 GB video card memory DirectX: Version 9.0c Storage: 166 MB available space",
+    "recommended_requirements": "OS: Windows XP or higer Processor: Dual Core 2.4 GHz or higer Memory: 4 GB RAM DirectX: Version 9.0c Storage: 166 MB available space",
+    "reviews": []
+}

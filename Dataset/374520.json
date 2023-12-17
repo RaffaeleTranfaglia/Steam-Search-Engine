@@ -1,0 +1,51 @@
+{
+    "app_id": 374520,
+    "name": "Champions of Anteria™",
+    "release_date": "2016-08-30",
+    "developer": [
+        "Blue Byte"
+    ],
+    "publisher": [
+        "Ubisoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "City Builder"
+    ],
+    "achievements": 44,
+    "positive_ratings": 65,
+    "negative_ratings": 69,
+    "price": 25.99,
+    "description": "Champions of Anteria is a tactical Real Time Strategy Game that will allow players to lead and develop their group of cheerful champions into tactical action battles, to save the legendary Kingdom of Anteria.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/374520/header.jpg?t=1527101874",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions) Processor: Intel i3 2120 @ 3.3 GHz or AMD Phenom II X4 955 @ 3.2 GHz Memory: 4 GB RAM Graphics: nVidia GeForce GTS450 or AMD Radeon HD5770(1024 MB VRAM with Shader Model 5.0) Storage: 12 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers Additional Notes: Game contains Denuvo <a href=\"https://steamcommunity.com/linkfilter/?url=http://(https://www.denuvo.com/)\" target=\"_blank\" rel=\"noopener\"  >(https://www.denuvo.com/) anti-tamper technology.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or Windows 8.1, Windows 10 (64bit versions) Processor: Intel Core i5 2400 @ 3.1 GHz or AMD FX 6350 @ 3.9 GHz Memory: 8 GB RAM Graphics: nVidia GeForce GTX 670 or AMD Radeon HD7870 or better (2048 MB VRAM or more, with Shader Model 5.0) Storage: 12 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers Additional Notes: Game contains Denuvo <a href=\"https://steamcommunity.com/linkfilter/?url=http://(https://www.denuvo.com/)\" target=\"_blank\" rel=\"noopener\"  >(https://www.denuvo.com/) anti-tamper technology.",
+    "reviews": [
+        {
+            "review_text": "Plenty of descriptions already on here, so I'll say what I like and don't like about the game.  Ups: There's a decent amount of Strategy in the different ways you can build your town, how you conquer territories, your research path and what abilities you give your heroes. That should make for some replayability. The missions are interesting tactically because you have to choose 3 heroes from 5, decide how to approach the map and what/when hero abilities and consumables get used. I like the ability to pause and plan, like XCom and similar games, although the ability to chain commands isn't as useful as it might seem at first sight (e.g. if using an area attack and your opponents move you will need to interrupt the chain). I'm glad it's not a micro transactions game. The game runs very smoothly for me on Ultra settings and I don't have all the latest kit (GT970 card, but older motherboard/CPU).  Downs: No MP of any description limits the long term replayability. The graphics are a bit too cartoony for my taste (a bit twee - I prefer a look more like AoW or HOMM). Gameplay wise: the caravan missions are too linear (some units only spawn when the caravan passes so you can't do advance cleaning, or try to come at them from a different direction) and the NPC units you sometimes get run around like mad things attracting mobs (hopefully this will get fixed).  So so: The funny narrator is OK, but isn't that funny IMO; but then I'm quite demanding on humour.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wanted to like this game but I just can't. The whole game feels like a phone/tablet port. The combat is slow, all you really do is select a hero and match elements to do the most damage and let them swing/shoot away. Never got some of the heroes skills to work at all. The town building is all right. The voice acting is bad, and the jokes are even worse. The grahics are nothing special either.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice game that is mix of RPG and Strategy",
+            "review_score": "1"
+        }
+    ]
+}

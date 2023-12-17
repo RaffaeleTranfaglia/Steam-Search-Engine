@@ -1,0 +1,51 @@
+{
+    "app_id": 99120,
+    "name": "Yar's Revenge",
+    "release_date": "2011-04-28",
+    "developer": [
+        "Killspace Entertainment"
+    ],
+    "publisher": [
+        "Atari"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "On-Rails Shooter"
+    ],
+    "achievements": 12,
+    "positive_ratings": 29,
+    "negative_ratings": 20,
+    "price": 6.99,
+    "description": "Take flight as you explore exotic alien worlds and seek to avenge your fallen race",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/99120/header.jpg?t=1447354062",
+    "minimum_requirements": "OS: Windows XP SP2, Vista SP2, 7Processor: Intel Core 2 Duo E4300 or AMD Athlon X2 4400+Memory: 1 GBGraphics: : Radeon ATI Radeon HD 2600 or NVIDIA GeForce 8600 or faster. Other integrated graphics, such as the Intel G43/G45 Express, are not supported.DirectX&reg;: 9.0cHard Drive: 1.5 GB freeSound: DirectX 9.0c-compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Has nothing to do with the Atari classic other than the name. The name was just used to sell a sub-par game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great music. Bad game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really wish there were more games out there that played like the old panzer dragoon games. I enjoy playing this game, I use a xbox 360 controller and have had no issues at all. Its a fun game would recommend",
+            "review_score": "1"
+        }
+    ]
+}

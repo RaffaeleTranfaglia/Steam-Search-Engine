@@ -1,0 +1,49 @@
+{
+    "app_id": 622370,
+    "name": "Freaky Awesome",
+    "release_date": "2017-10-18",
+    "developer": [
+        "Mandragora"
+    ],
+    "publisher": [
+        "Mandragora"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Rogue-lite"
+    ],
+    "achievements": 42,
+    "positive_ratings": 108,
+    "negative_ratings": 64,
+    "price": 6.99,
+    "description": "Freaky Awesome is a hectic action rogue-lite. You explore a randomly generated old factory, fighting weird monsters and avoiding traps. Toxic wastes will make you mutate, gaining different powers every time. You will need to adapt to your mutations to survive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/622370/header.jpg?t=1545406116",
+    "minimum_requirements": "Минимальные: ОС: XP Процессор: Core 2 Duo Оперативная память: 2 GB ОЗУ Видеокарта: Discreet video card Место на диске: 300 MB Звуковая карта: Yes",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 8 Процессор: 2.4 GHz Quad Core 2.0 (or higher) Оперативная память: 4 GB ОЗУ Видеокарта: Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up Место на диске: 300 MB Звуковая карта: Yes",
+    "reviews": []
+}

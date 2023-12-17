@@ -1,0 +1,43 @@
+{
+    "app_id": 974950,
+    "name": "DAMNOSAUR",
+    "release_date": "2018-11-30",
+    "developer": [
+        "Evlanic Entertainment"
+    ],
+    "publisher": [
+        "Evlanic Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 1,
+    "positive_ratings": 133,
+    "negative_ratings": 12,
+    "price": 0.0,
+    "description": "DAMNOSAUR is a chaotic arcade shooter that combines colourful anime with the Dino-apocalypse! Fight alone, or with a friend to take down these monstrous dinosaurs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/974950/header.jpg?t=1543622367",
+    "minimum_requirements": "OS: Win 7 32-bit Processor: Intel i3-6320 Memory: 1 GB RAM Graphics: GTX 550 DirectX: Version 10 Storage: 210 MB available space",
+    "recommended_requirements": "OS: Win 10 64-bit Processor: intel i5-835G Memory: 4 GB RAM Graphics: GTX 950 DirectX: Version 11 Storage: 210 MB available space",
+    "reviews": []
+}

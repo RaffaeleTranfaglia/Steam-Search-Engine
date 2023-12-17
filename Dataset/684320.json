@@ -1,0 +1,43 @@
+{
+    "app_id": 684320,
+    "name": "HOT PINK",
+    "release_date": "2018-05-24",
+    "developer": [
+        "Wildgrass"
+    ],
+    "publisher": [
+        "Wildgrass"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Colorful",
+        "Arcade"
+    ],
+    "achievements": 32,
+    "positive_ratings": 20,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "HOT PINK is your fluorescent score attack nightmare. Take on your friends in endlessly rewarding block smashing challenges!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/684320/header.jpg?t=1529391398",
+    "minimum_requirements": "OS: Windows Vista SP1 Processor: SSE2 support Memory: 2 GB RAM Graphics: Shader Model 4.0 capable GPU (GeForce 8000 Series or Radeon 2000 Series) DirectX: Version 10 Storage: 170 MB available space Additional Notes: Internet connection is required for leaderboards and syncing of stats.",
+    "recommended_requirements": "OS: Windows 7 Processor: Desktop: 2009 Core-i3, or 2011 AMD FX, or equivalent -- Laptop: 2012 Core-i5, or 2016 AMD A12, or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 650 Ti or equivalent -- Radeon HD 5870 or equivalent DirectX: Version 10 Storage: 170 MB available space Additional Notes: Screen resolution of 640x480 or higher.",
+    "reviews": []
+}

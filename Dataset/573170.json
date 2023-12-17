@@ -1,0 +1,42 @@
+{
+    "app_id": 573170,
+    "name": "Fidel Dungeon Rescue",
+    "release_date": "2017-08-01",
+    "developer": [
+        "Daniel Benmergui",
+        "Jeremías Babini",
+        "Hernán Rozenwasser"
+    ],
+    "publisher": [
+        "Daniel Benmergui"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Puzzle"
+    ],
+    "achievements": 25,
+    "positive_ratings": 269,
+    "negative_ratings": 11,
+    "price": 7.19,
+    "description": "A roguelike where you can rewind. Find the perfect path through monsters and treasure in this critically acclaimed puzzle crawler. Discover the secrets of the dungeon and rescue your owner!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/573170/header.jpg?t=1541697490",
+    "minimum_requirements": "OS: Microsoft® Windows Server 2008, Windows 7, Windows 8.1 Classic or Windows 10. Processor: 2.33GHz or faster x86-compatible processor Memory: 1000 MB RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

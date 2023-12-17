@@ -1,0 +1,49 @@
+{
+    "app_id": 336700,
+    "name": "Elastrix",
+    "release_date": "2014-12-18",
+    "developer": [
+        "Hyper Hippo Games"
+    ],
+    "publisher": [
+        "Hyper Hippo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 18,
+    "positive_ratings": 18,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "Elastrix is a physics-based puzzle game. Place bouncy bands to guide the Trix through 60 levels, and help them to their goal of being the greatest circus attraction the world has ever seen!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/336700/header.jpg?t=1447365703",
+    "minimum_requirements": "OS: Windows XP Memory: 512 MB RAM DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Nice short game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a very simple game. From the trailer, you should know if this is the type of game for you or not. Personally it isn't for me, but I can see the charm and I think there's potential fun to be had. I think with a few changes it could be significantly improved:   1)  The cannon shoots in a fixed position meaning the levels are straight forward and simple trial and error. If you could choose where to fire, such as in an obvious inspiration for this game Peggle, it would make the game more involved than simply dragging lines, clicking a button and hoping for the best.   2)  A back button. As it is if you make a mistake you have to reset the level or precisely click on an individual band which is a little tedious. Furthermore, it would be nice if you could hold and drag left mouse to connect multiple points, rather than having to click each time.   3)  More levels would be nice as you can finish the game within 2 hours. There's only 60; 30 standard and 30 anti-gravity levels. There's also a 'Trixball' mode which is very much so like Peggle but as it is always played on exactly the same level it gets old very quick.  While it is cheap, there's plenty of other games that are also just as cheap or even free that offer more involvement and replayability than this game, such as (you guessed it!) Peggle. As a result it's tough to recommend. But it's not bad, and it's still probably good for kids or to waste time at work but just don't expect to get much out of it.",
+            "review_score": "-1"
+        }
+    ]
+}

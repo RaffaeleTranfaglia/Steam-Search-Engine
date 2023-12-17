@@ -1,0 +1,43 @@
+{
+    "app_id": 737890,
+    "name": "Catastronauts",
+    "release_date": "2018-09-28",
+    "developer": [
+        "Inertia Game Studios"
+    ],
+    "publisher": [
+        " Inertia Game Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 25,
+    "negative_ratings": 5,
+    "price": 12.39,
+    "description": "Can you deal with unrelenting disaster and hold your ship together long enough to destroy the enemy invaders? Repair systems, extinguish fires, arm the torpedoes, avoid deadly solar flares, destroy your friends and clone them back again; it's all in the life of a Catastronaut!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/737890/header.jpg?t=1538120483",
+    "minimum_requirements": "OS: Windows XP or later Processor: Intel Core2 Duo E6750 | AMD Athlon 64 X2 Dual Core or equivalent Memory: 2 GB RAM Graphics: GeForce GT 740 | Radeon HD 5770 or equivalent Storage: 1 GB available space Additional Notes: Controllers are strongly recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

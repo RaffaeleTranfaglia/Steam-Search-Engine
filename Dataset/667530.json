@@ -1,0 +1,46 @@
+{
+    "app_id": 667530,
+    "name": "Drunken Wrestlers 2",
+    "release_date": "2019-04-01",
+    "developer": [
+        "Oleg Skutte"
+    ],
+    "publisher": [
+        "Oleg Skutte"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Multiplayer",
+        "Simulation"
+    ],
+    "achievements": 1,
+    "positive_ratings": 385,
+    "negative_ratings": 86,
+    "price": 0.0,
+    "description": "Drunken Wrestlers 2 is a funny physics-based multiplayer fighting game with Steam Workshop support.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667530/header.jpg?t=1555473537",
+    "minimum_requirements": "OS: Windows 7 Processor: 3 GHz Quad core Memory: 4 GB RAM Graphics: Radeon 520 or GeForce GT 730 Network: Broadband Internet connection Storage: 1 GB available space Additional Notes: There requirements are minimal. With this setup you'll have to disable blood to get performance",
+    "recommended_requirements": "Graphics: GTX 1050 or better",
+    "reviews": []
+}

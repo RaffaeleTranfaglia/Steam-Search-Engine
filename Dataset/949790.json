@@ -1,0 +1,41 @@
+{
+    "app_id": 949790,
+    "name": "Rogue Bit",
+    "release_date": "2018-10-10",
+    "developer": [
+        "Bigosaur"
+    ],
+    "publisher": [
+        "Bigosaur"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Puzzle"
+    ],
+    "achievements": 9,
+    "positive_ratings": 36,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "A single bit of computer memory became sentient and decided to escape from digital into the real world. Explore RAM, modify bytes and hack machine code and CPU registers to set it free.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/949790/header.jpg?t=1551183981",
+    "minimum_requirements": "Tối thiểu: HĐH: Windows XP or newer Bộ xử lý: Core2Duo 1.0 GHz Bộ nhớ: 512 MB RAM Đồ họa: 128MB Video RAM, OpenGL 1.1+ Lưu trữ: 200 MB chỗ trống khả dụng",
+    "recommended_requirements": null,
+    "reviews": []
+}

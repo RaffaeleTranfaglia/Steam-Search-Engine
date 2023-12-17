@@ -1,0 +1,39 @@
+{
+    "app_id": 630080,
+    "name": "EggTime 2",
+    "release_date": "2018-05-07",
+    "developer": [
+        "Bartoš Studio"
+    ],
+    "publisher": [
+        "Bartoš Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 11,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "Catch eggs, defuse bombs, and other crazy stuff using special powerups like variation of bullet time to catch even the most hard to catch eggs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/630080/header.jpg?t=1541577184",
+    "minimum_requirements": "Минимальные: Требуются 64-разрядные процессор и операционная система ОС: Windows 10 64bit Процессор: Intel i5-4690S or similar AMD CPU Оперативная память: 4 GB ОЗУ Видеокарта: nVidia GTX 980 or AMD R9 FURY DirectX: Версии 12 Место на диске: 3 GB",
+    "recommended_requirements": "Рекомендованные: Требуются 64-разрядные процессор и операционная система ОС: Windows 10 64bit Процессор: Intel i7-3770 Оперативная память: 8 GB ОЗУ Видеокарта: nVidia GTX 1070 DirectX: Версии 12 Сеть: Широкополосное подключение к интернету Место на диске: 3 GB",
+    "reviews": []
+}

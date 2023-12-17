@@ -1,0 +1,40 @@
+{
+    "app_id": 675910,
+    "name": "Visual Out",
+    "release_date": "2018-03-15",
+    "developer": [
+        "MadameBerry Games LLC"
+    ],
+    "publisher": [
+        "MadameBerry Games LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "An explorative platformer inside a dying computer",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/675910/header.jpg?t=1521126524",
+    "minimum_requirements": "OS: 32 bit Memory: 130 MB RAM Storage: 165 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

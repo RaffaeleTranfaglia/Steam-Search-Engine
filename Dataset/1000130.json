@@ -1,0 +1,37 @@
+{
+    "app_id": 1000130,
+    "name": "Cube Defender",
+    "release_date": "2019-01-06",
+    "developer": [
+        "Simon Codrington"
+    ],
+    "publisher": [
+        "Simon Codrington"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Tower Defense"
+    ],
+    "achievements": 21,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Build turrets and destroy wave after wave of cube enemies in this minimalist and addictive tower defence game. Battle it out with a bunch of cube enemies and blast them off the map with a range of unique turrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1000130/header.jpg?t=1547266513",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 2500 or AMD Equivelant Memory: 512 MB RAM Graphics: DirectX10(R) compatible card with 512MB of memory DirectX: Version 10 Storage: 400 MB available space Sound Card: OpenAL supported sound card Additional Notes: 1280x720 resolution and above recommended",
+    "recommended_requirements": "OS: Windows 8 or Newer (Windows 8/10 Supported) Processor: Intel i7 2600k or AMD Equivelant Memory: 1024 MB RAM Graphics: DirectX11(R) compatible card with 1024MB of memory DirectX: Version 11 Storage: 1 GB available space Sound Card: OpenAL supported sound card Additional Notes: A dedicated video card is recommended (for higher resolutions and faster gameplay)",
+    "reviews": []
+}

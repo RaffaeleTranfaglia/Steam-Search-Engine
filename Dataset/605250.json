@@ -1,0 +1,42 @@
+{
+    "app_id": 605250,
+    "name": "Cluckles' Adventure",
+    "release_date": "2017-04-10",
+    "developer": [
+        "@lukasinspace"
+    ],
+    "publisher": [
+        "Funbit Pty Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 4,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Cluckles may be small, but she is feisty and brave. Guide her through 100+ challenging levels to rescue the chicks and defeat the evil minions!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/605250/header.jpg?t=1492055982",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2.0 GHZ Memory: 4 GB RAM Graphics: 512 MB Video Memory DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

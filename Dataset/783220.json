@@ -1,0 +1,38 @@
+{
+    "app_id": 783220,
+    "name": "Block Shock",
+    "release_date": "2018-02-06",
+    "developer": [
+        "Vox Studios"
+    ],
+    "publisher": [
+        "Vox Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Includes Source SDK"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Arcade"
+    ],
+    "achievements": 19,
+    "positive_ratings": 2,
+    "negative_ratings": 13,
+    "price": 0.79,
+    "description": "Experience the most addictive retro block game like never before. With 12 all-new levels, you must use your skill to win. Can you beat the game, or will you suffer from block shock?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/783220/header.jpg?t=1517920344",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Network: Broadband Internet connection Storage: 100 MB available space Sound Card: N/A",
+    "recommended_requirements": "OS: Windows 7 SP1+, 8, 10 Processor: SSE2 instruction set support Memory: 8 GB RAM Graphics: Graphics card with DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Network: Broadband Internet connection Storage: 100 MB available space Sound Card: N/A",
+    "reviews": []
+}

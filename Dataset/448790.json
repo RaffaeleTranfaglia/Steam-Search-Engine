@@ -1,0 +1,51 @@
+{
+    "app_id": 448790,
+    "name": "Infinity Wings - Scout & Grunt",
+    "release_date": "2016-03-11",
+    "developer": [
+        "XiNFiNiTY Games"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 25,
+    "positive_ratings": 27,
+    "negative_ratings": 16,
+    "price": 1.99,
+    "description": "Infinity Wings - Scout &amp; Grunt Take control of your chosen fighter (either Scout or Grunt) in this side scrolling shooter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448790/header.jpg?t=1513067250",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 1 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "So great game !  I love the Space ship games, and this is frenetic! have a lot of fun, nice graphics, good sound, good controls!  Is a perfect ShootEmUp.  I recommend it, Cost is cheap, and have T.Cards!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its not the last stars wars 3d vr game but its a fine indie shooter.  Things I dont like is the option to see leaderboard... its open a web link to the developper page. I think they include it in the game.  there is so big boss (mothership) to destroy, some are pretty difficult.  Game play fine on my computer. (dualcore, 8go and windows 10)",
+            "review_score": "1"
+        }
+    ]
+}

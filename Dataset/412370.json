@@ -1,0 +1,45 @@
+{
+    "app_id": 412370,
+    "name": "Parallels",
+    "release_date": "2015-11-13",
+    "developer": [
+        "RisingHigh"
+    ],
+    "publisher": [
+        "RisingHigh"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Navigate your way through the surreal minimal, colourful world that is Parallels. What seems like an easy journey, will soon become fraught with danger as you progress through the shadows of ever changing light.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/412370/header.jpg?t=1523210643",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 Ghz Memory: 1 GB RAM Graphics: 512mb Graphics Card Storage: 100 MB available space Sound Card: On-board Sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is really good! Pros: -Ambient Soundtrack - Relaxing Gameplay - Easy on the eyes Cons: -You can't use space to jump.",
+            "review_score": "1"
+        }
+    ]
+}

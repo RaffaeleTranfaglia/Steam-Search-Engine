@@ -1,0 +1,36 @@
+{
+    "app_id": 854560,
+    "name": "Digit Daze",
+    "release_date": "2018-05-10",
+    "developer": [
+        "Red Dolphin Games"
+    ],
+    "publisher": [
+        "VT Publishing"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 5000,
+    "positive_ratings": 13,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Digit Daze is a fun and challenging mathematical puzzle game. You are given a main number less than 100 and one to four color goals to complete with the 16 provided digits. Each color goal can require 2 to 4 numbers to reach the main number.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/854560/header.jpg?t=1547182187",
+    "minimum_requirements": "OS: Win 7 32-bit or higher Processor: 2.0 ghz or higher Memory: 500 MB RAM Graphics: 500 Megs VRAM DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 616240,
+    "name": "Premium Pool Arena",
+    "release_date": "2017-04-14",
+    "developer": [
+        "Iceflake Studios"
+    ],
+    "publisher": [
+        "Iceflake Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Casual",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Sports"
+    ],
+    "achievements": 23,
+    "positive_ratings": 50,
+    "negative_ratings": 48,
+    "price": 7.19,
+    "description": "Premium Pool Arena is a modern arcade style pool game with single player, online and local multiplayer modes. If you love a relaxed game of 8 ball, this is the game for you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/616240/header.jpg?t=1492191650",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5+ GHz Memory: 1 GB RAM Graphics: Intel HD 3000+ DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

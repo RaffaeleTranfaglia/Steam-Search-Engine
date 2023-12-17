@@ -1,0 +1,51 @@
+{
+    "app_id": 629860,
+    "name": "Spelunker Party!",
+    "release_date": "2017-10-19",
+    "developer": [
+        "Tozai Games, Inc.",
+        "O-TWO inc."
+    ],
+    "publisher": [
+        "Square Enix"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 35,
+    "positive_ratings": 24,
+    "negative_ratings": 3,
+    "price": 23.99,
+    "description": "Go on a Journey to the underground with your buddies! Spelunker, the Weakest Action Hero is now on Steam! Embark on group expeditions in Offline and Online Co-op Multiplay with up to 4 players! Overcome thrilling challenges with Time Attack, Quests and more! Enjoy Spelunker Party together!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/629860/header.jpg?t=1547746606",
+    "minimum_requirements": "Processor: Core i3 2.00GHz Memory: 2 GB RAM Graphics: GeForce GT240(512MB) Additional Notes: Unfortunately Spelunker Party! does not support Radeon HD 57xx series graphics cards.",
+    "recommended_requirements": "Processor: Core i3 2.40GHz Memory: 4 GB RAM Graphics: GeForce GT730(VRAM 1GB) Additional Notes: Unfortunately Spelunker Party! does not support Radeon HD 57xx series graphics cards.",
+    "reviews": []
+}

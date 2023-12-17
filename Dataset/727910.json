@@ -1,0 +1,35 @@
+{
+    "app_id": 727910,
+    "name": "Titanic",
+    "release_date": "2017-10-30",
+    "developer": [
+        "Interactive Gaming Studios"
+    ],
+    "publisher": [
+        "Interactive Gaming Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 67,
+    "negative_ratings": 53,
+    "price": 2.09,
+    "description": "Experience the Titanic in all of it's glory, and try to escape the sinking ship!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/727910/header.jpg?t=1527847270",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 2.3 GHz i5 Memory: 4 GB RAM Graphics: At least 32mb graphics. Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

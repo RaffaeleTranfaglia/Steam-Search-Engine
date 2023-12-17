@@ -1,0 +1,39 @@
+{
+    "app_id": 698300,
+    "name": "Find this!",
+    "release_date": "2017-09-01",
+    "developer": [
+        "For Kids"
+    ],
+    "publisher": [
+        "For Kids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Hidden Object"
+    ],
+    "achievements": 17,
+    "positive_ratings": 72,
+    "negative_ratings": 15,
+    "price": 1.69,
+    "description": "Extremely simple, but at the same time an exciting puzzle game, that will develop your attentiveness and ability to find different objects. Find out how easy it is be able to find the right thing in a vast sea of unimaginable stuff!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/698300/header.jpg?t=1505379410",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo or better Memory: 2 GB RAM Graphics: Intel HD2000 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 4 GB RAM Graphics: or better Storage: 300 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 749560,
+    "name": "Cycle 28",
+    "release_date": "2018-03-09",
+    "developer": [
+        "Pill Bug Interactive"
+    ],
+    "publisher": [
+        "Pill Bug Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Classic"
+    ],
+    "achievements": 11,
+    "positive_ratings": 31,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "A fast-paced shooter but you're stuck in a time loop. First you think it's an arcade game: simple controls, powerful upgrades, and intense dogfights. But you’re living the same day over and over, trying to find out who the enemy are, and what they want.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/749560/header.jpg?t=1554490627",
+    "minimum_requirements": "OS: Windows Vista or 7 Processor: Quad Core 2.40Ghz+ Memory: 4 GB RAM Graphics: Intel(R) HD Graphics 520 DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": "Additional Notes: Minimum resolution of 1920x1080 is recommended",
+    "reviews": []
+}

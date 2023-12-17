@@ -1,0 +1,46 @@
+{
+    "app_id": 553780,
+    "name": "ARK BOX Unlimited",
+    "release_date": "2016-11-29",
+    "developer": [
+        "PolarityFlow"
+    ],
+    "publisher": [
+        "PolarityFlow"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Create, share and download unlimited new Stages for this new arcade remix with integrated Stage editor!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553780/header.jpg?t=1489858973",
+    "minimum_requirements": "OS: Windows XP or above Processor: Intel Pentium 4 or newer Graphics: Direct X compatible Storage: 120 MB available space",
+    "recommended_requirements": "OS: Windows 8.1 / 10 Processor: Intel Core i Graphics: Geforce or Radeon Gen. 6+ DirectX: Version 9.0a Storage: 1 GB available space",
+    "reviews": []
+}

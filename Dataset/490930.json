@@ -1,0 +1,41 @@
+{
+    "app_id": 490930,
+    "name": "Need to Know",
+    "release_date": "2018-08-28",
+    "developer": [
+        "Monomyth Games"
+    ],
+    "publisher": [
+        "Monomyth Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 101,
+    "negative_ratings": 59,
+    "price": 11.39,
+    "description": "Welcome to the Department of Liberty. Ascend the ranks of the NSA-like surveillance agency and decide: will you stand up for privacy, or help create an unstoppable police state? Spy on people’s deepest secrets, pick apart their private lives and decide their fate in this modern surveillance thriller.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/490930/header.jpg?t=1535487312",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 4 GB RAM Graphics: Intel HD 520 or equivalent DirectX: Version 10 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 460+ Storage: 3 GB available space",
+    "reviews": []
+}

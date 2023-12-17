@@ -1,0 +1,40 @@
+{
+    "app_id": 924310,
+    "name": "VIDEO GAME",
+    "release_date": "2018-11-12",
+    "developer": [
+        "Luke Sanderson"
+    ],
+    "publisher": [
+        "Luke Sanderson"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 1.0,
+    "description": "VIDEO GAME is a local-multiplayer action arcade game. Curve the ball past your opponents and dash to save a goal at the last second!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/924310/header.jpg?t=1542705973",
+    "minimum_requirements": "OS: Windows 7 Additional Notes: VIDEO GAME is local multiplayer only, for 2 OR 4 players. Requires a controller for each player. There is no single player content.",
+    "recommended_requirements": null,
+    "reviews": []
+}

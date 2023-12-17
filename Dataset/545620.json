@@ -1,0 +1,38 @@
+{
+    "app_id": 545620,
+    "name": "Anamorphine",
+    "release_date": "2018-07-31",
+    "developer": [
+        "Artifact 5"
+    ],
+    "publisher": [
+        "Artifact 5"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Surreal"
+    ],
+    "achievements": 10,
+    "positive_ratings": 21,
+    "negative_ratings": 12,
+    "price": 15.49,
+    "description": "Explore the past as you resolve the present in Anamorphine, a surreal adventure of rendered emotions. Journey into the mind of the main character, a young man in denial. His subconscious is pushing him to face his past - or be consumed by it. Play on a screen or in VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/545620/header.jpg?t=1542840819",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 2.00 GHz or AMD equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce 450 or higher with 2GB Memory DirectX: Version 11 Storage: 10375 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

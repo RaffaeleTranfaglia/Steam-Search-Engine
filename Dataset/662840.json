@@ -1,0 +1,41 @@
+{
+    "app_id": 662840,
+    "name": "Abo Khashem",
+    "release_date": "2018-02-22",
+    "developer": [
+        "Moving Dimensions"
+    ],
+    "publisher": [
+        "Moving Dimensions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Casual"
+    ],
+    "achievements": 38,
+    "positive_ratings": 23,
+    "negative_ratings": 6,
+    "price": 23.79,
+    "description": "Start your adventure in the City of Torrid! Fight enemies in a whole new way, develop your entrepreneurial skills, explore dangerous dungeons, and discover hidden treasures! Experience the captivating journey of Abo Khashem.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/662840/header.jpg?t=1522447132",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 3000 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 4000 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Core i7 Memory: 4000 MB RAM Graphics: Nvidia Geforce DirectX: Version 11 Storage: 4000 MB available space",
+    "reviews": []
+}

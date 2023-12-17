@@ -1,0 +1,44 @@
+{
+    "app_id": 705500,
+    "name": "Tiny Bubbles",
+    "release_date": "2018-05-08",
+    "developer": [
+        "Pine Street Codeworks LLC"
+    ],
+    "publisher": [
+        "Pine Street Codeworks LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Puzzle",
+        "Physics"
+    ],
+    "achievements": 35,
+    "positive_ratings": 21,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Play with squishy clusters of soap bubbles in this mesmerizing new puzzle game. Winner of over a dozen indie gaming awards!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/705500/header.jpg?t=1532570611",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2+GHz Memory: 1024 MB RAM Graphics: Shader Model 3.0, OpenGL Storage: 200 MB available space Additional Notes: Steam client required.",
+    "recommended_requirements": null,
+    "reviews": []
+}

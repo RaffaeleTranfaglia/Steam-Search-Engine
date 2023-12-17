@@ -1,0 +1,36 @@
+{
+    "app_id": 890940,
+    "name": "Romancing Monarchy",
+    "release_date": "2018-07-24",
+    "developer": [
+        "Rouhana"
+    ],
+    "publisher": [
+        "Rouhana"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "RPGMaker",
+        "Singleplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Prove your right to succeed the throne in a non-linear fantasy JRPG! As the Prince of Achaea, it is your duty to obtain the Mandate of Heaven to continue your family's rule over Achaea. After assembling a party of four at Ruth's Tavern, you set off to explore the world in search of the Mandate.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/890940/header.jpg?t=1532790716",
+    "minimum_requirements": "OS: Microsoft® Windows® 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 4 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU Storage: 669 MB available space Additional Notes: 1280x768 or better display",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+    "reviews": []
+}

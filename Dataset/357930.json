@@ -1,0 +1,51 @@
+{
+    "app_id": 357930,
+    "name": "R.O.O.T.S",
+    "release_date": "2015-04-01",
+    "developer": [
+        "reMaginarium"
+    ],
+    "publisher": [
+        "reMaginarium"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 34,
+    "negative_ratings": 21,
+    "price": 1.69,
+    "description": "R.O.O.T.S is a real-time strategy game that pits the player against colorful yet invasive enemies that must be overtaken before the player themselves is uprooted! Warfare has never been so beautifully unorthodox.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/357930/header.jpg?t=1447371150",
+    "minimum_requirements": "OS: Windows 7, Windows 8 Processor: 1 GHz or faster processor Memory: 512 GB RAM Graphics: 256MB with support DirectX 9.0c DirectX: Version 9.0c Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I cannot recommend this.  While it is amusing to begin with, the mechanics are inherently weak as is shown in later levels. Power is not truly transferable(meaning you cannot indirectly project power), and several of the later levels are designed in such a way that the natural outcome is a 'deadlock'. Meaning, for example, that there's a choke-point of 2 planets, and you can direct 5 planets worth of power there, and the AI can project 5 or 6 planets worth of power there. The result is that even if you manage to focus down one of those planets, it is now further in the AI territory and it can bring additional 3 planets worth of power to bear against it, instantly taking it back.  For some of these levels, there are supposedly Youtube-walkthroughs from the creator. The problem is that either the enemy got smarter, some mechanics changed, or they are immensely luck-based. (e.g. level 35, even if I try to copy the walkthrough exactly to bypass the deadlock, the AI is always smart enough to 'save' against backdoor intrusion, and thus ultimately has sufficient planets available to force the deadlock again.  Other annoying aspects: There's obstacles that cause seemingly randomized pathfinding(meaning doing the exact same thing 2 times in a row produces different results), Enemies seem to focus on you(more obvious in a few maps featuring above-mentioned deadlocks), and seemingly 'mirrored' maps are not(meaning the AI can reach a planet from a position where you cannot on your side of map, giving it an advantage).  Most annoying, though, is the fact that all that excess power is lost. While i understand that this is part of the mechanic, it also turns some maps into slugfests, where you clearly have an advantage but have to battle it out for, depending on your individual skill, quite a long time. A more elegant mechanic would have been preferable here.  Even if 'boosting' a planet would just work as a tiebreaker against an unboosted enemy planet projecting power somewhere.  All in all, it is amusing for a while and the price is low. But it is a source of great frustration in some later levels, which is why I cannot recommend this. From its simplicity and tone, it aims to be similar to a number of games it lists in the store page. But it fails in providing that same fair and enjoyable playstyle.   TL:DR: Several shortcomings and map design make this game infuriating in later levels, with luck-based and seemingly random success-chance, rather than strategy. As such, cannot recommend even at this price. If you pick it up in a bundle, go ahead and give the first couple levels a try-those are fine.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game really reminds me of Eufloria, its a chilled gameplay style.  You conquer 'planets' with the energy of your trees and the amount is shown by the height of your trees and the planets, bigger planets are harder to conquer. A lot of fun and always a good game type from time to time!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don´t buy at all, not even on a discount. ",
+            "review_score": "-1"
+        }
+    ]
+}

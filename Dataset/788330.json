@@ -1,0 +1,46 @@
+{
+    "app_id": 788330,
+    "name": "Varion",
+    "release_date": "2018-11-08",
+    "developer": [
+        "Rundisc"
+    ],
+    "publisher": [
+        "Light Maze"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 14,
+    "positive_ratings": 14,
+    "negative_ratings": 0,
+    "price": 10.29,
+    "description": "Blast your friends at the speed of light in this futuristic brawler where only bounce shots are lethal! Team up or fight for yourself, build dirty tactics and take advantage of ever-changing dangerous stages in up-to-4 player restless battles to become the supreme ruler of your living room!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/788330/header.jpg?t=1546905905",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: 2.5 GHz Intel Memory: 4 GB RAM Graphics: ATI Radeon HD 4470 / GeForce GTS 250 DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

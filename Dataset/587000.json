@@ -1,0 +1,40 @@
+{
+    "app_id": 587000,
+    "name": "First Strike: Final Hour",
+    "release_date": "2017-05-30",
+    "developer": [
+        "Blindflug Studios AG"
+    ],
+    "publisher": [
+        "Blindflug Studios AG"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 53,
+    "positive_ratings": 546,
+    "negative_ratings": 81,
+    "price": 8.99,
+    "description": "FIRST STRIKE is a fast paced real time strategy game where you play one of the twelve biggest nuclear superpowers of the world – from known superpowers like the USA to an upstart hellraiser like North Korea – and try to be the last one remaining when the whole world blows to smithereens.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587000/header.jpg?t=1535980220",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2GHz Dual Core (SSE2 instruction set support) Memory: 4 GB RAM Graphics: nVidia® 8800 GT / AMD® 4670 or faster Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 777310,
+    "name": "Battle Of Keys",
+    "release_date": "2018-03-21",
+    "developer": [
+        "Tero Lunkka"
+    ],
+    "publisher": [
+        "Tero Lunkka"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "Low Poly FPS Shooter where you need find 5 keys and avoid police army",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777310/header.jpg?t=1528613768",
+    "minimum_requirements": "OS: windows 8 Processor: i5 Memory: 4 GB RAM Graphics: NVidia GeForce 800 series DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Direct x9",
+    "recommended_requirements": "OS: Windows 8.1 Processor: i7 Memory: 8 GB RAM Graphics: NVIDIA GeForce 900 series DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Direct x9",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 553340,
+    "name": "SolarGun",
+    "release_date": "2017-07-28",
+    "developer": [
+        "Mechanical Boss"
+    ],
+    "publisher": [
+        "Mechanical Boss"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 8,
+    "positive_ratings": 146,
+    "negative_ratings": 22,
+    "price": 0.99,
+    "description": "Solar Gun is a first person puzzle game set it in an aseptic factory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553340/header.jpg?t=1532693292",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bits Processor: Intel Celeron G1820 / AMD Athlon II X3 455 Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 430/ AMD Radeon R5 240 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 / AMD Radeon HD 7850 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

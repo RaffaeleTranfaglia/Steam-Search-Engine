@@ -1,0 +1,52 @@
+{
+    "app_id": 696140,
+    "name": "No Heroes Here",
+    "release_date": "2017-10-02",
+    "developer": [
+        "Mad Mimic"
+    ],
+    "publisher": [
+        "Mad Mimic",
+        "Chorus Worldwide"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 69,
+    "positive_ratings": 182,
+    "negative_ratings": 20,
+    "price": 10.99,
+    "description": "No Heroes Here is a frantic co-op game for 1 to 4 players, available in local and online modes. Craft and use several items effectively whilst coordinating your ragtag band of non-heroes to defend castles and survive! ...Oh, as well as saving the Kingdom in the meantime!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/696140/header.jpg?t=1511271828",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.8 GHz intel core 2 duo Memory: 2 MB RAM Graphics: 512 Mb DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

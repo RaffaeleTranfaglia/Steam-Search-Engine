@@ -1,0 +1,40 @@
+{
+    "app_id": 431960,
+    "name": "Wallpaper Engine",
+    "release_date": "2018-11-16",
+    "developer": [
+        "Kristjan Skutta"
+    ],
+    "publisher": [
+        "Kristjan Skutta"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities"
+    ],
+    "tags": [
+        "Utilities",
+        "Software",
+        "Design & Illustration"
+    ],
+    "achievements": 17,
+    "positive_ratings": 63623,
+    "negative_ratings": 1947,
+    "price": 2.79,
+    "description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on Steam Workshop!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/431960/header.jpg?t=1543273391",
+    "minimum_requirements": "OS: Windows 7 (with Aero), 8.1, 10 Processor: 1.66 GHz Intel i5 or equivalent Memory: 1024 MB RAM Graphics: HD Graphics 4000 or above DirectX: Version 10 Storage: 512 MB available space Additional Notes: Windows N versions require the 'Media Feature Pack' from Microsoft. Aero must be enabled on Windows 7. High contrast mode is not supported. Max video res. Windows 8, 10: 4K, Windows 7: 1080p",
+    "recommended_requirements": "OS: Windows 8.1, 10 Processor: 2.0 GHz Intel i7 or equivalent Memory: 2048 MB RAM Graphics: NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above DirectX: Version 11 Storage: 1024 MB available space",
+    "reviews": []
+}

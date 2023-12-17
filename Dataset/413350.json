@@ -1,0 +1,41 @@
+{
+    "app_id": 413350,
+    "name": "Daydream Blue",
+    "release_date": "2017-01-25",
+    "developer": [
+        "RalphVR"
+    ],
+    "publisher": [
+        "RalphVR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 0,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Escape into a vibrant world of whimsy, wonder, and new friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/413350/header.jpg?t=1485371394",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i5 4590 or equivalent/better Memory: 8 GB RAM Graphics: GeForce GTX 970 or equivalent/better DirectX: Version 9.0 Network: Broadband Internet connection Storage: 247 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

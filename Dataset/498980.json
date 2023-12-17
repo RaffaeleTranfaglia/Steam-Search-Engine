@@ -1,0 +1,43 @@
+{
+    "app_id": 498980,
+    "name": "DUO",
+    "release_date": "2016-07-07",
+    "developer": [
+        "NiVision"
+    ],
+    "publisher": [
+        "NiVision"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 6,
+    "price": 5.99,
+    "description": "DUO is an arcade game designed from the ground up for the virtual reality. Now you can immerse yourself in a virtual world with classic retro game.&quot;This could be Vive’s best brick breaker. Give it a go.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/498980/header.jpg?t=1510779627",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel® i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A retro still game easy to play, alot of fun. Hopefully the developer keeps working on it and adds some additional content for it. Overall a thumbs up.",
+            "review_score": "1"
+        }
+    ]
+}

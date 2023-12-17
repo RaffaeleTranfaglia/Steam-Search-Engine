@@ -1,0 +1,46 @@
+{
+    "app_id": 253250,
+    "name": "Stonehearth",
+    "release_date": "2018-07-25",
+    "developer": [
+        "Radiant Entertainment"
+    ],
+    "publisher": [
+        "(none)"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Trading Cards",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "City Builder",
+        "Building",
+        "Sandbox"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5242,
+    "negative_ratings": 1719,
+    "price": 15.49,
+    "description": "Pioneer a living world full of warmth, heroism, and mystery. Help a small group of settlers build a home for themselves in a forgotten land. Establish a food supply, build shelter, defend your people, monitor their moods, and find a way to grow and expand, facing challenges at every step.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/253250/header.jpg?t=1545243901",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 (32-bit or 64-bit) Processor: Intel or AMD Dual-Core, 1.7 GHz+ Memory: 4 GB RAM Graphics: nVidia GeForce GT 430 512MB, Radeon HD 7570M, Intel HD 4000 Storage: 2 GB available space Additional Notes: OS Updates: Windows 7 SP1",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel or AMD Quad-Core, 2.8 GHz+ Memory: 16 GB RAM Graphics: nVidia GeForce 780 or better, AMD Radeon RX 580 or better Network: Broadband Internet connection Storage: 5 GB available space Additional Notes: Hard Drive: SSD for optimal performance",
+    "reviews": []
+}

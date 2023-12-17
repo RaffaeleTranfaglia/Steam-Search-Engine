@@ -1,0 +1,39 @@
+{
+    "app_id": 1031640,
+    "name": "Super Orb Collector",
+    "release_date": "2019-02-25",
+    "developer": [
+        "Tuwi Michael Nannings"
+    ],
+    "publisher": [
+        "NanningsGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Mouse only"
+    ],
+    "achievements": 24,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "Super Orb Collector is a fun top down agility game that lets you test your hand-eye coordination. The goal of this game is to collect all the white dots and reach the exit portal while avoid hitting the colored objects. Many moving obstacles can kill you at any time, so plan your moves carefully!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551084269",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 Ghz Memory: 2 GB RAM Graphics: 256MB Graphics Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

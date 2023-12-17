@@ -1,0 +1,452 @@
+{
+    "app_id": 375820,
+    "name": "Human Resource Machine",
+    "release_date": "2015-10-15",
+    "developer": [
+        "Tomorrow Corporation"
+    ],
+    "publisher": [
+        "Tomorrow Corporation"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Programming",
+        "Puzzle",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 2200,
+    "negative_ratings": 155,
+    "price": 6.99,
+    "description": "Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.From the creators of World of Goo and Little Inferno.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375820/header.jpg?t=1535056664",
+    "minimum_requirements": "OS: XP or later Processor: 1.5Ghz CPU Memory: 1 GB RAM Graphics: graphics card that supports Shader Model 2.0 or greater DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Its basically Assembly Language class. Ive read a few other reviews here, and the negatives bring up a couple valid points. There is very little handholding. They expect you to google to learn the concepts, then do the exercise in all but the most simple puzzles at the start. The game is more like a question booklet rather than a textbook, so you are solving problems not learning the material you need to solve problems. If you have some programming background and need a referesher on assembly, or if you know programming and want to try your hand at some assembly type problems without actually doing assembly code.... this game could be useful and entertaining. But if you are looking to LEARN, this game will not teach you very well. You will need to do the learning else where and come back to this as an exercise.  As an exercise, its good and I reccomend it. As a learning tool, I do not reccomend it. You should be aware of this before buying. I will reccomend it because I like it, but really take my words as a warning before buying it. Its for a specific audience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wish I had this when i was a kid! The game shows you programing concepts but in a hidden way that's not boring. This is perfect if you want to learn how to think like a programer. get the kids to play this.  Awesome puzzle game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really enjoyed this programming simulator and I recommend it to anyone (except to, maybe, actual programmers :P).  It works because they keep it simple, with a user friendly interface and an appropriate learning curve.  It will make you think, debug and improve. Sometimes you will feel frustrated but also very rewarded when you get to solve a problem your own.  There is even challenge for the 'experts', as in each task there are goals regarding iterations and number of instructions to optimize code.  The most complicated task might bee too hard for people who have never been into programming before, but you can always look for help or solutions in the forums or the Internet.  One of the things I don't like about it is that, as many have mentioned, it doesn't support Steam Cloud, which would be great to save your code. I hope they'll implement it eventually. Also I miss more game modes (like with different instruction sets), leaderboards and even a Workshop implementation where users could create tasks that others download and try to solve.  All in all, a pleasant surprise that made me look for similar games that have to do with programming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An adorable assembly language programming game where your character executes the programs by 'read'ing from an input conveyor, 'writing' to an output conveyor, and using numbered boxes for storage, carrying intermediate values between these entities (the PC is the accumulator register!) The instruction set eventually includes read/write, load/store, add/sub, inc/dec, and jump/jump-if-zero/jump-if-negative, including indirect variants of the memory operations. Probably an excellent way to learn about pointers.  Took me about 3 hours to finish the main campaign and most of the optional side-missions, but some of the ones I haven't finished yet look like they may take a bit of work, and others could definitely stand to be optimized. No actual programming experience should be necessary (the game introduces concepts slowly, provides hints, etc), but it'll probably take somebody who has no programming background longer to work through all the content.  If you enjoyed SpaceChem or TIS-100, this will probably appeal (though it is simpler). If you enjoy Human Resource Machine and want more visual programming challenges, SpaceChem has a lot of that, or for more textual programming puzzles with a similar instruction set but multiple nodes, give TIS-100 a look.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game simulates simple programming concepts using a corporate mail room as the setting. The player selects a list of actions that achieve a desired result. For example, moving odd numbers from one side of a room to another or adding two numbers together and putting the result in the mail room's 'outbox'. The concepts start fairly straightforward, but there are some particularly onerous (optional) challenges that make things interesting for the more experienced developers. Most puzzles include at least 2 optimization challenges: use the least number of commands, and perform the task most efficiently. I'm a programmer and I find some of these challenges difficult.   The ambiance captures a satirical heartless corporation filled with clueless managers and soul-crushing orders from the executives. The mood is kept light with colorful and cute characters, despite the dreary brown office interior. Several 'interludes' provide some brief comic relief.  In short, Human Resource Machine is a very enjoyable, casual game. I highly recommend it for anyone who appreciates or wants to hone their programming skills.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like a Zachtronics game, but where simply entering your code is a chore.  It seems more aimed at people who are not programmers - and the very positive review score tells me they succeeded. But if you *are* a programmer, a drag-and-drop interface for writing code where you can only see a dozen lines at once is quite unpleasant. I'd recommend Shenzhen I/O instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you enjoy programming, then buy this game!  The majority of puzzles are simple and the 'language' itself is based off low-level Assembly with a single accumulator so you are met with constraints compared to the majority of programming languages; however, if this game based itself on modern programming languages, there would be no challenge since every puzzle in the game would be trivial!  Solving the storyline puzzles is pretty easy in itself but figuring out the optional problems can be tricky and fun, especially if you enjoy wanting to optimize them (as I did).  I did find it annoying since the only jump conditionals you have are 'Jump if Negative' and 'Jump if Zero' compared to any assembler's multiple jump conditionals as having a 'Jump if Positive' would have definitely saved me a few lines here or there.  The UI is a bit clunky since copy and pasting segments of code only works for your entire program and not for sub-sections of it. If you want to insert comments into your programs or give your memory cells names, you have to use an awkward drawing tool using the mouse instead of typing what you want.  Needless to say, this is still a fun game for those who enjoy solving math and puzzle problems using programming. It's also a nice introduction for people who want to get into assemblers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow, what a great game. I had heard from a friend that it wasn't great, so i ignored it for a long time, but I picked it up on a whim and I was totally blown away. Don't be intimidated by all the reviews mentioning programing, the puzzles start from the absolute basics, and anyone with decent logic skills can solve them. I couldn't stop playing until I beat the game.   As of writing, I have played 7 hours, and solved all of the main missions, but have not taken on some of the optional side missions. Though, I do have some experience with programming, so for those who have never tried it, you will probably need a little more time for some of the puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun assembly-like programming puzzle game with optimization challenges for hard core fans.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I introduced this game to several of my nerd colleagues and they loved it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short answer: It's basicaly a RISC assembler for kids. I like it, event when there are few tedious levels.  Long answer: The middle part of the game was annoying a bit until all concepts were unlocked to be used. I would do few things differently, allow to change font sizes, allow type things on keyboard (you have to drag n drop everything, even comments you need to draw, can't type), or some shortcuts space for playing the simulation and [ ] to adjust speed would help. The visual jumps are nice when there is 3 of them, but when you have more of them they just annoy you. There is copy and paste and probably I enjoyed typing it manualy in other application and paste it back. I would allow CALL, RET instructions which would create routines / libaries, maybe allowing people carry over some libraries they made before. Now you have to start from scartch every time, one level checks for duplicates in memory, where the mem is already populated, next level is basicaly the same but you need to populate the memory yourself now. having nice common routines you could focus on problem solving and not the tedious work. What i enjoyed are the optimalisation parts a lot where you need to push limits of the architecture to the max. Definitely they should fix few things and create second game. I liked the backstory but was bit dark and maybe bit depresing for kids (but other games are much worse).  Definitely worth trying or even giving it to kids to experiment with coding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Seemed pretty easy at first, but became challenging when multiple variables came up. I think those with a better knowledge of programming will do much better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It doesn't matter what these guys do. Bridges made of goo, kids burning their toys to keep themselves warm, my boss teaching me how to code... I don't care what they release next, I WILL buy it.  Because each of the first 3 games was a unique masterpiece in its own right.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'A' This is definitly for those who can appreciate a math puzzle. In fact many of these are the very same puzzles I had for homework when learning Assembly just with the Tommorow Corps Burtonesque flair.   Which brings up the neat observation that while your little man is shuffling packages from 'in' to 'out' using limited floor space as memory your PC is putting together the game as you play in the same way. If that realization tickles some odd bone in your body and makes you cry for joy this game is definitly up your alley.   TLDR: If you lost conciousness or are currently drooling from boredom this may not be your flavor of puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Computer Scientist in me loves this game. About the time I can implement Bubble Sort in a video game is the time I favorite a game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great fun, and great for pretty much any skill level. Non-programmers will find it a wonderful introduction to programming, and computer science majors will get huge gameplay milage optimizing their solutions. As an intermediate programmer, I found the game challenging and rewarding, and consistently pleasurable. And beyond that, it's a game with something to say. It's funny, moving, adorable, and a worthy companion and successor to Little Inferno.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great visualization programming game. The language used here is basically low-level language so it is pretty much new and unfamiliar, hence there is a good chance you will find this game challenging, especially those last few challenges where I am currently stuck on...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm always a sucker for programming games and this one is no exception, it's a load of fun and very satisfying. But having just spent a minute or so looking at the menu screen, my favourite thing now is the horrifying way it manages to create an aesthetic which is simultaneously 'cute' and 'corporate dystopia'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An Awesome yet difficult game! A Real challenge for anyone with a trained brain!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought it because I thought the artwork looked cute.  Started it up to see if it was any good. And it kept me hooked for several hours.   What it is",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It TECHNICALLY is a good game, but for some strange reason,management always wants me to have a 0 as the last output in later levels (without it being part of the task given to you). That´s probably a bug worth fixing,cause it seems to happen to me EVERY SINGLE TIME,making the tasks literally impossible to solve. If they fix this, this game is a must buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun game. It starts off simple enough, do this and repeat. It quickly ramps up to more complicated functions and makes you think. The story is a little weak but the fun is in figuring out a solution to these problems and seeing on the results page that you can lean it out by one or two functions then going back in and figuring out where you can trim it down.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Apparently my bubble sort is inefficient af.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a fun little game. But in the end its only very basic programming. Like how to multiply numbers when you only have add and subtract functions available. The first half of the levels introduce all the functions you can use and they are very easy.  It took me about 5 hours to comlete all the levels. I dont know why it is so short. With this type of game it would be very easy to make more levels.  Something I dont like is you cant combine the simple functions to make a more complex function. This way you are going to programm things like multiplication or sorting numbers again and again. This gets a bit tedious.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pertty simple programming game.  Wait 4 a sale though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great nerdy fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "if you like TIS-100, you'll probably like this aswell. Starts really easy, gets more challenging to get optimal programs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really nice game. If you are looking to start programing, This should be a good one to learn about coding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For fans of TIS-100, SpaceChem, Infinifactory, The Great Permutator and other thinky puzzlers.  Much easier to get into, though!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Human resources machine is odd, so odd in fact that I’m not even sure that I can call it a game. This game attempts to target two very different audiences by having the main simple track for puzzle enthusiast and the complex track for experienced programmers. As such I will be splitting my review in two so you can better decide if this game is for you.   To the puzzle enthusiast:  This is a logic and mathematic puzzle game that you not only have to solve yourself but you have to write a program to solve for you. If you’ve never programmed before the game walks you through everything you need to know in order to play. It gives good instructions and hints to help you get along. I think it strikes a good balance between teaching the player different concepts without handing the answer to the player. The puzzles can compound on each other as the knowledge of the answer from the previous puzzle might be vital to discovering the answer to subsequent ones. If you get to the end of this game then you will have learned some basics of simple programming.  If you enjoy cross words, logic, and/or mathematical puzzle games you might find this game enjoyable.   To the programmers:  This game adds an artistic overlay of a man executing a series of simple, low level, or assembly like commands. (i.e. add, jump on zero, etc). Every level you are presented with the challenged to create a specified output with a given input and your job is to create a function to achieve those requirements. I played this game on a PC but I think it would be easier on an iPad or tablet. Everything is controlled by the mouse and you even have to drawl your notes to keep track of things. (no option to type your notes in.) I’ve solved most of these puzzles in school assignments when working with assembly. The only challenge they have for programmers is that they have two challenges for the advanced levels. Create the function using the fewest number of commands and create the function using the fewest number of steps. You can’t always do it both was at once. I never have trouble creating the functions to complete the given task. If you have always wanted to see a compiler where a little man runs around executing your commands than this is literally the game you’ve been waiting for. If that doesn’t appeal to you there is really no reason to get this game.   5/10  Would I recommend this game? That’s not a straight forward answer. I would recommend this game to someone who likes puzzles and is interested in learning what low level programming might be like. I would not recommend this to anyone else. Because the people I would recommend this game to is such a small niche I’m giving the review a thumbs down.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is about programming. It teaches you concepts that I remember going through in college in order to complete objectives. It's drag and drop code. Really easy to get started. The objectives get harder as you progress in the game. And it has OCD like the other Tomorrow Corp games. I enjoyted the gameplay, and I don't like to code. :) The only downside to this game is that it does not have no where near as much story content as the other games that Tomorrow Corp has put out and I'm really disappointed by this. This is the reason I bought the game. Tomorrow Corp thus far has had great stories that kept me wanting to play. This one, didn't.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great idea, fun for a bit but the limited methods you have available actually make the game more frustrating than actually just learning to develop for real. That and the fact that you have to draw your code comments instead of just typing make it way more frustrating. Instead, just go learn to code instead. It's more productive and actually more enjoyable than slogging through the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "As a programmer, I love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't say whether this game was benificial for me in any way cause it just seems like puzzles involving numbers. I can say without a doubt, if you drop all your expectations of learning something valuable for the future, it will be a lot more fun. Promise, i know i did!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Small game.... good for getting the old nogger ticking again. A bit high on the price side, but overall worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like programming puzzels or just want to train your logical mind, this is the game for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i am useless without my &lt; &gt; symbols this is pain 11/10 would spend more time on this than my intro to programming assignments again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VERY fun game, especially if you like puzzles and having to make things work based on strict orders. Can get frustrating, but I enjoy the heck out of it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't stop playing this logic game. Forget about the fact that I'll never optimize my machines to get all of the achievements, I want to see how it ends.  I'm not an engineer, but the concepts seem rooted in basic programming algorithms. I have a feeling that if you code for a living or are an enthusiast, you may have a way easier time with this game than I have. However, the challenge and the hours that this game have kept me occupied on an airplane make it one of the games I just keep coming back to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is how you should interview people. screw whiteboards.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will make you write bubble sort in assembler.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Similar to TIS-100, but a bit simpler and mouse driven. Would make a great game for anyone thinking they'd be interested in computer science.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Assembly language programming simulator 2015. Hopefully nobody ever sees the awful hacky garbage I used to solve the harder problems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought the game but then it stopped working so i deleted local content and it said i could just re-download it from the store but i actually have to pay. Though it was fun while it lasted so thumbs up. :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice game, especially for programmers :).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "GREAT GAME, worth to try, very good to improve your programming skills",
+            "review_score": "1"
+        },
+        {
+            "review_text": "coding is cool",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I haven't played much yet but the puzzles in the game are real fun, the soundtack is super nice and the graphical appearance of the game is super nice! love it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Human Resource Machine is a fun exercise in assembly programming and teaches the basics of programming and program logic. No prior programming knowledge is required, but even for experienced programmers this game is a lot of fun (and challenging at times).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Human Resource Machine is a ♥♥♥♥ teacher. It's a game about how you find a solution, not the solution itself, and the game's designers have no idea how to teach this.  I like to try and dabble in the puzzle genre on occasion, and reviews that claimed this game teaches programming fundamentals caught my attention. HRM does manage to remind me of an intro to C++ course I took a while ago, only there's no help or professor to give you a hand. Some of the attempts to aid the player are so bad they're laughable.   For example, the first puzzle where I needed help only the required output was provided. No first steps, no suggested pieces, not even an idiot-level 'do this' hint. Just an image of what the output to the puzzle would be, which would be obvious to anyone who can read instructions. I did find a solution in an online walkthrough, but I cannot explain why the solution in the walkthrough worked where my similiar ideas completely failed.  I tend to find puzzle games more work then fun, so the positive reviews are probably from people who actually enjoy puzzle game logic. Everyone else should be wary of this BS.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Tough game. use your brain. me not so good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Retreads old puzzles from programming 101, and even that TIS-100 does miles better. Most importantly the actual play area(where you do the programming) is about 1/4th of the screen which is not exactly great. The rest is devoted to a visual representation of what is happening that doesn´t actually help you visualize what is happening.  Past that Tomorrow Corporations unique style is there but is a massive step down from Little Inferno, just like that was from World of Goo. At this point it feels more like lip service to past greatness than anything worthwhile on its own. How the mighty have fallen.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad programming. Wannabe realistic game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I thought I would like this game but there is WAY too much math involved. Ugh... I work all day doing this crap- the last thing I want is more numbers.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "All that math sent me back to my psychiatrist.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great little game! Very challenging puzzles!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game! I'd try it if your interested in programming at all but be warned its not easy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like one of those Giant gobstoppers, at first it's absolutely amazing, you're enjoying the hell out of it, over time however things get harder, you start to question whether it's all worth it, whether you'll ever finish it. The thing about Tomorrow Corporation games is that at their heart they always have a moral, my conundrum now is do I try and sit here for hours slowly trying to chip away at each new formula until I perfect them or do i take the hammer to this proverbial gobstopper (in that I mean do i google solutions) to get to the delicious chewing gum centre...That said every time i crack a puzzle I feel an immense sense of accomplishment, until i release how inefficient my formula is.  For full disclosure, I'm not a coder, so this maybe easier if you have some knowledge, if this were a film making puzzle game I'd ace it... either way if you're looking for a challenge with a sense of reward and you love the games of tomorrow corporation then buy this right now!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "considering I couldnt tell you the first thing about programming this was a good but acheiveble challenge, another great game from tomorrow corp",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you suck at programming or you've never seen it before, this is probably a pretty challenging logic puzzle. If you're a professional programmer, the optimization puzzles will get you thinking—bonus points if you solve them all without loop unrolling (you cheaters!) ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The nerdest game I've ever played! 10+++",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Little procedural programming game. I just feel like I'm at school again, programming fun little things... BUT the necessity to reduce the number of commands and actions: that's very interesting. If you think programming should be a game, that's for you! And if you liked Little Inferno, you'll feel right at home!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fabulous introduction to programming, with a cutesy 1950s office aesthetic. The puzzles are fun and devilishly simple, really showcasing the difference between human and computer logic. The introductory levels are stupid simple- accesible to children, even- with later ones ramping up into some very difficult logical problems.  Wonderful way to kill a few hours, and it scratches a programming itch I didn't even know I had. Worth the buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While I did like this game I am not sure it has the same appeal somehting like Little Inferno and World of Goo has. I can see however this being some younger teachers attempt to make low level programming appealing to his students, but if completing a puzzles isn't enough reward for you then I'm not sure you're going to get much more out of that.   It has a very niche appeal that I appreciated, but I would have liked maybe a bit more window dressing. Especially regarding the ending which for me is the thing I am working towards in games from this company.  I thought the last segment in Little Inferno did a good job at giving you just a little bit extra for your time and I could see a scenario where you get a bit more of a glimpse of what you, the employee, have brought upon this world with your optimizations.  I initially wondered if this was a good tool to get friends into programming and it is for some aspects, but it is not comprehensive and I think by the time they reach the end they will be too frustrated and not finish it. I think the critical path ramps up a bit too much and some of the later puzzles should have been on the side branches to avoid frustration. Maybe a hint system that gave you a bit more info would have helped. Letting the player adjust their own difficulty.  To sum it up, this game is a great teaching tool and refresher for computer scientists and people wanting to be, however do not give this to your friends and expect them to finish it on their own without previous programming experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent little game that forces you to sometimes think outside the box figure out a viable solution. Highly recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It has nothing to do with HR but a lot to do with coding... which is nice :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 the best assembly tutorial ever",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So, aparently I just played this for 7 hours. As a programmer I have no idea if this game is accessible to non programmers or not. Non programmers should have no problem playing it and getting through (at least most) of the levels(it introduces the elements one at a time in a clear fassion), but as to if they will enjoy it I have no idea. My only complaint so far is that a lot of the speed awards can be gotten by minimizing jumps, so instead of going to the top of the loop at the end, instead just code the loop again below it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So much fun and even the weird story is interesting",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice Little game... Had fun playing it, tho i finished it after 8h (Without OCDs (u get them in half of the levels anyways without trying)). So its probably not worth the money cause u get less than an hour of gameplay for 1 Buck.  Conclusion: If u like Puzzle games and its in a sale its defently worth buying :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A more user-friendly version of TIS-100, though equally as fun :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lot of people seem to be complaining about the difficulty curve and that you require some programming knowledge. More than half the optomizations for your in game code are unrealistic methods that are never used in real life. This is simply a logic puzzle, and you don't require any programming experience whatsoever. To a certain extent this is great for teaching you basic programming logic, but it's not going to help you learn how to code simply because the logic required to solve puzzles differ so greatly. It really is just a game to test out your logic, so I recommend getting it anyway.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ehem... Did you like the story and artstyle of Little Inferno? Did you like the challanging puzzles of World of Goo? Are you a human being? If you said 'Yes!' to any of those questions, go get this game right now!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Q: Where do you see your self in 5 years? A: Re-Playing this game for the 10th time.  I love this game and if you like logic puzzles you will too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Human Resource Machine  This is 10 hours of silly programming fun. Human Resource Machine has an interesting computation model with input/output queues, commands, your head and sometimes variable numbered registers.  Downsides No sound options. Comments are drawings. Editor only allows copy/pasting entire program. Flow control is too low level to sensibly organize code; just 3 flow controls: jump, jump0 and jump-. Human Resource Machine  This is 10 hours of silly programming fun. Human Resource Machine has an interesting computation model with input/output queues, commands, your head and sometimes variable numbered registers.  Downsides No sound options. Comments are drawings. Editor only allows copy/pasting entire program. Flow control is too low level to sensibly organize code; just 3 flow controls: jump, jump0 and jump-. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun game if you love programming. If you've been programming assembly language for years, it should be easy to get through it but still a challenge as the game rates you against optimal minimum lines of code and number of executed operations.   This is also an awesome game to introduce beginners into low-level programming which is fundamental to develop robust skills at programming. Many programmers do not learn assembly or machine code at all these days, and do not understand the concept of a microprocessor, registers, pointers, pipelining etc. These are simple concepts to understand when starting out with an open mind but it seems harder for experienced programmers to get their mind around. It's amazing how many programmers don't grasp pointers but it's pretty fundamental to understanding how to write efficient code and effectively using a debugger to test code.  Just bought this game and ran through about a dozen and a half levels, but I am already addicted and know this game has infinite replay value. Absolutely worth $10. I would pay another $10 for this on Android so I can play it anytime I want.  One additional note: The music in this game is beautiful, atmospheric and perfect. It reminds me at times of the Bladerunner soundtrack by Vangelis.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a beginner in programming and someone who immediately recognized the visual style of Little Inferno, I really love this game. The difficulty went from 0 to 100 very quickly near the end, and I must admit that I'm still stuck on the last level right now. But I'm glad I didn't finish the game yet, I wouldn't have expected a game about programming ever but this was an excellent surprise.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing, joyful and charming introduction to computer programming. From simple addition to an alphanumeric sorting or decoding scripts - it will teach you how to create simple algorithms using an easy drag-and-drop interface.  The only complaint I have is that as soon as I started feeling warmed up - the game finished. I wish the levels continued, but then again, maybe I should just get a C++ or Python compliler and continue there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mind bending. Should be used in schools",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have not spent a ton of time with it, but I am about 75% of the way through the game. As a software developer, I was pleasantly surprised by this game. The instant I saw the jump command, I knew exactly what was going on--Assembler. It's a language you never want to be tasked with using for a real project, but I took a sort of perverse pleasure out of using it in the form of a game.  If you are interested in learning how to program, this is a great place to start. You will most likely never use what you learn here directly, but it will prompt you to think and visualize in the same way that you must in any serious development project. When you are done, you will also have a new appreciation for the higher level languages, their vast libraries, and all of the memorization that comes with them. After all, what's a little basic memorization compared to this?  That said, a couple of the challenges were a bit dull and uninspired. The first time I had to unwrap my loop into duplicate commands to complete a speed challenge, I appreciated it for the lesson it was trying to teach; however, doing this without proper copy/paste is such a chore that I absolutely loathed it the second time around. If it happens again, I may very well break something.  Other than that, this is a really cool concept nicely executed--if a bit short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Into programming. Got it from brother for Christmas. Fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I long for the interface of TIS-100. I still like it for trying to teach programming, and for the optimisation-puzzles, but I am severely bothered by the actual gameplay (the code) being confined to a tiny column on the right, that I have to scroll around in to see all of my jump-spaghetti... &lt;edit&gt;no cloud-saves... the thumb struggles&lt;/edit&gt;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent game for programmers and non-programmers alike. If you're a bit interrested in following a programmer career, it's a must see. If you like solving puzzles, also a must see. An excellent game overall. I managed to get co-workers and friends following different career paths hooked and everyone enjoyed the game.  Kudos to the developers for delivering such a great game and kudos for the linux port.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is another great game from Tomorrow corporation, while it is the hardest out of the 3, the soundtrack is still great, the puzzle gimmick is interesting (with coding puzzles) This game also has subtle jabs at Little Inferno.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's assembly programming, but it's fun and cute! The animation, labels, and dynamic jump points make it less painful than straight assemebly. Gets challenging very fast, I'm curious to see how novice programmers do at it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best educational programming macabrely mechanical corporate worklife simulator I've ever played.  10/10 would write a ridiculously roundabout sorting program again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun way to learn ASM",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved it! Working in a limited programming language presented me with some nice math problems. I especially liked the final optional level. It took me a few days to work through that one. Solving these was a nice reminder of my programming skillz.  The story has some nice irony, but is pretty scarce. It makes for a nice garnishment to the problems, but should not be considered a draw for the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think it's a cute little game that can teach the basic idea of what a computer does in a click-and-drag, stylized way, but it can be very tedious at times for those that have done this before (a lot of times I knew the solution, and it would have taken me less time to write code to do this than to click and drag all these boxes.) Also, it's hard to read your list of instructions sometimes, because it's a scrollable list; it should have been given more screen-time, maybe smaller boxes so more commands can fit?  I'd recommend getting this on sale if you want to learn some basic programming ideas in a comfortable, quirky click-and-drag puzzle game environment. People who already know programming, though, might find this very tedious, and might enjoy something like TIS-1000 more.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great logic puzzles presented in the form of simple programming. Some of the puzzles will be quite difficult if you've never programmed before. The art style and charm is what you would expect from Tomorrow Corporation and the game is a lot of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing logic game for all who know a bit about computer programming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I definitely recommend this game! These short puzzles are perfect for keeping those brain cells occupied in little breaks. For someone already experienced in programming, the tricky part really is the optimizing of the code (getting the least steps and commands), though sometimes you do have to stare at your code for a minute to find out what's missing! For the unexperienced player, it might be a nice entrace into the world of logical thinking. It starts out easy and doesn't just jump to unbelievably hard. Also, I just have to say: watching the little character walk from inbox to outbox is just amazing. Seriously, look at how that little person is walking. They are so cute. Tip: choose a female character for the wobbly hair! 10/10!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved it. Getting those last achievements was satisfyingly hard.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hello world!  Making programming into a game? Yeah, this is exactly what I need to kick my brain over into thinking like that, given that I'm starting to learn Python, and have no real experience programming.  And it's fun. Trying to beat the challenges makes you think better than yourself. It doesn't entirely hold your hand, but doesn't their you into the deep end, either. It's good, from what I can tell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a nice little puzzle(?) game about simple logic and programming. It teaches you things one at a time, and then mashes them together with more complex tasks as you make your way through each year/floor.  I really enjoyed this game, but I was able to get it on sale for $1. I don't know if I can recommend it for any more than $5, but it'd be a shame for anyone to miss this little gem. Get it when it's on sale. 9/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-- HUMAN RESOURCE MACHINE PROGRAM --  a: INBOX COPYTO 0 COPYFROM 20 COPYTO 1 b: BUMPUP 1 JUMPZ a JUMP b    DEFINE LABEL 0 What im supposed to do DEFINE LABEL 1 No. of things tried DEFINE LABEL 20 One --END PROGRAM-- The game is great, but the endgame is seriously hardcore    For 23 how the hell was i supposed to guess to SUBRTRACT LETTERS!!!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome and cute, like the World of Goo and that burning stuff game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's been a long time since I played a game which made me feel challeneged without that requiring me to kill stuff. I love it. It's like a backscratcher for my brain. And of couse it's weird and kind of dark which makes everything more interesting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Use your head! This game is really engaging. Trying to get the best solution is a real challenge. Nice story and sassy dialogues. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice math game.",
+            "review_score": "1"
+        }
+    ]
+}

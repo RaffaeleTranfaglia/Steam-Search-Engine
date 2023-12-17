@@ -1,0 +1,36 @@
+{
+    "app_id": 709920,
+    "name": "Tametsi",
+    "release_date": "2017-10-18",
+    "developer": [
+        "Grip Top Games"
+    ],
+    "publisher": [
+        "Grip Top Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Difficult"
+    ],
+    "achievements": 19,
+    "positive_ratings": 62,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "Tametsi is a difficult logic game played on a set of tiles, in which you must use the clues provided to discover and mark hidden mines.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/709920/header.jpg?t=1534284772",
+    "minimum_requirements": "OS: Vista SP2, 7 SP1, 8.x, 10 (7u85 and above) Processor: 1.6 GHz Memory: 1 GB RAM Storage: 250 MB available space Additional Notes: The minimum recommended screen resolution is 1024x768.",
+    "recommended_requirements": null,
+    "reviews": []
+}

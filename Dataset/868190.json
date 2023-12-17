@@ -1,0 +1,39 @@
+{
+    "app_id": 868190,
+    "name": "Sapper boom!",
+    "release_date": "2018-06-07",
+    "developer": [
+        "13-lab"
+    ],
+    "publisher": [
+        "13-lab",
+        "azimut team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 200,
+    "positive_ratings": 10,
+    "negative_ratings": 22,
+    "price": 0.79,
+    "description": "You are a sapper and your task in this game is to neutralize as many mines and bombs as you can.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868190/header.jpg?t=1528354882",
+    "minimum_requirements": "OS: xp Processor: 1.2 GHz Memory: 512 MB RAM Graphics: Intel GMA DirectX: Version 9.0c Storage: 150 MB available space Sound Card: any",
+    "recommended_requirements": null,
+    "reviews": []
+}

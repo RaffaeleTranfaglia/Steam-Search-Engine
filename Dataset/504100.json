@@ -1,0 +1,48 @@
+{
+    "app_id": 504100,
+    "name": "Russian VR Coasters",
+    "release_date": "2016-07-27",
+    "developer": [
+        "Funny Twins"
+    ],
+    "publisher": [
+        "Funny Twins"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 18,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "Collection of Russian VR Coasters. Experience 4 types of different VR Coasters that will bring you new amazing impressions!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504100/header.jpg?t=1511112871",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: Intel i5-4430 Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 760",
+    "recommended_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 or greater",
+    "reviews": [
+        {
+            "review_text": "A very short VR roller coaster experience. It has 4 different (yet similar) tracks. 1 or 2 of them were ok, but the other two were obviously unpolished and induced quite alot of nauscea. The two tracks that induced nauscea did so because of the track continously kept turning to the left or to the right. The scenery was ok. I refunded after trying the 4 tracks.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The sound of the coasters is pretty poor and sense of motion isn't the best, but it runs perfectly on the Vive and there aren't many alternatives. If you want some quick and easy coaster fun hey, it's cheap, I say pick it up. I like to have some coasters so I can sit my kids in a chair and give them a motion experience. They seem to love that; I'm sure it improves the coasters dramatically. Unfortunately they can't do the same for me :)",
+            "review_score": "1"
+        }
+    ]
+}

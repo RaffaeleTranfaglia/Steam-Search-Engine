@@ -1,0 +1,39 @@
+{
+    "app_id": 935750,
+    "name": "Antiquitas",
+    "release_date": "2018-09-29",
+    "developer": [
+        "Ape Apps"
+    ],
+    "publisher": [
+        "Ape Apps"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "City Builder"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Ancient civilization city builder and simulation game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/935750/header.jpg?t=1538230046",
+    "minimum_requirements": "OS: 7/8/10 Processor: 1.6 Ghz Memory: 2 GB RAM Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

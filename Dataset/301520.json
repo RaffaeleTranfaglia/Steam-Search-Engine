@@ -1,0 +1,48 @@
+{
+    "app_id": 301520,
+    "name": "Robocraft",
+    "release_date": "2017-08-24",
+    "developer": [
+        "Freejam"
+    ],
+    "publisher": [
+        "Freejam"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Robots",
+        "Building"
+    ],
+    "achievements": 43,
+    "positive_ratings": 80360,
+    "negative_ratings": 30987,
+    "price": 0.0,
+    "description": "Build insane, fully customisable robot battle vehicles that drive, hover, walk and fly in the free-to-play action game Robocraft. Add weapons from the future and jump in the driving seat as you take your creation into battle against other players online!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/301520/header.jpg?t=1553776646",
+    "minimum_requirements": "OS: Vista/7/8/8.1/10 Processor: Intel Dual Core or better with SSE2 support or equivalent AMD family Memory: 4 GB RAM Graphics: Shader Model 3.0 Compatible GPU, DirectX 9.0c DirectX: Version 10 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX compatible Additional Notes: Min Resolution 1024x768",
+    "recommended_requirements": null,
+    "reviews": []
+}

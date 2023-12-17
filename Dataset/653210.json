@@ -1,0 +1,38 @@
+{
+    "app_id": 653210,
+    "name": "Prisoner",
+    "release_date": "2017-07-17",
+    "developer": [
+        "Polovey Alexander"
+    ],
+    "publisher": [
+        "Polovey Alexander"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 33,
+    "positive_ratings": 25,
+    "negative_ratings": 12,
+    "price": 2.09,
+    "description": "You are a Prisoner. In a strange place with many rooms. You hear a noise, as if something is moving around. Move from one room to another, avoid deadly traps and try to escape.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/653210/header.jpg?t=1510165180",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 512 MB RAM Graphics: Intel HD Graphics Series or higher DirectX: Version 9.0 Storage: 256 MB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

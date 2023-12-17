@@ -1,0 +1,43 @@
+{
+    "app_id": 397400,
+    "name": "HueBots",
+    "release_date": "2015-08-26",
+    "developer": [
+        "Huebotics"
+    ],
+    "publisher": [
+        "Huebotics"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Free to Play",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 20,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "HueBots is a deceptively challenging top-down puzzle game. You control a team of colorful robots that will only interact with objects that match their color; they will also keep moving in one direction until they collide with something that matches their color.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/397400/header.jpg?t=1522853606",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Core Processor or equivalent Memory: 1 GB RAM DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

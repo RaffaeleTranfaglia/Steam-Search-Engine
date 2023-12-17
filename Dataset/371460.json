@@ -1,0 +1,44 @@
+{
+    "app_id": 371460,
+    "name": "Gnumz: Masters of Defense",
+    "release_date": "2015-12-21",
+    "developer": [
+        "Creobit"
+    ],
+    "publisher": [
+        "8Floor"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Tower Defense"
+    ],
+    "achievements": 12,
+    "positive_ratings": 76,
+    "negative_ratings": 29,
+    "price": 3.99,
+    "description": "An enemy army is at our gates! Build an ideal chain of traps. Use magic and the power of the elements: earth, ice, fire and shadow.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371460/header.jpg?t=1450710820",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1500 MHz DirectX: Version 9.0",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2000 MHz DirectX: Version 9.0",
+    "reviews": [
+        {
+            "review_text": "Cool little tower defense game, mixes some good TD elements and has a lot of levels to play through, it has a good learning curve and the maps are good looking too, could be a little bit more polished in terms of costumization of ur traps and spells but its nothin really serious, decent game to spend a few hours.",
+            "review_score": "1"
+        }
+    ]
+}

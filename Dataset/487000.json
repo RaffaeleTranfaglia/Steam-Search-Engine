@@ -1,0 +1,50 @@
+{
+    "app_id": 487000,
+    "name": "Quest Hunter",
+    "release_date": "2019-03-08",
+    "developer": [
+        "2 Zombie Games"
+    ],
+    "publisher": [
+        "2 Zombie Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 70,
+    "positive_ratings": 454,
+    "negative_ratings": 110,
+    "price": 10.99,
+    "description": "Quest Hunter is an isometric action-RPG where your choice drives the story. Find tons of treasures and secrets, solve puzzles, equip your character, level up your skills and finish off enemy bosses. Play on the couch, alone or with friends, or make it an online party for up to four players!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/487000/header.jpg?t=1552477845",
+    "minimum_requirements": "OS: Microsoft Windows XP SP2 or higher Processor: 1.4GHz or faster Memory: 2 GB RAM Graphics: Graphics Card supported shader 3.0 DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

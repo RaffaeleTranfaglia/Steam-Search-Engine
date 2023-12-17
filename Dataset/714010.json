@@ -1,0 +1,44 @@
+{
+    "app_id": 714010,
+    "name": "Aim Lab",
+    "release_date": "2018-02-07",
+    "developer": [
+        "Statespace"
+    ],
+    "publisher": [
+        "Statespace"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Action"
+    ],
+    "achievements": 100,
+    "positive_ratings": 1039,
+    "negative_ratings": 247,
+    "price": 0.0,
+    "description": "The ultimate FPS training solution: Aim Lab blends cutting-edge performance tracking and analytics with machine learning to make you better, faster.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/714010/header.jpg?t=1556510336",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better Memory: 4 GB RAM Graphics: GTX 560 and up Network: Broadband Internet connection Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better Memory: 4 GB RAM Graphics: GTX 560 and up Network: Broadband Internet connection Storage: 3 GB available space",
+    "reviews": []
+}

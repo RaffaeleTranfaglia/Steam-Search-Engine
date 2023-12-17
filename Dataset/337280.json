@@ -1,0 +1,54 @@
+{
+    "app_id": 337280,
+    "name": "Planetship",
+    "release_date": "2015-09-24",
+    "developer": [
+        "John Lawrence"
+    ],
+    "publisher": [
+        "John Lawrence"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 45,
+    "negative_ratings": 17,
+    "price": 5.99,
+    "description": "Psst hey computer entertainment enthusiast... wanna get weird in space?! Take my virtual cyberhand and follow me/us into the void on a real wild ride through space to end up the savior of the human race! Whaddaya say, wanna take your brain out? Put it in the Pilot's seat? ...?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/337280/header.jpg?t=1447365786",
+    "minimum_requirements": "OS: Windows XP Processor: Dual core 2.4Ghz Memory: 2 GB RAM Graphics: NVIDIA GeForce 250 GTS / ATI Radeon HD 4550 DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I really wanted to like this game based on the trailers, my appreciation for abstract science fiction, and some of the review comments but there's too much of a disconnect between the game play and the aesthetics for me.  If a game wants to indulge in trippy visuals, I would prefer it to limit both the amount and complexity of information that needs to be digested in order to make choices in game. For instance, trying to evaluate planets requires reading descriptions and bar graphs of several different attributes while the text is moving around on the screen and often in and out of view. That sounds nitpicky, but the effect is like trying to read while in the back of a car on a bumpy road. Moreover, the more demands that are made of the player to process and monitor information make all the otherwise interesting background visuals and noise into distractions.   I'd have preferred if the spontaneous (and seemingly arbitrary) random encounters had a similar feel to the introduction story (something more like 2001 or Solaris) but the reference filled humour felt out of place with the premise that had been set up.   I can appreciate the need for trial and error as part of the learning curve for games (particularly procedural generated games) but there is a serious lack of breadcrumbs as far as some basic mechanics in this game: The single screen with instructions informs players of how to operate weapons on the ship, yet pressing the mouse key did nothing when the planetship was under attack. A few hints as to how to scavenge food and replenish resources would be appreciated  Some tutorial levels and more guided instruction as opposed to the single panel prior to gameplay would have helped.  Overall, a good idea and premise with some interesting visuals that's bogged down by overly rigorous game mechanics for my taste. I'd be interested in considering future amendments to this game or other offerings from the designers based on what caught my interest with this game, however.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "ᴀᴇsᴛʜᴇᴛɪᴄs",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What is the point of this game? all you do is fly in a toilet piece of crap space and shoot meteors. pointless please don't get this game",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 489140,
+    "name": "Mr. Shifty",
+    "release_date": "2017-04-13",
+    "developer": [
+        "Team Shifty"
+    ],
+    "publisher": [
+        "tinyBuild"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 14,
+    "positive_ratings": 862,
+    "negative_ratings": 128,
+    "price": 10.99,
+    "description": "Teleport, shift through bullets, and master lightning-fast takedowns in an all new kind of action game from tinyBuild and Team Shifty!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/489140/header.jpg?t=1512697171",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Dual-Core Intel or AMD processor Memory: 2 GB RAM Graphics: NVIDIA GeForce 650 GTX / AMD Radeon 7850 HD series card DirectX: Version 9.0c Storage: 2 GB available space Sound Card: 100% DirectX9.0c compatible sound card and drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

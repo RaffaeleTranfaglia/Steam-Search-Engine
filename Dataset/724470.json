@@ -1,0 +1,44 @@
+{
+    "app_id": 724470,
+    "name": "Lazy Galaxy",
+    "release_date": "2018-03-22",
+    "developer": [
+        "Coldwild Games",
+        "Vladimir Slav",
+        "Elena Nazarenko"
+    ],
+    "publisher": [
+        "Coldwild Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Clicker"
+    ],
+    "achievements": 13,
+    "positive_ratings": 70,
+    "negative_ratings": 12,
+    "price": 4.79,
+    "description": "Lazy Galaxy is a mix between RTS and idle/clicker game. Lead an evil (albeit lazy) alien race to conquer the universe!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/724470/header.jpg?t=1527523284",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: Intel Core 2 Duo Memory: 1024 MB RAM Graphics: shader 3.0 supporting card (i.e. Intel HD Graphics 4000) DirectX: Version 9.0a Storage: 512 MB available space Additional Notes: DX9 (shader model 3.0) support",
+    "recommended_requirements": null,
+    "reviews": []
+}

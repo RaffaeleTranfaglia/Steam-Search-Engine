@@ -1,0 +1,41 @@
+{
+    "app_id": 585630,
+    "name": "Switchblade",
+    "release_date": "2018-08-28",
+    "developer": [
+        "Lucid Games Ltd"
+    ],
+    "publisher": [
+        "Lucid Publishing Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Free to Play"
+    ],
+    "achievements": 32,
+    "positive_ratings": 97,
+    "negative_ratings": 53,
+    "price": 0.0,
+    "description": "War is the new sport in Switchblade, an arena-based 5v5 vehicle action game that combines high-octane combat with an ever-shifting selection of strategic choices.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/585630/header.jpg?t=1548321240",
+    "minimum_requirements": "OS: Windows® 7 / Windows® 8 / Windows® 10 64-bit (latest Service Pack) Processor: Intel® Core™ i5-7500 Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 960 DirectX: Version 11 Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows® 7 / Windows® 8 / Windows® 10 64-bit (latest Service Pack) Processor: Intel® Core™ i7-7700K Memory: 16 GB RAM Graphics: NVIDIA® GeForce® GTX 1060 DirectX: Version 11 Network: Broadband Internet connection Storage: 5 GB available space",
+    "reviews": []
+}

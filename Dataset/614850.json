@@ -1,0 +1,40 @@
+{
+    "app_id": 614850,
+    "name": "Power Fist VR",
+    "release_date": "2017-07-12",
+    "developer": [
+        "Applemint"
+    ],
+    "publisher": [
+        "Applemint"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 8.99,
+    "description": "We are being attacked by terrible creatures. Please keep the city using special equipment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/614850/header.jpg?t=1499905292",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bit Processor: i5-2500 Memory: 8 GB RAM Graphics: GeForce 970 Storage: 4 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

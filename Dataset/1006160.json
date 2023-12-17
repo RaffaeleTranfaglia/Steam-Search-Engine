@@ -1,0 +1,40 @@
+{
+    "app_id": 1006160,
+    "name": "Dungeons of Legend: Cast Within",
+    "release_date": "2019-02-22",
+    "developer": [
+        "Dungeon Brick Studios"
+    ],
+    "publisher": [
+        "Dungeon Brick Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 16,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 15.49,
+    "description": "Dungeons of Legend: Cast Within is a first person dungeon crawling adventure. Each level is hand crafted to provide the most immersive and complete experience. Explore, search, gather hints, solve riddles, fight monsters, and find tons of loot and upgrades!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1006160/header.jpg?t=1551734494",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Memory: 4 MB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: ProcessorIntel(R) Core(TM) i5-3570K CPU @ 3.40GHz, 3801 Mhz, 4 Core(s), 4 Logical Processor(s) or higher Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 Ti or Radeon Equivalent Storage: 4 GB available space",
+    "reviews": []
+}

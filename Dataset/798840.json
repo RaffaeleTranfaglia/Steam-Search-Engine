@@ -1,0 +1,37 @@
+{
+    "app_id": 798840,
+    "name": "Cry of War / 战争号角",
+    "release_date": "2018-02-28",
+    "developer": [
+        "ShanghaiWindy",
+        "王诗江"
+    ],
+    "publisher": [
+        "ShanghaiWindy"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "World War I"
+    ],
+    "achievements": 0,
+    "positive_ratings": 73,
+    "negative_ratings": 12,
+    "price": 2.89,
+    "description": "Feel the excitement of driving the MarkIV with other WW1 tanks in the Cry of War.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/798840/header.jpg?t=1556105416",
+    "minimum_requirements": "OS: Windows 7 64Bit Processor: SSE2 instruction set support. Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 64Bit Processor: i7-2600K Memory: 4 GB RAM Graphics: GTX 1050 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

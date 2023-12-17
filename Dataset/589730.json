@@ -1,0 +1,42 @@
+{
+    "app_id": 589730,
+    "name": "Tyd wag vir Niemand (Time waits for Nobody)",
+    "release_date": "2017-07-07",
+    "developer": [
+        "Skobbejak Games"
+    ],
+    "publisher": [
+        "Skobbejak Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "First-Person"
+    ],
+    "achievements": 14,
+    "positive_ratings": 25,
+    "negative_ratings": 16,
+    "price": 6.99,
+    "description": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/589730/header.jpg?t=1556187304",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: Dual Core Memory: 2 GB RAM Graphics: Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher Storage: 5 GB available space Sound Card: Direct X compatible",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Quad Core Memory: 4 GB RAM Graphics: Nvidia GTX 460 OR AMD Radeon HD 5770 OR equivalent/higher DirectX: Version 11 Storage: 5 GB available space Sound Card: Direct X compatible",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 529900,
+    "name": "Polygon Attack",
+    "release_date": "2016-12-27",
+    "developer": [
+        "Magnolia Art"
+    ],
+    "publisher": [
+        "Magnolia Art"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 5,
+    "positive_ratings": 143,
+    "negative_ratings": 20,
+    "price": 0.79,
+    "description": "Break through unlimited waves of enemies and fight unpredictable bosses!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/529900/header.jpg?t=1540066195",
+    "minimum_requirements": "OS: Windows 7 (x86) Processor: Dualcore AMD 1st gen APU series 1.6 Ghz or Dualcore Intel Celeron 1.6 Ghz Memory: 1 GB RAM Graphics: DirectX 10 compatible DirectX: Version 10 Storage: 400 MB available space Sound Card: DirectX 10 compatibe",
+    "recommended_requirements": "OS: Windows 10 (x64) Processor: Dualcore 3.0 Ghz or better Memory: 2 GB RAM Graphics: DirectX 10 compatible GTX 500 series or AMD HD6000 series DirectX: Version 10 Storage: 400 MB available space Sound Card: DirectX 10 compatibe",
+    "reviews": []
+}

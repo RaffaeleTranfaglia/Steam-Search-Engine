@@ -1,0 +1,40 @@
+{
+    "app_id": 727020,
+    "name": "Arcade Moonlander Plus",
+    "release_date": "2017-10-25",
+    "developer": [
+        "Daniel Griffin"
+    ],
+    "publisher": [
+        "Back Of Nowhere Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Retro",
+        "Arcade"
+    ],
+    "achievements": 12,
+    "positive_ratings": 20,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Explore space and race against the clock in this retro styled adventure game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/727020/header.jpg?t=1551394159",
+    "minimum_requirements": "OS: Windows 7, 10. Processor: Intel Pentium or equivalent Memory: 1024 MB RAM Graphics: Intel integrated or better Storage: 260 MB available space",
+    "recommended_requirements": "OS: Windows 7, 10. Processor: Intel i3, i5 Memory: 2048 MB RAM Graphics: Intel integrated or better Storage: 260 MB available space",
+    "reviews": []
+}

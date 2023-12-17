@@ -1,0 +1,40 @@
+{
+    "app_id": 672730,
+    "name": "Find You",
+    "release_date": "2017-09-04",
+    "developer": [
+        "Byting Games"
+    ],
+    "publisher": [
+        "Byting Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Free to Play",
+        "Platformer"
+    ],
+    "achievements": 7,
+    "positive_ratings": 301,
+    "negative_ratings": 17,
+    "price": 0.0,
+    "description": "Play every character simultaneously and reunite them in mind boggling 100 levels",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672730/header.jpg?t=1504724747",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 1,5 GHz CPU Memory: 2 GB RAM Graphics: DirectX 11 compatible DirectX: Version 11 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

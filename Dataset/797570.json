@@ -1,0 +1,44 @@
+{
+    "app_id": 797570,
+    "name": "Go Morse Go! Arcade Edition",
+    "release_date": "2018-02-25",
+    "developer": [
+        "Impostor Cat Games"
+    ],
+    "publisher": [
+        "Impostor Cat Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Sports",
+        "Pixel Graphics"
+    ],
+    "achievements": 8,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "Telegraph cheerleading for 1-4 players! Team up or face off, hyping up the crowd by shouting letters via Morse Code.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/797570/header.jpg?t=1519621277",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP Processor: 1.5 Ghz, single core Memory: 1 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows XP or better Processor: (2.0 Ghz, single core) or better Memory: 2 GB RAM Storage: 100 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 371410,
+    "name": "Hostile Dimension",
+    "release_date": "2015-06-25",
+    "developer": [
+        "Alrauna Studios"
+    ],
+    "publisher": [
+        "Play sp. z o. o."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 10,
+    "positive_ratings": 8,
+    "negative_ratings": 10,
+    "price": 1.59,
+    "description": "Defend your space flagship from hordes of alien fighters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371410/header.jpg?t=1447374663",
+    "minimum_requirements": "OS: Windows XP SP3 / Vista / 7 / 8 Processor: Dual core Intel or AMD 2.5 GHz Memory: 2 GB RAM Graphics: GeForce 9600GT or better w /256MB vram DirectX: Version 9.0c Storage: 500 MB available space Sound Card: DirectX 9 compatible",
+    "recommended_requirements": "OS: Windows XP SP3 / Vista / 7 / 8 Processor: Dual core Intel or AMD 3 GHz Memory: 4 GB RAM Graphics: 512MB GeForce GTS 450 or better DirectX: Version 9.0c Storage: 500 MB available space Sound Card: DirectX 9 compatible",
+    "reviews": []
+}

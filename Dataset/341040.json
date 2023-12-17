@@ -1,0 +1,41 @@
+{
+    "app_id": 341040,
+    "name": "Wars Across The World",
+    "release_date": "2017-05-04",
+    "developer": [
+        "Strategiae"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Board Game"
+    ],
+    "achievements": 31,
+    "positive_ratings": 62,
+    "negative_ratings": 15,
+    "price": 7.19,
+    "description": "WAW is a unique historical strategy turn-based game, in a boardgame spirit, which aims at simulating in one single system ALL kind of wars and conflicts throughout the world (and beyond) from Prehistoric times to nowadays, on the operational or strategic levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/341040/header.jpg?t=1555397616",
+    "minimum_requirements": "OS: Windows 7/8 Processor: 2.5 GHz Intel Dual Core Memory: 2 GB RAM Graphics: 512 MB NVIDIA GeForce 9600 DirectX: Version 9.0 Storage: 750 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: 2.5 GHz Intel Dual Core Memory: 4 GB RAM Graphics: 1024 MB DirectX 11 compatible DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

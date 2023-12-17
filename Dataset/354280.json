@@ -1,0 +1,45 @@
+{
+    "app_id": 354280,
+    "name": "ChaosTower",
+    "release_date": "2016-02-23",
+    "developer": [
+        "CashcowGames"
+    ],
+    "publisher": [
+        "CashcowGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 9,
+    "positive_ratings": 16,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Chaostower - Build and defend, a physics-based action puzzler. Build a tower from a whole bunch of different parts and prove it against several natural forces like earthquakes, wind and meteors. Defend your tower against artificial enemies, like robots, tanks, bomb-birds and many more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/354280/header.jpg?t=1554480699",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Intel Pentium Dual-Core 2ghz Memory: 2 GB RAM Graphics: Intel HD Graphics 4000 Storage: 100 MB available space",
+    "recommended_requirements": "Processor: Intel Pentium Dual-Core 3ghz Memory: 2 GB RAM Graphics: NVIDIA GeForce GTS 450, Radeon HD 6670 Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "try it out its pretty good for a physics game",
+            "review_score": "1"
+        }
+    ]
+}

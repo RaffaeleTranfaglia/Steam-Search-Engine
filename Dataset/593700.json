@@ -1,0 +1,44 @@
+{
+    "app_id": 593700,
+    "name": "Tower Fortress",
+    "release_date": "2017-11-20",
+    "developer": [
+        "Keybol",
+        "Nitrome Limited",
+        "Mike Studios"
+    ],
+    "publisher": [
+        "Nitrome Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 17,
+    "positive_ratings": 46,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "A mysterious tower has risen! It emits plumes of noxious green smoke from its summit making people sick. Strange creatures infest the tower but if nobody tries to ascend it we will all be doomed! Are you that hero?.....",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/593700/header.jpg?t=1511177771",
+    "minimum_requirements": "OS: Microsoft® Windows® Vista / 7 / 8 Processor: 1.2GHz processor Memory: 512 MB RAM Graphics: DirectX Compatible graphics card with at least 32MB of video memory DirectX: Version 9.0c Storage: 20 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

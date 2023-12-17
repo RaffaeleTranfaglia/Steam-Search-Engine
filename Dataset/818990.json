@@ -1,0 +1,37 @@
+{
+    "app_id": 818990,
+    "name": "Hotel Spring",
+    "release_date": "2018-04-13",
+    "developer": [
+        "Chief Fenrir Entertainment"
+    ],
+    "publisher": [
+        "Chief Fenrir Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "A first-person puzzle mystery game with 3D controls and a focus on atmosphere and immersion",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818990/header.jpg?t=1523675165",
+    "minimum_requirements": "OS: Windows Vista SP1+ Memory: 260 MB RAM DirectX: Version 10 Storage: 1673 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

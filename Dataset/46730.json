@@ -1,0 +1,52 @@
+{
+    "app_id": 46730,
+    "name": "Hazen: The Dark Whispers",
+    "release_date": "2010-04-28",
+    "developer": [
+        "Dagger Games"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Action RPG",
+        "Hack and Slash"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 29,
+    "price": 7.99,
+    "description": "Hazen is an episodic Action/RPG The first episode is named \"The Dark Whispers\" and will bring some freshness in the world of Hack'n Slash Games. Every single episode will be a \"Stand alone\" game with enough game-play and high re-play value.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/46730/header.jpg?t=1447353030",
+    "minimum_requirements": "OS: Windows Vista or Windows XP SP2Processor: Intel Pentium 4 2.0 GHz or AMD Athlon with SSE2 instruction supportMemory: 1 GB RAM (1.5 GB for Vista)Graphics: 128 MB with hardware PS 2.0 supportDirectX&reg;: DirectX 9.0Hard Drive: 3 GB free spaceSound: DirectX compatible",
+    "recommended_requirements": "OS: Windows Vista or Windows XP SP2Processor: Intel Core 2 Duo family or AMD Athlon X2 familyMemory: 2 GB RAM (3 GB for Vista)Graphics: NVIDIA 8800 or Ati 3850 with 512 MB video memoryDirectX&reg;: DirectX 9.0Hard Drive: 4 GB free spaceSound: DirectX compatible",
+    "reviews": [
+        {
+            "review_text": "Like the music, the feeling of old RPG, it relaxas me, no need to rush anything. Cheers",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So many bugs that if it doesnt insta crash on you, its unplayable either way! not worth a penny.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The dev's have gave up on this game as soon as it released I just wish there was a way to make a unsupported patch for this game to fix the many game breaking bugs.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You know, if it was the last ARPG on Earth, I'd probably play it. The art style is not bad for the time it was made and the mechanics work... to some extent. Fun loot drops and you can feel yourself getting stronger and taking less damage as you get increasingly better armor. In spite of all the complaints here, Hazen surprisingly ran fine on my Win7 x64 system with only one crash when entering a dungeon. When reloaded, the game left me back where I was.  Now for the bad parts: 1. No saving allowed in a dungeon. If the game crashes you may lose up to a half hour of progress. 2. There is some kind of memory leak that slows down the game the longer you play. Your melee swings and casts get slower and slower while the enemies rush you at the same speed. 3. It takes a while to get used to the backwards controls. You move with rt. click and everything else is left click. No key rebinds.   Worst of all are the ungodly respawns that slow you down as you travel to your destination then back to your village. No teleports or shortcuts, just the long, slow trek back while fighting the same enemies you fought on the way there. The first two hours had me traveling the same path numerous times while fighting the same respawns. It can be maddening.  Compared to a far superior ARPG like Torchlight that came out a year earlier, Hazen: The Dark Whispers just can't compete.",
+            "review_score": "-1"
+        }
+    ]
+}

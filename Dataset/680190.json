@@ -1,0 +1,40 @@
+{
+    "app_id": 680190,
+    "name": "Interstellar Invaders",
+    "release_date": "2018-04-30",
+    "developer": [
+        "Interstellar Tortoise"
+    ],
+    "publisher": [
+        "Interstellar Tortoise"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Interstellar Invaders is an arcade game which combines the game mechanics of Arkanoid, Galaga, and Missile Command in hand-built and (eventually) procedurally generated levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/680190/header.jpg?t=1525147554",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core 2 Duo E7500 - 2.93GHz Memory: 4 GB RAM Graphics: Intel Q45/Q43 Express Chipset Storage: 890 MB available space Sound Card: SoundMAX Integrated Digital High Definition Audio Additional Notes: If running slow (below 60 fps) - try reducing your display resolution.  It usually runs well at 800 x 600 - even on very old machines.",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Intel i7 - 3630QM - 2.4GHz Memory: 8 GB RAM Graphics: Intel HD Graphics 4000 Storage: 890 MB available space Sound Card: High Definition Audio Device Additional Notes: If running slow (below 60 fps) - try reducing your display resolution.",
+    "reviews": []
+}

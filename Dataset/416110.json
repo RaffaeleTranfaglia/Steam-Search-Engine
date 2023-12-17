@@ -1,0 +1,60 @@
+{
+    "app_id": 416110,
+    "name": "Blitz Breaker",
+    "release_date": "2016-02-02",
+    "developer": [
+        "Boncho Games"
+    ],
+    "publisher": [
+        "Boncho Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 13,
+    "positive_ratings": 88,
+    "negative_ratings": 12,
+    "price": 0.79,
+    "description": "A simple, fast paced platformer with one small change: Your character can't run. Play as an adorable robot named Blitz and help it escape the factory it was built in. The only problem is, it seems like everything is trying to break you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/416110/header.jpg?t=1461810087",
+    "minimum_requirements": "OS: Windows 7 - 32-bit Processor: Intel i3 Graphics: Intel HD 4000 DirectX: Version 9.0 Storage: 100 MB available space Sound Card: Probably a good idea",
+    "recommended_requirements": "OS: Windows - Blitz Edition Processor: Ultra core processor with Blitz Processing Graphics: B-Force graphics card with Blitz-Sync technology Storage: 100 MB available space Sound Card: Blitz enabled sound with Blitzy Digital Surround Infinity Additional Notes: Seriously though, just go above the minimum.",
+    "reviews": [
+        {
+            "review_text": "Spheres with square hitboxes... Spikes with square hitboxes... Pretty much every object in this game, regardless of its shape, got a large square hitbox... It totally ruins the platformer when you keep getting killed by objects that didn't even touch you.  Everything else is pretty much great: * the difficulty scales well with the game * levels are well designed and not repetetive  * lovely graphics and nice soundtrack   If you are not going for 100% achievements and want to play it just for story mode go for it. It's totally worth the price.  However, due to that lazy hitbox implementation and frustration it caused I can't give this game a positive reviev.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'Review' copy provided by developer)  Good level design, responsive controls, simple yet clever character movement (not your usual left-right-jump), retro but stylish visuals and matching music, challenging, sometimes frustrating (especially if you go for 100%, i.e. enjoy Gauntlet VII), but fair and it's only 2,99 EUR.   Although It's only February I already have a runner-up for best indie game of this year :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would advise u all to get this game it is one of the best games on steam atm!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would definetly reccomend this game to Mario, Sonic, Kirby, Yoshi, etc. fans. It's got that good platformer feel and a twist on control. Moving left and right and just jumping? NOT! This game requires wit as if you have to aim properly to get where you're going. The other great spot this game has covered; the soundtrack. I listen to that more than I actually play the game. I would give this a 9.5/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+ Nice music + retro 8-bit style - Doing the same again and again to finally get that level done - Waiting to fall down  NOT MY GAME! Maybe this is something for speedrunners",
+            "review_score": "-1"
+        }
+    ]
+}

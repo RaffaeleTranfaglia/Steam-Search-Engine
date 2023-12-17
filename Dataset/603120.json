@@ -1,0 +1,40 @@
+{
+    "app_id": 603120,
+    "name": "Happy Campers",
+    "release_date": "2017-04-10",
+    "developer": [
+        "Razzart Visual"
+    ],
+    "publisher": [
+        "Razzart Visual"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Sexual Content",
+        "Nudity",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 28,
+    "negative_ratings": 31,
+    "price": 6.99,
+    "description": "&quot;Happy Campers&quot; is a lighthearted visual novel where you must learn to survive in the wilderness alongside three beautiful women.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/603120/header.jpg?t=1537263273",
+    "minimum_requirements": "最低: OS: Windows XP プロセッサー: 1Ghz メモリー: 512 MB RAM グラフィック: DirectX or OpenGL compatible card ストレージ: 1 GB 利用可能",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 428230,
+    "name": "Swift",
+    "release_date": "2016-06-02",
+    "developer": [
+        "Windflow"
+    ],
+    "publisher": [
+        "Windflow"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Multiplayer"
+    ],
+    "achievements": 14,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Swift is a 2D online multiplayer platformer with the one-hit combat system.Explore the map to find weapons, abilities and buffs to be stronger and faster. Beware the debuffs, because it can be the last thing you get.Play in several team-based and solo game modes with up to 12 players on a server.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428230/header.jpg?t=1464873143",
+    "minimum_requirements": "OS: Windows XP Processor: 2 Ghz Memory: 1 GB RAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

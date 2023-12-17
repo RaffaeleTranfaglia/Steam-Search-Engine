@@ -1,0 +1,40 @@
+{
+    "app_id": 569630,
+    "name": "Out of Ammo: Death Drive",
+    "release_date": "2017-08-16",
+    "developer": [
+        "RocketWerkz"
+    ],
+    "publisher": [
+        "RocketWerkz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Gore"
+    ],
+    "achievements": 8,
+    "positive_ratings": 49,
+    "negative_ratings": 14,
+    "price": 7.19,
+    "description": "Based on the popular VR title Out of Ammo, the standalone sequel Death Drive presents an apocalyptic road trip developed exclusively for VR. Build defenses, scavenge scrap and and kill undead hordes however you see fit using an arsenal of firearms, melee weapons and mounted defenses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/569630/header.jpg?t=1502930100",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5 (2.8 GHZ or above) Memory: 4 GB RAM Graphics: Nvidia GTX 970 DirectX: Version 11 Storage: 6 GB available space Additional Notes: Requires a room-scale VR setup (HTC Vive with controllers) with 2m x 1.5m space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 (3.2GHZ or Above) Memory: 8 GB RAM Graphics: Nvidia 1070 DirectX: Version 11 Storage: 6 GB available space Additional Notes: Requires a room-scale VR setup (HTC Vive with controllers) with 2m x 1.5m space",
+    "reviews": []
+}

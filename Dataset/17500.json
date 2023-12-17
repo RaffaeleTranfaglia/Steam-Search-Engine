@@ -1,0 +1,47 @@
+{
+    "app_id": 17500,
+    "name": "Zombie Panic! Source",
+    "release_date": "2008-10-03",
+    "developer": [
+        "Zombie Panic Team"
+    ],
+    "publisher": [
+        "Zombie Panic Team"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Co-op",
+        "Mods",
+        "Mods (require HL2)",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Valve Anti-Cheat enabled",
+        "Includes level editor",
+        "Includes Source SDK"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Zombies",
+        "Multiplayer"
+    ],
+    "achievements": 106,
+    "positive_ratings": 5267,
+    "negative_ratings": 914,
+    "price": 0.0,
+    "description": "Dive into the zombie apocalypse with Zombie Panic! Source: a cooperative, survival-horror first-person-shooter. A fast-paced standalone modification.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/17500/header.jpg?t=1548104679",
+    "minimum_requirements": "OS: Windows® 7 (32/64-bits)/Vista Processor: 1.7 GHz Processor or better Memory: 2 GB RAM Graphics: Video Card Shader model 3.0 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 8 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": "OS: Windows® 7 (32/64-bits) or above Processor: 2.4 GHz Dual Core Processor or better Memory: 4 GB RAM Graphics: nVidia 7600, ATI X1600 or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 8 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "reviews": []
+}

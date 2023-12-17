@@ -1,0 +1,42 @@
+{
+    "app_id": 340370,
+    "name": "Shades of Black",
+    "release_date": "2015-09-09",
+    "developer": [
+        "MDNA Games"
+    ],
+    "publisher": [
+        "Tri Synergy, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 8.99,
+    "description": "Carol has written a book about one of her previous adventures. She has put a lot of work into it, but after receiving rejections from several publishers, her enthusiasm for the project is beginning to wane.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340370/header.jpg?t=1447366565",
+    "minimum_requirements": "OS: XP, Vista, 7 or Newer Processor: 1Ghz or faster Memory: 512 MB RAM Graphics: 128 MB",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I found the game less interesting than the previous ones, the plot is complex with final twist, perhaps less characters to interact with. but it is always a pleasure to play. advice, Bosch's the damnation, Cold Case summer, Amber blood, east side story.",
+            "review_score": "1"
+        }
+    ]
+}

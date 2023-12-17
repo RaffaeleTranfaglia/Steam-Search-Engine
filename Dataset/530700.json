@@ -1,0 +1,44 @@
+{
+    "app_id": 530700,
+    "name": "Argo",
+    "release_date": "2017-06-22",
+    "developer": [
+        "Bohemia Interactive"
+    ],
+    "publisher": [
+        "Bohemia Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4438,
+    "negative_ratings": 4973,
+    "price": 0.0,
+    "description": "Jump straight into combat in this official standalone FREE total conversion of Arma 3. Argo is a hardcore tactical first-person shooter, in which you fight across unrestricted terrain, and where a single bullet is all it takes. Master your craft to rank up and become (in)famous on the battlefield.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/530700/header.jpg?t=1549636117",
+    "minimum_requirements": "OS: Windows 7 SP1 / 8 / 10 (64bit) Processor: Intel Dual-Core 2.4 GHz or AMD Dual-Core Athlon 2.5 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce 9800GT / AMD Radeon HD 5670 /  Intel HD Graphics 4000 with 512 MB VRAM DirectX: Version 10 Network: Broadband Internet connection Storage: 20 GB available space Sound Card: DirectX®-compatible on-board",
+    "recommended_requirements": "OS: Windows 7 SP1 / 8 / 10 (64bit) Processor: Intel Core i5-4460 or AMD FX 4300 or better Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 660 / AMD Radeon HD 7800 Series with 2 GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 20 GB available space Sound Card: DirectX®-compatible soundcard",
+    "reviews": []
+}

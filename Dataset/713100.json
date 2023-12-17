@@ -1,0 +1,38 @@
+{
+    "app_id": 713100,
+    "name": "StockUp",
+    "release_date": "2017-09-18",
+    "developer": [
+        "EcoGames"
+    ],
+    "publisher": [
+        "EcoGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 16,
+    "price": 4.79,
+    "description": "StockUp is a fun stock simulation game. Start from the bottom and become a stock market king!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/713100/header.jpg?t=1510052740",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: Intel Dual-Core 2GHz or AMD Dual-Core 2GHz Memory: 600 MB RAM Graphics: NVIDIA GeForce 400 series or AMD Radeon HD 6000 series, 1GB Video Card (Minimum Shader Model 2.0) DirectX: Version 9.0c Storage: 600 MB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "recommended_requirements": "OS: XP, Vista, 7, 8, 10 - (64 Bit) Processor: Intel Quad-Core (i5 2300) or AMD Octo-Core (FX 8150) Memory: 1 GB RAM Graphics: NVIDIA GeForce 660Ti or greater, AMD Radeon HD 7950 or greater, 2GB Video Card (Minimum Shader Model 2.0) DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "reviews": []
+}

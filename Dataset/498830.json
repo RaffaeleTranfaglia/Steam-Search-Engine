@@ -1,0 +1,45 @@
+{
+    "app_id": 498830,
+    "name": "Mustache in Hell",
+    "release_date": "2016-07-28",
+    "developer": [
+        "IdunaSoft"
+    ],
+    "publisher": [
+        "IdunaSoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 19,
+    "positive_ratings": 28,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "A trip to hell. Hordes of demons. Big guns. Insane combat encounters. Pixel art mustaches. It's going to be a long day for Officer John Mustache.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/498830/header.jpg?t=1519138865",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Dual Core/I3 Memory: 3 GB RAM Graphics: On Board Card DirectX: Version 9.0 Storage: 65 MB available space Sound Card: Onboard sound card",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Core I5 Memory: 6 GB RAM Graphics: On Board Card DirectX: Version 9.0 Storage: 65 MB available space Sound Card: Onboard sound card",
+    "reviews": [
+        {
+            "review_text": "Graphics - 8.0 Sound - 7.5 Gameplay - 9.0 Overall - 9.0  Awesome Game",
+            "review_score": "1"
+        }
+    ]
+}

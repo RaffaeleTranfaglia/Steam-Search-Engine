@@ -1,0 +1,41 @@
+{
+    "app_id": 514570,
+    "name": "Pinball Parlor",
+    "release_date": "2016-12-23",
+    "developer": [
+        "Mindware Co.,Ltd."
+    ],
+    "publisher": [
+        "Mindware Co.,Ltd. "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 14,
+    "positive_ratings": 7,
+    "negative_ratings": 7,
+    "price": 9.99,
+    "description": "A concept anyone can instantly understand. The joy of experiencing a novelty not found in any other game. A game you will want to play again and again after only a short period of time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514570/header.jpg?t=1485615915",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or later Processor: Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz) Memory: 2 GB RAM Graphics: DirectX 11 compatible graphic card DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or later Processor: Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz) Memory: 4 GB RAM Graphics: nVidia GeForce GTX 680 or higher. ATI HD 7750 or higher. DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "reviews": []
+}

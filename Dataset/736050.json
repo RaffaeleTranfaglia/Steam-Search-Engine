@@ -1,0 +1,37 @@
+{
+    "app_id": 736050,
+    "name": "Kink",
+    "release_date": "2017-10-31",
+    "developer": [
+        "baKno Games"
+    ],
+    "publisher": [
+        "baKno Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Use your drawing skills to trace over looped curves created by the game, and avoid the black spot or you will get kinked.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/736050/header.jpg?t=1509453541",
+    "minimum_requirements": "OS: XP Processor: Intel Single Core Memory: 1 GB RAM Graphics: 2004 GPU Storage: 200 MB available space",
+    "recommended_requirements": "OS: 7 Processor: Intel Multi Core Memory: 2 GB RAM Graphics: 2010 GPU Storage: 200 MB available space",
+    "reviews": []
+}

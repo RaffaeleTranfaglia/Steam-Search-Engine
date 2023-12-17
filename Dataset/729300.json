@@ -1,0 +1,38 @@
+{
+    "app_id": 729300,
+    "name": "Cleansuit",
+    "release_date": "2017-11-01",
+    "developer": [
+        "Goblin Council"
+    ],
+    "publisher": [
+        "Goblin Council"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Gore",
+        "Violent"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Cleansuit is a retro-style graphical text adventure game where you must find creative ways to survive a mysterious serial killer's assault on your home. Use text commands to manipulate the detailed environment and discover all the unique ways to win and die.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/729300/header.jpg?t=1529589786",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 125 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

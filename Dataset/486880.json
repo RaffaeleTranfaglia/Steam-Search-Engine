@@ -1,0 +1,48 @@
+{
+    "app_id": 486880,
+    "name": "Abrix for kids",
+    "release_date": "2016-08-12",
+    "developer": [
+        "EJRGames"
+    ],
+    "publisher": [
+        "EJRGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 52,
+    "negative_ratings": 101,
+    "price": 3.99,
+    "description": "Abrix is back! The new task is to get a treasure stolen by nasty gnomes. Join it and take part in solving intriguing puzzles of this extremely engaging logical game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486880/header.jpg?t=1538167162",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 Processor: 2 GHz Graphics: Compatible with DirectX9 DirectX: Version 9.0 Storage: 500 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Abrix is Back!",
+            "review_score": "1"
+        }
+    ]
+}

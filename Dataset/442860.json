@@ -1,0 +1,45 @@
+{
+    "app_id": 442860,
+    "name": "Vega Tank",
+    "release_date": "2016-04-29",
+    "developer": [
+        "Vega Play"
+    ],
+    "publisher": [
+        "Wtech"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Remember the good old times you spent your days playing Tanks on the NES with your family? Remember all those times when they had won, they gloated and made fun of you? Well now is the time you pay them back!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/442860/header.jpg?t=1461948557",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel(R) Core(TM)2 Duo 1.8 Ghz or equivalent Memory: 2 GB RAM Graphics: NVIDIA GeForce 9400M 256MB DirectX: Version 9.0 Storage: 300 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

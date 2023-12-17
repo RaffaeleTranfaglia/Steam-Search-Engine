@@ -1,0 +1,38 @@
+{
+    "app_id": 690060,
+    "name": "SORE",
+    "release_date": "2017-10-05",
+    "developer": [
+        "Bazitov Mikhail"
+    ],
+    "publisher": [
+        "Bazitov Mikhail"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 8,
+    "positive_ratings": 149,
+    "negative_ratings": 89,
+    "price": 0.0,
+    "description": "Mystical puzzle quest game in a gloomy minimalism style will tell you a story of a person who's got himself into a camera, and from which there is no way out it seems. Experimental gameplay diluted with a pinch of a philosophy, that's what SORE is.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690060/header.jpg?t=1514813136",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 2.0 GHz Memory: 512 MB RAM Graphics: 256 MB + support WebGL 2.0 Storage: 300 MB available space Sound Card: Onboard Additional Notes: Supports XBox Controller",
+    "recommended_requirements": "Processor: 3.0 GHz Memory: 1024 MB RAM Graphics: 512 MB + support WebGL 2.0 Storage: 300 MB available space Sound Card: Onboard Additional Notes: Supports XBox Controller",
+    "reviews": []
+}

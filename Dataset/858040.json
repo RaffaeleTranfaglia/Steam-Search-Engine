@@ -1,0 +1,41 @@
+{
+    "app_id": 858040,
+    "name": "Sudoku Jigsaw / 拼图数独",
+    "release_date": "2018-09-13",
+    "developer": [
+        "Konstructors Entertainment"
+    ],
+    "publisher": [
+        "Konstructors Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 4,
+    "positive_ratings": 29,
+    "negative_ratings": 7,
+    "price": 1.69,
+    "description": "Love Sudoku, but tired of default one? Try this.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/858040/header.jpg?t=1547032375",
+    "minimum_requirements": "OS: Windows 7+",
+    "recommended_requirements": null,
+    "reviews": []
+}

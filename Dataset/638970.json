@@ -1,0 +1,45 @@
+{
+    "app_id": 638970,
+    "name": "Yakuza 0",
+    "release_date": "2018-08-01",
+    "developer": [
+        "SEGA"
+    ],
+    "publisher": [
+        "SEGA"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Story Rich",
+        "Beat 'em up"
+    ],
+    "achievements": 55,
+    "positive_ratings": 9023,
+    "negative_ratings": 1343,
+    "price": 14.99,
+    "description": "SEGA’s legendary Japanese series finally comes to PC. Fight like hell through Tokyo and Osaka as junior yakuza Kiryu and Majima. Take a front row seat to 1980s life in Japan in an experience unlike anything else in video gaming, with uncapped framerates and 4K resolutions. A legend is born.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/638970/header.jpg?t=1552315377",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64Bit Processor: Intel Core i5-3470 | AMD FX-6300 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 560 | AMD Radeon HD 6870 Additional Notes: GPU with a gpumark of : 2600 to 3100, CPU with a cpumark of 4500 to 6300",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

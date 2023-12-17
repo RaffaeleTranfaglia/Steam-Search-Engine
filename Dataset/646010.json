@@ -1,0 +1,39 @@
+{
+    "app_id": 646010,
+    "name": "Golem",
+    "release_date": "2018-05-29",
+    "developer": [
+        "Longbow Games"
+    ],
+    "publisher": [
+        "Longbow Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 14,
+    "positive_ratings": 16,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "A heart-warming adventure about a young girl and a shape-shifting golem who must navigate the ruins of an ancient tower to solve its challenging puzzles and re-activate its long-dormant machines.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/646010/header.jpg?t=1538513716",
+    "minimum_requirements": "OS: Windows Vista, 7, 8, 10 Processor: Intel i5 or Equivalent Memory: 4 GB RAM Graphics: Intel HD 4000 DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 or Equivalent Memory: 8 GB RAM Graphics: GeForce 780 DirectX: Version 10 Storage: 4 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 912580,
+    "name": "RAZ",
+    "release_date": "2018-09-13",
+    "developer": [
+        "Team.WM"
+    ],
+    "publisher": [
+        "Team.WM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 88,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "RAZ is a multiplayer 3D side scroller shooter with up to 4 players. Clear all waves to collect money, raise your level to get new weapons, and strengthen your weapon with a modding system!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/912580/header.jpg?t=1540501234",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Microsoft Windows 10 Processor: Intel® Core™ i3-4160 Processor (3M Cache, 3.60 GHz) Memory: 4 GB RAM Graphics: Radeon HD 5770 or better DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Microsoft Windows 10 Processor: Intel® Core™ i5-2400 Processor (6M Cache, up to 3.40 GHz) Memory: 8 GB RAM Graphics: GeForce GTX 660 or better DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

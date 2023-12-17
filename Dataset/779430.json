@@ -1,0 +1,42 @@
+{
+    "app_id": 779430,
+    "name": "Full Ace Tennis Simulator",
+    "release_date": "2018-02-28",
+    "developer": [
+        "Galactic Gaming Guild"
+    ],
+    "publisher": [
+        "Whippering"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Tennis",
+        "Sports",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 92,
+    "negative_ratings": 14,
+    "price": 19.49,
+    "description": "Full Ace Tennis Simulator is for those seeking unequaled tennis depth and fun.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/779430/header.jpg?t=1551365842",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 1 GHz CPU Memory: 1 GB RAM Graphics: 3D card with OpenGL 3.0 or DirectX9 512 Mb DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: 3D card with OpenGL 3.0 or DirectX9 2 Gb DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: Joypad",
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 584400,
+    "name": "Sonic Mania",
+    "release_date": "2017-08-29",
+    "developer": [
+        "Christian Whitehead",
+        "Headcannon",
+        "PagodaWest Games"
+    ],
+    "publisher": [
+        "SEGA"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Great Soundtrack",
+        "2D",
+        "Platformer"
+    ],
+    "achievements": 18,
+    "positive_ratings": 8669,
+    "negative_ratings": 984,
+    "price": 14.99,
+    "description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/584400/header.jpg?t=1552320291",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 2 Duo Memory: 2 GB RAM Graphics: DirectX 9.0c compliant video card 256MB DirectX: Version 9.0c Storage: 400 MB available space Sound Card: DirectX 9.0c Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

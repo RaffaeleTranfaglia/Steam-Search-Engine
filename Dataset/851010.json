@@ -1,0 +1,38 @@
+{
+    "app_id": 851010,
+    "name": "Airplane Sky Voyage",
+    "release_date": "2018-05-31",
+    "developer": [
+        "Playloft"
+    ],
+    "publisher": [
+        "Playloft"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Flight"
+    ],
+    "achievements": 7,
+    "positive_ratings": 3,
+    "negative_ratings": 6,
+    "price": 5.79,
+    "description": "For an owner of an airport there is no time for bore. Exciting flights and amazing sense of freedom! And that's your great chance to experience this. Control different plane models, master piloting skills and explore sky open spaces.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/851010/header.jpg?t=1538988414",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz Dual-core CPU Memory: 1 GB RAM Graphics: 1GB DirectX 9.0c compatible DirectX: Version 9.0 Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,69 @@
+{
+    "app_id": 383690,
+    "name": "Mu Complex",
+    "release_date": "2015-10-23",
+    "developer": [
+        "studiocime"
+    ],
+    "publisher": [
+        "studiocime"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Hacking"
+    ],
+    "achievements": 37,
+    "positive_ratings": 128,
+    "negative_ratings": 25,
+    "price": 5.99,
+    "description": "Play as a hacker and take control of an ultra secret company to reveal the darkest secrets. But beware , you seem not to be alone and what you will discover could change the world ...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/383690/header.jpg?t=1453828583",
+    "minimum_requirements": "OS: Windows XP Processor: 1.3 GHz Memory: 2048 MB RAM Graphics: 3D acceleration enabled card Network: Broadband Internet connection Storage: 150 MB available space Sound Card: N/A",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great storyline, some onteresting hidden details or clue (i probably have missed a lot of them, but then again, they are hidden) give the game a verry interesting atmosphere. Most of the game can probably be done 'simply' by people used to both puzzle games and coding, but for someone who's new to both it can be quite challenging (which make it even more rewarding to find the answer. In my opinion it's worth the cost.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "awesome game wish there were more games like this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like this game. There is some mistakes or features like total history. The first one is united history on every pc, better will be like IRL every pc has it's own bash history. And may be some hints or about hidden at history. The second is there is no logout from pc or something like that, you'll just go on other pc if current is powered off. But this is just a nags from that who uses ssh every day.  First part was very easy, but second is so large. By now i do know much about morse codes, i have an note where i put my hints. But what was in report.txt at Fred's pc. Definitely i'll try to get whole info that i can reach.  10 of 10 detectives. And whoami (the last user was about 21 thousand days ago! About 57+ years) ?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(First Impressions. Will update along the way.)  I may have only played little of it for now, but I can already tell that this is a game that I would like.  Think Hacknet but different in its own way.  The mechanics claim to be 'real' in a sense. I can vouch for that, since I have dealt with a lot of Linux machines. However I found them to be a bit too simplified in this case but it's a game so I guess it has taken liberties for it to ne accessible to those who aren't familiar with the shell based terminals.  Seeing that it has two episodes for now leaves me to think that the future episodes will come as either free or paid DLC. Or maybe it really only has two episodes in which case I have yet to finish the game first.  For now, I find it to be a very challenging game. I highly recommend it to those who have played Hacknet. Stay tuned for future updates of this review.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Only get this game if you know what your doing with computers otherwise it could cause much saddness     but if you do know what your doing this is an AWESOME GAME :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good command-line based gameplay. The learning curve for the puzzles is fairly reasonable for the intended audience for these kinds of games. I played this as a flash game for free before and it introduced me to command-line based games. I bought this because I wanted to support the developers and personally found    The Resistance message after you get the inverted Konami code-style secret code intriguing.     Overall a reasonably enjoyable experience for its price.  Get this game if:  -you like solving interesting puzzles -you enjoy figuring out a story for yourself, instead of it simply being spoonfed to you -you like command-line based gameplay (or typing games in general) -you previously enjoyed the free version of it and want to help support the developers make future games",
+            "review_score": "1"
+        }
+    ]
+}

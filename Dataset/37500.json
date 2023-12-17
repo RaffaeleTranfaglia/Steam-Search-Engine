@@ -1,0 +1,53 @@
+{
+    "app_id": 37500,
+    "name": "Magnetis ",
+    "release_date": "2009-11-05",
+    "developer": [
+        "Yullaby"
+    ],
+    "publisher": [
+        "Yullaby"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Casual"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 40,
+    "positive_ratings": 33,
+    "negative_ratings": 9,
+    "price": 1.49,
+    "description": "Magnetis™ is all about attraction! Connect the magnets to create electric explosions. Solving this frantic puzzle will require quick thinking and foresight, anticipating connections in order to generate massive chain reactions to win the highest number of points!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/37500/header.jpg?t=1447352672",
+    "minimum_requirements": "OS: Windows XP or laterProcessor: Intel/AMD, 1.5 ghzMemory: 256MBGraphics: OpenGL 1.5 compatible, minimum 32MB video RAM; NVIDIA GeForce FX series 5xxx, Radeon R300 series (9xxx, X10xx)Sound: OpenAL compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "My first impression was not so good about this game. But when i started to play it for real, i found out is a pretty good title. With clear and fun gameplay, Magnetis have a challenging progression, nice soundtrack and cool sound effects (play it with a good headphone, please), online (via Steam) score and achievements, and local multiplay in coop and versus mode up to 4 players.  Definitely, this is a Steam underrated gem and worth the ridiculous price it costs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting concept whose mechanics are larger than the playing space. There is simply not enough room on the field for this game to be played for more than about eight minutes before throwing up your hands in disgust. Simply doubling or trebling the size of the playing space would vastly improve this game. As it is, two thirds of a wide screen display are absolutely wasted and only to make this game too frustrating to play.  TLDR - Space too small to be fun, DO NOT buy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is basically YOSHI horzontal, combined with Tetris Vertical and uses its own 3d engine.",
+            "review_score": "1"
+        }
+    ]
+}

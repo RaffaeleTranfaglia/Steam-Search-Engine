@@ -1,0 +1,38 @@
+{
+    "app_id": 962280,
+    "name": "Fantom Feast",
+    "release_date": "2019-02-01",
+    "developer": [
+        "prettysmart games"
+    ],
+    "publisher": [
+        "prettysmart games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Help Fantom eat enemies and grow big and strong!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/962280/header.jpg?t=1549080750",
+    "minimum_requirements": "OS: Windows 10 Processor: Dual Core Processor Memory: 250 MB RAM Graphics: DirectX11 compatible graphic card Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

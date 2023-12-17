@@ -1,0 +1,40 @@
+{
+    "app_id": 818060,
+    "name": "Super Saurio Fly: Jurassic Edition",
+    "release_date": "2018-04-12",
+    "developer": [
+        "FraxelGames"
+    ],
+    "publisher": [
+        "FraxelGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 39,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 6.89,
+    "description": "Super Saurio Fly is a prehistoric 2D arcade adventure game with a twist: Super Saurio is able to fly. Dodge traps and defeat other dinosaurs across sixteen different levels in a challenging journey around the world accompanied by hand-drawn animated cutscenes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818060/header.jpg?t=1554887718",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 4 GB RAM Graphics: 1 GB DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 8 GB RAM Graphics: 2GB DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

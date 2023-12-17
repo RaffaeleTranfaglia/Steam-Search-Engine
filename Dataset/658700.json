@@ -1,0 +1,42 @@
+{
+    "app_id": 658700,
+    "name": "V-Rally 4",
+    "release_date": "2018-09-25",
+    "developer": [
+        "KT Racing"
+    ],
+    "publisher": [
+        "Bigben Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Offroad",
+        "Simulation"
+    ],
+    "achievements": 49,
+    "positive_ratings": 100,
+    "negative_ratings": 52,
+    "price": 39.99,
+    "description": "The return of a legendary off-road racing game! Enjoy an extreme experience while becoming an expert in a demanding simulation. Take on the challenges of rallies, rallycross, drifts, buggies and hill climbs, and set off on a spectacular journey across every continent.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658700/header.jpg?t=1551863980",
+    "minimum_requirements": "OS: Windows® 7 64bits Processor: Intel Core i3-540 or AMD Phenom II X4 940 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 560 or AMD Radeon HD 6870 DirectX: Version 11 Network: Broadband Internet connection Storage: 19 GB available space Sound Card: DirectX Compatible Soundcard Additional Notes: 64bit Only",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel Core i7-3770 or AMD FX-8350 Memory: 8 GB RAM Graphics: Nvidia GTX 780 or AMD R9 290 DirectX: Version 11 Network: Broadband Internet connection Storage: 19 GB available space Sound Card: DirectX Compatible Soundcard Additional Notes: 64bit Only",
+    "reviews": []
+}

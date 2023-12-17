@@ -1,0 +1,41 @@
+{
+    "app_id": 778000,
+    "name": "The SOL Device",
+    "release_date": "2018-07-08",
+    "developer": [
+        "Straitlace Studios"
+    ],
+    "publisher": [
+        "Straitlace Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Breaking free from stasis, you find yourself in an abandoned spaceship, full of hazards and mysteries. Using the Solid Optipartical Laser Device, you must journey your way across the ship, collecting new pieces of equipment as you go.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/778000/header.jpg?t=1531109626",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: 2GHz Memory: 2 GB RAM Graphics: 128MB DirectX: Version 9.0 Storage: 256 MB available space",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: 2GHz Memory: 3 GB RAM Graphics: 512MB DirectX: Version 9.0 Storage: 256 MB available space",
+    "reviews": []
+}

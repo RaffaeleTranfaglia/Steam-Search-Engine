@@ -1,0 +1,44 @@
+{
+    "app_id": 285110,
+    "name": "GearCity",
+    "release_date": "2014-05-30",
+    "developer": [
+        "Visual Entertainment And Technologies"
+    ],
+    "publisher": [
+        "Visual Entertainment And Technologies"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Management",
+        "Simulation"
+    ],
+    "achievements": 76,
+    "positive_ratings": 514,
+    "negative_ratings": 109,
+    "price": 15.99,
+    "description": "Do you find tycoon games too simplistic? GearCity is a complex and in-depth business simulator. It focuses on a realistic economic simulation of the global automobile industry. Many car tycoon games exist. Some are glorified car designers, while others are trivial. None are as comprehensive as GearCity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/285110/header.jpg?t=1551142828",
+    "minimum_requirements": "OS: XP Processor: 1.2 GHz Memory: 1 GB RAM Graphics: 128 MB DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: 32-Bit Version",
+    "recommended_requirements": "OS: Windows 7 64-Bit Processor: 3 GHz Memory: 3 GB RAM Graphics: 512 MB DirectX: Version 9.0 Storage: 3 GB available space Additional Notes: 64-Bit Version",
+    "reviews": []
+}

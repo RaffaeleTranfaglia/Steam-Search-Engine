@@ -1,0 +1,47 @@
+{
+    "app_id": 562050,
+    "name": "Liquid Pinball",
+    "release_date": "2016-11-24",
+    "developer": [
+        "RunServer"
+    ],
+    "publisher": [
+        "RunServer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Singleplayer"
+    ],
+    "achievements": 17,
+    "positive_ratings": 45,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "In this colorful game you need to tilt the field to move liquids to exits, dying them to different colors and even splitting apart. Game has fascinatingly realistic liquid physics and graphics setting the tone, Liquid Pinball challenges players to conquer 60 levels in 5 scenarios of varying difficulty.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/562050/header.jpg?t=1531926406",
+    "minimum_requirements": "Styresystem: Windows XP Processor: Pentium III, 500Mhz Hukommelse: 256 MB RAM Grafik: OpenGL 1.1 Capable Video with 512MB VRAM DirectX: Version 9.0 Diskplads: 50 MB tilgængelig plads Lydkort: Any Yderligere bemærkninger: .Net Framework 2.0-4.5+",
+    "recommended_requirements": "Anbefalet: Styresystem: Windows 7 Processor: Pentium IV Hukommelse: 512 MB RAM Grafik: OpenGL 2.0 Capable Video DirectX: Version 9.0 Diskplads: 50 MB tilgængelig plads Lydkort: Any Yderligere bemærkninger: .Net Framework 2.0-4.5+",
+    "reviews": [
+        {
+            "review_text": "half buck? accept!",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "app_id": 315680,
+    "name": "Spellcrafter",
+    "release_date": "2015-05-04",
+    "developer": [
+        "Jujubee S.A."
+    ],
+    "publisher": [
+        "Jujubee S.A."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 20,
+    "positive_ratings": 19,
+    "negative_ratings": 36,
+    "price": 6.99,
+    "description": "Spellcrafter is an RPG game with deep tactical turn-based combat and a unique spell casting system. Explore the magical world, collect gold, interact with NPCs, take quests and make moral choices! Recruit heroes, assemble and summon powerful troops and send them into battle!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/315680/header.jpg?t=1447362823",
+    "minimum_requirements": "OS: Windows XP with SP2, Windows Vista, Windows 7, Windows 8 or later Processor: Intel Celeron 2.33 GHz Memory: 1 GB RAM Graphics: 512MB DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game contains some instances of good artwork, decent music, tolerable voice acting, and a unique game mechanic. Everything else? Well, let's just say that it's not worth the $9.99 full price and that I'm glad I got this off Humble store for SUPER cheap!  The graphics look dated, the camera and movement controls are frustrating, the intro is brief, but uninformative; the story is vague and unengaging, the dialogue: atrocious.   Actual battle game play seems better suited to tablets and touch devices. Though I had no problem using it, I can see how some people may have had problems drawing spells with speed and accuracy. This game should be made into an iOS and Android app that supports multi-touch.  In general, this feels more like an unfinished idea that needs fleshing out and a graphics overhaul. Great Idea, but not engaging enough, not polished enough, and costs too much.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Lack of words. This game looks like drunken gamer's nightmare. Graphic. story, gameplay - all of it sucks. Pitty as it is another proof that Poles cannot into gameDev :(",
+            "review_score": "-1"
+        }
+    ]
+}

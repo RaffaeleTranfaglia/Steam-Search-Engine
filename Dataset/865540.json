@@ -1,0 +1,40 @@
+{
+    "app_id": 865540,
+    "name": "PLAYNE : The Meditation Game",
+    "release_date": "2018-11-05",
+    "developer": [
+        "Vismaya"
+    ],
+    "publisher": [
+        "Vismaya"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Casual"
+    ],
+    "achievements": 40,
+    "positive_ratings": 158,
+    "negative_ratings": 6,
+    "price": 8.99,
+    "description": "Playne is a game designed to reduce stress, increase well-being and to promote personal growth by helping you build a habit of mindfulness. Experience a game that grows with you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/865540/header.jpg?t=1554203387",
+    "minimum_requirements": "OS: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit Processor: Intel core i3-2100T @ 2.5GHz/AMD FX 6100, or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 650Ti 2GB, AMD Radeon HD 7750 2GB DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit Processor: Intel Core i5 3570K; AMD Ryzen 3 1300x or equivalent Memory: 16 GB RAM Graphics: Nvidia GTX 960; AMD R9 290 or equivalent DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

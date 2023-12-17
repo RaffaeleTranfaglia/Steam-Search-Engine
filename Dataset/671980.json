@@ -1,0 +1,41 @@
+{
+    "app_id": 671980,
+    "name": "Close Me",
+    "release_date": "2017-08-09",
+    "developer": [
+        "Yai Gameworks"
+    ],
+    "publisher": [
+        "Yai Gameworks"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Nudity",
+        "Violent",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Nudity"
+    ],
+    "achievements": 0,
+    "positive_ratings": 65,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "You start the game, you wake up, and eventually you will close the game. One day, you may even start the game again. That's the game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/671980/header.jpg?t=1531201671",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 4 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU Storage: 400 MB available space Additional Notes: 1280x720 or better Display",
+    "recommended_requirements": null,
+    "reviews": []
+}

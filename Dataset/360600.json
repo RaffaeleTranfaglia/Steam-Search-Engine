@@ -1,0 +1,42 @@
+{
+    "app_id": 360600,
+    "name": "99 Waves to Die",
+    "release_date": "2015-04-09",
+    "developer": [
+        "SpookyFish Games"
+    ],
+    "publisher": [
+        "SpookyFish Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 7,
+    "price": 1.99,
+    "description": "99 Waves to Die is a twin stick arcade shooter, inspired by the arcade games, and 8-bit home consoles &amp; computers of the 1980's.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360600/header.jpg?t=1447371920",
+    "minimum_requirements": "OS: Windows XP or Later Processor: 2.0 GHz Intel Core 2 Duo Memory: 2 GB RAM Graphics: DirectX9 - Nvidia / ATI / Integrated DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Hard decision... I really like twin stick shooters but this one is way too shallow, mediocre players spot the loophole within minutes and it evolves into a game of patience... not a good and demanding game",
+            "review_score": "-1"
+        }
+    ]
+}

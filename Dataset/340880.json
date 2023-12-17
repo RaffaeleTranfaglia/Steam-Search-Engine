@@ -1,0 +1,53 @@
+{
+    "app_id": 340880,
+    "name": "Solar War",
+    "release_date": "2015-01-06",
+    "developer": [
+        "Snipefish Entertainment"
+    ],
+    "publisher": [
+        "Snipefish Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 16,
+    "positive_ratings": 21,
+    "negative_ratings": 4,
+    "price": 12.49,
+    "description": "A turn-based grand strategy game in space, set in the near future: Defend Earth against an alien invasion from the edge of the Solar System and expand your campaign to push them back to their base.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340880/header.jpg?t=1447366666",
+    "minimum_requirements": "OS: Windows XP Processor: Intel P4 CPU or AMD equivalent Memory: 2 GB RAM Graphics: Graphics adapter with OpenGL 2.1 support (GLSL 1.2) Storage: 256 MB available space",
+    "recommended_requirements": "Memory: 4 GB RAM Storage: 512 MB available space",
+    "reviews": [
+        {
+            "review_text": "Great game, with a moderate tutorial. It teaches you the basics of combat, and a little bit else, but mostly it's up to the player to discover how to play.  It's got space, strategy, a little politics, and plenty of researching/colonizing. I'd give it a 8.1/10 due to potential and the fact that the dev is still working with it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "love the game it reminds me of the classic x-com that was in space",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I tried the demo and I was surprised at how much I like it. The demo will give you two hours with the full game, so it's absolutely worth a shot.   It's a different kind of game from the typical Space Cowboy or 4X sci fi games that it superficially resembles. It's a lot like X-Com, but from a space navy perspective. Aliens are attacking Earth and you need to build up and manage your fleet (including officer development and crews) with more typical kind of 4X research, combat and ship design. You've also got to keep the nations of Earth happy with your performance.   If you like X-Com and like fleet-based 4X games, you'll probably like this too.",
+            "review_score": "1"
+        }
+    ]
+}

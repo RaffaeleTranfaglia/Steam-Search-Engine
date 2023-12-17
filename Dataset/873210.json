@@ -1,0 +1,40 @@
+{
+    "app_id": 873210,
+    "name": "iterform",
+    "release_date": "2018-06-12",
+    "developer": [
+        "Evgeny Petrov"
+    ],
+    "publisher": [
+        "Not a Prototype games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 15,
+    "positive_ratings": 7,
+    "negative_ratings": 5,
+    "price": 2.09,
+    "description": "iterform is a minimalistic hardcore platformer with experimental respawn mechanic and ability to create replicas and respawn on them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/873210/header.jpg?t=1529409114",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Ivy Bridge or better Memory: 512 MB RAM Graphics: HD Graphics 4000 or better Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Intel Ivy Bridge or better Memory: 512 MB RAM Graphics: HD Graphics 4000 or better Storage: 100 MB available space",
+    "reviews": []
+}

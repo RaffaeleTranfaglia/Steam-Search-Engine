@@ -1,0 +1,44 @@
+{
+    "app_id": 452930,
+    "name": "Insane",
+    "release_date": "2016-03-31",
+    "developer": [
+        "VIS-Games"
+    ],
+    "publisher": [
+        "United Independent Entertainment GmbH"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 6,
+    "negative_ratings": 11,
+    "price": 5.59,
+    "description": "!nsane is a nod to the cult game &quot;Logical&quot; from the good old Amiga days. It's all about balls and twist locks. You have to arrange the balls in the right order to pick the lock. What sounds simple enough quickly turns out to be a uniquely tricky game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/452930/header.jpg?t=1517298200",
+    "minimum_requirements": "OS: Windows Vista / 7 / 8 / 10 Processor: Intel Core 2 Duo / AMD Athlon X2, min: 2.4 GHz Memory: 2 GB RAM Graphics: Nvidia GeForce 570 with 256 MB memory or comparable AMD DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "In brief Insane is a Logical remake that's not quite there.  Before I get into why I don't recommend Insane I need to talk about Logical. I first played it on the C64 way back in the day. I really liked three things about: it's puzzle nature, the frenetic action and the musc. Time passed and I moved on from my C64 to a PC and played the DOS port of logical. It lost something in translation, the music most notably but also the mouse controls never really felt as good as the C64's weird joystick scheme.  Insane, unfortunately, lost something even further in translation. It's by far the prettiest Logical I've seen and the music is servicable (not as memorable as the strange sad upbeat music of the original). But...  The problem lies with the controls and the gameplay speed. The locks turn very, very slowly. The Commodore version had exactly one frame of animation on the diagonal. Those locks could be spun fast, literally about 10 to 15 quarter revolutions a second. And it was necessary it keep the balls in play as they also rolled around quite quickly.  In insane the balls roll slowly but relatively faster than the locks spin leading to many unintentional bounces and missed catches.  This is further exacebated by the mouse controls. Both the DOS and Amiga versions used a two button scheme. One button to throw the ball and the other to twist the lock. Insane uses one button to do both, miss clicking is a constant and annoying problem as there are no cues as to whether the mouse is over the lock or a ball.  Add a little pause to the end of the rotation cycle during which the lock can't be clicked and you have only a slow puzzle game that rarely executes the expected actions. I hate to write this because I loved Logical and have played many remakes of it over the years; and collected quite a lot of remixes of it's music.  Insane lacks the speed, the varied backgrounds, the tight controls and even the number of levels of the original. I didn't enjoy it and it's not a game I can recommend. Sadness.",
+            "review_score": "-1"
+        }
+    ]
+}

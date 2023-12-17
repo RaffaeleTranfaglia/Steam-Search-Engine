@@ -1,0 +1,41 @@
+{
+    "app_id": 694930,
+    "name": "Lost God",
+    "release_date": "2018-02-07",
+    "developer": [
+        "Time Stop Interactive"
+    ],
+    "publisher": [
+        "Time Stop Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 26,
+    "positive_ratings": 12,
+    "negative_ratings": 3,
+    "price": 11.39,
+    "description": "Experience atmospheric exploration gameplay on your journey through several breathtaking areas, from a vibrant forest to overgrown ruins and dark tunnels. Secrets await around every corner, waiting to be unearthed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/694930/header.jpg?t=1518033727",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core CPU 2.0 GHz Memory: 4 GB RAM Graphics: Nvidia Geforce GTX 750ti DirectX: Version 9.0 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 (64 bit), Windows 10 (64 bit) Processor: Quad Core CPU 2.5 GHz Memory: 8 GB RAM Graphics: Nvidia Geforce GTX 950 DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

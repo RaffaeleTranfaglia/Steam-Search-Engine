@@ -1,0 +1,40 @@
+{
+    "app_id": 1018000,
+    "name": "Anniversary Collection Arcade Classics",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Konami Digital Entertainment"
+    ],
+    "publisher": [
+        "Konami Digital Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Arcade"
+    ],
+    "achievements": 17,
+    "positive_ratings": 20,
+    "negative_ratings": 10,
+    "price": 15.99,
+    "description": "8 KONAMI arcade classics of the 80s, from Nemesis to TwinBee. Including bonus eBook packed with new information never before revealed to the public.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1018000/header.jpg?t=1556270601",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 - 64bit Processor: Intel Core-i3 4160 Memory: 4 GB RAM Graphics: Intel HD Graphics 4400 (VRAM 128MB) DirectX: Version 11 Storage: 300 MB available space Sound Card: DirectX 11 compatible Additional Notes: 1280 x 720 monitor resolution",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 - 64bit Processor: Intel Core i3-6300 Memory: 4 GB RAM Graphics: Geforce GTX 750 Ti (VRAM 2GB) DirectX: Version 11 Storage: 300 MB available space Sound Card: DirectX 11 compatible Additional Notes: 1920 x 1080 monitor resolution, 　Gamepad or Controller Recommended",
+    "reviews": []
+}

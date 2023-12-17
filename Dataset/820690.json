@@ -1,0 +1,43 @@
+{
+    "app_id": 820690,
+    "name": "ZYTERNION",
+    "release_date": "2018-04-06",
+    "developer": [
+        "Pigeonaut"
+    ],
+    "publisher": [
+        "Pigeonaut"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "ZYTERNION has fallen. Your mission is to survive and be the last fighter standing. Upgrade your ship with power-ups and battle your friends in competitive local multiplayer!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/820690/header.jpg?t=1523059261",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0GHZ Memory: 1 GB RAM Graphics: 512MB Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

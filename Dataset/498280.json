@@ -1,0 +1,43 @@
+{
+    "app_id": 498280,
+    "name": "Jurassic Survival",
+    "release_date": "2016-08-01",
+    "developer": [
+        "Technical Entertainment"
+    ],
+    "publisher": [
+        "Technical Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 28,
+    "price": 5.99,
+    "description": "Jurassic Survival is an open-world survival game where players must cohabit with roaming dinosaurs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/498280/header.jpg?t=1472089091",
+    "minimum_requirements": "OS: Windows Vista, 7, 8 or 10 Processor: Intel Core 2 Duo @ 2 GHz or higher Memory: 4 GB RAM Graphics: GTX 560 or higher DirectX: Version 11 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows Vista, 7, 8 or 10 Processor: Intel Core i5 - 3570K @ 3.40GHz or higher Memory: 8 GB RAM Graphics: GTX 680 or higher DirectX: Version 12 Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "games that are in early access should be listed as early access, that's why i'm giving this a thumbs down.   This game shows a little if any potential at all, just keep working at it and make it playable and maybe it might be better than No Man's sky... actually that's a lie, everything is better than no man's sky :3",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "app_id": 589410,
+    "name": "Dammerlicht",
+    "release_date": "2017-02-16",
+    "developer": [
+        "Royal Tea Time Studio"
+    ],
+    "publisher": [
+        "Royal Tea Time Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Dämmerlicht is a game based around the many worlds theory, where the actions of the player create alternate universes and allow you to experience each potential path the game world could take.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/589410/header.jpg?t=1487649893",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 2 GB RAM DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

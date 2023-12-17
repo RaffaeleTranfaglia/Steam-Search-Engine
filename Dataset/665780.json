@@ -1,0 +1,39 @@
+{
+    "app_id": 665780,
+    "name": "Juke",
+    "release_date": "2018-05-09",
+    "developer": [
+        "Jello Godfri"
+    ],
+    "publisher": [
+        "Jello Godfri"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer",
+        "2D"
+    ],
+    "achievements": 47,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.55,
+    "description": "Juke is a hardcore platformer with tight controls and unforgiving challenges. Easy to pick up but hard to master, Juke will test your reflexes and your coordination.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665780/header.jpg?t=1526143140",
+    "minimum_requirements": "OS: Windows XP SP2+ or later Processor: 2.0 Ghz Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.5 Ghz Memory: 4 GB RAM Graphics: 2GB of VRAM DirectX: Version 11 Storage: 300 MB available space Additional Notes: A controller is strongly recommended to play this game.",
+    "reviews": []
+}

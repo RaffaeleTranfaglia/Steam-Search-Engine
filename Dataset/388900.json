@@ -1,0 +1,56 @@
+{
+    "app_id": 388900,
+    "name": "Fracture the Flag",
+    "release_date": "2016-12-07",
+    "developer": [
+        "One Wheel Studio"
+    ],
+    "publisher": [
+        "One Wheel Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "achievements": 12,
+    "positive_ratings": 89,
+    "negative_ratings": 29,
+    "price": 3.99,
+    "description": "Fracture the Flag is not the usual hyper click fest of an RTS... Take some time, gather your resources, plan your strategy and then knock the crud out your opponents!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/388900/header.jpg?t=1482523305",
+    "minimum_requirements": "OS: Win 7 or Newer Processor: Core i5 or Similar Memory: 4 GB RAM Graphics: A discrete graphics card from the last 4-5 years. DirectX: Version 10 Network: Broadband Internet connection Storage: 350 MB available space Sound Card: Something with a output jack.",
+    "recommended_requirements": "OS: Win 7 or Newer Processor: Core i5 or Similar Memory: 8 GB RAM Graphics: A discrete graphics card from the last 4-5 years. DirectX: Version 11 Network: Broadband Internet connection Storage: 350 MB available space Sound Card: Something with a output jack.",
+    "reviews": [
+        {
+            "review_text": " This game, in it's current state, is EXTREMELY buggy and becomes unplayable after you've made your base with some workers",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I played this game for 30 minutes and I could not find out how to get more building points! The game is a great comsept and I dont half hate it however there needs to be a clear intro to teach people how to play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a good game but needs to be omtimised because at some stages it can get quite laggy",
+            "review_score": "1"
+        }
+    ]
+}

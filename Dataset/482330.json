@@ -1,0 +1,48 @@
+{
+    "app_id": 482330,
+    "name": "Legends of the Universe - StarCore",
+    "release_date": "2016-07-25",
+    "developer": [
+        "LunarCore Games"
+    ],
+    "publisher": [
+        "LunarCore Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 26,
+    "positive_ratings": 45,
+    "negative_ratings": 11,
+    "price": 1.69,
+    "description": "Metroidvania style action/platformer with tons of abilities, enemies and exploration.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/482330/header.jpg?t=1552743614",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2 Ghz Memory: 120 MB RAM Graphics: 128mb Video Memory DirectX: Version 8.0 Storage: 21 MB available space Sound Card: DirectX-compatible sound card Additional Notes: Gamepad Recommended",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "   6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're looking for something like Shovel Knight but in a Metroidvania, keep looking. This one has some cool ideas but it's so unpolished that it's really hard to lose yourself in.   If you've played Axiom verge 10x and have played every Castlevania game on DS emulator, and also played Super Metroid and Demon's Crest on SNES, then maybe give this a shot if you're really bored.",
+            "review_score": "-1"
+        }
+    ]
+}

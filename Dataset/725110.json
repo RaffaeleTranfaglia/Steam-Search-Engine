@@ -1,0 +1,42 @@
+{
+    "app_id": 725110,
+    "name": "Wizards Tourney",
+    "release_date": "2018-09-21",
+    "developer": [
+        "a bonfire of souls"
+    ],
+    "publisher": [
+        "a bonfire of souls"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 36,
+    "positive_ratings": 19,
+    "negative_ratings": 1,
+    "price": 9.9,
+    "description": "Wizards Tourney is a party game for up to four players in which different wizards from around the world compete against each other to show who is the most skillful and astute. Test your magical talent and use all your tricks on your rivals to become the best wizard!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/725110/header.jpg?t=1551096015",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3-2100 / AMD A8-5600k Memory: 1024 MB RAM Graphics: GeForce GTX 450 / Radeon HD 6750 DirectX: Version 10 Storage: 550 MB available space Additional Notes: A controller is needed for multiplayer",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 1000480,
+    "name": "Battle Motion",
+    "release_date": "2019-02-04",
+    "developer": [
+        "Meadow Games"
+    ],
+    "publisher": [
+        "Meadow Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "Single-player action game with massive fantasy battles, that using non-target directional combat system. Fight non-stop battles with many units, game modes, different classes, weapons!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1000480/header.jpg?t=1550958977",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: 2 GHz or Faster (64-bit) Memory: 4 GB RAM Graphics: Intel HD Graphics DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: 3 GHz or Faster (64-bit) Memory: 8 GB RAM Graphics: Geforce GTX 750 DirectX: Version 12 Storage: 1 GB available space",
+    "reviews": []
+}

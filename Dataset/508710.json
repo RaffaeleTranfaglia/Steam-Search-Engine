@@ -1,0 +1,42 @@
+{
+    "app_id": 508710,
+    "name": "Project Lounge",
+    "release_date": "2016-11-03",
+    "developer": [
+        "Aivaras Ivoškus"
+    ],
+    "publisher": [
+        "Aivaras Ivoškus"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 27,
+    "negative_ratings": 9,
+    "price": 4.79,
+    "description": "Project Lounge is a 3D social game that encourages people to socialize in enviroments full of interactable objects such as drawboards, vinyl players and even arcade machines!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/508710/header.jpg?t=1487677765",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 3*** series Memory: 2 GB RAM Graphics: GTX 660/AMD Radeon HD 6870/Intel HD 5500 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space Additional Notes: Hosting may require strong upload bandwidth (256 kbps); Requires Steam services to be online to work",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Intel i5 4*** series Memory: 4 GB RAM Graphics: GTX 960/AMD Radeon R7 260 DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space Additional Notes: Hosting may require strong upload bandwidth (256 kbps); Requires Steam services to be online to work",
+    "reviews": []
+}

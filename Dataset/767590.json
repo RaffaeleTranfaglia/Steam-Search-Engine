@@ -1,0 +1,43 @@
+{
+    "app_id": 767590,
+    "name": "Raining blocks",
+    "release_date": "2018-01-04",
+    "developer": [
+        "Oscar Ortigueira López",
+        "OrtiGames/OrtiSoft"
+    ],
+    "publisher": [
+        "OrtiGames/OrtiSoft"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Family Friendly"
+    ],
+    "achievements": 13,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "Raining blocks it's a game where you need to avoid the blocks that fall, which you push and pull to try to escape or survive longer. The perfect game to play one fast game before leaving to do something else!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/767590/header.jpg?t=1537787209",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Dual Core 2 GHz Memory: 1 GB RAM Graphics: Shader Model 2.0 Storage: 100 MB available space Sound Card: S.O compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

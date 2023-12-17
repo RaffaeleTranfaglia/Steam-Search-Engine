@@ -1,0 +1,40 @@
+{
+    "app_id": 751950,
+    "name": "TACTICAL",
+    "release_date": "2017-12-08",
+    "developer": [
+        "Gameface Games Ltd"
+    ],
+    "publisher": [
+        "Gameface Games Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 10,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "TACTICAL is a challenging combination of puzzle and top-down shooter. You have one objective: eliminate all of the security robots. The catch is that you must not be discovered and only shots to the back will be effective.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/751950/header.jpg?t=1541949134",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Intel(R) Pentium(R) CPU N3540 @ 2.16GHz Memory: 2 GB RAM Graphics: Intel(R) HD Graphics DirectX: Version 11 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

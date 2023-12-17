@@ -1,0 +1,46 @@
+{
+    "app_id": 457010,
+    "name": "StarsOne",
+    "release_date": "2016-04-08",
+    "developer": [
+        "IllusoryWorldEntertainment"
+    ],
+    "publisher": [
+        "IllusoryWorldEntertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 19,
+    "positive_ratings": 302,
+    "negative_ratings": 98,
+    "price": 6.99,
+    "description": "You’ll see an unexplored world full of dangers, mysteries and adventures. You will explore randomly generated planets, develop industry, conduct trade, plant colonies, explore outer space.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/457010/header.jpg?t=1545423335",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Dual-Core 2.4 GHz Memory: 3 GB RAM Graphics: 256 MB NVidia / AMD Radeon / Intel (HD 3000, HD 4000) DirectX: Version 9.0 Storage: 3 GB available space Sound Card: DirectX®-compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

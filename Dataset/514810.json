@@ -1,0 +1,40 @@
+{
+    "app_id": 514810,
+    "name": "Eldritch Hunter",
+    "release_date": "2017-01-27",
+    "developer": [
+        "Joshua Missile"
+    ],
+    "publisher": [
+        "Joshua Missile"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 23,
+    "positive_ratings": 24,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Purge a horrific lovecraftian cult from your city and save the Pope as a lone inquisitor with a crossbow.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514810/header.jpg?t=1503236010",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2.5 GHz equivalent Memory: 4 MB RAM Graphics: 1+ GB of VRAM Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 715800,
+    "name": "Check Your 6!",
+    "release_date": "2018-03-15",
+    "developer": [
+        "The Lordz Games Studio"
+    ],
+    "publisher": [
+        "Slitherine Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based",
+        "World War II"
+    ],
+    "achievements": 20,
+    "positive_ratings": 15,
+    "negative_ratings": 10,
+    "price": 23.79,
+    "description": "“Check Your 6” brings you in the middle of the World War II battles, with a turn-based game that carries the spirit of the dogfights.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/715800/header.jpg?t=1524659648",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Pentium 4 or equivalent Memory: 2 GB RAM Graphics: 512Mb DirectX 9 video card with shader model 2.0 DirectX: Version 9.0 Storage: 2035 MB available space Sound Card: DirectX compatible sound card Additional Notes: 64 bit only",
+    "recommended_requirements": null,
+    "reviews": []
+}

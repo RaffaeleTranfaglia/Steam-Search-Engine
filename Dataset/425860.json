@@ -1,0 +1,41 @@
+{
+    "app_id": 425860,
+    "name": "Vector Assault",
+    "release_date": "2015-12-10",
+    "developer": [
+        "Wizbyte Games"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 35,
+    "positive_ratings": 5,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Vector Assault is a fast paced twin stick shooter where you have to survive a onslaught of enemy attackers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/425860/header.jpg?t=1465846400",
+    "minimum_requirements": "OS: Windows Vista, Windows 7, Windows 8, Windows 10 Processor: 2 GHz processor or greater Memory: 2 GB RAM Graphics: Direct X 9.0 compatible or later DirectX: Version 9.0 Storage: 200 MB available space Sound Card: Direct X 9.0 compatible sound card Additional Notes: XBox One controller support",
+    "recommended_requirements": null,
+    "reviews": []
+}

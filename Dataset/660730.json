@@ -1,0 +1,41 @@
+{
+    "app_id": 660730,
+    "name": "Ventura Inc",
+    "release_date": "2018-06-01",
+    "developer": [
+        "Ben Strijbos"
+    ],
+    "publisher": [
+        "Ben Strijbos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO"
+    ],
+    "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 14.49,
+    "description": "In Ventura Inc you can play with friends and foes to try and become the richest company in the world. Sign contracts with others. Run your business to avoid bankruptcy. You'll be competing with others to stay profitable in this persistent gameworld.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/660730/header.jpg?t=1527842853",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 2.5 GHz Memory: 1 GB RAM Graphics: GeForce GTX 460 1GB or AMD Radeon HD 6850 1GB DirectX: Version 9.0 Network: Broadband Internet connection Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i7 920 2.6 Ghz Memory: 2 GB RAM Graphics: GeForce GTX 460 1GB or AMD Radeon HD 6850 1GB DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

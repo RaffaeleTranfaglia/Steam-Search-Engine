@@ -1,0 +1,42 @@
+{
+    "app_id": 561930,
+    "name": "Sword of the Guardian",
+    "release_date": "2018-06-17",
+    "developer": [
+        "Billy Chan"
+    ],
+    "publisher": [
+        "Billy Chan Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 27,
+    "negative_ratings": 0,
+    "price": 10.29,
+    "description": "Sword of the Guardian is an old style Beat'em up game. Offers exhilarating game play experience by featuring command-based combo attacks (such as “↓ → + attack” and “↓ ↑ + attack”) customized for each character, immersive hit feeling and diverse actions such as throwing weapons and using magic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561930/header.jpg?t=1534483478",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 1.5ghz Intel i5-equivalent processor or higher Memory: 2 GB RAM Graphics: Onboard or dedicated graphics accelerator with 1GB+ of video RAM DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows 10 64 bit Processor: i5 3.0ghz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 550 or highter DirectX: Version 11",
+    "reviews": []
+}

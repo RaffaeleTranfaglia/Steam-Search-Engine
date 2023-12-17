@@ -1,0 +1,62 @@
+{
+    "app_id": 364300,
+    "name": "Space Rogue",
+    "release_date": "2016-09-15",
+    "developer": [
+        "Red Beat"
+    ],
+    "publisher": [
+        "Red Beat"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Space",
+        "Strategy",
+        "Survival"
+    ],
+    "achievements": 32,
+    "positive_ratings": 224,
+    "negative_ratings": 116,
+    "price": 6.99,
+    "description": "Take on the role of a spaceship captain. Explore new worlds, and engage in intense ship-to-ship battles. Develop unique battle tactics, upgrade your ship, and recruit crew members as you fight for peace or piracy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364300/header.jpg?t=1522772821",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Core 2 Duo Memory: 2 GB RAM Graphics: SM3 512MB VRAM DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Wasn't following the game since it was in early access, but now it's time to play! Couldn't stop playing for 5h straight. Strongly recommended for these who forgot when the last good syfy game happened :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really nice game. For all who loves rougelikes, I highly recomend.  Dear Developers, please don't stop and make it even better!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice gameplay and pretty graphic",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its FTL. Pretty but the new mechanics are not really adding all that much. Really disappointed that they didn't take the conept a bit farther.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Sub-par FTL clone. Not as fluid, not as easy to follow. Doesn't feel like a rip-off at half-price, but maybe I'm just too much of a collector to try refunding. Steam doesn't process refunds for me anyways.  Worth noting that this doesn't seem to have a rush factor like FTL, which may have a substantial subjective impact on gameplay experience. I generally prefer not being rushed, but it wasn't sufficient to improve my impression.",
+            "review_score": "-1"
+        }
+    ]
+}

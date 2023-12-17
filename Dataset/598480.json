@@ -1,0 +1,45 @@
+{
+    "app_id": 598480,
+    "name": "World of One",
+    "release_date": "2017-06-08",
+    "developer": [
+        "Grimwood Team"
+    ],
+    "publisher": [
+        "Grimwood Team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Gore"
+    ],
+    "achievements": 38,
+    "positive_ratings": 56,
+    "negative_ratings": 23,
+    "price": 2.89,
+    "description": "You are about to get on a journey around small planet-like worlds as if you were in the Little Prince's world. However, these ones are filled with monsters that are striving to kill you, deadly traps and riddles, which require you to be quick-witted and attentive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/598480/header.jpg?t=1503653635",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: 1,7 GHz Dual core Memory: 2 GB RAM Graphics: NVIDIA 8600GT or equal Storage: 2 GB available space Additional Notes: Gamepad or Controller Recommended",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: 1,7+ GHz Quad core Memory: 4 GB RAM Graphics: NVIDIA GT650 or equal/better Storage: 2 GB available space Additional Notes: Gamepad or Controller Recommended",
+    "reviews": []
+}

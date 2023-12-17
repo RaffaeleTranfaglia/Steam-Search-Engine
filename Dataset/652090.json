@@ -1,0 +1,47 @@
+{
+    "app_id": 652090,
+    "name": "Blockara",
+    "release_date": "2017-06-22",
+    "developer": [
+        "Haunted Bees Productions"
+    ],
+    "publisher": [
+        "Haunted Bees Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Blockara is a head-to-head action puzzle game where you, one of the best alchemists in the world, must compete in the World Alchemy Tournament for a chance to have your wish granted by the September Dragon! Fight your way to the top in Story Mode or hone your skills in the other game modes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652090/header.jpg?t=1498114857",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core CPU 2 gHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 9400M or equivalent DirectX: Version 9.0 Storage: 693 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

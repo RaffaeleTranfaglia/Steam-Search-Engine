@@ -1,0 +1,38 @@
+{
+    "app_id": 567370,
+    "name": "Atomic 79",
+    "release_date": "2017-01-13",
+    "developer": [
+        "Get Color Games"
+    ],
+    "publisher": [
+        "Get Color Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Horror",
+        "Indie"
+    ],
+    "achievements": 34,
+    "positive_ratings": 69,
+    "negative_ratings": 3,
+    "price": 2.89,
+    "description": "Atomic 79 is an intense, yet lighthearted, physics based first person shooter set in a cursed impact crater.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/567370/header.jpg?t=1484348413",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Intel i5 or Higher Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 110 MB available space",
+    "recommended_requirements": "OS: Win7 or Higher (64-bit) Processor: Intel i5 or Higher Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 11 Storage: 110 MB available space",
+    "reviews": []
+}

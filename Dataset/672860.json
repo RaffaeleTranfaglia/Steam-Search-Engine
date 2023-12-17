@@ -1,0 +1,38 @@
+{
+    "app_id": 672860,
+    "name": "StellarHub",
+    "release_date": "2017-08-16",
+    "developer": [
+        "Casualogic"
+    ],
+    "publisher": [
+        "Casualogic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Space",
+        "Base-Building"
+    ],
+    "achievements": 13,
+    "positive_ratings": 63,
+    "negative_ratings": 46,
+    "price": 5.99,
+    "description": "StellarHub is a starbase management game where your job is to build a safe and functional space station. Deal with the challenges of managing a station crew while taking care of everyone’s needs. Your tasks include construction, extraction of resources, defense, trade, and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672860/header.jpg?t=1554059846",
+    "minimum_requirements": "OS: Microsoft® Windows 7 Processor: Intel® Pentium®/AMD® 2 GHz and higher Memory: 2000 MB RAM Graphics: OpenGL 3.3-compatible 512MB Storage: 600 MB available space Sound Card:",
+    "recommended_requirements": "OS: Microsoft® Windows 7/8/10 Processor: Intel® Pentium®/AMD® 3 GHz and higher Memory: 4000 MB RAM Graphics: OpenGL 3.3-compatible 1Gb Storage: 600 MB available space Sound Card:",
+    "reviews": []
+}

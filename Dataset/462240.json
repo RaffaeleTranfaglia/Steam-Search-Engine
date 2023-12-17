@@ -1,0 +1,43 @@
+{
+    "app_id": 462240,
+    "name": "Post Human W.A.R",
+    "release_date": "2017-12-14",
+    "developer": [
+        "Studio Chahut"
+    ],
+    "publisher": [
+        "Dear Villagers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based"
+    ],
+    "achievements": 67,
+    "positive_ratings": 78,
+    "negative_ratings": 15,
+    "price": 10.99,
+    "description": "Post Human W.A.R is a turn-based tactical and psychological strategy game, with no randomness. It is set in an absurd post-apocalyptic world. Unmask the enemy’s secret unit and destroy it to win the game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462240/header.jpg?t=1551359442",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2 GHz Memory: 4000 MB RAM Network: Broadband Internet connection Storage: 750 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

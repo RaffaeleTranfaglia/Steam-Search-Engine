@@ -1,0 +1,43 @@
+{
+    "app_id": 886960,
+    "name": "Dragon Spear",
+    "release_date": "2018-08-16",
+    "developer": [
+        "Game2Gather"
+    ],
+    "publisher": [
+        "Game2Gather"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Sexual Content"
+    ],
+    "achievements": 50,
+    "positive_ratings": 407,
+    "negative_ratings": 208,
+    "price": 11.39,
+    "description": "Enjoy some cool blows and fascinating action moves! Hunting down powerful raid bosses with friends is also a must.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/886960/header.jpg?t=1547081518",
+    "minimum_requirements": "OS: Windows XP, 7, 10 Processor: 1.6 Ghz CPU or higher Memory: 1 GB RAM Graphics: Intel HD4000, AMD HD 6550D (or higher) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows XP, 7, 10 Processor: 2.0 Ghz CPU or higher Memory: 2 GB RAM Graphics: Nvidia GTX 650, AMD HD7850 (or higher) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 5 GB available space",
+    "reviews": []
+}

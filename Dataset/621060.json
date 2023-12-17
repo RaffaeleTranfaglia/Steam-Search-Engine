@@ -1,0 +1,41 @@
+{
+    "app_id": 621060,
+    "name": "PC Building Simulator",
+    "release_date": "2019-01-29",
+    "developer": [
+        "Claudiu Kiss",
+        "The Irregular Corporation"
+    ],
+    "publisher": [
+        "The Irregular Corporation"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Building",
+        "Indie"
+    ],
+    "achievements": 53,
+    "positive_ratings": 6563,
+    "negative_ratings": 775,
+    "price": 14.99,
+    "description": "Build and grow your very own computer repair enterprise as you learn to diagnose, fix and build PCs. With real-world licensed components and comprehensive hardware and software simulation, you can plan and bring your ultimate PC to life.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/621060/header.jpg?t=1556537079",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel Core i5-2500K or AMD Athlon X4 740 (or equivalent) Memory: 4 GB RAM Graphics: GeForce GTX 660 (2048 MB) or Radeon R9 285 (2048 MB) - Integrated GPUs may work but are not supported. DirectX: Version 9.0c Storage: 7 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

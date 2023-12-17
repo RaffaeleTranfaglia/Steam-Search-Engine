@@ -1,0 +1,42 @@
+{
+    "app_id": 586150,
+    "name": "Armored Freedom",
+    "release_date": "2017-07-21",
+    "developer": [
+        "Killer Bees Games"
+    ],
+    "publisher": [
+        "Killer Bees Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Mechs",
+        "Board Game"
+    ],
+    "achievements": 21,
+    "positive_ratings": 6,
+    "negative_ratings": 14,
+    "price": 6.99,
+    "description": "Armored Freedom is an intense strategy board game where giant robots fight for dominance. Roll the dice to charge and wage war using battle cards. Unveil hidden secrets within special action cards. Entrust your freedom to heavy armor!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586150/header.jpg?t=1519055236",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2 GHz Dual Core Memory: 2 GB RAM Graphics: 512 MB VRAM (Shader Model 3) DirectX: Version 9.0c Storage: 900 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: SM4 1GB VRAM DirectX: Version 11 Storage: 900 MB available space Sound Card: DirectX compatible",
+    "reviews": []
+}

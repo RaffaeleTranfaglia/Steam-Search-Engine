@@ -1,0 +1,41 @@
+{
+    "app_id": 773330,
+    "name": "Action Alien: Prelude",
+    "release_date": "2018-02-26",
+    "developer": [
+        "Devdan Games"
+    ],
+    "publisher": [
+        "Devdan Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 6,
+    "negative_ratings": 9,
+    "price": 1.69,
+    "description": "Fight hordes of aliens in a completely destructible petrol station with many weapons to grab and aliens to fight !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/773330/header.jpg?t=1543620680",
+    "minimum_requirements": "OS: Windows XP or Windows 7 Processor: 2 GHz Dual-Core 64-bit CPU Memory: 4 GB RAM Graphics: DirectX 9 Compatible GPU with 1 GB Video RAM DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

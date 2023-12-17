@@ -1,0 +1,41 @@
+{
+    "app_id": 463410,
+    "name": "Panic Pump - Can you save them ALL?",
+    "release_date": "2018-03-28",
+    "developer": [
+        "Digilie Studio s.n.c."
+    ],
+    "publisher": [
+        "Digilie Studio s.n.c."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 35,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 5.59,
+    "description": "Panic Pump is a new 3D puzzle game in which you need to use logic and brain",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463410/header.jpg?t=1522835707",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Modern Intel or AMD 1.8 GHz Memory: 2 GB RAM Graphics: DirectX Compatible card DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Dual core from Intel or AMD at 2.0 GHz or newer Memory: 3 GB RAM Graphics: nVidia GeForce 8600, AMD Radeon HD2600 DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "reviews": []
+}

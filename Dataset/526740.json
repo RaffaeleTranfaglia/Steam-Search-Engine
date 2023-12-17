@@ -1,0 +1,40 @@
+{
+    "app_id": 526740,
+    "name": "hack_me",
+    "release_date": "2017-01-05",
+    "developer": [
+        "Egor Magurin",
+        "Eugene Radaev"
+    ],
+    "publisher": [
+        "Indovers Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Hacking"
+    ],
+    "achievements": 5,
+    "positive_ratings": 1277,
+    "negative_ratings": 789,
+    "price": 2.79,
+    "description": "Hack_me is a hacker simulator game. The main objective in game – is to hack big companies's servers to show people that there is nothing in this world that protected on 100%. You’ll need to use your cmd, bruteforce, SQL-injectors and other programs to hack servers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526740/header.jpg?t=1531988802",
+    "minimum_requirements": "OS: Microsoft® Windows® Vista / 7 Processor: Intel® Pentium® III or higher Memory: 512 MB RAM Graphics: 256 MB or higher Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

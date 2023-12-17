@@ -1,0 +1,41 @@
+{
+    "app_id": 1027980,
+    "name": "Space mining clicker",
+    "release_date": "2019-03-16",
+    "developer": [
+        "Cold Coffee Studio"
+    ],
+    "publisher": [
+        "Cold Coffee Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 12,
+    "positive_ratings": 17,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Become the Director, manage your mining facility and try to make profit when surviving to the geopolitical storm opposing the two biggest factions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1027980/header.jpg?t=1555978041",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices Memory: 512 MB RAM Graphics: DirectX 11 and/or OpenGL 3.3 compatible video card Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

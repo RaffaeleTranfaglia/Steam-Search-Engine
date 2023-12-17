@@ -1,0 +1,44 @@
+{
+    "app_id": 580170,
+    "name": "My Lovely Daughter",
+    "release_date": "2018-03-08",
+    "developer": [
+        "GameChanger Studio"
+    ],
+    "publisher": [
+        "Toge Productions",
+        "Another Indie"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Adventure"
+    ],
+    "achievements": 50,
+    "positive_ratings": 411,
+    "negative_ratings": 161,
+    "price": 11.39,
+    "description": "My Lovely Daughter is an alchemist simulator that explores the depth of a father’s grief and how far he will go to resurrect his daughter. Contains dark and disturbing subject matters, might not be suitable for children or those who are easily disturbed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/580170/header.jpg?t=1552452288",
+    "minimum_requirements": "OS: Windows XP SP 2+ Processor: 2 GHz Memory: 1024 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 350 MB available space Sound Card: Stereo",
+    "recommended_requirements": null,
+    "reviews": []
+}

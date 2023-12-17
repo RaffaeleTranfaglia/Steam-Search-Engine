@@ -1,0 +1,44 @@
+{
+    "app_id": 762900,
+    "name": "Cars with Guns: It's About Time",
+    "release_date": "2017-12-18",
+    "developer": [
+        "Null Reference Games LLC"
+    ],
+    "publisher": [
+        "Null Reference Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "Travel back in time with your friends in vehicles decked out with guns, lasers, missiles and more. Fast paced vehicle combat for 1-4 players split-screen with up to 12 AI opponents. Points awarded for Stunts and Carnage. Work together to earn Credits to unlock new Vehicles and Weapons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/762900/header.jpg?t=1520713924",
+    "minimum_requirements": "OS: Only tested on Windows 7 or later Processor: Dual Core 2.4 ghz+ Graphics: Minimum GPU not yet known Storage: 2 GB available space Additional Notes: More testing required for accurate requirements",
+    "recommended_requirements": "OS: Windows 7+ Processor: Quad Core @ 2.8 ghz+ Graphics: GTX GeForce 650 (2 GB)+ Additional Notes: Developed to run on High Quality on a GTX 770",
+    "reviews": []
+}

@@ -1,0 +1,646 @@
+{
+    "app_id": 324810,
+    "name": "TOXIKK™",
+    "release_date": "2016-09-10",
+    "developer": [
+        "Reakktor Studios"
+    ],
+    "publisher": [
+        "Reakktor Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Valve Anti-Cheat enabled",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Free to Play"
+    ],
+    "achievements": 60,
+    "positive_ratings": 3865,
+    "negative_ratings": 1182,
+    "price": 0.0,
+    "description": "FRAG LIKE IT'S 1999! TOXIKK plays as if today's military shooters never existed: Designed as a spiritual successor to the FPS giants of the late 90s and early 2ks, TOXIKK carefully evolves their mechanics with modern technology and fresh ideas elaborated with Arena-FPS enthusiasts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/324810/header.jpg?t=1489702252",
+    "minimum_requirements": "OS: Windows® XP Processor: 2.0+ GHz Dual-Core Processor Memory: 4 GB RAM Graphics: GeForce GTX 260 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows® 10 (or higher) Processor: 3.0+ GHz Multi-Core Processor Memory: 8 GB RAM Graphics: GeForce GTX 560 (or better) Storage: 4 GB available space",
+    "reviews": [
+        {
+            "review_text": "Don't listen to the nay sayers. I got into a game within seconds. Yes I had 1 time where it said servers were full, big whoop, it's not like you paid for the game. Complaining that features aren't in the FREE BASE GAME is dumb when it's literally marketed that way. You don't lose anything with the free model. You jump in, play and that's it. At least you can jump in and play a few matches and see if you like it enough to buy and unlock everything compared to just buying it and crying about it later. Some people just complain to complain after reading most of the reviews.  TL:DR, it's a free base model with 'limited' features unless you buy an unlock key essentially. Fun game for mindless shooting arena with friends or people online",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got what I expected with this purchase, plus more. The AI bots are top quality and the multiplayer is fun. Classic arena shooter with modern graphics. Well done.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great game with great developers. At leas try the free version!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hey you! Yes you. You, who remember good old times when first-person shooters like Quake 3 or Unreal Tournament ruled the world. I bet that you have fond memories of those times - playing death-match with friends, total strangers or bots all day long. You started slow but eventually you improved and rocket jumped like a king. It was fun seeing how your skill went up while still getting stomped by the real pros from time to time.  Now fast forward to present day. You are now in mid 30s, working hard in full-time job and you don't really have time to play games anymore. But maybe you should... play a game which feels like something from 1999. A game where your body automatically remembers everything - how to aim with slow rocket launcher, how to predict and shoot grenade launcher, how to snipe those poor guys in the air or just how to run faster and jump further than normal.  Yes, you should play Toxikk - a game which brings pure old school Unreal Tournament-like experience (as opposed to Quake-like) just in new 'clothes'. It costs only 15E but there is also a free demo. I think that if you loved that kind of games in 1999, you will definitely like this one. I mean - you deserve this game.  Also tell your friends about it too :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Thought the game would be garbage, but after trying it out was pleasantly surprsied. Played a bit vs bots and a bit of multiplayer on a few maps. Interesting guns and good map design. If you want to fully enjoy the game then check out how the movement system works on youtube.  Definitely recommend checking out. Fast and fun game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I honestly haven't played any of the Unreal Tournament games before, but upon playing the free version of TOXIKK, I am really considering not only to buy this game, but to also pick up the UT games while at it. I've had fun playing this game close to an hour, customizing the crosshairs and simply rekting bots as the servers were quite barren during the time I played it.    Even with ridiculous &gt;250 pings and with the Normal graphic settings, this game still feels completely playable and looks beautiful.   Will definitely recommend, or at least give this game a heads-up to people but due to the game's young age, high pings and lack of players, I will hold on to my wallet before purchasing this game but definitely keep in mind of it in the future.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You don't even have to pay money to enjoy this game. Most of the features in this game are free. It is also truly a 90s FPS. It is extremely fast pased and really addicting. Download it, it's fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I adore this game. Awesome use Arena-shooter game that Quake/Unreal Tournament fans need to look into. Seriously, help this game grow.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "amazing fast paced game that makes me go DAAAAAAM every 5 seconds wich is something only battle field can do and it need huge maps levelution and cool ♥♥♥ vehicles to do and toxikk just needs fast running and guns. even the free version which cuts off almost all the game si still an amazing game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TOXIKK seems to me like one of the best modern arena shooters I have played as of late, and now you can try it out free with the free edition of the game. I recommend anyone still looking for a newer shooter with a 'classic' feel try out TOXIKK, its not bad. it looks generic, but I feel like it has the gameplay people want in a shooter, and has the ability to not just be another niche throwback.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Toxikk is an arena FPS heavily inspired by Unreal Tournament. The game looks gorgeous, and runs incredibly well, it has great animations, an awesome soundtrack and a complete feature set of highly detailed maps, gamemodes, weapons, etc. that together create a package worthy of being deemed a full game. The gameplay is super fast and crisp, and with the release of the “Free Edition” the game quickly developed a sizeable player base, that at least in the meantime continues to grow. Overall, the community seems very helpful, sportsmanlike and respectful—just hop on Toxikk’s Discord server. Furthermore, the developers seem very dedicated, and continue to update their game and plan to add more features (such as a 1v1s gamemode, which in my opinion is essential for a competitive scene, and I’m disappointed it’s currently not present but that’s really my only major complaint at the moment) even after the release of version 1.0.  In short it’s an exceptional title, easily worth its full price. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I legit have no words to say except the game is pure grateness. Really good graphics and I consider this as one of the best arena shooters Ive played. And the free mode is just the cherry on top of a cake. Thank you to developers for making it a free game (at least the part of it). THANK YOU",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So, when I ADD more money into my bank account, I'm gong to the webpage to directly support the dev. But on with the review. THIS GAME IS ♥♥♥♥ING AWESOME. I haven't been more happy to play a FPS in a while. It gives that UT feel which I envy so much. I enjoy the fact that this game is free. But my reccomendation is that you try the game and see if you want to buy it or not. I'm going to buy it. Next thing, The preformance is astounding. A potato can preactically run this game. I have an FX-8350 with an RX 480 and I ran this game at ultra on 140+FPS.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "On the short list of awesome games you should be playing, this game rocks! The sheer speed of the action is rarely matched by the best games of the arena shooter genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After trying this for a while I cannot recommend it to any FPS fans, as I find the design and execution to be rather disappointing.  1.The few levels are all very small and unoriginal, especially the one CTF map that was basically a big box with a couple vehicles and a pillar in the center.  2.The quickplay button tries to put you in full servers and ends up with an error message some times when you click it, requiring you to manually click it over and over again to get a match.  3. Weapons are rather lackluster, especially the melee weapon, which is just a pathetic re-imagining of Q3A's melee weapon.  4. Game defaults some pretty funky stuff, like the double-tap dodge mechanic, which you will repeatedly end up accidentally activating, until you finally find the way to turn it off is through a unintuitive slider in the key binding menu. Also, mouse acceleration is on be default. Who thought this was a good idea in a competitive FPS? (yeah I know some people actually use it, but I find them to be the exception in FPS games, not the norm)  5. Chat is hard to read and jumbled together with a bunch of useless information.  6. Bots on the servers are just terrible and only serve to feed kills to the other team.  7. Post-game screens are a jumbled mess that require you to uselessly left click to proceed through them, when all the relevant information could easily be presented in one easy-to-use panel.  I don't see anything that this game is doing that isn't already done better somewhere else. The controls are tight and easy to pick up (had a 13:1 kd/r within my first hour of playing), but that doesn't salvage it from the rest of the issues it currently has.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is awesome. Theres the same action that UT2k4 has with a shiny coat on it. Framerate is really smooth with little to no tearing on 60hz. The options are excellent but I would like to have a drop down console for commands. The maps are great although there arent many servers that have more than the core maps. I would like to see some official servers support more modes and maps. I get bored playing the same 4 maps all the time.  Weapon design is very good. It took me some getting used to, but they are all well balanced. The action gets very intense and I love how the games music changes based on where you stand during battle.  Overall if you love Unreal, Xonotic, and Quake you will love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How an arena FPS should be.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game Delivering plenty of hours of fun! Don't listen to those saying this game is dead there are always people online when I play. This game has one fo the best movement systems out of any game I have ever played and it is so very addicting to master the intricicies of movement in toxikk. I don't have many complaints about this game other than some weapons I feel could use some tweaks! Other then that I love this game! What are you waiting for? GO get your frag on! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a way more fun then the new unreal tournament (that will be most likely f2p). yes, it's like ut3 and has a small community.   get it it and play it with your friends.  you can play it in you local lan (perfect for your lanparty).  nowdays we struggle a lot to find newer games  we can play at our lanpartys with more then 4-6players AND without being forced to use crap online servers where others can join too or have to install a dedicated server -  but not with toxxik .   @KK - death to all stormbots!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Old school arena fun. Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great. Just buy it. -Even starts -Fast as hell pace (Unreal Tournament speed) -Modern grafics -Cool vehicles (again old arena shooter) -Bots to play offline -Matchmaking, but also server browser Kudos to the developers, having the balls to go against the current trends, and making a real 'arena shooter' gameplay is frenetic, though a bit rough around some edges. Finally thanks for offering a demo, on top of increasing player pop, it allows people to see that this is what they want before buying it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome UT2004 style shooter. Servers active",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are an oldschol Unreal Tournament fan then this game is for you. I use to play Unreal back in the day before Unreal Tournament 3, which isnt that great. If you like Unreal Tournament 2004 or earlier this will probably be a good investment. Only thing that sucks is I dont think enough people know about it so the servers do not seem that populated, but its worth checking out especially for the price point. Graphics are great, music is decent could be a little better but not bad by any means. Buy this game you wont regret it. Oh also I know theres a free Unreal Tournament game thats out (Its in beta I think?) This is much better at being Unreal Tournament then the latest free Unreal Tournament.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have you ever played Unreal Tournament 2004? Did you enjoy it? Then this game is for you. This game does a very excellent job at creating a very similar experience with a nice, clean UI and really fun gameplay. Just make sure to upgrade to the full version if you really want to be able to customize your character.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow. It looks like Halo in the picture, but plays like unreal tournament. Extremely fast pace, tons of fun, and even vehicles and mech suits...i currently play on free version where you cant group up with friends, but im very interested in purchasing the full version now....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I only discovered this game today and as many of the other reviews say its so similar to Unreal Tournament you could be excused for not realising its actually not.   That said, I can highly recommend this game! I've only played a couple of hours to this point but its been great fun and im only playing the Free edition. Hopefully if any of my friends take my advice and try this game out and enjoy it I will not hesitate to purhcase the full game.  The only thing that i can imagine being an issue with this game is the playerbase. 400-500 online at peak times on a Saturday but thats no reflection of the quality of the game, I think like myself alot of people dont even know about Toxikk. I would love to see these numbers grow and hope they do as if they dont it could get a bit stagnant.  Excellent game 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Speaking from the heart, TOXIKK is an amazing multiplayer arena shooter. The controls are tight, the game is simple and hard to master, and it is frantic without being chaotic. The game lacks some maps, i think only 8 maps atm give or take, but the steamworkshop communitty has got that covered, and they have even brought some maps from Unreal Tournament over into TOXIKK too. Also, if you have ever played Unreal Tournament then you know what the game is like. In my opinion, it doesn't really matter if URT is better than TOXIKK and vice versa, TOXIKK is fresh while still maintaining that old classic 90's shooter feel. Not to mention that TOXIKK released in todays internet society, meaning it has alot of potential of becoming popular because of things like Youtube and the like. Also, the developers even offer a shareware (free) version of their game, meaning if all you wanna do is frag like no tomorrow without any preference then you can just download that instead. Now I must confess, I was not old enough to experience the hype and success of the games Doom and Quake (where deathmatch started, though TOXIKK has way more in common with URT), and I didnt really understand Unreal Tournament when I played it, I was too young and still in diapers. However, I DO get to experience a game like this, something that is similar but slightly different to those two games, something that I can call my own. This game has the potential to pull in fresh players like me and old vets from Quake and URT to play TOXIKK, and boy do I hope it does just that and its not me having wishfull thinking. This game makes me want to go up against masters of this type, to see what true skill is to see a player dominate the map with all weapons. So to anyone having doubts, try the shareware version before you buy! I did and I don't regret a thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have played about 2h of this game and so far i like it. * fast shooter game * lot of action's * nice ranking system its similar to unreal tournament and kinda remember the old times when i started to play with unreal tournament 15y+ ago..  i suggest to at least try it out, bc its free to play.. dont need to buy if you dont like.. what about myself, im considering to buy it in near future, but for now gonna enyoj the free game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played 1 game and 'BOUGHT IT'. This is AWESOME if you were a fan of Arean fps UT or even if you are new to arena fps this is easy to pick up but harder to master. Graphics are superb on Ultra very well optimised so runs like a dream. It's just gone F2p so no excuse have a go. And its not pay to win.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "actually fast paced",
+            "review_score": "1"
+        },
+        {
+            "review_text": "f;cken awesome. and i don't generally give positive reviews!.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finally! A promising arena FPS! If you liked the UT/Quake series in the past you will like this game.   If you can't get over balance issues, low content and the occasional crash, wait for the full release.  But for something called early access this is really stable and well performing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Is Like If Cod And Doom Had a baby, wish it was more relevant so it can get out there",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Thank you for producing something that has been missing for sometime, a tech updated fps schmup.   You even stood behind your work with a non-knuckle dusted, non-derpy, non-nerfed version to try for free which felt like the era of quake arena and unreal tournament.  Appreciate the no bull-pucky straight shooting approach to getting your stuff out there - just bought the four pack for the family. Time to frag the kids tomorrow :)  Good on you Reakktor hope it flies for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In time where all is 'Classes', 'Heroes with abilities' and etc. people needed and wanted somthing like that game ! I'm long time HL1 DM player and im sick of all kinds of MOBA type games! I still pay HL1 and wanted to play somthing new and diffrent but without all that MOBA elements. #@!$&amp;^%$#% even Quake is becoming class type game .... I think one of the reasons why TOXIKK will be one of the best arena shooters of 2016 and next years is because it will be only game with cutting edge technology engine and classic hardcore lerning NO CLASS base game!  I try free version and buy it after first nonstop 4 hours session! Free version coming with limitations but after last patch 1.01 ( if i remember correctly ) you can play with friends in same official server! Just read official discussion forums for more info about that feature! They do allot for FREE version!  Another great feature is that you can run dedicated server and you can add mods to it! So someone can make HL, CS, like mods to this game ( i hope to see AGmini mod like HL1 ).  I just love this game and if you love classic FPS Arena shooters you will love that game too :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The free version has a low player count at present, but I can tell that this aint like other modern shooters. This is classic 90s arena FPS action. Like they say: No classes, no loadouts, no ♥♥♥♥♥♥♥t. This is multiplayer shooting as it is meant to be played. If you've played Unreal Tournament, Quake 3, Nexuiz, Xonotic, anything of the sort: you'll feel right at home.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played less an hour on the free version now i want the full version ;D  It is so fast paced and feels so action packed and fun every second, even why i die it doesn't make me shrug lol. I know i might change over time but i'll start with the full game and see where i go from there... I wish the developers good luck :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best modern arena shooter I know, it`s fun ^^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It just feels right to play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game was made by people that know what makes a FPS great. Save yourself some time and just buy the full version. Because You will in the end anyway.   Pros:  Nice graphics Nice maps Nice weapons Smooth game play Good price for what your getting Steam workshop support Has a level editor  Cons: Not really a con, but would like some larger maps.   Support games like this so we can get more..!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Opened the server browser and I swear I heard crickets chirping. Pretty empty.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I play the f2p model because im poor but its a lot of fun (y)  Just becareful of stupid ai team bots, had some that dont do anything but sit there like an afk player",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ever wanted to play the new Doom game? But for free? This is basically Doom, but it's f2p, yet NOT pay2win. You can either play the free version or buy the game for (currently: 12€). The paid version offers additionally Character Customization/ hosting servers and a level editor, but if you just want to play this fast paced, doom-like game: the free version will do!   I had a lot of fun and I would recommend it! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love older arena shooters, especially Unreal Tournament and Unreal Tournament 2004. This game captures that chaos wonderfully, with a really great feeling of movement and momentum, fun weapons, great maps and visceral gameplay. This is a really fun game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best arena shooters on steam right now. Even though it borrows heavily from others, it is visual pleasing and a recent release. The free version isn't bad as a test run, but the paid version is necessary if you want to find good matches via the server browser.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Arena Shooters  55  playing 2 min ago  64  24-hour peak   1,383  all-time peak  sad",
+            "review_score": "1"
+        },
+        {
+            "review_text": "played just for few mins but it felt rly nice game and i would come back again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reminds me of UT3...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best Shooter game I have ever played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "comfy levels comfy weapons and comfy pacing, the vehicles might seem ridiculous at first but they're relatively killable for their deadliness so it works out well",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Maximum amount of free players reached'. So I downloaded this just to see this ridiculous message? How about at least making a queue for free players instead of just ♥♥♥♥♥♥♥♥ on them like this?  Just play the new Unreal Tournament if you want that or wait for Quake/Diabotical for the 'true' '99 shooting experience.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great game all together, the shooting and moving mechanics are easy to learn but could take a bit of time to 'get gud niigah'.  The ONLY problem with the Early Access was that hardly anyone was playing. But now that you can play the demo for free, I hope that will change.  TOXIKK= 8/10 Vincorama's seal of trust and 👌👀👌👀👌👀👌👀👌👀 good stuff",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quick play is the only thing avaliable to 'free' players, quick play doesn't work, out of 30 tries, it finally got me into a game (most of the time it found full servers) and the game ran at 1fps, 1 frame every 3 seconds or so.. Unplayable, tried the solo play and I get 60fps fine, the issue isn't my computer or graphics settings.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Haven't had this much fun in years.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i had so many flashbacks to Unreal Tournament (GOTY edition) while i was playing this, i dont know why anyone would hat it tbph.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I recommend you try it, I just need stronger hardware and probably a wired keyboard and mouse. (the dodge double jump seems to be impossible currently so I couldn't finish the tutorial course)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "LIES!!! this game is filled with them...LIES!!! they said i would get to experience everything that somebody who bought the game would...LIES!!! don't fall for their deception...their...LIES!!! did i mention LIES? 'It comes with the full core experience, has no competitive disadvantages versus the full game' LIES!!! what they really mean is that you get the full competitive experience with no disadvantages. not the full core game!!! LIES!!! #HighGround",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Would love to write an actual review for this game, but 90% of the times I try to connect to a server I just get booted out. I checked my internet and it was all good. I was able to play one match and it's an interesting game, would love to say I played more but I can't. In it's current state, you can't even connect to 90% of the servers. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'Hey that's pretty good.'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "AMAZING!!! I LOVE IT!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;See person on friends list playing &gt;hey that looks radical dude &gt;download and play &gt;do a couple of contracts &gt;see bot melee &gt;oh whats the melee button? &gt;not q or r &gt;da fuq &gt;press f &gt;ragdoll  10/10 forget melee why doesn't every game have this ♥♥♥♥ing button",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a cool video game  Kind of f2p now. GO PLAY IT.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Remember Unreal Tournament? Remember when it was fantastic to just hop into a game and frag, instead of learning bullet patterns?  This is just that, brought into modern graphical expectations. It's shiny, it's pretty, and it's wonderful to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty decent retro fps, the pooulation seems pretty low except prime hours, atleast for me playing from UK.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You know your arena shooter is good when: * It takes 5 tries to get in to a match without it telling you the server it matched you with is full. * After a match it disconnects you with a generic host error instead of going to the next map. * Trying to play more than one match in a certain amount of time lets you know that 'the maximum amount of free users are playing' but you can still play... AGAINST BOTS IF YOU WANT!!! * It starts at 720p. * It auto-enables mouse acceleration, vsync, motion blur, chromatic aberration, and caps your FPS to 2x less than your monitor refresh rate. * It nags you when you close it by opening your web browser to a store page to buy it. * 8 people per server (even consoles do better than that...) * Uninspired generic bullet weapons + a rocket launcher. * All NA servers are hosted on the west coast so you can enjoy your 60-80 ping.  tl;dr trash. go play the new UT but that's pretty trash too.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fairly complex without much instruction. Couldn't really make it through the tutorial level, I've never been good at wall jumps but I couldn't figure it out at all this time. There was one cool gun but after an hour and a half I uninstalled it. Did not enjoy ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "dont buy the free version, definately not worth it. but full game? hell yes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10 out of ♥♥♥♥ing 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Server full all the time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "cannot connect to server simulator",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Thumbs up for those that like arena shooters, I however do not like games of this type.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "*Note: This is for the free version of the game*  I played around in the 'Boot Camp' which is basically a way to test your skills against bots. I thought it played pretty fun but in less than an hour I already found two major issues with the game that make multiplayer virtually unplayable. Issue one is that you seem to literally only have access to TWO maps. Just two. Issue number two is that there is NO SERVER BROWSE OPTION. Only quick join. This is a horrible issue combination as whenever you join a server playing a map that you don't have access to, the screen just stays black. You can't press anything so you have to alt+tab and then exit the game from the task bar. Yes, I know there needs to be restrictions to the free players vs. the ones who pay, but this particular set of restrictions is terrible. The two map selection restriction would be bareable if I could manually choose which server to join (perferrably a NAM server playing one of the two maps I can play) but most of the time I get auto-joined into a EU server that is apparently playing a map I can't. Say hello to the black screen again.  Ofc buying the full version would probably fix these issues but I'd like to play a bit more of the game before I make the final decision. Unfortunately, they made playing the game pretty difficult...  Please don't treat this as a glorified demo, because it really is only a demo. If you don't change the current state of things, you will continue to get a lot more angry/negative reviews despite how good the actual full-pay-to-access version of the game is",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "TOXIKK is a game where your enemy can survive 3 hits from a rocket launcher, then kill you with a pistol headshot. Everytime you close the game, it opens the TOXIKK website in internet explorer, which is always appreciated.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Before you judge TOXIKK based on this review (because my one opinion is soooo important....) know that i only have the free/vanilla version of the game, and my experience may not be accurate to the paid version.  Pros:  Doom/ Unreal Tournament feeling gameplay  amazing graphics  fun to play (when you can)  simple  Cons:  one of if not the most basic game i've ever played  bad servers  'too many free version players, but you can still play solo'  i was only givn 2 maps and game modes to play solo  with all of that being said, and reitterating that i only played the free version, this was a fun game, but if you're going to play it, buy the full version and save yourself the headache",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Description CLAIMS 'It comes with the full core experience' YOU CANNOT CHANGE YOUR CHARACTERS FEATURES. is that not a CORE feature of the game? If the description had claimed FULL ONLINE COMBAT FEATURES, or something along those lines, it wouldnt be lying. they INTENTIONALLY worded it wrong. SO HERE'S HOW IT SHOULD LOOK.  'The free edition of Toxikk is a lot more than just a demo. It comes with the full MULTIPLAYER experience, has no competitive disadvantages versus the full game, and lets you play TOXIKK for free, for as long and as often as you like.' THEY GAME MAY BE GOOD, BUT THEY LIED IN DESCRIPTION, YOU DON'T GET THE FULL CORE GAME.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "FRAG LIKE IT'S 1999!  But browse for servers like its 2016 in a demo, restricted. What a joke.  Managed to quickplay 2 matches not impressed with the map design of the only map I could seem to connect to. Although just like UT99 the one with the rocket launcher will prevail so theres that little nostalgia bit. Can't honestly say I reccomend the game at this time. If I could have more free roam with the demo perhaps but being so restricted It's not worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": " A Time For Comebacks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "free version sucks. don't bother trying multiplayer because you wont find a server unless you pay. and you cant host one either,",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I didnt enjoy the game itself and i wasnt gonna leave a bad review until this game crashed my entire pc... i own over 200 games on my pc and none of them made my computer flip ♥♥♥♥ like this game did its ♥♥♥♥ing awful wanna be quake do not download this game it is GARBAGE",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pretty jewish move these people make with thier so called 'free' game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is alright, I mean it's not upto Quake and UT standards obviously but it's decent, especially if you're going the free to play route.. But no servers in Asia, so I get around 200 ping and the game's no fun playing at that ping, much more so than other games as the game's extremely fast paced, more so than the new UT, so high ping for this game is intolerable. Until they have servers up and running for other countries this is a no-buy for me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Says it has partial controller support when infact there is NO controller support at all. Since I play on a flat screen from the couch a M/K is not an option... either give it controller support or don't, but don't say it has it when there is none.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So I started this game up and immediately went into the tutorial level and I had almost no trouble with it until the last jump which to my knowledge required a perfect double jump into a perfect wall jump. I spent 30 minutes attempting this jump. I even tried a dodge jump into a wall jump only to find out (to my knowledge) that isn't a thing for about 5 minutes. So 30 minutes later I give up on the this jump which locks all the future missions off until I finish that one. So I jump into the multiplayer. After a minute of waiting on the quick join it found me a server then told me it was full. That happened twice. Then I joined a match successfully and then the game ended. After waiting until the next game I got into one and spawned next to a rocket launcher which is OP and everyone just grabbed one. There are 9 weapons and most of them are useless except a few with the rocket launcher at top. This game just isn't that balanced or fun. Also in 2 multiplayer games/maps I never even saw a use for that perfect jump.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So...huh...not what I expected  Movement is somewhat clunky and weird compared to UT. Doesn't feel normal.  Precentage of joining an actual match - 25%  Quick play mostly just goes black  Joining a server...also again goes black  Currently the only weapon that is of use is the Cerberus (rocket launcher) because all the other weapons feel useless  Don't buy yet...or don't buy at all.  Buy the new UT    Or ofcourse you could wait till the game is enjoyable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Why does it need UDK if its a steam game!? steam games doesnt need that and the bots are unfair in contract. please remove UDK requirements and please make the game fair and please make boot camp also MXP collectable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Why does it need UDK if its a steam game!? steam games doesnt need that and the bots are unfair in contract. please remove UDK requirements and please make the game fair and please make boot camp also MXP collectable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game really gets close to how it was back in an earlier period with shooters. It's got vehicles, and good game modes.  But the one glaring issue that I have is being able to just cloak at the drop of a pin. You don't know how many pathetic cowards I've ran into that just grab a rocket launcher and spam cloak every 2 seconds that they can. Which its funny they even think they're good if they do well. Obviously I know it's a suit feature as of the first time I booted it up and the first game I entered it was already hotkeyed to my mouse if I actually ever was to use it. But then again as I said cowards use such a feature. I've cloaked about 11 times? For the 2.7 hours I've put in so far?     Also I'm glad to see this little well made gem of a con written by someone else. (Pretty bad to see up to at least 9 cons.....)  '9. Maps are made for controlling a particular area, usually that has a rocket launcher. Area's give alot of advantage versus any other player (RL, super armor, megahealth can be found in close proximities on some maps, to rocket launcher, which also leads to high, advatage areas on the map that usually have 1 or 2 entrances).'       Last time I checked old school shooters had power ups availible for pickup, not built in your suit for free use. Old school shooter games are supposed to be about twitching faster and killing that guy the split sceond he hops around the corner, not just tapping your cloak and camping for your UAV. Oh! or just being a rocket launcher piece of trash that can't aim.  Which kills a lot of the fun in this game you pass by a guy cloaked in a corner with a rocket launcher (Yes, people are still visible but they're more so while moving.) Now I just have to await the royal b|tchatry by the game's fanboys. Every game has them.  Oh well I can't be too harsh they haven't gotten my money. I doubt they will until they change some sh|t.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "NO THANKS! I prefer to go play Unreal Tournament Online than play some cheap knock-off. Better Graphics and gameplay and it is absolutely free from top to bottom.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Couldn't connect to shiaet, FAICK YOUR GAME!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Din't have to play this long to know I wasn't going to dig it. It's kind of generic, it doesn't support my screen resolution ( using a 32' ) and in general I just dint have any fun playing it. It has no tutortial about how it handles weapons assignments or special abilities and the like and I am just a little too old these days to ♥♥♥♥ around with it. If you can't be bothered to build a decent intro to the game, I can't be bothered to spend the time.   Anyways, the game probably follows through on what it promises, I just don't care to stick around.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Like being able to play with your freinds? Well sucks to be you because its a great shooter and all, but its lacking in easy multiplayer all you have is a server browser and thats really it. If you wanna play with your freinds too bad you have to port forward and all that and it isn't easy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "great game ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game has a bad movement system. It's so bad that you can't even finish the tutorial.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of the 'best' trolling 'free' game i've ever played. can't play with friends, can't browse servers, can't even join quick play (constant kicks with notes that lie to your face). this 'free edition' is nothing but a dying breath from this game. Hell if you wanted for players to taste what you coocked up, you could have made gamde free to play for weekends but you done ♥♥♥♥ed up. dat boi won't come.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "not recommended,!!! bots on novice mode, are harder than the hardest settings of bots novice is supposed to be practise, but they shred me to bits.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Strict no for me......... There are more better free FPS games than this... the tutoreal sucks...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "rip free version multiplaya. Playin w/ bots is fun doe XD",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Well what can I say, besides that it doesn't even work. All I could try out so far was:  - Customization, which, after you've spent 10 minutes doing so, tells you that it's unavailable in the Free version. Nice to know after you customized your character.  - That it's a bad connection simulator, one among lots. Most of the time you see 'Connection to host lost.'  - If it does not lose connection, you'll just see 'TOXIKK stopped working ...' and that's it.   Fun game, would definetly buy it. Not.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Lag makes this game unplayable, jumping about the map makes it not worth you time or download.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Absolute trash and waste of time, instantly going to uninstall and forget about this existence of this game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Mapps are too buggy for a good game engine like this they look like made in a hour",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'The postive review is not available in the free trial'  'Please purchase full game for positive review' Also 'The review server is at capacity'",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Dont bother downloading it. The free version only alows quick search for games and it doesnt evan work! what a sad way to get your server population back up! Hey Reakktor i found a way to get people to play on your servers! MAKE A GOOD GAME!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pros: Great Graphics Great Controls  Cons: To do 90% of the stuff a normal games allows, you must pay for the game.   While the overall game is great, it suffers from what I like to call 'give me money' syndrome. In order to host a match, or even look at the server broser and choose a server to go on, you must spend $12 to unlock it. These are things that even the ♥♥♥♥♥iest, scummiest F2P game offers, and these people have the balls to ask for money to do it. Until this game chances on its most basic policies, I won't be playing.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I loved UT, played it from the very first installment. I loved Quake, I loved Doom and all that was hardcore fastpaced fragging action back in the day....  THIS IS NOT LIKE THAT.  The feel of the guns and the action is absolutely terrible. I'm sure itll be more playable with practise but every gun feels like youre trying to hit something a mile away. Don't make an oldschool shooter without the fun, visceral gameplay. The hitmarker gives a little mechanical *bleep* sound. When I shoot someone with a shotgun, rocketlauncher or sniperrifle, i dont want to hear *bleep*... I want to hear SPLAT! DOOF! CRUNCH! AAAAIEEAAAUAUUGGHGHHH!!! WHY GOD, WHY!!? MOMMY! I WANT MY MOMMY!... But i digress.  Try it if it sounds good to you, its nice that its free to play, and perhaps you can get accustomed enough to the STEAMING PILES OF USELESS SEMI-FUTURISTIC GARBAGE that they call guns and have some fun?  Perhaps you will even be lucky and be online at a moment when theres more than 3 people online worldwide!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "NO. Just No. I guess i have to review this game....kill me please. I will review this game in a pro/ con style and i will be as descriptive as i can.  Pro: The game looks simple which i find it appealing to me visually.  The music is ok even though i only heard the first level music.  Con: The first level sucks in solo play. It is a whole lot of platforming and not in the good way. The double jump needs to be pressed short time span, the dash jump is complete ♥♥♥, and the final part i got to the game just gavee up on me and pretty much said to figure it out myself. Cool i love how games especially on the first level leave me to figure out some type of strategy on my own, thanks.  Platforming sucks, alot of times you will need to do some pixel perfect jumps. I am looking at you dash jump part. If it isnt that then maybe you might need to jump on narrow platforms because reason.  Did they even try with the save points? I got to the last part of the first mission and fell. That wouldnt be a problem if it didnt land on the save station. Guess where i started after i decided to kill myself at the new save spot. I wouldnt think it would be hard to disable a save spot once you activate one futher preventing me from saving myself backwards in the level.  Combat? Whats that? Seriously if the first level has combat but it is more like a shooting gallery then why give me guns? I was able to kill all the enemies in the first mission without much effort.  You can pay or get it for free from what i see from the store. Thats kinda weird seeing that for the game. If i have to say anything get it for free if you want to try it out rather than pay for it. Would paying for the game give you bonus materials or something because if you have 2 options to choose from i can safely say people with get the free one instead of paying unless they want to support the developer.  Conclusion: It is a poorly made game. Very focused on platforming which isnt a bad thing if the platforming was good and some jumps are not leaps of faiths on whether you can make it or not because the dash jump sucks. For those interested in the game go ahead and try it out, it is free but for those expecting much from it. I can say it does not deliever on a good experience. I played for a short time and gave up after i saved myself backwards in the stage meaning i had to do what i have already went through to get back.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is basically Quake with different graphics and if you have the free edition, you can't host a game to play with your friends... Just greedy ♥♥♥♥♥♥♥♥♥♥♥♥s wanting money, claiming you can get the game for free.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ok so im going to be a staight shooter (no pun intended) and be honest here. i would not recommend this game for alot of reasons.   1.) the controls are easy yes but WAY to sensitive, if you can change them then great. i didnt bother looking i just wanted to shoot folks in the face. 2.) Red Cell is BULLSH** but also kinda fun. its both the worst tutorial ive ever had the pleasure of playing in any FPS game and also a great hoot...kind of. the contracts were way to easy. i mean come on the bots on other games like this were dumb as hell no difference here. it does make for some good dumb fun though. 3.) sure this is a 'succesor' to games like UT, Doom, Quake etc etc. but those games are better. this game borrows WAY to much from them. 4.) combat: boils down to who has the rocket launcher/shotgun/ or that lucky turd who found the super weapn...the hellraiser is that it. oh and about that: REDEEMER MUCH! 1 shot dumb fire rocket primary fire, 1 shot guide it with your mouse alt fire. redeemer style. who else remembers that from unreal? 5.) other personal reasons i wont go into.  now with my opinion being said. its not nessecarily bad but its not good either. its ok. run of the mill. since this was written when the game was free. sure give it a try if you want. but dont expect anything amazing.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its the worst game ever do not get it",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Why do I rate this no well heres why it was free on steam so I got it and now it wants me to pay for it when it was free in the firstplace",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is essentially a modern remake of Quake. It's quite fun and the wet-ish neon theme is honestly beautiful! I also really loved the sound effects/sound design/soundtrack- its a very fast-paced electronic theme and it'll have you hyped in no time. (I'm very biased because I almost exclusively listen to EDM...) The maps were as they should be for an arena shooter of this caliber and the gunplay also fit the bill. It doesn't seem like many are still playing it, sadly, but it wouldn't hurt to give it a quick download. ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice game, i wish to see more people playing online.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wish it every progress possible and further investors.  It does really remind of Doom and UT but that was what? 10+ years ago?  Not a game for slowed down old gits though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have been waiting to play a good arena shooter for a while now. The only thing is, there has to be more people playing this. The community is so small, which isn't 'bad' per se, but it's dangerously close to the game dying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, fun gameplay  Sadly practically no one play anymore, youre lucky if you get more that 4 players in a match",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun and fast paced, steep learning curve but worth the training. Biggest problem is lack of player base which YOU, the reader, should fix.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My former positive review is below this one. Honestly, I feel robbed. I BOUGHT the game for full price and started playing the second it was inititally released in Alpha. The playerbase was pretty strong and I convinced my friends to shell out the money to buy it. Then the player base started to dwindle and the Devs said they were waiting on marketing it until everything was finished. Then, when it was finished, they made it free... so the the three of us really just burned our money on a game we hardly were able to play and then became free. I had said it was an investment and it was - a poor one.    The game is Early Access and the Devs are doing things right.   With that being said, do I think they should not have published to STEAM yet and just sent out Alpha or Beta downloads? Yes. I'm afraid the negative reviews due only to lack of players will offset the recommendation for when the game is released. And this is a great game. The servers used to be packed.   Are the servers empty? Yes. However, the devs are constantly active on the forum and don't want to market the game until they feel it's ready. This isn't other Early Access titles where the devs release a crappy game and vanish with your money. This game is ready to play but has limited maps. The devs are active and answer questions not only daily but HOURLY. During the last release it was a matter of minutes and seconds.  Really, in its current state, the game is an investment. Buy now at the $19USD and play it when it is finished and there is a higher playerbase. Or wait and pay what may be $50, because that's what the game is worth - that's what any other publisher would charge for this game in its completion. Don't expect to purchase the game now and begin fraggin immediately. I know that sucks, I really do, but it is what it is.  It's up to you.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fantastic game, far better than the current UT4",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's so much fun, haven't had this much fun with a shooter game since GunZ. Also the game runs steadily haven't had a single hickup :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was the Doom Multiplayer I was looking for. Great game. Fast paced and a lot of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "masterpiece... except for vehicle balance possibly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun with its Doom 2016 style gameplay and system, but beware to anyone who tries this free to play game, it WILL NOT let you customize your character whatsoever until you buy the game, so good to see that something as stupidly simple as character customization is now a DLC",
+            "review_score": "1"
+        },
+        {
+            "review_text": "simple fun old-school-ish arena shooter",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tired of the same old military shooters? Been waiting to play Toxikk for a while because you didn't want to spend on a 'dead game?' Wait no more. It's a fast paced UT like game with good graphics, good action, soundtracks, and no fuss fun. Even if you aren't great at arena FPS, it's a slick experience with some serious polish, one of the best looking out there in the genre if not the best. Give it a try, esp UT fans, this won't dissapoint. We've got to a juncture where UT4 probably isn't going to succeed and something needs to fill the void, this game should do it. Toxikk did not deserve to be dead, now that it is free, there is no excuse not to support it. Took a while to be free, and now that it is, there should be some interest and players. I would like to thank the developers for making it free and hopefully a community can be built where everyone benefits. Have fun. I know I will.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its amazing and addictive, even for the free version of the game. If halo and doom had a baby, this will be it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun Game! it has shooting mechanics like Counter Strike, a movement system like CoD: AW, and weapon balancing like Dark Souls. I hope none of the weapons get nerfed or buffed. the free version really doesn't have all the maps and doesn't let you customize your character but that's understandable. most-likely will buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its amazing and addictive, even for the free version of the game. If halo and doom had a baby, this will be it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "FRAG LIKE IT'S 1999!  An old school arena FPS.  The game has gone out of early acces and now even has a   free edition  .  You should look into it, the game needs more players :-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Been with this Game since Early Access and the german devteam constanly improves TOXIKK. The Look, the feel everything delivers on it´s 'Old School' promise. TOXIKK is fast and fun / easy to learn - hard to master.  Glady playing this over all the TF2 / Overwatch / Paladins etc...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the game.  Yes, there are technical difficulties right now after the launch, but they will be fixed soon.  What you then have is a fantastic looking ArenaFPS with a very solid and smooth movement system. I am playing AreaFPS for 15 years now and this game brought back the fun I had many years ago before it all turned into tryhard e-sports.  The 'Free Edition' is a free demo and should not be confused with free-to-play. It's not called demo because on Steam demos mean you can't play with owners of full game. In TOXIKK you can.  What you get with the full edition are more official maps (the better ones actually), access to community servers with can run community made maps, game types and other modifications. The steam workshop is already full with community content.  TL;DR:  Don't listen to the haters. Wait a day till the initial matchmaking issues are fixed, then try it out yourself. During Early Access 85% of reviews were positive, and probably 10% complained about issues that are to be expected in Early Access. And since then the game has become only better (except for the matchmaking bug).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome. If you liked Doom or Unreal tournament, Toxikk is definitely your kind of ♥♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have the free version build, its almost unplayable unless you keep trying for like almost 45minutes, the game kicks you out saying invalid error, searching for a room takes a while, i dont have any internet connections with any other games, i have 750mb speed and its not wifi, i am just wondering if those problems will not be there if i get the full version... anyways i did like the game itself, i like the concept but getting there is a problem, getting to actually play. i reccomend to play the game but they should fix the issues serverside.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, great mechanics, great Devs. I wish the playerbase was bigger! Try it, the free version is good, they fixed the Quick play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "new shaped UT2004 - lots of fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh my god, where do I even begin with this game. This game is probably the best executed FPS game in a very long time. Customizable controls, fun physics, great level design, fantastic graphics, downright impressive optimization, and the list goes on. This game is by far the most fun FPS game I have ever played, and I recommend it to everyone.  I started by getting the free edition, then proceeded to purchase the 'dlc' upgrade because I strongly believe the game deserves it. The game is so wonderfully executed that I can't begin to describe how much of a breath of fresh air it is. Not a single detail of this game went unnoticed by the developers, and trust me when I say I notice every little issue. I've quit playing games because the smoothness of the looking mechanic wasn't good enough, or uninstalled games for similar small things. This game? I have not one single negative thing to say about it. Serious props to the developers.  Positives: Amazing graphics Wonderful optimization Great business model Beautiful interface Awe inspiring customization Fun physics Balanced gameplay VSync works amazingly (no input lag)  Negatives:  The AI isn't 'brilliant' but it's not stupid. Definitely retro styled.  My specs: i7 4700hq @ 3.4 GHz 8 GB RAM GTX 860m (I can max this game at 1080p at a solid 60fps)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TOXIKK is not exactly what I was looking for, as I was hoping more for Quake 3 than Unreal Tournament, which is essentially what this game is, but it is fast-paced and fun enough that I have decided to stay, and eventually will give the dev's my money, as I only have the free version for now. I haven't touched the vehicles yet. I see a lot of people complain about them, but in the free version, the maps with vehicles are so small that they are pointless. The game shines in its deathmatch and capture the flag modes, but there is a domination-like mode that I don't care much for. In most games, you have to hold the point. In this, you just have to touch it to capture it. I didn't care much for other games' domination modes in the first place, though. There is a stealth system, similar to active camo in halo, but it only lasts for about a second, so you really need to learn how to move before you can use it effectively. It adds to the gameplay's frenetic nature, as you fly around and suddenly are being ambushed from an angle you weren't expecting. This game boasts 'frag like its 1999,' and it definitely delivers. The guns feel appropriately balanced and movement is free enough to allow for crazy gun battles games like the Doom remake or Call of Duty simply can't deliver. Doom and Call of Duty also can't run on potatoes. So go ahead, break out that old laptop from 2009, and download this game, if you really want to, just because you can.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple, classic FPS! Graphics are awesome, and well optimized.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Plays just like classic UT or Quake. Player customization could be better. Player character animations could be improved and the guns are very visually confusing, I couldn't tell which one I was holding, or that one of them was a melee weapon. Entirely forgettable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is very nice. Not great, nothing to write home about, but still very nice. If you're looking to play a game like Unreal Tournament, but don't want to buy 2k4 again. This might scratch that itch. My only real complaint is the weapon balance is a little off, some of the fire modes feel uninspired. I'd much rather they wholesale ripped off unreal tournaments weapons and their balance. I feel this game could use some inspiration of its own in some regards as well. the jump for example is very similar to unreal tounaments. How about a more floaty, low gravity style jump. Or some kind of Jetpack. Just because it plays like UT doesn't mean anything. This game lacks character. Something UT had in droves. It doesn't even have a crazy announce MMMMMONSTER KILL KILL KILL. Just... bleh.  Runs like butter though. MMMF",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh my god, where do I even begin with this game. This game is probably the best executed FPS game in a very long time. Customizable controls, fun physics, great level design, fantastic graphics, downright impressive optimization, and the list goes on. This game is by far the most fun FPS game I have ever played, and I recommend it to everyone.  I started by getting the free edition, then proceeded to purchase the 'dlc' upgrade because I strongly believe the game deserves it. The game is so wonderfully executed that I can't begin to describe how much of a breath of fresh air it is. Not a single detail of this game went unnoticed by the developers, and trust me when I say I notice every little issue. I've quit playing games because the smoothness of the looking mechanic wasn't good enough, or uninstalled games for similar small things. This game? I have not one single negative thing to say about it. Serious props to the developers.  Positives: Amazing graphics Wonderful optimization Great business model Beautiful interface Awe inspiring customization Fun physics Balanced gameplay VSync works amazingly (no input lag)  Negatives:  The AI isn't 'brilliant' but it's not stupid. Definitely retro styled.  My specs: i7 4700hq @ 3.4 GHz 8 GB RAM GTX 860m (I can max this game at 1080p at a solid 60fps)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although I have to admit this game is a lot of fun and it reminds me of Halo a bit I unfortunately can't recommend the full version of this game for one simple reason the player base is completely dead, the most players this game has ever had (as of December 2016) was 1,383 players and that was in September 2016 and of now the game had a peak player count of only 94 players with the average players on a day is 33.9. To be completely honest I can't imagine why this game would have more players as it is at least to me one of the best Free to Play games on the market right now and with the game it self being quite balanced not like other F2P games like Paladins. So although I do recommend the Free To Play version of the game I would advise not being like me and wasting $15 on a game that is more dead then Battleborn.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fun game, openly aping the arena shooters of the late 90s. You run around really fast and double-jump and collect lots of diverse weapons and try to shoot other players with them. It's good, but I find myself not playing it all that much. Something about it just doesn't grab me. Not sure why.  It's still good while it lasts, though. And it's free. Worth a look.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like FPS and arena shooters. Download it. If you enjoy it, buy it. I've had my eye on this one for a while, as soon as they came out with the free edition i was all over it. All sorts of fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I probably will buy it now that they have resolved some issues, previous reviews saw people with problems not having access to the full game even after buying it, hopefully that wont be the case for this. at least steam support can refund my money if it doesnt work...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun game, but could use a few more people playing. I highly recomend even though the playerbase is small. The AI is good and can make matches interesting even without full teams.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it's good and fun and ridiculously cheap!  press F to be a ragdoll never seen that before :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "frantic FPS action",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Basically UT3: good edition.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-Take all the ideas from a legendary game -Use graphics that look appealing in current time -Create good designed maps  Yep, it's basically quake remastered. This is written while using free account. I'll upgrade very soon.",
+            "review_score": "1"
+        }
+    ]
+}

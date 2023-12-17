@@ -1,0 +1,36 @@
+{
+    "app_id": 1017590,
+    "name": "Slime Adventure",
+    "release_date": "2019-02-15",
+    "developer": [
+        "Vlad Dunaev"
+    ],
+    "publisher": [
+        "Atriagames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 14,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Play levels with different obstacles and traps. Collect stars and unlock new skins, complete achievements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1017590/header.jpg?t=1550255062",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0+ GHz Memory: 512 MB RAM Storage: 20 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

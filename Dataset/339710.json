@@ -1,0 +1,47 @@
+{
+    "app_id": 339710,
+    "name": "Cyber Chicken",
+    "release_date": "2016-11-23",
+    "developer": [
+        "WHOA!"
+    ],
+    "publisher": [
+        "Groupees Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 32,
+    "positive_ratings": 6,
+    "negative_ratings": 5,
+    "price": 2.89,
+    "description": "Cyber Chicken is 2.5D adventure featuring 8', 375 pounds of cybernetic poultry as a futuristic killing machine on a quixotic mission to save the World. The game features fun combat, classic platforming, outrageous humor, rocking soundtrack and a fully upgradeable Cyber Chicken arsenal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/339710/header.jpg?t=1480956367",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 460, AMD Radeon HD 4850 DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.5 GHz Quad Core CPU Memory: 4 GB RAM Graphics: NVIDIA GeForce 500, AMD Radeon HD 5000 or higher DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "i beta test the game!",
+            "review_score": "1"
+        }
+    ]
+}

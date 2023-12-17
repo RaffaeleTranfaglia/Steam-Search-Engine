@@ -1,0 +1,51 @@
+{
+    "app_id": 308560,
+    "name": "City Quest",
+    "release_date": "2015-08-20",
+    "developer": [
+        "Stone Monkey Studios"
+    ],
+    "publisher": [
+        "Stone Monkey Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 50,
+    "positive_ratings": 27,
+    "negative_ratings": 10,
+    "price": 1.69,
+    "description": "Look, touch, lick, eat, grope, lie, and die your way through a mighty pixel city in this retro-style point-and-click adventure game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/308560/header.jpg?t=1447362378",
+    "minimum_requirements": "OS: Microsoft® Windows® 2000/XP 32-bit Processor: Intel Core 2 Duo 2.4GHz or Equivalent Memory: 256 MB RAM DirectX: Version 9.0c Storage: 600 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® 2000/XP 32-bit Processor: Intel Core 2 Duo 2.4GHz or Equivalent Memory: 512 MB RAM DirectX: Version 9.0c Storage: 600 MB available space",
+    "reviews": [
+        {
+            "review_text": "Ive been following this game since the beggining. It may have taken a while longer than expected to complete, but it was well worth the wait. This games humor will keep you laughing through the whole game. One of the best parts is the sheer amount of interactions there are to be had with nearly every object in the game be it through touching, looking, groping, licking, eating or talking. And for those of you who are wondering, yes, it has a TON of replayability, with four main storylines, branches in each storyline, side quests, and plain good old exploration. Great Game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the ways of dying are humourous but it wears off pretty quickly. I'm franky upset I had to wait for that long and the whole thing seems disjointed, not really a story here. (Mind me, I'm not even half way through).Now that the game has been released for a fraction of the original pledge, on iOS/Android, I feel a bit fooled.",
+            "review_score": "-1"
+        }
+    ]
+}

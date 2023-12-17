@@ -1,0 +1,57 @@
+{
+    "app_id": 411620,
+    "name": "Pane In The Glass",
+    "release_date": "2016-08-08",
+    "developer": [
+        "Rewind:VR"
+    ],
+    "publisher": [
+        "Rewind"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "VR Support",
+        "Steam Leaderboards",
+        "Commentary available"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "Pane In The Glass takes the genre of VR window washing to new EXTREME heights! Grab your sponge and squeegee, then soak up the fast and frantic action as you splash, wipe and squeak your way up the ever increasing tower of windows!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/411620/header.jpg?t=1470650684",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 8 GB RAM Graphics: nVidia GTX 970 DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i7 Memory: 16 GB RAM Graphics: nVidia GTX 980 DirectX: Version 11 Storage: 300 MB available space",
+    "reviews": [
+        {
+            "review_text": "Eh, it's probably okay for what it is; a simple score attack game.  I'm kinda annoyed though, because the video shows a much more leisurely game pace, and the store description doesn't really make it appearent that all it has is a rush mode where you slap as many windows as possible while the platform moves up the wall faster and faster.  I thought it was more like ' Job Simulator ' - and while I shouldn't be making assumptions, I really feel that the game was presented in a very similar manner. So in the end, it wasn't what I expected, what I wanted or something I'll ever play again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very fun and can be a pretty good excersize too! Sponge and wipe off the windows as you rise. But don't forget to clean your sponge! Oh, and beat those seagulls with your sponge!  Some suggestions: - Add high scores and leaderboards - Be more transparent about what the losing state is? From what I've seen it just suddenly ends. Is it a set height of the building or am I failing somehow or what? It tells me the height I reached which leads me to believe that it isn't just a time limit or something. Idk - Maybe make it so we could set down the tools and pick up other stuff or add new gamemodes that use other tools or chemicals, etc.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You are not a window washer. It's like a window washing speed run. Pretty fun but not what I was expecting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You go up in a lift. High. Cleaning windows as you go.  Hope it develops more. (Not sure how? But what there is in this is quite nicely done I think)  I got it more as a demonstrator for guests trying VR for the vertigo effect. And for that, it is VERY good. Props to the dev too for fixing the play area bug with the lift size. I think the vertigo is even better now you can step slightly off the back. lol.  As the other reviews say, there isn't much else to it. But as a couple of quid demonstrator, I don't feel ripped off.",
+            "review_score": "1"
+        }
+    ]
+}

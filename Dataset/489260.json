@@ -1,0 +1,48 @@
+{
+    "app_id": 489260,
+    "name": "Brut@l",
+    "release_date": "2017-02-09",
+    "developer": [
+        "Stormcloud Games"
+    ],
+    "publisher": [
+        "Rising Star Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Gore"
+    ],
+    "achievements": 24,
+    "positive_ratings": 53,
+    "negative_ratings": 18,
+    "price": 14.99,
+    "description": "A modern re-imagining of the classic ASCII dungeon crawler. Choose your hero and descend into a procedurally generated world constructed entirely from ASCII letters. Can you survive?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/489260/header.jpg?t=1486740289",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 2.0GHz i5 or better Memory: 4 GB RAM Graphics: Graphics card with 1 GB of Video RAM (requires DX9.0 or higher) DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Any compatible soundcard",
+    "recommended_requirements": null,
+    "reviews": []
+}

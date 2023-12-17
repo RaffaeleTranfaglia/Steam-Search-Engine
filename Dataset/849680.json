@@ -1,0 +1,39 @@
+{
+    "app_id": 849680,
+    "name": "TimeTekker",
+    "release_date": "2018-06-07",
+    "developer": [
+        "Artii Games LLC"
+    ],
+    "publisher": [
+        "Artii Games LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Ninja"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "TimeTekker is an arcade shoot em' up where your actions dictate the speed of time itself! Overcome the endless hail of bullets at your own pace and become the ultimate ninja!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/849680/header.jpg?t=1548109152",
+    "minimum_requirements": "OS: Windows 8.1 Processor: Intel Celeron CPU N2840 Memory: 4 GB RAM Graphics: Intel HD Graphics Network: Broadband Internet connection Storage: 80 MB available space Additional Notes: Internet is required in the game's initial setup, but afterwards, internet is no longer required.",
+    "recommended_requirements": null,
+    "reviews": []
+}

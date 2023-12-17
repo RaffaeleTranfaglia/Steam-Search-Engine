@@ -1,0 +1,39 @@
+{
+    "app_id": 963280,
+    "name": "Talk to Strangers",
+    "release_date": "2019-04-19",
+    "developer": [
+        "Post Mortem Pixels"
+    ],
+    "publisher": [
+        "Post Mortem Pixels"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Singleplayer"
+    ],
+    "achievements": 12,
+    "positive_ratings": 20,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "----- Hello, and welcome to Sunny Mornings™! ----- Talk to Strangers is a game of everyday survival. Survive door to door conversations ranging from bizarre to mundane (in this order) while trying to sell products to strangers. But beware: nothing is what it seems in this neighborhood.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/963280/header.jpg?t=1556201597",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Celeron 2.5ghz or equivalent Memory: 3 GB RAM Graphics: OpenGL 2.0 Support and 256 MB of RAM Storage: 300 MB available space Additional Notes: 1280x720 minimum resolution",
+    "recommended_requirements": "OS: Windows 7 64bits or later Processor: Core i3 2.5ghz or equivalent Memory: 3 GB RAM Graphics: OpenGL 2.0 Support and 256 MB of RAM Storage: 300 MB available space Additional Notes: 1280x720 minimum resolution",
+    "reviews": []
+}

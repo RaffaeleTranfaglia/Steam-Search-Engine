@@ -1,0 +1,39 @@
+{
+    "app_id": 671120,
+    "name": "Spaceship Trucker",
+    "release_date": "2017-08-25",
+    "developer": [
+        "Dreamy Doe"
+    ],
+    "publisher": [
+        "Dreamy Doe"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Spaceship Trucker is a 2D shooter. You are a spaceship trucker travelling down the dangerous star route. The Flees will try to block your way through space and pirates want to steal your precious cargo. Watch out for meteors as well.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/671120/header.jpg?t=1503653879",
+    "minimum_requirements": "OS: Windows XP Processor: Intel® Core™ i5-2400 Memory: 4 GB RAM Graphics: Nvidia GeForce 450 DirectX: Version 9.0c Storage: 650 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel® Core™ i5-6400 Memory: 8 GB RAM Graphics: Nvidia GeForce 770 / AMD Radeon 7970 DirectX: Version 11 Storage: 650 MB available space",
+    "reviews": []
+}

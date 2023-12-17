@@ -1,0 +1,116 @@
+{
+    "app_id": 402560,
+    "name": "Tabletopia",
+    "release_date": "2016-11-30",
+    "developer": [
+        "Tabletopia Inc."
+    ],
+    "publisher": [
+        "Tabletopia Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Board Game",
+        "Free to Play",
+        "Simulation"
+    ],
+    "achievements": 2,
+    "positive_ratings": 414,
+    "negative_ratings": 321,
+    "price": 0.0,
+    "description": "Tabletopia is sandbox virtual table with high-quality board games and ready setups. Already 600+ games and counting! Play how you want with whom you want: guests don’t need accounts to play. Or make your own games, no programming skills required.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/402560/header.jpg?t=1553467214",
+    "minimum_requirements": "OS: Windows 7 SP1 / Windows 8 / Windows 8.1 / Windows 10 Processor: 1.2 GHz, 2 cores Memory: 4 GB RAM Graphics: 1024 MB DirectX: Version 11 Network: Broadband Internet connection",
+    "recommended_requirements": "OS: Windows 7 SP1 / Windows 8 / Windows 8.1 / Windows 10 Processor: Intel® Core™ i5 or higher, 1.5+ GHz, 2+ cores Memory: 8 GB RAM Graphics: 1024 MB, DirectX 11 or higher, discrete video card DirectX: Version 11 Network: Broadband Internet connection",
+    "reviews": [
+        {
+            "review_text": "Saw this in a discussion of Tabletop Sim vs Tabletopia and the legality of it all. This sounded pretty nice so I gave it a go.  - It runs like garbage. Locked to 40 fps regardless of settings, no idea why.  Seemingly fixed in the latest patch?  -It's clunky as hell. Some ♥♥♥♥♥♥♥♥ in the game's discussions has constantly posted about how this game is much more responsive than TTS but he is full of crap. Everything from drawing a card to stacking them back again to moving things around the board is way worse. The right click context sensitive menu is nice but the interface as a whole is just slow and the game is missing obvious things like cards automatically stacking on others or even the vaguest hint of snapping to the board depending on what you are playing. Even the zoom feature is bad, doesn't zoom in as close as you can go and makes no effort to present models from up close as it does in TTS, just certain tokens. At any other time it zooms in on the board like you were trying to headbutt the thing. You can't even draw a box to select multiple things because clicking and dragging pans the camera, I mean really?  -It just feels cheap. So cheap. Everything from the animation used to flip cards (aka barely any) to the sound design to the way figurines and meeples wobble on the spot when you drop them? It looks and feels terrible. It's so bad it frankly makes me question if all the people saying this looks way better than Tabletop Sim are not shills.  -No joke: if I so much have the temerity to press the ALT key, games immediately hard lock. Why? How? I have to kill the process just so that the app dumps me back to Tabletopia's main menu/browser. This is so dumb I'm willing to say that it's something wrong with my setup because otherwise I couldn't fathom how this is possibly a thing.  -The whole '200+ games!' is right only in the vaguest definition. The game's library consists of about 30 easily recognizable games, 30 more obscure but well recieved games and then a mountain of indies and generic things like 'Chess!' and 'Dominoes!' so don't get your expectations too high. The free status of games can be deceptive too, like in the case of Terra Mystica, which APPEARS to be free (menu icon has no premium tag) yet only offers an introductory game with no choice of race or anything like that. The true base game requires a premium sub.  -Finally: NO players. During the time it took me to write this review I've seen a grand total of four games being hosted and like three of them were Scythe (which incidentally is also available as a completely legal DLC for TTS). Right now as I'm writing this there are no games to join and no one talking in the ingame chat. It's a bad look no matter how you slice it.  In conclusion? We have a problem here. For the longest time people have shied away from Tabletop Sim because it's kind of a legal mess but when the alternative is something like this, it's just... horrid. Tabletopia is such an inferior product that even if the consumer has the best intentions they are still getting shafted and shafted hard. This is really no alternative, much less a competitor and quite frankly I pity any boardgame designer that wasted their time getting their work on Tabletopia instead of just making DLC for TTS.   It's just that bad. It's worrying too when Tabletopia is angling itself to be some sort of premium service and apparently has so many designers on board.  Honestly if you are looking for a boardgame fix I'd just buy Tabletop Simulator. IF you want a boardgame fix and care about boardgame designers getting their due money, I'd honestly still buy Tabletop Simulator and maybe buy a subscription to Tabletopia but never ever play it. Maybe that's the one benefit that Tabletopia can provide.  1st of December edit: Looks like a Polygon article/coming out of EA breathed new life into this thing so I figured checking out the latest version was only fair.   I could have sworn the game was already out of EA and in fact the app seems to be completely unchanged compared to the last time I played it. There's nothing to correct or add other than how there's some people actually playing now (apparently enough to murder the servers, make games take ages to download) and the influx of them revealed how the lobby chat seems to have no moderation or filters of any sort so I hope you like spam and casual swearing/racism.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I would see this as a tool to try home rules or use existings pieces to try to design new games, since no mechanic restrictions are applied to any actions. But as a tool to demo existing board games, the interface leaves a lot to be desired...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a little clunky to get going and does seem to have some disconnect issures, however once you get a game going and find players its a blast and works well. I will say jummping on the Tabletopia discord server seems to be the best way to find platyers as the in game voice doesnt seem to work and communicating with voice is almost manditory especially if you need to explain the rules to anyone. I got 2 5 player games going of Between Two Cities with 4 other strangers and we all had a blast playing and getting to know each other. Hopefully with some much needed updates and maybe a some more well known party games like Codenames or Werewold this thing will be awesome!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My AMD system froze every 5 mins once in a game. My friends intel didnt. Needs fixing for AMD based systems.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "DO NOT download this game even if you see those nicely placed screenshots and videos. I repeat: DO NOT download it, because sooner or later you will delete it anyway. This game is a waste of space and time, trust me, I download it and played it with my friend so we tried a game of chess. Only to realise that 1) He can move my chess piece , i can move his chess piece. 2) the chess pieces movement do not match, it can move anywhere around the board and OFF the board. 3) There is no legitimate way to conquer other pieces because all you do is STACKED on one another. This game is worse than a browser game, try searching for chess games online on google and you will find a more organised and legitimate gameplay than this pile of waste. The game only needs 500mb of space but it will lag your computer a lot. Even my anti-virus programme AVG deleted some components of the game which then caused me to disable AVG just to play the game. It is one of the worst game I have ever played and no doubt that it will be the only game that I say is the 'worst one'",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "peice of ♥♥♥♥. what kind of game about games doesnt have ♥♥♥♥ing monopoly yahtzee or fact or crap?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Gonna recommend this because in the update, they fixed the game! I can now play it! I'm going to do some stuff and maybe add to this review, lol, good job guys! :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i recommend this game if you are a fan of a board game. there are a lot of choices and I am not even familiar with other games good thing that the guide is also part of the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "lolololol this game sux so much whats wrong with this game? why not play with the rules?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was ready, finger on the trigger, nothing left to live for but then I see this game and I thought I'd give myself 2 more hours on this planet and try this game out for it gave me hope, but what it did was add another layer of dirt onto my already buried coffin.   This game came at a point in my life when I was ready to give up, wife left me, don't think she took the 7 kids with her, oh no... she left them with me of course and I had to try and provide by working 2 ♥♥♥♥ jobs to put bread on the table.   But I must thank this game for one thing, pushing me into the right direction.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you enjoy board games but dont know how much you would use Table Top Sim then this is the thing for you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "With a H U G E selection of free games and really good 'premium' options, I can whole-heartedly say you should download this. Everything is extremely intuitive and works exactly like you would expect it to. If you like boardgames, get on it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "down load game in free to play section just to find out you have to pay to play nice well played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's good, but add monopoly, now.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I havent played it yet and im already sure it will be a ♥♥♥♥ing cool game to play :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What the ♥♥♥♥ is this monopoly ♥♥♥ piece of ♥♥♥♥. I'd rather listen to a 120 year old suffering with alzheimer's life story whilst being ♥♥♥♥ed by gandalf's 30' Staff then play something as ♥♥♥♥ed as this.",
+            "review_score": "-1"
+        }
+    ]
+}

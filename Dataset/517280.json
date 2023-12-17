@@ -1,0 +1,39 @@
+{
+    "app_id": 517280,
+    "name": "ZEscape",
+    "release_date": "2018-07-20",
+    "developer": [
+        "Madhouse Software"
+    ],
+    "publisher": [
+        "Madhouse Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 5,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "Two teams of players face off in ZEscape, the multiplayer game that has you running for your life from the relentless forces of the undead!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/517280/header.jpg?t=1546356758",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 (64bit) Processor: Intel i7, i5  ~2.4ghz Memory: 6 GB RAM Graphics: 2GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 (64bit) Processor: Intel i7, i5 ~3.6ghz Memory: 8 GB RAM Graphics: GTX 1060 / +2GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space",
+    "reviews": []
+}

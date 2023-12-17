@@ -1,0 +1,41 @@
+{
+    "app_id": 473910,
+    "name": "The Nest",
+    "release_date": "2016-06-14",
+    "developer": [
+        "invrse studios"
+    ],
+    "publisher": [
+        "invrse studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 115,
+    "negative_ratings": 64,
+    "price": 0.0,
+    "description": "The Nest has been reborn, and now it is Multiplayer! Join friends or strangers to battle for control of the last reserves of &quot;crypto&quot; in the system. Try multiple classes, maps and game modes, and choose to support the enigmatic Angroid, or the treacherous DieOS.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/473910/header.jpg?t=1548963665",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4970K / AMD FX 8350 equivalent or greater Memory: 16 GB RAM Graphics: NVIDIA GeForce® GTX 1070 / AMD Radeon™ RX 480 DirectX: Version 11 Storage: 6 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 730920,
+    "name": "Super Skelemania",
+    "release_date": "2017-11-17",
+    "developer": [
+        "Ben Allen"
+    ],
+    "publisher": [
+        "Ben Allen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Metroidvania"
+    ],
+    "achievements": 10,
+    "positive_ratings": 45,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Dive into Super Skelemania, a single-sitting metroidvania about an acrobatic skeleton. Jump over a pit of thorns, roll your skull like a bowling ball, or headbutt a spider like any good skeleton would!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/730920/header.jpg?t=1551828811",
+    "minimum_requirements": "OS: Windows 7 Processor: intel core i3 Memory: 256 MB RAM DirectX: Version 9.0c Storage: 50 MB available space Sound Card: Yes Additional Notes: Xbox controller recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 641590,
+    "name": "Perplexigon",
+    "release_date": "2017-09-21",
+    "developer": [
+        "moBack"
+    ],
+    "publisher": [
+        "moBack"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Grab your controllers, choose your environment, and snap into action with your friends to build amazing contraptions and machines in Perplexigon! Jump into an immersive multiplayer VR physics sandbox game and choose from a toolbox of blocks and joints to create anything from castles to complex remote controlled rockets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/641590/header.jpg?t=1510940432",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater DirectX: Version 11 Storage: 250 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 MB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater DirectX: Version 11 Storage: 250 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 587490,
+    "name": "Dark Throne",
+    "release_date": "2017-03-03",
+    "developer": [
+        "Marcin Mikołajczyk"
+    ],
+    "publisher": [
+        "Back To Basics Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 80,
+    "positive_ratings": 16,
+    "negative_ratings": 16,
+    "price": 0.79,
+    "description": "Dark Throne is a 2D sidescrolling RPG game with a simple pixel art graphics, set in a dark fantasy world. Playing the knight you will have to free the land from the curse and sit on the throne of the kingdom.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587490/header.jpg?t=1493630456",
+    "minimum_requirements": "OS: Windows vista Processor: dual-core processor with four threads Memory: 4 GB RAM Graphics: AMD radeon 7750 Storage: 250 MB available space Additional Notes: Mobile and integrated graphics cards may not be supported,  xbox 360 controller",
+    "recommended_requirements": "OS: Windows 10 Processor: quad-core processor with eight threads Memory: 6 GB RAM Graphics: AMD radeon 7770 Storage: 250 MB available space Additional Notes: Mobile and integrated graphics cards may not be supported, xbox 360 controller",
+    "reviews": []
+}

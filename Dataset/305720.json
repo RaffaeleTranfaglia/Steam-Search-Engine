@@ -1,0 +1,44 @@
+{
+    "app_id": 305720,
+    "name": "Heroes of Issachar",
+    "release_date": "2016-11-03",
+    "developer": [
+        "Blue Mana"
+    ],
+    "publisher": [
+        "Blue Mana"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 4,
+    "price": 14.99,
+    "description": "Heroes of Issachar is a city-builder / FPS hybrid. This game takes everything you love about classic city-builders and puts a crossbow in your hand to defend the kingdom you have built and extinguish the enemy from the land by raising up an army and recruiting other heroes to join the fight.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/305720/header.jpg?t=1478176145",
+    "minimum_requirements": "OS: Windows 7/8/8.1/XP/Vista (32 or 64 bit) Processor: 2.4ghz Intel Core 2 Duo or equivalent Memory: 4 GB RAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

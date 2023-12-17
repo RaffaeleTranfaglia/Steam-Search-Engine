@@ -1,0 +1,50 @@
+{
+    "app_id": 312420,
+    "name": "Hell",
+    "release_date": "2014-11-13",
+    "developer": [
+        "Hunted Cow Studios"
+    ],
+    "publisher": [
+        "Slitherine Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Demons",
+        "Fantasy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 19,
+    "price": 22.99,
+    "description": "Hell is a turn-based tactical skirmish strategy game developed by award winning developer Hunted Cow in partnership with Slitherine.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/312420/header.jpg?t=1517307632",
+    "minimum_requirements": "OS: Windows® XP / Vista / 7 / 8 / 10 Processor: CPU: Intel Pentium 4 or equivalent Memory: 1 GB RAM Graphics: Graphics: 256MB DirectX card DirectX: Version 9.0 Storage: 500 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "There is one major flaw I can't believe exists in a game released in 2014 and this is that some of the graphics in the game are stretched if you use any screen resolution that is not of a ratio of 4:3. These graphics include for example all unit information screens, shown when you move the mouse cursor over a unit or ctrl-click on a unit, some icons as well as all menue graphics and campaign description background graphics.  Another flaw is the haze visible when using a zoomed out view. The bad thing is it can't be disabled and makes it difficult to see everything clear and besides that just lets the world look crappy. The screenshots shown on steam do not show how crappy it looks in reality if you for example use a resolution of 1920x1080.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Entertaining wargame based on the Battle Academy engine. If you like wargames like Battle Academy, you should like this- why buy this if you already have BA? Well, the shift from an emphasis on ranged combat to (mainly) melee provides an interesting twist. You still want your archers etc in optimal support positions but you really need to pay attention to melee formations, providing support to interlocking units and restricting the enemy freedom of movement with zones of control. Although flanking and support don't always get you the successful strike, over the long term these sort of bonuses add up to make a big difference to your success.  The original BA was set in WW2 which is both a strength and a weakness, the weakness being that sometimes the 'historical' scenarios are a little too abstract for something that is supposed to be based on the real events. In 'Hell' the fantasy theme means that the scenarios or expectations of them are unfettered by historical contraints.  Definitely entertaining and well worth the price of admission in my view.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Jumped right in and played a skirmish mode. It's might and magic-esque and lots of fun.",
+            "review_score": "1"
+        }
+    ]
+}

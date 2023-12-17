@@ -1,0 +1,53 @@
+{
+    "app_id": 311840,
+    "name": "Wildlife Park",
+    "release_date": "2015-04-01",
+    "developer": [
+        "b-alive gmbh"
+    ],
+    "publisher": [
+        "b-alive gmbh"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 44,
+    "positive_ratings": 29,
+    "negative_ratings": 24,
+    "price": 4.99,
+    "description": "Build and manage your own wildlife compound, determine which animals to feature, how to manage the business while ensuring that all the animals are thriving. • Build a giant animal park from scratch and manage it well • Choose a variety of terrains with different climates and environmental sounds • 45 detailed, seamlessly animated and...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/311840/header.jpg?t=1549967601",
+    "minimum_requirements": "OS: Windows 10/8/7 Processor: x86 Memory: 256 MB RAM DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Not much to say, and old Game, which can be still enjoyed :) Build your own Park and keep your Customers and Animals happy.  Graphic: 5/10  Gameplay: 8/10  Didnt really know what to say about this Game xD ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Repetitive. Out of date. Clunky graphics. Difficult and confusing interface.  4 / 10.",
+            "review_score": "-1"
+        }
+    ]
+}

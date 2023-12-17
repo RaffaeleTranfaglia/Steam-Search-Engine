@@ -1,0 +1,41 @@
+{
+    "app_id": 347290,
+    "name": "Rise & Shine",
+    "release_date": "2017-01-13",
+    "developer": [
+        "Super Mega Team"
+    ],
+    "publisher": [
+        "Adult Swim Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Action-Adventure"
+    ],
+    "achievements": 14,
+    "positive_ratings": 465,
+    "negative_ratings": 210,
+    "price": 10.99,
+    "description": "Welcome to Gamearth, a once peaceful planet now threatened by the warmongering Space grunts of Nexgen. In the aftermath of their devastating first strike a child named Rise is forced to take on the sacred gun Shine - and with it the fate of his world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/347290/header.jpg?t=1495136744",
+    "minimum_requirements": "OS: Windows 7/8/10 (32bit and 64-bit OS supported) Processor: 2.4 GHz Dual core Memory: 2 GB RAM Graphics: 512MB of Video Memory DirectX: Version 11 Storage: 4 GB available space Sound Card: Integrated audio interface Additional Notes: Microsoft XBOX360 controller or compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 510850,
+    "name": "Mars 2030",
+    "release_date": "2017-07-31",
+    "developer": [
+        "FMG Labs"
+    ],
+    "publisher": [
+        "Fusion Media Group"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Mars",
+        "Space"
+    ],
+    "achievements": 10,
+    "positive_ratings": 40,
+    "negative_ratings": 22,
+    "price": 10.99,
+    "description": "MARS 2030 is a virtual reality simulation where players explore the Red Planet and make discoveries across 40 square kilometers of open Martian terrain, accurately-mapped and -modeled using NASA satellite data. Produced in collaboration with NASA.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510850/header.jpg?t=1503495389",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i3-6100 / AMD FX4350 or greater Memory: 8 GB RAM Graphics: Nvidia Geforce GTX 1060 or AMD Radeon RX480",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: Nvidia Geforce GTX 1080 or AMD Radeon RX480",
+    "reviews": []
+}

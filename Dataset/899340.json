@@ -1,0 +1,36 @@
+{
+    "app_id": 899340,
+    "name": "Mendel",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Owen Bell"
+    ],
+    "publisher": [
+        "Owen Bell"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Mendel is a chill sandbox game about growing weird plants from alien genetics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/899340/header.jpg?t=1536525353",
+    "minimum_requirements": "OS: Windows 10 Processor: Dual-Core Intel i5 @ 2GHz+ Memory: 4 GB RAM Graphics: Intel 4xxx or better Storage: 150 MB available space Sound Card: On-board",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 @ 2.3 GHz Memory: 8 GB RAM Graphics: Dedicated GPU with 1GB+ of VRAM Storage: 150 MB available space Sound Card: On-board",
+    "reviews": []
+}

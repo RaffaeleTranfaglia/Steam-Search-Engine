@@ -1,0 +1,48 @@
+{
+    "app_id": 465310,
+    "name": "Ricerca VR",
+    "release_date": "2016-05-03",
+    "developer": [
+        "The Family, LLC",
+        "Yo-Yo Lin",
+        "William Paul Cowan Jr.",
+        "Mike Murdock",
+        "Neilson K-S"
+    ],
+    "publisher": [
+        "The Family, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Animation & Modeling",
+        "Cinematic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "RICERCA, which in Italian means “search,” is an animated installation experience. In it, we follow the life of a man on a search who travels through different memories and worlds to find something he has lost.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/465310/header.jpg?t=1462297085",
+    "minimum_requirements": "OS: Windows 8.1 Processor: Intel i5 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Because the set-up is very simple there is not much that can pull you out of the immersion. Just sitting on the ground watching the screens in an art gallery somewhere else in the world.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful. Welcome to the most complex artistic medium. I can't wait to see what comes next!",
+            "review_score": "1"
+        }
+    ]
+}

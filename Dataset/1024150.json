@@ -1,0 +1,36 @@
+{
+    "app_id": 1024150,
+    "name": "Valentines Cafe",
+    "release_date": "2019-02-14",
+    "developer": [
+        "MyDreamForever_Old",
+        "Life Jumb DT"
+    ],
+    "publisher": [
+        "MyDreamForever_Old"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 0,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Casual puzzle on the theme of a romantic evening in a cafe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1024150/header.jpg?t=1550159326",
+    "minimum_requirements": "OS: Windows XP/7/8/10 Processor: 1.6 GHz Memory: 512 MB RAM Graphics: Integrated Graphics Storage: 60 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

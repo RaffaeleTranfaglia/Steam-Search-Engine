@@ -1,0 +1,39 @@
+{
+    "app_id": 720060,
+    "name": "Colony",
+    "release_date": "2017-12-15",
+    "developer": [
+        "eugeniy_kh"
+    ],
+    "publisher": [
+        "eugeniy_kh"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "There are 2 colonies on the playing field, one of which you control. You have to improve it, develop it technologically and defeat the enemy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/720060/header.jpg?t=1535154001",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 512 MB RAM Graphics: Any Storage: 10 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 GHz Memory: 1024 MB RAM Graphics: Any Storage: 10 MB available space",
+    "reviews": []
+}

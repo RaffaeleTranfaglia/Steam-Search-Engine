@@ -1,0 +1,46 @@
+{
+    "app_id": 730,
+    "name": "Counter-Strike: Global Offensive",
+    "release_date": "2012-08-21",
+    "developer": [
+        "Valve",
+        "Hidden Path Entertainment"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "In-App Purchases",
+        "Valve Anti-Cheat enabled",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play"
+    ],
+    "tags": [
+        "FPS",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "achievements": 167,
+    "positive_ratings": 2644404,
+    "negative_ratings": 402313,
+    "price": 0.0,
+    "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg?t=1554409309",
+    "minimum_requirements": "OS: Windows® 7/Vista/XP Processor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better Memory: 2 GB RAM Graphics: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0 DirectX: Version 9.0c Storage: 15 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

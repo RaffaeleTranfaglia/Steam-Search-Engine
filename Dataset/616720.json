@@ -1,0 +1,38 @@
+{
+    "app_id": 616720,
+    "name": "Live2DViewerEX",
+    "release_date": "2017-06-30",
+    "developer": [
+        "Pavo Studio"
+    ],
+    "publisher": [
+        "Pavo Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Animation & Modeling",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 665,
+    "negative_ratings": 91,
+    "price": 3.99,
+    "description": "The best cross-platform Live2D desktop solution",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/616720/header.jpg?t=1546554106",
+    "minimum_requirements": "OS: Windows 7 (with Aero), 8, 8.1, 10 Processor: Intel i3 or equivalent Memory: 1 GB RAM Graphics: HD Graphics 4000 or above DirectX: Version 10 Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 8.1, 10 Processor: Intel i7 or equivalent Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 657990,
+    "name": "Crafting Dead",
+    "release_date": "2017-08-18",
+    "developer": [
+        "Ferullo Gaming"
+    ],
+    "publisher": [
+        "Ferullo Gaming"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 49,
+    "negative_ratings": 42,
+    "price": 6.99,
+    "description": "Crafting Dead is a multiplayer based survival game with a voxel theme. Aim high and punch low, survive at all costs! Psst, bring a friend. They can help carry gear.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/657990/header.jpg?t=1503179811",
+    "minimum_requirements": "OS: Windows 7 32-Bit Processor: 2 GHz Memory: 4 GB RAM Graphics: Nvidia GTX 750 DirectX: Version 9.0 Storage: 6 GB available space Additional Notes: Recommend Low Quality Settings",
+    "recommended_requirements": "OS: Windows 10 64-Bit Processor: 3 GHz Memory: 8 GB RAM Graphics: Nvidia GTX 760 DirectX: Version 12 Storage: 10 GB available space Additional Notes: Recommend High Quality Settings",
+    "reviews": []
+}

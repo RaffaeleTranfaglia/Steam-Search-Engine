@@ -1,0 +1,41 @@
+{
+    "app_id": 491700,
+    "name": "Gotta Go",
+    "release_date": "2017-08-11",
+    "developer": [
+        "Dire Nerd Studios"
+    ],
+    "publisher": [
+        "Dire Nerd Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 10,
+    "positive_ratings": 18,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "With pressure mounting, the clock ticking, and only a vague idea where the bathroom is, players must avoid co-workers’ inane blathering and HR’s unwavering gaze as they make their way across the office to find their porcelain sanctuary.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/491700/header.jpg?t=1530585863",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel Duo 2.0GHz or better Memory: 4 GB RAM Graphics: 500 MB GPU DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 Processor Memory: 8 GB RAM Graphics: 2GB GPU DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

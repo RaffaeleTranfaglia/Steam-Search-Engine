@@ -1,0 +1,43 @@
+{
+    "app_id": 619470,
+    "name": "Boss Defiance",
+    "release_date": "2017-09-01",
+    "developer": [
+        "Tiny Pixel"
+    ],
+    "publisher": [
+        "Tiny Pixel"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "4 Player Local",
+        "Co-op"
+    ],
+    "achievements": 8,
+    "positive_ratings": 6,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Boss Defiance is an arcade­ action competitive and asymmetric game, with semi­procedural level creation. One player play as the powerful Boss and must fight his way room by room, facing the other 3 players in a battle arena. The Boss will have to survive until the end of the dungeon to succeed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/619470/header.jpg?t=1515082667",
+    "minimum_requirements": "OS: Windows 7 SP1 64-bit or higher Processor: Intel Core i3 or Equivalent Memory: 4 GB RAM Graphics: 512MB VRAM DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 64-bit or higher Processor: Intel Core i5 or Equivalent Memory: 8 GB RAM Graphics: 1024MB VRAM DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

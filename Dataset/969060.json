@@ -1,0 +1,38 @@
+{
+    "app_id": 969060,
+    "name": "mikapyon",
+    "release_date": "2019-02-22",
+    "developer": [
+        "NiYOtan"
+    ],
+    "publisher": [
+        "NiYOtan"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Platformer"
+    ],
+    "achievements": 20,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 9.29,
+    "description": "miKaPyon is a rabbit girl in a colorful 3D platformer full of fast freerunning and jump challenges, wall-jumps and sliding over hills and loops.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/969060/header.jpg?t=1550822768",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10, 32 bit / 64 bit (x86) Processor: 2 GHz, SSE2, Intel Pentium 4 / Pentium M / AMD Athlon 64 Memory: 2 GB RAM Graphics: NVIDIA GeForce 6600 / ATI Radeon 9500 DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

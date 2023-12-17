@@ -1,0 +1,52 @@
+{
+    "app_id": 384950,
+    "name": "Macabre",
+    "release_date": "2015-07-06",
+    "developer": [
+        "Cornbread Juice Games"
+    ],
+    "publisher": [
+        "Cornbread Juice Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Loot"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 8,
+    "price": 2.09,
+    "description": "Macabre is, at heart, a NES/SNES-inspired JRPG that tells of a post-apocalyptic tale set in medieval times. Despite the old school feel, it does feature some modern mechanics; such as in-game achievements, crafting, and a unique random encounter system.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384950/header.jpg?t=1498959207",
+    "minimum_requirements": null,
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Ruin is a great NES / SNES style RPG. There is loot all over! The crafting is well done &amp; makes treasure hunting exciting. There is more mystery meat to be found here than a school cafeteria. Luckily it can be synthesized into steak.   A quick &amp; responsive menu system makes playing a breeze. The simple controls were easy enough to program to my controller. It makes sense &amp; doesn't hinder the game at all. I especially like how fast one can navigate through it all.  There is a wonderful score with flowing transitions. The music is mastered well &amp; sounds terrific on surround sound. It truly is beautiful, adding lots of atmosphere to the pixel world, the way Nobuo Uematsu did in the Final Fantasies. The sound effects are good with nothing abrasive.  Remember to save! This game is no walk in the park and has a challenge more similar to early 90's RPGs. The option to toggle random encounters in areas already explored is quite nice. Even better is the other option to turn on the XP modifier so that the encounters are more worth while for obsessive grinders, like myself. I would suggest leveling up respectively, as advancing too fast will kill your party outright. I found myself on the edge of my seat many times whilest fighting.  Magic / Abilities are handled similarly to the orgional Final Fantasy, MP being called Mastery in this case. The nice twist is that they are learned in a fashion more akin to Final Fantasy II. Practicing abilities in battle advances the characters knowledge, which makes more sense than buying them in shops.  The characters are charming and enjoyable to read. Alan's semi Scottish / Nova Scotian sort of accent is especially well done. They are all definitely unique, and that is difficult to do these days. Without spoiling too much, the plot thickens well with vendetta and heroic questing. One feels compelled to help this ruined world.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This old style rpg from MOCBJ Software has much more going for it than I thought I would see, especially considering the price. So, not expecting a lot, I decided to give this one a go.  As with any rpg, the story is hugely important. Without a decent and captivating story to tell the game can lose your interest, but this one tells a tale that keeps you interested and involved from the beginning. An earhquake has tossed the main hero, Fred, on a beach needing to make his way home in a now shattered world. Along the way he meets the rest of the party, discovers what is behind the upheaval, deals with various side quests (16), battles thieves and assorted monsters, and collects more loot than you can imagine. Loot comes in the form of 'scrap material', 'mystery meat', coins, and many other collectibles which are all used in the crafting system featured in the game. And although the crafting system is not seen in these old style games that often, it is easy to learn so that you can have the items, weapons, armor, etc. that you need to have success in the game.   In a lot of ways this game reminds me of the original Final Fantasy, or even the old Phantasy Star seies. In addition to the crafting, the graphics really take you back ---- for those who remember playing those classics when they came out.  And there are aspects that give it a thoroughly modern feel as well. The characters are fun with lots of personality (Alan), the humor is current, nothing forced with a few LOL moments. And the music is great and adds greatly to the game's enjoyment. I was impressed with the ease of working the menu with just the keyboard, and the game flowed quickly and smoothly with no glitching at all.   Save the game often as you never know what's coming next (even in the towns). Also, if after a recent save you are not happy with the loot you pick up when there are a bunch of boxes, chests, bookcases, etc. ---- just go back to the last save and try again because the loot will be different.   Clocking in at around 15-20 hours, it's a can't miss addition to the rpg library.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "640 by 400 fixed resolution, no full screen, fixed keybindings, in a cross platform game from this centry... really?  the 10cm wide window makes for basically an unplayable experience... unless of course you're happy to mess up all your desktop icons and run your OS in a resolution that was tiny last centry (fortunatly the dekstop I use will remember icon positions per resolution but this isn't usally the case), seriously a scalable UI is really really easy to implement... unforgivable.... oh and want sound effects and no music or slightly quieter music compared to effects.... forget it.... just plain lazy....",
+            "review_score": "-1"
+        }
+    ]
+}

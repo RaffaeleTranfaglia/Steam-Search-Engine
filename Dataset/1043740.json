@@ -1,0 +1,36 @@
+{
+    "app_id": 1043740,
+    "name": "Magnetized knight",
+    "release_date": "2019-03-20",
+    "developer": [
+        "SharkGame"
+    ],
+    "publisher": [
+        "Zotdinex"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "The knight is sent to a dangerous task in which he must complete all the riddles of an abandoned castle - using gravity for this.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1043740/header.jpg?t=1553077509",
+    "minimum_requirements": "OS: Windows 7 Processor: DualCore or better Graphics: 128mb Storage: 15 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

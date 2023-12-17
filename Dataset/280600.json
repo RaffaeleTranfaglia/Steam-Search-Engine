@@ -1,0 +1,97 @@
+{
+    "app_id": 280600,
+    "name": "BloodLust Shadowhunter",
+    "release_date": "2015-09-21",
+    "developer": [
+        "WRF Studios"
+    ],
+    "publisher": [
+        "WRF Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Vampire",
+        "RPG",
+        "Action"
+    ],
+    "achievements": 25,
+    "positive_ratings": 222,
+    "negative_ratings": 55,
+    "price": 9.99,
+    "description": "Bloodlust is a dungeon crawling / action RPG experience that will allow players to explore the dark underworld of a forgotten society of Vampires and their disciplines, all while trying to battle for hierarchy among the clans in search of their sire.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/280600/header.jpg?t=1447360463",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 2.0 Ghz Dual-Core CPU Memory: 4 GB RAM Graphics: ATI Radeon HD 2600 or better / NVIDIA GeForce 240, 610, 8600 or better, 512 MB video memory, with Shader Model 3 support DirectX: Version 9.0c Storage: 4 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "OS: Vista, 7, 8 Processor: Intel Core i5 or AMD Quad-Core or better Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 260 or AMD Radeon HD 4770 or better (1GB VRAM) DirectX: Version 9.0c Storage: 5 GB available space Sound Card: DirectX Compatible",
+    "reviews": [
+        {
+            "review_text": "Don't let the indie look and feel (and price) fool you. This game is very deep first-person ARPG, filled with more randomly-generated items and dungeons than you can shake a cross at. There's a thin main story (some nonsense about going after your vampiric sire) but the meat of the game is buried in vast roguelike dungeons where you'll use your own vampiric powers and weapons to mercilessly slaughter legions of the undead, monsters, and other trash. The game is easy to pick up and play, and the ingame tutorials will get you up to speed quickly, although there's a few game systems that you'll need to puzzle out during your own play time.   It's not all just hack and slash, though. Bloodlust also tosses in helping helpings of alchemy, crafting, and other activities to spice up the grind. There's really nothing really new here -- BloodLust is, at its core, a very familiar ARPG grind -- but the unexpected level of polish by this one-man-band production is very surprising. Highly recommended, and there are some major studios out there who could learn from this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reminiscent of Vampire The Masquerade: Bloodliines only it seems to do things better in some ways and feels much more open ended and fun. Lots of skills to get which alter with every playthrough. Different races and classes to choose from is a nice feature too. There is also bit of Character Customization options but they are a bit limited. But for the price you get a lot of game and enjoyment. This game is highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't seem have a ton of playtime here as of yet, because my introduction to the game was playing on a friend's computer -- I have a few hours with their version -- but I gotta tell y'all, I am SERIOUSLY digging this game. It's a ton of fun, from the combat to the dialogue to the exploration to the loot, this hits ALL the right notes if you're an action RPG fan that likes exploration, randomly generated areas, tons of loot and so on. For this price, it's a freaking steal y'all, and I rarely buy things that aren't on sale. If you have ANY interest at all in fun, action RPGs with plenty to do in terms of quest, talking to NPCs, fun combat and so on, then GET THIS.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I misjudged this game at first. It has some issues with controls and other things and in the beginning it seemed not to be what I was looking for. But, I stuck with it and ended up really liking it despite its flaws. Then I read the discussions and realized that this was basically one guy making the whole game and that made me like it more and forgive its faults. Honestly, my most major gripe after finishing it is how many women in it don't speak and are used as decoration (whereas even the male generic characters have something they say) in the various lairs you end up in. But, that's not uncommon in the gaming world and having a feminist analysis doesn't mean I can't still have fun. Second biggest gripe is that you can't load old saves. There are a few things I would have liked to finish and I missed out on quests that I didn't realize I had entered when I couldn't reload an old save.  VTMB is one of my favorite games. I have replayed it so many times that I honestly can't anymore. This was suggested as similar. It is a little similar but it is also it's own thing in the dungeon crawling being centered. I enjoyed it and will likely replay with different characters.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Before I start I'll tell you in advance that the game has a few issues and actually took me 20-30 minutes to get running though after that it has worked more or less perfectly. The developer  will  personally help you out if you post your issue in the discussions and the nature of Steam refunds means it's worth trying out anyway. The game does come with a small readme too. I'll put what fixes worked for me at the bottom of this review.  Probably best described as third-person Diablo 2 set in an almost World of Darkness (i.e. VTM:B's setting) with the same lack of polish as STALKER but somehow it all works. I'm going to stress the ARPG/dungeon crawler link more as gameplay-wise it's towards the Diablo end. What it  does  take from VTM:B (and indeed improves on over it) is the use of non-combat skills in particular persuasion which gives you some fairly major benefits. Also blood drinking, of course.  The tutorial mode is essential for a first time player and even then you might have to check out the discussions for some things (in particular cracking safes and backstabbing) but I didn't have any major problems. Do note that you can conveniently zoom the camera in and out and change the mouse between a more traditional mode instead of having it control the direction the character is looking etc with hotkeys.  The graphics and sound are serviceable and there's plenty of voice acting which generally falls into the better end of VA quality, a (pleasant) surprise for a small budget game like this.  The ability to sire new members is fun but I'd have liked to be able to equip them with things or possibly use them to take things back and sell them for me like pets in Torchlight. In general inventory space is very limited until you grab the right talents.  All in all it's good fun and I'm not even the biggest fan of ARPGs. I can't speak for the class variety but I tried the Witch and there were a good few build options there.    What worked for me with the 'Built with UDK stopped working' error:  1. Verifying integrity (properties &gt; local files &gt; verify integrity of cache) repeatedly. At first this kept showing one file missing but eventually it went away. In between doing this I tried to start it a few times. 2. Rebooting after I installed the game and again after verifying a few times and installing the demo. 3. Downloading and installing the  demo  [www.lasthalfofdarkness.com]  for this game (it had the same crashing issue for me originally). 4. Setting the settings in the launcher to the maximum available resolution with fullscreen off.  What didn't work for me but has been suggested elsewhere:  1. Changing some lines about shaders in the config to true instead of false. You'll have to look in the discussions for this but mine were already set to true. 2. Changing the UDK.exe to Windows XP compatibility mode and/or running it as admin. 3. Reinstalling the game. 4. Starting the game without using the launcher/without using Steam.  As I say the developer will help you out if you get really stuck so don't worry.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TL;DR: That game is awesome but perhaps for a specific kind of gamers (fans of WoD, this game is for you!).  I played a lot Vampire: The Masquerade, and the two video games (Redemption and Bloodlines) are one of my preferred. Still, since then, I have that itch of playing a vampire-related game (not a 'Blade', or a 'Twilight', mind you. 'World of Darkness' related). And since the disappointment of CCP games' abandonment of their World of Darkness MMORPG, I felt like that itch would remain.  Bloodlust: Shadowhunter scratches that itch. All in the right way.  I would not be surprised to learn the developers of this game had a similar itch, and went through the whole process or creating a game that was missing (at least, for me).  The cons: - The graphics are 10 years-old quality - The interface is sometimes clumsy - Little or no documentation (what does 'MM Knock Back' means, seriously?) - 32-bits... Seriously, my game crashed once because it reached the 'out of memory' limit. there must be a leak somewhere, but still... 32-bits?  The not-cons: - No control over the save file: I'm a paranoid, so I wasn't happy when I realized I would not have saves as I desire. The thing is, I realized that I don't really need them. I'm still surprised by that. - The random dungeons: I hate grinding for XPs or whatever, and the dungeons are a bit frightening... But increasing levels is fast enough, and as long as I don't need to do 100-levels dungeons just to make the story happen, I'll be happy (in fact, at the 4th level, my priority is to get out, because grinding gets boring) - For me, the game crashes if you put high-quality graphics. Don't hesitate to lower them. Then, the game is stable as a rock (only crashed once after that)  The pros: - The mood. Despite the primitive graphics, the developer nailed it down. I felt like playing a Kindred in a World of Darkness. The music, and ambient sounds. Everything helps you be part of the story - The story. In spite of random dungeons, there is a story, a background, and a setting. It's sometimes a bit surprise (every mortal seems to know about vampires?) - Your bloodline. The childer you sire, fighting with you, or gathering loot or blood. Awesome.  What I want for Bloodlust 2: - Keep 'Bloodlust' as the name of your games. Drop 'shadowhunter'. - A larger city - More vampires - More quests - More character appearance customization - A bit more sims-like behavior (mortals, other vampires, etc., and your childer should do things on their own... perhaps even including betraying you!) - making it easy to add quests/characters/mods/(written) dialogs, even city blocks - NOT better graphics. If I wanted graphics, I would be playing whatever current AAA game. I want that specific kind of game, and the graphics were good enough for me.  ... because if there is a Bloodlust 2 in preparation, count me in, immediately! :-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly recommended. The game was buggy during my play through, but the devs have clearly been cleaning it up. To put it in perspective I enjoyed the game so much that I had several different errors occur during the final fight and ended up needing to kill the final boss 3 times before it took and even the final time I only succeeded due to be over leveled and I didn't care I was having so much fun and wanted to see where the story went. Can't wait to see what comes from this studio next, whether it is an expansion to this game or something entirely new.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bloodlust is kind of a unique game; procedural dungeons combined in a dark fantasy modern city. More than anything, though, it's just fun to play. I think it's a positive game, and one I'd very much like to see expanded even further.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game pretty much delivers exactly what it promises and the updates are ongoing and significant. The devs definitely seem to treat Bloodlust like a labor of love. If you enjoyed Vampire: Bloodlines and want a modern ARPG that is kind of similar, you found it.  Best early access experience I've had on Steam and I'm pretty happy with how it turned out too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i was...am(i would play it anyday) obsessed with VTMB. this game is pretty good at giving me that fix pretty well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I already purchased and refunded this game once because it didn't even launch on my laptop. I decided to purchase Bloodlust again since I have a brand new gaming desktop and although this time I'm able to launch, it still has very unstable fps to the point its impossible for me to enjoy it (frequent drops from 60 to 20 or lower fps).  I'm aware of the low budget involved in the making of this game but I've been craving for a new Vampire game for a long time so I was ready to forgive the clunckiness of the animations and menus.  I really tried to enjoy this game, the gameplay itself felt interesting enough and the Vampire vibe is certainly there, but unfortunately I couldn't.  I'll be keeping an eye on future updates but for now I need to get a refund before I loose the opportunity to do so. It pains me to give a thumbs down to the only game who's developer was brave enough to tackle the Vampire universe in years, especially since all this game really lacks is some polish, but at the moment I just can't recommend it :(",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good game worth buying happy gaming :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved Vampire: Bloodlines, but this is... 'Meh' Right from the get-go i was very uninspired by the story and just wanted to get the hell out of the begining dungen to explore the city. Once there, i was further unimpressed with lack of life, the city seemed dead. Then suddenly im attacked by some vampire hunter for no apparent reason, who seems to be such a high level that there really was no hope of winning while on a quest to go into a locked basment that the questgiver supposedly gave me the key to but really didnt.  All in all it was a very disappointing experiance. I understand this was made by like one guy, wich is impressive as hell, but unfortunatly it shows.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "On the bright side, this game was a great way for me to learn how to get a refund on Steam.",
+            "review_score": "-1"
+        }
+    ]
+}

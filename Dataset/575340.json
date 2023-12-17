@@ -1,0 +1,47 @@
+{
+    "app_id": 575340,
+    "name": "Chessaria: The Tactical Adventure (Chess)",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Pixel Wizards"
+    ],
+    "publisher": [
+        "Pixel Wizards"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Chess",
+        "Turn-Based"
+    ],
+    "achievements": 41,
+    "positive_ratings": 52,
+    "negative_ratings": 13,
+    "price": 15.49,
+    "description": "Experience a 4K graphics strategy game with tactical depth, breadth, and challenge like nothing you have played before: the perfect mix of Chess, tactical setups and quests inpired by classic RPGs",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/575340/header.jpg?t=1553280254",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: 2.0 GHz Dual-Core Processor Memory: 4 GB RAM Graphics: Nvidia GTX 960-M 2GB DirectX: Version 11 Storage: 11 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: 2.7 GHz Quad-Core Intel Core i7 or equivalent Memory: 8 GB RAM Graphics: Nvidia GTX 1060 DirectX: Version 11 Storage: 11 GB available space",
+    "reviews": []
+}

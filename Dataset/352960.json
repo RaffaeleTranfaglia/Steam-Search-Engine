@@ -1,0 +1,67 @@
+{
+    "app_id": 352960,
+    "name": "Star Horizon",
+    "release_date": "2015-05-28",
+    "developer": [
+        "Orbital Knight"
+    ],
+    "publisher": [
+        "Orbital Knight"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Space"
+    ],
+    "achievements": 29,
+    "positive_ratings": 72,
+    "negative_ratings": 53,
+    "price": 3.99,
+    "description": "Experience fast action, thrilling levels, spectacular explosions and lots of pew-pew-pew. Star Horizon is a reboot for the on-rails space shooter genre.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352960/header.jpg?t=1494355017",
+    "minimum_requirements": "OS: Windows XP SP3 and later Processor: Dual Core 2.4 GHz Memory: 2 GB RAM Graphics: Shader Model 3.0, 256MB DirectX: Version 9.0c Storage: 1700 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows XP SP3 and later Processor: Dual Core 2.5 GHz Memory: 4 GB RAM Graphics: Shader Model 3.0, 512MB DirectX: Version 9.0c Storage: 1700 MB available space Sound Card: DirectX compatible",
+    "reviews": [
+        {
+            "review_text": "A solid Star Fox style casual game, worth the price.  The audiovisuals are really well done and create a good sense of action. Balancing is worth a mention - Normal difficulty has some challenges, but not too frustrating, while Hard makes you constantly fight for your life. It's rare to see that nowadays.  The main problem is the aiming - Star Horizon forgoes having a reticle in favor of visually lining up your ship with your target. It generally works well and doesn't get in the way. But:      it's underexplained, which means you have to figure out this quite counterintuitive idea by yourself     it breaks the immersion - it depends on how you look at the scene from the third person perspective, reminding you that you don't actually pilot the ship     you obscure the target with your ship, so if it shoots back at you, you won't see that   There are also some decisions to be made during flight, which makes for a nice touch of variety, and a simple customization system which goes well with the complexity level of the game.  Once you grasp the aiming, you will be having some solid fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "        YouTube™ Video:  Star Horizon First Impression Review / Rails Shooter Like Starfox?&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been playing it for a few days on my mobile and my first impression was: wow! I love the graphics and the soundtrack. I just had to get it for my pc!  The auto-aiming system isn't that painful, you just have to get used to it. I personally haven't had any major problems with that.   The characters are likable and the scenario is quite interesting. Too bad it's so short, but hey - it's an indie game. Really fun, very good space shooter; overall rating: 9/10!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, the story and idea are nice (though not new, more like a mixture of star wars and mass effect), but the gameplay isn't.  While the presentation (vids and screens) suggest you're in control, the ship flies it's own path and you're only able to apply some offset to it to avoid collisions, gun-fire, etc. So it's like a vintage top-down-shooter with a slight idea of 3D. Wouldn't be much of a problem if it wouldn't fly directly into the most stupid places there is for a battle, like in the middle of half a dozen turrets. So if you ever wanted to know what Kamikaze feels like, join the battle! Another point is the targeting system: you can't choose on your own what you shoot at. There's an automated targeting system which selects targets for you. But the algorithm for selection is incomprehensible, eventually selects something in the direction you're heading but often feels like random. So what you'll need is a lot of swarm missiles (multiple missiles shot at once that automatically select all nearest targets). So a fight with many enemies can pretty quickly become frustrating. Success on higher levels is more about luck than skills. Last thing: the story is very short (one short afternoon and you're through the whole stuff for a single decision tree) and its presentation is a bit 'low level', just some audio conversation while you look at your current surroundings.  So, if it's on sale for a very low price, it's a distraction for a (very) short while if you don't expect too much, but at full price: not worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Targeting is very odd, you have to place your ship over what you want to shoot at, even if it's pointing a different direction. It's enough to make the game unenjoyable. I wanted something akin to Panzer Dragoon in terms of style. This would have been alright had the targeting been thought out better.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awful. This is why: Playing it with a controller, firstly there is no Y invert, secondly there is no aim reticle and ships and turrets that are near the edge of the screen cannot be hit. It's not a new thing, space shoot 'em ups, they've been done for years so getting it this wrong is inexcusable.. The voice acting is wooden. It sounds like they got some people from a amateur dramatics society to do it and they really couldn't be bothered.",
+            "review_score": "-1"
+        }
+    ]
+}

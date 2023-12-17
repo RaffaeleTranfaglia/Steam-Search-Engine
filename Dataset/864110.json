@@ -1,0 +1,38 @@
+{
+    "app_id": 864110,
+    "name": "Trap Defense",
+    "release_date": "2018-07-02",
+    "developer": [
+        "Angus Seung"
+    ],
+    "publisher": [
+        "Angus Seung"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 5,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Trap Defense is a TD like puzzle game. In each level, you need to place the traps at a correct position to prevent the balls reach the finish point.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/864110/header.jpg?t=1549799677",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1+, 8, 10, 64-bit versions only Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities DirectX: Version 10",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

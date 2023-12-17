@@ -1,0 +1,45 @@
+{
+    "app_id": 547870,
+    "name": "Clown2Beat",
+    "release_date": "2016-10-26",
+    "developer": [
+        "Rodrigo Banzato"
+    ],
+    "publisher": [
+        "Tonka3D"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 11,
+    "price": 0.0,
+    "description": "You are selected to be part of a circus, open the doors and beat the Clowns, solving the challenges before the clock ends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547870/header.jpg?t=1493955033",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit or later Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 11 Storage: 3 GB available space Additional Notes: We have found SSDs to be the best user experience",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit or later Processor: Intel Core i7 4930K processor or faster Graphics: Nvidia GTX 770 video card or higher DirectX: Version 11 Storage: 3 GB available space Additional Notes: We have found SSDs to be the best user experience",
+    "reviews": [
+        {
+            "review_text": "Clown2Beat, even indie devs need to cash in on clown memes before its too late. That being said, its a great game if you like beating clowns with a hammer.",
+            "review_score": "1"
+        }
+    ]
+}

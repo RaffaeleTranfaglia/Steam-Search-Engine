@@ -1,0 +1,44 @@
+{
+    "app_id": 658500,
+    "name": "Ultra Space Battle Brawl",
+    "release_date": "2018-10-04",
+    "developer": [
+        "Mojiken Studio"
+    ],
+    "publisher": [
+        "Toge Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 12,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Easy to learn yet hard to master, Ultra Space Battle Brawl is a fun competitive game fit for settling disputes, be it with your friends and family or rivals and arch nemesis.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658500/header.jpg?t=1538668840",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core™ Duo or faster Memory: 2 GB RAM Graphics: Shader Model 2.0 compatible Storage: 800 MB available space Additional Notes: Gamepad recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

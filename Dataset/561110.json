@@ -1,0 +1,39 @@
+{
+    "app_id": 561110,
+    "name": "Disney's The Jungle Book",
+    "release_date": "2017-12-18",
+    "developer": [
+        "Eurocom"
+    ],
+    "publisher": [
+        "Disney Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Play as the man-cub, Mowgli, an orphan raised by a pack of wolves in the jungle. No parents. No school. No problems. Great life, huh? Except, there’s a rumour that Shere Khan, the man-eating tiger is coming after you. You’ve got to swing your way through the jungle and reach the man-village.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561110/header.jpg?t=1542764950",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: 1.8 GHz Processor Memory: 1 GB RAM Graphics: DirectX 9.0c Compatible Video Card w/ 256 MB RAM DirectX: Version 9.0c Storage: 9 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

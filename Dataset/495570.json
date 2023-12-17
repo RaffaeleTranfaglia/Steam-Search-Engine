@@ -1,0 +1,46 @@
+{
+    "app_id": 495570,
+    "name": "ConflictCraft",
+    "release_date": "2016-12-08",
+    "developer": [
+        "Badim"
+    ],
+    "publisher": [
+        "Badim"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 36,
+    "positive_ratings": 34,
+    "negative_ratings": 13,
+    "price": 1.99,
+    "description": "Defend and attack at same time. In this strategy game you need to capture as many bases as you can. Different type of bases - anti-air guns, turrets, radio tower to call for backup, nuclear silos. 3 different type of units - tanks, apaches and dropships - will be at your disposal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/495570/header.jpg?t=1489537389",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7, Vista, or XP Service Pack 3 Processor: 1 GHz Memory: 1 GB RAM Graphics: OpenGL 2.1 or higher Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

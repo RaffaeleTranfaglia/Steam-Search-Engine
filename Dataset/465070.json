@@ -1,0 +1,46 @@
+{
+    "app_id": 465070,
+    "name": "TRIZEAL Remix",
+    "release_date": "2016-07-07",
+    "developer": [
+        "TRIANGLE SERVICE"
+    ],
+    "publisher": [
+        "Degica"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Shoot 'Em Up",
+        "Bullet Hell"
+    ],
+    "achievements": 14,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 8.99,
+    "description": "Transform or die. TRIZEAL Remix has classic shoot-’em-up style with a refined depth just below the surface. Strategically transform your ship to switch between and upgrade three distinct weapons: a wide shot, a narrow laser, and guided missiles. Shoot with intelligence!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/465070/header.jpg?t=1498143748",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel Atom (Cherry Trail) Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 500 MB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Multicore CPU(Corei series or better) Memory: 1 GB RAM Graphics: GeForce 300 or better Additional Notes: Xbox 360/One controller",
+    "reviews": [
+        {
+            "review_text": "This is a great game that should please most fans of the genre. The game appears simple on the surface but there is lots of depth that slowly reveals itself upon repeated plays. The power up system allows for lots of customization and the stages offer branching paths that open up harder routes for good players. While the scoring system is a much overused chaining system, it 's a rush to build up the medal value and rack up tons of points. This is a very fun game and it's worth every penny to shooter fans.",
+            "review_score": "1"
+        }
+    ]
+}

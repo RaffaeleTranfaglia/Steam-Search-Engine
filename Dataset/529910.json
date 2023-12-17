@@ -1,0 +1,42 @@
+{
+    "app_id": 529910,
+    "name": "ARK Park",
+    "release_date": "2018-03-21",
+    "developer": [
+        "Snail Games"
+    ],
+    "publisher": [
+        "Snail Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Dinosaurs",
+        "VR"
+    ],
+    "achievements": 72,
+    "positive_ratings": 124,
+    "negative_ratings": 99,
+    "price": 31.99,
+    "description": "In ARK Park, engage in close encounters with primal species through a series of theme park attractions. Enter by yourself or with a group of adventurous friends, and witness dinosaurs roaming in the wild with your own eyes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/529910/header.jpg?t=1529982360",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: Intel® Core™ I5-4690K Memory: 16 GB RAM Graphics: GeForce® GTX 970 / AMD equivalent or greater Network: Broadband Internet connection Storage: 25 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: Intel® i7-5960X Memory: 16 GB RAM Graphics: GeForce® GTX 1080 / AMD equivalent or greater Network: Broadband Internet connection Storage: 30 GB available space",
+    "reviews": []
+}

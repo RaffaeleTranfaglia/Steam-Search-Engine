@@ -1,0 +1,43 @@
+{
+    "app_id": 503550,
+    "name": "DYE",
+    "release_date": "2017-02-23",
+    "developer": [
+        "Bat Country Games, LLC"
+    ],
+    "publisher": [
+        "Bat Country Games, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 41,
+    "positive_ratings": 47,
+    "negative_ratings": 11,
+    "price": 3.99,
+    "description": "DYE is a challenging precision platformer where you help Hue rescue Pigments and defeat the nefarious Necrolights in order to restore color to the world! Jump, wall jump and float your way through 4 unique worlds with hundreds of challenges ranging from beginner to advanced level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/503550/header.jpg?t=1501014612",
+    "minimum_requirements": "OS: Windows® 7 / Windows® 8 / Windows® 10 64-bit (latest Service Pack) Processor: Intel® Core™ i3 or higher Memory: 1 GB RAM Graphics: Intel® HD Graphics 4400 or higher Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows® 7 / Windows® 8 / Windows® 10 64-bit (latest Service Pack) Processor: Intel® Core™ i3 or higher Memory: 1 GB RAM Graphics: Intel® HD Graphics 4400 or higher Storage: 600 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 656580,
+    "name": "Claws of Furry",
+    "release_date": "2018-09-04",
+    "developer": [
+        "Terahard Ltd"
+    ],
+    "publisher": [
+        "Terahard Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Punch and claw your way through forty fast paced levels of pure mayhem, while honing your Ninja Cat skills, in order to rescue your Master from the evil claws of an unknown enemy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656580/header.jpg?t=1545313246",
+    "minimum_requirements": "OS: Windows 7 (SP1) Processor: 2.0 Ghz Dual-Core CPU Memory: 1 GB RAM Graphics: ATI Radeon HD 2600 or better / NVIDIA GeForce 8600 or better, 256MB video memory, with Shader Model 2 support DirectX: Version 9.0 Storage: 3600 MB available space Sound Card: DirectSound-compatible sound device Additional Notes: Internet connection is NOT required to play PVE but is required for PVP",
+    "recommended_requirements": "OS: Windows 7 (SP1) / Windows 8.1 / Windows 10 Processor: Intel Core i5 or AMD Quad-Core or better Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 260 or AMD Radeon HD 4770 or better (1GB VRAM) DirectX: Version 12 Storage: 3600 MB available space Sound Card: DirectSound-compatible sound device Additional Notes: Internet connection is NOT required to play PVE but is required for PVP",
+    "reviews": []
+}

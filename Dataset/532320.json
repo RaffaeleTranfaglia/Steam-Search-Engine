@@ -1,0 +1,44 @@
+{
+    "app_id": 532320,
+    "name": "de Blob",
+    "release_date": "2017-04-27",
+    "developer": [
+        "Blue Tongue Entertainment",
+        "Blitworks"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 23,
+    "positive_ratings": 86,
+    "negative_ratings": 4,
+    "price": 17.99,
+    "description": "The evil I.N.K.T. Corporation has declared 'Color is a Crime!' and leeched Chroma City of all its beauty and interest. The race to rescue Chroma City has just begun, and only de Blob can save the world from a black-and-white future with his unique abilities to color the world back to life.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/532320/header.jpg?t=1533042619",
+    "minimum_requirements": "OS: Windows 7 (32 or 64bit), Windows 8, Windows 10 Processor: Dual Core CPU 2.50 GHz Memory: 4 GB RAM Graphics: GeForce 310 with 1 GB VRAM DirectX: Version 11 Storage: 10 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7 (32 or 64bit), Windows 8, Windows 10 Processor: Dual Core CPU 3 GHz Memory: 4 GB RAM Graphics: GeForce 650 with 2 GB VRAM DirectX: Version 11 Storage: 10 GB available space Sound Card: DirectX compatible card",
+    "reviews": []
+}

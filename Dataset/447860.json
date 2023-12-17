@@ -1,0 +1,51 @@
+{
+    "app_id": 447860,
+    "name": "Maria the Witch",
+    "release_date": "2016-03-01",
+    "developer": [
+        "Naps Team"
+    ],
+    "publisher": [
+        "Naps Team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 29,
+    "positive_ratings": 38,
+    "negative_ratings": 21,
+    "price": 3.99,
+    "description": "Zaki&amp;Mia stole all the mails and spread them all over the worlds ! Help Maria to bring them back to their owners !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/447860/header.jpg?t=1490958534",
+    "minimum_requirements": "OS: Windows 7 Processor: 2GHz Dual Core Memory: 1 GB RAM Graphics: ATI or NVidia card w/ 512 MB RAM Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2GHz Dual Core Memory: 1 GB RAM Graphics: ATI or NVidia card w/ 512 MB RAM Storage: 250 MB available space",
+    "reviews": [
+        {
+            "review_text": "Looks can deceive. At first this may look like a children's game but it's difficulty isn't the best possible for a child. 1 hit to the wall and game over. Good game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  A fun game with nice graphics and simple gameplay style.   The controls are quite easy: use a mouse to fly straigt and rotate clockwise or counter-clockwise direction. This requires some time to master but once you learn it its quite easy. One problem I found is that it doesnt work with touchscreen loptops like lenovo yoga or dell inspiron 2 in 1 loptops because they only simulate right click on touch and this game requires to use both left and right mouse buttons repeatedly.   Since this is game is ported from mobile platform to PC the gameplay has some roots in flappy bird as well as other popular mobile games.   Visuals in the game are really good.  Overall 8/10.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 684530,
+    "name": "Lance A Lot: Enhanced Edition",
+    "release_date": "2017-09-28",
+    "developer": [
+        "Brimstone"
+    ],
+    "publisher": [
+        "Brimstone"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 23,
+    "positive_ratings": 43,
+    "negative_ratings": 3,
+    "price": 5.79,
+    "description": "Challenge your friends to a glorious duel of rocket jousting for up to four players! Settle rivalries and become the last knight standing in this fast-paced local multiplayer!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/684530/header.jpg?t=1548158552",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 6100 / AMD Ryzen 3 1200 or equivalent Memory: 4 GB RAM Graphics: Intel HD Graphics 520 or equivalent DirectX: Version 11 Storage: 2 GB available space Additional Notes: Xbox or XInput controllers for each player is recommended (keyboard supports 1 player)",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i5 6600 / AMD Ryzen 5 1400 or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 950 / Radeon R9 280X or equivalent DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

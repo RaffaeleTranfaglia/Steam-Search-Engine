@@ -1,0 +1,40 @@
+{
+    "app_id": 762500,
+    "name": "Rhythm Girl",
+    "release_date": "2018-03-20",
+    "developer": [
+        "Pauline Game"
+    ],
+    "publisher": [
+        "Pauline Game"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4,
+    "positive_ratings": 18,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "Enter the world of music magic book with Kung fu girl and enjoy your travel of music!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/762500/header.jpg?t=1546489525",
+    "minimum_requirements": "OS: Windows® XP Processor: 1GHz Memory: 256 MB RAM Graphics: DirectX 9.0c Compatible Card Storage: 150 MB available space Sound Card: Standard audio",
+    "recommended_requirements": null,
+    "reviews": []
+}

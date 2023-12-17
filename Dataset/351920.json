@@ -1,0 +1,54 @@
+{
+    "app_id": 351920,
+    "name": "Crazy Machines 3",
+    "release_date": "2016-10-18",
+    "developer": [
+        "Fakt Software"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Physics"
+    ],
+    "achievements": 41,
+    "positive_ratings": 3158,
+    "negative_ratings": 130,
+    "price": 7.99,
+    "description": "Crazy Machines 3 is the latest, greatest, most amazing and craziest part of the series and fascinates once more with physic-based puzzles. Build your own crazy machines and share your awesomeness across the world thanks to the Steam® Workshop.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351920/header.jpg?t=1539986672",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 (latest SP) or higher (64-bit versions only) Процессор: 1.8 GHz Dual Core Оперативная память: 4 GB ОЗУ Видеокарта: 512 MB VRAM, DirectX-11 compatible DirectX: Версии 11 Место на диске: 6 GB Звуковая карта: DirectX compatible sound card",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7 (latest SP) or higher (64-bit versions only) Процессор: 2.8 GHz Quad Core Оперативная память: 8 GB ОЗУ Видеокарта: 4 GB VRAM, Nvidia-Geforce 900-Serie or higher; AMD Radeon HD 8000 Series or higher DirectX: Версии 11 Место на диске: 6 GB Звуковая карта: DirectX compatible sound card",
+    "reviews": [
+        {
+            "review_text": "I played the first Crazy Machines as a kid, and spent my time in the editor littering the corkboard with bombs and blowing robots out of the screen. I picked up this game, and now i'm building more elaborate and thoughtful contraptions. Instead of using bombs and robots, I'm building elaborate contraptions with many steps-although the goal is the same. it's still fun as hell to blow unicorns up with gas barrels, make modified trebuchets, etc. A lot of fun all around, definately recommend!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great and fun game.  + Amazing 21:9 monitor support  - Incredible amount of tearing when zooming in and out even with G-sync  11.3/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Game is laggy on my modern PC and corrupts it a little (allways need to error-proof it trough steam or it chrashes) meaning it makes it so unplayable, too because of bugs...sometimes very hard when it's not needed or not clear, even feels unfinished to me... Deadlic won't update it or something...   DO NOT BUY!   ",
+            "review_score": "-1"
+        }
+    ]
+}

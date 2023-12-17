@@ -1,0 +1,50 @@
+{
+    "app_id": 617680,
+    "name": "Drunk-Fu: Wasted Masters",
+    "release_date": "2018-08-17",
+    "developer": [
+        "Rusto"
+    ],
+    "publisher": [
+        "Rusto"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 28,
+    "positive_ratings": 24,
+    "negative_ratings": 7,
+    "price": 6.99,
+    "description": "Drunk-Fu: Wasted Masters is a ludicrous physics based ragdoll brawler with over the top combat, online multiplayer and customizable characters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/617680/header.jpg?t=1534525030",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: DualCore AMD/Intel 2.3 GHz Memory: 4 GB RAM Graphics: AMD Radeon 4850 / Nvidia 8800 GTS 512 Mb or equivalent DirectX: Version 10 Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

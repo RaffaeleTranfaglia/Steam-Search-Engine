@@ -1,0 +1,40 @@
+{
+    "app_id": 747650,
+    "name": "The Padre",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Shotgun with Glitters"
+    ],
+    "publisher": [
+        "Feardemic"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 28,
+    "positive_ratings": 22,
+    "negative_ratings": 1,
+    "price": 15.49,
+    "description": "The Padre is a retro stylised 3D horror adventure game tapping deep into the roots of classic horror games.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/747650/header.jpg?t=1555600780",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 4 GB RAM Graphics: 1 GB VRAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 870750,
+    "name": "SMASH IT",
+    "release_date": "2018-06-20",
+    "developer": [
+        "Cow Corp."
+    ],
+    "publisher": [
+        "Cow Corp."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 3,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "You're a young kid who likes to Smash anything and everything in his path. Smash as many objects as you can to be the worlds best Smasher!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/870750/header.jpg?t=1529505581",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD Turion Dual-Core RM-75 Memory: 1 GB RAM Graphics: Nvidia GeForce GTX 650 Storage: 50 MB available space MB available space Sound Card: M-Audio AV40",
+    "recommended_requirements": null,
+    "reviews": []
+}

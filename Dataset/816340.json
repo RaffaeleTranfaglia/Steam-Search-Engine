@@ -1,0 +1,40 @@
+{
+    "app_id": 816340,
+    "name": "Kingdom Rush Origins",
+    "release_date": "2018-10-17",
+    "developer": [
+        "Ironhide Game Studio"
+    ],
+    "publisher": [
+        "Ironhide Game Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Tower Defense",
+        "Indie"
+    ],
+    "achievements": 83,
+    "positive_ratings": 1116,
+    "negative_ratings": 76,
+    "price": 11.39,
+    "description": "Command your elven army and defend mystical lands from sea serpents, evil sorcerers, and wave after wave of gnoll tribesman, all with the help of brand-spankin’ new towers, heroes, and spells to fend off every last baddie.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/816340/header.jpg?t=1551101556",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: Dual Core CPU Оперативная память: 1 GB ОЗУ Видеокарта: OpenGL 3.0 compliant with 512MB of video RAM. Место на диске: 500 MB",
+    "recommended_requirements": "Рекомендованные: Оперативная память: 2 GB ОЗУ Видеокарта: OpenGL 3.0 compliant with 1.0GB of video RAM.",
+    "reviews": []
+}

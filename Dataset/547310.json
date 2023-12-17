@@ -1,0 +1,39 @@
+{
+    "app_id": 547310,
+    "name": "That's Mahjong!",
+    "release_date": "2016-10-27",
+    "developer": [
+        "TotallyNotReptillian"
+    ],
+    "publisher": [
+        "TotallyNotReptillian"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Touch-Friendly"
+    ],
+    "achievements": 16,
+    "positive_ratings": 55,
+    "negative_ratings": 31,
+    "price": 0.79,
+    "description": "That's Mahjong! is a Solitaire Mahjong tile matching game, where the purpose is to match tiles of the same type, or any two season tiles. How much karma can you gather?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547310/header.jpg?t=1517063400",
+    "minimum_requirements": "OS: Windows XP Processor: Any Dual-Core CPU Memory: 512 MB RAM Graphics: Intel Integrated Graphics DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: A display monitor with a 16:9 resolution is recommended",
+    "recommended_requirements": "OS: Windows 10 Processor: Any Dual-Core CPU Memory: 1 GB RAM Graphics: Any dedicated GPU DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: A display monitor with a 16:9 resolution is recommended",
+    "reviews": []
+}

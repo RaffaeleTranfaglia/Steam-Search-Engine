@@ -1,0 +1,48 @@
+{
+    "app_id": 536630,
+    "name": "Maze Sounds",
+    "release_date": "2016-10-01",
+    "developer": [
+        "AMIDEA Games"
+    ],
+    "publisher": [
+        "AMIDEA Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 15,
+    "positive_ratings": 14,
+    "negative_ratings": 20,
+    "price": 3.99,
+    "description": "Maze sounds is a first-person puzzle game where you must focus on sounds that you hear. This is a labyrinth with invisible walls which produce sounds. These sounds help you to locate the walls.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/536630/header.jpg?t=1475867660",
+    "minimum_requirements": "OS: Windows 7, windows 8.1, windows 10 Processor: Intel Core2Quad Q6600 2,40 GHz Memory: 2 GB RAM Graphics: GeForce GTX 290 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7, windows 8.1, windows 10 Processor: Intel Core i5 3.40GHz Memory: 4 GB RAM Graphics: GeForce GTX 760 Storage: 200 MB available space",
+    "reviews": [
+        {
+            "review_text": "I enjoy the concept but the sound time could be a little better but other than that its alright release a few patches for it and I think I'd recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved the idea, voice-based navigation sounded intriguing. However, some points to consider if you (developers) accept criticism:  - The movement, the very essence of this game, feels uncomfortable. You move too fast and the walls are only hearable once you're very close, so either you crawl your way through or you walk in a normal pace but then headbash into a wall. - The voice indicator itself... They are radio transmissions. It sounded cool for like two minutes, then the constant, ON/OFF buzzing became irritating. Sometimes it started with one big buzzing and my ears died a little. - The voice acting has little to no emotion in it and the 'put as many filters on it as we can to make it sound badass' killed it. In the wrong way. - The menu looks like something you threw together in Unity and GIMP in 15 minutes. Make it more sci-fiish. Check out some typography tips on the internet to make it look more professional.",
+            "review_score": "-1"
+        }
+    ]
+}

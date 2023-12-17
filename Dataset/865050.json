@@ -1,0 +1,38 @@
+{
+    "app_id": 865050,
+    "name": "World of Tea",
+    "release_date": "2018-06-08",
+    "developer": [
+        "Nekyau Games"
+    ],
+    "publisher": [
+        "Nekyau"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 34,
+    "price": 0.79,
+    "description": "World of Tea - a game where you have to take on the role of a teapot, and pour as much boiling water in the cups..",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/865050/header.jpg?t=1528487230",
+    "minimum_requirements": "OS: Windows XP Processor: Intel celeron Memory: 512 MB RAM Graphics: GeForce GTX 480 Storage: 120 MB available space",
+    "recommended_requirements": "OS: Windows 8.1 Processor: Intel core DUO Memory: 1024 MB RAM Graphics: Radeon R7 265 Storage: 120 MB available space",
+    "reviews": []
+}

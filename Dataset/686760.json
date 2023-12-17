@@ -1,0 +1,40 @@
+{
+    "app_id": 686760,
+    "name": "Carpe Diem: Reboot",
+    "release_date": "2017-09-29",
+    "developer": [
+        "Moonlit Works"
+    ],
+    "publisher": [
+        "Moonlit Works"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Visual Novel"
+    ],
+    "achievements": 7,
+    "positive_ratings": 56,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Just because it crashed doesn't mean it's over.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/686760/header.jpg?t=1556431696",
+    "minimum_requirements": "OS: Windows XP SP1 Processor: Pentium 4 1.7 GHz Memory: 128 MB RAM Graphics: Intel integrated chipset Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

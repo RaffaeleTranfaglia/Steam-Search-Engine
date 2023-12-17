@@ -1,0 +1,41 @@
+{
+    "app_id": 701080,
+    "name": "Supersonic Tank Cats",
+    "release_date": "2017-09-20",
+    "developer": [
+        "Molegato"
+    ],
+    "publisher": [
+        "Molegato"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Supersonic Tank Cats is a fast race-and-battle karts game featuring unconventional half-kitty and half-combat vehicles. Move in cartoony racetracks as you use hilarious weapons against your rivals to reach the goal before anyone else.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/701080/header.jpg?t=1536673860",
+    "minimum_requirements": "OS: Windows XP Processor: Intel I5 DirectX: Version 9.0c Storage: 550 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: Intel I7 Graphics: Nvidia Gforce GTX DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

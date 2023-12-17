@@ -1,0 +1,50 @@
+{
+    "app_id": 429220,
+    "name": "FullBlast",
+    "release_date": "2016-01-28",
+    "developer": [
+        "UFO Crash Games"
+    ],
+    "publisher": [
+        "UFO Crash Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 44,
+    "negative_ratings": 15,
+    "price": 4.79,
+    "description": "Blast your way through waves of alien invaders in this retro style shooter with modern visuals. Collect power ups, destroy the enemy ships and defeat the mega bosses in 12 action packed levels. On your own or with a friend in local co-op mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/429220/header.jpg?t=1480155578",
+    "minimum_requirements": "OS: XP Processor: Core Duo Memory: 512 MB RAM Graphics: DirectX 9 compatible card DirectX: Version 9.0 Storage: 200 MB available space Sound Card: 16 bits",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Funny! I play with my son together through the level. Steam need more games like this! Easy controls and much BOOM!",
+            "review_score": "1"
+        }
+    ]
+}

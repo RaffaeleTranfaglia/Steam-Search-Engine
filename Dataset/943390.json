@@ -1,0 +1,37 @@
+{
+    "app_id": 943390,
+    "name": "Pan Panda",
+    "release_date": "2018-10-11",
+    "developer": [
+        "LT"
+    ],
+    "publisher": [
+        "LT"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 123,
+    "negative_ratings": 23,
+    "price": 0.0,
+    "description": "There are pandas. You rescue them and it's kinda like capture the flag I guess.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/943390/header.jpg?t=1539263368",
+    "minimum_requirements": "OS: Windows 7 Processor: i5 Memory: 200 MB RAM Graphics: NVIDIA GeForce GT 540M DirectX: Version 10 Storage: 2 GB available space Additional Notes: Those are just my old laptop's settings",
+    "recommended_requirements": null,
+    "reviews": []
+}

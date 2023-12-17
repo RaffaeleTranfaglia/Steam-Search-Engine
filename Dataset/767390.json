@@ -1,0 +1,46 @@
+{
+    "app_id": 767390,
+    "name": "Dakar 18",
+    "release_date": "2018-09-25",
+    "developer": [
+        "Bigmoon Entertainment"
+    ],
+    "publisher": [
+        "Bigmoon Entertainment",
+        "Deep Silver"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 54,
+    "positive_ratings": 251,
+    "negative_ratings": 152,
+    "price": 39.99,
+    "description": "Based on the world famous annual rally raid organized by Amaury Sport Organisation (A.S.O.) in South America, DAKAR 18 is a realistic simulation of the biggest cross-country rally in the world and features a variety of vehicles, including motorcycles, cars, trucks, quads and SSVs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/767390/header.jpg?t=1553630132",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only) Processor: Intel Core i5-2400s @ 2.5 GHz or AMD FX-6100 @ 3.3 GHz or equivalent Core i3-7340 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 or AMD HD 7870 (2GB VRAM with Shader Model 5.0 or better)",
+    "recommended_requirements": "OS: Windows 10 (64-bit) Processor: Intel Core i5-4690k @ 3.5 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 (6GB) or better",
+    "reviews": []
+}

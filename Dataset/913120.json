@@ -1,0 +1,40 @@
+{
+    "app_id": 913120,
+    "name": "Cat Inside",
+    "release_date": "2018-08-17",
+    "developer": [
+        "SilverBlade"
+    ],
+    "publisher": [
+        "SilverBlade"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 9,
+    "positive_ratings": 7,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "This is a puzzle game .Play as a orange cat to help the little girl...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/913120/header.jpg?t=1555585996",
+    "minimum_requirements": "OS: window 7 Processor: 1GHZ Memory: 2 GB RAM Graphics: OpenGL supported DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: window 7 Processor: 2GHZ Memory: 4 GB RAM Graphics: OpenGL supported DirectX: Version 9.0 Storage: 200 MB available space",
+    "reviews": []
+}

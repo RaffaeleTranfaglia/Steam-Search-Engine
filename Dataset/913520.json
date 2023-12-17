@@ -1,0 +1,39 @@
+{
+    "app_id": 913520,
+    "name": "Gravity Leo",
+    "release_date": "2018-08-31",
+    "developer": [
+        "Eugene Makashov"
+    ],
+    "publisher": [
+        "Dagestan Technology\t"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 31,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Gravity Leo is a 2D platformer based on interesting mechanics and features, the main one of them is the use of gravity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/913520/header.jpg?t=1545060195",
+    "minimum_requirements": "OS: Windows  7 / 8 / 10 Processor: Intel Core 2 Duo (or equivalent) Memory: 1024 MB RAM Graphics: DirectX9 Compatible GPU with 512 MB Video RAM DirectX: Version 9.0 Storage: 80 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

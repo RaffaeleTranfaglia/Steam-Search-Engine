@@ -1,0 +1,49 @@
+{
+    "app_id": 710610,
+    "name": "Don't Sink",
+    "release_date": "2018-04-13",
+    "developer": [
+        "Sebastian Nigro",
+        "Christopher Anselmo",
+        "Daniel Marques"
+    ],
+    "publisher": [
+        "Studio Eris"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Pirates"
+    ],
+    "achievements": 15,
+    "positive_ratings": 104,
+    "negative_ratings": 29,
+    "price": 7.19,
+    "description": "Capture islands, sink ships, defend your towns, and discover an exciting world full of adventure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/710610/header.jpg?t=1533251124",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core 2 Duo or AMD Athlon 64 X2 Memory: 2 GB RAM Graphics: Intel HD 5000 or better DirectX: Version 11 Storage: 250 MB available space Additional Notes: Various integrated graphics cards will not run the game and specific anti-virus programs are known to cause issues",
+    "recommended_requirements": null,
+    "reviews": []
+}

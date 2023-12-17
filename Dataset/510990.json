@@ -1,0 +1,44 @@
+{
+    "app_id": 510990,
+    "name": "LooWarVR",
+    "release_date": "2016-08-11",
+    "developer": [
+        "CrystalGame"
+    ],
+    "publisher": [
+        "CrystalGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "RPG"
+    ],
+    "achievements": 1,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 2.79,
+    "description": "《LooWarVR》 is a casual shooting game, Background, a boy went to his grandpa’s house in summer vocation, in the toilet he got many unexpected visitors- flies. So the battle began. we exaggeratory restored the battle filed just as we are in the toilet shooting the flies when we were young, to help players to remember their childhood .",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510990/header.jpg?t=1483948525",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: Intel(R) Core(TM) i5-4790M CPU @3.60GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 DirectX: Version 11 Storage: 500 MB available space Additional Notes: Requires tracked motion controllers for input",
+    "recommended_requirements": "OS: Windows 7 SP1 Processor: Intel(R) Core(TM) i7-4790M CPU @3.60GHz Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 970 DirectX: Version 11 Storage: 1024 MB available space Additional Notes: Requires tracked motion controllers for input",
+    "reviews": [
+        {
+            "review_text": "wow what a suprisingly great game this thing is well polished and has some of the best 3d effects ive seen so far still figuring a few things out but if they add some stuff like global and friend leaderboards that would be great im really loving the htc vive and the whole 80s coin op vibe reborn and its games like this that will keep me coming back for years to come",
+            "review_score": "1"
+        }
+    ]
+}

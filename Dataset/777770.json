@@ -1,0 +1,42 @@
+{
+    "app_id": 777770,
+    "name": "WAR PARTY",
+    "release_date": "2019-03-28",
+    "developer": [
+        "Warcave",
+        "Crazy Monkey Studios"
+    ],
+    "publisher": [
+        "Warcave",
+        "Crazy Monkey Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RTS",
+        "Base-Building"
+    ],
+    "achievements": 25,
+    "positive_ratings": 174,
+    "negative_ratings": 39,
+    "price": 19.99,
+    "description": "Warparty is a real-time strategy game set in the stone-age era. Build your base, recruit and control a group of soldiers, fight and tame fierce dinosaurs and direct the flow of combat. Proper management of resources, skills and map awareness will lead you to victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777770/header.jpg?t=1554720998",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, Windows 10 (64 bit) Processor: Intel Core i3 or equivalent Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 550 or ATI™ Radeon™ HD 6XXX or higher DirectX: Version 9.0 Storage: 1000 MB available space Additional Notes: Requires a 64-bit processor and operating system",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, Windows 10 (64 bit) Processor: Intel Core i5 or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 770 or AMD R9 280 DirectX: Version 9.0 Storage: 1000 MB available space",
+    "reviews": []
+}

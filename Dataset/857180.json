@@ -1,0 +1,44 @@
+{
+    "app_id": 857180,
+    "name": "The Cooking Game VR",
+    "release_date": "2018-07-13",
+    "developer": [
+        "Play Spirit Limited"
+    ],
+    "publisher": [
+        "Play Spirit Limited"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 25,
+    "negative_ratings": 4,
+    "price": 11.39,
+    "description": "Enjoy the fun and excitement of preparing fast food dishes, competing with rival chef and serving hungry customers! Now you can cook against another player, and compete to see who has higher score on the leaderboard. The game is fully playable in single player and multiplayer PvP mode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/857180/header.jpg?t=1533745681",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 8 GB RAM Graphics: GTX 970 Storage: 2 GB available space Additional Notes: VR-game only",
+    "recommended_requirements": null,
+    "reviews": []
+}

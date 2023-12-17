@@ -1,0 +1,41 @@
+{
+    "app_id": 992070,
+    "name": "Idle Wizard",
+    "release_date": "2019-01-24",
+    "developer": [
+        "TwoWizards"
+    ],
+    "publisher": [
+        "TwoWizards"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Clicker"
+    ],
+    "achievements": 55,
+    "positive_ratings": 108,
+    "negative_ratings": 26,
+    "price": 0.0,
+    "description": "RPG/Idle hybrid about becoming the most powerful wizard there is. Pick a class, get a pet, configure and improve your character in a miriad ways!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/992070/header.jpg?t=1548421856",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 Ghz Memory: 1 GB RAM Graphics: GTX 400 Series or Better Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

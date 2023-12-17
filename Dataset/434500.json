@@ -1,0 +1,48 @@
+{
+    "app_id": 434500,
+    "name": "BATTLE PIXELS",
+    "release_date": "2016-01-14",
+    "developer": [
+        "AppyArt Games"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 38,
+    "negative_ratings": 28,
+    "price": 1.59,
+    "description": "Battle Pixels is a frantic arcade action, point and click shoot 'em up with a 16 bit retro style.Take control of your tanks and eliminate the enemy's turret defences over 25 randomly generated levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/434500/header.jpg?t=1509994037",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Memory: 512 Mo MB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 22 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Terrible i played for only 5 min and it was lagging to the point where i could not do anything getting a refund right now. Do not buy!!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "BATTLE PIXELS its like upgraded version of well know Tanks game. Gameplay very simple, same as from original Tanks - need destroy enemy units and you win round. Great 16-bit retro style and soundtrack (I like it very much). But keep in mind, its hard game, I am failed a lot of levels! Need more practice for me :) Also, the things what I dislike are no support my resolution and force enabling fullscreen after complete levels. In overall nice indie game and worth $1.59 USD for sure.",
+            "review_score": "1"
+        }
+    ]
+}

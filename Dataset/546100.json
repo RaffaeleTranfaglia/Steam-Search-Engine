@@ -1,0 +1,41 @@
+{
+    "app_id": 546100,
+    "name": "BOTOLO",
+    "release_date": "2016-12-15",
+    "developer": [
+        "Ian Snyder"
+    ],
+    "publisher": [
+        "Ian Snyder"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 16,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 10.99,
+    "description": "BOTOLO is a hybrid game of keepaway and king-of-the-hill. BOTOLO is a fast paced mindreading competition. BOTOLO is a dance inside the negative space between your opponent's thoughts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/546100/header.jpg?t=1481824684",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices Memory: 512 MB RAM",
+    "recommended_requirements": null,
+    "reviews": []
+}

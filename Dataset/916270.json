@@ -1,0 +1,41 @@
+{
+    "app_id": 916270,
+    "name": "Fairyland: The Guild",
+    "release_date": "2018-09-07",
+    "developer": [
+        "Naarassusi Game"
+    ],
+    "publisher": [
+        "Naarassusi Publisher"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Hire mercenaries, buy potions, scrolls, and equipment to collect as many coins as possible in the Caves of Elements and get the highest rank.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/916270/header.jpg?t=1536321467",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 2 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU Storage: 250 MB available space",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+    "reviews": []
+}

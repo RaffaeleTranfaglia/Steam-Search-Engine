@@ -1,0 +1,55 @@
+{
+    "app_id": 367140,
+    "name": "Wish Project",
+    "release_date": "2016-03-22",
+    "developer": [
+        "Andrew Willman"
+    ],
+    "publisher": [
+        "Andrew Willman"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Bullet Hell"
+    ],
+    "achievements": 21,
+    "positive_ratings": 40,
+    "negative_ratings": 3,
+    "price": 1.59,
+    "description": "Wish Project is a vertical shoot 'em up that features unique and challenging bullet patterns, 4 difficulties ranging from casual to hardcore, 8 unique playable characters, 6 stages, local co-op, unlockable characters and game modes, and an intuitive scoring system that encourages replay and mastery.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/367140/header.jpg?t=1459976554",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Pentium Dual-Core E2140 Memory: 500 MB RAM Graphics: OpenGL 3.0 Supported DirectX: Version 9.0c Storage: 85 MB available space Sound Card: OpenAL Supported Additional Notes: DirectX is only used for XInput/DirectInput gamepad support.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Wow, this game is actually pretty neat! Gives off those good Touhou vibes as it's the more relaxing type of danmaku, though still quite difficult.  Multiple characters with differing abilities, six meaty stages, multiple difficulty levels, boss rush mode, etc. And the presentation and mechanics are strong, too What's not to love?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "wish project is a pretty good bullethell game. i will summon up this game so far graphics. graphics are a little hit or miss at the moment its gets a 7.5 controls are pretty spot on and it works on keyboard as well it gets a 8.5. sound the sound is pretty much the best thing to come out of this game it gets a 9.5 challenge try mastering the 6 charactors on easy normal or hard each charactor has there strengh and weakness to help you master this game it gets a 8.5.  recommend. it is a pretty good bullethell game the graphic are good like i said the graphic are a little hit or miss at the moment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is favourite game. best cash money ever spent.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 858760,
+    "name": "Scalak",
+    "release_date": "2018-05-22",
+    "developer": [
+        "Hamster On Coke Games"
+    ],
+    "publisher": [
+        "Hamster On Coke Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 2,
+    "positive_ratings": 317,
+    "negative_ratings": 5,
+    "price": 1.69,
+    "description": "Fulfilling puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/858760/header.jpg?t=1527005972",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 Memory: 1 GB RAM Graphics: Intel Iris",
+    "recommended_requirements": "OS: Windows 7 Processor: i7 Memory: 1 GB RAM Graphics: 1080Ti :)",
+    "reviews": []
+}

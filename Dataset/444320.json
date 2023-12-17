@@ -1,0 +1,48 @@
+{
+    "app_id": 444320,
+    "name": "Jumpix Jump",
+    "release_date": "2016-02-15",
+    "developer": [
+        "Seaside Digital Arts"
+    ],
+    "publisher": [
+        "Seaside Digital Arts"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 23,
+    "price": 2.79,
+    "description": "Enter Jumpix Jump adventures, solve jumping puzzles, try to gather all diamonds and find the entrance to next level!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/444320/header.jpg?t=1455525950",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Dual Core 2GHz Memory: 1 GB RAM Graphics: 1GB DirectX 9.0c DirectX: Version 9.0c Storage: 2 GB available space Sound Card: Any DirectX Compatible",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 Memory: 2 GB RAM Graphics: 2GB DirectX 12 DirectX: Version 12 Storage: 2 GB available space Sound Card: Any DirectX Compatible",
+    "reviews": [
+        {
+            "review_text": "I only like this because there's a bunny with a cute waggly tail. Other than that, this sucks. Another fullscreen game where the mouse is not constrained to the window/monitor. So yeah, have fun moving the camera and tabbing yourself out. Also controls are not clearly listed ingame, only in the Unity launcher. Yay. Music is meh, animations of dancing on main menu has random jerkiness that returns the model to the origin point.  Needs some serious work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Jumpix (FOR THE LOVE OF GOD) Jump is the best 3D platformer ever made.",
+            "review_score": "1"
+        }
+    ]
+}

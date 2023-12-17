@@ -1,0 +1,40 @@
+{
+    "app_id": 1004030,
+    "name": "Rhythm Overdrive",
+    "release_date": "2019-02-25",
+    "developer": [
+        "Fist Production"
+    ],
+    "publisher": [
+        "Fist production"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Rhythm"
+    ],
+    "achievements": 29,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Rhythm Overdrive is a shootem up / rhythm game, where ennemies are trying to kill you while dancing on the musics BPM ! Collect power ups to enhance your weapons, use bombs to clean the screen from all the ennemies, and try to get the first places on the leaderboards !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1004030/header.jpg?t=1551119992",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 4 GB RAM Graphics: 5 years old card DirectX: Version 10 Storage: 215 MB available space Sound Card: Any Additional Notes: You'll need an internet connection if you want to submit your scores to the leaderboards",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: 5 years old card DirectX: Version 10 Storage: 215 MB available space Sound Card: Any Additional Notes: You'll need an internet connection if you want to submit your scores to the leaderboards",
+    "reviews": []
+}

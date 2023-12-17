@@ -1,0 +1,45 @@
+{
+    "app_id": 678800,
+    "name": "SAS: Zombie Assault 4",
+    "release_date": "2017-10-16",
+    "developer": [
+        "Ninja Kiwi"
+    ],
+    "publisher": [
+        "Ninja Kiwi"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "In-App Purchases",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "Multiplayer",
+        "Zombies"
+    ],
+    "achievements": 59,
+    "positive_ratings": 2086,
+    "negative_ratings": 501,
+    "price": 0.0,
+    "description": "Purge the undead! Intense action-shooter with deep rpg elements, including upgradeable guns and armor, unique class skills, and class special abilities. Entire game can be played single player or as a 4-player online co-op game, including PvP events like Last Man Standing.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/678800/header.jpg?t=1515511351",
+    "minimum_requirements": "OS: Windows 7 (32 &amp; 64bit) Processor: 2GHz or better Memory: 1024 MB RAM Graphics: OpenGL 2.0 compatible, ATI, Nvidia or Intel HD Storage: 512 MB available space Sound Card: Windows compatible sound card",
+    "recommended_requirements": "OS: Windows 10 (32 &amp; 64bit) Processor: 2.5GHz or better Memory: 1024 MB RAM Graphics: OpenGL 2.0 compatible, ATI, Nvidia or Intel HD Storage: 512 MB available space Sound Card: Windows compatible sound card",
+    "reviews": []
+}

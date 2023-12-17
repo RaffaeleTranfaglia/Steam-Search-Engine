@@ -1,0 +1,44 @@
+{
+    "app_id": 977570,
+    "name": "The Experiment: Escape Room",
+    "release_date": "2018-11-22",
+    "developer": [
+        "OnSkull Games"
+    ],
+    "publisher": [
+        "OnSkull Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4,
+    "positive_ratings": 36,
+    "negative_ratings": 21,
+    "price": 2.89,
+    "description": "&quot;The Experiment&quot; is a multiplayer escape room puzzle game for virtual reality or desktop PC! You took part in an experiment that went out of control, can you escape the facilities before it's too late?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/977570/header.jpg?t=1555591272",
+    "minimum_requirements": "OS: Windows 7+ (64bit) Processor: Intel i3 / AMD FX series or equivalent Memory: 6 GB RAM Graphics: Nvidia 450 / AMD equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: For Non-VR players",
+    "recommended_requirements": "OS: Windows 7+ (64bit) Processor: Intel i5 4650 / AMD FX-8320 or equivalent Memory: 8 GB RAM Graphics: Nvidia 970/AMD 390 or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: For VR players",
+    "reviews": []
+}

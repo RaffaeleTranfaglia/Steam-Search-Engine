@@ -1,0 +1,45 @@
+{
+    "app_id": 509570,
+    "name": "In Celebration of Violence",
+    "release_date": "2018-02-15",
+    "developer": [
+        "Julian Edison"
+    ],
+    "publisher": [
+        "Julian Edison"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 86,
+    "positive_ratings": 229,
+    "negative_ratings": 25,
+    "price": 5.59,
+    "description": "A fantasy action roguelike of exploration and murder. Live, kill, die, improve, live again.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509570/header.jpg?t=1521611425",
+    "minimum_requirements": "OS: 7 Processor: Athlon II X3 @ 3.20GHz Memory: 2 GB RAM Graphics: AMD Radeon HD 5570 Storage: 350 MB available space Sound Card: Nay! Additional Notes: It requires more than you'd think. I suck at optimization.",
+    "recommended_requirements": "OS: 10 Memory: 4 GB RAM Storage: 350 MB available space Sound Card: The most expensive one.",
+    "reviews": []
+}

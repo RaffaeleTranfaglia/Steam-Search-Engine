@@ -1,0 +1,43 @@
+{
+    "app_id": 254300,
+    "name": "Dofus",
+    "release_date": "2016-11-15",
+    "developer": [
+        "Ankama Studio"
+    ],
+    "publisher": [
+        "Ankama Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Co-op",
+        "Online Co-op",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Massively Multiplayer",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 1448,
+    "positive_ratings": 264,
+    "negative_ratings": 102,
+    "price": 0.0,
+    "description": "A VAST WORLD JUST WAITING TO BE DISCOVERED! Touchdown in the World of Twelve and set off on a great adventure in DOFUS - an original massively multiplayer online role playing universe where humor goes hand in hand with action-packed, tactical battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/254300/header.jpg?t=1527596741",
+    "minimum_requirements": "OS: Windows XP SP3 or higher Processor: Pentium IV 2.8 GHz or equivalent Memory: 1 GB RAM Network: Broadband Internet connection Additional Notes: OpenGL 1.3",
+    "recommended_requirements": "OS: Windows XP SP3 or higher Processor: Intel Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: GeForce 4Ti or equivalent Network: Broadband Internet connection Additional Notes: OpenGL 1.3",
+    "reviews": []
+}

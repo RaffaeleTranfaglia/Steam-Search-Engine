@@ -1,0 +1,38 @@
+{
+    "app_id": 440770,
+    "name": "Drawn Story",
+    "release_date": "2016-02-11",
+    "developer": [
+        "Vitaly Rekubratskiy"
+    ],
+    "publisher": [
+        "Vitaly Rekubratskiy"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "Play as an artist looking at a painted world. You're able to create new items in this world by simply drawing them. Use your own imagination to lead a stickman character through a variety of puzzles by drawing things he can use. There’s always a few ways to solve each puzzle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/440770/header.jpg?t=1525619331",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 1,4 GHz or higher Memory: 2 GB RAM Graphics: with OpenGL 2.0 support Storage: 500 MB available space Additional Notes: Playing with a touchpad is not recommended! Please use a mouse or a touchscreen",
+    "recommended_requirements": null,
+    "reviews": []
+}

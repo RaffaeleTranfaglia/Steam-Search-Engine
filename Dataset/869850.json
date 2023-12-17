@@ -1,0 +1,38 @@
+{
+    "app_id": 869850,
+    "name": "Jet Ant",
+    "release_date": "2019-01-09",
+    "developer": [
+        "TK"
+    ],
+    "publisher": [
+        "TK"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 6,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 1.1,
+    "description": "A challenging platformer from a macro world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/869850/header.jpg?t=1547054574",
+    "minimum_requirements": "OS: Windows Processor: Intel Core i3 3227U or AMD E2-1800 or equivalent Memory: 2 GB RAM Graphics: Intel HM76 Express or AMD integrated equivalent DirectX: Version 9.0 Storage: 350 MB available space",
+    "recommended_requirements": "Memory: 3 GB RAM",
+    "reviews": []
+}

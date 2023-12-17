@@ -1,0 +1,51 @@
+{
+    "app_id": 360850,
+    "name": "Electric Circuit",
+    "release_date": "2015-06-22",
+    "developer": [
+        "Dubrovkin Sergei"
+    ],
+    "publisher": [
+        "Dubrovkin Sergei"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 16,
+    "positive_ratings": 33,
+    "negative_ratings": 9,
+    "price": 1.59,
+    "description": "Logical game, where you have to connect all the light bulbs to the power supply.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360850/header.jpg?t=1482505785",
+    "minimum_requirements": "OS: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10 Processor: 1.0 Ghz DirectX: Version 9.0c Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is actually quite entertaining. Some of the puzzles provide a good challenge, and each puzzle seems to be procedurally generated which makes it likely that you'll never encounter the same puzzle twice.  I would like to see a reset button on the level that resets the level back to how it was when it was generated. Currently if you go back to the menu and back into the puzzle, a new puzzle will be generated and the previous puzzle will be lost.  Puzzles are always good for the brain, and for the price you can't beat it.  Since it was just released today and has room for improvement, I'll give it a solid 7/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "🌟🌟🌟🌟",
+            "review_score": "1"
+        }
+    ]
+}

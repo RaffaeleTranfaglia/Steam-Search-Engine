@@ -1,0 +1,46 @@
+{
+    "app_id": 424000,
+    "name": "Project Pulsation",
+    "release_date": "2015-12-15",
+    "developer": [
+        "VGstudio"
+    ],
+    "publisher": [
+        "VGstudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "FPS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 56,
+    "negative_ratings": 85,
+    "price": 3.99,
+    "description": "Project Pulsation - a sci-fi first person shooter with elements of horror and stealth. The distant space station 'Complex' located nearby Thanatos Asteroid keeps a valuable Artifact. Fight your way through turrets, unknown creatures and mysterious ghosts, survive and try to get back.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/424000/header.jpg?t=1503009084",
+    "minimum_requirements": "OS: Windows Vista, 7,8,10 Processor: Core i3, 2.10 GHz Memory: 4 GB RAM Graphics: nVidia GeForce 610M 1 gb ram DirectX: Version 10 Storage: 5 GB available space Sound Card: The sound device compatible with DirectX® 9",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: Core i7, 3820  3.6 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX или AMD Radeon 6870 HD or better (3gb ram) DirectX: Version 11 Storage: 5 GB available space Sound Card: The sound device compatible with DirectX® 9",
+    "reviews": [
+        {
+            "review_text": "The sound and level design of this game is an insult. I get it, it's a game made by one man, but instead of doing things he doesn't know jack about, maybe he should've delegate.  The sound design of this game, or the lack of it makes you feel crippled all the time and leaves you constantly questioning your hardware. Even worse — it gives you no audial feedback whatsoever. You somehow supposed to stomach the fact, that you make no sounds, apart from reloading. What is it? A feature? No one can hear your scream in space? Yeah right, lazy sound design more like it.   The level design is absolutely terrible, I had no a slightest clue which of the locations I've visited and which are new. And don't get me started on crouching in this game or UI for that matter.  This thing should be free as any proof of concept. Though I fail to grasp what concept this one was supposed to proof because it proved none I feel appropriate to mention.  Granted, I played only 9 minutes, but I fail to see how it could get better from such a start. So if you like me was after something like System Shock or say Dead Effect, forget about it. This thing is more along the lines of EYE or whatever that convoluted thing was called, but worse on any level.  Buy Dead Effect instead, which deserves extra attention even if it looks ugly (the main reason why I gave this one a shot).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really liked the atmosphere on this one. Sort of early 8-bit era kind of storytelling where you don't really understand what's going on from time to time, but as a whole it makes a mesmerising picture. The graphics are pretty cool (haven't played too many games on U4 yet, but this one looks really nice). The ambient sounds are great imo, help to build the pressure a lot. But yeah, the not so great part is that the game lacks technical polish. The main menu looks like a dev version and sometimes during the game you don't understand what's happening at all, which can add to the atmosphere a bit, seeing this is a horror game and all, but for modern games you have to have more clarity in terms of gameplay mechanics. Overall I think it's a pretty interesting game for its price, but I really hope author will address some of the technical issues it has.",
+            "review_score": "1"
+        }
+    ]
+}

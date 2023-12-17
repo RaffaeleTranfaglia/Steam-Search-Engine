@@ -1,0 +1,57 @@
+{
+    "app_id": 276750,
+    "name": "Fritz Chess 14",
+    "release_date": "2014-09-22",
+    "developer": [
+        "ChessBase"
+    ],
+    "publisher": [
+        "Viva Media"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Chess",
+        "Strategy",
+        "Board Game"
+    ],
+    "achievements": 0,
+    "positive_ratings": 54,
+    "negative_ratings": 23,
+    "price": 29.99,
+    "description": "FRITZ CHESS 14! The Ultimate Chess SoftwarePlay against FRITZ or play online at playchess.comFRITZ CHESS 14 is the most comprehensive chess program in the world. Whether you are new to the game or a Grandmaster, FRITZ 14 is suitable for all skill levels!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/276750/header.jpg?t=1472152634",
+    "minimum_requirements": "OS: Windows® XP, Windows Vista®, Windows® 7, Windows® 8 Processor: Pentium processor (or equivalent AMD® processor) 2.0 GHz or faster Memory: 512 MB RAM Graphics: DirectX® compatible video card DirectX: Version 9.0c Storage: 1050 MB available space Sound Card: DirectX® compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I first met Fritz many years ago when it was the talking chess program and was mentioned together with Kasparov in New in Chess - Yes he was actually playing back then.   User interface is a bit nicer but really no major improvements. Included multimedia is aimed at beginners. Some more games commented by a stong player would be nice (remember the Karpov comments with (I think) chessmaster 3000?). The engine is still terribly strong for a measely human like me.   It's still just Fritz - a strong program with nice database options - both for reference and for storing your own games.  Is it a good buy? Well if you just want a chess program and a database then you should probably look at free options on the internet. But if you want to play at  Playchess.com  and use their material then it looks like a good deal because of the 6 months included membership. Should you consider upgrading with the DLC for 'Deep Fritz'? - well are you a superstrong chess player? I'm not so I wont. In fact I'm very happy with the chance to get Fritz+playchess for a good price and I dont miss 'Deep multicore etc.' options.   For reference I'm a 'hobby' player with an Elo rating around 1900.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fritz 14 is an excellent, if confusing, piece of chess software. The mileage you get out of Fritz equals the amount of work you put into learning how to utilize its interface. If you want a simple chess program that is both aestheticly pleasing and fun to play against there are better options than Fritz. However, if you are looking for a robust program to analyze your chess games in minute detail, Fritz is perfect.  The built in chess engines are moderately powerful and sufficient for most players. Deep Fritz 14 is available as DLC if you want an engine that can fully utilize more powerful hardware. There are also more powerful (and free) engines readily available online that plug into the Fritz GUI with little trouble. I have personally been using Stockfish 5 and it has been working perfectly.  If you want to improve your chess game there are few tools I have encountered more valuable than Fritz.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an excellent chess analysis tool. Perfect choice for those trying to actually improve their play in chess and those who actually receive the mental benefits from playing. Not for the average lichess or  chess.com  player.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The user interface or engine is somewhat buggy but has potential. Fritz 11 SE seems to be the only engine included. The advertised Fritz 14 engine appear to be missing. I know Chessbase since 20+ years and expect them to fix the problem. For now, view this as Early Access.  Update: Looks like the Fritz 14 engine is now available though it did not install automatically.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So I'm not working at this time. Needed something to do . I decided to brush up my chess skills with Fritz. After buying and having my money refunded, thanks, I decided to tell you chess software has regressed . This is a 40 dollar piece of software. The graphics are from dos 3.2 . My Windoes 98 software was far better(Power chess). The game locks up like nobodies business. This is one bad game. Thank you Steam for the refund&gt; I'll try to buy again someday",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 571430,
+    "name": "Drone Hero",
+    "release_date": "2018-05-14",
+    "developer": [
+        "Neuston AB"
+    ],
+    "publisher": [
+        "Neuston AB"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Feel like the world's best drone pilot! Designed for VR but also supports a regular screen with keyboard/gamepad.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/571430/header.jpg?t=1526294682",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: CPU Intel i5-4590 Memory: 4 GB RAM Graphics: NVIDIA GTX 970 Storage: 300 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

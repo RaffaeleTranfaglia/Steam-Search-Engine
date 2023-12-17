@@ -1,0 +1,40 @@
+{
+    "app_id": 698410,
+    "name": "Ski Hard: Lorsbruck 1978",
+    "release_date": "2018-02-09",
+    "developer": [
+        "Odd Chamber"
+    ],
+    "publisher": [
+        "Odd Chamber"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 6.19,
+    "description": "Minimalist retro skiing. Hard. Physics based. Occasionally infuriating.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/698410/header.jpg?t=1518532247",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 or equivalent Memory: 4 GB RAM Graphics: Dedicated graphics card recommended Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 2Ghz or greater Memory: 4 GB RAM Graphics: Nvidia GTX 760, AMD R9 360 or greater Storage: 200 MB available space Additional Notes: Nvidia GTX 970 or greater required for 4k @ 60 fps",
+    "reviews": []
+}

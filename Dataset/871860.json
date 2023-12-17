@@ -1,0 +1,42 @@
+{
+    "app_id": 871860,
+    "name": "Allergenium",
+    "release_date": "2018-10-26",
+    "developer": [
+        "OSA Studio"
+    ],
+    "publisher": [
+        "OSA Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 51,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 5.99,
+    "description": "Allergenium it’s not a typical survival game. The world created has a unique aspect which has destroyed most of the humanity. You're one of the few who survived the new face of destruction – ALLERGY!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/871860/header.jpg?t=1548797992",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.4 GHz Memory: 4 GB RAM Graphics: 1 GB Dedicated Memory DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 8.1 / 10 Processor: 3.0 GHz Memory: 8 GB RAM Graphics: 2 GB Dedicated Memory DirectX: Version 11 Network: Broadband Internet connection Storage: 400 MB available space",
+    "reviews": []
+}

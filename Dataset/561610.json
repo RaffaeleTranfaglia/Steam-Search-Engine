@@ -1,0 +1,44 @@
+{
+    "app_id": 561610,
+    "name": "MotoGP™17",
+    "release_date": "2017-06-15",
+    "developer": [
+        "Milestone S.r.l."
+    ],
+    "publisher": [
+        "Milestone S.r.l."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "achievements": 35,
+    "positive_ratings": 201,
+    "negative_ratings": 89,
+    "price": 29.99,
+    "description": "Prepare yourself for the adrenaline of the 2017 MotoGP™!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561610/header.jpg?t=1506590747",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows® 7 SP1 / Windows® 8 / Windows® 8.1 / Windows® 10 Processor: Intel i5 2500K 3.3GHz / AMD Phenom II X4 850 or equivalent Memory: 4 GB RAM Graphics: GeForce GT 640 / Radeon HD 6670  1GB* DirectX: Version 10 Storage: 33 GB available space Sound Card: DirectX compatible Additional Notes: *Laptop versions of graphics cards may work but are not officially supported.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows® 7 SP1 64-Bit / Windows® 8 64-Bit / Windows® 8.1 64-Bit / Windows® 10 Processor: Intel Core i5 4670K 3.4 GHz / AMD FX-9590 4.7 GHz or equivalent Memory: 8 GB RAM Graphics: GeForce GTX 970 / AMD Radeon R9 390 4GB* DirectX: Version 11 Storage: 33 GB available space Sound Card: DirectX compatible Additional Notes: *Laptop versions of graphics cards may work but are not officially supported.",
+    "reviews": []
+}

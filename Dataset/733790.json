@@ -1,0 +1,39 @@
+{
+    "app_id": 733790,
+    "name": "Not Tonight",
+    "release_date": "2018-08-17",
+    "developer": [
+        "PanicBarn"
+    ],
+    "publisher": [
+        "No More Robots"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "RPG",
+        "Point & Click"
+    ],
+    "achievements": 15,
+    "positive_ratings": 461,
+    "negative_ratings": 88,
+    "price": 15.49,
+    "description": "Person of European Heritage #112: Welcome to Relocation Block B, your new home. Your designated role is 'Bouncer'. Work hard, stay out of trouble, and we might let you stay in the UK.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/733790/header.jpg?t=1549300009",
+    "minimum_requirements": "OS: Windows 8 or later Processor: Intel Core i5 Memory: 2 GB RAM Graphics: Nvidia Geforce GTX 550/equivalent or higher DirectX: Version 10 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: High-range Intel Core i5 Memory: 4 GB RAM Graphics: Nvidia Geforce GTX 760/equivalent or higher DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

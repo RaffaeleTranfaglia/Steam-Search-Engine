@@ -1,0 +1,38 @@
+{
+    "app_id": 840980,
+    "name": "Exoder",
+    "release_date": "2018-04-23",
+    "developer": [
+        "Fever Dream Gameworks"
+    ],
+    "publisher": [
+        "Fever Dream Gameworks"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 9,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "Exoder is a frantic, fast paced, 2D, action platformer that will test your skills of reflex, resilience, patience and determination.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840980/header.jpg?t=1550466710",
+    "minimum_requirements": "OS: Windows 7+ Processor: AMD A10-5700 APU with Radeon HD Graphics 3.4 GHz Memory: 4 MB RAM Storage: 370 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 451650,
+    "name": "Whirligig VR Media Player",
+    "release_date": "2016-04-03",
+    "developer": [
+        "Philip Day"
+    ],
+    "publisher": [
+        "Philip Day"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "VR Support",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Utilities",
+        "Video Production",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Video Production",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 244,
+    "negative_ratings": 64,
+    "price": 2.79,
+    "description": "Whirligig is a VR media player for the playback and viewing of video files and images. It support a wide range of projection types, render paths and has many other features to make your experience as enjoyable as possible.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/451650/header.jpg?t=1526994856",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-3340, AMD FX 8350 equivalent or better Memory: 4 MB RAM Graphics: Nvidia GeForce GTX 660, AMD Radeon R9 290 equivalent or better Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590, AMD FX 8350 equivalent or better Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 300 MB available space",
+    "reviews": []
+}

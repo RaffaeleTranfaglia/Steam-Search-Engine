@@ -1,0 +1,40 @@
+{
+    "app_id": 888630,
+    "name": "Another Sight",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Lunar Great Wall Studios"
+    ],
+    "publisher": [
+        "Fish Eagle"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 21,
+    "positive_ratings": 69,
+    "negative_ratings": 9,
+    "price": 15.99,
+    "description": "A teenager who has lost her sight and a mysterious cat team up in a surreal fantasy adventure into the unexpected, weaving a tale that brings together some of the world’s greatest minds: Monet, Tesla, Edison and other historical cultural icons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/888630/header.jpg?t=1540975636",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Requires a 64-bit processor and operating system Processor: Quad-core Intel or AMD processor, 2.0 GHz or faster Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 470 / AMD Radeon HD 6870 or higher DirectX: Version 11 Storage: 10 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Requires a 64-bit processor and operating system Processor: Intel Core i5 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 660 / Radeon HD 7770 DirectX: Version 11 Storage: 10 GB available space",
+    "reviews": []
+}

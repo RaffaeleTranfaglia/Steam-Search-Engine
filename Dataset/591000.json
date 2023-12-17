@@ -1,0 +1,43 @@
+{
+    "app_id": 591000,
+    "name": "Deep Sixed",
+    "release_date": "2018-02-12",
+    "developer": [
+        "LRDGames, Inc."
+    ],
+    "publisher": [
+        "LRDGames, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 18,
+    "positive_ratings": 71,
+    "negative_ratings": 9,
+    "price": 10.29,
+    "description": "Deep Sixed is a roguelike space sim that will force you to use strategy, ingenuity and duct tape to keep your ship (and your skull) in one piece as you risk exploring a mysterious nebula protected by dangerous alien creatures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/591000/header.jpg?t=1553818115",
+    "minimum_requirements": "Besturingssysteem: Windows 7 or later Processor: 1.6 GHz Geheugen: 2 GB RAM Grafische kaart: OpenGL 2.1+ compatible, 1GB Video Ram Opslagruimte: 1200 MB beschikbare ruimte Aanvullende opmerkingen: Minimum display resolution: 1280x720",
+    "recommended_requirements": null,
+    "reviews": []
+}

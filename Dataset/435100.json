@@ -1,0 +1,40 @@
+{
+    "app_id": 435100,
+    "name": "2Dark",
+    "release_date": "2017-03-10",
+    "developer": [
+        "Gloomywood"
+    ],
+    "publisher": [
+        "Bigben Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Horror"
+    ],
+    "achievements": 15,
+    "positive_ratings": 155,
+    "negative_ratings": 47,
+    "price": 18.99,
+    "description": "2Dark is a stealth adventure game developed by Frédérick Raynal, the pioneer of survival horror games and creator of Alone in the Dark®. Make your way through the lairs of psychopaths, unravel intrigue where madness mingles with horror, and, above all, save the kids!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/435100/header.jpg?t=1536738245",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: Intel Core i3-530, 2.93 GHz Memory: 2 GB RAM Graphics: Nvidia Geforce GT 9800 / ATi Radeon HD 4870 Storage: 1 GB available space Sound Card: Yes",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel Core i3-4130, 3.2 GHz Memory: 2 GB RAM Graphics: Nvidia Geforce GTX 750 / ATi Radeon R7 260X Storage: 1 GB available space Sound Card: Yes",
+    "reviews": []
+}

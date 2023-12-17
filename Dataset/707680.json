@@ -1,0 +1,39 @@
+{
+    "app_id": 707680,
+    "name": "Slapshot",
+    "release_date": "2019-03-08",
+    "developer": [
+        "Glacier Labs"
+    ],
+    "publisher": [
+        "Glacier Labs"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 517,
+    "negative_ratings": 138,
+    "price": 0.0,
+    "description": "Slapshot is an online multiplayer game where you and 5 other players play a game of hockey. The game is physics-based, so teamwork and crisp passing are essential to win. Play with your friends or team up with other Slapshot players!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/707680/header.jpg?t=1553353491",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium 4 Memory: 4 GB RAM Graphics: Intel HD 4000 Network: Broadband Internet connection Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i3 or higher Memory: 8 GB RAM Graphics: AMD R9 270 Network: Broadband Internet connection Storage: 250 MB available space",
+    "reviews": []
+}

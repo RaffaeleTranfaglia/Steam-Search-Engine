@@ -1,0 +1,46 @@
+{
+    "app_id": 340480,
+    "name": "Project Green Beat",
+    "release_date": "2015-01-16",
+    "developer": [
+        "SeattleEgg"
+    ],
+    "publisher": [
+        "Indie Game - None"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 32,
+    "positive_ratings": 12,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Inspired by the demoscene, each of Project Green Beat’s unique levels merge stunning visuals with high energy rhythms to create a truly unique music-based rail shooter. It is a fully immersive experience where the music inspires the visuals and drives the flow of motion.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340480/header.jpg?t=1455689442",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1.5 GHz processor Memory: 2 GB RAM Graphics: UE3 capable graphics card (shader model 3.0 minimum) DirectX: Version 9.0c Storage: 1200 MB available space Sound Card: DirectSound compat",
+    "recommended_requirements": "OS: Windows 7 Processor: 2 GHz processor Memory: 4 GB RAM Graphics: Geforce GT 740 or comparable DX11 graphics card DirectX: Version 9.0c Storage: 1200 MB available space Sound Card: DirectSound compat",
+    "reviews": [
+        {
+            "review_text": "The developers utilized their demoscene skillset to create a really polished leaderboard chaser that requires skill and cunning to crush the high scores.",
+            "review_score": "1"
+        }
+    ]
+}

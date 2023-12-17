@@ -1,0 +1,43 @@
+{
+    "app_id": 434530,
+    "name": "Flobe",
+    "release_date": "2016-02-22",
+    "developer": [
+        "Skinny Jean Death Studios",
+        "Porcelain Labs"
+    ],
+    "publisher": [
+        "Forever Humble PDX"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 25,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Forever Humble PDX via Skinny Jean Death Studios in collaboration with Porcelin Labs, presents FLOBE, an unique game with an emphasis on quick pick &amp; play action and casually intense gameplay! Use both analog sticks to control the blue line's position and length!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/434530/header.jpg?t=1463623352",
+    "minimum_requirements": "OS: Windows XP+ Graphics: DX9 (shader model 2.0) capabilities DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

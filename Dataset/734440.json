@@ -1,0 +1,39 @@
+{
+    "app_id": 734440,
+    "name": "Black Moon 黑月",
+    "release_date": "2018-08-01",
+    "developer": [
+        "理想乡开拓者"
+    ],
+    "publisher": [
+        "理想乡开拓者"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 47,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "A suspense puzzle game that explores scenes, collects objects, solves puzzles, and cracks well-designed organ puzzles. There are different endings depending on the player's choice of branch.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/734440/header.jpg?t=1545548380",
+    "minimum_requirements": "OS: Microsoft Windows XP Processor: Intel Pentium 4 2.4GHz Memory: 512 MB RAM Graphics: Intel HD Graphics 2000 DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows 7 Processor: Intel Core 2 Duo E8200 Memory: 1 GB RAM Graphics: NVIDIA GeForce GT 620 DirectX: Version 9.0 Storage: 500 MB available space",
+    "reviews": []
+}

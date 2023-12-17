@@ -1,0 +1,46 @@
+{
+    "app_id": 632840,
+    "name": "CYBER VR",
+    "release_date": "2017-08-31",
+    "developer": [
+        "DAR Studio"
+    ],
+    "publisher": [
+        "DAR Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Trading Cards",
+        "Captions available",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 8,
+    "price": 10.99,
+    "description": "It is a multiplayer dynamic shooter in virtual reality with high-quality graphics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/632840/header.jpg?t=1505065441",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 980 Ti Network: Broadband Internet connection Storage: 5 GB available space",
+    "reviews": []
+}

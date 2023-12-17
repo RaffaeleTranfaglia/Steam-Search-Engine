@@ -1,0 +1,974 @@
+{
+    "app_id": 210970,
+    "name": "The Witness",
+    "release_date": "2016-01-26",
+    "developer": [
+        "Thekla, Inc."
+    ],
+    "publisher": [
+        "Thekla, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Puzzle",
+        "Exploration",
+        "First-Person"
+    ],
+    "achievements": 2,
+    "positive_ratings": 6572,
+    "negative_ratings": 1282,
+    "price": 29.99,
+    "description": "You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/210970/header.jpg?t=1515716902",
+    "minimum_requirements": "最低: OS: Windows 7 プロセッサー: 1.8GHz メモリー: 4 GB RAM グラフィック: Intel HD 4000 series DirectX: Version 10 ストレージ: 5 GB 利用可能",
+    "recommended_requirements": "推奨: OS: Windows 7 プロセッサー: 2.4GHz メモリー: 8 GB RAM グラフィック: GeForce 780 DirectX: Version 10 ストレージ: 5 GB 利用可能",
+    "reviews": [
+        {
+            "review_text": "  Where Portal has humor and The Talos Principe has philisophy, The Witness has exploration.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best way I've ever found of reminding myself how dumb I am.  Many puzzles require a kind of lateral thinking which is incredibly satisfying when you work out the correct approach and suddenly realise what seemed impossible is trivial. It's frequently frustrating and unforgiving, and if you're not good at mental spacial transformation tasks then it'll be much harder still, but the lack of hand-holding and incredible level of challenge serve to make it more satisfying.  Finding an especially clever solution or approach can actually make you *gasp*.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like challenging puzzle games, and have patience when you can't solve a puzzle immediately, The Witness is very rewarding and highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  A game about understanding puzzles rather than just solving them. If you have a craving to know why a puzzle works like it does, you will like this game. If you however only seek to do puzzles just to solve them, this is not it.  Some win/lose aspects about the game are sound based puzzles as I myself have bad hearing. As figured they weren't any puzzles I could enjoy.  There are also some puzzles that shift colours like you are on LSD. They are few but they are there.  The game feels rewarding as you play it but sadly does not have any satisfying endings. Achievements also seem to be bugged somewhat as it didn't trigger for me.   Great Game ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not worth the $45.   I very much enjoyed the puzzles and the way you had to work to discover their mechanics, and the world is very nice to look at and and explore at first, but by the time I reached the endgame and had discovered just about all there is to be found I was left feeling dissapointed that I spent so much money on what felt like it should be a typical $15 indie title. I was shocked to hear that this game took 7 years to make, because it feels so empty outside of the puzzles.  The game sells itself as hiding a deep and profound story, the hidden mystery of the island that waits to be discovered, but the truth is that there is nothing substantial behind the pretty visuals. When I first explored I was fascinated by the strange people turned statues and eager to explore what had happened to this strange island and why I was brought here. What little answers there are,   that the island is just an inception-style constructed dream that you have entered for an unexplained purpose,   are unsatisfying and completely disconnected from the world you explore and any clues you can find, only becoming apparent in the hidden ending.  You can pick up audio logs throughout the world, but they also explain nothing. The quotes about religion, science, and discovering the truth of the world feel utterly unrelated to the actual game content, other than that you are discovering 'the truth' about how to solve puzzles. Their only purpose as far as I can tell is to make the game seem artificially deep and profound. The secret hidden audiologs also contribute little to the absent plot,   they are only scenes of the voice over people debating which quotes to put into the dream.    The store page description is a complete lie.   'You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.  You don't remember who you are, and you don't remember how you got here, but there's one thing you can do: explore the island in hope of discovering clues, regaining your memory, and somehow finding your way home.'  Reading this after completing the game I'm shocked. Memories? Clues? Who I am and why am I here? The game does not even attempt to explore any of this.  Other than the core puzzles of the game that open doors or lead you to the main ending and the challenge area, the puzzles feel compeltely pointless. There are extra puzzles off the main path that seem to do nothing when they are completed. At first I thought I was discovering some secret that required investigation, but in the end it turns out they do absolutely nothing. The environmental puzzles, an interesting surprirse when first discovered, also seem to do nothing, and don't provide any further insight into the non-existant story.  If you really like puzzles and don't want anything more than that, you will probably enjoy that aspect of the game. but I would recommend waiting for a drop in price before spending so much money on this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I cannot recommend this game. I want to. I really wanted to like it overall. But no. Nothing happens. There is no reward but puzzles; and when the puzzles are over there is nothing. The world is amazingly detailed, it's perfected, it's layout is fantastic. The puzzles are good for the most part. But they lack grounding, their context is flimsy and unsatisfactory. There is no plot. Scattered disappointing meaning in vague texts (audio and visual.) I can scarcely believe myself that nothing happens. But it's true. You beat the game, barely anything happens. You beat the hidden challenge, absolutely nothing happens. You beat the entire game and collect everything and nothing happens. If the is the message I don't want to be a part of it, but if you find a game where nothing happens and where the narrative point might be just that... then this is the game for you!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "(When/If this issue is resolved, I will consider changing this review. Thank you. Being TOLD when I can or cannot play a $40 game is a dealbreaker.)  I wish I was playing “The Witness” at this moment. Very much. But I’m not, because I’m currently offline, and it won’t run. Just as reported previously. And the error message again reads, “no internet connection”.  WARNING to anyone considering purchase. It may load offline. It may not. Most likely it will do some of each, as BOTH copies I purchased have done (or not done) to varying dergee when I attempted offline play.  Because of my considerable interest in this game I succumbed to misinformation from DEVs and childish insults from the community to try it again after obtaining a refund on my original purchase; that it was guaranteed to run offline at the time of my second purchase (and if fact, as was my first copy. Clearly!) Little doubt that if I had little enough self-respect to follow this discussion after this post, I would be told, as I was told then, that I am wrong, and my claims make no sense, and even that I'm stupid. Even though I type this sentence while LOOKING at the “no internet connection” message on my other half of my screen, produced after clicking on the PLAY button for “The Witness.” Over and over and over, as also noted in my previous report.   It may well be true that “The Witness” does not test for internet access. But it DOES test for Steam, and STEAM apparently sometimes tests for internet access. (Gee!) And if that check is performed, “The Witness” WILL NOT load. Of 800 games I own on Steam, no other offline-playable game has acted in this manner. How is that NOT the cause of the game, and thus the responsibility of the DEVs? (But there aren’t many of us left playing offline, so it’s really no big deal.)  So next time one of you “braniacs” in the Steam community (including the DEV who offered zero support or consideration, and asked no questions) wants to tell someone how much you know….. …please remember, you don’t. Prove it instead by asking the right questions, rather than making assumptions based on ego. OK? Everyone will benefit in some way.  (I just want anyone following after me to not be deceived or manipulated as I was. Buy if you wish, play if and when you can (as, at best, I may continue to do.) I made a mistake of misplaced trust, and I’m prepared to live with it. You others should at least have more information than I did, if not more choice. And please, always trust the evidence of your own eyes and experience.)  You have my $40 and whatever bizarre personal satisfaction some of you may have derived from my gullibility. I consider this a permanent parting of the ways. Had I been treated more courteously or professionally by any party involved, this posting might very different. As well as any possible interest in any future projects.  At least endeavor to learn something from this regrettable and avoidable experience.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Witness is phenomenal! It is probably the best puzzle game ever made - easily better than Portal and the likes! It also is wonderful for playing with a group of friends, your kids, your partner, whoever.  You walk freely around an island and solve puzzles. The game is open world, so you can never be stuck - if you have a problem somewhere, just continue somewhere else. The island is probably the most precisely and skillfully crafted level in the history of video games - 8 years of development time and it shows. The puzzles and their places on the island are simply amazing. Whenever you start thinking you've got the hang of how things are working, the game will blow you away with a totally new and unexpected (and plain beautyful) insight. These moments of epiphany will leave you stunned, grinning and repeatedly saying 'Mr. Blow, you magnificent bast*rd!' (he's the head game developer).  *** DO YOURSELF A FAVOR AND NEVER, EVER LOOK AT ANYTHING THAT COULD REMOTELY BE SPOILERS FOR THE WITNESS! NO FORUM THREADS, NO YOUTUBE VIDEOS, NOTHING, NOT A SINGLE SECOND; TOTAL RADIO SILENCE. THIS GAME CAN BE SPOILED INCREDIBLY EASILY WITH ONLY A FEW WORDS OR A SINGLE PICTURE. IF YOU GET STUCK SOMEWHERE, NEVER LOOK UP THE SOLUTION, JUST GO SOMEWHERE ELSE, COME BACK IN A FEW DAYS AND YOU WILL BE SURPRISED HOW A FRESH LOOK CHANGES THINGS AND YOU WILL BE HAPPY YOU DID NOT 'CHEAT'. IT IS ABSOLUTELY WORTH IT (BOTH THE GAME AND NEVER LOOKING UP SOLUTIONS)! ***",
+            "review_score": "1"
+        },
+        {
+            "review_text": "WoW Best puzzle game  Recommend this game for those who likes challenge   Note : Maybe you got headache ;P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is a masterpiece, though it's not for everyone. If you enjoy games which reward exploration and experimentation, there's a lot to love here - but even then, the game asks a deal of patience of its audience. You will often come across puzzles which you are ill-equipped to solve. The brilliance in the design is that all of the puzzles are entirely solvable with the mechanics available to players from the start of the game; the only real limit on the player is their knowledge of the rules. There are no explicit tutorials, but the knowledge is available to be discovered across the game's beautiful island setting.   If that sounds a bit vague it's only because I want to respect readers in the same way that the game respects its players, allowing them to explore and discover for themselves the many secrets of the island.   As you might expect in a game from the designer who brought us Braid, the narrative is very much open to interpretation. This is a game wherein nothing is explicit, and if you require that external drive you may feel rather lost. It helps a great deal to to come into this game with a willingness to think, to be confused, and to keep exploring all the same.   It's worth noting that colourblind and/or hearing impaired players may have difficulty with some of the game's puzzles, as they rely on an array of sensory clues. I encourage those affected to do more research before diving in.  It took me about 25 hours to reach the end of the game, completing a fair deal of the optional puzzles along the way - though I suspect the remaining ones could easily take another 5-10 hours to get through, if not longer.   I abstained from turning to the internet for advice the entire way through, and I strongly recommend that other players do the same. The game tells you everything you need to know if only you persevere - and the sense of achievement that comes from overcoming these challenges alone is great. Trust the game; it is fair, and it does want you to succeed.   All in all this is one of the most impressively designed games I've ever had the pleasure of playing. There is sharp intent behind every aspect of its construction - to a level that often feels absurd - and the result is an incredibly unique and fulfilling experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The less you know about the Witness the better the experience will be, so as soon as you've decided to dive in I recommend you immediately stop reading any reviews and start playing.   I can personally say that this game is the greatest puzzle game I've ever played, but a quick look around online shows that it is a bit divisive. I don't think this game is for everybody. Players that expect some revelatory story moment or huge twist upon solving a puzzle will be disappointed. Instead, you gradually discover how the world of the Witness works in a series of subtle moments. I feel like the Witness is for people who are intrinsically curious, and want to understand the world around them for the sake of understanding the world around them.  To me, the world of the Witness feels like an much smaller version of our world and, by extension, the player's time with the game feels like a miniature liftetime. When you first start the game with (hopefully) no prior knowledge of the world, you are basically a newborn. You play with the immediate environment around you, poke stuff, click stuff, and try to make sense of the basics of the way the world works. After a few hours under your belt, you'll have an understanding of the world at face value, and may even get a little cocky, thinking you've got the game down. However, after spending 60+ hours with the game, I can look back at my 10 hour self and laugh at how little I actually understood about the world of the Witness, how naive I was, and how much more I had to discover.  Then you'll reach 'adulthood', where you don't know everything about the world but you've begun to see the deeper secrets of it, and you have enough experience to start to wrap your head around the scope of the actual game. You'll reach a point where you realize how much more there is to this place, and for me that was one of my best memories in gaming.   If you stick with it for hours after that, you'll eventually get the 'reward'. That reward was when I felt confident enough to say I had a good understanding of the Witness. Puzzles that used to take 30 minutes now took 30 seconds. The island that felt so huge and overwhelming at first I now knew like the back of my hand. I looked at things in a completely different perspective than I did at the start. The game makes you feel like a genius. Maybe not a genius in real life, but a genius in your Witness life.   I still have a lot to go before I solve everything the Witness has to offer, and to be honest I probably never will, but I've never had a game that respected it's players ability to discover and learn as much as this game. The Witness is in a class of its own.  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although some puzzles you will be guaranteed to be stuck on, the vast majority are fun, incredibly well made and are the perfect difficulty.   My advice, if you get stuck on 1 in particular, especially if you believe you know the rules and have it well thought out, look it up online and cheat. Don't let 1 puzzle frustrate you to the point of not wanting to play the game again. Fortunatley i'm not too bothered about cheating if 1 eludes me. That being said I can spend a good 10 minutes just on a single puzzle!  The environment is a joy to explore and the level design is very well built",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First hour was not convinced.  But then the enviroment came into play.  Loving it.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "LOL WTF?!  No... seriously. I just had one of those moments, bursting out in loud laughter from pure joy while playing this game, figuring out and finding something I could do that I previously had no idea was even possible, that I didn't even think should be possible, but yet it all still makes some kind of weird sense. It was freaking amazing. To tell you anything more about it would be to give too much away.  This game is beautiful, intriguing , and compelling, weird, abstract, and logical. It makes you think outside of the box, sometimes literally, but in a way which still makes sense once you change your perspective.  This game is NOT just about mazes on a panel, though there is a lot of that and it is a main game mechanic. It's about what you do with them and how you learn from them to interact with and better understand your environment, your world that has been masterfully and meticulously crafted for your enjoyment.  If you like challenging, involved, and sometimes frustrating puzzles that occasionally blow your mind (no pun intended), you have to get this game, and shame on you if you don't.  That being said, I have to somewhat begrudgingly acknowledge that this game isn't for everyone. Some may even hate it, perhaps even for some of the same reasons I love it. This seems destined to be one of those games that many either love or hate. I'd say that it's a safe bet that you'll at least be quite fond of it if you're into logical, challenging puzzle games.  Well worth the full asking price and then some, in my opinion.  Enjoy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can only recommend this game to people who has the patience to stick around for a puzzle in more than 5 minutes. The graphics are beautiful and understanding how to solve a certain set of puzzles is for me a very rewarding feeling. Even if sometimes a puzzle may take 1/2 hour to an hour to crack.  The plot is however a really hard nut to crack since it is told by very subtle details seen around the island and through different tapes and videos scattered everywhere.  The way the game forces you to rethink the way you think about old solved puzzles in order to understand the rules for later puzzles is something I don't thing iv'e seen in any other game before, almost every detail you see or hear in the game is there for a reason.  I would recommend this game for anyone who has the patience for a harder than average puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is for a nish audince. The best way I can think of recomendind this game is if you liked math homework, you will problably LOVE this game. It does not have much math, per se, in it but it does have a lot of logic and learnig systems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was extremely excited for The Witness, having followed its development since it was announced in 2009. I wanted to love this game. Unfortunately, there are a few problems with the game that make it pretty terrible in my opinion.   First, the island, while hauntingly beautiful, is not really the star of the game. When playing The Witness, you simply move from maze panel to maze panel, and you can pretty much see everything and easily get anywhere you want if you solve nearby maze panels. There's not much of a feeling of adventure or even ambiance. Everything's quiet and empty. After a few hours of playing the island lost its charm and I wished they had just put the puzzle areas right next to each other, or given you a much faster sprint in order to quickly get between puzzles.  Second, and more importantly, some of the puzzles are extremely frustrating to the point that they're unequivocally not  even the slightest bit  fun. I'm not sure whether Jonathan Blow wanted The Witness to have a reputation as an essentially unbeatable puzzle game, or whether he was just a poor judge of how hard the puzzles are.  Of course the island has a few essentially impenetrable secrets that nobody will be able to beat without looking at a walkthrough, but you don't need to beat everything to get the ending. What I take issue with is the main series of puzzles that you face frequently and that you need to beat. Some of these puzzles are really clever and require you to be observant of your environment and think. These puzzles have a 'Talos Principle' kind of vibe that I really like. But the game goes much, much too far in giving you problems to solve with incomplete information. The most egregious offenders are the maze panels which deal with symbols indicating increasingly complex unspoken rules about how you must solve the maze. These get  ludicrously  complicated and there's zero explanation in-game about what any of the symbols mean. Somehow people have through sheer brute force divined the meanings of each symbol and shared them with the Internet, and you'll need to cheat and read that info to make much progress. Until you do, you'll wander around the island shut out from most areas. When you do, you'll laugh, because it's so comically implausible that anyone would be expected to figure them out on their own. And it's not just the symbols; the game repeatedly fails to provide the player with enough information to reasonably beat the puzzle. There are dozens of puzzles that don't give you quite enough information to nail down the exact maze path; you'll spend literally hours dragging your mouse guessing different paths because there are many possible permutations or transformations which could all equally well be the solution. Sometimes the game is smart about this and lets you enter a variety of solutions, but that's not always the case. You're going to be clicking and dragging a lot. This is not fun gameplay by any stretch of the imagination.  There are some really fantastic puzzles buried in this game, but it's not worth it. I will not sit in front of my computer for hours blindly guessing and probing to make sense of the world. The Talos Principle and Portal/Portal 2 are perfect examples of games which introduce concepts fairly, and have puzzles which are solvable in your head by simply thinking through them. Even if the puzzles get very difficult, there's no dumb trial and error involved. That's the kind of puzzle game I want.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The most unique, challenging and enjoyable games since I first fell in love with Braid. My advice: don't spoil anything for yourself. Be as blind as possible and trust that this game will blow you away.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a puzzle game with over 600 of very similarly looking 2d puzzles, where you guide a line through a panel. The puzzles are not the same though, far from it. Unlike games like Portal or The Talos Principle, the progression is not expressed as harder puzzles, but different ones. New mechanics are introduced, old mechanics are combined or altered and it goes all the way until the ending. I've only been stuck on two puzzles, one of the two being an optional extra difficult one.  Yes, it is pretty much a necessity for an average human being to take screnshots and make drawings, but I don't see a problem in that. This game is well worth the effort. I mean, I'm not even a huge fan of puzzle games, but this one has managed to keep me interested all the way.  There are audiologs which carry not so much a plot as much a message this game is trying to convey. I'm far from philosophy, but it makes an interesting point I haven't considered before. Made me look up some reading material, so there's that.  Other than that, the game looks and sounds amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Phenomenal puzzle game. It really challenges you, but rewards you for delving pretty deep into how the various mechanics all really work. The only downside is that if you get stuck on a puzzle (and there are very very many), eventually you'll need to solve it to move forward. But the internet is there for you if you really can't figure out one of them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a game design wet dream of how to subtly implement a whole array of mechanics through increasingly complex, but similar, puzzles. The use of background and scenery to solve puzzles put the biggest smile on my face. Extrensic motivation through exploration helps too. It's nothing but puzzles, some secrets, and a beautiful world. I adore it but I know some people will hate it or not appreciate it (which is absoultely fine!). It's made for the people who smile when finishing a puzzle, who do jigsaws in their spare time, and crosswords when they're bored.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, the way the game presents and teaches how to solve puzzles and how sometimes the solution is just that simple is amazing.  The only thing that feels strange is how the run work, but this is just a non relevant detail.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The positive:  I love the estethics, I love the puzzles, I hate that its over. These guys have created a wonderful world filled with tons and tons of puzzles.   The level design is near-perfect, the way the game teaches you how to solve the puzzles, the gating is done without more than 3 symbols showing you how steer and look around. Which you do alot of in this game and the way the game rewards you for being observant and watchful is great.   There were only a handful of puzzles that I would never have understood ( I got help with 3 of them ) and I got 460 puzzles and some more.   This game is for anyone that enjoys the feeling of solving a problem that you never would have understood in the beginning but learned as you played the game.  The negative: I didnt understand the Journal stuff, like at all. That doesnt mean its bad but more that its never explained what it could mean.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you enjoy puzzles?  Logic, mazes, even sudoku?  Have you ever played/enjoyed Myst?   If so, you'll probably love The Witness. The game is amazing.  There are countless puzzles, and it's up to you to find them on the huge island, and to solve them.  You will get stuck. You will stumble. You may need to get a pen and paper to write notes, and to try to work out puzzles. You may get to a point where you want to slam your head against the wall because you found a puzzle that is too hard for you to understand.  That's ok. That's part of the game. You aren't expected to have all the answers right away. Go to a different part of the island, solve some other puzzles, and eventually you will be able to come back to the puzzle with a fresh perspective and understanding, and wonder 'Why was that so difficult before?'   This is a game for puzzle lovers. That frustration is part of the enjoyment. Because the 'Aha!!' moment is the ultimate reward.   This game is full of those aha moments. The Island itself is fascinating, and wondrous to explore, discovering new bits of knowledge to add to the puzzle language.  If you are impatient, easily angered, hate puzzles, or just can't stand being stuck.. Then this game isn't for you.  The Witness is a puzzle journey. It's about solving puzzles, but it feels so much more than that. It's an experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great. Unlike a lot of other puzzle games, it isn't just a linear slog through an endless line of puzzles. It's a lot like a metroidvania in that you need to explore and discover new things to progress, but the things you are discovering aren't powerups, they are knowledge about how the puzzles work.  The atmosphere is great and the setting really lends itself to very relaxing exploration and puzzling.  You should also know: these puzzles are hard. If you aren't very good at puzzles usually, you probably will be very frustrated by this game. There's a lot of logic in the puzzles you are probably going to have to take notes or sketch things out on paper at some point.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I returned this game for a refund. I still recommend it, but with some reservations.  'The Witness 'is beautiful and the puzzles are frustrating yet addicative and engaging. It's wonderfully crafted and the devs clearly put a lot of heart and sweat into it. I love that.   For people who enjoy puzzle games, strongly consider this one. For myself, I can't say I value it at $40, but that's based on my own gaming tastes; I'm not big into puzzle games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed this game very much. It's thought provoking with its audio and imaculate with its visuals. The time that was spent in judging the diffuculty and creating variety in the puzzles is shown by how well the game flows between those puzzles and from one area to the next.  If you're an individual who likes thought provoking conversation and eureka moments, you'll love The Witness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The witness is a masterclass in how to implement, teach, and experiment with mechanics and any puzzly game should really study it and figure out how to take its lessons and put it into their games. There's an incredible amount of depth in a very simple way of interacting with the world + just about everything ties together. Every single puzzle is taught, every single puzzle has a mechanical language easing you into exactly how to solve it- and there's just a ridiculous amount of them all to work through.  i've yearned for a really good elaboration on what the myst series did to videogames for ages and this is just the sort of thing i've been waiting for, really. Games that do what the Myst series tried to do so few and far between, despite that series being so groundbreaking. Puzzle games centering around world- and exploration-based puzzles are basically nonexistent - there's barely even games that try and fail at it, let alone games like this that succeed so hard. The game feels like one that came from a world where games like the Myst series were iterated on constantly and the concepts had time to be polished and perfected, not a world where Fez and Talos Principle are the two bulletpoints on the timeline since the Myst series died.  Anyway: it's a really good game and you should absolutely make time to play it if you are interested in puzzles + game design at all! do it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm genuinely surprised and irritated at the number of reviewers who put &lt;2 hours into the game and give it a negative review. Personally I love the game, but I'm sure it's not for everyone. It's a very in-depth, very long puzzle game. If you're not someone who enjoys puzzles just for the challenge itself, please don't buy this game and take it out on the rating. It's great for what it is. It's not what it's not. Great teaching pace, amazing visuals, and some exciting twists and revelations. So far, I'm very happy I bought The Witness!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The witness is a puzzle game. It is hard. It is beautiful. It is awe inspiring. It is frusterating. It is not a story telling experience. It is hundred little moments of clarity mixed between moments of confusion.  If you are looking for a hard core puzzle game you will love this game. Everything in this game has a purpose and reason for being there. Every detail was painstakingly added for a reason. This is a very different game from anything else out there.  If you are looking for a game with music and story and dislike solving problems you might want to stay away.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wish I could play this for the first time again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's definitely not for everyone, but definitely consider it if you enjoy puzzle/logic games. I haven't finished it yet, but I'd put it in my Top 10 of all time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is a game where you wander around an island solving cryptic puzzles. It's really good and I love it. I bought this game completely blind and my immediate first impressions were how breathtakingly beautiful the world is. Stepping out into the open of the island for the first time was a chilling experience. It's easily understandable why Jon Blow took so ♥♥♥♥♥♥♥ long to create this game. The design behind the game works so well.  *  [en.wikipedia.org]  The actual puzzles wouldn't find themselves out of place in a free mobile puzzle game, but the island adds entire new dimensions to the solutions. The answers are integrated into the environment in a surprisingly varying number of ways. The deceivingly simple puzzles are kept fresh throughout. Sometimes, like a Metroidvania, a simple puzzle will be impossible to solve until you explore elsewhere and learn how to use the new mechanic, helping you further uncover the secrets of the world of The Witness. The game will never explicitly explain the mechanics of the puzzles to you. You are left to decipher the island on your own. I wish I could describe some of the ways you need to solve the puzzles in this game, but of course, that’d ruin the experience of finding it out for yourself and feeling like a genius. So just trust me. It’s an incredibly creative game. This is an easy choice my 2016 game of the year.  Of course, this kind of game isn't for everybody, but if you have the slightest interest in the concept of 'wandering around an island solving cryptic puzzles' sounds interesting to you, I  highly  recommend The Witness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "On the surface, Witness is a clever puzzle game in which fans of titles such as Portal or The Talos Principle will feel right at home.  What makes it really shine though is how well everything plays together. All aspects of the game - gameplay, narrative, visuals - work together to form a really unique experience.  The game purposefully doesn't hold your hand - rules must be figured out by observing what works and what doesn't, and deriving your theories from your observations. There's no roadsign showing you the next puzzle - it's one big open world full of mysteries to discover. And just when you think you know how it works, The Witness will throw another puzzle at you that quickly invalidates your established rules and lets you question everything you've learned so far. In other words - the game not only forces you to think outside the box, but whenever you do that it shows you that you're just in a bigger box now.  There's so much that could be said about the game, but it'd be a shame to not experience it yourself. The Witness features beautiful visuals, clever and surprising puzzles, implicit storytelling and will keep you busy for at least 15 hours, possibly quite more if you want to discover every secret this island has to offer.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have been waiting for this game well over 5 years and my expectations were actually quite high, but after playing it for a little under 11 hours it didn't disappoint at all. After a few hesitant moments at the beginning of the game, right after you leave the 'tutorial' area and you begin explorning the island, the game absorbs you and never lets go.  Each part of the island is brimming with puzzles that will leave you amazed at what you can actually achieve if you put your mind to it. One of those few experiences where you can walk out of it feeling fully satisfied of every second you spent playing on that island. At no moment you feel trapped or stuck on a puzzle for too long, as you are always free to leisurely move on to the next thing that awaits you on the island. The brilliant part is that taking those breaks actually helps you gain more perspective and aids you in solving those puzzles that proved too difficult at the time. With the right angle and/or spin, everything clicks into place in one of those so satisfying 'Aha!' moments that occur quite often throughout the game.  If you are a puzzle fan of some sort, or you are someone who likes to give his/her brain an interesting challenge every once in a while, give this game a world. Just don't expect a lot of action, explosions or cinematic moments, as there aren't any on this game. Instead, you will get an inmersive experience in an island where you will rekindle that child-like sense of discovery that is very hard to come by in most movies and games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a masterpiece.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some look at this game and see a collection of nearly identical puzzles. I won't lie to you, you interact with puzzles in mainly one way in this game. But the logic of the puzzles is so varied and challenging, and the environmental impact on the puzzles is very distinct and keeps a somewhat simple idea really fresh for hours on end. Most games have a primary way of interacting with the game (in shooters, you shoot, etc.), and The Witness is no different. But the way in which the game distorts these puzzles, uses them to challenge what you already understand, and incorporates a beautiful environment makes The Witness a memorable and very enjoyable experience. The world is vast, with lots of places to explore and secrets/easter eggs to find when you want to take a break from the basic puzzle. The Witness does follow the recent trend of not giving the player much (if any) story directly, instead relying upon the environment and some hidden pieces to build the story of the world. This approach may not resonate with everyone, but I feel that it fits the story being told. I'd highly reccomend this game to anyone who like puzzles or wants to think a bit when playing their next video game. 9.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is masterfully done. The world is beautiful and fun to explore, which makes it similar to games like Myst. However the puzzles are very obvious panels with maze like puzzles. While the puzzle idea seems simple at the start, the game does a good job of turning it on its head and constantly forcing you to shift your perspective, all while adding more rules for you to learn, discover, and remember.  If you even remotely like puzzle games, I think you'll enjoy the game quite a bit. If you also happen to enjoy slowly wandering around a very pretty and well designed mysterious island, I think there is no better way of spending your money",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is a puzzle game, yes, but it is also about learning, discovery, philosophy, religion, understanding yourself and the world. This is both a game, and art, and if you are a person who enjoys repeated 'Ah Ha!' moments, this is the game for you. Rich in depth and beauty, any 'ending' of the game merely unlocks new areas that remain to be discovered. Completing the 'main area' took about half the time as every other thing I subsequently discovered, and I still am awed by the beauty and intricate details that I continue to find scattered purposefully around this island.  You will not like this game if your idea of fun is blowing stuff up, shooting zombies or nazis, racing quickly, trash talking, achievement hoarding, a talky-story (although there is excellent spoken dialog), or instant rewards for solving the tiniest challenge. This is a thinking game, a game about enlightnment and what it means to understand, fully, pretty much anything.   Some complained that $40 was too expensive. I feel it is too cheap, because the takeaways are probably equivalent to college courses on mathematics, logic, science, philosophy, and comparative religion, rolled into a highly entertaining experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's not perfect, but what it does right, it does VERY right. Certainly the Witness is the best puzzle exploration game since Myst.   The environment and art style, for example, are beautiful, colorful, and uplifing. In fact I even think this game has singlehandedly cured my Seasonal Affective Disorder and am curious how video games like The Witness could help people as therapy to deal with depression and other mental disorders.   In any case I wholeheartedly appreciate the many ways the landscape bleeds and meshes into the very puzzles themselves.   I've played this game for hours and hours and have certainly gotten my moneys worth and I haven't even scrateched the surface of beating the game yet.   Looking forward to more great games from this developer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my favorite games of all time. The Witness does an amazing job of teaching the player the mechanics with no verbal or written communication. It really feels like Jonathan Blow respects your intellegence as a player. I don't think this game is for everyone, but if it clicks with you, it's a very engaging experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely amazing game.  Yes it's all line puzzles but they never get boring. Every area introduces a new mechanic and/or symbol. Then puzzles start to combine several of them, making it harder and harder.  Think of the puzzles as a way to interact with the environment. Where other games might have a simple switch or a button, this one has a panel featuring a puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you take it at face value and don't think about it much, it's a nice and pretty puzzle game with an immersive and relaxing atmosphere. People looking for a Myst/Riven successor will be disappointed by this game. Wait for a sale.   It's essentially a series of logic puzzles with a lot of fancy window dressing. There's no real narrative here to be engrossed by - you can find obscure and famous quotes dictated by voice actors that generally amount to musings on intellegience and discovery, accompanied by these colorful puzzles. It's both slightly charming and terribly pretentious, given the rather grandiose nature of the quotes submitted.   It's also a game that really burns you out if you play for extended periods of time. This isn't something to be marathoned since solving the same types of puzzles with general increases in complexity gets rather monotonous despite the backdrop - the novelty wears off. Some puzzles aren't very well designed, requiring the player to wait for long amounts of time which is rather frustrating but they are few in number.   It's a good game to play casually. Wait for a sale and get it cheap.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful and challenging game. One of the best puzzlers of all time. I would rate this game at a solid 5/7.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Based on only an hour played, so take what I say with a grain of salt.  I was hoping this would grab me like Braid, or the Talos Principle. Solving puzzles in those games rewards you with insight into the world, the story, the themes. Along with being fun puzzles in and of themselves, there was a reason for solving them beyond 'because they're there.'  I got no sense from the Witness that there was anything beyond the puzzlees. I never felt like solving a puzzle resulted in a tantalizing, fleeting glimpse into what lies beneath. It just felt like... puzzles. A bunch of puzzles.  If that's what you want, then this may be the game for you. But if you want puzzles in service of something else - ANYTHING else - then move along. There's nothing to see here.  (I'm sure someone (possibly many someones) will say I didn't give it enough time. To them I'd say that if Braid and the Talos Principle (and many others) managed to hook me in an hour, then the Witness should be able to do the same. From what I experienced, it seems utterly indifferent to my enjoyment. It offered no hooks. It simply exists, and much like the island on which it's set, it seems completely unconcerned with me or my actions. I'll give Blow credit for thematic consistency, but that doesn't change the fact that it was not enjoyable to actually experience.)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I shot a laser. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game is both beutiful and challenging. I love the idea that you have to figure out how to play the puzzles/game as you go along with no 'real' tutorial. I have only gotten to the final few puzzles, but this game was woth the money I spent and then some. And I don't know if its just me, but I love those 'hidden' puzzles alot.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Judging from the other reviews, this game is like Vegemite. Either you get it and you love it, or you don't and you hate it. The reward for completing a puzzle is almost always access to another puzzle, so, to be perfectly clear, if you tend to get angry at inanimate objects or have a short attention span, or just don't see the appeal of 2d maze puzzles no matter their depth, you should avoid this game.  If you like puzzles, though, you've come to the right game. Blow &amp; co. are puzzle-making maniacs and have created a game that teaches you how to solve every puzzle on the island with a carefully balanced, well-paced difficulty curve. The game oozes with polish, has a well-put-together world, looks fantastic, feels sublime, and has plenty of depth and gameplay to offer.  The game has crackling sound in a few places on my machine (earliest in the game in the building with the pots that have Voronoi patterns painted on them.) I didn't feel that it took away from my experience much, but if you have a non-standard sound card you might also have extremely occasional problems with the sound. I have a Xonar DX PCI-E sound card that's never given me trouble with any other game, and it's disappointing that it doesn't work perfectly for this game when the rest of the game is so polished.  Another disappointment, for me at least, is the game's use of lightmaps. I feel that lightmapped games tend to limit the number of moving parts of the world at the expense of gameplay, whether it's Mass Effect, Remember Me, or The Order: 1886, and I think The Witness could have had some really excellent mechanical puzzles beyond what it has if the lighting were more dynamic. I remember between 2004-2008 or so starting with Doom 3 there was a lot of hubbub about making everything dynamically lit and destructible, and there's a lot of gameplay potential that the developers give up the moment they decide to use lightmaps for a game.  Overall, this is my Game of the Year So Far for 2016, and it was a real pleasure to play it. I hope someone at Thekla, Inc. will see fit to give this game a Linux port at some point. Even though there aren't as many gamers on Linux and OS X as there are on Windows, this seems like the type of game that most Linux users would really enjoy, and that many Windows users would not, as the other Steam reviews clearly show. I look forward to seeing what this studio comes up with next.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A deeply engaging puzzle game about perception, exploration, and experimentation. The Witness is not the kind of puzzle game you'd play if you like puzzle games; rather, it's the kind of puzzle you might give to someone who likes puzzles. It has the definitive style and tactility of one of those die-cast metal things you'd get at the learning store at the mall, and the same rich symbolism and intellectual charm of an ARG or illustrated puzzle book with a cash prize that nobody ever claimed. On top of that, The Witness is also one of the most beautiful and painstakingly designed locations I've ever inhabited, full of painterly trees and buildings designed by a real-life architect.  Well worth the asking price, and well worth not spoiling even if it means never completing it. They just don't make games like The Witness as often as they should.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've not had such an explosively mysterious and discovery-filled experience playing a game since I first booted up Myst as a child. My notebook looks like A Beautiful Mind but with line puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You might first look at The Witness and say, 'Is there only line puzzles?', I did the same thing and was skeptical that the game would be boring. Let me be the one to tell you that line puzzles were all this game needed to become one of the best puzzle games ever made. The Witness easily gets a  10/10  in my book, and I would recommend it to anyone looking for a puzzle game.     Positives",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic. The puzzles are genuinely difficult. Difficult by nature. Not difficult in a 'We artificially cranked up difficulty by making things *more* and *faster*' but difficult intrinsic to their design. They give you everything you need to solve the whole island - with very little ♥♥♥♥♥♥♥t. It's really rewarding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing...   I want to say many things about this game i want to talk about the many puzzles the game has already thrown my way but i can't because part of the greatness of this game is the discovery this is a seemingly very simple idea masking a huge amount of complexity.   I would honestly compare this to Portal in its simplicity of design and puzzle mechanics hiding an exceptional well considered but very difficult puzzle game.   If you're a puzzle game fan you owe it to yourself to play this game it's brilliant.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enjoyed this game very much. For such a simple concept I was surprised by how much variety there was with the puzzles. The plot/mechanic twist toward the end of the game made me look at the whole island in a different light.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My favourite game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's some kind of hybrid of the classic island puzzle Myst and those labyrinths sold in puzzle shops where you try to guide a ball bearing (or sometimes multiple ball bearings) from point A to point B. Never before have I played something that went from 'This looks rather straightforward' to 'Oh you mischeivious ♥♥♥♥♥♥♥s' so quickly, and yet still hadn't wanted to put down my controller.  It's beautiful to look at, a good challenge without being punishing (the only consequence of not solving a puzzle panel is your needing to make another attempt, or find another puzzle to try and come back to that one later), and though at first I wanted to complain about its lack of music, now I see how that would get distracting while trying to concentrate on what the panels are asking yout to do and how you might accomplish it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So many mindblowing puzzles. Great use of world design.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game that I would play again with VR support for the Vive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is crazy. Absolutely insane. Was at the top of the colosseum looking building in the desert and saw a pattern like the main screens... clicked and my mind was blown the first words to come out of my mouth were, 'HOLY ♥♥♥♥!' Definitely an experience I want to keep encountering.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is one of my favourite games. It is a puzzle game set in a pretty, open world. As other reviewers have posted, it's all one type of puzzle, but there are many variations introduced then scaled up in difficulty. There were many moments of me thinking the game very clever, several where I was totally stuck, and a few that were jaw-drop worthy. It's a very pure game, so if you aren't into its central conceit it won't be so much for you, but this is one of the few games I set aside time to play and treasured my time with. It's exciting to know there is more in the game that I did not find.   My only complaint was not being able to keep my progress and go back to 100% the game after beating it.   Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mindblown!  Ingeniously designed. If you need some genre framing - open world puzzle game. Don't expect story handed over to you or any music. Just a lot of the 'same' puzzle with infinite creative spin. Every time you think you're done, there's more waiting.  Feels like Fez, Myst and Talos Principle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game, but very difficult. Very, very difficult.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not for everyone, but I definitely liked it. One of the best games I've played ever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is one of the most frustrating, annoying, and limiting games I have ever played.  The Witness is one of the most creative, deep, fun, and amazing games I have ever played.  If you like puzzle games at all, buy this. If you need to learn humility, buy this. If you want to see the mad work of a genius, buy this. This game is nothing but line puzzles, but few games have the depth, planning, and creativity expressed in The Witness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Play it for the puzzles, not the 'story'.   I found the puzzles in this game to be excellent and intriguing. The solutions aren't arbitrary or ambiguous like the puzzles in Myst or Riven, and the rules are introduced gradually and organically as you explore the island. The difficulty scales satisfyingly, and I found them challenging but enjoyable throughout. If you enjoy sudoku or crosswords, you'll probably like the puzzles in this game.   The 'story' however... well, it's basically not worth a damn. It's literary nonsense that pursues pointless ambiguity, sacrificing meaning on the altar of 'complexity for it's own sake'. Good stories are ambiguous because they address complex issues, not the other way around. This story doesn't adress much of anything - even if you drill down far enough to grasp what's really going on, with the second ending and hidden audiologs. There's just nothing of weight to it, and it's wrapped up in so many layers of secrecy that even if you do manage to wade through the pseudo-intellectual ♥♥♥♥♥♥y, the dissapointment at the end is doubly disgusting.   Blow's made a wonderful game here.   It's too bad he can't tell a story worth a damn.   I'd give this game an 8/10, just for the graphics and exploration and puzzles. Play it for that, and ignore his literary pretensions.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Antone who doesn't like this game is part of the problem. This is a huge step towards more mature gaming community. Masterpiece in any regards. Only criticism can be coldness to the player's achievements.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like the Talos Principle but with only the tetris pads.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Witness is a dream Jonathan Blow had one night about waking up on an island and solving puzzles all while having a full head of hair.  It's pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(Context - 11 hrs in)  The reward in many games is the thrill of beating an enemy in combat, the visceral and primal satisfaction of violence, the steady increase of a score, the satisfaction of solving a puzzle or a designer-throws-hands-in-the-air-and-gives-up unlockable hat or achievement.  The reward in The Witness is epiphany.  Solving the puzzles is satisfying, of course. Completing a tricky mind-bender using the rules you've found so far is good - but what's better is the dawning realization of *what the rules are*. The Witness won't tell you, and that's the game. Staring at a puzzle wondering how on Earth you're going to solve it, and then recognizing a clue - maybe obvious, maybe tiny! - that unlocks it. This is where the moments of pure joy come from in The Witness.  This is the most personally fulfilling game I've ever played. Buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful game. The challenge can be very brutal but it's also very rewarding. When you get stuck you can just explore and find something new. Also I suggest not looking anything up to get the most out of this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game - with qualifications  Background: I loved Braid, I loved the idea of an Indie dev making a 'full priced' game with a singular vision, I followed dev with interest for years, didn't flinch at the price and pre-ordered it.  First Impressions: OMG what's up with the fixed resolution First.one.Impression: Oh, I can adjust the res on the command line and can now hear my SLI groaning in pain - but it does look so so f'in pretty. Thank god somebody else out there has realized a Sega-blue sky makes gamers of a certain age happy and I have a negative gut reaction to 'brown games' (Yes, I Bloodbourne I mean you - I don't care how many awards you've won).  So into the game.  What I was expecting, I'd come in with no thoughts this was a story driven adventure - not what I expected, wanted or got (if you did, move on - might I suggest Life is Strange). I love the puzzle panels. No 'Oh, the monkey can be a wrench' - you solve the game with the panels... no, that's not true, you solve the game in a myriad of ways, but always punch the answer into the panels.  Intro is pretty easy as the (t)ropes are explained to you, you're trapped in an enclosed space and clearly need to get out of it. You do easily and pick up some 'rules' as you do so. Once you've escaped the start-area, you can follow the path or wander off-piste, and be rewarded with another perspective around the start area and pick up your first tape. Bravo. Somebody anticipated my completionist urges.  Go back to the path and you're lead to a nice easy zone to solve. Go onto the next one, and get stumped and stomp off to bed in the wee-hours in an 'it's impossible to solve, I hate it' huff. Load it up the next morning, instantly see where you went wrong, happily romp through the next bit. On your way, spot some stuff you can't solve. Doesn't block you, but get pissy that you can't complete *everything* before moving on. FFS?!?! Quit with some stuff unsolved, move on, learn new stuff, realize you can solve old stuff and run back and release endorphines.  This is the point I realized the game was great. Previously my mind-set was do level one (all of it), then level 2 (all of it) etc - this game more than any I've ever played forces you to give up and move on (and then go back when you realize how to solve something you'd given up on). Other free-world games might give you an unbeatable boss, until you've unlocked a BFG weapon. The Witness, doesn't have weapons, it has rules. You learn, you understand, you can go back and defeat the previously unasailable. Moreover you never feel 'stuck'. Or rather you initially do, until you learn just to go off and do something else (there's always a something else) - and you'll accidentally learn something.  It's not perfect though. A few hours in, I thought this might be the best game ever, and then I got to 'The Swamp' All of the praise above was predecated on 'Not knowing the rules', then passively learning them, and then having the scales lifted from your eyes. Maybe you then solve the first puzzle easily and have a few more of increasing difficulty, you can scratch your head over for 10 minutes or so, but felt fun. The swamp just has a ♥♥♥♥-load of puzzles where you know exactly what you need to do, but just have to slog through them. Literally. They're in a row of puzzles. You solve them, and then walk around a corner and there's another row of them. No new concepts. No fun. Just more of the same f'in puzzles.  I resorted to a walkthrough at this point - and that killed a bit of my love.   Not wanting to end on a negative, I love the strange incidental stuff (very Braid-like). That strangely shaped crack in the wall, that if I line it up with the random pattern outside, seems to form an image. That massive statue way over there, thar if I stand just here and juxtapose with this thing in my line of sight, seems to form a tableau giving a very different meaning. You end up with the impression that the seemingly zonal-world, has actually been hyper-designed and there's potentially ideas to unlock all over the place, that you're continually going to discover or (mainly) miss. Wander, explore, absorb.  Still - no idea wtf is up with the swamp. Afer playing continuously for the first few days, killed my fun dead. Intention is to clear it using youtube, pretend it never existed, hope to god that was a one-off, or I will cry.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got The Witness after reading mixed reviews and I can now see why. I'm a huge fan of puzzles and open world exploration, and the ideas in this game are masterfully clever - but I don't think it's a good game.  I never got tired of the core gameplay - the variety of puzzles available surprised me, actually, and it requires a lot of lateral thinking to get through them. However, I found myself on several occasions unable to progress because I hadn't noticed a very slight detail, even though nothing I was doing was wrong. You don't need to complete every puzzle to win, but it's still frustrating.  My main complaint is with the ending. After a final round of puzzles that test everything you know up to that point, the game ends with two timed puzzles that are randomly created. Everything else in the game you can look up a solution if you just want to experience the next part of the game, so gating the ending to only those able to figure out a solution - and it's timed - feels petty to me. It didn't make the puzzles harder, it didn't challenge me differently, it just keeps the ending away from anyone who can't solve it. That, to me, is hugely arrogant game design.  Then, after you watch the end cutscene, it puts you back at the beginning of the game. I now have the choice of playing from the beginning of the game with all progress cleared, or going back to one hour before I won. Not saving right before the end, in a game I assume partially made to comment on the player's obsession with completion, was just a little insulting.  I enjoyed playing but I won't play again. It's maybe a $7-$10 game. Not worth it unless there's a really good sale.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "While the basic mechanics of the game are the same for all the puzzles, they get serious milleage out of the maze concept. The puzzles are very well designed, and while it's a bit confusing wandering around at first, once you locate the tutorial areas the game does a great job of teaching you each puzzle element without any text whatsoever. The rush of finally figuring out a difficult puzzle is like a nerd high.  If you like puzzles and especially exploration based games such as Myst or Riven (which this is heavily influenced by), definitely give this a try. It should go without saying that if you hate puzzles and/or wandering around feeling like an idiot as part of the gameplay experience, this game isn't for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wish I could forget everything about this game, only to be able to experience it again for the first time. A seminal video game to inspire and be inspired.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was constantly surprising me with it's clever design, its amazing how it teaches you the mechanics so naturally, with no tutorials but puzzles crafted in a way in which you learn by doing.  Every now and then there would be a new twist on a mechanic or a new consequence of solving a puzzle and I was blown away each time.  If you have the patience for difficult puzzles, this is a masterpiece I'd recommend to anyone.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is praised for its puzzle design, and it has every right to be in the GOTY list for that alone. However, what is often missing in reviews is that the world you are thrown into is made by very real-world architects. I've played my share of games, but very few of them could deliver goosebumps merely through the composition of space. Quite a visual feast to walk through.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you don't like puzzles, you'll hate The Witness.  I love puzzles, and I love The Witness.  I love those perfect 'a-ha!' moments a great puzzle gives you, and that's exactly what The Witness is. That's all it is, in fact. It is those moments of clarity and accomplishment and excitement, over and over and over again.  I won't be explicit, but this bliss of discovery and understanding is absolutely not limited to the puzzle panels themselves. That is what makes The Witness so beautifully compelling. The game is so much more than the sum of its parts. It's endlessly surprising.  The Witness presents a universe and trusts you to understand it. It offers all the tools you need to test your hypotheses and never changes the rules on you. And once your theories are proven true, it breaks down the walls you never realized were surrounding you and trusts you to understand this new, larger universe, use what you learned to find where the walls are, and break them down yourself.  The Witness trusts you and you have to trust it back. If you get stuck or frustrated or feel like something is impossible, you need to be able to step back and trust that the game is being fair to you. Because it is. The new understanding you seek is around you on the island, and the game simply trusts you to seek it out. It's never arrogant, malicious, or esoteric in its design.  Again, The Witness is so much more than what it looks like. It isn't just puzzle panel after puzzle panel. But if you don't enjoy the puzzles, you will never enjoy The Witness.  If you enjoy learning for learning's sake, if you see being proven wrong as an opportunity, if you love searching, discovering, and understanding, then The Witness is for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I now see lines and circles where ever I go 10/10 would gain ocd again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful game with a lot of complexity. Would be recommend playing with friends over voice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazingly rewarding and visually striking puzzle game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You will feel smart. You will also feel dumb.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has permanently rewired crucial parts of my brain I was probably going to need for something important. Would experience again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have I missed something???  I love puzzle games, portal, talos, turing effect and many more but this game just drags, I was apprehensive of the price tag first of all so I did wait for a sale and I am glad I did because however this games spins it with it's elegant discriptions and the lovely graphics and mysterious island the majority of the game is just sloving line puzzles of varying difficulty and you can play better versions of these on your phone. This game just drags the enthusiasm from me after sloving 10 line puzzles on it's mini screens I walk 5 meters and there are another 10 tedious puzzles and I know what is coming after I slog though them...more of the same. I was excited when I saw the island but after 10 hours I have fully lost interest in exploring any of it. If you love line puzzles then have at it, but honestly they are not hard once to figure out what the symbols mean and what needs seperating so to me it is just more grinding but as far as I can see little reward for it, I hope I am wrong but I won't be playing more to find out what's at the end it is just not worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game for one simple reason: Jonathan Blow. I loved Braid and I was hoping to find the same mix of arts, story and gameplay that made Braid terrific in here.  I honestly think that the professional reviewer are praising this game because of the fame of its creator and because it is 'strange' enough to fill their mouth with the word 'art'. There is nothing revolutionary here, there is only an awesome graphics style that doesn't justify the hardware requirements and a series of repetitive puzzles.  Apart from the people who say they liked the game without realizing to having thrown 50 hours of their life from the window, probably this game can be really appreciated only by somebody affected by autism.  I stopped playing it quite soon, because I felt bored, plain and simply. Everything that could make you go on is missing and from other's reviews I can see that at the end you are left alone with all your questions unanswered. ♥♥♥♥♥ please, I don't want another Lost experience, damn you Jonathan Lindelof.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't buy it, watch somebody else play it.  Why the bad review? While Braid was warm and inviting (and fun!), The Witness is just adverserial. Failed a puzzle? Redo the previous one as punishment! I'm the game, and I'm not even going to tell you why you failed! Oh, you actually solved that one? Good luck figuring out what just opened, because I'm not gonna tell you!  It's been a while since a game gave me the finger this often, and I've had enough. It reached the point where it just felt like work, and I had no desire to see where it was going. I  like  a good puzzle, but this one left me cold. Even Myst's obtuse puzzles managed to make me come back for more.  The good points? The art direction is gorgeous. The island is just beautiful and ripe for exploration.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is the perfect game for me. Chill, no story, beautiful island, and puzzles. Just walk around solving things and expanding my mind. The game might seem repetitive to some, but I am amazed at how many variations of the same puzzle mechanic are in this game. Very clever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "God, I hate this game.  The puzzles are fine at first, but they soon start to wear on your intellect. This game doesn't polish your mind; it whittles it down, bit by bit, until all that's left is an urgent desire to feel again. So I took a break. When I returned, I found that I'd forgotten the rules for most of the puzzles.  But I will defeat it.  For in the moments where you can claim small victories over the enigmatic mass of agony that is The Witness, when you open that bamboo door and see the light stream into your eyes and take in the next vista, when you discover that underground cavern with a mysterious artifact you didn't know existed, when you forge a new path somewhere you didn't think possible, when the next laser shoots to the top of the mountain... Those moments make it all worth it.  God, I love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Noted INDIE GAME DEVELOPMENT SENSATION, Jonathan Blow, has been in a coma for 9 years since the destruction of Mother Base. Can he find the man who did this to him? Can he truly live only for revenge?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very rewarding game with awesome level and puzzle design!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is part puzzle-game and part walking simulator, leaving us with a puzzle-game that not only provides you with some of the most difficult and intuitive puzzles you've ever seen, but also a charming and beautiful way to interact with them.  ...The thing about this game is that it is a puzzle-game in it's most purest form, theres no story, no characters, no boss battles, nothing.  It is a puzzle-game, one in which you solve puzzles. If you do not enjoy the types of puzzles it provides, or solving puzzles in general, you will -not- enjoy this game.  I guess the issue I have with this game is that it tries to be more than what it is: a puzzle-game. the world you explore is so beautiful and there so many little things that make you think there's SOMETHING going on. Human statues placed about, mysterious locked doors and plenty of INCREDIBLY artsy narration and video clips that ultimately have nothing to do with the actual game itself. I feel like the world provided gives the player this expectation of some sort of reward, like finding out why we're on this island, how we got there, what are these statues, what is in this cave, what happens if I solve all the puzzles?  The answer is quite frankly, more puzzles. There is no inherent reward for completing any puzzle in the game, except for 2 things.  1. Access to more ♥♥♥♥ing puzzles. 2. Self satsfaction that you solved that ♥♥♥♥ing puzzle.  It's kind of hard to say... it's just weird. I feel like J Blow wanted to make this beautiful world as something just to enjoy while solving puzzles (as well as being a puzzle itself), but I feel like it actually works AGAINST the game, making the player think that this game isn't just about solving ♥♥♥♥ing puzzles, when it is.  Again I think this game IS good, the puzzles and mechanics of said puzzles are some of the most intuitive and clever i've ever seen, the visuals are so enjoyable to look at and experience, it's genuinely a good game. But I feel people will get the wrong idea and become dissapointed when they discover that the game is nothing more than just that.  A puzzle-game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness stands alone among recent releases as a pure puzzle game. As good puzzle games should do each element and mechanic is added in its simplest form and difficulty is achieved through iteration and mixing of different mechanics in logical, but sometimes tricky, ways. The closest thing to a text tutorial the game contains is the controls menu. While game options are sparse and the experience has some problems for some computer setups it receives reasonable support.  The Witness is stunning and picturesque and its puzzles once mastered are deeply rewarding, and while some content in the form of audio and video logs leans towards nuage fare it is at the very least presented thoughtfully.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness, Welcome to my all-time favorites list.  I love the no-hand-holding puzzles. You have to learn the rules for yourself. The world is beautiful even if the visuals are a bit simplistic, and everywhere you look you wonder what its all about and you want to find everything.  The only thing I didn't like was the 'Challenge' area. I don't want to spoil what it is so I'll just say it took the game in a different direction that felt like a big letdown. I was expected that with only two achievements and one called 'Challenge' I was going to get a giant ultimate puzzle with every mechanic in the game that would take me hours, days... who knows how long to solve. What I got instead felt more like a crapshoot.  If you don't like puzzles and exploring, this is not for you. If you are like me, on the other hand, and you like a little mystery sprinkled on top then The Witness is definitely your jam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is a dreadfully difficult game to review. In part because, as a puzzle game, most of the joy comes from discovery and the understanding of what the game is trying to teach you, and so it is dangerous to say too much... But also because I could write entire essays about why I'm so thrilled about it. I'll try to keep it concise.  This is the best puzzle game I've ever played. It is no doubt a worthy and logical successor to Braid, even if the games have nothing in common on a mechanical level. It's downright amazing how elegant the puzzle mechanics are, just how much mileage Mr. Blow and friends got out of them, and how simultaneously intuitive and challenging it can be to grasp them.  At this point, if you know that you really do like puzzles, you should probably just buy this game.  The biggest praise, coming from me, is that I've 'beaten' the game several days prior to writing this, but I still don't feel done with it. Whereas something like Antichamber kept my attention for about two hours before losing me, after which I didn't feel engaged to keep trying to find my way through it, and many other puzzle games keep me focused for half the length of the game before impatience and headaches get the better of me and I beeline it to the ending, never looking back, I keep returning to the eerily perfect island of The Witness. Just a few minutes a day, just to wander around and hopefully discover something new. I wish I could explain why I'm not sick of it yet, but I can't. I just know there's more to do, and though I feel frustrated one day for not making progress, I'll come back another time and feel as if it was obvious all along.  At this point, if it's the pricetag the worries you, or the concept of a silent world devoid of anything but puzzles and nothing to keep you going, then don't worry. There is plenty of substance to The Witness. Perhaps there won't be an exciting, driving narrative to push you onward, or interesting characters to meet and have demand things of you, but you will find reasons to engage yourself in the world, and plenty of things to discover. If you're anything like me, you won't want to leave until you've unwound every single loose thread you can find. And even the ones you can't. Because it's only a matter of time.  Bottom line, I don't think I've ever played a game that has managed to make the simple pleasures of discovery and understanding feel so thoroughly rewarding. I don't do ratings, but if I did, this game would get five stars out of five. Puzzles will never be the same.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Only 4.5 hours in, and still in awe. Every corner is a new view, and a new puzzle. I overplayed all the Myst games back in the day and beat it with ease, the witness, not so easy. I have made sure to have audio, as I heard there was audio puzzles, but I was shocked when I finally found one, and it wasn't obvious! I plan to try and 100% the game with no spoilers, but I know it will take a lot. 5 stars, 10/10, 100%, pick a rating system and I give it a perfect score!!!  If you enjoy puzzles, indirect clues, and a lot of immersion, this game is for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you revel in the thrill of discovery, you would be doing yourself a disservise by not playing this game.  However, this game isn't for everyone. At the risk of sounding pretentious, you must be willing to truly apply your brainpower in order to get the most out of this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Let me first state that if you want story, you will find none.  That said IF you can ignore the above the game is difficult, mindbending, and gorgeous to look at.  Unfortuantly I bought it expecting SOME form of story.  If i had known there was no story from the start, I would have enjoyed the game a great deal more than I did. As it stands, because I expected story the game leaves a sour taste in my mouth, and a bit of anger at the devs.  Which is why i hesitantly recommend it, provinded you truly understand THERE IS NO STORY OR GREATER MEANING.  Because not understanding that will ruin the entire experience for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am well over half way done with the game and I must say that I very much enjoy. I enjoyed Portal/Portal 2, and The Talos Principle. Basically if you enjoy those two games and have a lot of patience then you will enjoy The Witness. Some times I will get on for 15-20 minutes and just get too frustrated... other times I will be on for 2 hours. It's a love/hate relationship, but in the end the reward of solving a puzzle and moving forward outweighs the frustration.   If you want a game that's truly challenging, has thought provoking quotes, and pushing your mind to the limits within a game... then pick it up!   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think the puzzles were well thought out, the continual exploration of different mechanics within the same overall framework and the subversion of already 'difficult' puzzles with extra rules that make you almost doubt they're solvable rewarding when you do solve them. Wandering around varied pretty environs while doing this is worked for me.  The undoubted pretentiousness present could have been dialed down a little and some narrative hooks would have been nice though it is still a great game in spite of these flaws.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Somewhere around 19-20 hours, I got the 'ending' for the game. I completed much more than was necessary by then, but there are definitely things in the world that I haven't completed yet.   I'm not a fan of the ending. But I'm still enjoying the game. Overall, I'd say it's been pretty great.  People who don't enjoy pure puzzles will likely not like this game. It's not a game that rewards you for solving puzzles. It's a game that throws puzzles at you and the reward is having solved them. That said, puzzles do prevent you from progressing, so some might consider that a reward, but I'm betting more people don't get the feeling from solving the puzzles.   While I could see it taking another 80 hours to finish the rest of the game, it would be incredibly boring if that were the case. If the rest of the game, as far as I can see, takes another 20 hours, I'd say that's as far as it could stretch and not turn tedious. And it's quite possible that even that number is optimistic.  I consider myself a rather good puzzle solver, and most puzzles didn't take more than 30 seconds to a minute, and many were less than that, even. Last I checked, I was at like 400-500+ puzzles solved.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably the best puzzle game I've ever played by far. You'd think after a while a game with 400 maze puzzles would get repetitive after a while, but each area has it's own unique genius method needed to solve those particular ones. The only thing I found slightly frustrating is that some mechanics are explained in a specific area, and it's possible that you'll find more way more complicated versions of that mechanic before being shown the 'tutorial' ones - so if something appears totally new then you may need to walk away and come back later.  Either way, my gripes with this game are minor - The puzzles are incredibly rewarding to complete and if you even remotely enjoy puzzle games (I'm a huge sucker for them), then you probably already know that you'll enjoy this title. Don't let the higher than expected price tag put you off - it's worth it and then some.  Oh, and ♥♥♥♥ tetris.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Your enjoyment of this game will only be limited by your ability to ignore preachy, thankfully-infrequent, audiologs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Alright, here's a spoiler free thing you need to know before buying the game:    Good stuff:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mind-Blown. Literally Mind-Blown.  Extremly beautiful world, amazing atmosphere for lone wanderer that love puzzles.  BTW i hate that challenge.  10/10 Draw a line again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "open-world puzzle game that focuses on freedom of choice when it comes to which puzzle you do. teaches the basics quickly and lets the player pace it for themselves. i just wanted to give it a positive review. here it is. why does steam force you to write a review?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really great puzzle game with an interesting atmosphere. There is a lot to explore and the end gives a surprise.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For the ridiculous amount of times I freaked out at the 'eureka moments' this game shovels out, this is my WHOOOAAAAAAA, DUDE! award nominee.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is Jonathan Blow's long-awaited Myst-like puzzle/adventure game.   Pros:  - Fantastic art direction - Exceedingly (and nearly endlessly) brilliant variations on the puzzle theme - Lots of secrets and hidden things - Room to think about what the game means, similar to Braid - Challenging but fair; rewards perception and thinking - Did I mention lots and lots of well-designed puzzles - That great feeling when you finally figure out the puzzle that has been stumping you for forever only to be stumped again by another one...theres lots of this here.  Neutral observations: - No music for the most part - This game is not for everyone. If you dont like puzzles very much you wont like this game.  Cons: - Around .5% of the puzzles I found to be too much of a challenge or not clearly explained - There are certain...philosophical elements scattered in the game which are supposed to add into the story, like Braid. Unfortunately Blow still has not grasped the distinction between crafting a narrative which is hidden but meaningful and one which is vague and borderline meaningless. Fortunately some of these are enjoyable enough in their own right but they distract from the rest of the game and make the story feel like its own separated fragment. - Solving so many puzzles can be tiring after a while  Overall: Essential if you are into puzzle games. Worthwhile even if you're not. Get this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TL;DR: This is not the puzzle game you're looking for. It's not like 'Portal' or 'The Talos Principle'... it's more like 'Lyne'.  Thing I hate in this game: - Invisible walls ... like really? What is this? Lego island? - You can't jump, you can't climb ... so this is an 'Open World' game isn't it?  - Lack of background music. ... Suffer in silence. - If you fail a puzzle you have to solve the previous one again too? Did I understand it right? - The game does not reward you with anything. 'Did you solve the cherry tree garden puzzle? Good here is a F*CKING PLATE OF APPLE SLICES YOU CAN'T EVEN EAT. - My PC met the recommended requirements, but it's stuttering like hell at some places. - The price ... like... seriously? What the f*ck? Better puzzle games cost much less.  Things I love in this game: - The scenery is really nice. The Biome variations are kinda magical.  I know you have the urge to purchase this game, but for the puzzle's sake... wait 'till it goes on an at least 75% sale...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fantastic puzzles that get you thinking. Smash your head on the keyboard but rejoice when you finally solve some of the best crafted puzzles in a game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like extremely difficult puzzle games, this is for you. Be prepared to look up a few solutions, and dont get too frustrated if you can't understand a certain puzzle. This game tells you nothing - you have to figure out everything. if you played and enjoyed Braid, I'd HIGHLY reccomend this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best puzzle game in a long time. It does however lack a compelling narrative, thus relying on its zen-garden like qualities to carry the player through the world.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very pretty game with puzzles that are fun to solve.  However... it gave me awful motion sickness and no setting changes could stop it.   I'm glad steam gives refunds.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Love maze puzzles? Where your reward for solving one is ... more maze puzzles? Don't care about story? If so, this is your game. Pretty graphics but underneath, the game is no different than a sudoku booklet.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very smart, beautiful and highly immersive !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is divisive because it does not follow many game design conventions that many gamers have come to expect. However, if you have the patience and curiousity to over overcome that aspect of it, you'll find one of the most unique and rewarding puzzle games ever made. The puzzles are consistent and logical, it's full of 'AHA' moments, and the world is a pleasure to explore (it's gorgeous and tightly packed).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved this game! Every puzzle is well crafted with each progression testing your understanding of rules you have to figure out yourself.  Some puzzles I draw down on paper and try and work out while awa from the computer. If a game can make me do that its a 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not for everyone. Make sure it is for you before buying it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "♥♥♥♥ing frustarting as hell  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Puzzles are the ♥♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant game, Really rewarding when you finally work out a puzzle. Its a fresh idea for a game with dynamics you will have never dreamed of. This is the real deal for gaming.    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My head hurts...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get The Talos Principle instead, a far better puzzle game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Have you ever hated how some games treat you like a child? Ever hate how some games are filled with mindless chores and repetition? The Witness is probably the most 'pure' single-player puzzle game in existence in that respect because it's a fully immersive experience that's rewarding, thoughtful, and never too difficult or easy. The perfect level of challenge persists throughout and even if you don't finish it you're going to love every minute you spend with it. 10/10, my personal GOTY so far next to DOOM and Hyper Light Drifter. Get it at any price, but a discount doesn't hurt if you're skeptical.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game makes you feel ♥♥♥♥♥♥♥♥ and you will love it for doing so.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Here’s my podcast review  [pacesmith.com] : How The Witness moved me, as spoiler-free as possible – and how it applies to life, the universe, and everything.   The Witness is grand and artistical, Its puzzles are all but simplistical. But when you see the signs, Read between all the lines, There’s hidden a meaning that’s mystical.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a reasonably challenging exploration/puzzle game; it can occasionally be frustratingly easy. Otherwise, nicely well-realized, does a good job of explaining itself. I was able to fully complete the puzzles and achievements without reference to external sources. I did end up using an FAQ for the location of the one audio log I was missing. I found the audio log scavenger hunt the most annoying aspect of the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If a peaceful brain-teaser game, a mind-bending scavenger hunt, and an existential crisis decided to have a threesome together, this wonderful game would be the glorious miracle child they conceived.  The Witness is the best puzzle game I've ever played, there is so much unique and engaging content to explore and discover it's insane to think this is an indie game. There are hundreds of puzzles to be solved and plenty more secrets waiting to be found. The $40 pricetag is pretty daunting, I know, but I don't feel cheated at all considering what I've gotten out of it and catching it on sale is an absolute bargain.  **Definitely take a look at other reviews if you have color blindness, deafness, or you become motion sick easily because some of the puzzles are centered around color or sound and I know people have had problems with those. You can always avoid those puzzles or use a guide if you need to but it's worth noting for sure.**",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why are you reading this? Go play the game already!  This is the most clever puzzlegame I've ever seen. 2D puzzle solving weaves perfectly into hints in the 3D world. I've never played anything like it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'The Witness' is an incredible game and holds many secrets. On the island you do not only discover a huge amount of puzzles, but you also gain an insight into philosphy, meditation, Zen and much more. I would say it is more than just a 'puzzle game' - in my eyes it is a completely new genre and very unique. Of course, some details make you remember the Myst games, e.g. the final flight sequence or a couple of sounds and animations. Although I played the game on a six-year-old laptop, the island looked great even on minimal graphics settings.   'The Witness' can be very hard sometimes, but it is definitely worth a try. It took me 33 hours to finish the game on my own, even though I have not yet solved all the puzzles on the island (which is not required to finish the game). I certainly will return on the island soon to discover more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You can't even imagine how many things you can do with dots and lines.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The most engaged I have ever been in a videogame, definitely a new favorite for me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is incredibly deep and rewarding. Requires a certain level of dedication and the only flaw i found was the lack of a decent customization of the graphic settings. It turns out that what you see is 99% gameplay related so this could be the cause of this limitation.  Say you turn off shadows, you would not be able to solve certain puzzles...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When you lose a competitev 14-16 and ragequit, there is nothing better than launching up 'The Witness'. 10/10 Best casual game :b1:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An incredible game that anyone who enjoys puzzles would appreciate. Lots of hours of varied experiences; I did not lose enthusiasm even though I tend to bore easily.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The World's Finest Play an Insanely Difficult Puzzle Game Then Watch a 40 minute GDC Talk to Unlock the Final Puzzle Simulator!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At one point I felt like this game was teaching me about relationships with maze puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The puzzles are well done, although often fruistrating. But that's the nature of puzzle games :) The witness strikes a good balance between challanging and rewarding. The visuals are stylistically beautiful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. The atmosphere is dreamy and wonderful. The puzzles are taught with no words via small examples first and when they finally click they make you feel like a genius. It is not an action game but for me it's definitely one of the best games I played in a long time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I close my eyes I can only se puzzels. Damn you Jonatahn Blow!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the best challenge I've experienced in a long time. Very much enjoyed the puzzle. I want more. Give me more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really great gameplay and interesting puzzles, would recommend it to a majority if my friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is probably one of my favorite games of all time, while it does lose its play value after each run, that first run and the beautiful world is stuck in my mind.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very beautiful and intellectually stimulating puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An insanely atmospheric experience that slowly draws you in with simple mechanics that build upon each other ending with puzzle that will truly test your ingenuity and logical reasoning. A masterpiece in how puzzle games should be put together.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best puzzle game in years.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a lengthy, chill puzzle game... most of the way through. Then near the end you get the carpet pulled out from under you and are thrown into an RNG-based time-attack which, if you're anything like me, will just make you angry. So I recommend avoiding this one, unless  both  50+ hours of super-chill puzzle exploration  and  stressful, randomized time-attacks that you will fail repeatedy sound like fun to you.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hands-down, the most clever puzzling I've ever had the pleasure of solving. Frustrating, but rewarding. Difficult, yet casual. This game was worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The witness is a puzzle game, with mild elements of exploration. Having come into this game expecting akin to Braid I was sorely disappointed. I am dissapointed, not because this game doesn't have puzzles or atmosphere, but because its a very isolating game. While figuring out the puzzles there is no background music, no overarching narrative - just the complusion to better your puzzle solving skills.  Don't get me wrong, the puzzles in this game are great. The build up of the puzzle design is great. The art design is great - but it feels hollow overall. I guess I could liken this game to someone making a rubiks cube simulator with hundreds of different rubiks cubes. Is there hours of game play here - yeah - is it misleading in its purpose - no. Would I play it for hours on end - no.  In regards to the puzzles specifically, as mentioned previously I feel like they are well done, but at the same time some of them start to feel gimmicky. I can't think of a good example of this, but I feel like puzzles should be self-contained, and should not require the environment outside of the puzzle to solve.  Is the witness a good puzzle game? Yes Is the witness a game that I would recommend? No",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's unfortunate that many people might skip on this game because they think it is a “mobile app in a pretty world” or something. And from the trailer, it's understandable people may think that.  But this is not true and anybody who says so did not play for more than an hour. This game needs its 3d world or else most of its puzzles would either be unsolvable or simply not exist. So why don't the trailers try to explain this? Because unlike say Portal, many puzzles are easily spoiled and showing them dampens the fun and discovery.  In The Witness, you are dropped in a open world surrounded by hundreds of puzzles with no instruction on how to solve any of them. This game doesn't want to make you feel smart because it believes that you are smart. Yes, the game gets hard. Very hard, but it's just so satisfying. So be warned.  Also, know that this game is puzzle after puzzle after puzzle. With out much story, The Witness is only for those who really like puzzles. Each of these puzzles managing to bring in an interesting new concept while building from others. Not a single puzzle felt repetitive. Which is pretty amazing, over 600 puzzles about drawling lines? I know it sounds like it would get old fast. But it doesn't. When I was 40 hours in, 50 hours in, 60 hours in, I was still discovering things that change the way I look at the game and its future puzzles. There is so much cool hidden stuff that continued to surprise me, because everything in the game has reasons behind why it exists and why it is where it is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enjoy the eureka moment for 400+ times. :) No more mind♥♥♥♥ing game anymore plz.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful game that keeps surprisng you. While the puzzles occasionally get repetitive, its a deeply enjoyable game.   I personally liked that you had to figure out EVERYTHING for yourself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ok, so I didnt like it. I bought into the hype and purchased at full price. I sat down with my daugher (15) and we started playing. After two hours, she got up and walked away... She kept saying, 'I dont see a point'. The 'mystery' (aka lack of context) was not an appealing component for her. I soldiered on for another hour and took a break. Two weeks later, I have not had the desire to return.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Debated about getting this game for a few months. Finally bought it, then it went on sale. *sigh*",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the gaming equivalent of eating trash from the Whole Foods dumpster.  In short, it Jonathan Blows.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best video game experience I have had in a while. This game is pornography for designers. Gorgeous.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is a masterpiece. No game has ever lodged itself in the back of my brain as well as The Witness. 'The Challenge' was really hard, and really awesome. Buy The Witness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Greate game. If you like doing one puzzle in every possible variation. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game made me want to program again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Am nowhere near finishing this game. It's beautiful and fun in a challenging way though, I love playing it so far!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ingenious and often infuriating. Confounds you for minutes or hours, then surprises and elates you in seconds.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hauntingly beautiful. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i love this game. yes, it can be hard and lead to sleepless nights trying to solve a puzzle, or secret hunt. definitly recommend for people who want a good challenge and as much time and attempts as the player needs",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not going to be for everyone. If you're looking for a game that has action, violence, and an engaging plot that will keep you on the edge of your seat, look elsewhere. If you're impatient, and if you don't want your brain to hurt, this isn't the game for you. With that being said, in the amount of time I've invested in The Witness so far, it's already one of my favorite puzzle games of all time. The game takes the basic concept of maze puzzles, and introduces new mechanics to them to make you think. It then takes those new mechanics, and gives them a little twist, to make you think even more. And then once you think you've mastered that mechanic, it mixes it with another mechanic that you've previously learned, or even a brand new one. This game is hard, and it doesn't make any attempt to hold your hand. This game is going to make you want to smash your head onto your desk, but in a good way, because you want to conquer this latest puzzle so badly.  The game has an incredible atmosphere, with gorgeous visuals and ambient sounds immersing you into this island world. There aren't any graphics settings, which is a huge bummer, but hopefully that is something that could be patched into the game. The vibrant colors of the island really pop off the screen, and the different locations throughout the game are really neat. You can also listen to some audio diaries located throughout the island, which have different quotes from all sorts of different people. This would be a great game to have a podcast on in the background. Not that the sounds are bad, they do a good enough job to keep you immersed in the game while you're playing, but it might be nice to have something else to listen to as well. The controls work great, on both a controller and a keyboard and mouse. Pick whichever one you're more comfortable with. I know a lot of people have been complaining about the $40 price tag, but from what I've played so far, it seems absolutely worth it. There are a ton of puzzles in here, and it's going to take you awhile to beat the game.  tl;dr I you want something different than a complex puzzle game that keeps you on your toes with a great atmosphere, you're going to want to look elsewhere. But if you've been craving a game like The Talos Principle or Portal, you should absolutely pick this up. This game is worth the price tag, and it's going to be a long time before you forget your time in The Witness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Frankly The Witness started off ordinary, solving snake-like puzzle from panel to panel. Then I had a blast when I begin to understand and appreciate the interplay between the environment and the puzzle panel is the solution in progressing forward. Best puzzle game so far for 2016 :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed this game for about 30 minutes before needing to take a long break due to motion sickness. I tried changing a few of the settings and played for a little bit more, but the damage had already been done and I decided to uninstall the game. It's unfortunate, because I really did enjoy the parts that I saw. Luckily, Steam was able to give me a refund.  I've had a similar reaction to Half-Life 2.  Portal and Portal 2 didn't make me as sick for undetermined reasons.  Edit: For clarification, I liked the game, but it made me sick. I downvoted it so that when other people who also get motion sickness from certain games are trying to evaluate whether they should play the game or not, they can find reviews that let them know that this game might make them sick (despite it being mostly a puzzle game).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's like an island that's covered in bees. Except the bees are puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Waste of time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "My phone is filled with screenshots and my desk is covered with scribbled mazes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Haven't loved a puzzler this much since Portal. Great game - worth your time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1. warning!  this is not a usual puzzle game. this game is about finding out how the puzzles work. figuring out the mechanics is the meat of the game, so don't spoil it by looking it up. if you don't understand a puzzle, go somewhere else. every puzzle type has a tutorial area, where the rules are explained. also don't rush those tutorials. some of them can be beaten by a little bit of luck or perseverance, however, you probably don't want to leave without a firm understanding of that particular game-mechanic. go back to each piece of the tutorial puzzles, and see if your understanding of the rule does indeed apply. btw googling it might not even help, there is a lot of misinformation out there, especially about the star or sun icons. figure it out yourself.  2. pros  the core gameplay. although based around the same apparent structure, the puzzles are actually highly varied. the interaction between the world and the puzzles are two-way and smart. amazing how much juice you can squeeze out of one puzzle type.  the world. is lush, beautiful and interesting to explore. explore just for the sake of it. to watch from every angle, visit every last bit of it.  3. cons  the software itself aka production value. considering the thousands of hours went into designing the world and the puzzles, the main puzzle is why the developers could not allocate a few dozen more into making a proper UI, rebindable keys, comfortable movement, somewhat less painful mouse control in puzzles, some music or at least interesting ambient sounds, a little less broken sound for the recordings and movie clips, and such basic qualities. the programming is borderline incompetent.  ending. or the lack thereof. it is OK though, we don't really need one. but we need to admit that the ending is laaazy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome and beautiful game. Well worth the retail price.  If you like game like the Talos Principle or Myst then its a must have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm a massive fan of the Talos Principle, to which many are comparing this game. I can't agree, and haven't enjoyed The Witness nearly as much.   My major problem is that this game broadcasts that IT'S IMPORTANT at every chance. The game is silent because IT'S IMPORTANT. There is no motivation for the puzzles because IT'S IMPORTANT. There are no rewards for solving puzzles because THE GAME IS IMPORTANT. There's no story BECAUSE IT'S IMPORTANT. And so on, and so forth.   And just 2 Achievements makes me mad. So I'm a human being and like making some visible progress in games. Sue me.   I feel like somebody in the crowd watching the Emperor go by in his new clothes, except for the fact that he's completely naked.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "My Short Review of 'The Witness'  What makes The Witness a sublime game is that the mechanics continue to build upon themselves in profound ways. However, going into more detail about the WAYS in which these continue to expand and evolve really would spoil the experience.   I am willing to say is the following:  1) Despite how it may first appear, it isn't all just simple line puzzles on series of monitors about 'connecting the dots.' This mechanic forms the heart of the game, but it develops beyond that in really cool ways. These include expanding out into the world surrounding the puzzles so that the game and the world work in symbiosis.  2) It's going to push you to constantly re-examine the assumptions you've made about how the game plays and maybe even larger assumptions about the way you think in general, about the limitations of human perception and the way we make meaning. I can say that of very few games.  Very few puzzle games are of the caliber of the Witness. I've put about 20 hours into it thus far and I would rank it with the likes of Portal. It's going for something very different tonally (The Witness is austere where Portal is satirical), but it is that caliber of puzzle game and similarly highly unique.  And that's not to mention the aesthetics of the world it establishes. It's a beautiful world with shades of Myst. Imagine the ambling about the lost city of Pompey with a proliferation of pastel coloring at every angle. And it has a polish goes goes all the way down to the satisfying 'thump' when you lock a puzzle in place or the ping when you query the cursor. This isn't a cheaply made thing. It is a thing made with the type of loving care to detail that is very rare. There's no jankiness or weird graphical glitches or animation hitches we've come to expect with modern game design's growing pains anywhere to be seen. Nothing but a high caliber sheen.   I would just like to end by discussing the supposedly controversial price point of the 'The Witness.' If you are someone who plays games but doesn't think this game is worth $40 then there are really only two possible explanations:  1) You have not played it yet and don't realize you are profoundly wrong. Profoundly.   2) You are a very stupid person.   In the first case, allow this review to inspire you to give it a shot. In the second case, you are likely too dumb to appreciate this game anyway and someone should probably come and take that $40 away from you before you accidentally shove it up your nostrils and suffocate in your idiot confusion over trying to use your mouth as a breathing apparatus.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Omg! Don't buy this game unless you're a freaking Zen Buddhist!   I like puzzle games. I even like walking simulators and I love the artwork of The Witness. So I figured I'd ignore the bad reviews and give it a shot since it was on sale for 35% off. Oh man I wish I hadn't. I played a good amount on my first two play throughs and then I wandered into an area where the walkway I was standing on turned into a moving platform when I solved the puzzle. Cool. Only the next two puzzles were too confusing to figure out. No big deal, I'll just go back. Hmm... can't jump back there's no jump key... I know, I'll fail the puzzle and it should put the walkway back to it's original position. Nope? That's frustrating. Oh well, I'll start a new game because I finally made sense of some earlier nonsense.   An hour and a half later I'm feeling better cause I'm making a lot more progress than I did before. Hmmm what's this? A puzzle where it incorporates the rocks in the background into the solution. Oh that's neat! Next... ok these are interesting but... hmmm why can't I figure out this one with only a single rock in it? 20 minutes and a hundred attempts later 'Eff it, I don't care if I can't solve them all let's check a walkthrough. Ok WTF? You have to position your character 45 degrees to the left of the sign and then you'll see some rocks that line up properly so you can solve it. Urgh that was lame... next puzzle... oh, looks like they want me to do it again? Check the walkthrough. Nope, it's these trees in the background... but wait a minute that solution doesn't even make sense when they tell me the answer!  Ok Eff this game!  My hat is off to those that can actually solve these isoteric nonsensical puzzles and somehow enoy themselves at the same time, but holy crap I haven't had a game make me want to rage quit this much since... ever! If it wasn't a digital download I'd turn the disc into a shuriken and throw it at the wall! AAARRRRRRRGGGGGGH!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This saturates every part of my brain at once. It's aesthetically, philosophically, and analyitically beautiful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Constantly forces me to question my own sanity; makes me want to destroy my keyboard; forces me to use outside materials to finish puzzles; I have no idea what's happening in the story. A traumatic experience.  It's pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+Puzzles +Pretty  -Story -Artsy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In a phrase, this is a game that values *you*. It values your time, your attention to detail, your willingness to clear your mind and focus on the subtle, nuanced ways in which the game guides you towards success, and even your inevitable frustration and need to explore other challenges. Worth the wait, and worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's only one type of mazepuzzle with different variations. Not worth 36,99 €.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "My god this game is boooooooooooooooooring. Its just one maze puzzle after another; the type you would find on children's place mats in a resturant. It's visually well-presented and the atmosphere is.. well, kind of non-existant.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Looking at The Witness as a puzzle game it most definitely deserves a 10/10. The way the same puzzle mechanic is manipulated in so many ways is astounding. The Witness is the Myst of our era.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "boring, even for a puzzle game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I absolutely hate the core mechanic of this game. I've avoided following it too closely because I wanted to be surprised, and boy was I surprised to find that this game is nothing but dragging your mouse cursor around 2D mazes. I hate it. I absolutely hate it. This is the first time I'm refunding a game on Steam.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Here’s a Hint, Think outside of the box. Not only think but walk around the box, Think what the box is? Think how did the box get here? What does the box think about me? Do you love the box? Does the box love you? Then walk away from the box because you have no idea what you’re doing. - Luke Rising 2016   From the person from 'Braid' you walk around the island looking for puzzles.   (Handy Tip, once you solve a puzzle take a picture of it on your phone, IF you fail the next puzzle you need to complete the puzzle again)  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will kick your ♥♥♥. I have been playing about 5 hours, and while the game starts out relatively easy, it doesn't take long before you will pull your hair out in agony. It's filled with clever puzzles that will challenge your memory, critical thinking and observations.  But the game is not without its flaws:  1. It doesn't have any coherent story, which can both be good and bad.  2. it doesn't have any ingame music, and only ambiant sounds will be heard during the game. I think that's a shame.  But overall i'm definitely glad I purchased this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love it the art style of this game and there's puzzles everywhere.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "jonny blew's wacky puzzle island adventure. everyone was turned to stone from autism overload.  (its good)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After my intial sound problems were fixed quickly with a patch, I now recommend this game. It looks just beautiful and the puzzles are fun to solve.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a masterpiece. Play it now!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Zero explanation and zero hand-holding. If you want a cryptic puzzle game that will require a walkthrough to progress, then get this game. Personally, I give up. I don't want to play a game that requires a guide to beat it. Am I just stupid? Why don't you find out for only $39.99! It's pretty though. There's that.  EDIT: I didn't give up. I'm still playing it and still relying on a guide when I can't figure something out rather than spending hours doing trial and error. I still don't recommend this to the general user, only people who like very difficult puzzles.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its literally just pokemon snap",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good puzzle game with awesome mechanics but in the end is just a massive time sink and leaves a sour taste in your mouth.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The puzzles are hard and it's pretty laidback. If you want a casual puzzle game that you can get lost in this is perfect. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In my oppinion plain and simple. One of the biggest wastes of money a man can buy at full price. The game is very bland. There is no music, just the sounds of the environment. I regret my purchase at the full price. However, the game is a nice challenge. It might be worth it at a 75% off sale.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The upcoming iOS version of this game will earn more if offered free with in-game purchase for solutions.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Puzzel game with basicly no narrative look into stanely parable or The beginners guide those games have a great anrrative and are much better games. Dont waste your money on this over rated piece of ♥♥♥♥. I returned it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great graphics, soundtrack and puzzles.   I give 9 from 11 Airplanes for this Game!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "boring",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You awake alone on an beautiful island full of puzzles.  The puzzles share a central theme where you must draw a line starting from a ball, through a grid, and to the end point.  It starts very simple and gets complex.   There is, however, a greater truth to be found about your origin, the island, and universe itself. There is no meaningful dialogue and no tutorials in the game so you must figure out this truth on your own.  If you enjoy laid back puzzle games, buy this now.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simply a masterpiece!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For those who love puzzles, I would highly recommend this game. It is completely addictive and the environment is drop dead gorgeous. It is a bit spendy but will take me many hours to complete, so the 'game time per dollar' ratio is favorable. Despite a common puzzle theme throughout the game, the variety and increasing complexity has my brain working overtime. In my opinion, this is a much more pleasant game experience than Obduction.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I found this game to be really fun and extremely challenging. Although there were many parts I didn't need a guide, there were many situations where I was reaching for a guide or did reach for one. This game definately isn't for everyone, but if your looking for a challenging puzzle solving game, this may be for you.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games I ever played. The supreme satisfaction you feel as you finish a hard-to-complete puzzle, or find a secret (there are many).  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't go into this game expecting story, or any kind of explanation. All this game has to offer is pretty views and puzzles. However, these pretty views are incredibly polished and thought out, and these puzzles are some of the best, most creative, and thoughtful I have ever seen in a video game. The game is well worth its price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, some tough head scratchers. The world was a joy to expore.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The first hour may be discouraging, but if you keep playing you will know for sure if you love it or not.  btw if you like puzzle games then this game is right up your alley",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Addictive, inventive, and mysterious, this game continues to cause mysteries to this day.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best puzzle games I've ever played. Pretty much perfect. Makes you feel like the smartest person alive when you finish a puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was a great game. It's incredibly calming - and sometimes it's a great walking simulator instead of a puzzle game - but the puzzles are fiendishly clever and while it starts easy, this game gets HARD.  I still have not completed (or even found) all the puzzles yet.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved this game. A lot of reviews say the puzzles were repetitive, which I see why, but they did not get boring at all to me. The puzzles all LOOK almost identical. But each one is very different. Each of the beautifully designed and colorful areas has a different set of rules for the puzzles, that you have to learn. Which is exactly how Braid was, for those of you who played it. If you liked Braid, you will probably like this game as well. Although I love this game, I love Braid more.   Half the puzzle is figuring out the rules to the puzzle, which was so much fun to me. Once you've think you've learned rules, they start to get harder, and harder, and harder to make sure you really understand it. Then once you've learned all the rules to all the different types of puzzles. You can attempt to beat the end game puzzles, where they start to combine the different types of puzzles together.   I like to think that this game was a test, and the puzzles outside of the end game area were just helping you study. That's EXACTLY how it felt to me. Well except that I loved this game and I hate studying in real life.  The only bad thing I would have to say about this game is... The game is very full of itself. It has these very slow, annoying 'philosophical' video clips and audio clips that seem very controversial. To me, they are very obnoxious (in a know-it-all who doesn't know-it-all kind of way). Like the game is trying to be a hipster sundance movie that thinks it's better than you if you don't agree with it. But the good news is, you don't have to watch or listen to them. You can just skip them and not play them. Which I highly recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The world needs more games like this. Peaceful puzzle solving that includes every aspect of the world. That feeling when you come back to a puzzle and finally solve it... So worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Edward Grieg! Excellent puzzle game, a true immersive and addictive experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best game you can buy for your brain. Apart from the simple but really imaginative puzzles, this game is pure eye candy and excellent level design. Also, you can find awesome thoughts, by various thinkers and scientists from different times which are very vauable and interesting throughout the island.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love a good puzzle game - Talos Principle was one of my recent favorites. You could probably consider The Witness to be along the same vein, although with less physicality to the gameplay.  This is not quite as good as Talos Principle, IMHO, as it's just unending variations on line puzzles (AFAICT). Some of the twists are quite clever, but it's still line puzzles as far as the eye can see. I'd lover a little more variety in puzzle type.  That said, I've been enjoying them so far, and the artwork is very nice.  A solid 3 out of 5, 4 of out 5 if you don't mind never-ending line puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is my favorite game of all time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My GOTY 2016. Unbelievably beautiful, innovative and deep. That black cloud though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You wake up, finding some panels, draw your answers on the panel, proceed to the next panel... Until somehow you opened the door and walk into a huge world... The game is not only about 'solve the puzzles', but also 'figure out the puzzles'. What's this puzzle all about? Why this doesn't work? Where am I right now? Where should I go next? Well I'm a bit tired now, let me just take a rest and enjoy the scenery on the boat...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game about learning how to learn. The less you know of the puzzle specifics, the more enjoyable you will find the puzzles. It's also worthwhile understanding when to leave something alone, and to come back to it when you have understood something new or have had a different idea, rather than just trying to repeat the same solution that doesn't work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is an enigmatic puzzle game with same ancestral roots as Myst and Riven. The game itself is very different from most modern games and gameplay since it does not have the same protagonist vs. antagonist mechanics, but does allow for a more cerebral puzzle solving experience in a beautifully designed world. Creator Jonathan Blow has truly demonstrated that video games are art and offer something far more substantial than worrying about DPS and leaderboards.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game that is so much more than seem apparent at first glance.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a puzzle lovers paradise and reminds me of the Myst games. The only negative for me is the sound puzzles (they were worse than the Myst sound puzzle), but if you're not tone deaf like I am then you should be fine with these types of puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even though this game comes off as overly pretentious at it's core it's a solid and well-designed puzzle game. It's numerous variations of the basic principles keeps the game fresh longer than one would initially assume, and if you are perceptive enough, you'll find that the puzzles transcend the game.  The highly stylized graphics are pleasant and fitting, and the sound design is impressive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is hand down my favourite game of 2016, and would gladly erase my memory to start from square one again. If you love puzzles this is a must buy. It seems like a simple game that only contains panels, but there is so much more to discover (which I can't tell because spoilers). This game will really Blow your mind and keep you up in the middle of the night to solve another puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best and most creative puzzle game ever made to this day.  Chances are that you won't even finish the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't know what kind of pattern locks to use on your phone / tablet? This game is the ultimate solution. Unfortunately I forgot my original pattern while playing this game and can not unlock my phone any more, had to order a new phone. At least I will have a new and secure patter that I could easily remind myself by playing this game if I should ever forget it again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Myst 2016! Get this discounted if you can, it's got about 12 hours worth of pretty scenery and repetitive puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Witness is not a game that everyone will appreciate, but it will strongly resonate with some people. Much like Jonathan Blow's previous game, Braid, The Witness takes a simple game mechanic and explores it as fully as possible. While the actual gameplay involved in solving The Witness' series of two-dimensional mazes differs significantly from Braid's time-manipulation in a platforming context, I feel that most fans of Blow's last game will love this one even more, while those who thought it was pretentious will think that The Witness is even more pretentious.  The game is still 'just' a game, so I don't want to get anyone's hopes up too high, but from playing well over a thousand games over the last few decades, I would have to say that The Witness is one of the most noteworthy and original games that I have experienced. A large part of one's appreciation for the game will be based on what one puts into it though. If you look up any spoilers or hints, you're not really playing the game and are better off spending your time and money elsewhere.  If you play games for the story, you should pass on this one. If you play games for the gameplay or challenge (and have an analytical mindset), you should definitely give it a shot.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "loved it definetly going to play it again and again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't recall any games inrecent history that demonstrate games as an art form as well as The Witness does. It's design is profound, conveying deep meaning through the simple act of completing its puzzles. I could, almost want, to write an entire essay on its themes but words cannot the experience itself. You must play this, and the less you know about it the better the experience becomes.",
+            "review_score": "1"
+        }
+    ]
+}

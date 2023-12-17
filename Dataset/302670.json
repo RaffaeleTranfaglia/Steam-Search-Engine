@@ -1,0 +1,52 @@
+{
+    "app_id": 302670,
+    "name": "Call to Arms",
+    "release_date": "2018-04-27",
+    "developer": [
+        "Digitalmindsoft"
+    ],
+    "publisher": [
+        "Digitalmindsoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "In-App Purchases",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Military",
+        "Multiplayer"
+    ],
+    "achievements": 84,
+    "positive_ratings": 5787,
+    "negative_ratings": 2144,
+    "price": 0.0,
+    "description": "Call to Arms offers an innovative mix of real-time strategy and 3rd, as well as 1st person controls. Set in the time of modern warfare, the game offers realistically modeled vehicles and heavy weaponry, as well as dozens of firearms and customizations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/302670/header.jpg?t=1543040096",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 64bit - Windows 7, 8, 10 Memory: 4 GB RAM Graphics: DirectX 11 compatible DirectX: Version 11 Storage: 40 GB available space Sound Card: DirectX 11 compatible",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: 64bit - Windows 10 Memory: 8 GB RAM Graphics: DirectX 12 compatible DirectX: Version 12 Storage: 40 GB available space Sound Card: DirectX 12 compatible",
+    "reviews": []
+}

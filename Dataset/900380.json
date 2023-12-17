@@ -1,0 +1,46 @@
+{
+    "app_id": 900380,
+    "name": "Indian Summer",
+    "release_date": "2018-11-20",
+    "developer": [
+        "DIGIDICED"
+    ],
+    "publisher": [
+        "DIGIDICED"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Uwe Rosenberg's puzzle follow-up to the smash hit Cottage Garden!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/900380/header.jpg?t=1542701212",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1 Ghz Memory: 512 MB RAM Graphics: DX 9 (shader model 3.0) DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

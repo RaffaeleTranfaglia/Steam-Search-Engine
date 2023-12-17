@@ -1,0 +1,41 @@
+{
+    "app_id": 946210,
+    "name": "Nevsky Run",
+    "release_date": "2018-10-09",
+    "developer": [
+        "Original Gam"
+    ],
+    "publisher": [
+        "Original Gam"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 19,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 1.0,
+    "description": "This is the first thematic game about Alexander Nevsky! It is executed in the form of 3D platformer. In it you have to fight with evil, find out what happened, play for Mr. Universe and go his way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946210/header.jpg?t=1546949820",
+    "minimum_requirements": "OS: Windows 7, 10 only 64 bit Processor: 2 core level AMD Phenom II X2 555 Memory: 4 GB RAM Graphics: 1.5 GB of the level of GTX 760 or analog from AMD DirectX: Version 10 Storage: 6 GB available space",
+    "recommended_requirements": "OS: Windows 7, 10 only 64 bit Processor: AMD Phenom II X2 555 Memory: 6 GB RAM Graphics: 2 GB of GTX 960 level DirectX: Version 10 Storage: 6 GB available space",
+    "reviews": []
+}

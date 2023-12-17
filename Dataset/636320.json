@@ -1,0 +1,41 @@
+{
+    "app_id": 636320,
+    "name": "Depth of Extinction",
+    "release_date": "2018-09-27",
+    "developer": [
+        "HOF Studios"
+    ],
+    "publisher": [
+        "HOF Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Turn-Based Tactics"
+    ],
+    "achievements": 37,
+    "positive_ratings": 77,
+    "negative_ratings": 35,
+    "price": 11.99,
+    "description": "Explore a flooded world and save humanity from a terrible threat in this turn based, tactical RPG with roguelike elements",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/636320/header.jpg?t=1549381499",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: Processor: 2.0 GHz or faster processor Memory: 2 GB RAM Graphics: Graphics: 3D graphics card with at least 256MB of addressable memory DirectX: Version 10 Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

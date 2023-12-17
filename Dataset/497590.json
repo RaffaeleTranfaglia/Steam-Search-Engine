@@ -1,0 +1,40 @@
+{
+    "app_id": 497590,
+    "name": "Sapper's bad dream",
+    "release_date": "2016-07-07",
+    "developer": [
+        "WTFOMGames"
+    ],
+    "publisher": [
+        "WTFOMGames"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 10,
+    "price": 2.89,
+    "description": "The bomberman's nightmare. Or is it not a dream? Blow up the creatures before they try to kill you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/497590/header.jpg?t=1495866625",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 8.1, 10 (32 and 64bit) Processor: SSE2 instruction set support (Pentium 4, Intel Atom, Athlon XP or highter) 2Ghz Memory: 1 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work. DirectX: Version 9.0c Storage: 400 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

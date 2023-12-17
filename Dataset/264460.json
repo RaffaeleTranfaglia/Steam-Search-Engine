@@ -1,0 +1,50 @@
+{
+    "app_id": 264460,
+    "name": "A-Men",
+    "release_date": "2014-01-24",
+    "developer": [
+        "Bloober Team SA"
+    ],
+    "publisher": [
+        "Bloober Team SA"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 25,
+    "positive_ratings": 19,
+    "negative_ratings": 28,
+    "price": 6.99,
+    "description": "What is A-Men?Classic puzzle-platformer, inspired by some oldschool titles like Lemmings and Lost Vikings. What is A-Men like?Hard. No holding your hand, no easy levels, we want to challenge you. If you are a casual, A-Men is not for you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/264460/header.jpg?t=1450771571",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: Intel Pentium / AMD Athlon XP 2.0 GHz Оперативная память: 1 GB ОЗУ Видеокарта: 128 MB DirectX: Версии 9.0c",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The game  keeps crashing  in the first level trying to load the different 'hint' or help windows. It's not always the same one, and sometimes they work. But since I can't even finish level 1 due to the constant crashing:  I Do Not Recommend This Game In It's Current State!   It looks interesting, and I'll try it again once a new patch comes out that hopefully fixes this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's an ok puzzle game. But not that great.",
+            "review_score": "1"
+        }
+    ]
+}

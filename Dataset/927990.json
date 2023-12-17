@@ -1,0 +1,38 @@
+{
+    "app_id": 927990,
+    "name": "A Game About",
+    "release_date": "2018-11-06",
+    "developer": [
+        "byolivierb"
+    ],
+    "publisher": [
+        "byolivierb"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 5,
+    "positive_ratings": 408,
+    "negative_ratings": 38,
+    "price": 0.0,
+    "description": "A Game About is a free, short, lo-fi point &amp; click adventure that tasks the player with living with their daily routine. Through day to day choices, life changes in imperceptibles and unexpected ways.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/927990/header.jpg?t=1548110926",
+    "minimum_requirements": "OS: Windows 7 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

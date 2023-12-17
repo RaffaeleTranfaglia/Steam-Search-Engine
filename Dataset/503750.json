@@ -1,0 +1,47 @@
+{
+    "app_id": 503750,
+    "name": "SPLASH BLAST PANIC",
+    "release_date": "2018-08-28",
+    "developer": [
+        "Team KwaKwa"
+    ],
+    "publisher": [
+        "Digital Smash"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "SPLASH BLAST PANIC is a multiplayer competitive party game where you must shoot, ram, dodge and overall bully your opponents outside the screen with a variety of watergun-based weaponry.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/503750/header.jpg?t=1535478172",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

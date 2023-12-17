@@ -1,0 +1,46 @@
+{
+    "app_id": 809850,
+    "name": "Sudoku Zenkai",
+    "release_date": "2018-04-02",
+    "developer": [
+        "ImaginationOverflow"
+    ],
+    "publisher": [
+        "ImaginationOverflow "
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 57,
+    "positive_ratings": 58,
+    "negative_ratings": 5,
+    "price": 1.69,
+    "description": "Sudoku Zenkai is a game for everyone, from beginning to advanced players. It brings a new dimension to sudoku - you can solve puzzles with your friends, wherever they are! You can start a new puzzle with a friend or call one over to help when you get stuck.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809850/header.jpg?t=1554217123",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2.0Ghz+ Memory: 1 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

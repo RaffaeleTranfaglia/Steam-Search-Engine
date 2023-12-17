@@ -1,0 +1,39 @@
+{
+    "app_id": 932300,
+    "name": "Taco Truck Madness",
+    "release_date": "2018-09-27",
+    "developer": [
+        "Game Mechanics LLC"
+    ],
+    "publisher": [
+        "Game Mechanics LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Save the world using tacos, nachos and quesadillas to put a taco truck on every corner. Drive across America avoiding obstacles and feeding hungry looking people as you go. Banditos, police, and even a sloppy joe hurling lunch lady stand in your way. Simply fun.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/932300/header.jpg?t=1538081903",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64-bit) or later Processor: Intel Pentium II or AMD equivalent Memory: 1 GB RAM Graphics: 512mb Video Memory DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64 bit), Windows 8, Windows 10 Processor: Intel i3 or AMD equivalent Memory: 2 GB RAM Graphics: 1GB Video Memory DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

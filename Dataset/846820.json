@@ -1,0 +1,41 @@
+{
+    "app_id": 846820,
+    "name": "Tell Me Everything",
+    "release_date": "2018-05-29",
+    "developer": [
+        "LizardFactory"
+    ],
+    "publisher": [
+        "LizardFactory"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 25,
+    "negative_ratings": 4,
+    "price": 0.79,
+    "description": "A mysterious murder has shocked the inner city, and as the lead detective, it is your job to catch the real killer. Armed with words and wits, you uncover the secrets and capture the murderer, and make sure justice will be served.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/846820/header.jpg?t=1550098964",
+    "minimum_requirements": "OS: Windows® 7 (32/64-bit)/Vista/XP Processor: 1.7 GHz Processor or better Memory: 128 MB RAM Graphics: Nvidia 8600 / Radeon equivalent DirectX: Version 8.1 Network: Broadband Internet connection Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows® 7 (32/64-bit) Processor: Pentium 4 processor (3.0GHz, or better) Memory: 256 MB RAM Graphics: Nvidia 8600 / Radeon equivalent DirectX: Version 9.0 Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": []
+}

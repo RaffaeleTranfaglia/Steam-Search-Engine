@@ -1,0 +1,44 @@
+{
+    "app_id": 451990,
+    "name": "Cranks and Goggles",
+    "release_date": "2016-12-21",
+    "developer": [
+        "Play Native Entertainment"
+    ],
+    "publisher": [
+        "Play Native Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 20,
+    "positive_ratings": 84,
+    "negative_ratings": 36,
+    "price": 1.69,
+    "description": "Cranks &amp; Goggles is a top down racing game set in the roaring 20s. The game’s engine utilizes real physics in order to mimic the unstable (and quite dangerous) nature of the period’s automobiles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/451990/header.jpg?t=1553603200",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core CPU 2.4 gHz Memory: 4 GB RAM Graphics: Intel HD Graphics 4000, Nvidia GeForce 8000, ATI Radeon HD 4800 Series DirectX: Version 10 Storage: 700 MB available space Sound Card: Windows Compatible Card Additional Notes: We recommend updating your PC's hardware drivers before playing. If your PC is no longer supported by your manufacturer and your hardware drivers are very old, you may experience difficulty running the game. Please check with your PC manufacturer for more details.",
+    "recommended_requirements": "Processor: Intel i3 Memory: 4 GB RAM DirectX: Version 12 Sound Card: Windows Compatible Card",
+    "reviews": []
+}

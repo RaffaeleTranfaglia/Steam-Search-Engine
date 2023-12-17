@@ -1,0 +1,41 @@
+{
+    "app_id": 891380,
+    "name": "Retro Snake Adventures",
+    "release_date": "2018-08-21",
+    "developer": [
+        "JoHo"
+    ],
+    "publisher": [
+        "McPoyLE Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "It's a unique twist on the Classic Snake Game. It's kinda like snake, but adventure mode. Collect keys to get through doors, but watch out for your tail and walls.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/891380/header.jpg?t=1535141602",
+    "minimum_requirements": "OS: windows 64 bit Processor: 1 ghz Memory: 512 MB RAM Graphics: NVIDIA graphics card Storage: 125 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

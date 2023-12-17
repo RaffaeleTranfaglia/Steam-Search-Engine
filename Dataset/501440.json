@@ -1,0 +1,39 @@
+{
+    "app_id": 501440,
+    "name": "Stars",
+    "release_date": "2016-08-30",
+    "developer": [
+        "MatrixStudio"
+    ],
+    "publisher": [
+        "MatrixStudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 5,
+    "positive_ratings": 11,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "《Stars》is a VR game about stars. you can completely relax, look up at the sky and listen to the story of each constellation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501440/header.jpg?t=1472549287",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 / AMD FX 8350 Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5-4590 / AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 776410,
+    "name": "Sorcerer's Path",
+    "release_date": "2018-03-05",
+    "developer": [
+        "Spencer Brown",
+        "Lisa Shackleford",
+        "Julian Beutel",
+        "Matt Dulemba",
+        "Justin Greenly"
+    ],
+    "publisher": [
+        "Spencer Brown"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "An adventure vertical shooter where straight is not the only direction!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/776410/header.jpg?t=1520487989",
+    "minimum_requirements": "OS: Windows 7",
+    "recommended_requirements": "OS: Windows 7",
+    "reviews": []
+}

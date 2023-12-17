@@ -1,0 +1,48 @@
+{
+    "app_id": 526890,
+    "name": "A Day in the Woods",
+    "release_date": "2016-10-26",
+    "developer": [
+        "RetroEpic Software"
+    ],
+    "publisher": [
+        "RetroEpic Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A Day in the Woods is a stylish re-imagining of the traditional sliding puzzle game. Solve 60 hexagon-tiled levels, with increasingly complex difficulty in as few moves as possible while avoiding the beasts lurking in the woods!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526890/header.jpg?t=1501587857",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2GHz Memory: 1 GB RAM Graphics: Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Beautiful puzzle game with some fun stuff to unlock like seasonal backgrounds and sprite customizations. Completing a level may not seem too difficult until you try for those 3 star ratings. A nice challenge and fun to play. I got this one on sale but it's definitely worth the regular price of $4.99.",
+            "review_score": "1"
+        }
+    ]
+}

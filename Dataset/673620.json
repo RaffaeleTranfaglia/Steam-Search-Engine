@@ -1,0 +1,39 @@
+{
+    "app_id": 673620,
+    "name": "Slizer Battle Management System",
+    "release_date": "2018-05-07",
+    "developer": [
+        "slizer88"
+    ],
+    "publisher": [
+        "slizer88"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Captions available"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 36,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Single player, sci-fi, minimalist Real Time Tactics game. Strategy without the stress: complex movement, damage, and detection replaces intense micro and economy management. Units are selected and outfitted before battle. Emphasises tactical choices over mechanical skill.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/673620/header.jpg?t=1525752025",
+    "minimum_requirements": "OS: XP Processor: 1.2 GHz Memory: 4 GB RAM Graphics: 512 MB Storage: 20 MB available space Additional Notes: Limited testing showed no performance issues when run without other programs active. Tested on Windows 7, 8, and 10.",
+    "recommended_requirements": "OS: 8 Processor: 2.5 GHz Memory: 8 GB RAM Graphics: 1 GB Additional Notes: Tabbing out of the game during loading will make the game show as a white screen. To fix this, tab out and then back in twice. ////// Windows 10 might have issues in fullscreen mode. Use Alt+Enter to switch.",
+    "reviews": []
+}

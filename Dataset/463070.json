@@ -1,0 +1,47 @@
+{
+    "app_id": 463070,
+    "name": "Mecha Ritz: Steel Rondo",
+    "release_date": "2016-06-09",
+    "developer": [
+        "HEY"
+    ],
+    "publisher": [
+        "Hanaji Games",
+        "Gamera Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 0,
+    "positive_ratings": 55,
+    "negative_ratings": 2,
+    "price": 4.99,
+    "description": "Mecha Ritz: Steel Rondo is a vertical scrolling arcade shoot 'em up following the journey of a lone Mecha through the desolate retro stylized world and the onslaught of enemy waves to reach Veloce, the young genius responsible for the extinction of humankind.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463070/header.jpg?t=1545390490",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 1 GB RAM Graphics: Any 3D capable card DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Don't let the rough, low-fi graphics fool you. This game has a soul of cast iron. A fast, twitchy shmup in the vein of Cave's best, but with a focus on branching progression (Clear levels fast and efficiently and more routes poen up) and dynamic difficulty. Stay alive and kill quickly and the game gets harder, with bullet patterns becoming more complex and enemies getting new powers. Thankfully, taking hits, using smartbombs or (ithe absolute worst) losing a life will drop things back down to something more manageable.  Even a crusty old coot like me managed to get the most basic ending after a few tries, although I've barely scratched the surface of what the game offers.  A single playthrough of this should clock in at around 25-30 minutes, but if you want to see all 15 stages and unlock every ship? you're going to have to play this A LOT.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game with unique sound design. Must have for all shmup fans, regardless of their skill level. I have played the freeware version a lot more than the steam version but they're very similar.",
+            "review_score": "1"
+        }
+    ]
+}

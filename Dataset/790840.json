@@ -1,0 +1,39 @@
+{
+    "app_id": 790840,
+    "name": "Epiphany!",
+    "release_date": "2018-05-25",
+    "developer": [
+        "Promethean Interactive"
+    ],
+    "publisher": [
+        "Promethean Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 7,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "Epiphany! is a logic puzzle game in which the goal is to find the hidden pattern for the sequence of gems.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/790840/header.jpg?t=1527245857",
+    "minimum_requirements": "OS: Windows 7/8.1/10 (64-bit Version) Processor: 2 GHz or faster processor Memory: 2 MB RAM Graphics: Shader Model 2.0 DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

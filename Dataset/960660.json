@@ -1,0 +1,40 @@
+{
+    "app_id": 960660,
+    "name": "Coldfall",
+    "release_date": "2018-12-13",
+    "developer": [
+        "Charyb Games"
+    ],
+    "publisher": [
+        "Charyb Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Violent",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Coldfall is a short puzzle/exploration sidescroller game set during the Cold War. Attempt to escape from the town before the next nuclear strike hits.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/960660/header.jpg?t=1545446041",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Core 2 Duo or AMD Athlon 64 X2 Memory: 2 GB RAM Graphics: Intel HD 3000 Storage: 25 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

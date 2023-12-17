@@ -1,0 +1,40 @@
+{
+    "app_id": 693030,
+    "name": "Neo Angle",
+    "release_date": "2017-10-20",
+    "developer": [
+        "Yan Sokalau",
+        "Dropout Games"
+    ],
+    "publisher": [
+        "Dropout Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Retro inspired Minimal puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/693030/header.jpg?t=1509907238",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2Ghz+ Dual Core Memory: 1 GB RAM Graphics: 512MB Graphics Card DirectX: Version 9.0c Storage: 200 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,101 @@
+{
+    "app_id": 273620,
+    "name": "Freespace 2",
+    "release_date": "2014-06-06",
+    "developer": [
+        "Volition Inc"
+    ],
+    "publisher": [
+        "Interplay Corp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Space",
+        "Sci-fi",
+        "Masterpiece"
+    ],
+    "achievements": 0,
+    "positive_ratings": 162,
+    "negative_ratings": 61,
+    "price": 6.99,
+    "description": "FreeSpace 2, the follow up to the classic Descent: FreeSpace – The Great War is ready to engage you in the second round. Follow the Grand Terran Vasudan Alliance further into the mysteries of the Shivans. Get your flight stick and hit the flight deck. The last time was just a warm up.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/273620/header.jpg?t=1447360124",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 1Ghz Memory: 254 MB RAM Graphics: DirectX 7 Compatible Video Card DirectX: Version 7.0 Network: Broadband Internet connection Storage: 2490 GB available space Sound Card: Sound Blaster Compatible",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 1.4 Ghz or better Memory: 512 MB RAM Graphics: DirectX 9 Compatible Video Card DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2490 MB available space Sound Card: Sound Blaster Compatible",
+    "reviews": [
+        {
+            "review_text": "This game was basically my childhood, can't really describe how much I love it. Story is deep, meaningful, and full of mysteries. Combat is wonderful. They rarely make games as good as these anymore.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "EDIT: I have nominated this game for the Test of Time Steam award!  First things first, the Freespace 2 Open Source Code Project has essentially brought Freespace 2 to 2014-era graphics. Find it through Google and bring this classic, masterpiece of a game to the modern day.  I will go on record and say it: Freespace 2 is the best space flight sim ever made. It has never been beaten and no game has ever really come close to matching the high-octane action and depth of control gameplay, nor have they ever matched the amazing sense of scale (Freespace 2 truly gives you large capital ships and swarms of fighters), nor have they ever beaten Freespace 2's incredibly atmospheric and surprisingly deep story of apocalyptic hubris. It is a game I have kept on my hard drive since first playing it in 2000.  The voice acting is solid and understated, befitting the professional military nature of the story. The music fits. The gameplay is fast-paced with missions ranging from dogfights to blockades to covering capital ships as they duke it out with beam cannons, flak batteries and torpedoes. No space sim has come close.  The fan community has kept the game alive for the past decade. So, while there is no final conclusion to the Freespace saga, many talented individuals have turned out many professional campaigns and mods. There are even huge projects for popular series like Battlestar Galactica, Babylon 5, Star Wars and Wing Commander. If this reviewer may make a recommendation, when you finish FS2, move onto the Blue Planet campaigns for a thrilling possible take on Freespace 3.  The best space sim ever made. 10/10. Buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Its a really fun space dogfighter with a good story to it.  Also, dont let people tell you it will not run on windows 7 (Professional atleast) I just used the simple piece of advice on the store page to fix the registery, and now it runs great. The only kink is some of the resolution pixelation in the cinimatics, wich really is not that bad.  For an old beater of the early space sim era, this thing aged well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought the Game of the Year edition of Freespace 2 in 2001, and have had it installed on my computer ever since. Though the base game is graphically dated, the old school dogfighting gameplay and tactical squadron management is still rock solid, and stands up well. Before you begin playing, you need to download the Source Code Project from Hard Light Prodctions. Depending on your machine, the game may not run at all without it. It's not difficult, and there are many guides to help you through it. With the SCP, you get modern graphics, and dozens of mod campaigns and total conversions.  Notable mods include Derelict, Blue Planet, Wings of Dawn, Diaspora, and Wing Commander Saga. There are many others that are worth your time though, so get playing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My steam account is not named GTVA Colossus for nothing. It's the best capital ship of the best game ever created.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a classic, one of the best flight/dogfighting Sims ever created. 10/10 would bang ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You will need to use FSOinstaller to get this working, it's worth it and will let you upgrade the graphics!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my all time favorite games was the Descent I and II. I loved how you could smoothly circle strafe around corners and enemies, it ran silky smooth, and had great music and insane maze levels.  I was really hyped to try Descent Freespace 2, but the excitement left after two things. One is how complex and difficult is it was to get set up. Multiple downloads, patches, and obtuse directions.  The second thing was the flight model was not newtonian, you could not side or circle strafe smoothly. The flight model was almost the same as Star Wars X-Wing Alliance which is smooth and fun, but leaves no room for side strafing. Freespace does have a switch to allow your ship to rotate around it's axis, but was very hard to control.    Some forums claim a Battle Star Galactica conversion fixes this, but again, I took one look at the install and patch directions for that and decided if it is not push one button install, I don't need the grief.  Another reason I stopped playing it was it was not exactly friendly in terms of setting up and customizing your controller settings. It is an old school space sim, with lots and lots of minutia controlled by lots of hotkeys.    I have both a good joystick and a game controller and found, the whole process of trying to get so many hotkeys to work the way you want was time consuming and tedious. Make this change, reboot the game, see if it works, rinse and repeat.  I am not saying you should not buy this game, it has great promise and I have had lots of fun with it, but there are so many other games out there that are more polished and don't require you to spend hours tweaking control settings and patching the game exe.   I recommend it only if you are comfortable with that kind of hassle, Otherwise I would instead recommend Star Wars X-Wing Alliance which came out the same year, but has a much better and relate-able story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "To make the game works just run the reg file in :   SteamLibrary\\steamapps\\common\\Freespace 2\\Registry",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am playing this using the graphical enhancement mod, however good this game is, I believe so far that it is well over rated. I would have fond memories of it I believe had I played it 15 years ago, but the game feels outdated, from reading reviews I was excpecting BattleStar Galactica style battles with hundreds of ships... good game, just please people stop over hyping it. Still a nice space fighter game, I love how failing mission can affect outcome. in this day and age though... 6/10 Slightly above Average.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Only the best Space Combat sim of all time. Get the FS2Open modification and it updates the game amazinly.  Additional mods and improved graphics, what more can you ask for. Nothing holds a candle to this game, even today.  You must own the original game to use FS2Open, Get it now, what are you waiting for? FS2 Open even ported the original Freespace campaign into it..... worth... every... penny...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game doesn't run without downloading mods. Avoid. Freespace 2 has been one of my favourite space games for a long time, and I recentlly purchased the Steam version to replace my original discs which went missing years ago.   If the game is available for sale, it's reasonable to expect it to run.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Buddy convinced me to switch over to pc. I watched him play a pirated version of this game. It looked Awesome!!!! I payed money for the game, aaaannnnddddd, it doesnt work. Awesome. I can see why people pirate now, I haven't ever stolen a game from your company and now you have stolen money from me. You sold me a product that does not work, and better yet as i check the forums, you know it doesn't work. Shady as ♥♥♥♥.......",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was looking forward to a little nostalgic gaming on this re-released title. I have a top spec computer &amp; the game won't even launch / recognize my video card. Showed only graphics options up to 1024x768 and when applying the graphics settings, which would not even save when applied. The ancient front-end loader Identified my haswell i7 as a Pentium III.   Also received errors regarding installation directory, which is chosen by default by Steam.   With 2 years of personal experience in game development, I can safely say that everything about this game is outdated / broken &amp; not updated to work with modern machines.   The Readme even still shows information about a recent patch to make the game run with windows 95.   Furthermore, I am very disappointed Steam would accept a product like this into their lineup without testing.  DON'T THROW YOUR MONEY AWAY ON THIS NON FUNCTIONAL GAME.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game doesn't launch without installing several third party mods and not actually using it through Steam.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Never fixed, probably never will be. Fanboys will try and trick you and pretend it's ok to have to work to get a game (which is supposed to be an escape from work) to even start.  Don't buy on steam, buy it on GoG where it's made to work on modern machines",
+            "review_score": "-1"
+        }
+    ]
+}

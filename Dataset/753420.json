@@ -1,0 +1,40 @@
+{
+    "app_id": 753420,
+    "name": "Dungreed",
+    "release_date": "2018-02-14",
+    "developer": [
+        "TEAM HORAY"
+    ],
+    "publisher": [
+        "TEAM HORAY"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Pixel Graphics",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 2104,
+    "negative_ratings": 305,
+    "price": 7.19,
+    "description": "Dungreed is a 2D side-scrolling action game with 2D Rogue-LITE elements. You become an adventurer exploring a continuously evolving dungeon to prevent the town from being destroyed. Eliminate enemies, use a variety of weapons and magic, eat food, and defeat evil in the dungeon!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/753420/header.jpg?t=1534326493",
+    "minimum_requirements": "OS: Windows 7+ Processor: Dual core 2.6 ghz + Memory: 1 GB RAM Graphics: nVidia GTS 450 or better Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel core i5 series + Memory: 2 GB RAM Graphics: nVidia GTS 450 or better Storage: 400 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 712980,
+    "name": "Rainyday",
+    "release_date": "2017-10-06",
+    "developer": [
+        "Kerkko Rasilainen"
+    ],
+    "publisher": [
+        "Kerkko Rasilainen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Violent",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 3.09,
+    "description": "It's going to rain for a while.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/712980/header.jpg?t=1546781962",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 cpus 2.0 Ghz to 2.69 Ghz Memory: 1 GB RAM Graphics: Intel HD Graphics 4000 or higher Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

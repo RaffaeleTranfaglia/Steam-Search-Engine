@@ -1,0 +1,34 @@
+{
+    "app_id": 1014990,
+    "name": "Aivolution",
+    "release_date": "2019-01-30",
+    "developer": [
+        "Lykke Studios"
+    ],
+    "publisher": [
+        "Lykke Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Aivolution is a machine learning educational game in which you design and train Ai creatures to compete in various challenges and unlock new levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1014990/header.jpg?t=1548836003",
+    "minimum_requirements": "OS: Windows Vista or higher Processor: Intel i3 Family or similar Memory: 4096 MB RAM Graphics: Shader Model 3.0 Storage: 170 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

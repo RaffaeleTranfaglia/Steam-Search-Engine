@@ -1,0 +1,46 @@
+{
+    "app_id": 108600,
+    "name": "Project Zomboid",
+    "release_date": "2013-11-08",
+    "developer": [
+        "The Indie Stone"
+    ],
+    "publisher": [
+        "The Indie Stone"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Zombies"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17273,
+    "negative_ratings": 2606,
+    "price": 9.99,
+    "description": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, a massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/108600/header.jpg?t=1533308345",
+    "minimum_requirements": "Nb. This is an Early Access game. A demo has been provided so you can be sure the game runs on your set-up to your satisfaction.  Radeon 4xxx series (or below) graphics cards / Please make sure to try the demo before purchasing!  OS: Vista, 7, 10  64bit OS required Processor: Intel 2.77GHz Dual Core Memory: 4Gb Ram Hard Disk Space: 3gig  Video Card: Intel HD 3000 or above. Radeon 4xxx series (or below) graphics cards / Please make sure to try the demo before purchasing!         Sound: FMOD compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

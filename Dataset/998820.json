@@ -1,0 +1,36 @@
+{
+    "app_id": 998820,
+    "name": "Cortex",
+    "release_date": "2018-12-28",
+    "developer": [
+        "Milan Toth"
+    ],
+    "publisher": [
+        "Milan Toth"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "The psychedelic tunnel-runner.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/998820/header.jpg?t=1547572450",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Any Memory: 128 MB RAM Graphics: OpenGL Storage: 60 MB available space Sound Card: Any",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Any Memory: 128 MB RAM Graphics: OpenGL Storage: 60 MB available space Sound Card: Any",
+    "reviews": []
+}

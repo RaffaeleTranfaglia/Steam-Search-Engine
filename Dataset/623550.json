@@ -1,0 +1,39 @@
+{
+    "app_id": 623550,
+    "name": "Timen runner",
+    "release_date": "2017-05-26",
+    "developer": [
+        "REX PEX GAMES"
+    ],
+    "publisher": [
+        "REX PEX GAMES"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Platformer"
+    ],
+    "achievements": 12,
+    "positive_ratings": 36,
+    "negative_ratings": 31,
+    "price": 0.79,
+    "description": "Hardcore pixel 2D platformer with steampunk elements, with randomly generated levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/623550/header.jpg?t=1495801522",
+    "minimum_requirements": "OS: Windows XP SP 3, 7, 8, 8.1, 10 Processor: 1GHz or highter Memory: 1 GB RAM DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

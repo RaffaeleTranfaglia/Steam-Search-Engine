@@ -1,0 +1,38 @@
+{
+    "app_id": 626730,
+    "name": "The Incredible VR Game Show",
+    "release_date": "2018-04-12",
+    "developer": [
+        "Tantawowa"
+    ],
+    "publisher": [
+        "Tantawowa"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 4,
+    "price": 7.19,
+    "description": "No auditions required. Put on your VR headset and be a contestant on the greatest game show of all time, The Incredible VR Game Show!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/626730/header.jpg?t=1523556136",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 &amp; AMD 8350 Memory: 8 GB RAM Graphics: GTX970, AMD Radeon R9 290 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel® Core™ i7 4790 Memory: 8 GB RAM Graphics: GeForce® GTX 980 DirectX: Version 12 Storage: 2 GB available space",
+    "reviews": []
+}

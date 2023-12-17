@@ -1,0 +1,40 @@
+{
+    "app_id": 404750,
+    "name": "Carrotting Brain",
+    "release_date": "2015-10-23",
+    "developer": [
+        "Raving Bots"
+    ],
+    "publisher": [
+        "Raving Bots"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 4,
+    "price": 6.19,
+    "description": "It is a cartoon-style arena shooter with rabbits destroying planets. The game has exceptionally realistic physics and ballistics. The weapons and the environment itself give you a ridiculous number of ways to devastate your enemy. It's designed to be played with your friends on a big screen.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/404750/header.jpg?t=1488459507",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 @ 2.4 GHz Memory: 4 GB RAM Graphics: ATI Mobility Radeon HD 540v DirectX: Version 9.0c Storage: 1 GB available space Sound Card: ATI High Definition Audio Device",
+    "recommended_requirements": null,
+    "reviews": []
+}

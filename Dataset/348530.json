@@ -1,0 +1,53 @@
+{
+    "app_id": 348530,
+    "name": "Incognito",
+    "release_date": "2015-03-23",
+    "developer": [
+        "Maxwolf",
+        "Fox"
+    ],
+    "publisher": [
+        "Maxwolf",
+        "Fox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 16,
+    "negative_ratings": 18,
+    "price": 5.59,
+    "description": "An indie game like no other. Incognito is a cross genre adventure that thrusts you into a foreign solar system known as Sector 42. You are forced to survive in deep space through exploration and questing between planets. Incognito mixes different gaming genres together into one complete narrative.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/348530/header.jpg?t=1481757412",
+    "minimum_requirements": "OS: Microsoft Windows XP Processor: Pentium 4 2.8 GHz (3.2 GHz for Vista), Core 2.0 GHz (2.2 GHz for Vista), Athlon 2800+ (3200+ for Vista) Memory: 2 GB RAM Graphics: GeForce 6800 GT, Radeon 9800 Pro (Radeon X800 Pro for Vista) DirectX: Version 9.0c Storage: 5 GB available space Sound Card: OpenAL Compatible Additional Notes: Requires .Net 4.0",
+    "recommended_requirements": "OS: Microsoft Windows 7 Processor: Core 2 Duo/Athlon X2 or better Memory: 4 GB RAM Graphics: NVIDIA 7800 Series, ATI Radeon 1800 Series or better DirectX: Version 9.0c Storage: 5 GB available space Sound Card: OpenAL Compatible Additional Notes: Requires .Net 4.0",
+    "reviews": [
+        {
+            "review_text": "Great game, little bit of a hit or miss on all the content fitting together. However, over all it has a story and the gameplay is interesting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Between the extremely clunky UI and the stupid enemy placements (Many times enemies spawned inbetween walls and junk making for easy kills) you'll hardly notice how ♥♥♥♥♥♥♥♥ the enemy AI is.",
+            "review_score": "-1"
+        }
+    ]
+}

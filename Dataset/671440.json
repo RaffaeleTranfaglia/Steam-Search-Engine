@@ -1,0 +1,41 @@
+{
+    "app_id": 671440,
+    "name": "Rise of Industry",
+    "release_date": "2018-02-09",
+    "developer": [
+        "Dapper Penguin Studios"
+    ],
+    "publisher": [
+        "Kasedo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Management",
+        "Economy"
+    ],
+    "achievements": 25,
+    "positive_ratings": 1111,
+    "negative_ratings": 203,
+    "price": 19.99,
+    "description": "Full Release: May 2nd 2019. Rise of Industry is a complex strategic tycoon game that puts you in the shoes of an early 20th-century industrialist. Build and manage your growing empire in a living, breathing, and procedurally generated world that is constantly evolving and adapting to your playstyle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/671440/header.jpg?t=1554471837",
+    "minimum_requirements": "最低配備: 需要 64 位元的處理器及作業系統 作業系統: Windows (64 bit only) 7 / 8 / 8.1 / 10 處理器: Intel Core 2 Duo, 3.0GHz or AMD Athlon 64 X2 6400+, 3.2GHz 記憶體: 4 GB 記憶體 顯示卡: nVidia GeForce GT 600 or Radeon 5000 and above. Shader Model 51. Integrated GPUs not recommended DirectX: 版本：11 儲存空間: 1 GB 可用空間 音效卡: Any 備註: Requires a 1024 x 768 screen resolution",
+    "recommended_requirements": "建議配備: 需要 64 位元的處理器及作業系統 作業系統: Windows (64 bit only) 10 處理器: Intel Core i5-3470, 3.20GHz or AMD FX-6300, 3.5Ghz 記憶體: 6 GB 記憶體 顯示卡: nVidia GeForce 900 or AMD HD7700 / RX360 DirectX: 版本：12 儲存空間: 1 GB 可用空間 音效卡: Any 備註: Recommended Resolution: 1920 x 1080",
+    "reviews": []
+}

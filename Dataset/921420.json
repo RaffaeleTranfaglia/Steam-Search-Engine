@@ -1,0 +1,37 @@
+{
+    "app_id": 921420,
+    "name": "Kingpin Royale",
+    "release_date": "2018-10-01",
+    "developer": [
+        "Two Too Many"
+    ],
+    "publisher": [
+        "Two Too Many"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Crime"
+    ],
+    "achievements": 83,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Welcome to the streets of Kingpin Royale, a drug selling strategy game that puts you in the throne as kingpin!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/921420/header.jpg?t=1539965941",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 512 MB RAM Graphics: OpenGL 2.1-compatible, 512 MB Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

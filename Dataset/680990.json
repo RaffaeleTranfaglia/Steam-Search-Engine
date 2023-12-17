@@ -1,0 +1,39 @@
+{
+    "app_id": 680990,
+    "name": "Sword Bros",
+    "release_date": "2017-11-10",
+    "developer": [
+        "Drew Wallace"
+    ],
+    "publisher": [
+        "Drew Wallace"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Swordplay"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Fast-paced physics sword fighting for 2-4 players. Swing the joystick to swing your sword. Adjust your grip angle to deflect an attack, or swing longer to break through an opponent's guard. Shh-ching!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/680990/header.jpg?t=1511170873",
+    "minimum_requirements": "OS: Windows 8 or newer Processor: Intel Core i3 or better Memory: 4 GB RAM Graphics: Intel HD 5000 or better DirectX: Version 9.0 Storage: 60 MB available space Additional Notes: Controller/gamepad required",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 or better Memory: 4 GB RAM Graphics: Discrete graphics DirectX: Version 9.0 Storage: 60 MB available space Additional Notes: Controller/gamepad required",
+    "reviews": []
+}

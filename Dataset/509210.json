@@ -1,0 +1,53 @@
+{
+    "app_id": 509210,
+    "name": "Clockwork",
+    "release_date": "2016-10-10",
+    "developer": [
+        "Gamesoft"
+    ],
+    "publisher": [
+        "Gamesoft"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Puzzle-Platformer",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 23,
+    "positive_ratings": 35,
+    "negative_ratings": 22,
+    "price": 2.09,
+    "description": "Clockwork is a time-bending puzzle-platformer that tells the story of Atto, a lonely mechanical boy in the great city of Watchtower. Explore the city, discover its mysterious past, control time and fight terrifying boss battles. Clockwork features over 60+ hand-drawn, steampunk-inspired levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509210/header.jpg?t=1478329453",
+    "minimum_requirements": "OS: Windows Vista / 7 / 8.1 / 10 Processor: Intel Core i3 2.4 GHz Dual-Core Memory: 2 GB RAM Graphics: GeForce GT730 2GB DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Nobody likes Atto... All the robots are rude to him :(          YouTube™ Video:  The robots don't like me / clockworks gameplay [1080p/60fps]&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "All I can say is that the game has a pretty good foundation. The graphics and soundtrack are great, and the concept itself is pretty innovative. Unfortunately, though, that's the best thing I can say about it. For the entirety of my play session, the controls felt kinda of strange. Navigating the menu didn't even feel right; I guess that should have been my first sign. The dialogue is absolutely grating; characters repeat the same audio over and over, making me eventually lose interest in even the text itself. Perhaps I am being harsh, but what I have played of the puzzles has not impressed me in the slightest. The time bending mechanic, in theory, sounds good, but its execution is less than impressive. It often forces you to wait an extra period of time if it took you a long time to figure it out, and it is painful to go through. If you are the kind of gamer who needs to be grabbed within the first 20 minutes, then don't bother with this one. I would say to go with Limbo or Inside. Also, the loading time for the intro screen takes a bit too long for this kind of game.",
+            "review_score": "-1"
+        }
+    ]
+}

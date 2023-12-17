@@ -1,0 +1,45 @@
+{
+    "app_id": 429350,
+    "name": "Satellite Rush",
+    "release_date": "2016-11-16",
+    "developer": [
+        "Kimeric Labs"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Top-Down Shooter"
+    ],
+    "achievements": 10,
+    "positive_ratings": 35,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Satellite Rush is a sci-fi top-down shooter with pixel art graphics and Roguelike elements. Take control of an abducted office worker and blast through Satellite Moebius, a space gladitorial arena where you'll have to please the audience to get new itens and survive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/429350/header.jpg?t=1479336494",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: 3D graphics card DirectX: Version 9.0c Sound Card: Yes Additional Notes: Xbox 360 controller or other XInput-compatible controller",
+    "recommended_requirements": "OS: Windows XP SP2 or later Processor: 2.4 GHz Dual Core 2.0 (or higher) Memory: 4 GB RAM Graphics: 3D graphics card, recommended dedicated graphics card with 128 MB of RAM DirectX: Version 9.0c Sound Card: Yes Additional Notes: Xbox 360 controller or other XInput-compatible controller",
+    "reviews": [
+        {
+            "review_text": "7/10  A very fun and well done game, but that could be a lot better with a more balanced difficulty and more upgrade options.  The premise of the game is simple: you were captured to participate in an alien battle royale and to earn your freedom, you must fight your way through waves of enemies and three bosses. As you defeat enemies and the crowd cheers on you, you'll get power-ups and weapons to use. Weapons run out quickly but the faster you kill enemies, the more items the crowd will give you. And at the end of each section, you'll fight a boss. Defeating a boss makes the next dungeons harder in some way, so once you've learned about each boss and what they change after they're defeated, knowing the proper boss order becomes important. And as you defeat enemies, you collect some special coins that will then unlock new weapons and items to use.  As a fast-paced roguelike game, Satellite Rush is a really fun game to play, with a challenge level that will keep you on your toes at all times. The game isn't very long, but because of how difficult it is, it requires some time to beat as the player gets a little better on each attempt.  That's where the game's two main issues arise.  The first is how extremely unbalanced the difficulty level is. Of course, as a roguelike game that isn't very long, some challenge is to be expected, otherwise the game would be completed way too quickly. However, even with that considered, the game can be extremely unfair to the player, as the player is often thrown in rooms that are absolutely crammed with enemies, sometimes with literally nowhere to run and nowhere to hide. And because the game becomes harder as the player progresses through it, there are times when the difficulty becomes almost unbearable.  It would have been a lot better if the game had difficulty levels to choose from or unlockable difficulties (you defeat the game once and the next game has a higher difficulty).  The second issue is the lack of upgrades. You unlock three weapons, then three items and that's it. It's pretty easy to unlock those and once those are unlocked, there is no other use for the coins you collect. Also, items obtained after you defeat a boss are fixed - which isn't bad per se, but some more variety would have been good.  One solution to this would be to have the coins collected after all items are unlocked become usable to buy upgrades for the character - as an example, using red coins for health upgrades, purple coins for fire rate and green coins for speed. That way, the coins would still have some use and the player could use those to beat the game if the game is too hard for him/her.  Despite these issues, it's still an extremely fun game to play and highly recommended.",
+            "review_score": "1"
+        }
+    ]
+}

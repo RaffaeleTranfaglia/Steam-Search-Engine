@@ -1,0 +1,36 @@
+{
+    "app_id": 528190,
+    "name": "Carpe Deal 'Em",
+    "release_date": "2016-11-28",
+    "developer": [
+        "DDD Wares"
+    ],
+    "publisher": [
+        "DDD Wares"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Carpe Deal 'Em is a life simulator / card game hybrid, with elements from the visual novel / CYOA genres.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/528190/header.jpg?t=1480332936",
+    "minimum_requirements": "OS: Windows Vista or Better Processor: AMD Turion TL-60 or equivalent Memory: 2 GB RAM Graphics: 8400M GS or equivalent Storage: 200 MB available space Sound Card: Onboard",
+    "recommended_requirements": "OS: Windows 7 or better Processor: Intel Core i5-3330 @ 3.00GHz or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 560 Ti or better DirectX: Version 11 Storage: 200 MB available space Sound Card: Onboard",
+    "reviews": []
+}

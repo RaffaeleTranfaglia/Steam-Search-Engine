@@ -1,0 +1,39 @@
+{
+    "app_id": 830470,
+    "name": "MazeBot",
+    "release_date": "2018-05-03",
+    "developer": [
+        "Dynamite Whale"
+    ],
+    "publisher": [
+        "Dynamite Whale"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 9,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "“Awake! Your next cycle is close. Fulfill your purpose, do as you are told!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/830470/header.jpg?t=1525532271",
+    "minimum_requirements": "OS: Windows 8 Processor: 1.2GHz Memory: 512 MB RAM Graphics: 1GB DirectX: Version 10 Storage: 80 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0GHz Memory: 2 GB RAM Graphics: 2GB DirectX: Version 10 Storage: 80 MB available space",
+    "reviews": []
+}

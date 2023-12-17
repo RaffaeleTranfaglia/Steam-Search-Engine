@@ -1,0 +1,51 @@
+{
+    "app_id": 362380,
+    "name": "Push Me Pull You",
+    "release_date": "2016-07-14",
+    "developer": [
+        "House House"
+    ],
+    "publisher": [
+        "House House"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 11,
+    "positive_ratings": 21,
+    "negative_ratings": 3,
+    "price": 10.99,
+    "description": "Push Me Pull You is an award-winning local multiplayer game about friendship and wrestling. Joined at the waist, you and your partner share a long, wriggling body as you wrestle your opponents for control of the ball.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/362380/header.jpg?t=1483572697",
+    "minimum_requirements": "OS: Windows 7 or later (64-bit) Processor: Intel Dual Core @ 1.7ghz or equivalent Memory: 3 GB RAM Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is one the great local multiplayer games. Great for parties. Up there with the likes of Towerfall and Gang Beasts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A simplistic and fun game to play with friends. The game is great to play in groups, but that's all that it has going for it. The game has a great soundtrack, and the current game modes are pretty fun.  The only downsides to the game are that it's a bit pricey for what it is, and I feel that there could be some more modes. Other than that, the game is quite fun and I'd recommend it if it goes on sale.",
+            "review_score": "1"
+        }
+    ]
+}

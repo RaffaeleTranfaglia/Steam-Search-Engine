@@ -1,0 +1,940 @@
+{
+    "app_id": 315430,
+    "name": "Polarity",
+    "release_date": "2016-07-15",
+    "developer": [
+        "Bluebutton Games"
+    ],
+    "publisher": [
+        "Bluebutton Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Puzzle",
+        "Indie",
+        "First-Person"
+    ],
+    "achievements": 10,
+    "positive_ratings": 3932,
+    "negative_ratings": 942,
+    "price": 10.29,
+    "description": "Polarity takes it to the next level, demanding all of your wits and reflexes. Full-featured local co-op campaign.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/315430/header.jpg?t=1494326545",
+    "minimum_requirements": "OS: Windows 7 or above Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX 9 compatible video card Storage: 4 GB available space Sound Card: Yes Additional Notes: None",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A very good gameplay, nice graphics, they make me think about borderland's graphics, a little bit like a cartoon... It's a very nice game but VERY VERY short... But I think that the game isn't finished because at the end of the story's levels, there is a level called 'story 2' so I hope that there will be new levels... And I also hope that the game will have ONLINE multiplayer cause it's not so simple to play at the same computer...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game to play at school with friends, Speedrun. only thing that this game needs is online co-op. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While the game is short and very cheap, I can personally say it's worth the five bucks! At first it was another game in my library, but once I actually installed it and tried it out, it was extremely awesome! The main game idea has lots of potential for a sequel as well as Steam Workshop support! Even though some people think this game is just a rip-off of Portal, it's not! It may be a First Person Puzzle game like Portal, but the concept of the game is unique in its own way!   Pros",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I didn't expect much when I picked that game up. I actually saw this game lying on the Steam Store shelf for a crazy 0,36 euros, so I had to check it out. Imagine Portal without portals and humor. It's the most basic 3D puzzle game you can imagine. It's not as boring as it sounds. It's super-short, for one thing. It's not a game you pick-up and replay over and over again. It's one of those ' I've got nothing to play ' kinda game. Everything seems alright, but after diging in I've found some flaws. Controller support is clunky and it doesn't always work. The menus are glitchy unless you disable the gamepad in the settings. For most people this game would probably bore you to death, but not me. I've sat through this thing and I actually found some impressive puzzles. For a game all about picking up things and throwing them, that's quire an accomplishment. I launched Vs mode just out of morbid curiosity. My brother just died in front of the monitor. It's not a fun multiplayer game to play. The rules are easy and there's no challenge. Combine that with gamepad controls and you've got yourself a nice nightmare session.  The best thing about this game is the soundtrack.  Spectrosconomy  is probably the best track on the whole game. It's in the trailer and it deserves some recognition on SoundCloud. Go look it up and show Ludiotic some love.  For the full price, avoid immediately. Wait for a crazy sale to make this game pay-off. It's not a novelty, but I think I could let this game pass.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would recommend this game on sale or in a bundle. The puzzles are interesting, although fairly easy. I was able to 100% this game in just under 4 hours. The co-op puzzles were way more difficult and fun than the single player levels, and it's possible to play through the co-op levels by yourself with a separate controller.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Puzzle plataformer, think of 'Portal' but much simpler on every aspect. The gameplay focuses exclusively on puzzles; there's no story other than the text intro to the campaign.  - Easy, very straight forward with nothing complicated to understand. - Not very long. - Has a co-op campaign. - Chill. - Cheap ...when discounted.   RECOMMENDED TO:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice puzzle game. Only problem is that you finish it within 3 hours or less. Replayable? meh... Not sure if its worth its money, becuase it was a gift actually.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "helps getting relaxed after a stressful match in Dota. worth every penny spent",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've seen this a lot on the reviews, but this game is basically like Portal 2, minus the portal stuff. I highly recommend this game though, even if I haven't played much. I'm basically already addicted to it.   10/10 best game ever. (for now)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall I've had fun playing this game. Here's a few cons: - The player collision is weird sometimes - Could do with some more levels - It's not quite polished enough - The difficulty could have been a little higher",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, simple, fun, and the puzzles are relaxing and challenging. Highly reccomend, especially at this price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It´s portal, but more simple and cheaper",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Was worth the 19 cents that I spent on it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game! I bought it for 0,19€. Totally worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun puzzle game that I enjoyed! I haven't finished singleplayer but I did all co-op with a controller hook-up on my computer and I beat that 100%! Its easy to learn and an enjoyable game! 10/10 good game worth the price at $5 and if its on sale its definitly worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a poor man version of Portal, you can buy this if you want to cheap out and save money! In Polarity, once you will start the game you will be greeted with ugly 2003-ish menu and blurry jpeg text images as menu options.   OKAY JOKE TIME IS OVER NOW.  I picked it up this game stupidly cheap, It's a fun game and sadly very short and no level editor, has few challenging levels but overall not that hard. Pick this up if you liked portal.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "too easy though",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice game! but i get dizzy after an hour XD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "07/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple graphics fit puzzle games like polarity. There aren't many levels and levels are not very challenging. Overall it is a good puzzle game but a little short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The only fault of this game is having only local multiplayer instead of online multiplayer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun, not very difficult, had a blast playing it...just under 3 hours of playtime for 7/10 achievements (other 3 in Co-Op mode)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is, unfortunately, short lived. It has a lot of the creativity and puzzle aspects of Portal, but it lacks the humor that keeps me coming back to the other game. Other than that, the only other negative thing that I can think of is that this game can have somewhat confusing controls for anybody playing with a mouse or keyboard- the game assumes that you're using an Xbox controller by default.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's short, really short. I mean, even if you want to get all the achievments, you just need about 3 hours. The graphics are ok, and the puzzles aren't too hard, but they could have been. I played the singleplayer, the bonus levels and even the local coop. Yes, without any friends, yes, i played the coop alone, it's possible and it's damn easy. At Bonus Level 7 i just glitched through the walls, so i thought, hummm, well, happy i don't need to do this in the right way.  But hey, it's .19 Pens, so just buy it, it`s great for that Price. You will be entertained for the three hours, or more, dunno. And don't buy the game, when it's not on sale 5 Bucks are way too much for this game, but thats just my opinion.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short but fun puzzle game. The puzzles take some thinking through and sometimes require an action you might not think of, but they're fun puzzles and the difficulty isn't too high. With a few exceptions, it's a fairly slow paced puzzle game, and the places that aren't are more about pre-planning and executing quickly that reacting to puzzle elements. The physics on the cubes are not the greatest (some clipping into things, cubes sometimes get stuck on things) but it doesn't get in the way of solving the puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is currently 0.19 USD there is no reason not to buy it This a cheaper simplified version of portal that can give you hours of fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Picked this up for 15p and I'm actually surprised at the gameplay quality. A portal-esque game with some surprisingly good ideas. The actual gameplay mechanics are the game's strong point so I'll let the graphics slide.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a really fun puzzle game, especially now that its on sale and only 0.19€ I really recommend getting it. If you get and sell the card drops you get from purchasing the game you will only have lost 0.04€ on a very fun puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "NIce game, its 3D! I completed the single player campaign and the bonus levels..BUT there is no multiplayer, steam lied... So i hope Polarity will make an improvement with the REAL multiplayer in the future!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "havent even played yet but ive tested split screen and the fact that you even added that makes me want to recommened the game, not enough local multiplayer games on pc and for 21 cents? deal. looks alot like portal",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it is very fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "you're just buying this for the trading cards aren't you?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quite a fun little puzzler, took about 3 hours to 100% it without co-op",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very cool puzzle game with a cool style! :) The story (is it possible to call about 5 sentences a 'story'? xD) is... well...Let's ignore the story! You don't need it xD The story isn't as good ^^  Well, Polarity is fun to play! :3 WITH bonus missions it took me less than 3 hours to complete the game PLUS I played the 1st COOP Level on my own because of the achievement xD The COOP with 2 people (xD) is kinda weird because on the Gamepad of Player1 the controlls were normal, on the 2nd one the controlls were COMPLETELY different... Jumping on [Y] and on... It was just weird and uncomfortable, that's why I decided to play the multiplayer on my own with controller for Player1 and Keyboard for Player2^^ Well, Polarity was TOTALLY worth the 20cents (don't know if it was 20, could be 14 aswell^^) I bought it for. About 3 hours of fun^^  Well, the game is VERY easy, think that's why it took me less than 3 hours :D RECOMMENDED :3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its like Portal, without portals and things that kill you. Great alternative if you want a peaceful puzzle game by yourself or with someone else. Getting achievements is also easy, and right now during the Christmas sales its 95% off, 40p for this game is well worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "an easy steam card puzzle game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Guys, this game is totally epic. It's a first-person puzzle game where you need to figure out how to get to certain places, and finding all the data fragments. It feel very Si-Fi with the gameplay, and it have smooth controls, and AMAZING grapfics. This is NOT a shooter, so don't rate it low if you buy it and you're so noobish that you didn't read the description of the game. It is a puzzle game. A PUZZLE GAME BRUH. AND IT'S EPIC. XD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall Polarity is fun game. I have enjoyed and can recommend it. However if you look for long story and challenging levels you might be a bit disappointed. Gameplay last barely for 3-ish houres and in that time you can finish standard and bonus levels which, sadly, are not very difficult. This game really would need some more content. If given level editor similar to Portal 2 if would be endless fun. Buy it only if at huge discount sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It was a very fun little puzzle game. For 0.19€ it's well worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not that much fun. Would be worth it if you like puzzles and its on sale I guess. A weak positive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "SELLING COPPIES OF THIS GAME 4 CHEEP  ADD ME FOR TRADE OFFERZZZZ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good 2 hours of my life was spent on this game completing the single and co-op campain and I don't regret it :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "eh. it's pretty fun.  get it while it is on sale. Great game for 19 cents.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good but short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its A PORTAL wanna be but it still is fun and great price(on sale) and it has alot of levels",
+            "review_score": "1"
+        },
+        {
+            "review_text": "        YouTube™ Video:  Обзор Polarity - понятно и без слов. Polarity review - clear without words&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Definitely buy it on sale. Game is very cool! I bought it on sale for only 0,19 eurocents.  Some features: - it got cards - not very long, although it has co-op mode - great performance even on my wooden pc - very cool graphic - not very easy, but definitely not hard game, just you need to spot the 'solutions'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bought for 19c, expected Portal ripoff. Clearly inspired by Portal, but not actually a ripoff - the mechanic is original and intuitive.  Definitely worth my time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing puzzle game (should to play)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is awesome, pure fun with 0,2€. I have planned to buy Portal but when i opened this game, i got my portal much cheaper =)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun game, not like portal at all as some people have said. Very ♥♥♥♥ing annoying and raging tho.  I love it and more people should get it while the sale is on, i need co-op people :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bought this game for 0.19 euro, and this game needs logic and brains, it is like portal, portal 2. My opinion is very good about this game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is 'Polarity' - a clone of the game 'Portal', I love playing this theme. My rating - 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  8/10 Great game!!! even though its not very big and probobly to most people not worth ten bucks, i still enjoyed it quite a bit! all achievments are fun to get and keep the game interesting (if it wasnt already interesting enough XD)! Final verdict : i probobly enjoyed it the most beacuse i got it for free from a steam key so my verdict iiiiiiiis : Eight out of ten, would collect data fragments again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So far the game looks very interesting. You have to use your brain in order to complet some of the levels. I am not so far into the game yet, but it looks promising.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good puzzle game for 19c  cons    pretty much like portal    really short    local co op  [/olist]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you waiting for Portal3? . . . Play this till it out. . 8/10  1. for graphics 2. when i playing i got a bit headache  it worth for price.   3. sorry for my bad english",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My Rating 7/10  Singleplayer I enjoyed the full game and I feel like it would be fun to speedrun sometime too. You may need to backtrack sometimes because you need to collect 3 items called Data on every level. Longest time out of all the levels for me to complete was around 5 minutes and an average level took me around 1-2 minutes.  Co-op This game only has local co-op so I played it by myself and the last few levels were a nightmare because I had to use a controller and keyboard + mouse at the same time, still fun, but took me longer due to not having another friend though.  Worth Buying? Get this when it is on sale!  I got this during the Developer Alliance Bundle was on sale for $1.49 and I felt like it was a good bargain. For the actual price of $9.99, not so much (Perhaps if it were $2.99 or less?).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bought it for 0.19 got 3 cards sold them for 0.15 i lost 4 cents",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Alright, EXEPT NO MULTIPLAYER AND CO-OP. JUST LOCAL SPLIT-SCREEN ♥♥♥♥ BAYBE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game for 19 cents. Beat it in 30 minutes. 10/10 Better than a microtransaction",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have played this game for 12 minutes and all I have to say is that this is what Portal 2 should have been. My ♥♥♥♥ bleed from how much I love this game. My ♥♥♥♥♥♥ is fully expaned whenever I see a new update. This game should be game of the year 2001.  -9/12 Most underated masterpeice of the 12th century.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cool game nice atmosphere.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "if u want it, buy during the sale, then its worth",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think this is an absolutely great puzzle game. With swift controls, this game easily fits on with the controller game market. If this game had a better storyline, this might easily become a wonderfully great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Portal 2 for sheep. Still good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Short game, Cool game, good game.  Get the game.  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Portal without portals.     ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok, first of all, I have no idea how it got into my library. Don't recall buying it or anything.(maybe it was from a bundle, who knows..).   Clearly it's not a game made in 24 hours, they seem to have put some work into it and polished it quite nicely. The game is capped at 60FPS and the menus, and the UI is horrible.  It gets boring preatty fast,some maps are unnecessarily bigger than they should. 'One of the most fun puzzle/platformers since Portal' - Sorry , but no , it's not. It's an ok game, if it costs like 1 Euro or less.At the full price (9.99 euro at this time) , it's not worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like it. The puzzles are pretty easy, but I enjoyed it noneoftheless. It's an honest little game I will definitley be reccomending to friends. I bought it in a bundle while it was massivley on sale, and at the time of finding it, it did not seem like a ten dollar game. But in retrospect, I'd probably pay that.   TL;DR Its fun. Its honest. Could use some polish, but whatever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice Campaign",
+            "review_score": "1"
+        },
+        {
+            "review_text": "“I Thought This Game Was Cool Before It Won An Award”  This game is nominated in this category by me xD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "reminds me of portal I like that",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, keeps you thinking all the way through. Personally i wish it was longer though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First thought, when I saw DDos attack Mode  Would GLaDOS(Portal) withstand DDOS attack",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short, but enjoyable game, not hard. And it's LOCAL co-op campaign is funny to play :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "─▄▀▀▀▀▄─█──█────▄▀▀█─▄▀▀▀▀▄─█▀▀▄ ─█────█─█──█────█────█────█─█──█ ─█────█─█▀▀█────█─▄▄─█────█─█──█ ─▀▄▄▄▄▀─█──█────▀▄▄█─▀▄▄▄▄▀─█▄▄▀  ─────────▄██████▀▀▀▀▀▀▄ ─────▄█████████▄───────▀▀▄▄ ──▄█████████████───────────▀▀▄ ▄██████████████─▄▀───▀▄─▀▄▄▄──▀▄ ███████████████──▄▀─▀▄▄▄▄▄▄────█ █████████████████▀█──▄█▄▄▄──────█ ███████████──█▀█──▀▄─█─█─█───────█ ████████████████───▀█─▀██▄▄──────█ █████████████████──▄─▀█▄─────▄───█ █████████████████▀███▀▀─▀▄────█──█ ████████████████──────────█──▄▀──█ ████████████████▄▀▀▀▀▀▀▄──█──────█ ████████████████▀▀▀▀▀▀▀▄──█──────█ ▀████████████████▀▀▀▀▀▀──────────█ ──███████████████▀▀─────█──────▄▀ ──▀█████████████────────█────▄▀ ────▀████████████▄───▄▄█▀─▄█▀ ──────▀████████████▀▀▀──▄███ ──────████████████████████─█ ─────████████████████████──█ ────████████████████████───█ ────██████████████████─────█ ────██████████████████─────█ ────██████████████████─────█ ────██████████████████─────█ ────██████████████████▄▄▄▄▄█  ─────────────█─────█─█──█─█───█ ─────────────█─────█─█──█─▀█─█▀ ─────────────█─▄█▄─█─█▀▀█──▀█▀ ─────────────██▀─▀██─█──█───█",
+            "review_score": "1"
+        },
+        {
+            "review_text": "such a simple game, and one of the most smoothest ones that ran on my computer, even more than some 2D games i own.  i enjoyed it very much, and love the simple, yet somewhat challenging puzzle mechanics.  also, the little touch of hearing bare feet slap against the the floor while you walk is awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting puzzle platformer - there's a simplicity akin to Portal which is achieved. There is little in the way of story, but that just means there is nothing getting in the way of the puzzles. Collect the 3 macguffins in each level and manipulate the environment to get to the teleporter. Simple as that.  There's bonus levels and a fun co-op section too. Some of the co-op levels can be done solo and allow someone to AFK, but there are some scenarios that split up the players and requires teamwork to progress.  This game doesn't look polished, but that just adds to the charm. Well worth the money paid for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "got the game to sell the cards but shockingly fell in love with it. now im saveing for badge.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is very cool game! ^^ ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "what a game didn't think it would be good at all then i played it........ !:.:!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game on a sale for only 19 cents, so i wasnt expecting much. But i was proved wrong. This game has a lot of potential. It is a fun puzzle game similar to Portal, although quite different at the same time. I mostly played the multiplayer, which i had an absolute blast with. Great game. 6.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played it for 1.1 hours... Then I notice I didn't have a controller to play the COOP by myself...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Polarity is a physics-based game that is mainly influenced by portal. Upon first sight it seems like it would be a complete copy but it actually turned out to be a fun challenge. Also, it was on sale for $.19. There's no way that I'm passing up a game that cheap which also has steam achievements and trading cards. To conclude - Very fun Quick and to the point Has a strange local co op? Easy to make a perfect game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game but a little bit boring.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice puzzle game, rooms aren't too hard, yet they aren't too easy.  lovely game, reminds me of portal :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Polarity took my favorite mechanical portions of the Portal series and made an entire 38-level experience. I loved this game, holy ♥♥♥♥! I went into it kinda guilty since it was only 0.21CAD today, but holy crap I got more fun out of those cents than I've had in quite a while. At 5 bucks for the original price, this game is definitely worth it.  Just finished 100%ing and perfecting Polarity alone, despite all those coop levels. The coop levels get so difficult later on, even playing with 2 players. Local coop only, btw.  Polarity is definitely a great speed game. There's a lot of speed tech I discovered in this session. I can't wait to take them to the test and speedrun it.  So, yeah,  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a nice little game with a small story, but it's really enjoyable. It's most DEFINITLY worth the .19 cents i had to spend due to a sale, and even once the sale is done, still worth the possible 5 bucks. I would reccomend this to anyone who wants a good and small game to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If this game were a potato, it would be a damn good potato. 10/10 Great fun for the whole family. Well, I don't know, I don't have a family, but I do have dank memes. And all my memes point to dank. And the dank inside of my soul says this game is worth 15$ easily, and it's less than than. Would buy again for 19 cents.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a decent game for a cheap price, works incredibly well with my sh···· laptop wich i was very surprised at first.  This game looks a lot like the famous Portal, but it has it's own unique game mechanics that make this game different. If u buy it with the reduced price u can even win money with it  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, but I wish if vs mode was playable without joystick",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun puzzle / adventure that was entertaining. The puzzles were fairly easy in my opinion. The co-op was pretty fun and can be done locally, which was nice. Graphics were basic, but looked great. It was very short, my 4.8 hours is with the campaign, co-op campaign and the bonus campaign all combined.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun cheap redo of thee portal series, but not much content. 8.5/10 when its on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game reminds me of Portal,just a little different in it's own way",
+            "review_score": "1"
+        },
+        {
+            "review_text": "GET IT",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cool you can beat the system",
+            "review_score": "1"
+        },
+        {
+            "review_text": "lets be honest, this totally whas inspired by portal BUT still is original as F*CK also, CO-OP, a short BUT fun singleplayer and a couple bonus levels BUT WAIT there is more VS COOP!!!!! and i still don't believe i payed only 19 cents 4 this game  8.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, but I wish if vs mode was playable without joystick",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Pros:      Interesting puzzles   Appealing visuals   Should run on almost any PC   Occasionally clever level design   New mechanics are introduced organically, so it is very easy to learn how they work by just experimenting    Cons:     While visuals are pleasant, they are very rudimentary and this could detract from some people's experience   Almost no plot at all   Co-op is split-screen only   Very short playthrough   I found it too easy to blow through each level, and most data nodes (3 collectables in each level) aren't really hidden at all   The cons I have listed, while obviously negative points, don't really detract from my overall opinion of the game. I enjoyed it, and considering the cost of the game I felt like the investment was worth it. With so many games pushing 80+ hours to complete these days, it was refreshing to spend a buck for a few hours of entertainment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really Good Game , Cuz This Game is so Unique and Fantastic",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Worth the price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game about hacking the most secure database in the world to strike it rich from your client and figure out what said client is trying to achieve. Plays like simple Portal, has some interesting mechanics early on and creates a nice atmosphere for what it is. Graphics are Portal-esque as well but have their own flair. Also, lasers. Lots of lasers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "But ♥♥♥♥, it was 19 cents!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's no denying that this is a poor man's Portal. However, it's still fun to play in its own right. The puzzles aren't nearly as challenging as Portal, but that's okay. If you're looking for a relaxing puzzle game without tearing your hair out, this is perfect for you. The graphics are pretty sharp, despite the levels being minimalist in nature. It also seems like this game goes on sale a lot for some pretty big discounts. If you can snag it at that time, I would say go for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall a good game. kind of glitchy in some areas and some levels seem like they were put together very quickly and not with maximum precision",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I never expect a game which is 0.2 USD to be a good game Well I didn't say this game is a good game, but it's better than what I've expected 7/10 worth the weight",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not bad for a buck :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is SHORT, but it's a lot of fun. It's in the vein of Portal but without anything but the mere hint of a story. You are a 'hacker' who, instead of using computers at all, uses colored light and switches to achieve your aims, collecting 'data fragments' that are just collectibles scattered throughout the level. This thin excuse for a story aside, it's got good mechanics. You can reverse your polarity to either red or blue to pass through lasers and forcefields, or have your polarity opposite so you can walk across light bridges. There are a lot of putting-cubes-on-switches and jumping through forcefields while changing your polarity midair, and it gets pretty easy near the end once you've gotten the hang of it. It feels like I just finished the tutorial level and am waiting for the bigger levels.  8/10 overall, mostly for game length. You should definitely buy this, but don't pay more than $5 or you'll feel ripped off.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is relaxing, and seems fun to play for a little while. The puzzles are easy enough, but so far. i have not run into anything that takes more than a few seconds to figure out. The graphics arent great, but they get the job done well enough. Currently, you can buy the game in a bundle with four other games for $1.50 instead of paying the full $4.99 price, so it is definetly worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's no denying that this is a poor man's Portal. However, it's still fun to play in its own right. The puzzles aren't nearly as challenging as Portal, but that's okay. If you're looking for a relaxing puzzle game without tearing your hair out, this is perfect for you. The graphics are pretty sharp, despite the levels being minimalist in nature. It also seems like this game goes on sale a lot for some pretty big discounts. If you can snag it at that time, I would say go for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a budget (not being mean) version of mirrors edge. With smoth game play and steam card galore I would strongly recomend this game to any of my friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a bit easy, yet challenging, yet short. If you can get it on sale like I did it, totally worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is great but could use a small patch or two but other then that...   9.5/10 great!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't confuse with its hacker thing == Its just an awesome puzzle games My friend who likes puzzle games said this game is good Since i doesnt like puzzle so i just play a little time 6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game i have a lot of fun playing it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "steam cards are cool i guess",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've only played a little bit but so far it seems that the game can't figure out what it wants it's main concept to be. First level there was this thing about changing colors to go thru different color lasers and then the next thing I know that concept is allmost completly abandoned in favor of 'put box here'  Still I got this game for 21 cents and it runs on my potato of a laptop so I would reccomend it if it's on sale",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is smiple and rather fun; some clipping issues, but they are rare and easy to avoid (try not to squeese between a stationary object and a moving object). This game is a puzzle platfomer in the first poerson (not wholly unlike portal), the simple mechanic in this game however is 'polarity' (as might be presumed) is something red or blue; shared color objects do not interact, where opposing colors do. If this sound fun to you, grab a copy and play; if not, then so be it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun puzzle game.  However DO NOT purchase this game for its full price tag. The story is short (so far?), and only took me a little over an hour. Buy when its on sale (I got it for $0.19) With that being said, the gameplay does remind of portal for a few aspects. The main concept of the game is switching between the 2 'Polarities (Red and blue) to pass through certain walls and stand on certain platforms. This aspect doesnt really come in as much as it probably should though. For certain levels, its not necessary at all. Still, if its on sale for under $1, I would certainly recommend it.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very good game (though small, but again it is only $$1.99). It's a puzzle game that has Portal vibes and uses gravity to your advantage. It challenges you to think and look around. I reccomend this to anyone who likes to think.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, similar to Portal but much cheaper and simple. Would recommend it to anyone",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I want to start by saying that I bought this game because of the sale. I just took a look at how many positive reactions there were before buying it. No regrets. I finished it within 1.5 hour. I enjoyed every single second from it. I had to think about what to do. I had to do it in the proper way. I had to find and reach all data (bonus points). I simply enjoyed everything about the game. The maps were just difficult enough to achieve it, and hard enough make you struggle and think. I also like the graphics. It's cartoony and yet very beautiful. I would recommend this game to everyone that likes game that require thinking and knowing your surroundings well.  I have 3 copies which I would like to sell for a discussable price. I bought the game when It was in sale nad it would be a win-win situation where I gain money and the buyer pays less than the actual game. Just send me a message through steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun, but I have to agree with what others are saying, BUY IT ON SALE. I personally am enjoying it as were others but it is a fast game. Interesting but could use more. I recommend the alliance bundle, but only if it's on sale, not worth the same amount as undertale, which is a pretty nice game with a good story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This is actually pretty decent puzzle/platformer. Only one level gave me an issue and that was a game mechanic that hadn't been told to me but a few seconds of a youtube video cleared that up. There are videos on youtube showing off the levels.   Over all this is a pretty decent game. Wished it was online coop so I could do those levels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game's art style is of that of the games from GameTop I used to play as a kid. The music is that of my childhood and has a similliar music to the games of my past. The gameplay is unique and relaxing, the sound effects are sooo from my childhood and so are the graphics. Music, graphics, artwork, sound effects, gameplay, all of that is pulled right from my childhood.  The outfit the protagonist is wearing is a Ukrainian styled outfit. I'm fine with that since I've been in Ukraine for most of my childhood, that Ukrainian style house, tools and everything reminds me of the old games they sold is Ukraine back then.  The game is well-made and very relaxing, the gameplay is unique to me, because I've never played games like this in years. I would love to see this game grow and develop. I will love to support this game!  10/10 Ukrainians (no racial) medals (hah got'cha!) would give to the developers for making this. (lmao go to hell u nubs that click that dislike button! This game is me life!)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its a fun game makes me think of portal",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice puzzlegame, minimal but interesting, good for those who like Portal and games like that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is quite good and has a very unique puzzle type and thats very good. But if there was one thing i could tell the developers to add is player made maps. That would expand the game so much by just 1 little feature so if that does come out people will be playing a lot longer than just the story mode.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game but when I want achievement Companionless Cube : Destroy 10 Cubes. I destroyed Blue cubes but its not happening .... I started destroy red cubes and its working ! Repair it ! ..... And I cannot get achievement in CO-OP because, I haven't got GamePad. :,(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pro -great concept -a lot of fun -decent challenge (without being too hard) -cheap -both singleplayer and local multiplayer  con -short -no coop via internet  --&gt; great game for a break of a hour or so",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cheap and good game :d ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game, Finished it in a few Minutes. Buy this game as an alternative to Portal, can go to $0,1 on discount.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "is good but its hard to play. only play if you are looking to waste some cash",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You know what? For a game under $5 I was impressed. There's some stuff in the preview I don't remember seeing in the game though...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice puzzle game, similar to Portal but a bit more basic, but solid challenges.  Made by only a couple people.  Short but sweet. ~4hrs",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You like balls  Do you like music that makes you wanna sleep? Do you also like cheap stuff  well this game right here is the one for you for only 11 bucks you can get a game that is better than: Call of duty Ghost Call of duty Advance Warfare  Trove Postal 3 No more room in hell(Which is free if your looking to jerk off)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Good -Enjoyable portal clone -Gameplay is quite fun -Music is solid -Relatively unique visual style (reminds me of Tron) -Teaches the player controlls without holding their hand in learning gameplay mechanics  The Meh Stuff -Sounds were hit and miss - example: jump sounds were bad and off time with visuals fairly often but sounds for the cube and polarity shift were good -Gameplay elements were unique but there are only a few to learn  The Bad -EXTREMELY short game - I finished the single player and bonus missions in one sitting; less than an hour and a half total -The jump mechanics do not function very well, especially when trying to make multiple jumps in a row. This makes some levels a bit frustrating. -EXTREMELY easy game - even the most 'challenging' levels only take a couple minutes to finish. Several of the data (the things you collect each level) are in plain sight or hidden in painfully obvious hiding places. There is little to no challange in the puzzles.   Overall, I thought the game was enjoyable but definately not worth $11. I did not play the coop or vs modes, so perhaps these modes give some extra worth. I bought it on sale so it was dirt cheap.   TL;DR BUY IT IF IT IS ON SALE, DON'T BUY IT IF IT IS NOT ON SALE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing puzzle game. Played with my 5 year old brother. Kind of like portal but dealing with more boxes. Overall an amazing game. Doesn't have hard puzzles. (If you say they are hard, a 5 year old is smarter than you) Great game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "- Short singleplayer  - Graphic + Nice Gameplay  + Realy Good Soundtrack  + Co-op Camping  - Bad settings for Player 2 in Co-op - Bad Optimalization for Dualshock 4 +Split-Screen Versus Mode   ( 7 / 10 )",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game! but would be cool if you can coop play on the same keyboard just by using a button to interact with things such as . or /",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Okay, this game... It blew my mind. All i can really say is.. Buy the game! In a sale though. its not worth the 10 bucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I havn't played that much but I really like this game, how it works, the colors, the soundtrack, really great game, worth it in sale and maybe when it's not. However, devs, thumbs up !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun but short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice short game. for the $1 i got it at it was worth it. no doubt about it. for the usual 10 i don't know. for the record i loved portal and played it multiple times. and while this game is certainly in the same genre as portal it is far from being close to it's greatness. it has a few minor bugs. but the main problom was it's legnth. i beat the main and bonus levels in under 4 hours. i havent beaten the co-op yet but that isn't what i got the game for.  in short it is a fun short game with just enough challenge. but not enough challenges.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good game with very simple puzzles but it's fun ,though not worth $10. If there was level creation that you can upload/download levels it would be better and more worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I liked this game, even though it's a bit short. It took me about 3 hours to 100% every mission except multiplayer, which I still have to beat. It is often on sales and if you have less than a dollar you will get a very very nice little puzzler.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine Portal, without the portal gun, a good storyline and memorable characters. Now you have Polarity. It has it's own gimmick of switching colors to interact differently with colored objects, but aside from that it's another puzzler.  OR IT WOULD BE if there wasn't for COOP on split-screen. Yes, COOP, on Split-screen!   7/10 best indie budget small mini puzzle game on Steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Most fun you'll have for less than a quarter.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great puzzle game for its price. (95% off) Nothing really a hard game, but still enjoyable.  Game is quite short, but once again, got it for 95% off.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Atmospheric and nice 4 chill sci-fi game, Buy it   on sale of sure   if u like the movie 'Cube' and space ambient. 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is good for the price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1 Line review: It's like Portal, but without Portals. Also, it's very short. 5/10  Full Review: There isn't much to talk about this. The story is almost non-existent and is just a bunch (~20 + 10 extras) of really short levels (5min max if you want to get everything in each level). I'd say that the concept is kinda cool: instead of Portals, you have you manipulate your own 'polarity', between red or blue if you don't want to die from lasers of that color, if you want to be above platforms of those colors and even transport cubes of those colors without desintegrating them.  As a puzzle game, I didn't find it hard, only slightly on very specific segments that you have to get some items to unlock the ending. It should be more as an introdutory puzzle game to kids ages 8 and lower rather than to teens and adults used to more complex games like The Talos Principle and PQ (the psp exclusive). If you fall on the latter category, this game should be just one or two hours long.  On the other hand, this game often comes *really* cheap, like dirt cheap (some 50 cents... no pun intended), so the price/game hours ratio isn't that bad. The experience itself is bug-free and the visual is simple and a little retro, so it's nice to relax if you want something for that. Visuals are quite simple as well, but don't strain the eyes.  Overall, it is a fair game... I mean, fairly standard. Short, cheap, soothing, but nothing more. Well, it has multiplayer, but it's not that entertaining as other puzzle multiplayer games. So, just don't expect much.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's awesome and brings much fun to play. The only downside is the short amount of time, you need to finish the game. If you get it for a low price, i'll recommand to buy it ;-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm recommending it on sale. It's a good game, like a Portal spinoff, but the controls are a little clunky. More reminiscent of QUBE than Portal, really. The running and swapping colors is very fluid, but the sections with the slow moving platforms had me rocketing to my death like I'd jumped off a speeding car. Other than that, nice and relaxing puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is so good, maybe not with a graphic but this game chalenging you to solve the puzzle in game and this game is adicting, but this game have a bad soundtrack but, its ok nothing problem with that. so i recommended this game to you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This game was great, i loved the design of the levels and the puzzle aspects. Alough the game was less difficult than games like portal or portal 2 it doesnt take away from the game. I do have to say that the game can be completed in an incredibly short amount of time so i would have loved there to be more levels",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun little Portalesk game with some decent mind gaming.  Well worth anything under half a currency. (in my case a Euro)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Worth if it's on sale. Single Player Campaign completed in around 80 min, 7/10 Achievements possible as single player. For coop you need a gamepad.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice for free time. And with sale it was very cheap",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You get what you payed for... 50c when it's on sale... not bad considering the price. Definitely not worth $11 though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I Loved This Game!!! Needs More Levels Tho And Some More Hard Levels Mostly Easy But Fun I Reccomend Buying This Game When Its On Offer XD Its A Bit Pricey :3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Is fun . Nothing more :)))",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's so fun! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought it for $0.14. And it seems like a $15 game. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, not worth 10€ though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very short but fun puzzle game. Somewhat akin to portal but without the captivating storyline. I enjoyed the puzzle elements but disliked how gathering the data chips at points just felt like getting jumps perfectly positioned. Also for some reason the keyboard controls wouldn't work.  I would love the addition of a storyline and some tidying in the movements and glitchy textures in the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game rocks! guys well worth the buy! challanging fun. i love the fact it uses colors as polarity if you cross a red beam with a blue your toast! all set in a 3D world where you have to do certain tasks and puzzels to complete &amp; pass into the next level. i would have to say as addictive as portal but much more different.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game for 14 cents on a sale, I enjoyed it. To me, I would say its worth about a dollar. The price shifts constantly on this game, so don't pay any more than maybe $2.50. It seems like the devs sold it at a low price to get it good reviews, then jacked the price up so people would buy it at that inflated price, kinda shady in my opion, but still a decently good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Similar to Portal, Polarity uses physics and cubes through propulsion switches and other puzzles. The puzzles are far easier, making this game feel more casual than Portal. The story is mediocre. I loved playing this game and completing levels quickly. This is a very relaxing game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow. So download, much possibility.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely loved this game. Provided a very fun and entertaining experience whilst playing, be great if there were a couple more courses to play through as there just seems to be not enough at the moment. The gameplay elements are mostly fun, and can offer a good puzzle at times.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The developers have re-released this game THREE TIMES.  They've been changing the release date to attract the attention of unknowing possible customers.  Oh, it's not a very good game either.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": " TL;DR",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's okay. It's messed up though that they keep putting it on the new release list when it's over two years old though.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Wouldnt recomend the game unless its like a few cents. It's a realy slow paced game with no real lelel design that would feel chalanging, like the graphic and movment are fine... But you have to find some dumb fragments and uness you find all you have to re-do a bunc of levels you already did and were booring as hell all over again.. and the game doesn't realy let you know you have to pick them up until you pass like a bunc of levels and than expects you will go back and find them in some not original hiding spots like in a corner or under a bridge... Realy unless you are realy chill or high and you dont need nothing more than a empty world od walikng around with no real action... Buy portal1,2 talos principle dont waste your time on this. Like props to the authors its not a bad game if you are 1 guy making this or a bunch of students you will improve but thiss just aint the piece that will break your fame",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  This game... I don't know where to begin. It can be a fun timekiller for a little while, but it's never worth the full asking price of 9,99€. It's on sale right now for 0,99€, and I think that should be the normal price, because clearly there didn't go a lot of work into making the game.  I guess the devs went for a clean and minimalist look, like Portal or Q.U.B.E, and I guess it's ok, but it looks rather dull and like something that everyone could piece together in some game construction kit within a couple of minutes.  All the puzzles are very easy, and not very well designed. If you have ever played user made puzzles for Portal 2, you probably know what I mean. They work, and you had to think a bit about how to solve it, but all in all they seem designed quite badly, compared to the dev-made puzzles. Alle the levels in this game feel the same.  Most of them don't even use that Polarity concept all that much. It's more about taking a blue or red cube to a receptacle of the same colour and activate something that helps you through the level (platform, acceleration ramp, opening a gate etc.). Sometimes you have to throw the cubes at the receptacles, which works reasonably well.  The controls are fine, though the air controls seem a bit off.  The main reason why I think this is worth more like 1€ than 10€ is that the main game consists of 11 (extremely short and easy) levels. There are also 10 bonus levels and a coop campaign, but... come on, really? At about level 8 there suddenly is this new mechanic where you can change the colour of your cube by throwing it through a green force field. This mechanic isn't introduced in any way, and the only reason it's still quite easy to figure out by yourself is because the level design is so bleak that there aren't to much possibilities. It's like 'ok, here's this red cube, there's a blue receptacle, and there is nothing else in this room except that green force field over there', so your options are so limited that you soon arrive at the correct solution.  Oh, what I didn't mention so far: you also have to collect 3 green glowing things (aka 'Datasets') in every room for no apparent reason. Yes, the story tells you why, but they just feel like this arbitrary thing you also have to do that has nothing to do with solving the room's puzzles. Sometimes they're hidden, but that doesn't really work either, because of the empty level design. If you are at the end of the level and you're missing one of them, it's just like 'well, then I'll have to go over there where it's probably hidden and where I didn't go before because I had absolutely no reason to'.  TL;DR: Puzzles too easy, just 11 levels in the main campaign, bad level design. It's like the easy first few puzzles of other puzzle games, in length as well as in difficulty.  I wouldn't recommend buying this even at 0,99€ unless you also have someone to play the coop campaign with. I got mine for free, if you can get it free, go for it. It can be entertaining for a short while.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Polarity is a game about a hacker trying to collect some code for a company.  PROS:   OST is decent   (Probably) easy to 100%, but requires a controller and can be tedious   Trading Cards CONS:   Bugs  everywhere    Game used to be a quarter, but it's now worth $10   VERY short story   Splitscreen only Co-op   Boring as hell  My 20 minute, MS Paint drawn game has less bugs than this game.  Fortunately, I got this game for free.  5/10  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It is so bad that I refunded it, when I only bought it for $0.54 (95% off).   It honestly is a really bad game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's like Portal in bad, with ♥♥♥♥♥♥ graphics, ♥♥♥♥♥♥ controls, and a dumb name",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "There are 3 major factors that keep me from giving this an upvote. 1) Relating themselves to or even mentioning Portal in the official description. 2) It is 11 dollars. 3) This smidgeon of text right here:        what the ♥♥♥♥?&nbsp;",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I completed the single player game (bonus levels included) very quickly, getting all possible single player achievements along the way. Almost the entire time I was wondering when it would get harder. It never did. I never had to think too hard to solve the rooms, or look in obscure corners to get the data fragments. When I finished the game I was left feeling like it had never really gotten started.   If you’re after an easy, relaxing puzzler that won’t take all day or require a lot of thought, this is very much for you. I would suggest waiting for it to be on sale (I got it for $0.19, and I can’t express how glad I am I didn’t pay $5 for it).  The game itself looks decent enough. There are little issues here and there, like some minor Z-fighting in spots, and in one level there is a doorway you have to jump through because you get stuck on the lip of the floor otherwise. Nothing game breaking though.  Unfortunately I don’t have any friends with this game, so I can’t say anything about the co-op side of it. Overall it’s an okay game, it’s just not one I’ll be recommending to people unless they want a really simple and short puzzler.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This isnt as i thought i would be, because my friend and i wanted to play on fun game and he found this, immeditatly we found out that the game doesnt support multiplayer but instead Co-op, which means if you have two computer and each have this game you cant play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "i bought the game for .19 $, so there was nothing to lose really. However, this game lacks any sort of challenge, 1/4 of it is jumping between different color platforms and hitting 'Q' in the air. In a puzzle game, i expect to be stuck on a few levels scratching my head; sadly, this didn't happen on any of the minute amount of levels.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this is an example of how steam scam, this game when i saw it was like £0.10 and now they are charging £6.99. WTF.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's not Portal lol, controls are bad, and I don't get any Steam trading cards.. Completely waste of time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Intriguing idea. Painfully poor execution.  The puzzles seem creative, but the game is filled with minor design errors, major design errors, and is in dire need of a couple solid months of debugging. Puzzle softlocks, out of bounds locks, inconsistent bouncer behaviour, the lot. Do not recommend.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A waste of money and a ♥♥♥♥♥♥ remake of portal. It takes 2 seconds to complete the campaign. It claims it has a co op campaign, but really it's just the singleplayer campaign with split screen. The puzzles weren't challenging at all either. At least I can say it had a decent soundtrack.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I paid $0.19 for this game. It was fun but it only took me an hour to finish the entire single player game with 100% of collectables (including the bonus missions). I have finished the game and could still get a refund (I wont, im not a ♥♥♥♥) The game is a cute concept but lacks any real difficulty or depth. All the levels (including the bonus ones) feel like a tutorial. If you like puzzle games this will occupy you for an hour, but there is no challenge, and therefore no satisfaction for solving anything.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is not worth the money. The puzzles are very straightforward and easy and the moving platform physics are horribly bad. Don't spend your money on this Portal wannabe.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Cheap and fun but buggy. The cube at the ceiling made me crazy. If it's 1+ it'd be good. But don't give it more.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Super short single player campaign and bug infested all the way through. Not worth five dollars. Thankfully I got it for 19 cents.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Get it while on sale, minimum 5€, more than that its not worth it. I didn't enjoy it, because one you get to the last level, to actually complete it, you have to go through all the older levels to get things to unlock the last one, and I seriously hate games that do that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The jump button doesn't always work. How can you get something so simple wrong?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Clunky, pointless, boring, and easy... What would be the point of reviewing this ♥♥♥♥?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "piece of ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "F**K This Game. Only Buy On Sale For Trading Cards And Sell Them!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "dont buy it its Horrible I bought it when it was on sale and that was the worst choice I ever made D;",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'One of the most fun puzzle/platformers since Portal' ... That is, if you ignore 80% of them.   This game is bad, like really bad. The whole description feel way too pretentious, if you didn't noticed.  The story is basically a sad attempt to put a goal for the characters. It's almost non-existent, and I pretty much forgot about it right after the third level.  Level-design is really bad, bland, and don't expect challenges, unless for like 2-3 levels.  Almost no indication on how certain mechanics works, which is a real pain. I spent the whole single player campaign on resetting levels when I couldn't get a cube before learning that you can click on the arrow to make it respawn.  The only thing making the game really difficult, it's the number of bugs in it. Also, the physics. Jumping on a moving platform makes you go faster than the platform. Even when you don't want to move. There's a whole level about moving and jumping and a moving platform, and it's easily the worse level of it.   Are a little selections of bugs: Getting stuck under platforms, between platforms, no button response, and the worse of it: while playing as Player 1, you can make player 2 drop their cubes with a mouse button. Like.. Why?  Those co-op levels are a real pain to play with someone, it's way easier to do it by yourself with a keyboard and mouse + a controller.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "They raised the price of the game AFTER I bought it, which really changed my opinion about it.  It has almost no content that would be worth the current price, even when it is on sale. I do not recommend buying it, especially when it is not on sale! It used to be a game you could get for a couple of cents and that had trading cards, that is why I bought it.  Though I had some fun, the game is not very challenging nor does it have a lot of content. You can finish the 'story' in 2 hours or so and I really had enough of the game after this.  I only paid a couple cents back in 2015 but what the devs are doing with rereleasing it and raising the price is disgusting. Stay away from this game and don't get ripped off.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "why if i play this game the screen always pink!!! flease fix this",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you want a fun and challenging puzzle game this is not what you are looking for. For a game so easy and so short the price is a ripoff, The box is glitchy as all hell, the level design is lazy, music... idk, I don't remember any music and the overall quality of the game is like something you could get on gamejolt for free and even then the games are better.   TIP: Don't buy it",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game does not work. I start it up on the first level and it makes me spin around, no matter what buttons I push. Annoying!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I am going to take my refund. Its not online multiplayer its local misleading tag",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is super boring and its totally not worth the money!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Glad I paid only $1 for this, way too easy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Jumping is broken. Fix jumping so it works 100% of the time and I'll change my review.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Did you like portal? Then DO NOT PLAY THIS GAME. It is slow, uniteresting, unchalenging, buggy, confusing, and has horrid pacing. I got it for free and i still regret getting it. Avoid this game espically for the $10 price. The COOP is even worse than the gameplay. (also, if you want it, i got it for free by buying out there somewhere. May or may not still work)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The coolest part about this jumping-puzzle-platformer is that sometimes, jumping doesn't work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you looking for an Online Multiplayer, this game does have no Multiplayer. Tag is totally wrong. So i do not reccoment it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game feels like a first attempt of trying to look like portal",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you have played other puzzle games, portal, for example, and you still feel like you have yet to find a true challenge, then this game is certainly not for you. It doesn't rely on clever thinking and deep thought processes to entice the player through each level, it relies simply on... general difficulty? What I mean by this is you will never truly find a puzzle that will stump you, that will have you sitting at your computer for 30 minutes, pacing back and forth between point a and point b, just trying to come up with a sollution. Instead, the biggest problems you'll have are gonna be simply from the wonky movement controls and the game plain and flat out hiding the objectives from you.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "After reading so many good reviews, I decided to buy this game on sale. And I must say, I was really disappointed.  Explaining why: the levels are pretty straightforward, since there isn't two or more ways to beat the maps, there is only  the solution way . Also, in my opinion there is something really wrong whenever you spend more time moving your character through the huge maps, instead spending time trying to solve the puzzle itself and that bothered me a lot.  That is my honest opinion, but feel free to disagree. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is essentially a portal clone and honestly it has some good mechainics but it overall is just boring. the first problem is the price i got it for $0.59 as part of a bundle what scares me is that this is meant to be $10.99 and yet it is filled with bugs. Another point is the levels, as its quite short for something thats meant to cost $10.99. The level design isn't that great as its just bland and boring. Overall the only way i can recommend this game is if it was $0.54.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is buggy as ♥♥♥♥. Jumping works randomly, if at all. The cubes you need to use sometimes can't be picked up if you drop them, causing you to have to restart puzzles. Only pick up on a heavy, heavy discount and only if you really want to be frustrated as I doubt they are going to fix these issues.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I got this game for 9 cent or something like that. At the time I wrote this review I played 101 minutes in just singleplayer. That means I bought 11,2 minutes of fun/cent. Not adjusted for multiplayer. That definitely was worth a buy.   For 10,99 though? I am sorry, but that's too much. I can't recommend this in good conscience with a price tag like that. A 2 year old game that is this short and easy should not be that expensive. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A fairly short game, with a bare-bones story and general lack of polish. The puzzles are no challenge, I felt like the main theme of the game, polarity, was barely explored.  Halfway through the single player, you're forced to replay the levels to collect all of the 'data' you might have missed, which aren't hard to find honestly. Now you might be in the mindset to hunt the data down in the bonus levels you just gained access to, except they're all directly in your path from now on!  I constantly had to jump over toe high ridges to get on ramps and such. The cubes you have to carry around kept getting snagged out of my grasp, sometimes forcing me to redo multiple steps to get it back.  Overall it passed as nothing more than a time waster.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Broken game, jump doesn't work 66% of the time",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I only recommend this game for the $0.19 I paid for it. At 11 dollars, it is not worth it *at all*. It's a simple distraction that you can get into pretty easily, but it's just not worth ELEVEN dollars. I would be ♥♥♥♥♥♥ if I paid the full price of this game. Don't compare this game to Portal, it's not even close.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game has an excellent idea in its core, but... It would be fair to say, that it's dreadfull.  It is neither fun, nor tricky, but very short. The design is deserted and poor. Soundtrack is boring. Game-mechanics usually has problems. Polarity is utterly dull. Empty and pointless gameplay. A lot of stuff, concepts and elements were stoled from Portal series.  Don't buy it in full price, don't buy it with discounts either. Better buy some Portal's mods. 2/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "First i want to starty off that i got this game for 20 cents, and at that price anything has value...  This game's main campain only lasted about 1 hour, and it was about as interesting as a free flash game. The game also has graphical issues, the textures get realy low res at about 5 feet away, and has very limited resolution settings. The screen shots of this game makes it look better than it actualy is. The gameplay in this is repeditive and unlike the discription says, it's nothing like portal, it focuses on platforming and twitch reflexes, not clever puzzles...  Anyways, its not worth 10 dollars.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Would you love Portal if it weren't for all those annoying hours and hours of gameplay, immersive atmosphere elements, polished visuals, engaging characters, and tough challenges? Then this is the game for you! At $10, it certainly isn't the game for me.  This game came in a bundle with a game I actually wanted, so I gave it a chance. In my 1.1 hours of playing, I have finished approximately 1/2 the single player content. Full disclosure: there are two cigarette breaks worth of time counted in that total when I wasn't actually playing.",
+            "review_score": "-1"
+        }
+    ]
+}

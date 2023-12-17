@@ -1,0 +1,51 @@
+{
+    "app_id": 402390,
+    "name": "Hyperdrive Massacre",
+    "release_date": "2015-10-12",
+    "developer": [
+        "34BigThings srl"
+    ],
+    "publisher": [
+        "34BigThings srl",
+        "Digital Tribe"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 34,
+    "positive_ratings": 106,
+    "negative_ratings": 88,
+    "price": 6.99,
+    "description": "Hyperdrive Massacre is an 80s inspired arcade fragfest in Spacewar sauce designed around local multiplayer, focused on kinestetics, tactical and shooting skills at a frenzied pace.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/402390/header.jpg?t=1542401268",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 2 GB RAM Graphics: Intel HD 4000 DirectX: Version 10 Storage: 450 MB available space Additional Notes: NOTE:  CONTROLLER REQUIRED",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is a lot of fun especially in local multiplayer! Last night with my friends we played this game non stop, laughing a lot and hating each other on the space soccer fields and the last man standing arena :) In single player mode you basically train with an AI that is best then you and all of your friends out of the box, even in normal mode 0.0 (had fun but Maaaaaaan that needs a lot of focus!) RECOMMENDED  ",
+            "review_score": "1"
+        }
+    ]
+}

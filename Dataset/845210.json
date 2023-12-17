@@ -1,0 +1,36 @@
+{
+    "app_id": 845210,
+    "name": "Sim Racing Telemetry",
+    "release_date": "2018-06-13",
+    "developer": [
+        "UNAmedia"
+    ],
+    "publisher": [
+        "UNAmedia"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 6,
+    "price": 0.0,
+    "description": "Sim Racing Telemetry is the essential tool for the sim racing eSports community to quickly acquire, analyze and review detailed telemetry data from sim racing games.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/845210/header.jpg?t=1540748952",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel Core 2 Duo Memory: 1 GB RAM Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 2920,
+    "name": "Sub Command",
+    "release_date": "2006-10-26",
+    "developer": [
+        "Sonalysts"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Naval"
+    ],
+    "achievements": 0,
+    "positive_ratings": 33,
+    "negative_ratings": 14,
+    "price": 22.99,
+    "description": "Take charge of the most deadly modern-day submarines in the world - three distinct submarines across two unique and challenging campaigns. Utilize cutting-edge sensor and weapon technology to locate, track and destroy the enemy - even deliver Tomahawk missiles to inland targets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/2920/header.jpg?t=1447350935",
+    "minimum_requirements": "Recommended: Windows 2000/XP, Pentium III, 256MB RAM, 1.5G Hard drive space, 32MB video card (Nvidia Geforce or ATI Radeon) DirectX 8.1 compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "While the graphics are dated, this submarine warfar simulation is the real deal. Game has a lot of depth (pun intended) and there are several different mission types that offer a lot of variety in gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The graphics are not anything like they are today. It has graphics like minecraft. And the game has no usefull tutorial I could find . If the game did not crash on me every 5 secounds I might consider playing it but it's to unstable for me to finish a single task on any one of the modes.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 334540,
+    "name": "Vox Machinae",
+    "release_date": "2018-09-26",
+    "developer": [
+        "Space Bullet Dynamics Corporation"
+    ],
+    "publisher": [
+        "Space Bullet Dynamics Corporation"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "VR Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 403,
+    "negative_ratings": 33,
+    "price": 19.49,
+    "description": "Strap yourself into the cockpit of a robot seven times taller than a Tyrannosaurus Rex and prepare to do battle in Vox Machinae: the ultimate giant robot combat action-simulator for both VR and standard screens.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/334540/header.jpg?t=1545278912",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Quad-Core or Hyperthreading-Enabled Dual-Core CPU Memory: 4 GB RAM Graphics: GPU with 2GB Memory DirectX: Version 11 Network: Broadband Internet connection Storage: 5 GB available space Additional Notes: These are the NON-VR requirements.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4590 / AMD FX-8350 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 4GB / AMD R9 290 4GB DirectX: Version 11 Network: Broadband Internet connection Storage: 5 GB available space Additional Notes: These are the VR requirements.",
+    "reviews": []
+}

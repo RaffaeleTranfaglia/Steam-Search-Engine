@@ -1,0 +1,42 @@
+{
+    "app_id": 1037140,
+    "name": "Mow Problem",
+    "release_date": "2019-04-12",
+    "developer": [
+        "Trederia"
+    ],
+    "publisher": [
+        "Trederia"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 23,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.99,
+    "description": "Use a familiar block programming interface to efficiently guide your lawn mower across all the lawns, throughout the seasons. Mow Problem is a casual puzzle game featuring relaxing music designed to improve your logic and thought skills.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1037140/header.jpg?t=1555092150",
+    "minimum_requirements": "最低配置: 需要 64 位处理器和操作系统 操作系统: Windows 7 处理器: 2.1 GHz, 64-bit, dual core AMD or Intel processor 内存: 1 GB RAM 图形: Nvidia GTS450, AMD Radeon HD 5000 series or higher with OpenGL 2.1 存储空间: 需要 25 MB 可用空间 声卡: OpenAL compatible 附注事项: Requires OpenGL 2.1 or higher support, Intel integrated graphics may work but is not officially supported",
+    "recommended_requirements": "推荐配置: 需要 64 位处理器和操作系统",
+    "reviews": []
+}

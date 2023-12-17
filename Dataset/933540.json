@@ -1,0 +1,42 @@
+{
+    "app_id": 933540,
+    "name": "Idle Space Raider",
+    "release_date": "2019-02-05",
+    "developer": [
+        "Coconut Shavers"
+    ],
+    "publisher": [
+        "Coconut Shavers"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 80,
+    "positive_ratings": 41,
+    "negative_ratings": 20,
+    "price": 0.0,
+    "description": "You are one of the station guards and need to patrol space. Complete missions and raids, upgrade ship and station to increase your power. Complete missions, mine ore, kill enemies, research new tech, return to base to upgrade ship and repeat.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/933540/header.jpg?t=1549383706",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 512 MB RAM Graphics: OpenGL 2.1-compatible, 512 MB Storage: 256 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 Memory: 512 MB RAM Graphics: OpenGL 2.1-compatible, 512 MB Storage: 256 MB available space",
+    "reviews": []
+}

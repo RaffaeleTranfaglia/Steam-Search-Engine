@@ -1,0 +1,41 @@
+{
+    "app_id": 727760,
+    "name": "Umiro",
+    "release_date": "2018-03-28",
+    "developer": [
+        "Diceroll Studios"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 35,
+    "negative_ratings": 7,
+    "price": 2.09,
+    "description": "Huey and Satura find themselves lost in the colorless world of Umiro with no memory of their past or how they arrived in this mysterious place. Draw your way through beautiful puzzles and guide Huey and Satura as they restore color to Umiro.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/727760/header.jpg?t=1529372308",
+    "minimum_requirements": "OS: Windows 7/8.1/10  x64 Processor: Intel Core 2 Duo E7300 (2*2660) or equivalent / AMD Phenom 9500 (4 * 2200) or equivalent Memory: 2 GB RAM Graphics: GeForce 8800 GTS (512 MB) / Radeon HD 6570 (1024 MB) DirectX: Version 9.0c Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

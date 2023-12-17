@@ -1,0 +1,44 @@
+{
+    "app_id": 495600,
+    "name": "Asteroid Fight",
+    "release_date": "2018-09-28",
+    "developer": [
+        "Katta Games"
+    ],
+    "publisher": [
+        "Katta Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 9.29,
+    "description": "ASTEROID FIGHT is an online multiplayer action real-time strategy game. Use your commander with uniquely modified special abilities, build a strong economy to be able to quickly grow a strong military so you can stand a chance against your enemies and destroy their warp gate.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/495600/header.jpg?t=1539449854",
+    "minimum_requirements": "OS: Windows 7, Windows 8 or Windows 10 Memory: 4 GB RAM Graphics: AMD/ATI, NVidia with at least 256MB, Intel HD Graphics or better Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

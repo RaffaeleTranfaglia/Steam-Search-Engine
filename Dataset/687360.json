@@ -1,0 +1,35 @@
+{
+    "app_id": 687360,
+    "name": "Doodle Jamboree",
+    "release_date": "2017-09-26",
+    "developer": [
+        "Mike Laraman"
+    ],
+    "publisher": [
+        "Mike Laraman"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 0,
+    "price": 1.59,
+    "description": "Play as a drawing and explore a world of paper scraps and sketches in a quirky, delightful doodle extravaganza!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/687360/header.jpg?t=1506410749",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 2GHz Dual-Core Memory: 2 GB RAM Graphics: nVidia/AMD graphics card with up-to-date drivers Storage: 250 MB available space Additional Notes: WebGL renderer essential",
+    "recommended_requirements": null,
+    "reviews": []
+}

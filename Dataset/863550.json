@@ -1,0 +1,40 @@
+{
+    "app_id": 863550,
+    "name": "HITMAN™ 2",
+    "release_date": "2018-11-13",
+    "developer": [
+        "IO Interactive A/S"
+    ],
+    "publisher": [
+        "Warner Bros Interactive Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Stealth",
+        "Action",
+        "Assassin"
+    ],
+    "achievements": 125,
+    "positive_ratings": 10814,
+    "negative_ratings": 1756,
+    "price": 44.99,
+    "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world’s most creative assassin, Agent 47 in the ultimate spy thriller story.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/863550/header.jpg?t=1549278592",
+    "minimum_requirements": "OS: OS 64-bit Windows 7 Processor: Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 / Radeon HD 7870 DirectX: Version 11 Storage: 60 GB available space",
+    "recommended_requirements": "OS: OS 64-bit Windows 10 Processor: Intel CPU Core i7 4790 4 GHz Memory: 16 GB RAM Graphics: Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB DirectX: Version 11 Storage: 60 GB available space",
+    "reviews": []
+}

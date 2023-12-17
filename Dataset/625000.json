@@ -1,0 +1,41 @@
+{
+    "app_id": 625000,
+    "name": "Knightfall",
+    "release_date": "2017-09-04",
+    "developer": [
+        "Static City Games"
+    ],
+    "publisher": [
+        "Static City Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "Darkness consumes your surroundings and you will have to adventure through the labyrinth ahead of you to escape in this retro pixel-art action RPG.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/625000/header.jpg?t=1521671155",
+    "minimum_requirements": "OS: Windows XP (SP2) or later Processor: 1.66 GHz Dual Core Processor or equivalent Memory: 1 GB RAM Graphics: Intel HD Graphics or equivalent Storage: 250 MB available space Additional Notes: Gamepad Supported",
+    "recommended_requirements": null,
+    "reviews": []
+}

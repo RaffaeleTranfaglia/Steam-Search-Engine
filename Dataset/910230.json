@@ -1,0 +1,41 @@
+{
+    "app_id": 910230,
+    "name": "Fortified Swiss",
+    "release_date": "2018-11-23",
+    "developer": [
+        "Rat Wrath Studios"
+    ],
+    "publisher": [
+        "Rat Wrath Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 19,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "Fortified Swiss is an immersive RPG tower defense experience featuring a grand campaign that spans across the continent of Fromage. Vast hordes of mice have invaded due to the Mouse King's insatiable desire to hoard the most artisan of cheeses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/910230/header.jpg?t=1543207310",
+    "minimum_requirements": "OS: Windows 7 Memory: 4 GB RAM Graphics: Open GL 3.2+ Compliant DirectX: Version 9.0 Network: Broadband Internet connection Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

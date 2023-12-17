@@ -1,0 +1,42 @@
+{
+    "app_id": 652340,
+    "name": "Flagsplosion",
+    "release_date": "2017-06-28",
+    "developer": [
+        "Smokey Moose Games"
+    ],
+    "publisher": [
+        "Smokey Moose Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Education"
+    ],
+    "achievements": 45,
+    "positive_ratings": 31,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Flagsplosion is a flag identifying endless quizzer with over 650 current flags from around the world, over 100 Training levels, Practice Mode, and Endless Mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652340/header.jpg?t=1518471159",
+    "minimum_requirements": "OS: Windows 7 Memory: 1 GB RAM Graphics: OpenGL 2.1+ Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

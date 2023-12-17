@@ -1,0 +1,45 @@
+{
+    "app_id": 433530,
+    "name": "Heliborne",
+    "release_date": "2017-10-12",
+    "developer": [
+        "JetCat Games"
+    ],
+    "publisher": [
+        "Klabater"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Flight",
+        "Multiplayer",
+        "Action"
+    ],
+    "achievements": 50,
+    "positive_ratings": 1379,
+    "negative_ratings": 348,
+    "price": 15.49,
+    "description": "Fly some of the best helicopters in the world – from the classic machines of the 1950s to the modern gunships of the 21st century. Play missions with your friends and compete with players from all around the world in various multiplayer modes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/433530/header.jpg?t=1556284044",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.3 GHz Memory: 2 GB RAM Graphics: Shader Model 3.0 Compatible GPU, 986 MB VRAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "Processor: 3 Ghz Memory: 4 GB RAM Graphics: 1536 MB VRAM Network: Broadband Internet connection",
+    "reviews": []
+}

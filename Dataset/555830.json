@@ -1,0 +1,44 @@
+{
+    "app_id": 555830,
+    "name": "Vecitas",
+    "release_date": "2017-04-12",
+    "developer": [
+        "Sachonski",
+        "Renato Milanesi",
+        "Sith"
+    ],
+    "publisher": [
+        "Patagoniart"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Action",
+        "Massively Multiplayer",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 8,
+    "negative_ratings": 9,
+    "price": 5.59,
+    "description": "Vecitas is a fast paced multiplayer space shooter combined with singleplayer mode. Have fun playing with others in space combat. Unlock new ships playing in multiplayer as well as singleplayer. The Galaxy of Vecitas awaits you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555830/header.jpg?t=1547426664",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 2 GB RAM Graphics: 1GB - Graphic Card DirectX: Version 9.0 Storage: 1300 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 Memory: 8 GB RAM Graphics: Gtx 970, AMD 290, or equivalent DirectX: Version 11 Storage: 1300 MB available space",
+    "reviews": []
+}

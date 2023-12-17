@@ -1,0 +1,40 @@
+{
+    "app_id": 590770,
+    "name": "Vectonic",
+    "release_date": "2017-02-14",
+    "developer": [
+        "@YearOfTheBob"
+    ],
+    "publisher": [
+        "@YearOfTheBob"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 0.0,
+    "description": "Jumping, zooming and stomping in a neon demo-derby.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/590770/header.jpg?t=1501002680",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i5 CPU 480 @ 2.67GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce 310M Storage: 570 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

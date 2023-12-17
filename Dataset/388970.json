@@ -1,0 +1,59 @@
+{
+    "app_id": 388970,
+    "name": "iZBOT",
+    "release_date": "2015-09-01",
+    "developer": [
+        "Daniel Spruce"
+    ],
+    "publisher": [
+        "Ruxar"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 9,
+    "positive_ratings": 133,
+    "negative_ratings": 22,
+    "price": 9.29,
+    "description": "iZBOT is fast paced, double jumping, wall sliding, edge of your seat platformer that delivers delicious bite sized challenging platforming levels while always keeping you in the action.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/388970/header.jpg?t=1541929242",
+    "minimum_requirements": "OS: Windows Vista or Later Processor: Intel Core™ Duo or faster Memory: 2 GB RAM Storage: 100 MB available space Additional Notes: Gamepad highly recommended",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A brilliant little platformer with bite-size levels. Graphics are charming. Gameplay is smooth. Controls are precise. Levels are well designed. Music is cool. The only bad thing is........I wish there were more levels. Many more levels, because it's just so nice to play. I would be super excited to see an extra world or 2 added. Or maybe even a level editor. (Fingers crossed) But even so, it's still a GREAT game!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple but well executed precision platformer. Controls are precise and no death feels cheap. The little bot controls wells both on the ground and in the air, the ability to double jump giving you that 'aww yeah' moments when you realise you jumped at the wrong time but managed to correct your trajectory mid air.   The levels are bite sized but they're well designed and some section can give you some trouble if you're not careful. One very important thing in this genre that iZBOT does right is the speed at which you can restart a level. Fail a jump and die or just press R and you're instantly back at the start, ready to try again.  Only minor gripe is the music can get a bit repetitive. Overall, good little game for the masochist in you that likes to try again and again until you have that perfect run.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun and short. Expected it to be harder.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pleasant to play through but rather unremarkable. iZBOT reminds me of Super Meat Boy, except it has much less content and it only becomes difficult in the last world. It took me about two hours to 100% the game, so definitely wait until it is on sale to purchase. I think a level editor would be a welcome addition in the future.",
+            "review_score": "-1"
+        }
+    ]
+}

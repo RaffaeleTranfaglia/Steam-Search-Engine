@@ -1,0 +1,41 @@
+{
+    "app_id": 664750,
+    "name": "Wrongworld",
+    "release_date": "2018-05-11",
+    "developer": [
+        "Sludj Games"
+    ],
+    "publisher": [
+        "Sludj Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 62,
+    "positive_ratings": 170,
+    "negative_ratings": 9,
+    "price": 10.99,
+    "description": "Crash-landed on a surreal, low-poly world filled with freakish inhabitants, choose between permadeath and non-permadeath modes and embark on an epic (and ridiculous) survival adventure. Will you manage to stay alive as you unravel the mysteries of Wrongworld and search for a way home?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/664750/header.jpg?t=1554469723",
+    "minimum_requirements": "OS: Windows XP Processor: Yes, a processor is required. My 2011 middle-of-the-road laptop can just about cope. But to err on the side of caution and also try to sound a little less clueless about hardware, I'll say an Intel i3 or better is probably wise. Memory: 4 GB RAM Graphics: You don't need a beast - as mentioned above, my ancient laptop (it's called Larry, by the way) has something known as a Radeon HD 6520G stuffed inside it, and it can just about deliver 30fps with all the settings on &quot;Low&quot;. Definitely wouldn't want to go older/lamer than that, but the fact you're actually looking at 3-dimensional games on Steam makes me think you've probably already got that covered. But it is quite important that your graphics card supports DirectX 11. Things can get a little wonky on DX10. DirectX: Version 11 Storage: 500 MB available space Sound Card: As far as I can tell, any on-board chip should work. At least, none of the test machines I have access to have had any problems with sound.",
+    "recommended_requirements": null,
+    "reviews": []
+}

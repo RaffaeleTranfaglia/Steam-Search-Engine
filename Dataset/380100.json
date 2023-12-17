@@ -1,0 +1,40 @@
+{
+    "app_id": 380100,
+    "name": "Flute Master",
+    "release_date": "2016-06-16",
+    "developer": [
+        "Classplash"
+    ],
+    "publisher": [
+        "Classplash"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Education",
+        "Music"
+    ],
+    "achievements": 33,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "Learn how to play recorder step by step with music tracks specifically composed for music education! 🎶 The notes you play are detected over your computer's microphone, so that you can help Cornelius the dragon protect his tower of strawberries from the greedy bats. 😉 Have fun!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/380100/header.jpg?t=1541514922",
+    "minimum_requirements": "OS: Windows 7 onwards Processor: Single core 1.6Ghz Memory: 2 GB RAM Graphics: Intel HD 4000 DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: You need a recorder (flute) and a microphone to play!",
+    "recommended_requirements": null,
+    "reviews": []
+}

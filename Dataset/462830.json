@@ -1,0 +1,49 @@
+{
+    "app_id": 462830,
+    "name": "Airline Director 2 - Tycoon Game",
+    "release_date": "2016-04-28",
+    "developer": [
+        "Joona Vartiainen"
+    ],
+    "publisher": [
+        "Joona Vartiainen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 12,
+    "positive_ratings": 13,
+    "negative_ratings": 37,
+    "price": 3.99,
+    "description": "Airline Director 2 is a management game set in the challenging field of commercial aviation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462830/header.jpg?t=1461869147",
+    "minimum_requirements": "OS: Windows 7, Windows 8 or Windows 10 Processor: Core i3 or better Graphics: HD3000 or better DirectX: Version 9.0 Storage: 50 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Seeing all the negative reviews, I was hesitant to try this, but I must say: it is not bad at all!  I do not think it is finished though, but since the idea and engine are actually pretty great, only a few minor fixes are needed to make it really enjoyable: - the tutorial is already better, but a few bubbles telling what the different numbers mean, might be of great help (it can be figured out but it takes quite a little trial and error) - Some stats would be really nice: a table listing all routes with the same info I can get when I'm clicking on it, (which I can order by the different columns) would help a lot to find what to focus on. - Might be nice to set the quality aspects separately for the different routes / or at least to be able to start sub-brands with different setups (as in real life: many big airlines also own low-cost alternatives) - and yes, some goals might be great, or at least some correspondence between how much money we make and how much legroom we get in adjustments (i.e. points I can spend in each turn) Anyhow: for the developer: don't give up, just finish the game For other players: don't give up on difficulty to figure it out, it is quite enjoyable once you know what you are doing ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not really an airline mangement. All you do is choose air routes and then try to match a right size plane to it. It looks fun but for an afternoon or at most a couple of days. But not a lasting game. So considering the price, it is ok.",
+            "review_score": "1"
+        }
+    ]
+}

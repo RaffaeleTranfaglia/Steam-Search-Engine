@@ -1,0 +1,38 @@
+{
+    "app_id": 597910,
+    "name": "Quantum Engine",
+    "release_date": "2017-03-02",
+    "developer": [
+        "Wannes Vanoyenbrugge",
+        "Jorn Segers"
+    ],
+    "publisher": [
+        "Quantum Engine"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Includes level editor"
+    ],
+    "genres": [
+        "Design & Illustration",
+        "Education",
+        "Utilities"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Utilities",
+        "Education"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 10.99,
+    "description": "Quantum Engine is an educative engine especially made for everyone who is interested in chemistry. It doesn’t matter if you are a novice or a professional, this engine/learning software will help you improve the understanding of the amazing world of electrons, atoms, molecules, minerals and way more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/597910/header.jpg?t=1488821858",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: SSE2 Instruction set support Memory: 128 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 5 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

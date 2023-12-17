@@ -1,0 +1,62 @@
+{
+    "app_id": 299440,
+    "name": "Rooks Keep",
+    "release_date": "2014-12-05",
+    "developer": [
+        "RuneStorm"
+    ],
+    "publisher": [
+        "RuneStorm"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 27,
+    "positive_ratings": 52,
+    "negative_ratings": 23,
+    "price": 5.59,
+    "description": "Rooks Keep is an arena-based, melee combat game. A variety of game-modes, characters, maps and mutators are available. It also has Chess modes, mod support and decapitation!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/299440/header.jpg?t=1478082869",
+    "minimum_requirements": "OS: Win XP SP3, Win 7 Processor: 2.4GHz Dual core CPU Memory: 2 GB RAM Graphics: 512MB Shader Model 3.0 Nvidia GeForce 8800 GT or AMD Radeon HD 3870 DirectX: Version 9.0c Storage: 3 GB available space Additional Notes: Controller supported",
+    "recommended_requirements": "OS: Win XP SP3, Win 7 Processor: 2.6GHz Quad core CPU Memory: 4 GB RAM Graphics: GB Nvidia GeForce GTX 560 or AMD Radeon HD 5850 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: Controller supported",
+    "reviews": [
+        {
+            "review_text": "Warning: running this or any of RuneStorm's other games can brick your system.  The installation manifest for this game includes an outdated, buggy .NET installer, which on some systems will force a reboot without asking for permission or giving an option to cancel, and afterwards, the system will be put into an infinite loop of automatic rebooting because the installer continually runs (and fails) on startup.  Despite this being a known issue from their previous games, the developer did nothing to address it for any of their titles. Apparently they think it's acceptable to brick users' systems and expect us to put in the time and work required to research and fix it.  To that end, in the hopes of mitigating the loss to others, I will go one better and at least provide a shortcut to anyone in need of a solution: when the installer fails with an error message, open Task Manager (from Ctrl-Alt-Del menu) to terminate the dotnet* process before closing the installer (this prevents the imminent reboot that will otherwise happen), and then download and run the NetFXRepairTool from Microsoft to stop the installer from running again on the next boot.  Note, however, that Steam will still not see a complete installation, and you will need to terminate the dotnet* process again when you try to run the game in order to get past the setup stage.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game has little content, I value the game at about 5 dollars, you won't be playing this game for long but you'll dabble with it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad game. Not worth any money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Wow... first impression: VERY impressive! Loved the battle chess mode (for all, who don't need the '3D animated moves'... you can disable it! Of course it is obligatory for the battle scenes). The fighting mechanics are well done and the system manages to keep up a good balance for attackers/defenders (since you can completely undermine the rules of chess in this game mode).  Unfortunately, I believe, that's all the game is good for... Normal chess can be played on a gazillion free platforms and the rest is rather a cheap version of Chivalry to me. Those who enjoy multiplayer meelee games, should give it a try. You get the game for under a Buck on  {LINK REMOVED}  ♥♥♥.com  (sorry steam!)  Anywho... My recommendations for this game. BB!",
+            "review_score": "1"
+        }
+    ]
+}

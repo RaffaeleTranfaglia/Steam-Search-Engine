@@ -1,0 +1,41 @@
+{
+    "app_id": 857370,
+    "name": "The Entity",
+    "release_date": "2018-07-02",
+    "developer": [
+        "Ragdoll Inc"
+    ],
+    "publisher": [
+        "Ragdoll Inc"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 21,
+    "positive_ratings": 13,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "You're Jack, a man that recently moved into his deceased grandmothers house. He wakes up at 3am to hear strange noises around the house, he remembers hearing them when he was younger. His grandmother always told him it was just the pipes, he's not too sure anymore.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/857370/header.jpg?t=1556162907",
+    "minimum_requirements": "OS: Windows 7 or higher (64-bit OS required) Processor: Quad-Core Processor Memory: 4 GB RAM DirectX: Version 11 Storage: 2 GB available space Additional Notes: This game cannot be run on low end PCs",
+    "recommended_requirements": "OS: Windows 7 or higher (64-bit OS required) Processor: Intel i5-4460/AMD FX 8350 Memory: 8 GB RAM DirectX: Version 11 Storage: 2 GB available space Additional Notes: This game cannot be run on low end PCs",
+    "reviews": []
+}

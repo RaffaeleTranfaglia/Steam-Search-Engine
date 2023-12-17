@@ -1,0 +1,41 @@
+{
+    "app_id": 230290,
+    "name": "Universe Sandbox ²",
+    "release_date": "2015-08-24",
+    "developer": [
+        "Giant Army"
+    ],
+    "publisher": [
+        "Giant Army"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Space",
+        "Sandbox"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5918,
+    "negative_ratings": 377,
+    "price": 19.49,
+    "description": "Create &amp; destroy on an unimaginable scale... with a space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet. Includes VR support for HTC Vive, Oculus Rift+Touch, and Windows Mixed Reality.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/230290/header.jpg?t=1543615917",
+    "minimum_requirements": "OS: Windows 7 SP1+ (64-bit*) Processor: 1.6GHz dual-core Memory: 1 GB RAM Graphics: 512 MB Video Memory, Shader Model 4.0 DirectX: Version 11 Storage: 2 GB available space Additional Notes: * A 64-bit version of Windows is required for Universe Sandbox updates after November 2018. Users on 32-bit systems can still run previous versions. <a href=\"https://steamcommunity.com/linkfilter/?url=http://universesandbox.com/blog/2018/08/dx9-32-bit-support/\" target=\"_blank\" rel=\"noopener\"  >Learn more",
+    "recommended_requirements": "Processor: 2.6GHz quad-core Memory: 4 GB RAM Graphics: 1 GB Video Memory DirectX: Version 11 Additional Notes: For VR, see recommendations from your headset manufacturer",
+    "reviews": []
+}

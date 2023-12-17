@@ -1,0 +1,40 @@
+{
+    "app_id": 691220,
+    "name": "Parkour",
+    "release_date": "2017-09-02",
+    "developer": [
+        "Mubeat Studio"
+    ],
+    "publisher": [
+        "Mubeat Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Parkour is a runner game with tons of challenges. Try to run as far as possible.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/691220/header.jpg?t=1504363079",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: 2GHz+ Memory: 128 MB RAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: 2GHz+ Memory: 2 GB RAM DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 584800,
+    "name": "Civil War: Battle of Petersburg",
+    "release_date": "2017-02-08",
+    "developer": [
+        "Cult Software"
+    ],
+    "publisher": [
+        "Cult Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Wargame",
+        "America"
+    ],
+    "achievements": 2,
+    "positive_ratings": 45,
+    "negative_ratings": 17,
+    "price": 0.79,
+    "description": "Crush the Confederates near Petersburg and Richmond in 1864. Bring peace to a nation divided.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/584800/header.jpg?t=1514647892",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: 1GHz Intel or AMD equivalent Memory: 1 GB RAM Graphics: 128 MB of video memory DirectX: Version 9.0c Storage: 187 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 895140,
+    "name": "JJBoom",
+    "release_date": "2018-09-12",
+    "developer": [
+        "Meggic"
+    ],
+    "publisher": [
+        "Meggic"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 150,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "A party game that makes you laugh out loud, in the local or online games, raise everything up, throw them out, use your wisdom to blow your enemies up!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/895140/header.jpg?t=1546166167",
+    "minimum_requirements": "OS: win7, 8, 10 Processor: 2.0GHZ Memory: 4 GB RAM Graphics: Pixel Shader 2.0 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 400 MB available space Additional Notes:",
+    "recommended_requirements": null,
+    "reviews": []
+}

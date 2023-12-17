@@ -1,0 +1,420 @@
+{
+    "app_id": 108200,
+    "name": "Ticket to Ride",
+    "release_date": "2012-05-24",
+    "developer": [
+        "Days of Wonder"
+    ],
+    "publisher": [
+        "Days of Wonder",
+        "Asmodee Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "achievements": 83,
+    "positive_ratings": 1476,
+    "negative_ratings": 283,
+    "price": 6.99,
+    "description": "The official adaptation of Days of Wonder's best-selling train board game, Ticket to Ride takes less than one minute to learn but a lifetime to master.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/108200/header.jpg?t=1545399044",
+    "minimum_requirements": "OS: Windows Vista, Windows 7 Processor: Dual Core 1.6 GHz or better Memory: 1GB (XP), 2GB (Vista), 2GB (Windows 7) Hard Disk Space: 140 MB Free Space Video Card: OpenGL 1.4 or higher Sound: Windows supported Sound Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The last update is a disaster. Instead of normal online game you now get something with 'notifications' that spam your inbox (sound effects notifying your turn were obviously found not useful and are now used when you end your turn), graphics wants to bite your eyes out and whoever did the design forgot to play the game at least once to see how it works (adding new ticket always showed you where the towns you need are, now you can't see it because there's random stuff flashlighted on the map)  Don't fix something that ain't broken?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This was a good game. However, they have updated it a couple of times and each time the game got worse. The game itself is good, though it would be nice if you could change the diffulculty settings (it's fairly easy). The artstyle was better in previous versions, but the worst part is that the settings don't work anymore (for example the fast speed button is broken). And worst of all is the increasing amount of banners, pop-ups and other commercial in-game activity that cannot be shut down. Verdict: good game, but increasingly annoying interface. Buy on sale for low price.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ticket To Ride has been my favourite board game for about ten years now, and this addaptation is totally worth getting!  For those unfamiliar with the board game; the game has a perfect mix of luck and strategy, making each game challenging yet fun. Your goal is to finish destination tickets (e.g. New York to Los Angeles) by claiming routes on the board that eventually let you have a path going from one city to the other city on your ticket. To claim routes you need to collect train cards in the colours needed, picking your choice from the face up cards or the face down deck if no colours are available you could use. It's pretty straight forward and you get the hang of it very fast.  Then each map (in this case DLC) has it's own extra rules to add a little challenge and to make no two boards play the same way, making them also worth getting!  This game addaptation has its flaws, yes. The online games can be hit or miss, though most of the time I have no problems at all playing against others, and the devs are constantly working on fixing issues. The single player games against the bots can get boring and repetitive, as each bot has their own way of playing the game and you get accustomed to it very fast. The bots are definitely good for new players though, not too tough but still challenging. And I still have fun playing against them to see how high of a score I can get or just to mess with them.  And for those who want just a little extra challenge, the achievements can be quite tricky to get. 100% hunters should be aware that one achievement will take forever to get (play 20,000 games) and that each DLC adds their own achievements. (base game has 25 achievements, each DLC adds an extra 5, Europe+1912 adds 10)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Was a good game until recent 'update'. Now it is much slower and more cumbersome with useless graphics and sound. Want the old version back. This is poorly done.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Didn't like the new version.  The animation finishing a run was annoying.  The ability to bypass the score counting is gone now. Wastes too much time.  I won't be playing much now.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of the better board games for the whole family!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In principle I can recommend this game to everybody who enjoys the original board game, as it is a very good digital realization of a very good analog original. Enough has been said about the game mechanics etc. in other posts, and just as most I do enjoy a nice round of planing, scheming and backstabbing against/with other real players.  But there's another aspect which forced me to give a negative rating: Under Ubuntu 14.04 (as well as all other Linuxes according to the TTR steam forum), the DLCs do not work any more after the last update, meaning I cannot play on the additional maps I paid for! The publisher is aware of the problem, yet a solution is not in sight.  As soon as this problem is resolved, I will change my review as the game itself is fine. But as nothing has changed over the last two months, I can't help do feel deceived so far.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ticket to Ride is a great game, and worked fine for a long time.  Unfortunately a recent update (November 2015) has made everything so much worse, and it's honestly one of the worse updates to a game I've ever seen with tons of bugs. Now there are graphical glitches, buttons don't work, there's multiplayer connectivity problems, the AI is worse, unnecessary route completion animations are present, the end-game score count is slow, and so on. Until these are fixed I cannot recommend the game in its current state.  There was nothing to warrant this update, so I don't understand why the producers would trash a game that was working extremely well. Seems like a waste of time and effort. Don't fix that which isn't broken!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was better before the update. If there were setting to toggle some of the new 'features' it wouldn't be too bad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was fun until the latest update...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A great adaptation of the wonderful board game. I bought copies for my entire family - they live out-of-town, so this is a great way to spend time with all of them. Some of them have the Android version, and it works fine with them also.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very good digital adaptation of the real board game. Great way to practice for when you want to demolish your friends in real life, and for learning the rules.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A decently fun and quick, if highly random, game. There is one strategy tip that, once you learn it, kind of ruins the game, but it's a pretty fun family game if you don't know about that strategy. Overall, it's an OK time waster against some bots or whatever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have the actual board game and I can honestly say that, if you've figured out the menus, it plays exactly like the physical game. It's cross platform structure makes it so that you always have someone to play with online, if you buy it on sale it's ridiculously cheap and the music is great! I rate it 7/10, menus should be better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like the game board, you will most probably like this and play it over and over again. Nicely done board game adaptation with beautiful boards. You can choose the map you want to play (but you have to buy every map separately) and the number of players. You can play online with others (ranked, not ranked, private, publi, etc.)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game randomly gives Java errors or won't start a map because reasons...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This was an excellent game! I played the board game version for years before I played this game and it's a really fun way to play on the go!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing fun game with friends. Would definately recommend, and would say that you'll get hours of fun out of it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game but it has stopped opening in Steam. No fix works....",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is a lot of fun to play with friends or people on the internet!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best India game on STEAM.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Having wanted to play the physical game, I jumped at the chance to grab this. It's great. Single player. Online. Expansions. Love it. I've now bought the tabletop version. Addictive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Broken on Mac with latest release. Another great Days Of Wonder release.  Exception Type: EXC_BREAKPOINT (SIGTRAP) Exception Codes: 0x0000000000000002, 0x0000000000000000  Application Specific Information: dyld: launch, loading dependent libraries  Dyld Error Message:  Symbol not found: _kSecAttrAccessible ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not much to say, it's the board game but then on your computer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Clearly people giving good reviews are fans of the board game cause I can understand what this game might be fun as a board game with a few friends but as a pc game it blows! The sound effects and music drive me insane, the tutorial goes on forever, the AI opponent seems to be set on 'Pwn Noobs' mode and doesn't interact with your strategies, and the gameplay is just repetative.  Mediocre experience at best,.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good PC adaptation of one of board games classics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I prefered the interface of the old one.  This version is lots of eyecandy that you cannot disable. So everything takes forever to do.  I wish you could disable the animations, they are really irritating.  It is a good buy for 5$ or less, no more... 10$ for the complete version. It's a really annoying way to play Ticket to Ride.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS IS SOO FLIPEN FUN! JUST PLAY IT OR YOU WILL SUFFER!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great implementation of the board game! Very nice and user friendly. Wish it had all the newer maps (only has the classic ones with their variants (US, Europe, Switzerland, and Asia)).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Stupid game, doesn't follow it's own game logic. Hard to play the game that way!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Would not work with Win 8 and my ATH Radeon HD 4600. Tries all the steps in the help guide without success.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "look i just came to build some trains but everybody is some kind of ♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I very highly suggest you stay away from this title. Discovered game-breaking bugs - the worst of which literally made the game unplayable. Just buy the table-top version.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Wonderful game. Love the ability to play online with cross-platform (Android, iOS) opponents. Fun game that is not too stressful either, The expansion packs add nice twists and extend the game with different rules, more locations, etc.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very addictive little boardgame, one of those that you reinstall now and then when you fancy something simple but fun, like monopoly or solitare. I feel they are kinda milking it with all the downloadable maps though, but it's not as if you *have* to buy them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great board game and transfers well digitally.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "trains with friends, great fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game of strategy. 10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A faithful recreation of the board game, and also on tablet too. Great fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Everybody likes trains, and when I beat the computer nobody feels bad, mostly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As good as the actual board game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am totally addicted to this game, I just can't stop after one game! I used to play against the computer but lately I'm using the online option to play against other players. Sometimes I win, sometimes I lose, the purpose is to have fun while building routes between cities and trying as many maps as possible, They are all nice and unique. What I dislike is that there are players who are blocking others and don't know how to play for fun; all they're interested is to win no matter what and ruin the mood of others ... a block or report option for such cases would be nice ;) It's a bit expensive with all the extensions but it was on sale when I purchased it so I'm not complaining.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Plays well, and I like how it uses the ELO rating system (although I haven't played online yet). Only disappointment is the lack of some expansions/maps from the board game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love board games. I have a large collection but the problem is I don't normally have anyone to play them with me. Love that i can hop on and play against the computer. Online needs some work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple game, play with friends, have fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good port of the board game. Exactly the same as the mobile version. Acheivments dont work for me :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's great, and I never get to go first IRL because Cornwall is not a country.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fairly faithful recreation of the boardgame. Probably more fun to play with friends than random people online or vs AI, though AI helps get you acclimated to the game if you've either never played it before or haven't played it in a while.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A pretty good recreation of the board game if you imagine the ruthlessly and relentlessly cheating AI are your family and that you're too nice to call them out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really cool game. No bugs or anything of the sort up until now.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like it. Interesting, smart and never boring. Great extra maps.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It doesn't *always* have to be about shooting things, blowing stuff up, or bashing people into a pulp. This is a very good conversion of a great board game into a digital format. Solid solo play to practice with, and a ridiculously huge amount of online players means you can always find a game when you want. The slow pace may not be for everyone, but *I* really like it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just a totally great game, enjoy many hours of good fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game! I really enjoy playing on PC and the board game. I wish the visuals were a bit better on PC though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Faithful to the original. Improved my skills when playing with my friends as an added bonus.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like Ticket to Ride the board game, then you won't be disappointed with this computer version because it's exactly like the board game. However, there are two issues that I have with this game. First:  Pros Exactly the same as the board game Single player mode Multiplayer mode Fun sounds No annoying narrator telling you the same thing over and over DLC giving you access to more boards  Cons Some of the achievements are impossible to obtain Many of the achievements are hinged on buying the DLC  At the time of this review, this game was selling for $9.99. Well worth it in my opinion. If you want all of the boards, you will get a discount if you buy all of the DLC at the same time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant game. The games are fast paced and tactical, you hae to make risks to win but if it all goes wrong it won't be long until the next game. Nice simple concept with great execution of the game itself. If you want to try a fast paced tactical board game then go for it. Not tried online multiplayer but solo and 'pass about' multiplayer are great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Faithful port of a very good boardgame. Nice for online play, or just for the Zen of solitaire.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TchoooTchoooo",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun and relaxing game with just enough strategy to make playing another human a challenge, especially when they actively block routes they perceive you are working towards.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "More board games should be adapted to online play. When you consider the time and frustration involved with actually getting over to a friends' house to play I think we'll see more online board game nights.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "thats not duluth",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a fantastic adaptation of the amazing board game. recommend buying",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cant play the game, been getting error message for days now, tryed everything that they tell you to do and nouthing works, this sucks, buy the game and all the extras that go with it and cant do any of them. I love the game and want to play, please help me if you can",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really interesting and addicting strategy game. A lot of fun duting the playing process, thinking of how to reach the best result is required. Different maps, achievements are available.  I found Ticket To Ride a very entertaining game, it could easily be played in the family.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the best board-game-to-video-game translation I've seen. If you like casual board games, get it. The in-game text chat is nice for chatter and smack talk during the game (although voice chat would have been nice, but you can of course set that up via Steam or Skype or whatever if you want). The different maps keep it interesting. And Ticket to Ride is a proven, fun game that's not so trivial that gamers won't enjoy it but not so hardcore that those new to or very casual about gaming can't get into it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Extremelly fun and addictive, would recomend to all those into board games. The online option sometimes has a few issues but to fix those it only takes a quick game restart.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. There needs to be more games on here like this for all systems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "600 hours in and it's still amazing. Great if you love the board game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Supports cross-platform play between Steam and iPad",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ticket to Ride Is simply a PC version of the famous board game of the same name. It has all of the features you would expect of this kind of game, and the multiplayer is filled with friendly players. Good fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun game, all in all. Nothing much to say really. Based off the board game, rules are pretty simple, and the gameplay itself is fluid and fun. There are...a couple major issues however that may make playing the game a major turn-off for some.  The Good:  +Like I said, gameplay. Simple, board game like, timer to keep you going, etc. If you've played the board game, you'll know what to expect.  +Multiplayer. God, you would wish that this would just be a given, but given the glitches the game has, it's a major plus that it works somewhat properly. So, yea. Nice that it doesn't crash and I can play with my friends. +Music/Speech/Sounds. Nothing to call home about, but they're pretty nice.  The Bad: -Oh god, the interface. So bad. So, so bad. For starters, the conductor will not turn off his initial speech after you've gone through the first menu. It'll repeat, every single time. You can turn that annoying factor off somewhere deep, deep in the settings, but until them, prepare to suffer. -Doesn't always install correctly. So, I got this off of Humble Bundle and am very glad that we had another place to download it from because the Steam version doesn't always install correctly. And, actually, the HB website version required some fixing as well. My friend had to go through some steps before she could get it to work, but, mine worked fine. So, it's a grab bag.  -Confusing set-up. The settings aren't really intuitive. So, making a game, changing something, or doing something isn't really easy and doesn't come with a solid explanation. Shame.  Overall: If you get the game to work, its fun. Nothing really fancy, a very lightweight board game port that passes the time and once you get everything all sorted out is quite fun. If you have the glitches however, good luck.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the computer version of the classic board game Ticket to Ride. Ticket to Ride is known in the board game community as a classic. This version is just as good as the board game, and it has online! I recommend for anyone who enjoys a relaxing board game. Matches can get particularly competitve at times!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you've played TTR the board game then you'll like this. You don't have to clean up after each game since it's digital. I got it when it was on sale and got most of the expansions for $5.00 bucks. Well worth it in my opinion.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun game.   I figured 'eh, i'll try one game.' Surprisingly, it pulled me back in for 2 more.   Surprisingly enjoyable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple concept yet so addicting. Love it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely love this game and awesome implementation of the game on PC.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It made me want to buy a physical copy, so it fulfilled its purpose. Fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really great, and fun. its the board game brought online perfectly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great adaptation of a fun board game to computer, and which comes with the added benefit of being decent fun when you don't have anyone to play it with.  Most of the pluses of course come from the well designed nature of the underlying board game it is based off. Essentially each turn you get to do one of a few different actions - draw a couple of carriage cards which come in various different colours (or an engine that effectively works as a joker) - either face up ones (so both you and your opponents know what you are getting) or from the face down pile. If you have enough carrriages in a single colour you can use them to build a section of track, or you can pull out three extra route cards (each having two cities you have to connect up, and how many extra points it is worth if you do so - also the penalty if you don't connect them by the end of the game) each of which you can keep or not.  From this relatively simple seeming set of options, the strategic options get very deep and complicated if you want to take the time to study what is going on, or the game can just be played as a fun family game, it works either way. Should you try to get more route cards early so you know everywhere you need to connect up from the start, or should you wait until the ones you start with are completed routes and then see if you can get some quick and easy expansions near the end of the game? Should you play your carriages early to avoid being blocked on that section of track, or risk waiting to avoid giving clues to where you are planning to move next? Should you block that opponents obvious route attempt knowing that might decide to retaliate and make one of your route cards difficult or impossible to complete? Should you pick up a couple of same colour face up cards that you don't really at the need all that much to make it look like you are planning to go down a different route than you really need to head?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the game. Although there's a lot of room for improvement. Perhaps other locations, other option, and of course for the Achievements to actually be unlocked D:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the boardgame, and the virtual game is just as fun. I think the AI is a bit too easy, but I might have it set too low. I haven't been able to get a networked game to run, so I can't comment on that. It's worth getting the extra maps, I think. Fun little quick game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While the game itself is quite nice and a faithful adaptation of the board game, the pricing policy for the additional maps is an outrage. For the price of two simple additional maps I could get all of 'The Witcher', for instance. All sense of proportion has been lost here. Go buy Mini Metro instead!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent base game. Europe expansion is great, too, going beyond the base map (US).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game, recomended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great digital adaptation of a great board game, especially now that multiplayer is cross-platform and new maps are being released regularly. Sadly it doesn't include controller support like the (great) Xbox 360 game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very faithful recreation of the Boardgame. I would, however much rather play the boardgame or at least the tablet version with pass and play. It turns out that TTR isn't really all that captivating without other people around.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Like the board game, that is to say fun! You can also play online for a random challange or against that friend who lives far away.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like this classic board game, you won't be disappointed. Works great on Windows (both 7 and 10), has got all the features. The music is nice so are the sound effects, they can be set up via menu. The graphics are minimal and well implemented. It's fun, fun and again fun. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun and replayable. This board game can either be played against AI or against other players. The addition of achievements gives you something else to aim for to try something new in your strategies. The games are always different and I enjoy this game so much i bought the physical copy to play at my house with friends and family.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Despite the hype and negative comments I bought the game as an amusement when I was board and needed something quick and light hearted. is it perfect no, but I find it fun to play and for a few bucks compaired to the boxed version it gives me what I need.   It has been fine on my Windows 10 machine....",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 743330,
+    "name": "Super Hyperactive Ninja",
+    "release_date": "2018-05-22",
+    "developer": [
+        "Grimorio of Games"
+    ],
+    "publisher": [
+        "JanduSoft S.L."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 36,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 5.79,
+    "description": "Super Hyperactive Ninja is a fast-paced hyper-caffeinated action-platformer in 2D, designed for those who want a real tough challenge. Recover the stolen coffee before you fall asleep! Use the power of caffeine to make your way!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/743330/header.jpg?t=1530091132",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: 2.50 GHz Memory: 2 GB RAM Graphics: 128 MB DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/8.1/10 Processor: 3.00 GHz Memory: 4 GB RAM Graphics: 1 GB DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: A cup of coffee",
+    "reviews": []
+}

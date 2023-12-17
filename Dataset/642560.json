@@ -1,0 +1,40 @@
+{
+    "app_id": 642560,
+    "name": "Art Of Gravity",
+    "release_date": "2017-06-13",
+    "developer": [
+        "Michal Pawlowski"
+    ],
+    "publisher": [
+        "Hamster On Coke Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 9,
+    "positive_ratings": 349,
+    "negative_ratings": 26,
+    "price": 0.79,
+    "description": "Art Of Gravity is a voxel/physics based puzzle game, revolving around the theme of destroying abstract figures, which results in mesmerizing displays of dance of gravity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/642560/header.jpg?t=1539392987",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 Memory: 1 GB RAM Graphics: Intel HD4000 DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: Game does a lot of physics calculations, quality CPU needed.",
+    "recommended_requirements": "OS: Windows 7 Processor: i5 Memory: 2 GB RAM Graphics: GF 1070 DirectX: Version 10 Storage: 200 MB available space Additional Notes: Game does a lot of physics calculations, quality CPU needed.",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 817130,
+    "name": "WWE 2K19",
+    "release_date": "2018-10-08",
+    "developer": [
+        "Visual Concepts",
+        "Yuke's Co., LTD"
+    ],
+    "publisher": [
+        "2K"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Simulation",
+        "Wrestling"
+    ],
+    "achievements": 47,
+    "positive_ratings": 648,
+    "negative_ratings": 446,
+    "price": 39.99,
+    "description": "WWE 2K19 returns as the flagship WWE video game, with cover Superstar AJ Styles! Experience tons of creation options, match types and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/817130/header.jpg?t=1548180243",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 64-bit: Windows® 7 (latest updates) Processor: Intel Core i5-3550 / AMD FX 8150 Memory: 4 GB RAM Graphics: GeForce GTX 670 / Radeon HD 7850 DirectX: Version 11 Storage: 50 GB available space Sound Card: DirectX 9.0c compatible sound card Additional Notes: At least 2 GB DDR Video Memory",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: 64-bit: Windows® 7, Windows® 8 (8.1) or Windows® 10 (latest updates) Processor: Intel Core i7 3770 / AMD FX-8350 Memory: 8 GB RAM Graphics: Nvidia GPU GeForce GTX 970 / AMD GPU Radeon R9 290X DirectX: Version 11 Storage: 50 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "reviews": []
+}

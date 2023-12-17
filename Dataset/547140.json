@@ -1,0 +1,42 @@
+{
+    "app_id": 547140,
+    "name": "Owari",
+    "release_date": "2017-06-16",
+    "developer": [
+        "Brian Franco"
+    ],
+    "publisher": [
+        "Brian Franco"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Minimalist",
+        "Board Game"
+    ],
+    "achievements": 5,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Owari is a variant of Mancala where players strategically attempt to capture stones from their opponent's row.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547140/header.jpg?t=1497638629",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Pentium 4 or later (w/ SSE2) Memory: 1 GB RAM Graphics: Integrated Storage: 136 MB available space Additional Notes: 64 bit required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

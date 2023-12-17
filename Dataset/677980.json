@@ -1,0 +1,38 @@
+{
+    "app_id": 677980,
+    "name": "Z69",
+    "release_date": "2017-08-11",
+    "developer": [
+        "Anatoliy Loginovskikh"
+    ],
+    "publisher": [
+        "Anatoliy Loginovskikh"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 11,
+    "positive_ratings": 68,
+    "negative_ratings": 34,
+    "price": 1.59,
+    "description": "Z69 is a minimalistic platformer game in the best traditions of such games as Super Meat Boy, VVVVVV, and Super Mario Bros.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/677980/header.jpg?t=1531142891",
+    "minimum_requirements": "OS: Windows XP SP3+ or higher Processor: 1 GHz Memory: 1 GB RAM Graphics: OpenGL 2.1 or higher DirectX: Version 9.0 Storage: 250 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 644110,
+    "name": "Lone Pirate VR",
+    "release_date": "2017-05-26",
+    "developer": [
+        "b08"
+    ],
+    "publisher": [
+        "b08"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Pirates"
+    ],
+    "achievements": 7,
+    "positive_ratings": 7,
+    "negative_ratings": 6,
+    "price": 6.19,
+    "description": "It's not easy being a pirate... especially without a crew. Well atleast all of the booty will be yours. Sail the sea, sink some ships, plunder some gold and get the highest score you can!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/644110/header.jpg?t=1517270314",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

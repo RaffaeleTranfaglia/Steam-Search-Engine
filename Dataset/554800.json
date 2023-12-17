@@ -1,0 +1,50 @@
+{
+    "app_id": 554800,
+    "name": "Masky",
+    "release_date": "2016-12-16",
+    "developer": [
+        "Digital Melody"
+    ],
+    "publisher": [
+        "Forever Entertainment S. A."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 70,
+    "negative_ratings": 20,
+    "price": 0.79,
+    "description": "Dance to the mystic sounds and invite as many dancers as you can.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/554800/header.jpg?t=1481918434",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual core from Intel or AMD at 2.0 GHz Memory: 2 GB RAM Graphics: nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,35 @@
+{
+    "app_id": 704300,
+    "name": "Bartender VR Simulator",
+    "release_date": "2018-02-09",
+    "developer": [
+        "VR Factory"
+    ],
+    "publisher": [
+        "VR Factory"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Stats"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 31,
+    "negative_ratings": 9,
+    "price": 14.99,
+    "description": "Developed in cooperation with a six-time Bartending World Champion, Tomek Malek, Bartender VR Simulator offers you a unique combination of a simulator, bartending course and incredible immersive VR game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704300/header.jpg?t=1525273285",
+    "minimum_requirements": "OS: Windows 7 Processor: CPU: Intel i5-4590 equivalent or better Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970 Storage: 2000 MB available space Sound Card: N/A Additional Notes: VR ONLY!",
+    "recommended_requirements": "OS: Windows 10 Processor: CPU: Intel i7 equivalent or better Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1080 Storage: 2000 MB available space Sound Card: N/A Additional Notes: VR ONLY!",
+    "reviews": []
+}

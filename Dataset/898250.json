@@ -1,0 +1,37 @@
+{
+    "app_id": 898250,
+    "name": "PackageRun",
+    "release_date": "2018-08-03",
+    "developer": [
+        "Pavel Black"
+    ],
+    "publisher": [
+        "Pavel Black"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "A challenging platformer that looks easy to play on the surface. You play as a computer screen defeating enemies, going through hard to navigate levels, defeating bosses and collecting upgrades to get stronger and play better.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/898250/header.jpg?t=1533322796",
+    "minimum_requirements": "OS: Windows 7, 8.1, 10 Processor: Dual core processor or better Memory: 4 GB RAM Graphics: Intel HD Graphics 405 or better Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 875790,
+    "name": "The Movie Trivia Challenge",
+    "release_date": "2018-06-23",
+    "developer": [
+        "LoadUpGames.com"
+    ],
+    "publisher": [
+        "LoadUpGames.com"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "How well do you know your movie trivia? Challenge yourself or have a movie trivia night with friends and family in Party Mode! Choose from the most popular movie categories including Action, Comedy, Romance, Sci-Fi, Horror, Foreign, General, and more. Movie Trivia has never been so much fun!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/875790/header.jpg?t=1529773360",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: Dual Core 1.6 GHz or better Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

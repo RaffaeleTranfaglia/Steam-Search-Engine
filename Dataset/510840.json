@@ -1,0 +1,45 @@
+{
+    "app_id": 510840,
+    "name": "Evolvation",
+    "release_date": "2017-02-06",
+    "developer": [
+        "HyperReuts"
+    ],
+    "publisher": [
+        "HyperReuts"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation"
+    ],
+    "tags": [
+        "Massively Multiplayer",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 133,
+    "positive_ratings": 558,
+    "negative_ratings": 213,
+    "price": 6.99,
+    "description": "Evolvation is a multiplayer fast-paced and class based space flying shooter developed by a two-man-army from Amsterdam. It is still under development but already good to play. Classes are: Highspeed, Fighter, Stealth, Support and Tank. Each class has its own special ability which provides a dynamic gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510840/header.jpg?t=1540323736",
+    "minimum_requirements": "OS: 64-Bit or 32-Bit Windows 7 Processor: Intel Core i5-2400 | AMD FX-6100, or better Memory: 4 GB RAM Graphics: DirectX10 Compatible GPU, NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 10 Network: Broadband Internet connection Storage: 7 GB available space Additional Notes: It is possible to run the game on lower specs than what is noted as minimum, but we do not recommend it. These minimum specs are of really low graphics quality but it does not affect the gameplay, only the graphics.",
+    "recommended_requirements": "OS: 64-Bit Windows 10 Processor: Intel Core i7-3770 | AMD FX-8350, or better Memory: 4 GB RAM Graphics: DirectX11 Compatible GPU with 2 GB Video RAM, NVIDIA GeForce GTX 560 with 2 GB Video RAM (current equivalent NVIDIA GeForce GTX 760) | AMD Radeon HD 7770 with 2 GB Video RAM, or better DirectX: Version 11 Network: Broadband Internet connection Storage: 7 GB available space",
+    "reviews": []
+}

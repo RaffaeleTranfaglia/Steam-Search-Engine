@@ -1,0 +1,36 @@
+{
+    "app_id": 818800,
+    "name": "Merrily Perilly",
+    "release_date": "2018-09-27",
+    "developer": [
+        "Squiddershins"
+    ],
+    "publisher": [
+        "Squiddershins"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure"
+    ],
+    "achievements": 8,
+    "positive_ratings": 12,
+    "negative_ratings": 2,
+    "price": 2.89,
+    "description": "Merrily Perilly is a game about crisis.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818800/header.jpg?t=1552766415",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0GHz dualcore Memory: 3 GB RAM Graphics: DirectX 10 Compatible Video Card Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

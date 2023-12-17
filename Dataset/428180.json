@@ -1,0 +1,43 @@
+{
+    "app_id": 428180,
+    "name": "Islet Online",
+    "release_date": "2019-02-11",
+    "developer": [
+        "Morenori Soft"
+    ],
+    "publisher": [
+        "Morenori Soft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "MMO",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "tags": [
+        "Massively Multiplayer",
+        "Indie",
+        "Sandbox"
+    ],
+    "achievements": 10,
+    "positive_ratings": 296,
+    "negative_ratings": 85,
+    "price": 13.49,
+    "description": "Islet Online is a sandbox-style MMORPG. It is all about digging and placing bricks to build your own land. And with various materials from wildlife, bricks can be combined to make useful items, too. Whenever you act, your character gets experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428180/header.jpg?t=1549956618",
+    "minimum_requirements": "OS: Windows XP or later Processor: Core 2 Duo Memory: 2 GB RAM Graphics: Shader Model 3.0 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Core i5 Memory: 4 GB RAM Graphics: Shader Model 3.0 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 10 GB available space",
+    "reviews": []
+}

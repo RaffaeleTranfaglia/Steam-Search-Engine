@@ -1,0 +1,41 @@
+{
+    "app_id": 1046430,
+    "name": "Unreal Maze Survival",
+    "release_date": "2019-03-31",
+    "developer": [
+        "UnrealDevelopment"
+    ],
+    "publisher": [
+        "UnrealDevelopment"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Gore"
+    ],
+    "achievements": 10,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Survive for a given time in 10 different pre built mazes each with its own unique theme, size, and difficulty.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/header.jpg?t=1554139577",
+    "minimum_requirements": "OS: Windows 7 Memory: 1 GB RAM Graphics: Should work on any Graphic Processor due to graphic settings unless your Graphic Processor is very outdated. Storage: 3500 MB available space",
+    "recommended_requirements": "OS: Windows10 Processor: i7 Storage: 3500 MB available space",
+    "reviews": []
+}

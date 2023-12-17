@@ -1,0 +1,43 @@
+{
+    "app_id": 1018720,
+    "name": "X-POINT",
+    "release_date": "2019-02-26",
+    "developer": [
+        "Andrey Scanarri (Scanarri)"
+    ],
+    "publisher": [
+        "Andrey Scanarri (Scanarri)"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 2,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 7.42,
+    "description": "A project made by one person, called X-POINT, is a synthesis of two main genres: strategy and action, which are very interestingly intertwined in an alternative dynamic huge world, and the world itself embraces both the present and goes into the future.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1018720/header.jpg?t=1555359083",
+    "minimum_requirements": "OS: Windows 7\\8\\10 x64 Processor: AMD A8 \\ Intel Core i5 Memory: 8 GB RAM Graphics: Geforce GTX 1050Ti \\ Radeon RX 560 DirectX: Version 11 Storage: 5 GB available space Sound Card: All types",
+    "recommended_requirements": "OS: Windows 7\\8\\10 x64 Processor: AMD Ryzen 7 \\ Intel Core i7 Memory: 32 GB RAM Graphics: GeForce RTX2080  \\ Radeon RX Vega DirectX: Version 12 Storage: 5 GB available space Sound Card: All types",
+    "reviews": []
+}

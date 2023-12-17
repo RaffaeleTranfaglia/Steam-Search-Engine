@@ -1,0 +1,37 @@
+{
+    "app_id": 652030,
+    "name": "Tessa's Ark",
+    "release_date": "2019-02-26",
+    "developer": [
+        "Andrew Higgins"
+    ],
+    "publisher": [
+        "Andrew Higgins"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 9,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "A Sci-fi RPG set in a world where humans have shed the limitations of the corporeal body to inhabit existence as beings of pure thought. Solve puzzles to unlock the secrets of the digital reality.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652030/header.jpg?t=1552061531",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 1.06 Ghz Memory: 1 GB RAM Graphics: Integrated Graphics DirectX: Version 9.0c Storage: 200 MB available space Sound Card: Direct x 9 Compatible",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel i3 1.6 Ghz Memory: 1 GB RAM Graphics: Nvidia Geforce 840 DirectX: Version 11 Storage: 500 MB available space Sound Card: Direct x 11 Compatible",
+    "reviews": []
+}

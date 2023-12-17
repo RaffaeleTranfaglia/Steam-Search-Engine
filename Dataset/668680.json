@@ -1,0 +1,42 @@
+{
+    "app_id": 668680,
+    "name": "鬼畜大冒险 Gui Chu Da Mao Xian",
+    "release_date": "2018-09-21",
+    "developer": [
+        "七彩绘色"
+    ],
+    "publisher": [
+        "七彩绘色"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "RPG"
+    ],
+    "achievements": 24,
+    "positive_ratings": 32,
+    "negative_ratings": 24,
+    "price": 0.79,
+    "description": "a text-based visual novel with some RPG elements. As the story progresses, you will collaborate with and fight against Gui Chu stars. Remember, collaborating and fighting is just a means to survive, not an answer to the secrets in this world. Your mission is to figure out the truth of this world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/668680/header.jpg?t=1538149895",
+    "minimum_requirements": "OS: Windows XP Processor: 1Ghz Memory: 1 GB RAM Graphics: DirectX or OpenGL compatible card Storage: 1000 MB available space",
+    "recommended_requirements": "OS: Windows XP SP3/Vista/7/8/10 Processor: Core 2 Duo 2.4 GHz或Althon X2 2.7 GHz Memory: 2 GB RAM Graphics: DirectX or OpenGL compatible card Storage: 1000 MB available space",
+    "reviews": []
+}

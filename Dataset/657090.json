@@ -1,0 +1,47 @@
+{
+    "app_id": 657090,
+    "name": "Robothorium: Sci-fi Dungeon Crawler",
+    "release_date": "2019-01-31",
+    "developer": [
+        "Goblinz Studio"
+    ],
+    "publisher": [
+        "Goblinz Studio",
+        "Whisper Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 16,
+    "positive_ratings": 158,
+    "negative_ratings": 43,
+    "price": 10.99,
+    "description": "Robothorium is a cyberpunk dungeon crawler with turn-based fights, where all your choices will have a direct impact on your revolution against Humankind. Deep Strategy, Crafting, Party Based management, Talents and so much more in this roguelike!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/657090/header.jpg?t=1554804595",
+    "minimum_requirements": "OS: Windows Vista Processor: 1,3 GHz CPU Memory: 2 GB RAM Graphics: NVIDIA GT 440 or AMD Radeon HD 5550 w/ 512 MB Storage: 1250 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® 7 Processor: Dual-core 2Ghz CPU Memory: 2 GB RAM Graphics: DirectX® 10 compliant graphics card Storage: 2 GB available space",
+    "reviews": []
+}

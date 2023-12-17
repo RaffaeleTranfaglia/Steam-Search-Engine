@@ -1,0 +1,45 @@
+{
+    "app_id": 676700,
+    "name": "Heroes of Delum",
+    "release_date": "2018-01-19",
+    "developer": [
+        "Delum Studios"
+    ],
+    "publisher": [
+        "Delum Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 24,
+    "negative_ratings": 5,
+    "price": 5.99,
+    "description": "Heroes of Delum is a real-time strategy survival game. Fight against hordes of monsters on a randomly generated world, alone or up to 5 in multiplayer co-op! Collect resources, build defensive mazes, use weapons and magical abilities in a face off with the dark forces of Delum!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676700/header.jpg?t=1543358399",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Dual Core at 2.8 GHz Memory: 2 GB RAM Graphics: Intel HD 3000 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

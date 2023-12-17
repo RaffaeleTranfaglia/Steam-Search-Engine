@@ -1,0 +1,39 @@
+{
+    "app_id": 827940,
+    "name": "Marvellous Inc.",
+    "release_date": "2018-04-27",
+    "developer": [
+        "Marvellous Soft"
+    ],
+    "publisher": [
+        "Marvellous Soft"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Programming"
+    ],
+    "achievements": 18,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Marvellous Inc. is a programming puzzle game, where you program robots to solve tasks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/827940/header.jpg?t=1542930578",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 2ghz Single Core CPU or better Memory: 1 GB RAM Storage: 100 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

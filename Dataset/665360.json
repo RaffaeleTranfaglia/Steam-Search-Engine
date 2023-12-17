@@ -1,0 +1,43 @@
+{
+    "app_id": 665360,
+    "name": "Comedy Night",
+    "release_date": "2017-08-24",
+    "developer": [
+        "Lighthouse Games Studio"
+    ],
+    "publisher": [
+        "Lighthouse Games Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Multiplayer",
+        "Casual",
+        "Comedy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4195,
+    "negative_ratings": 1280,
+    "price": 3.99,
+    "description": "Do you have the talent to face off against other comedians in a live comedy show contest. See how your material holds up in the face of brutal audience members who can vote you off or the relentless smack talk from other performers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665360/header.jpg?t=1523983059",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel or AMD 2.2 Ghz (dual-core) Memory: 4 GB RAM Graphics: GeForce GTX 460 or Radeon HD 7690M XT DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX®-compatible Additional Notes: A microphone is required to perform",
+    "recommended_requirements": null,
+    "reviews": []
+}

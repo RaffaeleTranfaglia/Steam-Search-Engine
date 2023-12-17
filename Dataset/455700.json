@@ -1,0 +1,43 @@
+{
+    "app_id": 455700,
+    "name": "Big Buck Hunter Arcade",
+    "release_date": "2016-10-25",
+    "developer": [
+        "GameMill Entertainment"
+    ],
+    "publisher": [
+        "GameMill Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 48,
+    "positive_ratings": 19,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "Big Buck Hunter will bring the arcade experience to your living room with this fast paced, addictive arcade shooter! The all new control and aim mechanics will make this a must pick up and play arcade shooter experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/455700/header.jpg?t=1477450226",
+    "minimum_requirements": "OS: Window 7 Processor: Intel Core i3-6100 Processor 3.7GHz Memory: 4 GB RAM Graphics: Intel HD 530 Graphics DirectX: Version 10 Storage: 7 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7-2600 CPU Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 DirectX: Version 11 Storage: 8 GB available space",
+    "reviews": []
+}

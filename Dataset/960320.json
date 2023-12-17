@@ -1,0 +1,38 @@
+{
+    "app_id": 960320,
+    "name": "Ego Hearts",
+    "release_date": "2019-02-01",
+    "developer": [
+        "Ironic Title Studio"
+    ],
+    "publisher": [
+        "Ironic Title Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Surreal"
+    ],
+    "achievements": 9,
+    "positive_ratings": 33,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Ego Hearts is a small interactive reflection about death and what do we leave behind it. Take a paper plane and share your warmth to get the February away.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/960320/header.jpg?t=1551118610",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Graphics: 1 Gb VRAM Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

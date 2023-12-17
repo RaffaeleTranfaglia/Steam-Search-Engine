@@ -1,0 +1,37 @@
+{
+    "app_id": 582840,
+    "name": "20something",
+    "release_date": "2017-01-26",
+    "developer": [
+        "Jake Tucker"
+    ],
+    "publisher": [
+        "Jake Tucker"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Text-Based"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 6,
+    "price": 1.99,
+    "description": "20something is an interactive fiction game, a candid and honest look at dating, relationships and navigating life as a man in his twenties for whom interactions can provoke a little extra soul searching.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/582840/header.jpg?t=1485431636",
+    "minimum_requirements": "OS: Windows XP Service Pack 2+ or later Processor: Intel Pentium 4 or later Memory: 512 MB RAM Storage: 200 MB available space Additional Notes: This is a text adventure. It'll run on most machines.",
+    "recommended_requirements": null,
+    "reviews": []
+}

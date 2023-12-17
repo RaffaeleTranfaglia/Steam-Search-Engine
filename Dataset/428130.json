@@ -1,0 +1,39 @@
+{
+    "app_id": 428130,
+    "name": "Walk The Light",
+    "release_date": "2016-01-04",
+    "developer": [
+        "Anti Crunch Studios"
+    ],
+    "publisher": [
+        "Anti Crunch Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 6,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A unique puzzle game where you control a mysterious light source to help Charlie escape the caverns he's been trapped in. Use an assortment of light shapes to tackle each puzzle set before you! Overcome traps and pits to reach the exit of each stage! Available on Mac and Windows.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428130/header.jpg?t=1451955513",
+    "minimum_requirements": "OS: Windows XP SP2 or higher Processor: Intel Core 2 Duo 1.6ghz Memory: 1 GB RAM Graphics: Intel 945GM Express Chipset DirectX: Version 9.0 Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2ghz Memory: 1 GB RAM Graphics: Geforce 8600 DirectX: Version 9.0 Storage: 700 MB available space",
+    "reviews": []
+}

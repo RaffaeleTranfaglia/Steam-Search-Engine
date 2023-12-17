@@ -1,0 +1,49 @@
+{
+    "app_id": 622770,
+    "name": "Hacktag",
+    "release_date": "2018-02-14",
+    "developer": [
+        "Piece of Cake studios"
+    ],
+    "publisher": [
+        "Piece of Cake studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Hacking"
+    ],
+    "achievements": 42,
+    "positive_ratings": 163,
+    "negative_ratings": 59,
+    "price": 15.49,
+    "description": "Hacktag is a fast-paced two-player co-op stealth-game with unique asymmetric gameplay. Play as the stealth Agent in the field or as the virtually-infiltrated Hacker and work together to carry out espionage missions where nothing goes as expected!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/622770/header.jpg?t=1555686207",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows 7/8/10 64-bit Processeur : Quad-core Intel or AMD, 2.0 GHz or faster Mémoire vive : 6 GB de mémoire Graphiques : NVIDIA GeForce GTX 560TI or AMD Radeon HD7850 DirectX : Version 9.0c Réseau : Connexion internet haut débit Espace disque : 3 GB d'espace disque disponible",
+    "recommended_requirements": "Recommandée : Système d'exploitation : Windows 10 64-bit Processeur : Quad-core Intel or AMD, 2.0 GHz or faster Mémoire vive : 8 GB de mémoire Graphiques : NVIDIA GeForce GTX 770 DirectX : Version 11 Réseau : Connexion internet haut débit Espace disque : 3 GB d'espace disque disponible",
+    "reviews": []
+}

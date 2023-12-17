@@ -1,0 +1,41 @@
+{
+    "app_id": 670240,
+    "name": "Snappy Turtle Ultimate",
+    "release_date": "2018-01-21",
+    "developer": [
+        "BitBeamCannon.com"
+    ],
+    "publisher": [
+        "BrashMonkey.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 38,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Snappy Turtle must swim through dangerous waters, eating as many fish and dragonflies as he can while avoiding or vanquishing dangerous obstacles and preditors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670240/header.jpg?t=1516522166",
+    "minimum_requirements": "OS: Windows XP Processor: 1 ghz Memory: 512 MB RAM Graphics: Intel HD Graphics 4400 DirectX: Version 9.0c Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

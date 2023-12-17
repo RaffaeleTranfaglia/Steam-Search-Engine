@@ -1,0 +1,40 @@
+{
+    "app_id": 432940,
+    "name": "Breakneck",
+    "release_date": "2017-12-07",
+    "developer": [
+        "PikPok"
+    ],
+    "publisher": [
+        "PikPok"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action"
+    ],
+    "achievements": 37,
+    "positive_ratings": 67,
+    "negative_ratings": 10,
+    "price": 7.19,
+    "description": "Master your speeder and defeat your pursuers in high speed action across a world ravaged by an alien occupation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/432940/header.jpg?t=1512695689",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Processor Memory: 2 GB RAM Graphics: DirectX 11 compatible GPU DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

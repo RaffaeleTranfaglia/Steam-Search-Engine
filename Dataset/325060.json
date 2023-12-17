@@ -1,0 +1,80 @@
+{
+    "app_id": 325060,
+    "name": "Parallax",
+    "release_date": "2015-03-10",
+    "developer": [
+        "Toasty Games"
+    ],
+    "publisher": [
+        "Toasty Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "First-Person"
+    ],
+    "achievements": 13,
+    "positive_ratings": 109,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "Parallax is a first-person puzzle game with two overlapping worlds. Weave back and forth between black and white as you try to be in the right place, in the right dimension, at the right time. Use switches, boosters and gravity to help you reach the exit. Can you conquer every mind-bending level?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/325060/header.jpg?t=1498234976",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 1.4 GHz Memory: 512 MB RAM Graphics: Shader Model 2.0 compatible DirectX: Version 9.0c Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Absolutely love this game, very similar to Antichamber in both style and certain in game dynamics. The smooth flowing from one plane of existance to the other makes for immersive puzzles. Trying to get perfect on every level seems attainable and the sound and abience really tie the game togehter.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great puzzle game, a little like Portal but different. Here the 'Portals' are fixed, and like mirrors have a front and a back face - Only side transports you to an 'inverse' dimension and the other side acts as a blocker. Switches and wires link to mechanisms that can spin these faces around to help you reach the exit.   The individual elements of the game are pretty simple and it breaks you in gently with the first few puzzles, but things get quite a bit more complex in the end. Getting your head around what's happening in each dimension at the same time as working out how to use the mechanisms is very rewarding.   The graphics are simple and you can change the two colours involved, but you are still limited to only two colours. This is a good thing in a way, as the game runs very smoothly and does not clutter up your screen with unnecessary details. There's no story or enemies in the game, although it does have a weird inter-dimensional atmosphere and some mood music. Really this is all you need - The puzzles are very good and are allowed to stand as the main feature of the game.   I'd definitely recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazing game! Fanatastic blend of Anti-Chamber and portal that forces you to think outside, around, under, and behind the box.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like first person puzzle games, this will game satisfy you. It has a lot of cool mechanics and interesting levels. Difficulty is not insane, but often challenging. One small downside is that there is a fair amount of repitition. If you do not like puzzles for the sake of puzzles, you will probably not enjoy this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Parallax is a first person puzzle game centered around switching between dimensions. The puzzles are really great and the whole game has a very polished feel to it.  There are 32 levels in total with 8 levels in each of the 4 chapters. Every chapter introduces a new and interesting game mechanic. Playing through the puzzles for the second time is really where this games meat is at, where you try to solve each level in as little moves as possible. Fans of Portal and Antichamber should really enjoy this game.  The developer is also a really great guy. He's quick to respond to any issue you may have and updates occur frequently. (There have already been 6 patches in the week or so this game has been out)  I would definitely recommend this game to anyone who enjoys puzzle games. It's well worth the price of $10 for the amount of gameplay it gives.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A decent game. Set with absolutely no context and the simplest, most efficient graphics that set the bar for what it means to be minimalistic, Parallax exists as a pure puzzle game. That said, the puzzles themselves are very, very cleverly designed, but not very rewarding to solve. They are so tightly built that solving them feels like staring at a tangled knot, figuring out what order to pluck strings, and then doing it. There aren't many choices in these puzzles; progress is measured, rightly so, in switches pushed, and so at any given time, the fork in the road ahead rarely has more than three paths. When you do figure the puzzle out, you don't feel smart -- you feel like the level designer was smart, albeit very, very smart.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I had a great time, but then it stopped working. The stages stopped generating and at one point It dropped me through the level forever. dissapointing cause i had been enjoying it up to that point. play it if you can get it to work",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm stuck on the last puzzle and have zero idea what to do. 10/10 want more levels though",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun little game that is a nice puzzler.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! Works great on Linux, too. Runs well on an Intel integrated card.",
+            "review_score": "1"
+        }
+    ]
+}

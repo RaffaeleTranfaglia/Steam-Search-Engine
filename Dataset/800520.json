@@ -1,0 +1,41 @@
+{
+    "app_id": 800520,
+    "name": "Just a Jumping Square",
+    "release_date": "2018-03-05",
+    "developer": [
+        "Alfa-Omega"
+    ],
+    "publisher": [
+        "Alfa-Omega"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 66,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "Just a Jumping Square is a challenging minimalist platformer game, the goal is simple, collect all the tokens from the level without die.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/800520/header.jpg?t=1520262069",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Intel Core i3 or better Memory: 128 MB RAM Graphics: Intel HD 5500, Gforce 8800gt DirectX: Version 9.0c Storage: 30 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Intel Core i3 or better Memory: 128 MB RAM Graphics: Intel HD 5500, Gforce 8800gt DirectX: Version 11 Storage: 30 MB available space",
+    "reviews": []
+}

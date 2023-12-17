@@ -1,0 +1,39 @@
+{
+    "app_id": 818290,
+    "name": "Tiny Mage",
+    "release_date": "2018-03-20",
+    "developer": [
+        "VDeveloper"
+    ],
+    "publisher": [
+        "VDeveloper"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 42,
+    "positive_ratings": 53,
+    "negative_ratings": 21,
+    "price": 0.79,
+    "description": "Tiny Mage is a casual platformer in which you play as a small magician and must save your land. Can you overcome all the enemies?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818290/header.jpg?t=1521537788",
+    "minimum_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 1.2 Ghz or faster processor Memory: 512 MB RAM Graphics: 200 MB DirectX: Version 9.0 Storage: 180 MB available space Additional Notes: Keyboard and Mouse",
+    "recommended_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 2 Ghz Memory: 1024 MB RAM Graphics: 512 MB DirectX: Version 9.0 Storage: 250 MB available space Additional Notes: Keyboard and Mouse",
+    "reviews": []
+}

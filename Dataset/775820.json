@@ -1,0 +1,35 @@
+{
+    "app_id": 775820,
+    "name": "Controllers Battery Indicator",
+    "release_date": "2019-03-11",
+    "developer": [
+        "CWH Entertainment"
+    ],
+    "publisher": [
+        "CWH Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Utilities",
+        "Controller"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "A simple and handy utility for monitoring the charge of Xbox controllers. In time will warn about the discharge of the battery. Doesn’t interfere with the gameplay. Doesn’t CPU load. Track battery capacity and predict long-term resource.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/775820/header.jpg?t=1555313965",
+    "minimum_requirements": "OS: Windows 7 Storage: 5 MB available space Additional Notes: Also required is an XInput compatible controller. If you have a wireless Xbox 360 controller you'll also need an Xbox 360 Wireless Receiver.",
+    "recommended_requirements": "OS: Windows 10",
+    "reviews": []
+}

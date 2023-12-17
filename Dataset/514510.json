@@ -1,0 +1,39 @@
+{
+    "app_id": 514510,
+    "name": "Unreal Heroes",
+    "release_date": "2017-02-03",
+    "developer": [
+        "OxPrime Studio"
+    ],
+    "publisher": [
+        "OxPrime Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Gore"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Unreal Heroes is a game in 2D inspired by strike force heroes and built on unreal engine 4.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514510/header.jpg?t=1487749962",
+    "minimum_requirements": "OS: Windows 7 Processor: Core-2 Duo Memory: 2 GB RAM Graphics: Nvidia Geforce 480, Radeon 4870 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 4670k Memory: 6 GB RAM Graphics: Geforce GTX 760 DirectX: Version 11 Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": []
+}

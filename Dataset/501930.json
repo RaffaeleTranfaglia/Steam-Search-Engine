@@ -1,0 +1,46 @@
+{
+    "app_id": 501930,
+    "name": "Sig.NULL",
+    "release_date": "2016-09-27",
+    "developer": [
+        "SaintHeiser"
+    ],
+    "publisher": [
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 16,
+    "positive_ratings": 71,
+    "negative_ratings": 19,
+    "price": 3.19,
+    "description": "This is a remake and expansion of an earlier PuzzleScript game, Signal. What I thought was so brilliant about the original is that while the rules never change, the level design is such that your ability to fully comprehend and exploit those rules shifts radically over...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501930/header.jpg?t=1484419925",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista Storage: 25 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® 7 or later Storage: 25 MB available space",
+    "reviews": [
+        {
+            "review_text": "  It's a good little puzzler with a lot to offer, it's more complex than your casual puzzle game but it's fun once you finally get the hang of it.",
+            "review_score": "1"
+        }
+    ]
+}

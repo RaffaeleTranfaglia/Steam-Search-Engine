@@ -1,0 +1,47 @@
+{
+    "app_id": 308600,
+    "name": "Geneshift",
+    "release_date": "2017-05-23",
+    "developer": [
+        "Nik Nak Studios"
+    ],
+    "publisher": [
+        "Nik Nak Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 40,
+    "positive_ratings": 623,
+    "negative_ratings": 127,
+    "price": 11.39,
+    "description": "Geneshift is a GTA-inspired battle royale where each round lasts only two minutes. Use exploding cars, miniguns, invisibility, and more to outplay friends in tactical online combat. Loot for special powers, build secret bases, and be the last man standing!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/308600/header.jpg?t=1554332016",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows XP, Vista, 7, 8 or 8.1, 10 Processeur : 2.0 GHz dual core processor Mémoire vive : 2 GB de mémoire Graphiques : 1024MB. OpenGL 2.0+ recommended. Réseau : Connexion internet haut débit Espace disque : 512 MB d'espace disque disponible Notes supplémentaires : Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.",
+    "recommended_requirements": "Recommandée : Système d'exploitation : Windows XP, Vista, 7, 8 or 8.1, 10 Processeur : 2.5 GHz multi core processor Mémoire vive : 4 GB de mémoire Graphiques : 1024MB. OpenGL 2.0+ recommended. Réseau : Connexion internet haut débit Espace disque : 512 MB d'espace disque disponible Notes supplémentaires : Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.",
+    "reviews": []
+}

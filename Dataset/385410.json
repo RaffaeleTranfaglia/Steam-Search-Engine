@@ -1,0 +1,41 @@
+{
+    "app_id": 385410,
+    "name": "The Journey: Bob's Story",
+    "release_date": "2017-09-08",
+    "developer": [
+        "Tomas Gonzalez",
+        "Martin Pilaszek"
+    ],
+    "publisher": [
+        "Tomas Gonzalez"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 39,
+    "positive_ratings": 14,
+    "negative_ratings": 6,
+    "price": 2.89,
+    "description": "The Journey: Bob's Story is an Exploration, Atmospheric and puzzle 2D platformer. Play as Bob, who goes on an adventure to find his best friend Neibag who left the village with a group of explorers through villages secret cave.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/385410/header.jpg?t=1515794443",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 2 GB RAM Graphics: Nvidia GeForce 540GT Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 Graphics: Nvidia GeForce GTX series Storage: 4 GB available space",
+    "reviews": []
+}

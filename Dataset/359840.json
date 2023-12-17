@@ -1,0 +1,49 @@
+{
+    "app_id": 359840,
+    "name": "Shift Happens",
+    "release_date": "2017-02-22",
+    "developer": [
+        "Klonk Games"
+    ],
+    "publisher": [
+        "Klonk Games",
+        "Deck13",
+        "FFF Bayern"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Co-op",
+        "Local Co-Op",
+        "Online Co-Op"
+    ],
+    "achievements": 31,
+    "positive_ratings": 224,
+    "negative_ratings": 24,
+    "price": 10.99,
+    "description": "Shift Happens is a cooperative platformer for two. You and a friend shift your mass, throw each other and puzzle your way through four stages of stylized imaginary worlds. Including the occasional backstabbing and taunting. Play with a friend on a couch, online or even special singleplayer levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/359840/header.jpg?t=1517845640",
+    "minimum_requirements": "OS: Windows Vista Processor: AMD Phenom II X4 N930 2GHz Memory: 2 GB RAM Graphics: Mobility Radeon HD 5650 DirectX: Version 9.0c Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5-4460 3.2GHz / AMD FX-6350 3.9GHz Memory: 4 GB RAM Graphics: GeForce GTX 750 / Radeon R7 260X DirectX: Version 9.0c Network: Broadband Internet connection Storage: 8 GB available space",
+    "reviews": []
+}

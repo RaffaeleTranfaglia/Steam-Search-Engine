@@ -1,0 +1,39 @@
+{
+    "app_id": 837930,
+    "name": "Alone",
+    "release_date": "2018-05-01",
+    "developer": [
+        "Killed Pixel Games"
+    ],
+    "publisher": [
+        "Killed Pixel Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Alone is a Pixelated Survival Game set in the extremely cold Siberian Wilderness in 1983, Soviet Union.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/837930/header.jpg?t=1543512622",
+    "minimum_requirements": "OS: Windows Vista, or 7 Processor: 1.5 GHz or faster processor Memory: 4 GB RAM Graphics: 1GB VRAM DirectX: Version 10 Storage: 130 MB available space",
+    "recommended_requirements": "OS: Windows 8, or 10 Processor: 2.0 GHz or faster processor Memory: 8 GB RAM Graphics: 2GB VRAM DirectX: Version 10 Storage: 130 MB available space",
+    "reviews": []
+}

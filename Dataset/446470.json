@@ -1,0 +1,42 @@
+{
+    "app_id": 446470,
+    "name": "New York Taxi Simulator",
+    "release_date": "2016-03-04",
+    "developer": [
+        "Little Freedom Factory"
+    ],
+    "publisher": [
+        "United Independent Entertainment GmbH"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 44,
+    "price": 3.99,
+    "description": "Start your career as a taxi driver in the city of New York and carry your customers safely and on time to their final destination.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446470/header.jpg?t=1457089684",
+    "minimum_requirements": "OS: Windows XP SP2 / Vista / 7 / 8 / 10 Processor: 1,5 GHz Pentium 4, AMD Athlon 1500+ or better Memory: 512 MB RAM Graphics: Nvidia GeForce FX 5600, AMD 9500, Intel GMA 950 or better DirectX: Version 9.0c Storage: 400 MB available space Sound Card: DirectX compatible soundcard",
+    "recommended_requirements": "OS: Windows XP SP2 / Vista / 7 / 8 / 10 Processor: Intel Core 2, AMD Athlon 3000+ or better Memory: 1 GB RAM Graphics: Nvidia GeForce GTX260, AMD HD4000 or better DirectX: Version 9.0c Storage: 400 MB available space Sound Card: DirectX compatible soundcard",
+    "reviews": [
+        {
+            "review_text": "Would not play if it were free (I got it in a joke game bundle that includes Bad Rats), would not play if they paid me to. Can't change the graphics resolution, the 3D engine is very rudimentary and has severe texture artifacts. The handling is terrible, which has a lot to do with the fact that the controls are limited to the keyboard. You're always making a hard turn, flooring it, and braking hard.  New York City in no shape or form. The block layouts are not modeled on the actual street layout, the buildings aren't tall enough, and there are certainly not enough pedestrians or traffic lights, even if it were modeled on less dense areas of NYC like Ozone Park. It's 'NYC' because it's all on a perfect 90-degree angled grid which is basically Midtown only. It also makes no sense that there's a literal red wall marking the boundaries. Manhattan is an island; they could have simply closed off approaches to bridges and tunnels.  You could forgive that and the graphics and other things, but with the poor controls it's completely unenjoyable. It is, in fact, unfairly frustrating.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Smashed into loads of cars and signs while driving  Passenger rated me 5 stars  ???  Is this how bad Taxis in New York normally drive?",
+            "review_score": "1"
+        }
+    ]
+}

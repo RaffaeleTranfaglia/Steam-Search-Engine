@@ -1,0 +1,41 @@
+{
+    "app_id": 415600,
+    "name": "Kart Racing Pro",
+    "release_date": "2017-07-14",
+    "developer": [
+        "PiBoSo"
+    ],
+    "publisher": [
+        "PiBoSo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 62,
+    "negative_ratings": 21,
+    "price": 29.99,
+    "description": "Kart Racing Pro is a realistic karting simulator. The aim is to create a software useful as a training tool for real drivers, based on a scratch built physics engine that accurately simulates kart dynamics and setup options.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/415600/header.jpg?t=1554819934",
+    "minimum_requirements": "OS: Windows XP 64-bit Processor: 2 Ghz CPU Memory: 2 GB RAM Graphics: OpenGL 1.2.1 compatible GPU with 512 MB of video RAM. VR: GeForce GTX 970 (AMD Radeon R9 290) or better DirectX: Version 8.1 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

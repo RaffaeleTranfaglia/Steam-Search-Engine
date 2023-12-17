@@ -1,0 +1,54 @@
+{
+    "app_id": 259470,
+    "name": "Particulars",
+    "release_date": "2014-11-19",
+    "developer": [
+        "SeeThrough Studios"
+    ],
+    "publisher": [
+        "SeeThrough Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Physics"
+    ],
+    "achievements": 63,
+    "positive_ratings": 55,
+    "negative_ratings": 25,
+    "price": 4.79,
+    "description": "Particulars is a game with a unique combination of arcade-action and puzzle gameplay, set in the mysterious world of subatomic particles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/259470/header.jpg?t=1527494739",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0 GHz Dual Core CPU Memory: 2 GB RAM Graphics: 512MB Graphics Card DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The game play is ok, but I found that there was far too much focus on the story, which isn't that realated to the gameplay. Too much psychology, not enough physics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So, I was really getting into this game until I became stuck on one level. The game helpfully informed me that I could press escape and skip the level any time I wanted to. So I played a few more times and decided to skip it. Paused the game. Skip button was grayed out. Way to ♥♥♥♥ off the players, devs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An story about an australian girl and her many problems in life implemented as an educational game about quarks and stuff",
+            "review_score": "-1"
+        }
+    ]
+}

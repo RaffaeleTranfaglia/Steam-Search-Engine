@@ -1,0 +1,38 @@
+{
+    "app_id": 654910,
+    "name": "YANKAI'S PEAK.",
+    "release_date": "2017-07-13",
+    "developer": [
+        "Kenny Sun"
+    ],
+    "publisher": [
+        "Kenny Sun"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 13,
+    "positive_ratings": 18,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "Pyramid-Pushing Puzzles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654910/header.jpg?t=1499963663",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 1024 MB RAM Graphics: 256MB DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows XP Processor: 1.5 GHz Memory: 2048 MB RAM Graphics: 512MB DirectX: Version 9.0c Storage: 100 MB available space",
+    "reviews": []
+}

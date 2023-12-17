@@ -1,0 +1,44 @@
+{
+    "app_id": 500420,
+    "name": "SoulHunt",
+    "release_date": "2016-12-23",
+    "developer": [
+        "WinterCell Studios"
+    ],
+    "publisher": [
+        "WinterCell Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 18,
+    "positive_ratings": 56,
+    "negative_ratings": 19,
+    "price": 5.99,
+    "description": "SoulHunt is a ‘Hide ‘n Seek’ multiplayer game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/500420/header.jpg?t=1513427292",
+    "minimum_requirements": "OS: Microsoft Windows XP Processor: 2 ghz Memory: 2 GB RAM DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "OS: Microsoft Windows 7/8/10 (64-bit) Processor: 3 ghz Memory: 4 GB RAM DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

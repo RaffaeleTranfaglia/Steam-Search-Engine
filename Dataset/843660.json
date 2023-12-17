@@ -1,0 +1,40 @@
+{
+    "app_id": 843660,
+    "name": "Rogue Agent",
+    "release_date": "2018-04-29",
+    "developer": [
+        "Jorge Aires"
+    ],
+    "publisher": [
+        "Jorge Aires"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 70,
+    "negative_ratings": 19,
+    "price": 0.0,
+    "description": "Rogue Agent is a fast-paced tactical combat game about war between secret agents and spies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/843660/header.jpg?t=1541946805",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 1.6Ghz+ or faster x32-compatible processor Memory: 2048 MB RAM Graphics: 512MB DirectX: Version 11 Storage: 95 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

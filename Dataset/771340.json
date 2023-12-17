@@ -1,0 +1,39 @@
+{
+    "app_id": 771340,
+    "name": "Kansei",
+    "release_date": "2018-09-14",
+    "developer": [
+        "sakevisual"
+    ],
+    "publisher": [
+        "sakevisual"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+    ],
+    "achievements": 3,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 6.19,
+    "description": "A murder mystery visual novel. Use your psychic powers to uncover secrets and hunt down a murderer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/771340/header.jpg?t=1536947474",
+    "minimum_requirements": "OS: XP Processor: 1 GHz Memory: 512 MB RAM Storage: 146 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

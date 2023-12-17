@@ -1,0 +1,39 @@
+{
+    "app_id": 547540,
+    "name": "panGEMic",
+    "release_date": "2016-12-28",
+    "developer": [
+        "David Cross"
+    ],
+    "publisher": [
+        "David Cross"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Pixel Graphics"
+    ],
+    "achievements": 9,
+    "positive_ratings": 58,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Collect all the gems while avoiding enemies and hazards, do it in the time limit or face the 'Red Skull'. panGEMic is a retro inspired platform game requiring quick reflexes and quick thinking.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547540/header.jpg?t=1483031586",
+    "minimum_requirements": "OS: Windows XP or higher Processor: 2.0 Ghz Memory: 1 GB RAM Graphics: Intel HD DirectX: Version 9.0 Storage: 20 MB available space",
+    "recommended_requirements": "OS: Windows XP or higher Processor: 2.0 Ghz Memory: 1 GB RAM Graphics: Intel HD, Geforce 650, AMD R5 DirectX: Version 9.0 Storage: 20 MB available space",
+    "reviews": []
+}

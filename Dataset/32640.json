@@ -1,0 +1,50 @@
+{
+    "app_id": 32640,
+    "name": "Delta Force Land Warrior",
+    "release_date": "2009-06-18",
+    "developer": [
+        "NovaLogic"
+    ],
+    "publisher": [
+        "NovaLogic",
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "FPS",
+        "Tactical"
+    ],
+    "achievements": 0,
+    "positive_ratings": 121,
+    "negative_ratings": 11,
+    "price": 6.99,
+    "description": "Engage the enemy across vast outdoor environments and expansive indoor environments as you take control of the US Army's elite anti-terrorist unit. Delta Force Land Warrior™ introduces new weapons and characters for both single player and intense online multiplayer via NovaWorld.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/32640/header.jpg?t=1531308432",
+    "minimum_requirements": "Operating System: Microsoft® Windows® 2000/XP/Vista  You may encounter online connection issues under Vista. In that case, you'll need to set the application compatibility mode to &quot;Windows XP 2&quot;. This can be done by right-clicking the desktop icon for the game, selecting &quot;Properties&quot; from the context menu, going to the &quot;Compatibility&quot; tab and selecting to run this program in compatibility mode for &quot;Windows XP 2&quot;. Processor: Intel® Pentium® II 1.2 GHz or better Memory: 512 MB RAM Hard Disk Space: 820 MB Video Card: DirectX 9.0 AGP with 32MB or better with HW-T&amp;L Sound Card: DirectX-compliant DirectX® Version: DirectX version 9.0b or higher (included)",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I had sooooo many hours on this when I was a kid.........loved to snipe people from 800+ meters :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played this when i was younger and it was really fun. The missions and gameplay is fun as usual. Multiplayer i cant guarantee as it doesnt seem to be that popular and servers seems to possibly be dead. So i cant promise anything about multiplayer, but story mode i guarantee you will like.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the game that started TAW",
+            "review_score": "1"
+        }
+    ]
+}

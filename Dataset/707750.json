@@ -1,0 +1,37 @@
+{
+    "app_id": 707750,
+    "name": "DrumSim",
+    "release_date": "2017-09-25",
+    "developer": [
+        "The Holodeck"
+    ],
+    "publisher": [
+        "Revintu"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 5,
+    "price": 1.59,
+    "description": "Simple drumkit simulator.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/707750/header.jpg?t=1506350489",
+    "minimum_requirements": "OS: Windows 10 64-bit Processor: Intel Core i3 Memory: 512 MB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 or better Storage: 4 GB available space Sound Card: Any will do. Additional Notes: VR performance may be severely impacted.",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel Core i7 Memory: 1024 MB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 or better Storage: 4 GB available space Sound Card: Any will do. Additional Notes: HTC Vive and Vive controllers are required for the full experience.",
+    "reviews": []
+}

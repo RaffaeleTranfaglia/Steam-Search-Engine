@@ -1,0 +1,42 @@
+{
+    "app_id": 366870,
+    "name": "Narcosis",
+    "release_date": "2017-03-28",
+    "developer": [
+        "Honor Code, Inc."
+    ],
+    "publisher": [
+        "Honor Code, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "VR Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Horror"
+    ],
+    "achievements": 10,
+    "positive_ratings": 395,
+    "negative_ratings": 95,
+    "price": 11.39,
+    "description": "Survival, horror at the sunless depths of the Pacific Ocean: Stranded on the seafloor with low light and few tools, an industrial diver takes desperate steps to surface before his oxygen — and sanity — give out.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/366870/header.jpg?t=1531522061",
+    "minimum_requirements": "OS: Windows 7 (64 bits) Processor: Intel i5 or better Memory: 4 GB RAM Graphics: Nvidia GTX 560 or better DirectX: Version 11 Storage: 8 GB available space Sound Card: Any sound card Additional Notes: For VR, please refer to the recommended configuration.",
+    "recommended_requirements": "OS: Windows 7 (64 bits) Processor: Intel i5/7 second generation or better Memory: 8 GB RAM Graphics: Nvidia GTX 970 / AMD R9 290 DirectX: Version 11 Storage: 8 GB available space Sound Card: Any sound card Additional Notes: This is the minimum configuration to play in VR.",
+    "reviews": []
+}

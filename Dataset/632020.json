@@ -1,0 +1,44 @@
+{
+    "app_id": 632020,
+    "name": "Necromancer Returns",
+    "release_date": "2018-02-01",
+    "developer": [
+        "Greenolor Studio"
+    ],
+    "publisher": [
+        "Greenolor Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 21,
+    "positive_ratings": 52,
+    "negative_ratings": 17,
+    "price": 7.19,
+    "description": "A turn-based strategy game. The world of a fantasy kingdom has been thrown into disarray by the return of the Necromancer – a creature of darkness that wishes to enslave all living beings.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/632020/header.jpg?t=1550390449",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7, Vista, or XP Service Pack 3 Processor: 1 GHz processor Memory: 1 GB RAM Graphics: OpenGL 2.1 or higher DirectX: Version 9.0 Storage: 250 MB available space Additional Notes: Mouse",
+    "recommended_requirements": null,
+    "reviews": []
+}

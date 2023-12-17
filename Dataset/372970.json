@@ -1,0 +1,44 @@
+{
+    "app_id": 372970,
+    "name": "Cash_Out",
+    "release_date": "2015-05-27",
+    "developer": [
+        "Untouch"
+    ],
+    "publisher": [
+        "Untouch"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Gore"
+    ],
+    "achievements": 19,
+    "positive_ratings": 35,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Cash_Out is a top down shooter with stealth and action in mind, where the goal of the game is to raid the building and steal cash. Levels are procedurally generated, with randomized weapons as well. There are many different items, clothing sets and skills that you can use to give you the edge while raiding.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372970/header.jpg?t=1554134623",
+    "minimum_requirements": "Memory: 200 MB RAM DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": "Memory: 500 MB RAM DirectX: Version 9.0 Storage: 60 MB available space",
+    "reviews": []
+}

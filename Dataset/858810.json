@@ -1,0 +1,40 @@
+{
+    "app_id": 858810,
+    "name": "Dawn of Man",
+    "release_date": "2019-03-01",
+    "developer": [
+        "Madruga Works"
+    ],
+    "publisher": [
+        "Madruga Works"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "City Builder",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 18,
+    "positive_ratings": 2757,
+    "negative_ratings": 706,
+    "price": 19.49,
+    "description": "Command a settlement of ancient humans, guide them through the ages in their struggle for survival. Hunt, gather, craft tools, fight, research new techs and face the challenges the environment will throw at you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64 bit) Processor: 2 GHz Dual Core Memory: 4 GB RAM Graphics: 1 GB VRAM (Shader Model 3) DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64 bit) Processor: Intel Core i5 or equivalent Memory: 8 GB RAM Graphics: 2 GB AMD or NVIDIA Card DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

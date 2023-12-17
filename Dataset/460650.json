@@ -1,0 +1,48 @@
+{
+    "app_id": 460650,
+    "name": "Tick Tock Bang Bang",
+    "release_date": "2016-06-09",
+    "developer": [
+        "Dejobaan Games, LLC"
+    ],
+    "publisher": [
+        "Dejobaan Games, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Bullet Time"
+    ],
+    "achievements": 6,
+    "positive_ratings": 32,
+    "negative_ratings": 9,
+    "price": 11.39,
+    "description": "An FPS where you can freeze time. Gunfights, 90-car pileups, and giant robots in slow motion. Make your own levels. From the award-winning creators of Aaaaa! and Drunken Robot Pornography.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/460650/header.jpg?t=1465833109",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.3GHz Intel/AMD CPU Memory: 2 GB RAM Graphics: 512MB 3D Card, Shader Model 3 DirectX: Version 9.0c Storage: 2 GB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "+Some unique original levels +More SUPERHOT as the game is clearly 'inspired' by it +Game works fine, controls fine +Level creator/workshop support  -Boring aesthetic -Very bland sound design, practically no music -Pickups/powerups are incredibly boring and just solve the level automatically -Final level is overly long compared to every other level before it -Very short game -Reused assets from Drunken Robot Pornography -Zero story and even the premise alone removes all sense of urgency (You're doing hollywood stunts)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  In this game you stop time but then you don't want to stop time because you want to keep playing because it's fun! Definitely a super fun game!",
+            "review_score": "1"
+        }
+    ]
+}

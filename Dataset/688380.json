@@ -1,0 +1,40 @@
+{
+    "app_id": 688380,
+    "name": "Restoration",
+    "release_date": "2017-08-18",
+    "developer": [
+        "Team Syukino"
+    ],
+    "publisher": [
+        "Team Syukino"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "JRPG"
+    ],
+    "achievements": 2,
+    "positive_ratings": 24,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "Two siblings; Oliver and Penello, answer their dying Grandma's wish and make their way to Phren Village. A seemingly peaceful village filled with tranquility. But on the inside, It is a village void of hope and on the brink of succumbing to despair and darkness.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/688380/header.jpg?t=1550423126",
+    "minimum_requirements": "OS: Windows 8.1/10 Processor: Intel Core 2 Duo or better Memory: 2 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Yes",
+    "recommended_requirements": "OS: Windows 8.1/10 Processor: Intel Core 2 Duo or better Memory: 2 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Yes",
+    "reviews": []
+}

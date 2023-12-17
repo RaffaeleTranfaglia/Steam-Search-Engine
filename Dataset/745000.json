@@ -1,0 +1,39 @@
+{
+    "app_id": 745000,
+    "name": "Card Crawl",
+    "release_date": "2018-02-07",
+    "developer": [
+        "Arnold Rauers"
+    ],
+    "publisher": [
+        "Arnold Rauers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Card Game",
+        "Rogue-lite"
+    ],
+    "achievements": 9,
+    "positive_ratings": 72,
+    "negative_ratings": 15,
+    "price": 2.09,
+    "description": "Card Crawl is a solitaire style Dungeon Crawler played with a deck of cards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/745000/header.jpg?t=1517990421",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 1024 MB RAM Graphics: 64MB VRAM DirectX: Version 7.0 Storage: 300 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

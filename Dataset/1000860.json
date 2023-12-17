@@ -1,0 +1,42 @@
+{
+    "app_id": 1000860,
+    "name": "Allspace",
+    "release_date": "2019-01-22",
+    "developer": [
+        "ShilohGames"
+    ],
+    "publisher": [
+        "ShilohGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Massively Multiplayer",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 24,
+    "negative_ratings": 8,
+    "price": 0.0,
+    "description": "100 pilots battle with lasers, plasma, and missiles in free to play Allspace.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1000860/header.jpg?t=1550717382",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-bit OS required) Processor: Intel Core i3 2.4 GHz or equivalent Memory: 8 GB RAM Graphics: Intel HD 4000 DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (64-bit OS required) Processor: Intel Core i7-8700K 3.7 GHz or equivalent Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1080 equivalent or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "reviews": []
+}

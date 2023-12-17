@@ -1,0 +1,46 @@
+{
+    "app_id": 496870,
+    "name": "Inverted",
+    "release_date": "2016-07-22",
+    "developer": [
+        "Versus System"
+    ],
+    "publisher": [
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 97,
+    "negative_ratings": 59,
+    "price": 3.19,
+    "description": "Inverted is a new game that calling for amazement and joy of people who like stretch their brains. The main character of this puzzle by mysterious accident find himself in a castle full of solitude, fear and oblivion.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496870/header.jpg?t=1516871424",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista Processor: Intel Core 2 Duo (or equivalent) Memory: 256 MB RAM Graphics: 512 MB or higher DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: Microsoft® Windows® 7 or later Processor: Intel Core i3 (or equivalent) Memory: 512 MB RAM Graphics: 1024 MB or higher DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX® Compatible",
+    "reviews": [
+        {
+            "review_text": "I wrote a bot to solve level 8 for me because it was too difficult.    Great game, I really like it! :D",
+            "review_score": "1"
+        }
+    ]
+}

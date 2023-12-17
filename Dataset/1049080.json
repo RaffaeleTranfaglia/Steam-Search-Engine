@@ -1,0 +1,40 @@
+{
+    "app_id": 1049080,
+    "name": "Candy Adventure",
+    "release_date": "2019-04-05",
+    "developer": [
+        "JY Games"
+    ],
+    "publisher": [
+        "JY Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 13,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "One day a little puppy Candy goes for a walk. Walking is Candy's most favorite thing. Candy enters the strange door while he is playing. What will happen to Candy?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1049080/header.jpg?t=1554501819",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: windows10 64-bit Processor: Intel® Core™ i3 or AMD Phenom™ X3 8650 or higher Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 460, ATI Radeon™ HD 4850, or Intel® HD Graphics 4400 or higher DirectX: Version 10 Storage: 500 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: windows10 64-bit Processor: Intel® Core™ i5 or AMD Phenom™ II X3 Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 660 or AMD Radeon™ HD 7950 DirectX: Version 10 Storage: 500 MB available space",
+    "reviews": []
+}

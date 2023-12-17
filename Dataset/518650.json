@@ -1,0 +1,47 @@
+{
+    "app_id": 518650,
+    "name": "illumine",
+    "release_date": "2016-09-29",
+    "developer": [
+        "Dejima"
+    ],
+    "publisher": [
+        "Dejima"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 15,
+    "positive_ratings": 31,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Experience a different take on the roguelike genre. Explore a world created on the fly by your actions. Wonder about your purpose.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/518650/header.jpg?t=1490949622",
+    "minimum_requirements": "OS: Windows XP Processor: 2.5 GHz Memory: 4 GB RAM Graphics: Integrated Graphics Card DirectX: Version 9.0 Storage: 124 MB available space",
+    "recommended_requirements": "OS: Windows XP and above Processor: 2.5 GHz Memory: 8 GB RAM Graphics: Dedicated Graphics Card DirectX: Version 9.0 Storage: 124 MB available space Additional Notes: Xinput controller recommended",
+    "reviews": [
+        {
+            "review_text": "  Disclosure: review copy received from the developer.  As a piece of artistic expression about the nature of feeling alone in a strange place, Illumine is top-notch. As a roguelite, Illumine breaks the mold, doing both room generation and NPC interaction differently from most.  Read my full review on     IndieGames.com   [indiegames.com] ",
+            "review_score": "1"
+        }
+    ]
+}

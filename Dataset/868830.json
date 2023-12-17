@@ -1,0 +1,37 @@
+{
+    "app_id": 868830,
+    "name": "Rio Rex",
+    "release_date": "2018-06-05",
+    "developer": [
+        "Gametornado"
+    ],
+    "publisher": [
+        "Gametornado"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "There's a T-Rex on the loose in Rio city! Take on the role of the destructive dino as you attempt to incinerate everyone and everything on your path of destruction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868830/header.jpg?t=1528185109",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 1.7Ghz Memory: 2 GB RAM Graphics: 512MB Storage: 90 MB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Dual Core 2.3Ghz Memory: 3 GB RAM Graphics: 1GB DirectX: Version 9.0 Storage: 90 MB available space",
+    "reviews": []
+}

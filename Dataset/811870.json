@@ -1,0 +1,42 @@
+{
+    "app_id": 811870,
+    "name": "Verlet Swing",
+    "release_date": "2018-09-18",
+    "developer": [
+        "Flamebait Games"
+    ],
+    "publisher": [
+        "Flamebait Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "3D Platformer"
+    ],
+    "achievements": 28,
+    "positive_ratings": 68,
+    "negative_ratings": 3,
+    "price": 11.39,
+    "description": "Verlet Swing brings you energetic swinging in a world that would be best described as a fever dream. Swing fast, don't crash and reach the goal as fast as possible!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/811870/header.jpg?t=1538048225",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 or equivalent Memory: 1 GB RAM Graphics: GeForce GTX 460 or Radeon HD 6850 DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i5 or equivalent Memory: 2 GB RAM Graphics: GeForce GTX 680 or Radeon HD 7970 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 862490,
+    "name": "Fantasy Raiders",
+    "release_date": "2018-07-25",
+    "developer": [
+        "Maverick Games Inc."
+    ],
+    "publisher": [
+        "Maverick Games Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 4,
+    "price": 11.39,
+    "description": "In Fantasy Raiders, you'll fight against or cooperate with various factions which seek for treasures, collect precious treasures and become a famous explorer in the end. * Explore the uncharted places and discover the secrets of each regions! * Collect treasures, get rewards and decorate your own treasure house!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862490/header.jpg?t=1534494525",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 bit or later Windows 64bit Processor: Core 2 Duo Memory: 4 GB RAM Graphics: Intel HD Graphics 3000 with 384 MB of RAM DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 665120,
+    "name": "Jetman Go",
+    "release_date": "2017-09-29",
+    "developer": [
+        "Linkflag Studio"
+    ],
+    "publisher": [
+        "Linkflag Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 18,
+    "positive_ratings": 140,
+    "negative_ratings": 31,
+    "price": 1.69,
+    "description": "Engage in multiplayer gunfights that you are free to fly in the sky play like no FPS you've played before. you can choose 4 guns with a totally level playing field and 18 beautiful maps with different strategies. Equip your jetpack and Fight in the sky!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665120/header.jpg?t=1540874779",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: 2.4 GHz Dual core Memory: 2 GB RAM Graphics: NVIDIA GTX 260 or ATI 4850 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: 2.5 GHz Dual core Memory: 4 GB RAM Graphics: NVIDIA GTX 660 or better, ATI 7950 or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 6 GB available space",
+    "reviews": []
+}

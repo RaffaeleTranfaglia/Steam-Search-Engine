@@ -1,0 +1,40 @@
+{
+    "app_id": 840170,
+    "name": "Delivery man simulator",
+    "release_date": "2018-04-25",
+    "developer": [
+        "azimut team"
+    ],
+    "publisher": [
+        "azimut team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 13,
+    "price": 0.79,
+    "description": "A realistic courier simulator with a minimal interface and music written by a neural network",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840170/header.jpg?t=1524640236",
+    "minimum_requirements": "OS: xp, Vista, 7, 8, 8.1, 10 Processor: Intel atom 1.2 GHz Memory: 1 GB RAM Graphics: Intel HD Graphics Storage: 100 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: windows 7 8 8.1 10 Processor: Intel Core I3 Memory: 2 GB RAM Graphics: Better then Intel HD Graphics Storage: 150 MB available space Sound Card: Any",
+    "reviews": []
+}

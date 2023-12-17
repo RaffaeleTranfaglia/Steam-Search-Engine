@@ -1,0 +1,43 @@
+{
+    "app_id": 36900,
+    "name": "Angle of Attack",
+    "release_date": "2009-08-17",
+    "developer": [
+        "3000AD"
+    ],
+    "publisher": [
+        "3000AD"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Angle Of Attack is the aerial combat action companion title to All Aspect Warfare. It features high-octane air combat against air, land and sea threats over vast planetary regions. See the action from a different perspective and get in on the action!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/36900/header.jpg?t=1447352356",
+    "minimum_requirements": "OS: Windows XP or Windows Vista Processor: Dual Core CPU (Intel Pentium 4 3.4Ghz, AMD Athlon 64 X2 3.0GHz or faster Memory: 1 GB Graphics: 256MB GPU with Shader Model 3 nVidia GeForce 7900 / ATI Radeon X1300 or faster DirectX®: DirectX 9.0 March 2009 Runtime Hard Drive: 600 MB Sound: DirectX 9.0c compatible (on-board or add-in)",
+    "recommended_requirements": "OS: Windows XP or Windows Vista Processor: Intel Core 2 Duo E6320 / AMD X2 6000 or faster Memory: 2 GB Graphics: 512MB GPU with Shader Model 3 (nVidia GeForce 8600 GTS / Radeon HD2900 XT or faster) DirectX®: DirectX 9.0 March 2009 Runtime Hard Drive: 600 MB Sound: DirectX 9.0c compatible (on-board or add-in)",
+    "reviews": [
+        {
+            "review_text": "Angle of Attack is yet another variation of Derek Smart's Battlecruiser 3000 'franchise'. It started as a comprehensive simulation of a starship command, down to crew and food, and weapons, and trading and planets and fleet that starships moving all around you, doing their own things, and you can help your own side in the war effort. In Angle of Attack, you are down to one planet, with jump gates that takes you to other parts of the planet, and you can attack or defend as you wish against the humankind's nemesis, the Gamulons.   In practice, the game essentially has you playing lone wolf attacking things when you can and dying here and there then respawn to do it all over again. There are bazillion different combinations of weapons and crafts, but they don't really feel that different. Flightwise, controls are difficult, as the vehicles transition between VTOL (hover) and high-speed flight almost without warning, and missile avoidance is a matter of luck. You rarely if ever see friendlies and there seem to be no strategy to the miliary, making you feel as if you're just playing in someone else's sandbox.   All in all, I should have expected this as MOTS, as that's the same feeling I got from playing BC3K (and its various incarnations, such as 'Universal Combat').",
+            "review_score": "-1"
+        }
+    ]
+}

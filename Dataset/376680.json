@@ -1,0 +1,57 @@
+{
+    "app_id": 376680,
+    "name": "Splendor",
+    "release_date": "2015-09-17",
+    "developer": [
+        "Days of Wonder"
+    ],
+    "publisher": [
+        "Days of Wonder",
+        "Asmodee Digital"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Board Game"
+    ],
+    "achievements": 31,
+    "positive_ratings": 92,
+    "negative_ratings": 37,
+    "price": 6.99,
+    "description": "The OFFICIAL digital adaptation of the best-selling board game. ** ONLINE MULTIPLAYER NOW AVAILABLE !!!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/376680/header.jpg?t=1548420827",
+    "minimum_requirements": "OS: Windows XP Processor: PIV 2Ghz or more Memory: 512 MB RAM Graphics: Directx 9.0c compatible graphics adapter with 128Mb DirectX: Version 9.0c Storage: 150 MB available space Sound Card: Directx 9.0c compatible sound card",
+    "recommended_requirements": "OS: Windows 7 or more Processor: Intel Core 2 Duo or more Memory: 1 GB RAM Graphics: Directx 9.0c compatible graphics adapter with 256Mb DirectX: Version 9.0c Storage: 150 MB available space Sound Card: Directx 9.0c compatible sound card",
+    "reviews": [
+        {
+            "review_text": "Easy to learn, harder to master. at this time some of the achievements are not working properly (both steam and in-game), otherwise a nice port from the tabletop.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "AWESOME, no clean up required after playing, makes playing with family much easier!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Experienced some bad audio glitches when I ran it for the very first time, but exiting the game and relaunching cleared them up. I'm not sure if the music volume setting is actually working or not, since I have it down to 20% and music in game is still louder than sound effects which are at 75% which seems a bit odd, but I may just need to tweak those setting a bit more. For whatever reason anti-aliasing was off by default and made the game look very jaggy, but enabling it makes it look much better (not a great way to make a first impression having that disabled by default).  Now that is is working for me, gameplay itself if as good as the iPad version for me. Good solid port of a good game, but the lack of multiplayer feature (pass and play is essential for an iPad but more hassle than its worth on a PC game) is a rather major downside. Hopefully that will be addressed soon. Still giving it a thumbs up overall, but be warned that you might want to see if multiplayer has been added before purchasing if that is important to you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Contrary to the majority here, I'm rather disappointed. I like the board game. Here however, there's no multiplayer (like in Small World) and the AI is not even slightly challenging. Therefore having played two games, I see little need to play it again. What's more it doesn't even support my graphic mode (1280x1024) and that makes me suspect the developers were rather lazy if not disregarding the user.",
+            "review_score": "-1"
+        }
+    ]
+}

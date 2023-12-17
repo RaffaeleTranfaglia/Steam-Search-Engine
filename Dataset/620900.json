@@ -1,0 +1,39 @@
+{
+    "app_id": 620900,
+    "name": "Witchinour",
+    "release_date": "2017-06-12",
+    "developer": [
+        "mahojigoku"
+    ],
+    "publisher": [
+        "mahojigoku"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 21,
+    "positive_ratings": 28,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Witchinour is a top-down, bullet hell cute 'em up with randomized levels and an emphasis on playing fast. Dodge, shoot, cast, and ugprade your way through the dungeon's floors and bosses to find your lost spell book!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/620900/header.jpg?t=1553111113",
+    "minimum_requirements": "OS: Microsoft® Windows® 7 Processor: 2.0GHz processor Memory: 2 GB RAM Graphics: 1GB DirectX Compatible GPU DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

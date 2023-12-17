@@ -1,0 +1,47 @@
+{
+    "app_id": 419810,
+    "name": "House of Hell (Standalone)",
+    "release_date": "2016-01-19",
+    "developer": [
+        "Tin Man Games"
+    ],
+    "publisher": [
+        "Tin Man Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 35,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "YOU are the hero in House of Hell! Can you escape from the Earl of Drumer's malevolent mansion in Steve Jackson's Fighting Fantasy classic RPG gamebook?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/419810/header.jpg?t=1550550004",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware Accelerated Graphics with dedicated memory Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 7/8 Memory: 4 GB RAM Graphics: Hardware Accelerated Graphics with 1GB memory Storage: 350 MB available space",
+    "reviews": [
+        {
+            "review_text": "A beautiful adaptation of the classic gamebook. UI and layout is slick and polished, and the story itself is solidly written.   One issue is that this book is really TOUGH; you'll need to go through it many times to find the ideal path through it. I would have liked this to be smoothed out with the computer version. Still a recommended classic!",
+            "review_score": "1"
+        }
+    ]
+}

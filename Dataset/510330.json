@@ -1,0 +1,39 @@
+{
+    "app_id": 510330,
+    "name": "Shotgun Raiders",
+    "release_date": "2016-09-15",
+    "developer": [
+        "PileOfCrab"
+    ],
+    "publisher": [
+        "PileOfCrab"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer",
+        "Arcade"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 11,
+    "price": 1.99,
+    "description": "Polish your Shotgun and pull some Grenades because its time for SHOTGUN RAIDERS! A 2d fast action platform shooter with Trading Cards. Inspired by the easy controls of classic mario, limited gun angles of the good old arcade shooters, and level crafting.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510330/header.jpg?t=1477438791",
+    "minimum_requirements": "OS: Windows 7 Ultimate 32 or 64 bit Processor: Intel i3 540 3.07ghz Memory: 2 GB RAM Graphics: 4.00 gb card DirectX: Version 11 Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 7 Ultimate or Higher 64 bit Processor: Intel i5 3450 3.10ghz Memory: 8 GB RAM Graphics: AMD RADEON R9 200 4096MB GDDR5 DirectX: Version 11 Storage: 350 MB available space",
+    "reviews": []
+}

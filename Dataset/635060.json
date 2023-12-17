@@ -1,0 +1,40 @@
+{
+    "app_id": 635060,
+    "name": "Castle of no Escape",
+    "release_date": "2017-06-22",
+    "developer": [
+        "Xitilon",
+        "Esdeer"
+    ],
+    "publisher": [
+        "Xitilon"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 38,
+    "negative_ratings": 25,
+    "price": 3.19,
+    "description": "Explore the mysterious castle full of monsters and secrets in a quest to collect all the treasures (that will also protect you from the curses on your way) and crush the main boss. The game won't let you exit the castle, no matter how you try. Technically you can win, but there is no end.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/635060/header.jpg?t=1549695696",
+    "minimum_requirements": "OS: Windows XP Processor: RP2A07 @ 1.662607 MHz (~601 ns per cycle) Memory: 1 MB RAM Graphics: DirectX 9.0c compatible DirectX: Version 9.0c Storage: 10 MB available space Sound Card: 2 pulse wave generators, a triangle wave, noise.",
+    "recommended_requirements": "OS: Windows 7 Processor: RP2A03 @ 1.773448 MHz (~564 ns per cycle) Memory: 2 MB RAM Graphics: DirectX 9.0c compatible DirectX: Version 9.0c Storage: 10 MB available space Sound Card: +Delta Pulse Code Modulation channel for playing sound samples.",
+    "reviews": []
+}

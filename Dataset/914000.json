@@ -1,0 +1,42 @@
+{
+    "app_id": 914000,
+    "name": "Tiny Battle Simulator",
+    "release_date": "2018-09-10",
+    "developer": [
+        "vidiludi games and entertainment"
+    ],
+    "publisher": [
+        "vidiludi games and entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 24,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Manage a squad of rebels you recruit on the way. Scavenge weapons, shields and helmets from the sectors you liberate and free the country of evil oppressors. If you like turn based strategy games with pixel art graphics and silly humor, then this game is for you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/914000/header.jpg?t=1544460255",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: 2 GHz, Dual Core Memory: 2 GB RAM Graphics: DirectX 10 supported DirectX: Version 10 Storage: 128 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1+ Processor: 2 GHz, Dual Core Memory: 2 GB RAM Graphics: DirectX 10 supported DirectX: Version 10 Storage: 128 MB available space",
+    "reviews": []
+}

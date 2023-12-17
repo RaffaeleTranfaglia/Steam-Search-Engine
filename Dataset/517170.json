@@ -1,0 +1,39 @@
+{
+    "app_id": 517170,
+    "name": "Tvori",
+    "release_date": "2016-08-25",
+    "developer": [
+        "Tvori"
+    ],
+    "publisher": [
+        "Tvori"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities",
+        "Video Production",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Animation & Modeling",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 32,
+    "negative_ratings": 6,
+    "price": 15.49,
+    "description": "Create animated stories in Virtual Reality. Making scenes and animating characters becomes fun and simple with Tvori.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/517170/header.jpg?t=1537523807",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1060, AMD Radeon RX 570 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 32 GB RAM Graphics: Nvidia GeForce GTX 1070, AMD Radeon RX Vega 56 equivalent or better Storage: 1 GB available space",
+    "reviews": []
+}

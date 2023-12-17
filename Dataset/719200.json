@@ -1,0 +1,42 @@
+{
+    "app_id": 719200,
+    "name": "The Wall",
+    "release_date": "2018-11-02",
+    "developer": [
+        "Aero Games"
+    ],
+    "publisher": [
+        "Aero Games LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Massively Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 149,
+    "negative_ratings": 40,
+    "price": 7.19,
+    "description": "Combining dynamic maps and progression with slick combat, The Wall offers an infinite number of ways for you to construct your own battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/719200/header.jpg?t=1544719286",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Intel Core i5-3770 / AMD FX-9590 Memory: 4 GB RAM Graphics: GTX 670 2GB DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: Intel Core i7-4690K / AMD Ryzen 5 1600 Memory: 8 GB RAM Graphics: GTX 960 DirectX: Version 11 Network: Broadband Internet connection Storage: 8 GB available space",
+    "reviews": []
+}

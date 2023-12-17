@@ -1,0 +1,45 @@
+{
+    "app_id": 398120,
+    "name": "Advanced Gaming Platform::Epica",
+    "release_date": "2016-12-22",
+    "developer": [
+        "AGP::Studios"
+    ],
+    "publisher": [
+        "AGP::Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Action"
+    ],
+    "achievements": 5,
+    "positive_ratings": 19,
+    "negative_ratings": 30,
+    "price": 15.49,
+    "description": "Marked for death by the Imperial Corporation you have been marooned on a desolate planet in the Attria Prime system. Fight to survive the inhospitable frontier in this post-earth dystopia. AGP::Epica is tactical RPG intended for advanced players seeking a challenge.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/398120/header.jpg?t=1534355554",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster. Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 10 Storage: 6 GB available space Additional Notes: Keyboard Required. Gaming mouse Mouse4 and Mouse5 required for full range of skill functions.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Quad-core Intel or AMD processor, 3.5 GHz or faster. Memory: 16 GB RAM DirectX: Version 12 Network: Broadband Internet connection Storage: 6 GB available space Additional Notes: Keyboard Required. Gaming mouse Mouse4 and Mouse5 required for full range of skill functions.",
+    "reviews": []
+}

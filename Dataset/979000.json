@@ -1,0 +1,43 @@
+{
+    "app_id": 979000,
+    "name": "Abrakadaboom",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Argonauts Studios"
+    ],
+    "publisher": [
+        "Argonauts Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 15.4,
+    "description": "Face your friends as powerful wizards fighting in thematic arenas in this multiplayer party game that combines fun and intensity along with a gameplay that is both easy to learn and rich of subtleties. Get ready for lots of laughs and mayhem!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/979000/header.jpg?t=1555683292",
+    "minimum_requirements": "OS: Windows 7/8.1/10 (64-bit versions) Processor: Intel Core i5-760 / AMD Phenom II X4 965 Memory: 3 GB RAM Graphics: NVidia GTX 570 / AMD Radeon HD 6900 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7/8.1/10 (64-bit versions) Processor: Intel Core i5-2500K / AMD FX-8350 Memory: 3 GB RAM Graphics: Nvidia GTX 970 / AMD Radeon RX 480 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 554670,
+    "name": "Infektor",
+    "release_date": "2017-03-06",
+    "developer": [
+        "Rushing Vise"
+    ],
+    "publisher": [
+        "Rushing Vise"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Take control of a microbe and guide it through a hostile environment. Fight for your life in Survival mode and spread infection in Infect mode. Quick reflexes and smart use of environment are your only weapons in this challenging arcade style action game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/554670/header.jpg?t=1488814721",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1.6GHz Memory: 2 GB RAM Graphics: Radeon HD5450 or better; 256 MB or higher Storage: 128 MB available space",
+    "recommended_requirements": "Memory: 2 GB RAM",
+    "reviews": []
+}

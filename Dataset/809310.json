@@ -1,0 +1,43 @@
+{
+    "app_id": 809310,
+    "name": "Sipho",
+    "release_date": "2018-11-13",
+    "developer": [
+        "All Parts Connected"
+    ],
+    "publisher": [
+        "All Parts Connected"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 18,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "Sipho is an action survival game with an intricate building system. Grow your own creature and take over the local ecosystem. Fight, grow, survive, dominate.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809310/header.jpg?t=1556261704",
+    "minimum_requirements": "OS: Windows 7 32 bit Processor: Intel Core i3 2100 or equivalent Memory: 2 GB RAM Graphics: Nvidia GTX 460 or equivalent DirectX: Version 11 Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 7/10 64 bit Processor: Intel Core i5 2500k or equivalent Memory: 4 GB RAM Graphics: Nvidia GTX 750ti or equivalent DirectX: Version 11 Storage: 512 MB available space",
+    "reviews": []
+}

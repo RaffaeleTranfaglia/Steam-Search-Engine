@@ -1,0 +1,48 @@
+{
+    "app_id": 654050,
+    "name": "JYDGE",
+    "release_date": "2017-10-04",
+    "developer": [
+        "10tons Ltd"
+    ],
+    "publisher": [
+        "10tons Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Top-Down Shooter"
+    ],
+    "achievements": 15,
+    "positive_ratings": 380,
+    "negative_ratings": 58,
+    "price": 10.99,
+    "description": "Build your JYDGE. Enter Edenbyrg. Get out alive. Build your own cybernetic JYDGE in this lawful-but-awful roguehate top-down shooter where you get to eradicate crime in the never-sleeping megacity of Edenbyrg.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654050/header.jpg?t=1521465967",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 2 GHz Memory: 2048 MB RAM Graphics: SM 3.0+ DirectX: Version 9.0c Storage: 395 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

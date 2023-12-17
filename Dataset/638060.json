@@ -1,0 +1,44 @@
+{
+    "app_id": 638060,
+    "name": "Majestic Trials",
+    "release_date": "2017-10-03",
+    "developer": [
+        "Alpha Strike Games Limited"
+    ],
+    "publisher": [
+        "Alpha Strike Games Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 26,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "Majestic Trials is a turn-based fantasy tactical game where you must compete in increasingly challenging trials to earn your place within the Majestic Citadel.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/638060/header.jpg?t=1521162867",
+    "minimum_requirements": "OS: Windows 7, 8.1 or 10 Processor: Intel Core 2 2.0 GHz or better, AMD FX-4100 or A4-4000 or better Memory: 2 GB RAM Graphics: Accelerated GPU with at least 256 MB RAM DirectX: Version 9.0c Storage: 250 MB available space Sound Card: Optional",
+    "recommended_requirements": null,
+    "reviews": []
+}

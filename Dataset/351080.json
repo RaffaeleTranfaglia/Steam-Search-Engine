@@ -1,0 +1,50 @@
+{
+    "app_id": 351080,
+    "name": "The Corporate Machine",
+    "release_date": "2015-03-25",
+    "developer": [
+        "Stardock Entertainment"
+    ],
+    "publisher": [
+        "Stardock Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Management"
+    ],
+    "achievements": 0,
+    "positive_ratings": 40,
+    "negative_ratings": 29,
+    "price": 6.99,
+    "description": "Stardock's classic 2001 real-time economic strategy game, available now on Steam. Dive back into the timeless battle for one of the most ruthless environments ever created: international trade.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351080/header.jpg?t=1532975828",
+    "minimum_requirements": "OS: Windows 95 or newer Processor: 75 MHz Pentium Processor or better Memory: 32 MB RAM Graphics: 8 MB DirectX Compatible 16-bit high-color video card Network: Broadband Internet connection Storage: 300 MB available space Additional Notes: Multiplayer through Stardock .net requires forwarding port 5011 on your router to your game PC. Please <a href=\"https://steamcommunity.com/linkfilter/?url=http://portforward.com/english/routers/port_forwarding/\" target=\"_blank\" rel=\"noopener\"  >click here for help with port forwarding or contact your router manufacturer for additional port forwarding support.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "decent game, but a bit overpriced. i played one game to completion and found that theres not enough going on for the $10. id wait to pick this up on sale for around $5-7.00 unless you really like these type of game,  i personally expected a bit more,",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game. I have the crashes that everyone else describes but if you reopen game and press continue, it restarts where you left off. Its like the crash is associated with an autosave.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple and fun. The only thing its missing is there is no steam mod options. If this game added steam mod support so that adding mods would be as simple as searching steam and clicking a button this would be perfect.",
+            "review_score": "1"
+        }
+    ]
+}

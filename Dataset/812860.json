@@ -1,0 +1,42 @@
+{
+    "app_id": 812860,
+    "name": "Genius Calculator",
+    "release_date": "2018-03-23",
+    "developer": [
+        "XiNFiNiTY Games"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 9,
+    "negative_ratings": 8,
+    "price": 0.99,
+    "description": "Genius Calculator is a game that will challenge all your math skills and turn you into a real human calculator.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/812860/header.jpg?t=1521825349",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 1 GB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

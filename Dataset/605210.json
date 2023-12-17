@@ -1,0 +1,40 @@
+{
+    "app_id": 605210,
+    "name": "The Last Tree",
+    "release_date": "2017-05-31",
+    "developer": [
+        "Dalibor Kamnjanac"
+    ],
+    "publisher": [
+        "Back To Basics Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 32,
+    "positive_ratings": 12,
+    "negative_ratings": 5,
+    "price": 1.59,
+    "description": "The year is 2092 and the last tree on Earth, Ungrodo, is being hunted. But he has a special ability - TIME SLOWS DOWN WHEN HE MOVES. Also, Ungrodo is pretty good at puzzles. Would you save him?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/605210/header.jpg?t=1496247331",
+    "minimum_requirements": "OS: Windows 7/8/10 (64-bit) Processor: Intel CPU Core i3 Memory: 2 GB RAM Graphics: Nvidia GTX 460 DirectX: Version 11 Network: Broadband Internet connection Storage: 800 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 (64-bit) Processor: Intel CPU Core i7 Memory: 4 GB RAM Graphics: Nvidia GPU GeForce GTX 660 DirectX: Version 11 Network: Broadband Internet connection Storage: 800 MB available space",
+    "reviews": []
+}

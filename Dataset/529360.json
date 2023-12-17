@@ -1,0 +1,40 @@
+{
+    "app_id": 529360,
+    "name": "Void Rangers",
+    "release_date": "2017-05-11",
+    "developer": [
+        "Martin Senovsky"
+    ],
+    "publisher": [
+        "Martin Senovsky"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 34,
+    "positive_ratings": 27,
+    "negative_ratings": 7,
+    "price": 8.99,
+    "description": "Fast paced arcade first person shooter defense game for VR devices. Randomly generated loot, Endless waves, Upgrades &amp; Leaderboards. Our galaxy is under attack by our own AI and only you can stop it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/529360/header.jpg?t=1494530984",
+    "minimum_requirements": "OS: Win 7 or higher Processor: Intel i5-4590 Memory: 8 GB RAM Graphics: GTX 970 DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Win 7 or higher Processor: Intel i7-4770 Memory: 8 GB RAM Graphics: GTX 970 DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

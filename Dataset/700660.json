@@ -1,0 +1,40 @@
+{
+    "app_id": 700660,
+    "name": "Dice Tower Defense",
+    "release_date": "2017-09-15",
+    "developer": [
+        "Educational Games"
+    ],
+    "publisher": [
+        "Educational Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 38,
+    "positive_ratings": 58,
+    "negative_ratings": 26,
+    "price": 0.79,
+    "description": "Don't let the enemy destroy your kingdom! You must defend your positions in a merciless battle against an endless stream of invaders. Think carefully about your defense and survive as long as possible!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/700660/header.jpg?t=1505494669",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo or better Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: or better Storage: 300 MB available space Sound Card: any",
+    "reviews": []
+}

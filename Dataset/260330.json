@@ -1,0 +1,73 @@
+{
+    "app_id": 260330,
+    "name": "Flockers™",
+    "release_date": "2014-09-19",
+    "developer": [
+        "Team17 Digital Ltd"
+    ],
+    "publisher": [
+        "Team17 Digital Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Lemmings",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 122,
+    "negative_ratings": 39,
+    "price": 14.99,
+    "description": "New from the creators of Worms, Flockers is a modern day take on the classic A to B puzzle genre with a generous helping of dark humour for good measure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/260330/header.jpg?t=1549536653",
+    "minimum_requirements": "OS: Windows XP or Later Processor: Dual Core CPU or faster Memory: 4 GB RAM Graphics: Intel HD4000, Radeon HD 4650 (512MB) or NVIDIA GeForce 8600GT Network: Broadband Internet connection Storage: 8 GB available space Sound Card: Windows Compatible Card Additional Notes: Note: In some instances, systems may require model specific drivers. If your system manufacturers no longer support hardware under this category, it may not be possible to run this title. Should this be the case, we are unable to assist you and recommend that you pursue support from your respective system manufacturer. This issue is most common in laptops and is prevalent with select products from most leading manufacturers. GPU that supports OpenGL 3.3 or higher",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Basically it's 'Lemmings' game of old, but with sheep. Fun and frolics for many hours.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lemmings but harder, cant wait for someone to Mod the actual lemmings into it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a lot of fun to play; it's like Lemmings but with lots of gore!!  There is a lot of variety and the puzzles are fun to play.  Graphics are fantastic. My only criticism is that the mouse input feels extremely sluggish, it would be better if this game took advantage of hardware cursor input.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is about helping all the Sheep from being tortured, slaughtered, murdered.... by making them jump like Hulk, fly like Superman or make themselves build a ladder, a bridge or even suicide bomber like Chuck Norris ᕙ(｀皿´)╯ And about me, i'm enjoy watching them slaughtered by the killer machine :lol: - 10/10 best game to relieve stress and and one thing more to remember: No 'real' sheep were harmed during the making of this game.  Enjoy !!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A decent enough game if you can get it cheap and enjoyed Lemmings. Strangely it seems to lack a lot of the charm of Lemmings despite being almost exactly the same game. I think the problem is the physics engine, it makes the game more about getting the timing bang on right rather than trying to solve a puzzle. This makes it very unforgiving and it's easy to lose all your sheep because you were half a second off the pace required for the level.  Unfortunately there is a massive problem with the controls for the game. Even with the mouse sensitivitly turned right down the game pans from one side of the map to the other in the blink of an eye and zoom seems to be all or nothing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't recommend for technical reasons. No idea about gameplay apart from tutorial.     Reason #1 : Mouse accelleration.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Does not live up to Lemmings.",
+            "review_score": "-1"
+        }
+    ]
+}

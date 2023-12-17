@@ -1,0 +1,41 @@
+{
+    "app_id": 480450,
+    "name": "Floppy Heroes",
+    "release_date": "2016-09-13",
+    "developer": [
+        "Matthew Kania"
+    ],
+    "publisher": [
+        "Matthew Kania"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 239,
+    "negative_ratings": 13,
+    "price": 1.99,
+    "description": "Floppy Heroes is a ragdoll physics brawler with dismemberment, a wide range of weapons and armor, very simple controls, and custom battles playable with up to 6 local players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/480450/header.jpg?t=1482400679",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core 2 Duo 2GHz+ Memory: 1 GB RAM Graphics: DirectX9 compatible graphics card DirectX: Version 9.0 Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 950810,
+    "name": "SquareWorld Unpixeled",
+    "release_date": "2018-10-26",
+    "developer": [
+        "SnowEagle Entertainment"
+    ],
+    "publisher": [
+        "SnowEagle Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Sandbox"
+    ],
+    "achievements": 10,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "Explore a randomly generated universe full of unique planets! Build whatever comes into your mind with hundreds of blocks available! Mine for precious treasures and dungeons! Play alone or with friends, create or destroy, explore or build up a home. Choose your way of playing.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/950810/header.jpg?t=1545331187",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 2GHz Memory: 2 GB RAM Graphics: 512 MB VRAM, OpenGL 2.1 DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Quad Core 2GHz+ Memory: 3 GB RAM Graphics: 1024 MB VRAM, OpenGL 2.1 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space",
+    "reviews": []
+}

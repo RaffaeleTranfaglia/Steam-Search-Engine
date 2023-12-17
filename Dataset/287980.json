@@ -1,0 +1,680 @@
+{
+    "app_id": 287980,
+    "name": "Mini Metro",
+    "release_date": "2015-11-06",
+    "developer": [
+        "Dinosaur Polo Club"
+    ],
+    "publisher": [
+        "Dinosaur Polo Club"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 45,
+    "positive_ratings": 7464,
+    "negative_ratings": 288,
+    "price": 6.99,
+    "description": "Mini Metro is a strategy simulation game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/287980/header.jpg?t=1542701556",
+    "minimum_requirements": "Mínimo: SO: Windows XP, Vista, 7, 8, 10 or later Procesador: 2 GHz or faster processor Memoria: 2 GB de RAM Gráficos: Shader Model 4.0 DirectX: Versión 9.0c Almacenamiento: 350 MB de espacio disponible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Mini Metro is an extremely polished, well made game by Dinosaur Polo Club (which is an amazing name, btw).  The premise is that you are designing the layout of a subway/train system to get people where they want. Instead of cluttering the gameplay with stats and names, everything is abstracted and simplified for a very smooth experience.  I have 87 hours on record on steam, and many more on their alpha version they had on their website previously.  You start on a map with 3 stations: A Square, a Triangle, and a Circle. At each station, passengers will appear and your job is to connect these stations so they can get to where they want. When a passenger appears, he will appear as a symbol, for example, a square. And the goal is to bring them to a station that matches their own symbols.  The trains themselves are smart, and will only pick up passengers that can be dropped off down the line OR allow them to switch lines at an interchange to get where they want.  As the game progresses, the map zooms out so and new stations are added. You will face increasing difficulty in the presence of unique symbols (which reinforces the need for efficient interchanges), as well as GLUT OF CIRCLES that is the doom of all system designers (once you play it, you will see what I mean).  Different game modes exist depending on your tastes:   Normal - The standard game where you can adjust/move your tracks at will Endless - Relaxed gamemode where you can play as long as you want with no loss condition Extreme - Tracks are permanent, so future planning is important!  They also have a Daily Challenge mode where you get to play the exact same layout as everyone else, so you can measure exactly how you stack up to other people.  Everything has Leaderboards, of course, so you can marvel at how some people can achieve the results they managed.  Non-Gameplay elements are also polished, pleasant music, smooth/clean UI, are all very appreciated.          YouTube™ Video:  Quick Introduction: Mini Metro&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Minimalistic gameplay and art at its best.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sid Meier says a game is a series of interesting choices. Mini Metro pares right down to the essentials: every single action you take is an interesting choice. You will never quite have all the resources you need to make the system fully efficient, so how will you allocate what you have? Time becomes a resource -- can you afford to spend time to contemplate a better arrangement?  Playing in normal mode, each game lasts about 15-20 minutes, so it's nice for when you have a smaller block of time. The interface is more sophisticated than the minimalist-looking screenshots might lead you to believe. The sounds and music are subdued and soothing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game... simplistic in concept, difficult to master. The minimalist graphics have a nice look to them and convey the information you need. The different layout of stations every time you play, and having to choose between new trains, train capacity, new lines, bridges, etc. make this endlessly replayable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I fell in love with Mini Metro from the first time I saw it, when it was the result of the Ludum Dare compo. It had a brilliant strategy of releasing a web-playable demo (RIP Unity Web Player), a demo so good that you could simply play it there and not buy the game.  But the guys at Dino Polo Club announced the Early Access, which I propmptly bought, as the potential with this game was really visible. And it did not disappoint. I am someone that is not much into narratives, but rich gameplay, and this is what this game offers: rich, profound gameplay.  In Mini Metro, you are the planner of the transportation system of a very abstract city. Stations with specific shapes will pop up all around the city, and characters will pop up in those stations. These characters will wait in the station for a train to pick up them, and the characters's destination matches their own shape. You will be able to lay down the train tracks and, depending on the mode you're playing, you will be able to change them to accomodate a bigger volume of people. If too many people remain in the station, however, the station will overcrowd and a timer will start. If the timer completes, you lose.  The best part of this game, though, is the soundtrack. You will not find it anywhere, except on Gameplay videos, as it is generated for all the action that is happening in the level: when characters pop up, when you change the lines layout, etc. The music is composed by the great Disasterpeace, so if you like his music, you'll love Mini Metro's music for sure.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great little game. Very simple concept, but with the little variations and the random placement of stations, every game feels slightly different. If you like optimization, this is a good game to get.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Greetings fellow gamers! This is Gamer Guy (In a Suit) from the Echo Army YouTube channel! Today I am bringing you a review of an intriguing little puzzler, Mini Metro. Mini Metro was officially released onto Steam on November 6th, 2015 by Developer/Publisher Dinosaur Polo Club and Publisher AGM Playsim.   (NOTE: This was a review from a game in my own Steam library, it was NOT provided by the Developer and/or Publisher)  Video Review:          YouTube™ Video:  Mini Metro Review - Steam&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is the end of the school year and, as a school teacher, I ampretty much left with nothing to do while waiting for summer break. So, there is this day when I am done with clearing my seat (we were renovating our office) and was sitting with my Macbook Air (MBA in short) looking for something to play. My steam would not download any games in school as the school has blocked all gaming sites (IP I presume), even for staff, and I am too lazy to set up a VPN. My MBA could not handle anything that is too graphical (if you know what I mean), so I went and start Mini Metro.   The game is minimalistic, easy to understand, and fun. It is simply connection lines, shapes and moving rectangles that are presumably train carts. There is nothing intriguing about it, yet it is simplistically attractive, bite size (a game last around 3 to 5 minutes) and an extremely effective remedy for symptoms arised from office boredom, such as yawning and drowsiness.   After a couple of rounds, my boss, the department head, walked pass. She looked at my monitor, and asked, 'are you playing a game?'  It took me around two seconds to give her an appropriate.   'Nope. I'm working on a set of powerpoint slides for my class.'   'Oh, okay.' She walked away after that.  Well, that worked well, except that I no longer have any classes after that.   Still, great game for these kind of situations. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun and simple game. It's a shame it becomes quite hard after you hit 1000 passengers, but I think that's the point of the game: playing quick games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A real minimalist masterpiece. Simple visuals, simple sound, and simple mechanics combine to produce a deeply compelling game. Fantastic.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice quick to pick up and harder to master simulation game. The mechanics are wonderfully straight forward and simple, but the complexity of managing the lines with limited resources leads to a hectic micromanagement game very rapidly.  The only drawback is that there seems to be a bug with the sound where various sound effects can end up looping and will require restarting the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really like Mini Metro! 9/10  If you like management games I'd totally recommend this game.  -It's fun! (no ♥♥♥♥ sherlock, but I mean REALLY fun) -It's easy to understand -It's as hard, or easy, as you want -It has good simple graphix -You can spend alot of time to gain all achievements -It's unique, you wont find much gameplay like this  Only two small bad points: -The tracks dont always go the way you want, you have to get used to how to place them exactly how you want.  -You are limited at how many tracks leave a station at one side.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;Ok, I just finished closing my lines. &gt;Oh, a circle just appeared, better connect that. &gt;Oh, another circle, right next to the last. &gt;... another circle. &gt;circle. &gt;circle. &gt;circle. &gt;stations are now clogged because of circles. &gt;.,.. &gt;,,,, &gt;.... &gt;A SQUARRREEEEEEEEEEEEEEEEEEEEEEEEEEEE!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought Mini Metro when it was in Early Access for the first two or three months. I loved it, but there was a lot missing, which was expected for such an early version of the game. I forgot about for a long time, and when I remembered how the game was fun, I decided to check it out, since it was officially released. The game is great! It's pretty casual, the sounds are great (and I personally love how each new line has it's own sounds), and there are almost no problems, the only one I've encountered in 3.8 hours of game was that the sound glitched and turned into a one-tone buzz that was only fixed by restarting the game. I definitely recommend this if you appreciate casual strategy games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun puzzle game, different from what else is out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is perfect for those times where you just want to relax and enjoy a simple yet hard puzzle game. Its perfect if you ever want to just relax and play for fun. I really recommend this for anyone. Life can be stressful and hard so a simple game like Mini Metro is perfect for those hard times where you lose sight of whats good in life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like all great games this is simple to play but so very hard to master.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro :) [8/10]  A very intersting &amp; simple puzzle strategy game that requires you to construct an efficient &amp; well-organized rail transit network in several cities in order to hold out for more time &amp; have more passengers before you have a crowded node or a station.  I recommend this game to any player who's interested in puzzle &amp; simple strategy.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is a fun minimalist strategy/puzzle game. Unlike many strategy games, each run lasts maybe 20-30 minutes, so it's great for playing one sitting at a time. You can pause whenever you like, so even when it gets tough it's not heavily stressful or anything. Combined with the dynamic soundtrack by Disasterpeace (you might know his music from Fez), it's a lovely game great for when you want to sit back, relax, and play a quick game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm a cognitive science undergraduate student. I think this piece of gem demostrated some foundamental qualities of a network model that appears often in every aspect of life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun little game. Seems simple at first but soon builds to a real challenge.   I am loving it.  Where did my day just go?   One more go....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Now I finally realize that Hong Kongers are rather patient when waiting for the MTR during rush hour",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is meditative and satisfies my need to build things until they fail, and then do it all again. The simple graphics, reminiscent of maps you might see at a train station, which is perfect. I love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has everything: it's easy to learn but hard to master, it has a lot of varienty (different maps, trains, etc.), and also the musics are amazing. I particularly enjoy it as a casual game, but that has also challenging elements that keep you coming and play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really quite thereputic!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple yet effective. Beautiful presentation and implementation. A game that everyone should have in their library.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is simple, clean and just works. It's a great game to spend hours in designing the most optimal city metro system or spend a quick 10 minutes to just complete a challenge. It's beautiful art-style, transistions and aesthetic are incredible, even more so when you realise that it brings the metro maps to life with every change you make.  Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ever wondered in your 'efficient algorithms' class why you need min-cut, max-flow, shortest path etc? Mini-Metro has and is the answer!   Highly addictive!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's one of those games that you bypass because it looks too simple (or boring), but you should still try it. You will like it (hopefully).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for people with interest in controlling a system",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game should not be this addictive 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm a huge Transport Tycoon fan, and I love the asthetics of this game. The music grated a bit after I played a couple of in game weeks on a map, but I can already tell I'm going to spend a lot of time with this one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So minimalist, so good. But interest fades after an hour",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is gorgeous and deceptively hard. I'm not usually one for puzzle games, but this is addicting. At least until people get ♥♥♥♥♥♥ from waiting",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really nice little strategy problem solver. As the level progresses it has enough to keep the frantic entertained and at lower levels is a fun little puzzler. The way the sound integrates with the game is beautful. The soundtrack is essentially composed from the activity on the network. Well worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty much a game for you to be playing while you wait for something else. But still, its like for making time pass.  10/10 -IGN 'Would recreate tunnels again'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very simple and addictive if you love trains!!! SUPER FUN I LOVE IT RATING: 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love how some games are so simple and yet so good and addictive. I'm loving this!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got my knickers in a knot. Will tie myself up again any day.   11/10 (+1 for touch support)  Update: got it here, getting it on Android.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Uh Not too sure what to write here so heres a recipe for Pancakes instead  Ingredients: 1 1/2 cups all-purpose flour 3 tablespoons sugar 1 tablespoon baking powder 1/4 teaspoon salt 1/8 teaspoon freshly ground nutmeg 2 large eggs, at room temperature 1 1/4 cups milk, at room temperature 1/2 teaspoon pure vanilla extract 3 tablespoons unsalted butter, plus more as needed  Now to make it 1. In a large bowl, whisk together the flour, sugar, baking powder, salt, and nutmeg. 2. In another bowl, beat the eggs and then whisk in the milk and vanilla. 3. Melt the butter in a large cast iron skillet or griddle over medium heat. 4. Whisk the butter into the milk mixture. Add the wet ingredients to the flour mixture, and whisk until a thick batter is just formed 5. Keeping the skillet at medium heat, ladle about 1/4 cup of the batter onto the skillet, to make a pancake. Make 1 or 2 more pancakes, taking care to keep them evenly spaced apart. Cook, until bubbles break the surface of the pancakes, and the undersides are golden brown, about 2 minutes. Flip with a spatula and cook about 1 minute more on the second side. Serve immediately or transfer to a platter and cover loosely with foil to keep warm. Repeat with the remaining batter, adding more butter to the skillet as needed. 6. Procedure for adding fruit to pancakes: Once the bubbles break the surface of the pancakes, scatter the surface with sliced or diced fruit, or chocolate chips, nuts, etc. Flip with a spatula and cook for 1 minute more, being careful not to burn toppings.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simplistic on the surface, but really challenging once you get into it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was hesitating to buy this game and kept it on the wishlist for a longer while, as it seemed expensive. When the Summer Sale came, I decided to buy something I really wanted to play. I felt like a transport sim, but Cities in Motiton didn't get good reviews, while Cities:Skylines were not cheap enough for me. Therefore I had only one choice within my budget and - to my surprise - It seems to be one of the best games for me in my collection!  First off, one of my favourite games of all time are:  - FTL - a more or less typical rougelike with significant strategy portion  - Transport Tycoon / Locomotion series - where one of the main tasks is to build efficient networks  Combine the two above and you get MiniMetro :).  I'm a busy guy, and I don't have more than a couple of hours every day to play games. Therefore I turn more and more frequently to short games, that I can finish in a day or two, with high replay value. Mini Metro fits this description perfectly. Randomly generated stations are always a challenge (fourth circle or triange station in a condensed area drive me nuts!), while variety of cities encourage to try different strategies. I hope the descriptions will be added soon, although discovering the differences is also a kind of fun.  One can look at the game as 100 years of a city growth condensed to 15-30 minutes. There are no resources - every 'week' you get something to expand your network. It might seem strange, that you can re-rout your trains in any possible way. That way the creators avoided making the game extremely difficult - fortunately the 'extreme' mode exist, adding that piece of realism for hardcore city transport organizers.  With such minimalistic design, there is a lot of room for immersion. It's very easy to imagine that triangle and circle station represent every day destinations, like work/home/market. Square is probably a railway station or airport - unique but important. Then there is a bunch of unique ones, that can easily translate to a football stadium, hospital, or other touristic attactions. Even with no sound, you can hear all those crowds, looking at the train with six symbols - each representing a traveller and his destination.  One of the best things about this game is the fact, that you are 100% focused on the core - designing the network as efficiently as possible. You don't have to waste more than a few seconds to build the route or add/move trains. If Transport Tycoon was simplified to a white board and lines with rectangles instead of detailed tracks and trains, you could finish the game in a fraction of usual time.  Overall - GREAT game! I was not expecting that much from such small game.  It's still early access and the devs are working hard to finish it - updates/hotfixes are frequent.  FULL VERSION UPDATE: EVEN MORE AWESOME!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In short, probably the best game you will ever play about drawing lines to get that circle to the square.  Mini Metro is an action puzzle game. Probably the closest comparison to it is the amazing Trauma Centre.  I have been playing this game since the late stages of its early access. Unlike most early access games, it was playable and fun from an early stage. It didn't have music for the longest time, and honestly, probably still doesn't need it, although it does add to the experience.  Oh, and in case you care, it does the daily challenge thing every indie game does now.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A frustratingly brilliant game which I keep coming back to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For a concept so simple it is simply entrancing.  The music is generated by your own actions, train movements, the picking up and setting down of passengers, genius!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would like to see how much score my transport minister will get. LOL",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful in its simplicity. Recommend anyone give it a try, for the price you can't be disappointed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This... Is the best game EVER!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's so addicting!! The stations pop up in random places so I guess it's kinda like a Roguelike...? Different randomly generated games every time definately help with the replayability.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this while in early access as part of the Humble Indie Bundle.  I really like some odd games, I think my other reivews note that pretty well. I played a lot of city planners when I was younger, but I always got caught up in how complex they would be (damn you, SimCity 2000!). Mini Metro is a fantastic, stripped-down city planner: all you have to worry about is getting people on to trains, and off of trains. It's incredibly engaging and relaxing, and after the most recent update, includes a great procedural soundtrack from Disaterpeace (Hyper Light Drifter, FEZ) that I wish I could just leave running while I'm working. It's endlessly replayable, and just... so good. Excellent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "MTA Simulator 2015. Passes the time well and it's got some of the slickest presentation I've seen in a long time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple, challenging &amp; beautiful. Bring on Sunday.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One day and I'm obsessed. Wish they had the DC Metro!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a puzzle game, above all. It's not a building game. Yes, the maps you create can look cool - but they need to be efficient. It's all about keeping your stations unclogged and running smoothly. But you also need to make sure you're using your tunnels and trains well, because you have limited amount. Thankfully, you can rearrange your lines after they're complete. It took me a while to realize that, so that's why I'm mentioning it. As for the cities, thedifference is the shape of the rivers and shorelines. These will effect how you use your tunnels. After a few maps, it does get pretty difficult.  If you're looking for puzzle game with a unique theme, give this one a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very insteresting arcade-ish, addicting in some way... specially on the 'hardcore' mode.  A good one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting approach.  10/10 User interface",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game for the medatative optimizer in all of us. A relaxing game that uses minimal graphics to convey just enough information and get out of your way. I would have never thought that laying out and re-routing train paths would be so much fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very refreshing and crisp experience. Arguably the best puzzle game I have EVER played in my life. The design is superb and the gameplay is incredible. It has very simple rules and it's easy to pick them up. However as time goes on the matches become more and more challenging. The thing I liked the most about this game is that in a certain way it feels like a tycoon sim, you don't have money per se but every week you survive in the game grants you new resources for you to allocate as you wish. Overall a very good game, definitely recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a game that anyone can play. Thats not to say its easy, there is plenty of challenge in building a minimetro, and surviving the onslought of hundreds of passengers, but this game is elegant in a way few games can ever achieve. Setting up the difficulty in the form of a survival mode is brilliant. Definitely worth the money if you are looking for a more relaxed (But still deep) experiance.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok just got the game and only played for 2 hours. You may think its one of those lame boring games that is pricy oh noooo it is not! This game is well worth the price it is problebly the most addictive arcade game i have played. Its fun. Its unlemited. Its cool. Its amazing I rate it 11/10 This is the first game is when i lose i dont rage!   Get it if bored! Get it if want to try something new! Get it if you love stragety! Get it if you dont have the best pc for graphic games!  Garanteed Addictive!!!!!!!!!!!!!!!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short, fun, easy, something my 7 year old little brother could play and enjoy. Get it on sale!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome! It reminds me of Spacechem because it has the same depth and replayability. Highly recommended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For such a minimialistic game, it's incredibly engaging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VERY cool! It looks simple but once you get into it you start to realise how complex your subway can be.  I'm not sure I'd play it a lot but there's plenty of challenges and achievements to get you addicted if you're into that kind of thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini metro is an absolutely fantastic game. The first thing to say about it is that it is so elegant. It's clean and not overcrowded with features or unnecersary complexity. Yet there is still time for a few cool features - such as the ability to output .gifs of your game.  It's also highly additcive and can be played for hours. This is because there are many cities and three game modes (normal, endless, and extreme). To unlock cities you need to complete milestones in normal mode (eg. transport 1000 passengers) and to unlock cities in extreme mode you need to complete even tougher challenges (eg. transport 1000 passengers using only 1 tunnel, transport 1600 passengers with no more than 1 locomotive per line).   In normal mode you can move lines to respond to new stations, in extreme mode they are fixed. In normal and extreme mode you recieve investment (eg. a new line, tunnels, trains or carriages - you can choose) at the end of each week and you loose as soon as a station overcrowds. In endless mode you recieve investment based on efficiency milestones and stations do not overcrowd.  This game is 100% worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun game to kill time Easy to pick up Recommended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple but great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game to chill and liaten to a music or a podcast while you create the colourful metro system in which you want to ride yourself, man",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the minimallistic aesthatic of this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Trains! Planes and.... nope just trains....  Mini metro had me straight away with its simplistic design and ability to place train lines anywhere whilst contending with population, customers, lack of lines and carriages and tunnels etc.  Standard puzzle game would not put this to justice! I mean like, having the strain of the train operatives from many many countries around the world, most i havent gotten to since ive gone on a train strike...like many before me! haha  Would recommend to a friend! Are you my friend?    Link to a short playthrough!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game exposes what rush hour on the Tube is really like.  A mass of squares, triangles and circles waiting impatiently as the station controller erects train tracks from the middle of nowhere.  It's a very accurate game and thus gets my seal of approval.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for when you have only a few minutes for gaming. Real time aspect of building the transportation infrastructure makes it challenging, although you can pause the action to re-plan and rebuild.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The last game where I enjoyed playing as much looking at just shapes is Tetris. Basically in this game you guide commuters (depicted in various shapes) to their respective station of the same shape.  Pro. Challenging to play as you're limited on resources like trains, how many tunnels you have across river, etc. Not to mention station pop-up every few minutes.  Con. Just like playing too much Football Manager, not realistic. Sponsoring this game for respective transport minister won't help him/her much on the job.  9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is a fun, casual game to play. It definetily has that addicting quality, but it still hasnt gotten old. Each time you play, there is a new map, new situation, and therefore, you need a new strategy. I highly recommend it 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's so addicting!! The stations pop up in random places so I guess it's kinda like a Roguelike...? Different randomly generated games every time definately help with the replayability.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Veru Calm and peacefull aND engaging :) loved it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the Zen of RTS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A simple fune puzzler that can get frustating very quickly.  Recommended for all ages.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm gonna have to jump on the 'there has to be a neutral review option' bandwagon here. I'm not going to praise or describe the game much, so if you want a detailed review, go read someone else's.  My review is positive in that this game well deserves a try. It's just that it sh!ts me off how the game is not awarding me achievements that I should definitely have gotten. It's really frustrating having to sit through 20 minutes of intense thinking and planning and find out at the end of those 20 minutes that the game thinks you screwed up 19 minutes ago already. (You'll see what I mean when you go achievement hunting yourself.)  You want an enjoyable experience with this game? Ignore the achievements. At least until they get their act together and fix their criteria for them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, addictive, and great music. Dynamic levels so there is endless replayability.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-make a subway -passengers get angry -they shut down subway -wash -rinse -repeat  10/10 would move around shapes again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Totally worth buying!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Never thought that this game would be so much fun :) The graphics and the sound are really well made.  Also the game is very challenging (for me) if you want to reach the highscore. 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really enjoy the game, night mode is a nice touch I appreciate.  A few bugs, audio glitching one time after leaving a map most notably, overall excelent!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This simplistic game about linking geometric figures with colorful lines will make you feel as transportation mastermind. Definitely worth it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I suppose that most negative reviews here stem from not realizing that pausing the game to rework the network or reassign trains to lines to adapt to new conditions is possible and according to the rules.  For me a wonderful little game with high replay value and clean minimalist design I would dare to call art. I have played it before, now bought it also for my Steam account. I do not think it is overpriced.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's really great! Balanced, good design, challenging. An exciting game to follow through Early Access till release.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun and slick-looking game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simplistic on the surface, but really challenging once you get into it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Easy pick up and play game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a well thought out game and perfectly worth paying full price for. There is an almost zen art to the approach of it, as the music is based upon what happens in the game, tones for trains arriving, new passengers showing up, passengers being dropped off. I won't say it isn't hard, as there will be times that the randomly generated points will leave you high and dry with NO WAY to win the round. The iteration cycle is small though and it is really easy to jump right back in to give it another go",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A compelling puzzle game from a New Zealand development team, where you build a metro and try to use your limited resources to move all the people around the map before they get ♥♥♥♥♥♥ off at you.  Strongly recommend buying it from the Humble Store, as that'll get you the Steam key plus the Android version once it is released.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really neat minimalist train game about ferrying passengers through cities. Has an easy learning curve - the concepts in the game are intuitively clear right from the start. However, it still takes a satisfying amount of thought and planning to master the cities and to earn some of those higher level achievements. Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is a revelation; it's been a very long time since I last played a game so original and addictive.   Picking up the basics of the game takes moments, but the more you play it, the more you see the inherent depth in the game. The various playable cities at first seem very similar, but after a while you realise that each requires very different strategies.   The minimalist art design is excellent. The use of smooth crisp, sharply coloured diagrams really makes you feel like you are creating a tube map. It's amazing how immersive such a graphically simple game can be.  I have a few minor gripes; occasionally trains get stuck in the stations for no apparent reason. The random spawning of stations, whilst giving great replayability, can also sometimes make games unplayable. But these are minor issues and I hope they will be fixed soon,  The game is a natural fit for tablets and I'll be interested to see a release there, and hoping this will see it get more attention. In my view a real classic.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lot of fun for what it is, I really like it, but I wouldn't (and didn't) pay $10 for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably the most addictive game in my library. Works great on tablets/Win10 for passing time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Spectacular game. Minimalistic graphics and simple game play make for an excellent combination. This is a classic example of easy to pick up, hard to master kind of game. I would reccomend this game to anyone",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great puzzle/RTS game...and it has trains!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple and relaxing (then stressful) game. It's essentially a strategy/puzzle game where you draw lines between two points. Each game lasts probably around 15 minutes, and you get to feel like a genius city planner. The aethetics are great, but the music kinda feels underwhelming. Worth getting on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "beats freecell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A wonderful simple way to pass the time. This game keeps getting better with each release. Very stable, easy to learn and yet remains challenging all the time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game which is challenging but fun. It seems easy and boring but it gets hard and interesting very quickly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Soothing music, just enough pressure to get you interested and hooked up on the game, but not frustrated. Fun graphs of your performance as the mini metro network manager. And replay videos, which are always a great way to recap on a level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro starts out seemingly simple and easy, leading you to believe that with its minimalist art style that it will be a breeze to beat. Then you keep getting farther and farther into the game and the real challenge begins. Its relaxing, but frustatingly fun.  If you have time to spare, I would definitely suggest you play this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gets you addicted quick! Thumbs Up but I think it need more emphasis on legends and icons.. what do they mean.. why is it better to line up a circle after a hospital (cross) ...etc. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great simplistic game for optimizing subways.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "simplistic and brilliant, even though i'm crap at it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  I enjoy this game a lot. Honestly the simple gameplay has a great balance of both relaxing and entertaining. It is a game I find myself starting up when I can't decide on anything to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game. Has greatly exceeded my expectations.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finding myself playing this at all times of day, just so well made and addictive. I just need to get better at it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super addictive, I definitely think it was worth getting the humble bundle just for this game. I get into a stressful trance, which is definitely an interesting combination.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is crack cocaine. Between the great music, minimalist graphics and providing that itch for endless optimisation, it creates an environment where your perception of time is distorted.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is lovely. Build your own metro lines! Simply drag from one station to another to draw your line. The three basic stations are circle (common), triangle (uncommon) and square (rare), passengers will want to travel from their current station to a station that matches their shape, e.g. a triangle passenger currently at a circle station will want to go to a triangle station. Over time new unique station variants appear to complicate the map and other extras are introduced slowly.   Pros: + Intuative gameplay + Very nice minimalistic art, simplistic interface and controls + Relaxing background music and sound effects gel well with theme + Idividual games are not too long, generally 30 minutes (+/- 10 minutes) + Each map is different, with different rules and regulations, such as the maximum number of trains per line or number of seats per carriage - this is not explicitly stated in game (that I have seen) but these are nice to stumble across + Very relaxing, a great game for stress reduction + Features an even less stressful endless mode + Very addictive  Cons: - Removing stations from the middle of a line can be a bit fiddly but you will eventually get the hang of it (drag the line inbetween the station you want to remove and the next station over the station you want to remove)  - The random station spawns can get frustrating when you have 5 circles in a row!  Would very much recommend to anyone, especially for someone looking for a relaxing puzzle game or a building game  5/5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't be deceived by the simple look of this game: very addicting, very fun. Great gameplay. Pick this up!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic little game. Although it may not appear to be as in depth as some other games for a similar price, the devil really is in the detail and you'll spend countless real hours getting your imaginary trains to pick up imaginary passengers as efficiently as possible. Worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved it! Wish there were more levels though ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game that will let you prove to yourself that you really could have designed your cities public transit better than those jerks who were put in charge. A++. Would ego stroke again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is lovely. Build your own metro lines! Simply drag from one station to another to draw your line. The three basic stations are circle (common), triangle (uncommon) and square (rare), passengers will want to travel from their current station to a station that matches their shape, e.g. a triangle passenger currently at a circle station will want to go to a triangle station. Over time new unique station variants appear to complicate the map and other extras are introduced slowly.   Pros: + Intuative gameplay + Very nice minimalistic art, simplistic interface and controls + Relaxing background music and sound effects gel well with theme + Idividual games are not too long, generally 30 minutes (+/- 10 minutes) + Each map is different, with different rules and regulations, such as the maximum number of trains per line or number of seats per carriage - this is not explicitly stated in game (that I have seen) but these are nice to stumble across + Very relaxing, a great game for stress reduction + Features an even less stressful endless mode + Very addictive  Cons: - Removing stations from the middle of a line can be a bit fiddly but you will eventually get the hang of it (drag the line inbetween the station you want to remove and the next station over the station you want to remove)  - The random station spawns can get frustrating when you have 5 circles in a row!  Would very much recommend to anyone, especially for someone looking for a relaxing puzzle game or a building game  5/5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love trains and I love maps, and this game basically combines both",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A strict yet beautiful simplicity belies the fiendish depth of this puzzle of networking and decisions. Intuitive use of colour, symbols, animations, and sound allow the gameplay to be almost entirely independent of language requirements.  I was however left wondering for an explanation for the number and meter in the top right corner during the endless mode (where you focus upon efficiency instead of station overcrowding).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "────────────────────────▄▀▄  ─────────────────────────█─█  ─────────────────────────█─█  ─────────────────────────█─█  ─────────────────────────█─█  ─────────────────────────█─█  ─────────────────────────█─▀█▀█▄  ─────────────────────────█──█──█  ─────────────────────────█▄▄█──▀█  ────────────────────────▄█──▄█▄─▀█  ────────────────────────█─▄█─█─█─█  ────────────────────────█──█─█─█─█  ────────────────────────█──█─█─█─█  ────▄█▄──▄█▄────────────█──▀▀█─█─█  ──▄█████████────────────▀█───█─█▄▀  ─▄███████████────────────██──▀▀─█  ▄█████████████────────────█─────█  ██████████───▀▀█▄─────────▀█────█  ████████───▀▀▀──█──────────█────█  ██████───────██─▀█─────────█────█  ████──▄──────────▀█────────█────█ Look son ███──█──────▀▀█───▀█───────█────█ a good Game ███─▀─██──────█────▀█──────█────█  ███─────────────────▀█─────█────█  ███──────────────────█─────█────█  ███─────────────▄▀───█─────█────█  ████─────────▄▄██────█▄────█────█  ████────────██████────█────█────█  █████────█──███████▀──█───▄█▄▄▄▄█  ██▀▀██────▀─██▄──▄█───█───█─────█  ██▄──────────██████───█───█─────█  ─██▄────────────▄▄────█───█─────█  ─███████─────────────▄█───█─────█  ──██████─────────────█───█▀─────█  ──▄███████▄─────────▄█──█▀──────█  ─▄█─────▄▀▀▀█───────█───█───────█  ▄█────────█──█────▄███▀▀▀▀──────█  █──▄▀▀────────█──▄▀──█──────────█  █────█─────────█─────█──────────█  █────────▀█────█─────█─────────██  █───────────────█──▄█▀─────────█  █──────────██───█▀▀▀───────────█  █───────────────█──────────────█  █▄─────────────██──────────────█  ─█▄────────────█───────────────█  ──██▄────────▄███▀▀▀▀▀▄────────█  ─█▀─▀█▄────────▀█──────▀▄──────█  ─█────▀▀▀▀▄─────█────────▀─────█  ─█─────────▀▄──▀───────────",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun game for those who want an ever changing world where every desicion you make effects the gameplay",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mini Metro is a really enjoyable game with a beautifully minimalist art style and an amazing UI. It's actually kind of ridiculous that I could accumulate over 10 hours in a game so simple, but I managed to because this game is just so replayable. You'll find yourself trying over and over to top your previous scores, but not really in a fursturating way. There's a lot of strategy required to really rack up the big numbers, and those strategies change drastically from map to map. The sound design in this game is pretty cool too, the more passengers are being escorted, the more of a melody is played, and this goes well with the previously mentioned art style. One thing that's nice about this game is that you only need to use the mouse, unless you want a quicker way to pause. It's really nice if you, for whatever reason, can't use one of your hands during play. There's also daily challenges to keep you coming back, a good feature, but I didn't use it much. That's okay though - there's enough ways to challenge yourself between the 3 gamemodes and 12 maps. My only major issue with this game is the price point, however. $9.99 is a lot to ask for a game this simple. If it's on sale for $3 or maybe $6 less, it's definitely worth it, pick it up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very addictive game which can be enjoyed by all ages. Easily recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Therapeutic, relaxing and clever. This game is beautiful in artstyle, gameplay and consept! 10/10 Buy it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A cunning and cleanly designed game which can entertain for hours on hand. - Got it on humble bundle for $5.99, certainly worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an really awesome game. Very simple but mind-boggling.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fun simple game. You draw lines between stations and alter and enhance them over time to accomodate an ever growing number of passengers. It definitely goes with a minimalist artstyle and I love how the music grows as your network grows.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game reminds me of Railroad Tycoon in that you try to lay tracks for maximum efficiency given some constraints (funds in RR, number of tracks/trains/tunnels in MM). Great gameplay and tasty design. A very addictive game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Easy to learn, addictive and nice interface. It could be really irritating if you have a friend, who's score you just can't beat no matter how hard you try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple yet hard to master. Feeling relax to look at the train moving around.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an really awesome game. Very simple but mind-boggling.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simply the best mini game I played in a while. Simplistic, challenging fun for hours - all that for mini-bucks. Buy!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Trains! Feel the gratification of supporting an indie developer! Squares! White!  But seriously, this game is great fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "BEAUTIFUL graphics and surprisingly relaxing? $10 for twelve cities that play relatively similarly seems a little high, but I got it in a Humble Bundle for a lot less so I'm pleased with my purchase. Would love to see an iOS game so I could play it while actually on public transit.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just such a relazing puzzle game. Very simple to play but hard to master. Basically, you must manage traffic in a very aesthetically utilitarian interface (a metro map). Chill music and constant challenge. Well done.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the minimalist graphics / music. One of those great games thats easy to get into, but impossible to master.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the minimalist graphics / music. One of those great games thats easy to get into, but impossible to master.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just a easy and fun game to play",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so relaxing! Even when the passengers are getting mad at you for having slow trains.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game! Such a relaxing way to spend some time, until every single stop starts overcrowding. -_-",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There is something about this game that does it for me. From the sounds of running the metro correctly, to the challenge of finding the best path for the lines and carriages you maintain. It's very well polished, and extremely easy to learn.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I absolutely thrilled with this purchase as this game is addictive and easy to pick up to play. Although it looks deceptively simple this game is quite deep as to really succeed in the game good planning and problem solving skills are required. Love the simple subway map graphics and the music just sets a great relaxing mood. Lots of different maps to play based on a myriad of real life cities with each of their own little quirks.  Buy this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow, this game is really a killer. A Killer of Time. Great game, I play it everywhere I can, espacially on tablet. Less complex but still reminds me of Transport Tycoon Deluxe. Which I played for years and return to now and then..",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent replay value, great UI, a great way to spend a few minutes on a short gaming session.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastically replayable puzzle game with a beautiful minimalist aesthetic, boosted by a steady stream of updates (in the form of new cities to play in, each with unique mechanics).  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played the beta years ago and finally bought this a few days ago. This game is as fun as it is soothing, I often play it just to relax!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastically replayable puzzle game with a beautiful minimalist aesthetic, boosted by a steady stream of updates (in the form of new cities to play in, each with unique mechanics).  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is beautifully simplistic and I would recommend it to anyone who enjoys games where you can sit back and watch something you've built work its magic. If you enjoy transport managers you should give this game a try and in an odd way I would compare it to games like Factorio even.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Surprisingly simple, relaxing, soothing music and satisfying.  Logistics however gets very complex, very quickly... so the challenge (&amp; the 3 modes) are keeping me on my toes.  Working on macOS &amp; Windows just fine, and I'll certainly enjoy this game both at home and when I hit the road (I travel regularly.)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An overly frustrating exercise in futility.  The gameplay concept is sound.  It is not fun however. The maps rapidly progress from 'How can I optimize the traffic flow?' to 'For the love of all life on Earth please spawn another square station FUG IT'S ANOTHER CIRCLE WHY' or 'I need more tunnels but it's not choice at the end of the week, oh that's great a star station spawned in the most remote corner of the map across water.'  The scarcity of resources and sense of crushing futility is just too much. Not fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game doesn't really have much to offer and is pretty dang boring and repetitive. At some point (which happens fairly quickly) it justs gets stressful, but it's not enjoyable enough to make up for the stress,",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Sold as compatible with linux, yet it's not working at all on linux. My mouse and keyboard simply aren't detected, so I just can't play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Far Far too expensive for that little game!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This isn't worth buying!  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "it is a nice little game, fun, entertaining, but it crashes my computer a lot. i saw something about it being released on ios and if so i will try it out and hope it doesnt crash my ipad, but as it is i cannot recommend it. it is a very addictive game, and it is made all the worse by the fact the crashes get more frequent as you go on, meaning i got hooked on it and now i cant play it without crashing my computer in less than a minute, which sucks.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is very fun for the first ten minutes, but then the game gets extremely repetitive with no variety whatsoever. This is a game that should be a free Apple/Android game like Crossy Road or Flappy Bird. The gameplay is good, but it gets boring after about 1 session of gameplay. The maps don't really have much variety, almost always including a river. There is no option to change the difficulty, so you are basically just waiting for the game to get harder when you start out. There is also no easy mode, and the game is very hard for people just starting out. I would say that this game is definitely not worth the ten bucks.",
+            "review_score": "-1"
+        }
+    ]
+}

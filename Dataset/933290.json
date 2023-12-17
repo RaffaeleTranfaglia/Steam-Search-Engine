@@ -1,0 +1,40 @@
+{
+    "app_id": 933290,
+    "name": "PixelRPG",
+    "release_date": "2018-10-22",
+    "developer": [
+        "Fun Guy Apps"
+    ],
+    "publisher": [
+        "Fun Guy Apps"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "RPG",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "Travel across a pixelated game world and capture and evolve monsters along the way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/933290/header.jpg?t=1540244447",
+    "minimum_requirements": "OS: 10 Additional Notes: could run on a potato",
+    "recommended_requirements": null,
+    "reviews": []
+}

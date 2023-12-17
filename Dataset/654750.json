@@ -1,0 +1,42 @@
+{
+    "app_id": 654750,
+    "name": "Square x Square",
+    "release_date": "2017-09-06",
+    "developer": [
+        "Pirates Of Love",
+        "Arthur Doggo"
+    ],
+    "publisher": [
+        "Pirates Of Love"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 17,
+    "positive_ratings": 14,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "About: Square x Square is a local multiplayer game for 2 to 4 players.There are 12 hats, 12 weapons and 12 abilities to be chosen, totalizing 1,728 possible combinations.Every hat and weapon has a different status (attack, defense and speed) that directly interfere in their in-game status.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654750/header.jpg?t=1535505176",
+    "minimum_requirements": "OS: Windows Xp or higher Memory: 2 GB RAM Graphics: 128MB Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: 2GHz+ Memory: 3 GB RAM Graphics: 512MB Storage: 100 MB available space",
+    "reviews": []
+}

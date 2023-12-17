@@ -1,0 +1,43 @@
+{
+    "app_id": 564420,
+    "name": "Santa's Special Delivery",
+    "release_date": "2016-12-11",
+    "developer": [
+        "Drunk Robot Games",
+        "Effinvance"
+    ],
+    "publisher": [
+        "Cerulean Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Gore"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Santa's tracking who is naughty and nice - good boys and girls get gifts, bad boys and girls get coal, and absolutely rotten children get a code brown from Santa's downtown.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564420/header.jpg?t=1481527503",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: Dual Core 2GHz Intel or 2.8GHz AMD Memory: 2 GB RAM Graphics: ATI Radeon X1600 or NVIDIA GeForce 7600 or better Storage: 68 MB available space Sound Card: Version 9.0c Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

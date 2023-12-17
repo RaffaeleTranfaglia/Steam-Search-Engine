@@ -1,0 +1,47 @@
+{
+    "app_id": 717070,
+    "name": "R-COIL",
+    "release_date": "2018-02-05",
+    "developer": [
+        "Vector Hat"
+    ],
+    "publisher": [
+        "Vector Hat"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 12,
+    "positive_ratings": 23,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "&quot;It's the &quot;Dark Souls&quot; of space shooters-- at least for me.&quot; -mightycow88. R-COIL is a multidirectional shooter with a unique single button control scheme. Use the stick to aim and a single button to fire and thrust. Tap to fire. Hold to thrust. Each time you fire your bullet will push you back a little.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/717070/header.jpg?t=1529474082",
+    "minimum_requirements": "OS: Windows 7 and Up Processor: Core 2 Duo 2.66Ghz Memory: 512 MB RAM Graphics: 256 MB Graphics Memory and Directx 9.0c Compatible gpu DirectX: Version 9.0 Storage: 100 MB available space Sound Card: Onboard sound card Additional Notes: Gamepad or Mouse Required",
+    "recommended_requirements": null,
+    "reviews": []
+}

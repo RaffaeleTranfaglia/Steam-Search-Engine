@@ -1,0 +1,48 @@
+{
+    "app_id": 364790,
+    "name": "Voyage to Farland",
+    "release_date": "2015-06-02",
+    "developer": [
+        "Peculiar Games"
+    ],
+    "publisher": [
+        "Peculiar Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Rogue-like",
+        "RPG",
+        "Adventure"
+    ],
+    "achievements": 28,
+    "positive_ratings": 14,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Voyage to Farland is a tough as nails turn-based graphical dungeon crawler inspired by the cult classic Japanese Mystery Dungeon games.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364790/header.jpg?t=1450440395",
+    "minimum_requirements": "Memory: 1 GB RAM Graphics: OpenGL 2.1 capable graphics card Storage: 25 MB available space Additional Notes: Requires Java 1.6 or newer",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A roguelike for PC that actually feels like your playing a real Mystery Dungeon game! While the graphics are cute the game itself is extremely challenging. If you liked Shiren the Wanderer or any of the Torneko games then this game is for you!",
+            "review_score": "1"
+        }
+    ]
+}

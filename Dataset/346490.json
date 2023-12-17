@@ -1,0 +1,48 @@
+{
+    "app_id": 346490,
+    "name": "Toy Wars Invasion",
+    "release_date": "2015-05-28",
+    "developer": [
+        "Web Interactive Solutions"
+    ],
+    "publisher": [
+        "Web Interactive Solutions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "FPS"
+    ],
+    "achievements": 44,
+    "positive_ratings": 4,
+    "negative_ratings": 7,
+    "price": 8.99,
+    "description": "The neglected and despised toys of the world are angry and have escaped their forgotten toy box prisons and are seeking revenge. Fight 21 enemy from the beach to the model train store with an arsenal of 13 weapons and armed vehicles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346490/header.jpg?t=1447368169",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core 2.3 GHz or better Memory: 2 GB RAM Graphics: 256 MB SM 3.0 DX9 Compliant NVIDIA® GeForce 7800 GTX or better ATI® Radeon® HD 2900 GT or better DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: Internet connection for co-op gameplay",
+    "recommended_requirements": "OS: Windows 7 Processor: Quad Core 2.6 GHz or better Memory: 2 GB RAM Graphics: 512 MB SM 3.0 DX9 Compliant NVIDIA® GeForce GTX 260 or better ATI® Radeon® HD 5750 or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: Internet connection for co-op gameplay",
+    "reviews": [
+        {
+            "review_text": "Lots of action and enemies. Find the Jack in the boxes and hidden coins to get extra points which can be used to buy lots of different weapons from the Toy Box.  There are objectives like protect the construction workers as well",
+            "review_score": "1"
+        }
+    ]
+}

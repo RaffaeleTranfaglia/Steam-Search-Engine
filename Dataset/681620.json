@@ -1,0 +1,38 @@
+{
+    "app_id": 681620,
+    "name": "Cube Link",
+    "release_date": "2017-10-23",
+    "developer": [
+        "Hannes Delbeke"
+    ],
+    "publisher": [
+        "Hannes Delbeke"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 8,
+    "positive_ratings": 40,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "CubeLink is a flow puzzle game with a twist. By spinning the cube around you can connect colours in every direction. Unlock more challenging levels as you progress.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/681620/header.jpg?t=1514068287",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz Dual Core CPU Memory: 1 GB RAM Graphics: 256MB Graphics Card Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

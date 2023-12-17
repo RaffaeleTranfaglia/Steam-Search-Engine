@@ -1,0 +1,48 @@
+{
+    "app_id": 340600,
+    "name": "The Depths of Tolagal",
+    "release_date": "2015-01-05",
+    "developer": [
+        "Matthew Jennings"
+    ],
+    "publisher": [
+        "Matthew Jennings"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "achievements": 12,
+    "positive_ratings": 22,
+    "negative_ratings": 4,
+    "price": 2.89,
+    "description": "The Depths of Tolagal is an addictive roguelike dungeon crawler with an emphasis on tactical combat.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340600/header.jpg?t=1473801080",
+    "minimum_requirements": "OS: Windows 7 Processor: 2Ghz Dual Core Memory: 1024 MB RAM Graphics: Hardware accelerated graphics with dedicated memory DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The Depths of Tolagal has a forgettable name and is not the prettiest game on te block, but it is surprisingly engaging and well designed. It's almost more of a turn-based-combat-puzzle generator - like Hoplite with which it was rightly compare in RPS article - than a roguelike. The combat turns are divided in a small number of action points, so it's all about planning and positioning. With fast moving enemies it might mean trying to get as many hits in as possible (and maybe knocking them back or putting a shield up, or hiding behind a door - the options are there, and this is where it differs from Hoplite and puzzle games), while battles with slow enemies are more like a war of attrition... unless you make a mistake and allow yourself to be ambushed by some goblins.   Each enemy has a gimmick to keep things fresh: trolls can charge at you if you're in a straight line, cultists are invisible, only leaving a trail of smoke behind them, others have shields that they can raise meaning you have to hack through them. There are hardly any popcorn enemies, and you have to be thinking in almost every battle - except the first couple of levels, which are hard to mess up after you've played through them a couple of times, and can become boring in repeated playthroughs.   The only other criticism I can think of at this point (I've played some more in offline mode, but admittedly not enough yet) is the lack of variety. There are no classes, and so far I've come across a grand total of four different weapons, a shield and a ring of regeneration. Still, the game keeps it fresh by offering different attributes for the items that change the way you use them considerably. Also, there are no character stats and each new level comes with a choice of a passive skill that will also influence the whole run considerably - and there are a lot of them, although you're only given two random ones in each levelup to choose one from.   The game scratches a similar itch to Hoplite, and it does its thing very well. The combat system is well done, and the permutations of different item/skill combinations keep it from going stale quickly, but still I hope the game grows in variety some more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The fu king troll is still chasing me along with 2 trolls and 2 da mn spiders!!!, NOOOO!!!!, i'm gonna die again. He ll so it's life.",
+            "review_score": "1"
+        }
+    ]
+}

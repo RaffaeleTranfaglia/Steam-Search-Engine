@@ -1,0 +1,44 @@
+{
+    "app_id": 339110,
+    "name": "Plith",
+    "release_date": "2016-06-02",
+    "developer": [
+        "Ya2"
+    ],
+    "publisher": [
+        "Flying Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 16,
+    "positive_ratings": 16,
+    "negative_ratings": 16,
+    "price": 1.99,
+    "description": "Plith puts gamers in a spatial setting, where they have to manage several puzzle elements (mostly gears) and must make quick decisions which can simplify or complicate their path to victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/339110/header.jpg?t=1478036631",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 1 GHz processor Memory: 1 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "1st the game crashed instantly every time until I restarted my computer after install and now crashes after playing for a few min. There is horrible lag in the movement of the gears.",
+            "review_score": "-1"
+        }
+    ]
+}

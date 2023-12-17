@@ -1,0 +1,41 @@
+{
+    "app_id": 840060,
+    "name": "Good Doggo",
+    "release_date": "2018-04-30",
+    "developer": [
+        "Cozy Game Pals"
+    ],
+    "publisher": [
+        "Cozy Game Pals"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 5,
+    "positive_ratings": 48,
+    "negative_ratings": 8,
+    "price": 0.0,
+    "description": "Train your dog in this treat-balancing action game",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840060/header.jpg?t=1525156085",
+    "minimum_requirements": "OS: Windows Vista SP1+ Processor: 1.8GHz Dual-Core CPU Memory: 2 GB RAM Graphics: Integrated graphics Storage: 256 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

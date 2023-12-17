@@ -1,0 +1,45 @@
+{
+    "app_id": 1048100,
+    "name": "Peekaboo",
+    "release_date": "2019-03-29",
+    "developer": [
+        "Redaster Studio"
+    ],
+    "publisher": [
+        "Redaster Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 3,
+    "positive_ratings": 59,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Peekaboo — hide &amp; seek on the network. Players are divided into two teams: props and hunters. Props take the form of objects and adopt their physical properties, and hunters are trying with all their might to find them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1048100/header.jpg?t=1556561314",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7.1 SP1 / Windows 8.1 / Windows 10 (64-bit Operating System Required) Processor: Intel Core i3, 2.4GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 460 / AMD Radeon HD 6850 DirectX: Version 10 Network: Broadband Internet connection Storage: 850 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7.1 SP1 / Windows 8.1 / Windows 10 (64-bit Operating System Required) Processor: Intel Core i5, 2.8GHz Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 970 / AMD R9 390 DirectX: Version 11 Network: Broadband Internet connection Storage: 850 MB available space",
+    "reviews": []
+}

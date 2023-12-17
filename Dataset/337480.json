@@ -1,0 +1,43 @@
+{
+    "app_id": 337480,
+    "name": "Zombie Vikings",
+    "release_date": "2015-12-07",
+    "developer": [
+        "Zoink Games"
+    ],
+    "publisher": [
+        "Zoink Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Local Co-Op"
+    ],
+    "achievements": 33,
+    "positive_ratings": 182,
+    "negative_ratings": 44,
+    "price": 8.99,
+    "description": "From the creators of indie smash hit Stick It to The Man! comes a new one to four-player co-op stab-you-in-the-gut-a-thon. Embark on a dead funny adventure with the Zombie Vikings. A putrid posse sent on a mission through the most epic of worlds to retrieve Odin’s lost eye.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/337480/header.jpg?t=1458564729",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-Core 2.1 GHz Memory: 4 GB RAM Graphics: Nvidia GeForce GT 520 or better DirectX: Version 9.0 Storage: 5 GB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

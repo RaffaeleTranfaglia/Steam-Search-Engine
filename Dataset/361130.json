@@ -1,0 +1,54 @@
+{
+    "app_id": 361130,
+    "name": "Card Dungeon",
+    "release_date": "2015-06-02",
+    "developer": [
+        "Playtap Games"
+    ],
+    "publisher": [
+        "Playtap Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 17,
+    "positive_ratings": 29,
+    "negative_ratings": 19,
+    "price": 4.79,
+    "description": "Take on the invading hordes of the Nethermists as The Crusader and fight, think, and strategize to clear the monster infested, randomly created, dungeons in this card, board, and turn-based rogue-like.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/361130/header.jpg?t=1447372040",
+    "minimum_requirements": "OS: Windows XP and up Memory: 2 GB RAM Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I wish there was a 'neutral' option...  TL;DR: I got my moneys worth out of it, but if you're looking for a challenge, you better give it a pass.  I like all sorts of Rogue-likes and while I am usually not exceptionally good at them, I beat this one with my very first character in about 6hrs (6.5h according to steam, with some small breaks in between).  I like the mechanic of cards (everything is a card, spells, abilities, equipment) wearing out after using them for a while, but once I got my head around the basic strategy of    1) Search for the boss, kill him and everything in between with the cards I feel comfortable with, WITHOUT looting anything at all 2) Search for the Chalice which may or may not completely repair your cards 3a) If your cards are repaired, loot for upgrades only 3b) If not, replace your cards with new ones 4) Leave the level   it felt a bit grindy towards the end. The enemies don't get much stronger and only slightly 'bullet spongy'.  Improvements could be made regarding to controls and UI but for the most part it works. Only the scrolling is complete bullocks right now: scrolling with the mouse stops when your invisible cursor hits the edge of the screen (I guess), and scrolling with keyboard (WASD) means if you release them it will instantly snap back to your character - which posed some serious problems when trying to look at monster hitpoints.  Card variety feels also a bit limited due to overlapping and certain subsets I never felt inclined to use, like push/pull, trap removal, walls, shields, control, summon - even heals I never used again after the card I started with wore out. In my playthrough it came down to this finger of god thingy (a ranged massive single target damage spell), an AOE like heat wave and a fire/lava tile spell of some description. With repairs I could sustain my favourite combo pretty much over the 2nd half of the game, rarely having to trade any of them in for something else. At the end of a run you can unlock some trait cards to change the starting conditions of your game or give yourself a serious disadvantage, but even so, I don't feel the urge to play it again.  It's OK but not more (yet). ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great idea for a game. In fact I was enjoying myself despite having to wait forever each time for my turn again. Until I realized only three cards, and rarely having attack cards which you need drop is a bad thing. Aka round 1-2. It's not fun if you can't attack and kill everything. I mean yeah let them gain up on me give me a good chance to die, that I don't mind. Being cornered where I can't even hit back and am stuck just sitting there or quitting. That tends to ruin a good game. It's kind of heart breaking really I was hoping for a semi relaxing yet still make you think game. Maybe after a few touch ups? But for now I can't seem to recommend it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "sorry, it is pretty boring and slow moving.",
+            "review_score": "-1"
+        }
+    ]
+}

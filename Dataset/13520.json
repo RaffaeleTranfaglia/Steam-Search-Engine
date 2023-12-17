@@ -1,0 +1,608 @@
+{
+    "app_id": 13520,
+    "name": "Far Cry®",
+    "release_date": "2008-04-01",
+    "developer": [
+        "Crytek Studios"
+    ],
+    "publisher": [
+        "Ubisoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3099,
+    "negative_ratings": 609,
+    "price": 8.59,
+    "description": "A tropical paradise seethes with hidden evil in Far Cry®, a cunningly detailed action shooter that pushes the boundaries of combat to shocking new levels. Freelance mariner Jack Carver is cursing the day he ever came to this island.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/13520/header.jpg?t=1543258052",
+    "minimum_requirements": "Supported OS: Windows® 2000/XP (only) Processor: AMD Athlon™ 1 GHz or Pentium® III 1 GHz Memory: 256 MB Graphics: 64 MB DirectX® 9.0b-compliant graphics card (see supported list*) Sound: DirectX 9.0b compliant PCI card (Sound Blaster Audigy series recommended) DirectX: DirectX 9.0b or higher Hard Disk Space: 4 GB   Multiplay: Broadband with 64 Kbps upstream (512 Kbps upstream to host 8 players)  Mouse/Keyboard: Windows compatible mouse and keyboard required",
+    "recommended_requirements": "Supported OS: Windows 2000/XP (only) Processor: AMD Athlon 2-3 GHz or Pentium 4 2-3 GHz Memory: 512-1024 MB Sound: Sound Blaster® Audigy® series (see supported list*) Graphics: 128 MB GeForce™ 4 128 MB to GeForce FX 5950; ATI Radeon 9500-9800 XT *Supported video cards at time of retail release: NVIDIA GeForce 2/3/4/FX families ( NVIDIA based cards must have ForceWare drivers 53.03 or later; GeForce 2 and GeForce 4 MX cards do not support all graphics features). ATI Radeon 8500/9000 families (ATI Radeon 9500-9800 XT recommended; ATI-based cards must have Catalyst drivers 3.9 or higher). Laptop models of the listed cards are not fully supported. For an up-to-date list of supported chipsets, video cards, and operating systems, please visit the FAQ for this game at: <a href=\"https://steamcommunity.com/linkfilter/?url=http://support.ubi.com\" target=\"_blank\" rel=\"noopener\"  >http://support.ubi.com.",
+    "reviews": [
+        {
+            "review_text": "Easy = Medium difficulty Medium = Hard difficulty Hard = Extremely hard ( ͡° ͜ʖ ͡°) Veteran = Impossible Realistic = Don't even try  Pros: +Looks great for how old it is +Rewarding to complete a mission +Varied terrain +Runs well on even non-gaming PCs +Badly voiced one-liners +Some weapon variety +Not at all short  Cons: -AI with x-ray vision -Sometimes can be frustrating -3rd person vehicle camera is drunk  9/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reading the negative reviews for this has upset me a little. It seems that the two main complaints people have are that the game is too hard and the story is somewhat lame.   I would agree that this is a hard game, it does not baby the player. There is no regenerating health, the enemy soldiers move quickly and have decent aim. I am not great at FPS games, but playing this game on medium is very enjoyable to me. The checkpoints are very well spaced. There are just enough health and armor packs.    If you are getting stuck in one spot I would suggest trying a different approach. Maybe even back up one checkpoint and come it things from a different angle. This is very different from the modern corridor shooters. The maps are enormous and you are free to go anywhere. I can see how this could be confusing for younger gamers used to COD style gameplay. Boats and trucks are an excellent strategy with their mounted guns. Stealth works very also. Early game with the M16 switching to single shot mode, going prone and headshots from a distance is another good method. Rushing in and spraying bullets will not work as well.   You will have ample ammo for your pistol and assault rifle, but much less for speciailzed weapons like the sniper rifle and rpg. This keeps things balanced and rewards the player for good planning.   Final comments on the difficulty. Everyone has different levels of skill. For me on he hardest difficulty levels I can not get very far without getting stuck. On medium the game is fun and I die maybe a couple times per level. Select the level appropriate for your abilities. Once you learn where the enemies are and how many that will give you an advantage.  Technologically this game is a masterpiece. Released 10 years and still looks great. It is the predecessor to Crysis. As for the story, who cares? It is a game not a movie. It is about the gameplay here. Cut scenes are few and far between and non disruptive. Nothing gets between you and pulling that trigger. There are no QTE's or moments where the game takes control away from you. It is a very pure experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "one of the best 2004 games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, you should know that this game is the FPS version of Dark Souls. You're gonna die a lot. If you like the games where the victory is simply served to you, you should avoid this game.  Now the real rewiev:  +The graphics are pretty good for a game that was made 10 years ago. +The game is really hard, which makes it better because after you beat a part you were stuck for a while, you feel rewarded. +The story is very well thought even though it's not really realistic for a man to slaughter his way up to the end. +There is a plot twist at the end, which I didn't see it coming and was surprised. +It isn't short. I finished the game on medium difficulty in 14 hours.  -There is a glitch in the game, that makes you visible even when you are in a tent or hiding in bushes. -The enemies just start to shoot at you from meters away, when it is actually impossible for them to even see you coming. -You can't really sneak because the enemies hear the lightest footstep and start shooting at you. -There is not enough checkpoints, so if you die at a point you have to redo all the thing even it was incredibly hard.  Do I recommend this game? Hell, yeah. If you want a good challenge while playing a good game, get this gem.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Shoots someone with an rpg, 'what was that' Shoots an enemy with a silenced gun 'ITS HIM' But anyways its a classic anyone can enjoy , unless your computer is so old it has five bytes of ram.  Have fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm just here to say that this game DOES NOT like 64-bit systems. I got it running by running the .exe in compatibility mode, Windows 95. This should let you see the intro screen. I then lowered the lighting to high and the shadowing to medium. This allows the levels to load actually (credit goes to Bisonfan95's guide). Running Windows 7 so I have no idea about Windows 8.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "12 years later and still amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This may be 12 years old (as of me writing this) but it's incredibly engaging and fun, and beats out a lot of action and shooter games that have come after it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'd have to say this is probably crytek's best game. The graphics hold up even by today's standards. Gameplay is not perfect but its ok. The AI is extremely tough, maybe a bit cheap, and expect to die and die a lot. Having completed it on realistic difficulty, at first I thought what a load of bs. Then I realized that is how the devs wanted the game to be. You have to plan your attacks by tagging enemies on your binocs and then you either have to pick off enemies from a distance with an assault rifle or go prone and sneak up on them with a suppressed smg. No regenerating health either. You have to look for medkits and armour. Overall I would recommend it for players who like a tough challenge. Definitely more fun than Crysis.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Quick Review:  This game is harder to survive than the Holocaust     FAR CRY® REVIEW",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome fun for gamers who like a challange. This game is beautiful even now after more than a decade . Despite being so difficult it makes you come back after each death. It is a must own. 9/10 Buy it with or without a sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1. Got this game for a video. 2. Made video. 3. Kept playing the game 4. Played Far Cry Primal 5. Realized this was more interesting   Not that Far Cry Primal was bad, but it just didn\\'t have as interesting of a story, or guns. All Primal has is clubs.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a nice shooter game. Sometimes it gets frustrating and ♥♥♥♥♥♥♥♥ but its a nice game. Its one of the MOST DIFFICULT games ever made. Its a long game too. :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting game for a single playthrough. The story and dialogue feels like a Serious Sam game though. Worth 2.49.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my my favorite shooters. The music fits with action like none. Action packed linear but full of choice for every checkpoint in your mission. You are to save a woman that ran into the jungle. Good luck, your going to need it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Date of review: 07.10.2014  Platform: PC  Specifications:     Released in back in 2004, Far Cry revolutionized the FPS genre with never before seen graphics and a huge 'open' map which countless possibilities... no wonder many regarded it as the best FPS since Half Life. But that was a long time ago, can Far Cry still deliver after 10 years? Yes it can.  Story:  You are Jack Carver, a former US Special Forces soldier who now runs freelance boat charter services in the Pacific. You are employed by Valerie Constantine to take her to a mysterious island once occupied by the Japanese during the second world war, claiming to study its little-known ruins. Shortly after Valerie goes ashore your boat is attacked (and destroyed), and you barely manage to escape, finding yourself alone without any equipment on an island no one really knows about...  Far Cry was never loved for having an extraordinary story, but the plot is solid enough and it doesn't lack twists and turns, keeping the player interested. It also mixes realism with sci-fi quite well and the transition from the realistic jungle warfare to the... well more sci-fi stuff is well paced.  7/10    Visuals:  While Far Cry can obviously not keep up with today's graphics, maxed out I still wouldn't call it an ugly game. Sure, it's outdated, but it can still surprise you sometimes with the beautiful tropical setting. The vegetation and water still look good and the draw distance is surprisingly long making the game pleasant to play in the open environment. Interiors however do show heavy signs of aging. Good news is that you will be able to play on ultra settings without any problems on even low end machines nowadays.  Once it might have been 10/10 today I will give it 6/10   Gameplay:  I was absolutely surprised on how much I enjoyed the gameplay of Far Cry, which blends some of the old school FPS elements like hitpoints and medpacks, armor, etc. with some of the more modern game elements like the huge open world, vehicles, stealth mechanics (especially useful in the jungle), etc. providing a multitude of ways to complete a given objective with a surprisingly competent AI. Also, while it is definitely an arcadeish shooter it will require a decent amount of planing and tactics because Far Cry is actually a hard game, especially towards the end. It might sound funny but Far Cry is a refreshing experience compared to most of today's shooters.  10/10   Sound:  In terms of music and sound effects Far Cry is solid again. You won't remember the soundtrack for days, and the voice acting is sometimes poor, but the ambient sounds were quite good, further improving the immersion in the jungle fights.  8/10   Replay value:  While the plot is linear and there aren't any choices which would affect the outcome, the gameplay provides countless ways to approach and deal with your objective, making the game worth several play troughs.  8/10   Conclusion:  Far Cry might have once stood out primarily because of its visuals, but today is worth playing because of its challenging and fun gameplay. I do consider it one of the 'must play' shooters out there and I definitely recommend it.  8/10    Test system specifications:   AMD FX-8350 (OC @ 4.6 GHz); 8 GB DDR3 RAM @ 1866 MHz; AMD Radeon R9 280X (AMD Catalyst 14.4), Windows 7 64 Bit Ultimate.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm not a big FPS fan but I really enjoyed this game. Got it cheap and had many hours of fun. I would the describe the levels as sandbox-corridors. The levels overall were fairly linear, but most levels had breathing room and were wide open for experimentation with the ways you could approach combat. There are plenty of opportunities for vehicle/boat-based combat, but I found navigating the vehicles too cumbersome to really enjoy driving and shooting at the same time (especially the land vehicles).  Played on Medium difficulty and it was definitively challenging. The game sometimes seems to steer you towards a stealth-based approach, but I didn't see any real mechanics to actually support stealth. Enemies could spot you really easily in thick brush or when you're far away, hear you even when you're approaching in crouch. and were ridiculously accurate when firing. Plus, you only carry a machete if you sacrifice a weapon spot. There really should've been a dedicated knife button or slot. So usually I would tag as many combatants as I could from afar with the binoculars, pick off the closest enemies or the most dangerous ones with available sniper ammo, rockets and grenades, and then charge in to mop up with the shotgun or machine guns. The game does a great job of slyly adding better weapons as the levels progress, so you never get too bored if you're paying attention and trying new guns. Used the TILDE key constantly to save the game via console. The auto-save spots were too infrequent. I enjoyed the enemy variety. You start off fighting vanilla mercenaries, and the game introduces different enemies and varieties throughout. Fun addition to game was that one group of enemies was constantly fighting another, and they'd only pause battle so both could attack you. Levels that included three-way combat were great.  The story and characters are goofy fun. The way the game's plot reveals itself slowly over the 20-ish levels was well done, and maybe I'm dense but there was a twist near the end I didn't see coming. I was pleasantly surprised. The voice acting was hit and miss, but I thought the voice actor for Doyle the scientist did a great job, which is vital since he essentially narrates the game. Played 30+ hours, experienced zero crashes or noticeable bugs. Very stable game. Graphics were great for a game this old, and I really enjoyed the overall look of the island/sea setting. Crytek's specialty is advanced graphics and its reputation is well earned here. Give this game a chance if you haven't already, it's great fun. It's also a lengthy game so it's a great value proposition.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classic game. Harder. Intelligent AI. Still good in 2014.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can definitely see where a lot of Crysis's mechanics came from, as FarCry is moderately close to Crysis without a nanosuit. That makes this a really, really good game, in terms of enjoyment. Story is okay and voice acting is shoddy at best, but gameplay is great.  The only thing that gets me is that the game doesn't work for me after a certain level, I haven't found a fix, and no one else has had the same problem, it seems. Still, those first few levels are worth it. Besides, I can probably finish it later on a new computer. This one is melting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The hardest shooter I've played yet! 10 out of 10!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Far Cry. Its a great, fun game. You'll spend about 12 hours exploring this amazing world. Its realistic which is like the trade mark for all Far Cry games. If you buy it you wont regret it unless you hate old games that are amzingly fun. Dont get me wrong theough the story is so simple and you can see the end from a mile away. But doing things in that game can be really fun. Buy it, its a great distraction from all the new fancy shooters that come out. Its definatly worth your while.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its some time since this game was released and it still have amazing graphics, of course some thinks could be better, but that doesnt matter, cause this is one of best FPS games of 2004, with good sci-fi story, lot of enemies including mutants, huge amount of deadly weapons, great A.I., which is even today one of the best",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is almost 10 yrs old? Unbelievable .... this game still looks great and plays smoothly. A classic FPS that every fan of the genre should own.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good Game Graphics for an old game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a game everyone should play. Sure its old, but damn nice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Frustrating at some parts but it is a solid FPS. Quite an impressive game for its time graphically.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice game!good graphics and cool campaign!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably the most difficult FPS I've ever played. But it's also probably one of the better FPS games I've experienced because it never really felt repetitive to me, unlike other games of the same genre.   You need to adopt a methodical apporach, be wary of your surroundings, and be a crack shot in order to progress through each level. You can't just dive in and spray like scarface every single time. That's not gonna cut it in this one.   I'd recommend buying on discount due to some bugs and (from what I heard) multiplayer being dead. But if you're an avid FPS player, this is a goodie to have with 20 levels,12-15 hours of gameplay, and the open world.   Oh,and whoever designed the last level in this game is a sadist.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you play this game with a graphics card from 2004-05, you will see the resemblance between this and one of the best looking games of 2010. Beautiful and fun game. 9/10 Cries",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An ok fps shooter that set the standard for incredible graphics mixed in with great gameplay.  Pros -Nice variety of weapons -Nice variety of vehicles -Longish game at around 7-9 hours -Beautiful graphics -Plenty of ways to go throughout levels EX: You can sneak past patrols, snipe everyone, run and gun, blast through them with vehicles, etc; -Great editor with great mods -Runs great on any system  Cons -Way too difficult; really unfair at times which is not really fun -Really bad checkpoint system; no quicksaving unless you do it in the console but thats really clunky -Guns feel really clunky -Ai that can see you from a mile away and have better accuracy than the world's top snipers -Really bad storyline; I did not know what the hell was going on at all -Terrible voice acting; I wanted to punch the protaginist in the face as he can't act worth ♥♥♥♥ -The introduction of mutants was not really expected nor was it really wanted  I could go on for days listing the cons of this game but I still really like this game despite it's many flaws. I suggest on your first playthrough download the FCAM mod which fixes a good portion of the games problems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A short story about this game. before i do the review. First thing i remeber was i watched my friends brother play this game back in elmentary school , when i was around 9 or 10 and so i might have played some very few minutes back then but i can`t remember. I remeber I bought this july 2009 along with cod 2 somewhere in Germany in a super market. I finished cod 2 i was probably one of few in my classes that played the orignal cod games and didnt start and jump on the bandwagon on either mw 1 or for the most part in my class mw 2. However i bought far cry 1 and got to the last part of the game and never managed to do it if i recall correctly , before i had to unistall it. So i decided to take with me my far cry cd to my small house for the holiday and try and play it again. Ofc my cd didnt work, but i had luck that it was 75% of steam so to re buy it digital instead of using my old vista computer and burn my far cry cd to another cd , as i couldnt until i get home anyway , i decided why the hell i can now have this digitally.   So now we are around 7 years later and i finally managed to completed this. So how does it hold up compared to then. Well i recalled alot of the locations from when i played particaly the last location and some of the locations mid way trough the game eiter way:  Good: - Gameplay, u can stealth some parts if you want to, you can plan your approach most of the times, and most of the levels has multiple solutions or multiple routes to take. - Good soundtrack - Great level desing - Great gunplay.  - Its hard even on normal  Decent :  - Voice acting - Story , it would be on bad if this was anything but an fps , but you dont exept a fps do have good story and the story is actully pretty decent  Bad - Enemy line of sight can sometimes be bit weird but usually works just fine. Beside that not much  Rating 9/10   One of my favorite fps along with cod 2, mw 1, medal of honor frontline, half life 1 and even far cry 2 ( yeah i know i am one of the few who really liked it) ( Deus ex if that counts to)  Probably had more fun with this then far cry 3 too. Total play time if you excl my steam version i guess around 25 hrs. I was far worse on fps 7 years ago then i am now.  I rarely play fps these days but this one is recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quality game, very much recommended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "2004 was probably a great year for video games (Half Life 2, Halo 2, Fable , etc). Far Cry is one of those. This is the game that not only introduced the Cry Engine (famous for powering Crysis 2-3) but a start of one of the coolest FPS franchises in history. Far Cry is set in a mysterious set of islands in Micronesia (the Pacific). You play as Jack Carver, a former soldier that gets sent in to sabotage a research facility that is experimenting with mutated soldiers and animals by some evil scientist guy namd Krieger. The island levels are beautifully crafted. You can also swim, ride vehicles such as trucks and boats and collect new weapons. There's a pretty good variety in the game's arsenal. The story for Far Cry however is basic and simple so don't expect anything special.  But if you've played Far Cry 2-4 and want to try the game that started it all, you might be disappointed to find out that FC1 is actually linear, not open world. However, several levels feel wide enough to give you the illusion that you're exploring. The game is also increasingly difficult. I managed to finish this on medium difficulty for the first time but the last levels were so hard, I actually had to use godmode for cheats. There was just no way I was gonna finish it without that. And I already went through really hard levels without cheating in the first place. But despite that, I do recommend this. It's a great game but in retrospect, I am not sure if FC1 did anything considered revolutionary at the time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a very fun, yet challenging FPS set on a tropical island. Enemies will take cover and come in numbers, and be prepared to be frustrated at some points. In the end, Far Cry is a shooter that has aged very well and has great gameplay mechanics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The AI can see and shoot you through tent shack walls, and there are a lot of tent shacks. The 3 hours I've got right now? 2 have been spent trying to get past one camp where they can always shoot me, but I can't always shoot them BECAUSE THEY CAN SEE THROUGH THE DAMN WALLS. Oh boy, time to take on 15 AI that can competently kill you while you have no cover and blocked visibility! And look at the games I have on here. Almost all of them are first person shooters so it's not like I'm new to FPS. Jesus this game is frustrating.  EDIT: I have finished the game. Found a couple more walls the AI could shoot through. They're too all-knowing and can snipe with short-to-midrange automatic weapons from across a giant area. This game is much more brutal than most shooters these days. I can't remember the last time I've died in a campaign so much. That was just normal difficulty too.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "1/10 forklift and lightbulb physics yes",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Far Cry fast game with modern day graphics with easy controls that moves from location A to B to C and so on,  good amount of action and special effects  good game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "enemies have map hack and wall hack 5.5/13",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played this game back in 2004 and loved it. I bought it again during this past sale and I still love it.   9/10 Getting shot through walls sometimes, deducts a point.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Maybe this game is an acquired taste. I haven't acquired it after 17 hours.  Far Cry is difficult for the wrong reasons, in my opinion. I played it on medium, with adaptive AI turned off (maybe that was my mistake). Enemies will shoot accurately at you before you can even see them (at max render distance). Enemies with rocket weapons will shoot your face from 6 feet away; they'll be fine, and you'll be at half health. Enemies fighting each other will switch targets to you, even if you're just passing by. As you progress through the game, ambushes become more and more frequent.  The control scheme is good, although driving is a little wonky. The story is decent, but it's hard to enjoy when you fight the same set of enemies 7 times in a row. Graphics are dated (obviously), but not distracting.  I wanted to like Far Cry - the feel of it worked really well. You're not some glorious hero, saving the world. You're a guy, killing lots of people on an island because you don't want them to kill you. The guns, the vehicles, the enemies and sneaking around all felt right, strengthening the game's atmosphere. I wanted to like Far Cry. It just seemed to hate me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Works great under WINE on OSX.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid representation of an aging FPS. If you own any of the other Far Cry games and want to see what started them all, definately play through this one. You won't be let down.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is BALLIN OLD SCHOOL GANGSTA ♥♥♥♥!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i never died so often ... realistic is really ... instagib patch the game to 1.41 (unofficial) and bots cant see through tents and other surfaces anymore ...  most important gun ingame is the mp5 cuz its silent .. and yes STEALTH WORKS! you just have to be REALLY REALLY REALLY patient and silent ...  on realistic its prob the only way to get through cuz rambo style doenst even work for the first enemies! you have to think clearly about every little step you make cuz .. well theres no quicksave function (besides si age eating) and youll end up doing the same few metres over and over again^^  fc2 3 4 were just .. whatever, not even same or similar engine i mean wtf is dunia .. after that fc just got weak, just like ubisoft did!  10€ totally worth it, but get the patch! important!  i liked the earlier versions better because decals were more realistic, but since u cant tell gabe what to do, this is quite enjoyable it still looks solid, though its dated as ♥♥♥♥!  a game that defined fps at its time   PS: that jungle val drive rail shooting thing is just ... idk ... ♥♥♥♥ THAT ♥♥♥♥, i understand the game is realistic on realistic, but letting women drive in a war zone? THATS NOT REALISTIC (no offense :D)  _______________  new gcards -&gt; heavy issues sometimes stutter, zooming turns into pixel lsd trip, texture bugs etc i wish i hadnt thrown my old pc straight outta the window^^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Possibly the most frustrating game I've ever played. But, by the time I finished it, I was sorely missing the experience. If you can handle the ridiculously intuitive AI, you're in for a treat. Also, there's a bug that causes the AI to fire through walls, I highly recommend downloading Doc's 1.41 patch.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wanna know why its called Far Cry? Cause when you play it you cry and go far away. uhuhuh",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the greatest games ever .. I think it was also a game-changer like Half_Life... Technically it's a good game there are not too many bugs etc. and it's really hard! But the Problem is it makes you do the same things too much and it takes time! .. more than 30 hrs and still not finished o.O  Edit: after more than 37 hours ... the game has finished .. and i can tell you .. it is the hardest fps in the market (probably) &amp; it is so damn hard that you even wanna try the immortality mode or sth!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "hard, fun got it for $2.50 enjoying it a classic shooter",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For an older game I think its awesome. The graphics are good as far as the enviroment is concerned but the NPCs are lame. But only in looks, if you set it to very high difficulty you will die...........alot. Get it on sale....worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Old but gold. And incredible hard to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'll review what little bit I managed to play. The intro cutscene seemed to make no sense and it was just a whole lot of random ♥♥♥♥ and then you are taken into a tutorial, and this is where you find out that the controls suck balls.  I won't get too in depth with it but crouching is weird and sometimes it doesn't even do the animation and your screen just jerks down. Sprinting is about 2% faster than your normal speed so all it really does is make you less accurate, does a weird animation and uses up your energy which you need to jump and I think you need it to hold your breath for some reason.  After a little bit of walking you are introduced to the stealth system... Which doesn't work. Press G to throw a rock which is for some strange reason the same button used to throw grenades but that's just a little weird. Now here is why it's broken. There is no delay between an enemy thinking they hear you and them shooting you and this is the best part of the 'stealth' system, I was trying to sneak around and I threw a rock to get some enemies to move and what do they do? Shout 'I've found him!' and they did a 180 and shoot me. So it thinks that it has stealth mechanics but doesn't so your best bet is just shooting everyone but, surprise! sometimes you just die. I don't know how, I thought I had everyone killed but I was being shot so I went and hid and then BAM, dead and remember how sprinting only makes you go 2% faster? yeah have fun running back, oh I'm sorry, taking a leisurely stroll back to where you were to try and kill everyone again.   Animations are just plain lazy, don't look at the machete because you may end up throwing up.   Now, to end this review I will leave you with this. What happens when you decide that it's a terrible game that hardly works? You try to leave, what happens if you try to leave? It crashes and your cursor disappears of screen making it basically impossible to close though I did manage to get my cursor to reappear after locking my account and unlocking it again so there's that.  pros - I can't wait to uninstall it so that's a plus  cons -stealth system is broken -ai is broken -sometimes you just die because the game decided you should die -movement system is broken -game is broken so don't buy it  -1/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "AI can see through walls wtf!?  Great game though",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok Ok this is a hard one, This game is OK for 2004 but even on the lowest difficulty it is very difficult. The graphics for 2004 aren't very good, the AI isn't the best, and don't mention that if there is a wall that can be shot through, the AI will almost always shoot you through it. But if you LOVE very challenging games then this is for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a ♥♥♥♥ing broken up mess. The guards shoots you through 2 layers of tent and always hit you, the checkpoints are awful and the health patches system is disgusting. 2/10 in my book.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "While the game itself stands up to the test of time, the compatability issues are very frustrating on many modern computers.  First off, the steam version of this game has an old bug present which allows AI to see and shoot through certain walls. This can be fixed by modding the game or downloading a fix patch. However, this bug was fixed early on when this game first came out, and therefore there isn't an excuse for it to be present on this Steam version.   The main problem, however, is the fact that in my experience, certain load points always crash the game. I have been unable to fix this problem.  Overall, not recommended unless you are confident you can make the game work on your system.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game was probably amazing on release however in my opinion it hasn't aged all that well.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "the cry i am hearing is far",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This one is thought to enjoy. Far Cry has without a doubt some nice moments and some nice open levels. Many elements of it have been recycled in Crysis as well as later Far Cry games and it's nice to see how it all started. But Far Cry does have a few to many fatal flaws to recommend.  Most prominent would be the insane difficult, most enemies can kill you with two or three hits. By itself that wouldn't be a problem, as stealth would be the logical answer, but stealth doesn't work here. Enemies can spot you from miles away and will instantly shot at you when you use your sniper rifle. There is a silence gun in the game as well, but that doesn't work long range. Enemies are also far too fast on their legs, so you can't really play hide and seek, the enemies will have you surrounded you long before you can find cover.  To make this issue even worse, the game frequently moves away from the open island levels and into buildings and bunkers. In those settings you are often confronted with enemies right in front of you after you open a door, leaving no room to do anything from a distance. Your binoculars, that help to detect and mark enemies on open terrain, become useless here.  The next problem is the lack of quicksave, despite being at times pretty open, Far Cry sticks to a checkpoint system and linear progression, but when exactly you will hit a checkpoint is unpredictable due to the openness of the levels. They are scattered more or less randomly throughout the levels. Luckily the the lack of quicksave can be fixed, as quicksave function can be enabled by editing a config file, it's just not exposed in the GUI.  The game has it's moments where things click, but those moments don't last very long. One moment you might be impressed by the level of foliage the game presents you with, but the next moment you might already be shot dead from an enemy that you didn't see coming.  After now quite some hours into the game my frustration with the game, despite having quicksave, is getting a lot bigger than the enjoyment I am getting out of it. There are just too many situations where the game doesn't communicate what you have to do and you have to trial&amp;error yourself through far too many enemies. The game never manages to establish a proper flow.  On top of all that I also had plenty of problems getting the game to run in Windows10. Lowering lighting settings to 'High' and installing the AMD64 patch made the game start properly, but even after that it's still hanging when you exist it.  Edit: I finished the game now and some of the later levels, especially when you run around with a companion NPC, tend to be more fun and interesting than fighting in caves against monsters. However the basic combat still stays quite frustrating as there just isn't a good way to attack enemies in a stealthy way. It always ends up chaotically with a lot of trial&amp;error and a lot of dying.  The weapon balance and control also seems out of whack. The RPG is drastically underpowered and slow moving, requiring four or more rounds to kill one of the bigger enemies, assuming you can hit them in the first place. Moving with a weapon while watching through the scope will disengage the scope, but only after a short delay and it won't reengage the scope when you still hold the button. Some weapons also require a hold for the scope while other do it as toggle. Getting a good zoom level on the scope also requires some additional button presses. All this makes scope use rather cumbersome.  The story also isn't anything special. Good guy vs evil doctor and his monsters, with a few minor twists and turns thrown in.  So overall this just isn't that good of a game. Has it's moments, but also far too much frustration and annoyance.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This old game she aint what she used to be.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "guys do not get this game. i cant get pass the boat mission. plus the graphics suck.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It would take me longer to explain all bug and reasons not to buy this game then it took me to beat it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A far cry from a good game!  The second half will make any seasoned gamer cry ♥♥♥♥♥♥♥t. Because it's ♥♥♥.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The enemy AI is SO broken. At first the combat is fun and the game seems solid, but then you learn that enemies can see you through walls and that, while the game instructs you to move stealthily through areas to avoid fighting, you cannot sneak past enemies. It is not possible. They will spot you even if they are 100 yards away and you are crawling through bushes. This alone ruined the game for me, but there is also an uninspired story and terrible voice acting to boot.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The enemies can see through walls and shoot through walls.   Yes I know you can download a mod to fix this... BUT WHY SHOULD YOU HAVE TO DO THAT! Why support a game which a developer forgot about and never patched it?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "game compltley sucks!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "There's this strange belief that's been circulating since 2004 that Far Cry is somehow a good game, I know, I know, it's too ludicrous to be true. But it is, and it's still here, that strange, unfathomable belief is still here. And as I play it, I wonder to myself, why? Why after having climbed a ladder to engage in the game's first 'boss' fight am I immediately assaulted by a helicopter, six goons, and a microsecond to react, rendering me robbed of almost all my health and at the mercy of maybe one or two more hitscan shots before I am murdered in an abysmal display of horrendous level design? Why do I continue to meander around in floaty vehicles with terrible physics as annoying goons fling rockets at me from the ocean in an extravagant play of profoundly dull encounter design?  As I marvel at how intensely dull and uninteresting the weapons are, I become overwhelmed by a miasma of ennui, I slowly realize nothing about this game was designed for my enjoyment, instead it was created by some hellish idiot who thinks that suffering is synonymous with 'challenge.'  Garbage boring mutants will leap at you in a room discharging rockets in every direction, and as you try to manuever your way through the 4x4 space, you will scream in futility as you pound bullet after bullet into succesful headshot, only to fell the garbage boring mutants after your 16th round. Insane men screaming at you to 'bite my ♥♥♥' will do about-faces and physically combine into a super hivemind that will immediately know if the single man you murdered 50 miles away died by your hand after you tactically distracted him with the infinite supply of rocks your character materializes out of a pocket dimension he carries in his massive ♥♥♥♥♥♥, they will then proceed to ventilate you with hyper-accuracy, utilizing horrifying magicks to warp physics and have their low caliber weaponry forcefully pound tiny bullets into your small-minded, idiot brained character's puny skull from continents away and promptly kill you very fast.  People on the forums will then tell you to be stealthy, as the mercenaries within the game prove that they are masters of evil wizardry, and will reach out of the game into our reality to cast confusion spells upon the residents of the Steam forums and turn them into drooling nincompoops who refuse to accept the truth that is around them, that Far Cry was deisgned by a coven of extremely hateful and ugly witches who want nothing more than to subject humanity to pure pain and agony.  It's really quite ridiculous, and almost every part of this game just suffuses with loathing for the player, the omniscient enemies that will lazer you through bushes, the impotent level design that seems to think long corridors with little deviation is interesting 'open' level design, the obnoxious, confoundingly idiotic story and brutally ♥♥♥♥-poor voice over. You'll even start to notice how crap the visual feedback is, how stunningly unsatisfying it feels when you finally DO down the bulletsponge enemies, how every weapon feels weak and clunky, how generally unsatisfying and lame every aspect of the engine is that isn't about the graphics.  This game gives me a huge headache, this game fills you with that really lame sense of frustration after every quickload where you feel compelled to finish the game, like an obligation, but unlike real world obligations, the only thing you get out of this one is the game putting its donger in your mouth. Speaking of quickloads, there is no manual saves or quicksaves, you have to use a cheat code to save yourself, in this hellish nightmare of a game, they don't even give you this one simple mercy. Out there, the designers of Far Cry are assuming their true shapes, massive brain eating slugs that have been gestating in the liquid magma core of the earth, rising up to pee all over your face invisibly with invisible pee as you play this game.  Juicy 2004 graphics though. That's literally the one thing that's good about Far Cry, the graphics, the graphics were great, absolutely great for 2004. Now it's 2016, and the game looks like dated feces. And now it only sucks, it doesn't even look pretty while it sucks, and it doesn't even provide you with the courtesy of a real life donger for your mouth.  I hate this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Why the ♥♥♥♥ do my save files keep disappearing?! Also why can the ai shoot me through walls.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do you like to be sniped from enemies with pistols from the other side of the map?  Do you like to be blown up from nowhere by a grenade lancher? You are a masochist and like unbalanced games?   Then this game is for you!  Even on easy difficulty the rockets do full damage to you, so you will have to die over and over again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Did not age well at all. Played for 20 minutes, uninstalled. On to Far Cry 2.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was really excited to go back and play this but to be honest it has hardly held up with time. Plot and dialogue are painful, enemies can see through walls but not bushes and overall it feels clunky as ♥♥♥♥. Play Crysis or Far Cry 3 instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I suspected this game was a graphics demo back in the day, and my thoughts were confirmed when I bought this game for a few bucks on a steam deal.  The game is horrible. The plot is lame and there is no feeling for any of the characters. Too many inconsistencies. 'Oh there's no reception anywhere on the island', but why then are you talking to me on a video phone? The plot went from rescuing the guys wife to bio-engineered creatures, to nuclear bombs, to a lava eruption and everywhere in between.  The game tried to portray stealth, but when there are such gaping bugs in the game, it makes it no fun. Multiple times guys would spot me and shoot through the tent, concrete walls and anything else when I was sneaking around. Cover? Nope, not really. Another frustrating point where enemies would shoot you through solid walls. Don't forget about those invisible ones either! Can't say how many times I'd line up to end up popping an invisible wall instead of the guy.  1/5",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do not buy. it does not launch, it just does nothing",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Super ♥♥♥♥ing hard, I couldn't even beat the first level on easy. Do not buy, it's a waste of money. Not only this but it takes a long time to start working. Save your money. 2/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'm a middle-aged gamer. Been gaming since the Commodore 64. I just picked this up in the Far Cry pack. Having never played these games before just now, I feel my impression of the game is not clouded by nostalgia. I'm unimpressed. The opening cinematic tries to be epic and action-packed but ends up making no sense at all. I gather some chick blew up my boat, I fell into the water - into a volcano, but not...then I get to land but there are monsters? Then there are guys shooting at me for no reason and I end up back in the water? I'm completely confused as to what the premise of this game is.  Gameplay - Yes the graphics are a little dated but that doesn't bother me. The problem I have is the gameplay. The dude swims like he has a blood alcohol content of .99. I get it, it's water. But I shouldn't go from pointing straight ahead to looking straight down/up. The other beef I have is with the pistol. I get that it's supposed to be relatively innaccurate. But if I'm 5 feet away from some guy, I point at his head, fire, see the bullet trail go towards his head, yet I completely miss, that's a problem.  Luckily I have some other games in the franchise to try out. If I had purchased this on its own I'd be very disappointed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't play this in 2016 unless you played it as a kid. It's painful graphics are hard to like when there a hundreds of graphically superior games for less money with a better story",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its ok but old.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So bad, so stressful its ♥♥♥♥ing good. I loves this game. No I hate this game. GOD HELP ME MAKE UP MY MIND. Hey maybe writing this review will help me decide. Lets start the game breakup.   Story:  Wait this game had a ♥♥♥♥ing story. Guess I was to busy ripping out my ♥♥♥♥ing hair. Story 9/10  Gameplay:  This game is infested with bugs. AI shot through walls. They pretty much kill you in 3 shots. Its so great, that I have no ♥♥♥♥ing hair left. The weapons are fun though, and the exploration is kinda cool. Then the monster things are hard to kill but fun. Gameplay: 9/10  Graphics:  This is game came out in 2004 and has 1999 level graphics. 9/10  All in all this game is so bad its ♥♥♥♥ing good 9/10 wouldn't reccomend to a friend.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "yes it may be an old game, but, it started the series, set new standards, and well, it's just plain awesome, highly recommend this title",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like Morrowind with guns",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Still amazing, even though it's eight years old!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Far Cry is an orignal FPS game with its quirky sense of humor. Cryengine really made this game spectacular. The AI in the game is not what you find in todays games and its pretty obvious. A fun game nevertheless. The game will stutter on high end pcs. Just turn the shadow setting to medium, which will reduce the stutter between the change of scenes.  Just completed the games. The end levels are pretty intense.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played this one after the third. Much shooting!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the game that becomes an enjoyable gameplay and moreover this game is looking really sick of the graphics which remembers me with Virtual Cop 2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's a few problems with the save system and this game is insanely hard. If you think you're good at first person shooters, play this game and that thought will change instantly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Realy great game, it's challenging even on lower difficulty levels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An old game but still good enough to play and not get bored of. The story is a bit crappy but they make up for it with the gunfire.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing, one of the best games to ever be made, looking forward to FC3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For the casual gamer that like to sneak through jungles wondering 'why are none of my guns silenced?' And attemtping not to get shot or seen until some merc suddenly sees you though a bit of knee high grass and explains 'What the hell?' and when it happens, you'll say the same thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best FPS games I've ever played. Got to be Rambo in every sense of the name.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The relief when the credits rolled was palpable. Perhaps it was good in its time, but its time is long passed. Player-agnostic in all ways, from enemy to level design, with unwieldy and unsatisfying weapons, just an overall exercise in frustration. Only beaten so I could advance to the sequels.  2 out of 5 laser-accurate AI",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Step 1: Put on Hawaiian shirt. Step 2: Put on body armor that provides less protection than wet toilet paper. Step 3: Put on shoes that magnify the sound of your foot steps ten-fold. Step 4: Pick up an arsenal less threatening than rubber band guns. Step 5: Assault an island full of the most gamebreakingly deadly soldiers. Step 6: Die, many times. Step 7: After 30 hours of brutal, repetitive game play, succeed. Step 8: Feel a deep satisfaction.  10/10, would Die again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved FC2, had a love/hate relationship with FC3, which got a little better in FC4, so I thought I should go back to the origins of the series. BIG mistake. This is nigh on unplayable. It is a 'die and retry' game to the max (see Edge of Tomorrow). Enemies kill you before you know they are there, and can shoot through obstacles that prevent you from even seeing them. Coupled with a poor checkpoint save system, you will find yourself dying repeatedly and redoing everything over and over and over and over and over and over until you figure out that magic sequence of actions that will get you through to the end. And that's on 'Easy'. On top of all that, despite the 2004-level graphics, it is a resource-hungry pig. I could not even run it on the highest settings (which I could for FC2 and FC3), and even on lower levels it would lag awkwardly just when you did not need it. Cap it off with no gamepad support, and it is a loser all around.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hard, fun, buggy and unintentionally hilarious. Guard gets in a jeep and runs into the water 10/10 would watch again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very, very good game. One of the few genuinely difficult games that I've played. (Note that I only have ~10 hours on record on Steam, but I've played far more on a disc install before I had steam!) On the high difficulties, the enemies are far too good for the player to take the CoD approach and just run in guns-blazing.  If you're not an experienced FPSer, then no way will you be able to manage the top difficulty levels; even if you are, then you'll still find it very challenging and rewarding!  As others have said, there aren't many checkpoints, which can be a bit annoying... but I think it's a good thing: you have to remain focused the whole time; just meeting a pair of enemies when you're not paying attention, then you can die (not usual, but completely possible), which I think is great.  The game definitely starts off better than it ends: I prefer playing against people than mutant monkeys, personally.  At the moment it's only £1.74 on Steam. A game of this quality, for that price ? I can't think of one reason why you shouldn't buy it!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game. It has a challenging campaign, and awesome maps.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "you can get noticed from a mile away stealth is not key",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I almost got dizzy and threw up while looking at the main menu and changing settings",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This games stealth factor is screwed up But it is worth the money for the enemy forces reactions to A inflatable boat crashing into a aircraft carrier",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Holds up well for its age! Fun sneaking, pretty good guns, great vehicles, rad water, difficult AI, and goofy story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Somehow this was more interesting than Far Cry 2 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best game series since Half-Life Universe!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A little dated now, but this was tremendous fun back when. If you have not played and like FPS style killing, this one started the series. The rest are fun to play as well. There is no real connection between the individual stories, so play them in any order if you want.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent storyline, graphics are a bit outdated. No open world like far cry 2 and 3 are going to give you. Don't miss out on this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Aptly named, because it was so hard it almost made me cry. But I am better for it. A classic game that never tried to be anything more than a simple, enjoyable shooter with a silly plot and great mechanics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "too ♥♥♥♥♥♥♥ hard. and i say this as a hardcore gamer. this game is impossible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall it's a fun game. However the fact that you cannot bring up the console and therefore cannot save when you choose where a good save spot is extremely takes away from the fun of this game. I would get to a spot 10 feet from the next autosave spot and then die only to have to start all the way at the beginning of the last autosave. In spots where the game gets tough, this gets extremely frustrating. On a scale of 1 to 10, I would rate this game a 8 , however the restrictions that Steam puts on it, drops it down to a 7.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game Rocks! AI is super smart, game is totally non linear, and the physics are great! I highly recommend this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "so how should i start with this? different feel to a shooter game that needs stealth from time to time. using keyboard to be sneaky is a bit hard. dont think it has controller compatible so stuck using keyboard. got it for like 2.50 so was like what the hell i should get this and whne playing the game what made it popular was the area. its large so you can walk around, find spots to hide or kill your enemy and so on. has a multiplayer but havent got to try it out yet so after this il give it a shot if ppl are still playing this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most underrated shooters ever. PLAY IT!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "excellent game saw it on steam havent played it in years its still a difficult game and it isnt ridiculas like newer games where your practicaly a walking tank , sure you can shoot your way through the game but your gonna have to do alot of loading from getting turned into a lead deposit",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game, graphics still look pretty good for its age. Made by the crysis devs, but its way better than crysis. The open world in this is pretty fun, and reminds me of the beach levels in crysis. If you've played crysis, you will recognize the beaches, the look like a lower res crysis beach. Physics are fairly good, but be warned. The voice acting SUCKS. The enemies will say THE MOST stupid lies I have EVER heard in an fps.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game, a great environment, amazing graphics considering its a 2004 game, challenging, realistic, overall a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game never ends. But that's a good thing. It's giant, it's pretty (still), the controls and the engine are good, what's to complain about? Well, sometimes it can be really hard, sometimes unforgiving; but that's okay. Because it's fun at the same time. GEDDIT.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You get to tackle objectives however you feel like, even including the path of avoiding combat altogether. One note - about halfway through the game certain enemies appear that spike the difficulty of the game, especially when you meet many of said enemies at the same time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so damn difficult , I punched my monitor when playing Volcano level. 10/10 would punch again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game makes me want to crawl into a fetal position in the corner and cry. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Far Cry takes you on an amazing and challenging adventure throughout several locations. Whether sneaking through the lush tropics or fighting your way around biological laboratories, the graphics will always keep you in awe. The gameplay SHINES in this very memorable title! 9.0",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great,like Crysis but without the nanosuit",
+            "review_score": "1"
+        },
+        {
+            "review_text": "GAEM SO GOOD MAKE YA WANNA GROW CLAWS AND KILL ISLANDERS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Though not the deepest of experiences, and still quite a tall order on even a modern non-gaming PC, Far Cry is still pretty fun. But be warned-- behind the reassuring veneer of campy-as-hell voice acting and action setpiece-packed first hour or so, this game is pretty hard, yo. The checkpoints are sparsely laid, and getting past every enemy camp is a twenty-minute ordeal of tagging all the enemies with the binoculars, taking out the snipers, waiting for someone to wander off alone, shooting them, moving to a new hiding spot, waiting for the heat to die down, and repeating. This is all because attempting anything other than the methodical stealthy approach will get you swiftly killed, because the player character's bullet resistance is vaguely realistic, and the enemies can see you from literally a mile away.  Essentially, this is the poor man's version of Crysis, in which you have to take on a vast army in the jungle alone and without a superpowered nanosuit because you don't own a NASA supercomputer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely one of the best early games. I still dig it out and play it now and then.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+Visuals +Stealth system  -Bland level design -Repetitive, frustrating combat  Don't feel like you need to play this to play Far Cry 3.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game in a bundle of other Far Cry games. I had heard the positive reviews for 3 and 4, and even though the stories of the games do not relate I feel the need for completion. This game is not fun. The AI enemies are capable of seeing you from an insane distance, and even though you cannot accurately return fire, they can pick you off with handguns. Their superpowers also include the ability to hear something from the other side of a mountain and infrared sight to always know exactly where you are hiding. They can also shoot through walls and the supposed 'cover' of plants. The controls are either sluggish or over-sensitive. I even tried using a 360 controller to see if that aided only to find that the game only supports keyboard/mouse natively. I turned down the difficulty to the lowest setting and still found the game insufferable. I have played FPSs on PC for a long, long time, and I have only ever walked away from three or four. This was one of them.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I feel this game is now old enough to be called a classic FPS. Far cry was the secand FPS I ever remember playing and it still pulls me back ever few month's just for some difficult but enjoyable shooter fun. While not aged well it's still enjoyable enough if you can get past older graphic's. This is one of the hardest shooter I have ever played, even on the lowest difficulty it can be almost unfair, especially when I comes to stealth, which I love about this game. If you want a insane challenge try playing the game as stealthy as possible and see if you can get past and few level's without killing. But if you like me you will want to go running and gunning like a mad man to kill all the enemy's and see if you can survive which is a hard but very fun challenge. This game does have some action movie cliches and less then steller voice acting at times, but it's a fantastic game with some very open level's that can be explored more then you would expect from the game like this. While not the best game ever made it stands out to me as a fantasic difficult playable si-fi action movie from the 90's that can make even a hardcore shooter fan angry with difficulty when set high.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was extremely good for 2004 mainly because it was running on the CRY ENGINE. only problem, this game was actually too hard. like it had a serious difriculty curve. other than that it was amazing",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Seeing that Far Cry 3 is consisdered one of the best video games of 2012 I decided to look at what had started the franchise. What I got was nothing far from Far Cry 3 but nothing close to it either. The game does put you in an immersive and beautiful environment with amazing detail to enemies and how they act like Far Cry 3 but this game feels more like Deus Ex mixed with Half-Life 2 mixed with Halo and it's amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After 4 hours trying to play with am IA that has wall hacks and rockets that appear from nowhere to blow your ♥♥♥♥ing face, I got tired of having to reload the same part 5 or more times just to advance like 1 or less % in the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hands down one of the hardest but at the same time awesome games ever, this game is the definition of FPS where you not just shoot like a complete idiot but you have to sneak around and use your brain on how to get past the enemy, I recommend this game to mature gamers because as I know Phony gamers will rage quit this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perfect game in all senses. A must own!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, i have 2 sentences to say:  1. I have this game 2. Shookad dont :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really linear, but still good, old fashioned fun. Also, if you can beat this game on any difficulty higher than easy....you're really good at video games and should probably find another hobby.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't care about anything haters have to say about this game. Its a classic and I love it. So many great memories for me playing this game. Really difficult game no matter the difficulty. Except the realistic difficulty. Thats impossible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good Game. Much Memories. Old Game still goodie 26/12.5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Trigons: 1. Hit, all your armor gone 2. Hit, health to 1% 3. Hit, your dead. Mercenaries: 1. Hit, Jack Carver screams 2. Hit, the Mercenary screams 3. Hit, You scream 4. Hit, everyone screams. If you are playing in easy, you should have either a high tolerance for pain or a stealth expert. Don't run around like crazy, you will die.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Yo, I finished farcry 3 on the higher difficulty twice by now, this should be really easy!'  This is one of the hardest games I ever played, I regret playing it on the hardest difficulty but dont regret playing it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enemies can see and shoot you through ♥♥♥♥ing walls. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overlooked as the actual best single-player stealth FPS of all time. No gimmicks or stealth-designed levels, just open-world environments and very challenging enemy AI make sneaking in this game feel realistic and terrifying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After beating the game on Veteran difficulty with AI Auto balance option enabled (patch 1.40), I have to say, that Dark Souls ain't got s**t against this game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "gREAT 1ST SHOOTER GAME but make sure you bring on your game.Challenging",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Still one of the greatest FPS games ever made, if you think Half-Life 2 had an influence on the direction of the FPS genre just you wait till you play this under appreciated and lesser known game. It still plays as well today as it did back then, including a punishing (but fair) realistic mode Far Cry 1 gives you a level of realism and control that wouldn't be matched for years. A five star game from story to level design, from gameplay to graphics. Far Cry is one of the games you have to play before you die.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If u want a good old fps with awesome story this is ur game",
+            "review_score": "1"
+        }
+    ]
+}

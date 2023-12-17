@@ -1,0 +1,38 @@
+{
+    "app_id": 562090,
+    "name": "Kronos",
+    "release_date": "2017-02-03",
+    "developer": [
+        "UroboroStudio"
+    ],
+    "publisher": [
+        "UroboroStudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 57,
+    "positive_ratings": 10,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "A unique Action RPG game with lots of combats, item customization and puzzle solving.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/562090/header.jpg?t=1491340548",
+    "minimum_requirements": "OS: Windows 7/Vista/8/10 Processor: Dual Core 2.2 Ghz Memory: 2 GB RAM Graphics: Video Card OpenGL 2.1 compatible (GeForce 8600 or newer) Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

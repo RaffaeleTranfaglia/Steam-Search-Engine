@@ -1,0 +1,50 @@
+{
+    "app_id": 463520,
+    "name": "Pristine world",
+    "release_date": "2016-07-09",
+    "developer": [
+        "Lunisky studio"
+    ],
+    "publisher": [
+        "Cubic Pie"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 26,
+    "positive_ratings": 67,
+    "negative_ratings": 47,
+    "price": 3.99,
+    "description": "Pristine world is a tower defense game which takes place in a magic world where only player stays between precious magical crystals and darkness.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463520/header.jpg?t=1468088724",
+    "minimum_requirements": "OS: Windows® 7, Windows® 8, Windows® 10 Processor: Intel® Core™ 2 Quad or i3 / AMD Athlon™ FX-4300, or better Memory: 4 GB RAM Graphics: nVidia®  GTX 650 / AMD® Radeon 6700HD DirectX: Version 9.0c Storage: 5 GB available space Sound Card: You need it as well",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Tower defense game with very nice graphics U need to use biological structures to defeat the enemy before they can reach your castle",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pristine world is a game that I can't recommend because: - the price is too much for it's quality - it is boring - it has a lot of issues - the controls are horrible - the graphics is really bad - it is pretty pointless - the only good reason to install this game is for the trading cards",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 498380,
+    "name": "AquaNimble",
+    "release_date": "2016-09-30",
+    "developer": [
+        "DrinkingNails, LLC"
+    ],
+    "publisher": [
+        "DrinkingNails, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 56,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "AquaNimble is about crazy intense shooter action with big quirky guns against underwater snake dragons, cybernetic sharks, swirling skeletons, submarines and so much more. It's a dynamic game that makes every play through different and lets you set your own challenge beyond a difficulty setting.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/498380/header.jpg?t=1526311811",
+    "minimum_requirements": "OS: Windows XP Processor: 2.4 gHz Memory: 1 GB RAM Graphics: 1 GB Storage: 200 MB available space Additional Notes: I have tried it on my older Windows XP PC, it works, but if someone has lower specs and it works, please tell me.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 447150,
+    "name": "APE OUT",
+    "release_date": "2019-02-28",
+    "developer": [
+        "Gabe Cuzzillo",
+        "Bennett Foddy",
+        "Matt Boch"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Violent"
+    ],
+    "achievements": 23,
+    "positive_ratings": 259,
+    "negative_ratings": 21,
+    "price": 10.99,
+    "description": "APE OUT is a wildly intense and colorfully stylized smash ‘em up about primal escape, rhythmic violence, and frenetic jazz.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/447150/header.jpg?t=1552319379",
+    "minimum_requirements": "Минимальные: ОС: Windows 7, 8, 8.1, 10 x64 Процессор: Intel Core2 Duo E4500 (2 * 2200) or equivalent Оперативная память: 2 GB ОЗУ Видеокарта: GeForce 9600 GT (512 MB) DirectX: Версии 11 Место на диске: 2 GB Дополнительно: Controller Recommended",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7, 8, 8.1, 10 x64 Процессор: Intel Core i3-2100 (2 * 3100) or equivalent Оперативная память: 4 GB ОЗУ Видеокарта: GeForce GTX 550 Ti (1024 MB) DirectX: Версии 11 Место на диске: 2 GB Дополнительно: Controller Recommended",
+    "reviews": []
+}

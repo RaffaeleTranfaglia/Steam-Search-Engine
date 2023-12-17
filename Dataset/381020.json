@@ -1,0 +1,46 @@
+{
+    "app_id": 381020,
+    "name": "Sky Rogue",
+    "release_date": "2017-08-24",
+    "developer": [
+        "Fractal Phase"
+    ],
+    "publisher": [
+        "Fractal Phase"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Flight"
+    ],
+    "achievements": 28,
+    "positive_ratings": 614,
+    "negative_ratings": 51,
+    "price": 14.99,
+    "description": "Sky Rogue is a fwooshy rogue-lite action flight simulator! Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers, but watch out for volleys of missiles; when you die, you're dead.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/381020/header.jpg?t=1524773926",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Dual core or better Memory: 512 MB RAM Graphics: Integrated graphics card (Intel), generally anything from 2004 or later DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 1 GB RAM Graphics: Dedicated graphics card (NVidia or ATI) DirectX: Version 11 Storage: 300 MB available space",
+    "reviews": []
+}

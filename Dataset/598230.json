@@ -1,0 +1,41 @@
+{
+    "app_id": 598230,
+    "name": "Ascender",
+    "release_date": "2017-03-17",
+    "developer": [
+        "GameChanger Studio"
+    ],
+    "publisher": [
+        "GameChanger Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 33,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 5.99,
+    "description": "Ascender is a 2D explorative puzzle platformer. The game is set in the open world of GOA's districts, and the player will face many unique puzzles to solve.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/598230/header.jpg?t=1521522527",
+    "minimum_requirements": "OS: Windows XP SP 2+ Processor: 2 GHz Memory: 1024 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 2 GB available space Sound Card: Stereo Additional Notes: Better with joystick",
+    "recommended_requirements": null,
+    "reviews": []
+}

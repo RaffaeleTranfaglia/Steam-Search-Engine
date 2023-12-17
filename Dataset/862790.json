@@ -1,0 +1,37 @@
+{
+    "app_id": 862790,
+    "name": "13 Cycles",
+    "release_date": "2019-03-21",
+    "developer": [
+        "Acalamity"
+    ],
+    "publisher": [
+        "Acalamity"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie"
+    ],
+    "achievements": 28,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 5.19,
+    "description": "Try to figure out the most complex rogue-lite platformer ever, I dare you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862790/header.jpg?t=1556470685",
+    "minimum_requirements": "OS: Microsoft Windows 7 Processor: Intel compatible Dual Core CPU Memory: 1 GB RAM Graphics: DX11 compliant graphics card DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows 10 Processor: Intel compatible Quad Core CPU Memory: 8 GB RAM Graphics: DX11 based graphics card DirectX: Version 11 Storage: 400 MB available space",
+    "reviews": []
+}

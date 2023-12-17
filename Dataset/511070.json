@@ -1,0 +1,45 @@
+{
+    "app_id": 511070,
+    "name": "MANIC MINERS",
+    "release_date": "2016-08-08",
+    "developer": [
+        "maddma"
+    ],
+    "publisher": [
+        "maddma"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor",
+        "Commentary available"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 89,
+    "positive_ratings": 7,
+    "negative_ratings": 8,
+    "price": 1.99,
+    "description": "Welcome to &quot;MANIC MINERS&quot; - just imagine, &quot;Lemmings&quot; meets &quot;Boulderdash&quot; ... with TNTs, fuse bombs, lasers and flamers tossed-in-too! Deploy your Tiny Miners (TM) to collect, and safely return home, as many jewels as possible. But, be very, very, aware - there's a million ways to die daan there!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/511070/header.jpg?t=1533046283",
+    "minimum_requirements": "OS: Windows 7 Graphics: Vertex / Pixel Shaders: 4.0 DirectX: Version 11 Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 10 Graphics: Vertex / Pixel Shaders: 4.0 DirectX: Version 11 Storage: 512 MB available space",
+    "reviews": []
+}

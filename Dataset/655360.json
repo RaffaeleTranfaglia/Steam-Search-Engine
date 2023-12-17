@@ -1,0 +1,39 @@
+{
+    "app_id": 655360,
+    "name": "Aftermath Y2K",
+    "release_date": "2017-07-10",
+    "developer": [
+        "Matthew Willis",
+        "Jesse Crespo"
+    ],
+    "publisher": [
+        "Matthew Willis"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Inspired by such games as Castlevania and Ninja Gaiden; aftermath is a NES styled action platformer. However in Aftermath you play as a dog. You must run, jump, and dodge your way through 8 levels to recover your beloved owner. All the while also trying to fend off thugs, bandits, henchmen, and mutants.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655360/header.jpg?t=1500286399",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 Ghz Memory: 512 MB RAM DirectX: Version 11 Storage: 120 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.4 ghz Memory: 1 GB RAM DirectX: Version 11 Storage: 120 MB available space",
+    "reviews": []
+}

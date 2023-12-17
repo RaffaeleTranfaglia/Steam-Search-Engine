@@ -1,0 +1,53 @@
+{
+    "app_id": 372780,
+    "name": "Pulse",
+    "release_date": "2015-10-20",
+    "developer": [
+        "Pixel Pi Games"
+    ],
+    "publisher": [
+        "Pixel Pi Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Female Protagonist"
+    ],
+    "achievements": 8,
+    "positive_ratings": 32,
+    "negative_ratings": 26,
+    "price": 5.79,
+    "description": "Journey as Eva, a young girl who lost her sight at an early age, and has since developed the unique capability to &quot;see&quot; the world around her through sound. Explore a world on the edge of collapse and discover the long-kept secrets of the land...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372780/header.jpg?t=1447374970",
+    "minimum_requirements": "OS: Windows 7, 8 or 10 Processor: Dual Core 2.0GHz Memory: 4 GB RAM Graphics: Shader Model 3.0 compatable Dedicated Graphics card with 1GB VRAM, Nvidia GeForce 600 series, mid-high 500 series, or equivalent DirectX: Version 9.0c Storage: 4 GB available space Additional Notes: Integrated graphics cards (e.g. Intel HD series) will not run well",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Before you wonder why I don't recommend this game, hear me out.  I truly enjoyed this game. The unique asthetics and the design of the world is incredible. The mokos were insanely cute, I loved them to death. The soundtrack was great to listen to. Being able to sense the world form around you in shapes and colors really made me enjoy the game for it's entirety.  But therein lies the problem. The game itself is just too short. There is even an achievement for beating the game in half an hour. To me, charging $15 for a game that you can beat in half an hour is just silly. The game is very well made and absolutely stunning to look at, but there just isn't enough replay value or content for me to see that price being justifiable.  The demo came out over 2 years ago, so I was expecting at least 3 hours worth of game to explore. Yes there are small orbs to collect, and I do plan on going back and getting 100% of the achievements, but that $15 price is just too much for me. I would see paying half that much at the most.  This is the first steam game I have refunded.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Back in 2013, when the developers run a Kickstarter campaign, Pulse was a beautiful tiny experiment, a promise of a great surreal experience. Now, in 2015, when the game is finally out, it is an ever more beautiful tiny experiment, a glimpse into a great surreal experience that was never delivered. The core mechanic makes the game gorgeous, it changes the way you perceive the game's world and move around it. This would have worked great as a stealth action, espcially if the enemies were as confined to their vision as Eva is to her hearing. Sadly, the game has just one stealth sequence, and I have no idea how it is supposed to be beaten: I just crawled around randomly until I got to the exit. It would have worked as a puzzle game, but the most difficult puzzle the game has is putting a hamsterlike furry creature into a wheel. If developers had no resources for a game with a gameplay, it would have worked beautifully as a walking simulator, a place to explore and marvel. Instead, the second core mechanic is first-person platforming. Yes, you play as a blind girl who has to make presice jumps over the platforms she can't see. With glitchy collision detection. Why. For all the game's flaws, it's unique and is still worth experiencing. I can only hope that one day the team behind it would be able to make a next version, the one that fulfills all the promises of the current one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "*walks around the place* you know, I'm kind of getting used to this darkness. It's not that scary actually.          *sees monster* NOPE NOPE NOPE NOPE NOPE",
+            "review_score": "1"
+        }
+    ]
+}

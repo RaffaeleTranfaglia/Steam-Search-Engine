@@ -1,0 +1,41 @@
+{
+    "app_id": 698540,
+    "name": "Dungeon Warfare 2",
+    "release_date": "2018-07-06",
+    "developer": [
+        "Valsar"
+    ],
+    "publisher": [
+        "Valsar"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Tower Defense"
+    ],
+    "achievements": 32,
+    "positive_ratings": 334,
+    "negative_ratings": 45,
+    "price": 11.39,
+    "description": "Become a dungeon lord to defend your dungeons with the deadliest of traps and insidious contraptions against greedy adventurers and wannabe heroes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/698540/header.jpg?t=1553871497",
+    "minimum_requirements": "OS: Windows 7 Processor: Core 2 Duo Memory: 2 GB RAM Graphics: Graphic Card with at least 256MB of VRAM DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 8 / 7 Processor: 2.4 GHz Quad Core 2.0 (or higher) Memory: 4 GB RAM Graphics: Graphic Card with at least 512MB of VRAM DirectX: Version 9.0c Storage: 300 MB available space Sound Card: Yes",
+    "reviews": []
+}

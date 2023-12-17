@@ -1,0 +1,55 @@
+{
+    "app_id": 293940,
+    "name": "Kill The Bad Guy",
+    "release_date": "2014-05-28",
+    "developer": [
+        "Exkee"
+    ],
+    "publisher": [
+        "Exkee"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 50,
+    "positive_ratings": 210,
+    "negative_ratings": 116,
+    "price": 6.99,
+    "description": "Track the Bad Guys, be brutal and smart in your planning, and eliminate them one by one. But bear this in mind: each criminal’s death has to look like an accident. In each level, you’ll have the chance to splatter and destroy the Bad Guy using various weapons and traps.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/293940/header.jpg?t=1447361260",
+    "minimum_requirements": "OS: Windows XP Processor: 1.5 Ghz (Intel Celeron / AMD Athlon 64 x2) Memory: 1 GB RAM Graphics: Intel HD Graphics or AMD Radeon DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.4 Ghz (Intel Core i5 / AMD Phenom II) Memory: 4 GB RAM Graphics: GeForce 8000+ / Radeon HD 5000+ DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX compatible",
+    "reviews": [
+        {
+            "review_text": "The concept is neat, but each scenario is samey, and difficulty is derived from trial and error that comes from floaty and kinaesthetically displeasing physics. Menus are fine, and the visual style is neat, but audio is best muted. Kill The Bad Guy is about figuring out exactly what the developer wants you to do, and no deviation from this course is permitted. Don't let me completely dissuade you, though - if you're genuinely interested, download the demo before you buy. I'm sure there's some audience out there for this, but I am clearly not it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's a fun, strategic, puzzle-esque style game where you get to blow off steam while killing bad guys in whatever manner you feel fit given the resources in each scenario.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "app_id": 302390,
+    "name": "Necronomicon: The Dawning of Darkness",
+    "release_date": "2014-07-11",
+    "developer": [
+        "Cryo Interactive"
+    ],
+    "publisher": [
+        "Microids"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Lovecraftian"
+    ],
+    "achievements": 0,
+    "positive_ratings": 42,
+    "negative_ratings": 76,
+    "price": 3.99,
+    "description": "In this thrilling point-and-click adventure based on the works of H.P Lovecraft, you’ll traverse the haunting world of Gothic New England, solving puzzles and acquiring information to help Stanton solve the mystery of the Necronomicon.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/302390/header.jpg?t=1478598294",
+    "minimum_requirements": "OS: Windows XP, Vista, 7 Processor: 200 GHz Memory: 32 MB RAM Graphics: DirectX compatible Video Card DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX compatible Sound Card Additional Notes: Mouse, Keyboard",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "What could have been a fun, notalgic release on steam is unfortunately hampered by some serious issues. This port is poorly done and sections of the story are missing. The best cutscene in the game is cut out and you are thrust ahead in the story with no idea what just happened. A game breaking bug makes the game impossible to complete a little later on when you can't access an important part of your inventory. As of yet there has been no word on a potential patch of fix for these issues and because of this I cannot reccomend the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is made from Lovecraft's story and still not good as novel but that's not mean this game is bad. The atmosphere of this game is powerful. It making me feel nervous and scary at all time. But if you expect this game will have scaring jump scenes like Thai movies, well, it's not have kind of that. Graphic is acceptable for PS1 standard like Resident Evil 1. The camera and cursor is terrible, you have to look carefully when you want to find something to progress your game. Thanks goodness that the story is linear so you don't have to worry that you'll missed some story of a game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an old school adventure game, really old school. You can't be gung-ho in this, you need to think to an extent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is an unplayable mess",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is good, but what annoys me that steam as stopped them so they cannot update the game because some stupid idiots gave it a negative review. if you would of gave them time they was actually going to update the bugs and port the ios version over. but since it got negative reviews steam stopped them from updating the game. in which case its going to be like that forever which is ashame really. Some people are absolute inpatient at times",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've only played a few minutes, it's just that after downloading and before playing I looked up the hardware requirements and low and behold I need a 200 GHz processor! My I-7 Sandy Bridge at 3.8 GHz has been sufficient to date with demanding games but this is remarkable. I'm thinking along the lines of setting up massively parallel RISC chips as yet not designed, running an OS not yet writen, creating a virtual X86 Win7 machine running at 200+ GHz; an unfortunate side-effect of the configuration is that any and all video output will be converted to a nonstandard 425 × 600 16 colors, 12 FPS max. Well, if and when I get this rig running I might be back with a game review.",
+            "review_score": "-1"
+        }
+    ]
+}

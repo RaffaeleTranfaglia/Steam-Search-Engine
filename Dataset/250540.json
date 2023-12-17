@@ -1,0 +1,42 @@
+{
+    "app_id": 250540,
+    "name": "C-Wars",
+    "release_date": "2015-08-13",
+    "developer": [
+        "Onipunks Studio Inc."
+    ],
+    "publisher": [
+        "Onipunks Studio Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 46,
+    "negative_ratings": 44,
+    "price": 9.99,
+    "description": "C-Wars is pixel action game with strategy, rogue-like flavor, and a 16-bit graphics which is retro enough to bring you back to 90's. If you love challenge, pixel art, and occasionally play FPS, then C-Wars is worth to try out.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/250540/header.jpg?t=1459302240",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 Processor: 2 GHz Memory: 1 GB RAM Graphics: 1280x720 minimum resolution, OpenGL 2.0 Support, and recommended dedicated graphics card with 128 MB of RAM Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

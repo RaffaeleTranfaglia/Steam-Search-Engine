@@ -1,0 +1,43 @@
+{
+    "app_id": 758370,
+    "name": "Through the Ages",
+    "release_date": "2018-03-26",
+    "developer": [
+        "CGE Digital"
+    ],
+    "publisher": [
+        "CGE Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Card Game"
+    ],
+    "achievements": 86,
+    "positive_ratings": 434,
+    "negative_ratings": 55,
+    "price": 12.39,
+    "description": "Legendary board game classic from award winning designer Vlaada Chvátil",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/758370/header.jpg?t=1541520021",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 ghz processor single core Memory: 2 GB RAM Graphics: Intel HD Graphics 3000 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 ghz processor dual core Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 Storage: 250 MB available space",
+    "reviews": []
+}

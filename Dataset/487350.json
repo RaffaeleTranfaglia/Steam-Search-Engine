@@ -1,0 +1,72 @@
+{
+    "app_id": 487350,
+    "name": "Pirate Pop Plus",
+    "release_date": "2016-11-04",
+    "developer": [
+        "dadako"
+    ],
+    "publisher": [
+        "13AM Shipping Solutions",
+        "13AM Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 75,
+    "negative_ratings": 46,
+    "price": 3.99,
+    "description": "Retro-style Arcade Action! Join Pete Jr on his quest to defeat the nefarious Bubble Pirate! Dodge and pop bubbles with your anchor and collect coins to customize your pocket game with new faceplates, buttons, backlights, and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/487350/header.jpg?t=1479310921",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 109 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Neat little game. Great at what it offers, a fun way to waste time and chase high scores. Not overly complex but fun and the gameplay feels crisp. Well polished game for 5 bucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a clone of Buster Brothers/Pang  The lack of a real color option is lame but it plays well",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is actually a fun little game. The retro aesthetic is charming, it really feels like an old handheld arcade game. The game is simple but actually pretty challenging, and the rewards you can unlock by playing the game are nice.   note: I got this game out of the Humble Bundle Monthly ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Arrrghhent this a fun little one we have here matey",
+            "review_score": "1"
+        },
+        {
+            "review_text": "well there went two hours",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game feels a lot like a free mobile game. It's repetitive, becomes boring quickly and you have to grind for coins so you can customise your game. That being said, it's not a bad game overall, it's just not worth 4,99€. The game mechanics are pretty solid, and the artstyle is pretty well-done. Nevertheless, I don't recommend picking this game up for anything more than 0,99€. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Definately reminds me of playing an old gameboy style game, nice 'old' feel to it. Good time killer sort of game, and gets hectic at higher levels.  Store page says it has Full Controller Support, however Steam Controller does not just 'work' with the game. Had to map the joystick to up, down, left, right, and a button to 'enter'   The default keyboard controls are kind of cramped being you use arrow keys and enter, instead of wasd and enter.  *edit* After reboot if the game wasd with enter did work. *edit*  Overall with remapping the controller the game is fun, would not recommend for keyboard only users. Does not have full controller support, otherwise would recommend.",
+            "review_score": "-1"
+        }
+    ]
+}

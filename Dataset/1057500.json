@@ -1,0 +1,35 @@
+{
+    "app_id": 1057500,
+    "name": "Sim 4K VR MediaPlayer",
+    "release_date": "2019-04-18",
+    "developer": [
+        "SimppleGames"
+    ],
+    "publisher": [
+        "SimppleGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "Utilities",
+        "Video Production",
+        "VR"
+    ],
+    "achievements": 4,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "A high-performance VR media player that can play media files greater than 4K. If you have a high-performance GPU, you can play files with a QUHD (7680 × 4320) resolution.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1057500/header.jpg?t=1556544113",
+    "minimum_requirements": "OS: Windows 10 (64-bit) Processor: Intel Core i5-4790K / AMD Ryzen 5 1600 Memory: 8 GB RAM Graphics: GeForce GTX 970/Radeon R9 390 DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 10 (64-bit) Processor: Intel Core i5-8700K / AMD Ryzen7 2700x Memory: 8 GB RAM Graphics: GeForce GTX 1080/Radeon RX 590 DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 1056470,
+    "name": "City Zombies",
+    "release_date": "2019-04-12",
+    "developer": [
+        "S'Games"
+    ],
+    "publisher": [
+        "Lucky Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 14,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Find weapons and destroy hordes of zombies before they devour you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1056470/header.jpg?t=1555088034",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor Memory: 2 GB RAM Graphics: OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended) DirectX: Version 9.0 Storage: 85 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor Memory: 4 GB RAM Graphics: OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended) DirectX: Version 9.0 Storage: 85 MB available space",
+    "reviews": []
+}

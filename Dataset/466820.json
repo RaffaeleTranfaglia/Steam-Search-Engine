@@ -1,0 +1,44 @@
+{
+    "app_id": 466820,
+    "name": "Zenodyne R",
+    "release_date": "2016-05-29",
+    "developer": [
+        "Team Grybanser Fox"
+    ],
+    "publisher": [
+        "Team Grybanser Fox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 26,
+    "positive_ratings": 45,
+    "negative_ratings": 8,
+    "price": 6.99,
+    "description": "Zenodyne R is a new 90s-style shoot-'em-up game filled with YM2612 music and real Blast Processing action, where your reflexes and patience will be tested in their entirety! Packed with 6 crazy stages filled wtih bosses, 5 unique ships, unlockables, branching paths and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/466820/header.jpg?t=1471676422",
+    "minimum_requirements": "OS: Windows Vista and higher Processor: 1,8 Ghz Single Core Processor Memory: 512 MB RAM Graphics: Pixel and Vertex Shader 2.0 DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: May not run correctly with Intel HD integrated graphics units.",
+    "recommended_requirements": "OS: Windows Vista and higher Processor: 2 Ghz Single Core Processor Graphics: Pixel and Vertex Shader 3.0 DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: May not run correctly with Intel HD integrated graphics units.",
+    "reviews": [
+        {
+            "review_text": "Hell bids you enter. Victory may come slowly, painfully... Or perhaps not at all. But seek this despair, and you will be rewarded....  Zenodyne R is ruthless and unforgiving, but the satisfaction of beating cruel and heartless levels will leave you hungering for more.   9/10 -Ridge",
+            "review_score": "1"
+        }
+    ]
+}

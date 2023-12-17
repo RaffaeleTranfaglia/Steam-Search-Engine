@@ -1,0 +1,48 @@
+{
+    "app_id": 637120,
+    "name": "Space God",
+    "release_date": "2018-04-18",
+    "developer": [
+        "Jellypig Games"
+    ],
+    "publisher": [
+        "PsychoFlux Entertainment",
+        "Jellypig Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Shoot 'Em Up",
+        "Bullet Hell",
+        "Top-Down"
+    ],
+    "achievements": 20,
+    "positive_ratings": 16,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Space God is a 'hyper retro neon' style top-down shooting game. Play in single player, online co-op mode, or online multiplayer. Don't stop, keep moving! and you might survive... maybe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/637120/header.jpg?t=1524835952",
+    "minimum_requirements": "OS: Windows 7 SP1 or higher Processor: 2.0 GHz Dual-Core CPU or better Memory: 2 GB RAM Graphics: NVIDIA GeForce GT 400 series or better (1GB VRAM required) DirectX: Version 11 Network: Broadband Internet connection Storage: 256 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,938 @@
+{
+    "app_id": 214340,
+    "name": "Deponia",
+    "release_date": "2012-08-06",
+    "developer": [
+        "Daedalic Entertainment"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Point & Click",
+        "Comedy"
+    ],
+    "achievements": 19,
+    "positive_ratings": 7208,
+    "negative_ratings": 840,
+    "price": 6.99,
+    "description": "In Deponia, the world has degenerated into a vast garbage dump, in which the crotchety Rufus ekes out his sorry existence.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/214340/header.jpg?t=1550763265",
+    "minimum_requirements": "OS:Windows Vista/7 Processor:2.5 GHz (Single Core) or 2 GHz (Dual Core) Memory:2 GB RAM Graphics:OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended) DirectX®:9.0c Hard Drive:5 GB HDD space Sound:DirectX compatible",
+    "recommended_requirements": "OS:Windows Vista/7 Processor:2.5 GHz (Single Core) or 2 GHz (Dual Core) Memory:4 GB RAM Graphics:OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended) DirectX®:9.0c Hard Drive:5 GB HDD space Sound:DirectX compatible",
+    "reviews": [
+        {
+            "review_text": "Daedalic is no LucasArts, not being backed by some insanely popular moneymaking franchises that rhyme with Mar Bars or Diana Clones. But the LucasArts we knew isn’t coming back, so I suspect it’s a good try it if you’ve got a hankering for that style of gameplay (with a similar amount of difficulty).  In contrast to its clear inspirations found in series such as Monkey Island, it suffers from production iffiness issues such as variable voice acting and animation quality (in the English version, there are some nasty translation-isms throughout, and multiple lines of that sort where they clearly stressed a word in a sentence that wasn’t the one that should have been stressed), as well as an indecisiveness as to what constitutes an appropriate style of fourth-wall breaking.  Much to the game’s credit, however, the setting is a unique junkyard world and the protagonist Rufus (at least at the start) is more the sort of guy you might expect a point-and-click adventure game kleptomaniac vandal to be: a near-irredeemable jerk. Unfortunately, people are all too willing to point this out to his face, which sometimes works in the story’s favor and sometimes doesn’t. Moreover, there are a lot of artistic details in the world that you simply can’t click on and have Rufus snark about, which is something of a must to get a real feel for an adventure game world’s presence.  One thing that is much nicer than typical old-school examples is that you don’t have to do the pixel-hunting if you don’t want to (hold space to see the interactive spots), and most of the time, you don’t have to watch a slow walk animation just to explore the map (double-click to fast forward through navigational arrows).  Finally, the game is kind of crashy in a few spots (at least the Mac version is), so you may want to do some saving on top of the auto-saving. Some achievements are skippable, but at least one achievement guide in the Steam community is relatively spoiler free.  For all its flaws, the game is usually about as funny as it thinks it is, so at least I can say I enjoyed it. Nonetheless, this game has some mature humor, so don’t get too fooled by the cutesy noseless art; it’s not really for kids.  Droggeljug.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my favorite adventure games from the last few years due to its fairly quirky nature and its original characters. It also has a very beautiful and charming art style and great music and voice acting to go along with it. The humor is great...most of the time, and the puzzles make sense most of the time but every now and again it goes full on Monkey Island-logic, and you need to think way outside the box to progress.  The game has a lot of missable achievements so would recommend having either a guide handy or use saves very frequently to avoid more playthroughs then necessary. It also has an achievement for beating the game in its alternate mode that you unlock by beating the game:  Droggeljug mode . This will replace all written and voiced dialog with the word  Droggeljug  along with all the info boxes. While funny for the first few minutes it gets really annoying, and you want to uppercut a kitten.   Time to 100%:  6-8 hours",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A hidden gem of a game. A well designed and written point-and-click puzzle adventure game with a charm to it. Though I admit it has a few strange things that might get you stuck like it has done to me a few times (Eg. having a very small object to find only by clicking on everything and making sure your cursor covers every pixel of your screen). But yeah I still think the game is great but you should consider buying 'Deponia: The Complete Journey' rather than just this one game because there are 3 parts split into each game (so 3 games) and its a lot cheaper to get the complete game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game with a nice story.  ✓ Nice story. ✓ Great sound track and voice act.  ✖ Sometimes annoying with hard puzzles.  (puzzles can be skiped but the achievement will be missed)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the funniest game I've played in a long time and also a new favorite. Point and click games were never really my thing but this one doesn't disappoint. Rufus and crew are hilarious, the story is good and the puzzles are challenging without being frustrating. I highly recommend this to fans of point and click and/or comedy. :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Artwork and humour is really good, but some of the puzzles simply don't make sense. I'd suggest Memoria from the same studio...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Art style is pretty good. Players will probably have mixed reactions tot he story and characters. I personally found the story pretty unengaging and the characters were unlikeable. This is already a pretty bad problem for a point &amp; click adventure game, but when you add that the puzzles make no sense, Deponia is essentially a guessing game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome adventure game! in depth characters, and great plot! as well as being a challenge, some of the puzzles I definately had to think outside the box a bit... but I enjoyed every minute.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun game but not without flaws. I had a couple of game breaking bugs so remember to save often. The art style is fantastic and supports the humor of the game. If you are not a fan of the old style of point and click adventure games with rub every item against everything in order to progress it's going to be somewhat annoying. Overall I recommend this game for it's funny story and the art, but keep in mind to save often.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "hahaha you want to have a good time with your friend? play this game while drinking.  most of all the artstyle is soo good, perfect for a point and click game and the theme of the game itself,Garbage land. Voice over is also superb, dialogs are interesting and the story is CRAZY WEIRD hahaha But I love it.  the only thing I don't like, the Answers to the Puzzle are not logical(trial and error most of the time),and oh my gawdd! the things that you can interact with are soo hard to find(if you're not using the Thingy finder)  soo honestly, it's kinda hard to recomend :p but if you're just looking a crazy Point and Click game, try this one.(hahaha and enjoy the Voice over conversation)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A funny point and click game but very challenging. - first of all the plot, you play as a guy names rufus and his main goal in life is to escape a planet full of junk to a heaven-like place called Elysium for a better life but faith has other plans for him (the plot gets more interesting as you progress in the game). -the gameplay is smooth and as any ponit and click games you have to solve puzzles to progress but in this game i find it very hard in the begining cause you dont have hints or anything to point you in the right direction, the combination and the solutions to the puzzles are very wacked and a bit crazy , kinda remind me of the RUNAWAY series ( chek guides for more helps) -the graphics are 2D/3D comics drawing art style (funny and enjoyable) -the voice acting is perfect , various dialogues and interaction between characters , music is enjoyable but gets repetitive sometimes -sadly the game has various bugs and some of them kills the progresion of the game but hopefully teh devs made it possible to download savegames from the site ( savegame for each lvl of the game ) better then nothing i guess. -all achivments are easy except for the last one , you need a special savegame from the site to unloak it r just use SAM and the price is a bit too much but you always can get it on sale ( get the full journey cause you gonna love the game ) finally i recomend it for point and click fans specially RUNAWAY series 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pros  - gorgeously drawn cartoony artwork just like another Daedalic Entertainment's games - witty and colorful characters - good character animation - i guess story is decent.   cons  - another adventure game has full of nonsensical / obtuse puzzles - first half of the game slow pacing. - game is concluded with a cliff hanger. you have to play sequels to get whole story. - game is short. it lasts only 6 hour.   it's not a bad game but not great either. only buy on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game that's worth a try, especially if you're a fan of Monkey Island and other old point and clicks. Like many games in this genre, there are sometimes puzzles with strange/contrived solutions, and I found myself having to Google some solutions. The world of Deponia is interesting and funny, and kept me playing even when I felt frustrated with certain puzzles.  The English voice-acting is poor quality and kind of annoying, so I reccomend that you play with the German voice-acting, and just turn on subtitles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The main character being a complete ♥♥♥♥♥♥♥♥♥ didn't come across ironically, and just ended up being super annoying. The game was ok, but kinda ruined by the terrible people/story in it. I only finished it to see if there was character development towards the end to fix this. SPOILER: there wasn't, and it sucked. Its worth about what I got it for on sale ($2)  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this is definitely love at first sight",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game genuinely captured the old point-and-click humour that has been so cripplingly missing in recent years. It was my gateway drug into more contemporary P&amp;C Adventures like 'The Book of Unwritten Tales'. Play this, it's amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia is the 1st part of a Trilogy that takes you to the junkyard world of Deponia where the stubborn, egocentric and yet bold boy Rufus dreams of leaving the tedious Deponia for the paradise Elysium seen floating in the sky above. For me the games biggest strength have to be it´s quite humorous tone which is especially notable in the often hillarious dialogues filled with sarcasm. It should be noted that the main protagonist Rufus is not a very likeable character, he´s actually an excellent example of the 'anti-hero', which might put some people of but I myself found it refereshing to play as a flawed character instead of the usual Paragon.  The graphics and especially the backgrounds are really nice and the character models are not far behind. The Audio is excellent and especially the Bard theme during some of the cutscenes. The puzzles are varied in difficulty which I like but all those who where tougher to crack had some form hints often found in dialouges with characters nearby. The puzzles also have a 'skip' option for those who find them annoying and want to get on with the story which is nice I guess.  One final notice is that the 'silly mode' called Droggeljug which is needed in order to get the final achievement for 100 % is super annoying and I would actually go against my usual view and recommend to 'cheat' in order to get it. Having to play another full playtrough with no dialouges in a game based on dialogue was not a very bright idea by Daedalic in my opinion but it´s a minor flaw in a otherwise great game.  I fully recommend buying this although the full price of 19,99 € might be a tad to much considering the lack of replayability but at a -50 % or better discount it´s definatly a good buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good laughs and smiles was what i got from this. Reminds me of Monkey Islands.   Game is also dirt cheap and many times on sale. Definitely worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was given Deponia as a gift by a friend, as a point and click I can play on Mac.  It's been fun and the puzzles are fun and the animation is good. However, near the end of the game there is a gamebreaking bug that prevents any progress whatsoever. Good luck contacting customer services for assistance; they have taken two weeks so far to get back to me on this issue and I am still waiting for any useful feedback. Recommended only if you like a pretty fun game only to crash near the end, preventing you from ever finishing!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Some real fun Monkey Island point and click throwback shiz right hurrrrr",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very fun and entertaining game. Bought this cause it was cheap and has a nice atmosphere to it, well it was freakin' worth it. The game is a classic point and click game with a humorous dialog and funny looking characters. It has an average plot, but the game and its mini games are extremely hard, like, its impossible to finish it without looking a bit in walkthroughs. Haven't finished the game yet, but i do plan to do so. As for now, the part where i enjoyed the most was the robot happily popping the babblewraps and toni taking a bath (LOL)  11/10 would open the shower again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game... is AMAZING!!! When i completed it I felt sad bc i had grown attached to the character known as Rufus. Sure he is kind of a horrible person, but the levels of sass from him and from the other characters make the humor that much more unexpected. The puzzles are really engaging and deviously clever and you really have to sit there and think about how to get the right outcome because it will take you a while to figure out the puzzles. One thing that i didnt like is when you have the right items but when you go to click on the object for the item, Rufus will say some phrase that just gets suuper annoying and you are left saying, ITS RIGHT THERE, WHY ARE YOU NOT USING THE ITEM IN YOUR INVENTORY ON IT?!! Some of the outcomes really blew my mind because i was like, WHY WOULD YOU DO THAT, THATS AWFUL!!! but, it was so so funny! I would recommend this game to anyone who is looking for a new game to play or just a person looking to relax.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There exists in el mundo much hating on the this game and the series as a whole, and I can see where they're coming from, but at least give it a chance. If you like to indulge in a variety of both adolescent and mature comedy, have fun playing point and click games, or enjoy scratching your head, at least try the game out. If an experienced (or at least moderately so,) point and click player, a substantial taste of the game is certainly achievable within steam refund playtime limit.  RPSs review of the series past this game are not to be believed (as well as the lukewarm reception of this game) they harbor deep prejudice/not giving fair chance/failing to grasp game components correctly and John Walker should go walk off a cliff.  I'm not going to give insight on the game 'cause its content is simply ineffable and must be experienced through your own gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh my, well I have to say I fell in LOVE with this game! Another gem from Daedalic &amp; fans of point &amp; click adventures will adore this.  Pros :: Great soundtrack, from beginning to end it's really awesome how well thought {&amp; well made} the music was. :: During game play, general movement &amp; such is beautifully smooth :: Stunning art style - you can truly see how much work was put in to make Deponia look beautifully bleak :: Awesome characters - if you enjoy supreme amounts of sass with a main character, you won't be dissapointed  Cons :: This is more of a computer issue than an actual game fault issue {I assume anyway} - but during video cutscenes the frame rate was a bit terrible. Just felt supremely laggy. I wish there was an option to turn down the resolution to prevent the lag &amp; aid other folks {similar to myself} who don't have the most awesome of computer set ups. :: I found at times during gameplay, Rufus {the main character} would randomly stop walking at points when I clicked on somewhere for him to go. Most common places this happened was in Deponia city center area &amp; the Mayors office {tried to click on the door to let me in, took like 4 tries}  Other than that, I genuinely don't have many negative things to say about the game. I beyond loved this game, so much so that I took advantage of the steam sale &amp; bought the 2nd &amp; 3rd parts to the Deponia saga... Even if it wasn't on sale, i'd happily throw all my money at steam to buy the full set, at full price.  Would highly recommend that you invest in the saga!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I was a kid I played Monkey Island and Indiana Jones and the Fate of Atlantis so when I spotted this game on Steam and saw the fun, easy going attitude I simply couldn't resist it.  You're playing the local celebrity(?) Rufus who's dreaming about reaching Elysium, the city in the sky and, being the genious you are there's nothing that's gonna stop you.  The game got a nice sense of humor that I found very amusing and all the dialogues have voice actors who did a really nice job. In addition to the normal adventure clicker you also get to test your wits in some mini-puzzle games in order to progress (they're optional though so if you're not into that then there's a skip button although you won't get achievement for it). The controls were easy since they were just point and click, the mouse-pointer showing you the options available and the scroll-down inventory was a nice touch as well. As far as difficulty goes I'd say it's a little bit easier than the Monkey Island games while still hard enough to keep it interresting.  Cons: Low replay value (since you already know where to go, what to do etc) and I also felt as if the game was a bit short compared to for example the Monkey Island games.  Having trouble deciding weither to give it a 4 or a 3 due to the low replay value but I'm guessing that, based on the genre, nobody really expects that to be high anyway so... *drum roll*... 4 it is!  1 - Crap, don't buy 2 - Fun for an evening 3 - It's an alright game 4 - Great game 5 - One of the best I've ever played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are looking for a puzzle game, this one can be good. The illustrations are nice and visually it is a great game. Some of the interactions with objects are a little harder to find,some of the puzzles are a little confusing and the storyline is a little basic but overall it is an appealing game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game with decent and difficult puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An adventure game that looks like a LucasArts one but, at least in terms of the puzzles, occasionally feels like a Sierra one.   The story is pretty simple: A loser wants to escape his garbage dump of a home, and leave for someplace better. The captions have some spelling errors, the voice acting occasionally falls flat, and the puzzles both halt the game's pacing, and sometimes serve to frustrate the player. Not many times, mind you, but there are a few that will make you ask, 'Really?'  So, why do I like the game? Well, I love adventure games, and Deponia is a nice throwback to the 90s halcyon days. Even the lead character, Rufus, feels like Guybrush Threepwood (Monkey Island). Actually, he feels more like a mix of Futurama's Fry and Bender, if that makes any sense.  Of course, Deponia fans know what Rufus is really like: Herpes. Or, should I say, 'a cooler version of herpes.'  The trilogy goes on sale fairly often, so I'd say wait for a deal and scoop up all three. Happy gaming!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Puzzle Game, Good Graphics... Too bad the character walks so slowly. Would rec tho.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great plot, great looking game. One of the best point and click -games there is. Highly recommended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can understand many of the points presented here. The pacing definitely is a bit off, and I completely agree about Kuvaq: They gave you the impression that it’s “just one more puzzle and then we can escape” the whole time, and that is kind of frustrating.  What I absolutely can’t understand is that story, dialogue, animation and humour are being criticised. Those are the strong points of the game that actually make it one of the best classical adventure games I’ve played in a long time. The cutscenes are top notch and beautiful to look at, the characters are quirky and funny and just thinking of the scenes with the post robot going crazy on bubble wrap or the doctor “transforming” into a police officer makes me chuckle.  The story was also misinterpreted, I think. Rufus actually is a pretty selfish guy, and you can’t possibly describe his relationship to Goal a romance. He treats her horribly and in the beginning it’s basically pure lust that drives him. Seeing how he slowly starts (!) to change is what made his character interesting. And concerning Rufus’ father, I’d say that it’s just not true that this plotline gets dropped. Just look at the ending and the characters involved… the cliffhanger ending ties everything together.  Oh well. One last thing we agree on: This was merely an overture, the real adventure is just getting started. But personally, I’m very excited about that.  Bless you, Droggeljug!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It kept me quiet for so long, my girlfriend forgot I existed. So she invited her lover over. Guy likes the game too. Nice and fun experience overall. It wet my beak to replay point&amp;click adventure games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Funny and good looking. Reminescent of Monkey Island. A bit poor on the animations, but overall a nice game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good, funny point and click adventure game, as long as you're not oversensitive over some things. ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The puzzles can be a bit obscure sometimes, even for a point and click, but the story is great, the voice acting is perfect and I enjoyed playing this game a lot. Looking forward to the other two games in the trilogy.  Wouldn't recommend buying it at full price, though. Get the trilogy, on sale.  Otherwise, 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia was very interesting experience for me. While I have played point-n-click games previously, it was back when I was in elementary school before I received the original (brick) GameBoy. The settings and graphics were unique while the animation and voice-acting were better than expected.  While I personally could care less about Rufus' (Protagonist/Main Character) attitude and personality, I will admit that this game did have me laughing at some points due to the pitfalls he encountered. Yes, his comebacks are terrible and oft a pun, but the storyline kept me interested enough to continue playing to see how things panned out.  The first playthrough took about eight to nine hours to complete. The second one was quicker though challenging since I enabled 'Droggeljug' effect (turn off your speech sound lest you go nuts from hearing it so much) and had to guess often as to which response I was clicking on.   All-in-all, would I recommend Deponia? Yes, with a note to just play it for humor. One game/chapter done, now onto “Chaos on Deponia.”",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was skeptical at first, but this game turned out to be one of the best game purchases I've made in a while. Why? Well.....    PROS:     1) The story was good,  and the characters were all quirky and memorable. Throughout my time playing, I was always thoroughly entertained by the story, and even though the puzzles were fun, I always found myself looking forward to the next scene. If you're someone who enjoys story-driven games, look no further than Deponia.   2) The puzzles.  While requiring some creativivity, I found a good portion of the puzzles/minigames to be relatively intuitive and to generally be pretty ballanced, difficulty-wise. The game does a good job of giving you non-cheaty hints to point you in the right direction, so you aren't stuck somewhere trying to combine a fish with a lightbulb, hoping that something will click so you can progress.   3) Items.  Although this is a bit of an odd category, I'm putting it here anyways because it's dreadfully important in point-and-click games. Good item management keeps puzzles from having too many possible-but-wrong solutions (solutions that make logical sense, but aren't coded into the game), and placing items well makes it much easier for players to FIND the items that they need. The game, I believe, manages to pull both of these off very well.   4) Great art with a unique style.  It's a game I had fun just watching myself play.    CONS:   Honestly, I can't think of much to go here, except that Rufus' (the character you play as) movement speed is attrocious, but that's bearable once you realize that you can skip his long treks with a double-click on his target location.  Actually, if there was one complaint I had, it would be the lack of explanation given to some of the little nuances like the one explained above. Another one of these 'tricks' is that if you hold down the middle mouse button, it displays all of the available 'action spots' on the screen (eliminating the need to drag your cursor over every inch of the landscape). Perhaps I just need to learn how to read a manual, but it seems like these are important enough to at least deserve some kind of closeable pop-up diologue in-game.  Now that that's out of the way, do I think it's worth purchasing? Yes. Most definitely, yes. And unlike most games that I purchase, I believe this one is worth it at it's full price (10$ at the time of me writing this). And if you know me, you know I'm a stingy ♥♥♥♥♥♥♥, so that's not something I say often.   In a nutshell:  Good story, memorable characters, well-designed puzzles, and great art. Remember your double-clicks and middle clicks. Reminded me of when I played Freddie Fish as a kid (only Deponia's a lot cooler, imho).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Deponia' is good and still logical in his own universe. But don't play the next episodes..You'd better imagine your own end of the story instead of playing real one in the third 'Goodbye Deponia'...This one is nice &amp; funny. The second one 'Chaos on Deponia' is just okay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great fun. Reminds me of the old LucasArts Maniac Mansion and the like.  Fun humour, good puzzles. Strikes the correct balance between level of trickiness to the puzzles and whackiness to the story. I got this in a super cheap bundle, and am looking forward to trying out the next game in the series. For the price I got it I would have been happy even just with part one :-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A humorous 2D point &amp; click adventure in which you play as Rufus, an inhabitant of the low-tech, junkyard city of Deponia who dreams of escaping to the advanced city of Elysium in the sky. Early on an Elysian girl falls to Deponia and he sees this as his opportunity. The game suffers from a slow start, but the story picks up later with some suspense &amp; a satisfying ending.   Progression is based on multi-screen environments and an inventory system, including combining/McGyvering items. It's a mix of common sense, critical thinking and trial and error. There is occasional frustration with sequence or dialogue, but you can click for audio commentary/hints on most things and press a key to see all the hotspots on screen.  Beautiful, hand drawn art at 1080p with a minimalist interface that never feels cumbersome or gets in the way of the art, has Steam achievements and is fully voiced.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "quite a nice story, protoganist is bit of a *** , puzzles might require a certain amout of headbashing against unindentified objects in your room. but clearable without the use of walkthroughs (as did i huehue ^^) all in all worth buying if the discount is big enough x)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pleasent game with nice graphics and good humor. The only weakness is that there ici some bugs with the sound. Not too long (less than 7 hours), but there's a sequel :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great story, animation and puzzles. Had so much fun playing it and found myself thinking 'I GOTTA FIND OUT WHAT HAPPENS NEXT!' so often and so hard I went through the whole game and achievements in just a few days. It's unfortunatly short, but it's to be expected from a point and click adventure (finished the whole thing, including all achievements in less that 15 hours). Can't wait to get the sequels so I finally find out what happens to the characters. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm not a fan of point-and-click adventures and i'm not quite good at them, honestly, but i liked the game's art and aesthetics and the fact that it was fully translated to my native language, so i bought it. Playing the first chapter i was enjoing the game so much, then i found out by myself what people were talking about in their reviews: there's not a clear logic behind puzzles (why should i use a parrot with an emergency phone after i gave it coffee?) and i had to use several hints till i decided to give up. Translations are good and voice acting too: anyhow i found it hard to follow Rufus' story where  everyone  is complaining about the main character even though he may be a complete a-hole; in addition to that, i wouldn't say humor is a merit at all, on the contrary i found dialogs quite frustrating.   Goodby Deponia.  EDIT: people are complaining that some achievements won't unlock and that's true. I have finished the game but its achievement didn't trigger.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "good game, really fun to play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game starts off pretty sexist, then we get to trasphobic jokes, then back to more sexism.. I had to call it quits. Nothing about the plot was redemable... And the puzzles make no logical sense. I am ashamed to say I was really excited about playing this game, and that I looked forward to it for years. What a let down.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great gameplay and great humor! It cracked me and was a lot of fun to play!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome, the puzzles are great, the game is short but it's a trilogy so if you play this you will play the next ones if you like puzzle games! The main character is one unacknowledged guy in his city who wants to go to another planet but the people in the city thinks he's crazy. He'll test his skills in his journey! Seriously, puzzle lovers, try this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really good classic point-and-click adventure with a great story, lots of voice acting and some really great graphics. As for puzzles, all the regular 'adventure puzzles' were good and not too obtuse, but a few of the minigames annoyed me. Thankfully there is an option to skip those. The only bad thing really, is the protagonist, who is an insufferable ♥♥♥♥, but if he wasn't, there wouldn't really be any story. Highly recommended for fans of old school adventures!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't recommend this game. It's pretty boring, the story isn't well written at all, the protagonist is really annoying and it's just plain sexist (the protagonists love interest is called 'Goal' and a bunch of guys fight over her while she's in a coma...'nuff said)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you're looking for a stinking bath to dip yourself in, you have found your way.  Painful overusage of tropes makes this a waste of your time. Please don't buy it if you're at all concerned about what kind of media you spend your time on.   The protagonist of this game is horrible. The puzzle logic is horrible. The plot is flat. The worst part of this all is that the game is concious of all of the above but either chooses to ignore it, or critiques it in such a way that it's not a critique anymore but a mockery. Theft, absurd sexism, transphobia, animal abuse, abuse of persons and tools, ignorance, shallow remarks and little to no actual substance or even sparks of intelligence are present, all wrapped in a neat, attractive bundle of vague definition of what the devs concidered 'fun'. Non of this is particularly visual (except animal abuse), but it leaves a bad taste in your mouth for quite a while. It's hard to believe that someone could talk proudly about this game as their work. After stong references to Machinarium I am nothing but disappointed.   This kind of animation, voice acting and soundtrack deserved better imho.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Best game I've played in years. If you liked the Curse of Monkey Island, you'll love Deponia. Same clumsy, messy, hilarious protagonist. Great sense of humor, awesome graphics/drawings, fantastic music, witty plot, and challenging logical puzzles. 10/10, brings the FUN(ny) back to gaming",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A wonderful, funny and intriguing story about an optimistic inventor and adventurer on a mission to find a way of his home-planet. The objectives are full of humor and surprises. The only downside to that is that sometimes they end up not being very intuitive. A very enjoyable story-driven journey!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "quite good point and click adventure. reminds me good days of old lucas arts and sierra.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved that game!!Looking forward playing the next parts!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "BEFORE ANYTHING ELSE: IF YOU DOUBLE CLICK ON THE EXITS, YOU WILL MOVE TO THE NEXT SCREEN IMMEDIATELY, YOU DON'T HAVE TO WAIT FOR RUFUS TO WALK ALL THE WAY!  Hopefully this will get a chance to help people, I had the hardest time watching Rufus all the way across the center of the town.  I think this is another great piece of work from Daedalic Entertainment. Wonderful artwork and music as always. Difficult puzzles but nothing out of the unexpected if you have played any games from Daedalic.  At the beginning, the plot may seem a bit confusing since the setting does not get explained further on into the story. It's kind of hard to grasp the concept of Deponia and Elysium until later of the story. The first half of the game may seem a bit boring but the story is amazing if you could hold onto it until the very end.  What I do find interesting is that the protagonist is not your usual all-mighty or pure-hearted wonderful person. Rufus is an a-hole that does not have a job and nor does he appreciate his ex's help. Unfortunately the story does not tell into too much of Rufus past and explain why he may have became like that. Hopefully I will have time to play Chaos in Deponia very soon to find out more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "These games are crazy fun. The story will surprise you and the characters will grow on you. Be prepared for a wild ride.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I gave this game a shot because it was only 2 dollars and I figured I could get a feel for the companies games. I only played it for a little over an hour and I have to say I did not like this game at all and doubt I'll ever play it again. The game has good humor and nice graphics but the puzzles are completely illogical most of the time and the protagonist is annoying as hell. All I thought was why would they make such an unlikeable person the main character? Despite all of this I could have still managed to play it if it wasnt for the repetition. Try something to solve the puzzle - main character says 3 lines of dialogue... over and over and over and over again. So annoying that it was what finally made me quit.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fairly tedious, obnoxious characters, puzzles aren't all logical enough to actually be puzzles (just try combining everything until something works is not the same thing as figuring something out), dialog takes forever, offensive depiction of a transgendered person for humor. Nice artwork, but that's about it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I tried this game and failed miserably. The puzzles don't make much sense to me and I really can't recommend it to casual gamers who just want to have fun. This is way too challenging for me to fun. The story might be good but the puzzles ruin it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Story and puzzles of this game are amazing looking forward to playing part 2 and 3!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awful!! Some of theings that we are expected to thin of are ridiculus, this isn't problem solving its idiocacy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great start of the triology. I liked every part of the series..",
+            "review_score": "1"
+        },
+        {
+            "review_text": "wonderful little game cant wait to play the other 2",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game i enjoyed playin' it does have a fine Graphic , but i don't like the fact that doesn't have hints or clues, sometimes you have to search everywhere hoping to find the thing you suppose to get or even do... BTW it's still good 'n' nice game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has the potential to be fun. It is has some crude humor and irony that give a good laugh. On sale, it is a nice pick-up game.  The reason this review has received a negative from me is the fact that it has game-breaking bugs in it. These are things the developers should absolutely have ironed out prior to release. Although the game itself is not too long, wasting hours to get all the way back to the point the game broke only to progress does NOT make one want to continue  EDIT: After the 11/17/14 patch, validated steam files, and with a fresh game as suggested by the developers, this game continues to not work properly.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The gameplay isn't the best. The story is! The story is just amazing. The grapichs are THE BEST! I should realy recomment buying this game( for sure in sale) The second and the third part of the game are great to i think. Just buy the game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "░░░░░░░░░░░░▄▄░░░░░░░░░  ░░░░░░░░░░░█░░█░░░░░░░░  ░░░░░░░░░░░█░░█░░░░░░░░  ░░░░░░░░░░█░░░█░░░░░░░░  ░░░░░░░░░█░░░░█░░░░░░░░  ███████▄▄█░░░░░██████▄░ ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░  ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░  ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░  ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░  ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░  ▓▓▓▓▓▓█████░░░░░░░░░█░░  ██████▀░░░░▀▀██████▀░░░",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great throwback to the old point-and-click adventure games. Puzzle element is challenging but not impossible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia has a great story and really humorous characters. This is the first point and click adventure game I've played in a long time, and while the genre is not my favorite, it was a very enjoyable experience. One of my favorite aspects about the game was the mystery which surrounded Elysium and the futuristic, upper class society which runs it.   The majority of the puzzles can be figured out in a mostly straight forward manner, I only had to cheat by looking at a walkthrough a few times. The main character, Rufus, reminded me of a more egocentric Fry from Futurama and I suppose the art style also reminded me of the TV series.   The game made me laugh out loud a handful of times and often put a smile on my face, it was perfect, just like me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a really enjoyable point and click game. It is humerous and has nice puzzles. I am not good at puzzles so I got some help but it didn't make it less enjoyable. I recommend it 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic, beautiful, creative and full of fabulous poetic verse and wonderful wording. Hooks you in to continue the series, highly recommended as part of the Deponia Complete Journey Collection!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It truly is incredible how Daedalic Entertainment delivered all three episodes within a year, not compromising the quality a single bit. Deponia starts a spectacular journey that no adventure fan would want to miss, and Goodbye Deponia concludes it in a more spectacular manner.   Full Review  [www.noobfeed.com] .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game crashes at the end of cutscenes unless they are skipped...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is awful nuff said.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Short version: This is a good game, but if you don't have any of them, the Complete Journey is a much better investment. The games integrate well together, there are more achievements, and it's available on more platforms.  This is just a cut down version of my review for the Complete Journey.  By now you've probably heard some things about these games and about how the creators are the 'German Lucasarts' [which seems a bit unfair given there isn't an American Lucasarts any more].  Well, I for one really enjoyed these games. There was a good balance between outright comedy and drama and the design and animation is top-notch, and it seems to be impossible to get stuck or killed.  The first game is not as good as the second and third though. I found Rufus to be a bit of a jerk and rather unlikeable, the backgrounds pretty though mostly static, and the puzzles largely illogical. Oh, and the game seemed to suffer from the same problem that Simon the Sorcerer did. It thinks it's funnier than it is.  The creators do seem to have made point-and-click adventures their 'thing', and rather than Telltale who seem to have rounded all the corners off and made their games simpler for a new generation, Deponia is aimed squarely at people who enjoyed these games when they were in their heyday. That doesn't mean they're old-fashioned though. The control interface is reasonably straight forward, the games are gorgeous (did I mention that?), the voice acting is excellent and the music is..well, it's alright. You can switch it off if it gets on your nerves.  I'm not going to compare the game to Monkey Island. Just because it's a point-and-click game doesn't mean it has to be like a Lucasarts game. It's not as wacky as Cokel's Gobliiins series, nor is it as serious as The Dig. Perhaps it's more like Sam and Max, with the gleefully anti-social protagonist. Regardless, if you like point-and-click games and want something with a good storyline and hours of gameplay, it's difficult to go wrong with this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Silly dialogue, silly characters, silly setting, silly puzzles.  I'll try to remember to get the sequels next time they're being sold.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game to spend some time,",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A surprisingly good adventure game. If you're already an adventure game fan, this is definitely one to pick up. The story is good enough, the comedy is there, the voice acting is, for the most part good, barring a couple of characters and most importantly, the puzzles are logical. Chances are, if you get stuck, you'll find out the answer and be slapping your own forehead, than throwing the game out the window. This is a game, however, where pressing spacebar to reveal hotspots could save a few of those head slapping moments. I'll be waiting to pick up Chaos on Deponia.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "They call him, Rufus...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unique characters you grow to love, good puzzles, and pieces of hilarious writing and events sprinkled throughout the whole game. Good progression, though some puzzles were more bizarre than others and therefore needed a few hints here and there from a guide, but I still found myself plowing through just to see what would happen next. Rufus earned a special place in my heart alongside iconic characters like Guybrush Threepwood, and for good reason. This is a must-have for point-and-click lovers everywhere.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a nice game with decent graphics and funny story, and I have even played and finished it at my friends computer when it was originally released, but sadly there there are some (randomly appearing) blocking bugs which makes the game unfinishable (from time to time). And as I rememeber, some of these bugs were there even when the game was originaly released, which was more than year ago. And gues what - they are still there (and if somebody is interested what is the problem is /this time/: there is no way to leave radio operator tower when he is overwhelmed by all the incomming comunications).  So if you are willing to try to avoid these bugs (and possibly (re)play the game from the beginning for several times during the process), then go ahead and buy it, it is a GREAT funny game. You may even be so lucky that you will not encounter any of the bugs :)  For everyone else - stay clear of it, you will get frustrated from triing to avoid these bugs...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The protagonist is far too irritating for this game to be fun. I'm fine with slightly annoying characters, but this was just next-level stupidity and egotistical behavior. Not to mention that the humor didn't work about 95% of the time, and when it did, it just wasn't that funny.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is very nice! graphics are nice it is a point and click game. Funny jokes and good animation. your character will move whenever u are clicking to. it is a quite difficult puzzle game too.  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good Ol' point-and-click game, while it has lots of comedies along the way, the adventure story is great.  Recommended for 'break' game !!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't like the characters, the slowness of the game, the non-intuitiveness, the storyline. I don't like anything about this series. Money back please.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "honestly, i could never recommend this game. i understand what they were going for with rufus: an honest appearance of a rpg character, how others would see that person. but he is beyond unlikeable; he has no redeeming qualities and nothing that stops me from wishing he was dead (my only brief period of enjoyment was, in fact, watching him be in pain).   the transmisogynistic trope of the town hall clerk being A Man In A Dress, replete with an annoyingly high falsetto and i cannot bother with this game anymore.  someone call me back once this game erases rufus and instead it focuses on toni and ms. goal doing something instead of toni existing as a Nagging ♥♥♥♥♥y Ex even though he's lucky as ♥♥♥♥ to have her.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "3rd person point and click adventure, not my cup of teas",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not fun. Characters weren't likeable and treats all the women in the game really poorly.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is so 'funny' I can't stand it. Not quite 'ha ha' or 'heh' funny ... more like 'your screaming 9 year old nephew wrote the dialog while eating a 50 lb bag of cotton candy and leaving sticky fingerprints all over your screen and spilling soda in your keyboard, and maybe someday we'll look back at this and laugh'.  I was excited for this game given the obviously high art quality and ratings, but I made it through the tutorial and first scene and could stomach no more. As some people have mentioned, the puzzles were harder than many other contemporary adventure games, but they were far from impossible and roughly on-par with the old classics. The only positive thing I can say about the gameplay is that the solutions to the puzzles were actually amusing, and require you to behave like the horrible person the protagonist is trying to be.  Maybe I'll take a deep breath and try again soon.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The puzzles make no sense.... you'll spend hours just randomly clicking around in a hope that something makes you proress. A blowpipe made from a funnel? Really?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I call it tedium. If you aren't the thinkin' type, you might call it a challenge. Just because a game is geared towards children doesn't mean it has to cater to dullards - at least, I think it's geared towards children. If it isn't, then, well, it's worse than I thought.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is so hard i cant beat the tutorial",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "While the game itself is pretty decent as an adventure game, the way this game treats female or transgender characters... it is uncomfortable. I'm sure there must have been ways to be fun other than being biased and making fun of a sexual minority. I feel like I approved, and even ecouraged, of their immaturity by buying their games...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A great point and click game with a compelling plot. Highly reccomend. But try to get it at a discounted price though, normal price is a little too expensive for it. The puzzles require intense thinking but a walkthrough is all you need. Great animated cutscenes, funny dialogue and self-centered, lazy, rude protagonist, its all you could ever want from a game! All in all this game is amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved this game! Ok, it is not long, it took me 16 hours to finish it twice getting all the achievements with no guide, but it is hilarious with great animations and a clever story. I want so badly to play the sequels! Although it is a bit pricey, so I will wait for sales!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game reminds me of the good old LUCAS ART adventure games. The plot is a bit strange at the start but begins to make some sense as you progress in the game. I've played 'A New Beginning' from Daedalic Adventures before I started Deponia, so I find some gameplay elements similar to 'A New Beginning'. Nonetheless, the game is excellent and I would recommend it for all Point n' Click Adventure game lovers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I simply fell in love everything that game has given me. There were WHAT THE HELL?! moments, GOOD GOD!! momments, and almost flawless gameplay. A must have. A masterpiece. Definitely buy the other two.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia meets different expectations: it’s a point and click, it’s fun, it’s beautiful and the story is interesting – concerning that last point, I couldn’t wait for the 2nd and 3rd game to be on sale to buy them and know the truth. So even if you don’t like the humor, you can still appreciate the game for its plot or puzzles. They can be a bit challenging, especially since there is no in-game help, but it makes finding the answer even more satisfying. Plus, having played the whole trilogy in a short time, I thought they found a way to make all game different. Each one has a specific mechanic (ex: playing as three different characters and splitting up). It’s worth a try, especially since it can reach such a various audience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Leasure suite larry eat your heart out. An amazing 3 Part story, Funny, Sad and romantic all in one. Great challengers and much laughter.  THANK YOU TO THE CREATORS.  worth every cent and every min playing.... try it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wasn't a huge fan of Point and Click games, until this came out.  Deponia has good gameplay mechanics, which only take a minute to learn. The way you solve puzzle in this game, and progress the story is by actually using your brain, instead of mashing buttons. I'm not saying you need an above average intelligence to complete it; but it will sometimes make you think.  Now, with the gameplay mechanic out of the way - let's talk about the story. This has got to be one of the most fun stories out there for games, or at-least - the point and click genre. It has been a pretty solid base story, with some nice humour thrown in too. Although the humour could be seen as a bit low brow - but it goes well with the base story and the 'Hero'.  If you like point and click games, I'm going to assume you have already bought this game within seconds of watching the intro. If you aren't a point and click fan - much like myself before this series - then there is always a first game to get you rolling, and this is it. I now love all of Daederic Entertainment' games. Thank you for porting Edna to IOS. please consider this in the future too.  Thank you so much for such a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I haven't been playing long, but so far it's great!! The puzzles are logical, but fun and challenging. The storyline is cute as well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really awesome game if you're looking for a comical adventure. Don't be ashamed to look up a guide if you get stuck though ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i have to say this is the 3rd best game iv played this year, and for what price it is you get a surprising amount of game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved it. Had a few bugs where the game kept dropping out on me but they had work-arounds so I got to finish it. Sure was some interesting ways of doing things that were pretty hard to get my head around but that was the challenge I was looking for :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The main character is pretty unlikeable but the game has a unique setting, decent story, and interesting quirks that made it enjoyable straight to the end.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely astonishing old-school-point-and-click! Definitely as good as the old LucasArts classics. Play it again and again and again!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game change my point of view on point-&amp;-click games.  Deponia a good storyline with its beautiful and hand-drawn environment, Even though some of the puzzles are hard they're still enjoyable and gives some a lil bit of info that I think has to do with the story or Rufus life.  Love this game and with that said... I'm gonna play this game on its 2nd run getting the Droggeljug achievement.     Droggeljug Droggeljug ?   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, I won’t lie, it’s a tad buggy, and like hate story, Deponia suffers from the flaws of its genre. However, It makes a comeback with superbly drawn art and an interesting setting with interesting characters. There’s also some very good humor in here.  My only gripe is that the ending was abrupt. I think they were trying to sell the sequel, which I will get once I see a 50% price drop. Not because that’s all it’s worth, but because this is steam, and I am patient. :3  Droggeljug! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "That's a perfect story, I think take advantage of discounts.. In the end you said just 'please give me more..'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not terrible, not great but not bad either. 7 out of 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Funny dialogues, good artwork, great voice acting and Rufus. This game is awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice styöe and I like the offensive humour, thought might not be for everyone",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some of the puzzle aren't as clear as most people would've liked. But if you want a funny point and click game with a monkey island 3-esk style. Look no further this is for you !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First 5 Minutes: &lt;3 The tutorial First 10 Minutes: Wow, art style is 10/10 First 15 Minutes; *Googles walkthrough*  Its nice and all, but my mind isn't good enough for this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Took me back to the old point &amp; click adventure days of Kings Quest, Simon the Sorcerer, Myst, etc. I enjoyed the story but the characters (and some of the puzzles) could have been better. Interesting enough that I'm playing Chaos on Deponia just to see what happens next. 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun, tongue-in-cheek game with well-animated characters and backgrounds. If you like the King's Quest style of game, you should at least download the free Demo and give it a spin.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Click everything you see  Deponia is your standard point and click adventure game that lacks a soul just like German knock knock jokes. Fortunately, it's just funny and pretty enough to keep playing.  STORY- Typical anti-hero doing typical anti-hero things on a garbage planet. GRAPHICS- The art style and animation is actually very appealing, one thing Daedalic Entertainment has had a strong point in. SOUNDTRACK- Something Daedalic Entertainment does not have a strong point in. (Except the intro, the intro is awesome) GAMEPLAY-   Pros-  You click stuff  The dialogue can be amusing  Deponia is a planet overflown with trash   Cons-  You click stuff. Like you literally end up clicking everything because you have no idea how you're supposed to get a certain task done. Then when you find the solution, you rage at the randomness of the solution.  The dialogue can be the opposite of amusing (Gotta love cultural barriers)  Everyone is an ♥♥♥. Even you (Especially you). Almost all your conversations are with asses.  Late game puzzles are confusing as hell (well for me)  There is no replay value. (There is a mode post game where it changes all dialogue to druggelburg or something. Is that supposed to be funny?)  CONCLUSION- It's an average point and click adventure game with an appealing art style as its main saving grace. Daedalic really had a chance to make this a great game due to such a unique world setting, but looks like they're all talk. Get it on sale if you have the urge for point and click adventures. However be warned, the sequels in this trilogy are complete ♥♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Such an awesome game :) Reminds me a little of full throttle back in the day. Highly recommended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you have like the LucasArts game series Monkey island, then your going to like this game, The story is good, the ways to solve puzzles are very unique and creative, love Rufus' personality, the character's and situatuons are hilarious, I just love it.  I very much recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is the best of all games, it's the best puzzles, buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classical Point-and-click adventure game with good humor, nice story and interesting puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia was fun. I'd played 'Night of the Rabbit' by the same studio previously, and honestly, I enjoyed it better. I can't really put my finger on what I disliked about Deponia, but it didn't feel quite as immersive. Like NotR, it also got tedious near the end, but for some reason it was much easier to stick with NotR than Deponia. The soundtrack is a mixed back, with some really good tracks and some really odd tracks. Overall, I enjoyed my experience, but this recommendation comes hesitantly because, while I beat the game just fine, I'm not sure that I had fun.  I've recently started evaluating games on the criteria of whether or not they were genuinely FUN. I'll still beat them and get the achievements, but am I enjoying myself? Deponia made me chuckle and I had some fun times, but no, I don't think this game was very FUN. It was beautiful and a piece of art at some places, but I just didn't enjoy it as much as I wanted to. And a Steampunk game about a loser trying to escape a trash planet to a perfect city above? I /WANTED/ to enjoy it lots more than I did. But I didn't. Take from that what you will. I'll recommend it, though, only because I can't give it a neutral recommendation and I try to give the studio the benefit of the doubt. Deponia was fun, but I thought it could have been MORE fun.   Oh, and ♥♥♥♥ the achievement Droggeljug.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classic Point and Click Adventure.  Good puzzles and quite funny.   Story is ok.  Took about 9 hours to complete",
+            "review_score": "1"
+        },
+        {
+            "review_text": "They say a flawed character is a sign of a great story, but all of the characters here are nothing but a bunch of flaws molded into a human-esque shape, and the story still reeks with mediocrity. Try playing the other point-and-click adventure games by Daedalic Entertainment, they're much better.  6/10 Buy it when the Daedalic Entertainment bundle is on sale.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bought the game because it was 95% off. Decent game with funny dialouge and amazing art BUT IT IS TOO HARD TO PLAY WITHOUT A WALKTHROUGH!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "81/100",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're open minded to a point and click adventure game I think this is a good bet. The puzzles are challenging and interesting, the characters are quirky, and the artwork is nice to look at. By the time you finish this game you'll know if it's worth it for you to try out the sequels, just know that the story doesn't really make an impact until the sequels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Turn on 3rd movie. Stop at 29 sec. You're welcome.   BTW. What are they doing with this car?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After reading a rather terribly negative review on Rock paper Shotgun about this series of games, I felt obliged, after just recently having finished it, to write a review. Deponia is a colourful, not too long adventure game set on a planet full of trash. The setting, in my opinion, was vivid and interesting and highlighted at parts a social political sense of class division, which was not so much explored in the first game yet, but is promising for the other games afterwards.  Rufus is not your typical hero main character. In fact he is not very likeable at all. His humour is insulting at best, he is scruffy, goofy, not so intelligent, selfish and mostly mean. But that, to me, made the game perfectly charming. Whilst I feel as though the main character deserves every bit of bad luck coming to him, it was amusing to watch him. I agreed more with the irritated characters around him than with him personally, but it was refreshing to see that sort of character and reflect on his actions as handled through the player.  I personally find stories with dislikeable characters far more interesting than the typical likeable ones, and Daedalic has a talent for having unusual main characters take the spotlight. That being said, deponia is one of these games that should not be taken as offensive or as too seriously. The game's humour, in my percetion, relies on the meanness and dislikability of the main character, and if one is easily offended or insists on politically correct representation of everything, this game may not be the best option for them.   Anyone however who doesn't need to overthink such things and can enjoy a little ruder humour might very well enjoy the deponia series with a few nice puzzles, charmingly frustrated characters and colourful settings. Maybe not Daedalic's best piece of work in my opinion, but definitly worth a play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Challenging yet satisfying i think it has a build up however the ending was a bit disappointing but overall i would play it again 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i definitely reccomend getting this game, IF you get it on sale, for 20 bucks a chapter, totalling 60, i'd say no way.   dont get me wrong it's a good game, reminiscent of the classic point and click adventure games, if you can get it on the cheap in a bundle go for it. i got it as part of a bundle without realizing it was chapter 1 of 3, would consider getting the other 2 on a sale as well...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautifully drawn, funny, with actually pretty good story (and world setting) masked by simple personal quest of an egocentric protagonist. But also Deponia is a time machine with a dial set to 90's which had twofold effect on me:  First I remembered playing good old P&amp;C adventures, warm and cosy feeling with occasional chuckle, and of course accompanied with frustrations because of illogical solutions and pixel hunting. But during those days we didn't have internet so you would be stuck on a certain puzzle for hours/days, repeating your steps making sure you didn't miss anything vital (did I mention illogical?) figuring out that you are dumb after all... Ahh *wipes the tear of reminiscence*  Second thing is that I realized why this genre has died out. I can't imagine someone who grew up with today's games enjoying this kind of experience. Nothing here is on platter, you have to figure out on your own how to solve it. Or of course go and find a walk-through online, but they you would ask yourself are you enjoying this or even if is this is for you. So you would drop it and go play something in 3D with jumping and shooting with immediate satisfaction.  If this came out in previous century it would be masterpiece worth remembering.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played this great Game 6 Years ago when it first came out but sometimes when I don't find anything to play I still enjoy taking a look back at this masterpiece and it's sequels just to remember the great times I had with it. 10/10 would play again and again!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice click and point puzzles but the protagonist is sooooooo arrogant and ignorant I wanted to punch him in the face through the whole game, more annoying that 'hey listen' from zelda.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good puzzle and fun game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like a prophecy, it preaches another golden age for P&amp;C games.  When You see Daedalic Entertainment, fear no more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wonderful game! Excellent story, cute picture, good music, nice jokes. I recommend it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For a point and click game, it is funny and addictive. Not too hard and yet still challenging enought to be interesting. I sugest looking into this and other titles by Daedalic Entertainment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a really great game, with beautiful graphics and animations. And really funny too. I am going to play the next episode really soon...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An awesome point'n'click! Great story, original humour! Splendid artwork! Most of the puzzles are quite simple, but there are a couple of quite unobvious ones, which is nice :) I definitely recommend!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has quite an engaging story, although some things like the interludes are way too cheesy. Nevertheless, the story is quite good and the humour works, most of the time. As far as gameplay goes, this is your classic adventure game. Unfortunately, some of the puzzles have too much 'videogame' logic in them, which might you trouble figuring out what's going on. Furthermore, some puzzles have difficulty through obscurity, rather than requiring you to think through.   Overall, I reccommend this game can be a good way to spend a couple of afternoons. I would highly recommend you have a look on the aesthetics on the game, unless you are a fan of adventure games and you are done with other better games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very funny game and also fun to play",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty effective supplier of old adventure game nostalgia feels.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Adictive game. Very fun. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The humor is a bit dry and the characters aren't as involved as I was led to believe. Would not buy again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So quirky, entertaining and fun! Deponia drew me in like I never expected a point anc click adventure game to ever be able to!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An alright game. It's very reminiscant to the old sega saturn game blazing dragons, atleast in game style. The tone is much different. It's a point and click puzzle adventure game. It has an interesting setting and concept, but the story is a bit bland. The art is pretty nice to look at, and the animations are smooth, however the characters and humor is on the crude side. I don't think it's a coincidence the setting is a planet filled with nothing but garbage.   Things that might help you decide if you want to play the game: The main character is pretty unlikeable (lazy, stubborn, arrogent, slob) and he talks /alot/. but when you understand that the game doesn't want you to like rufus it's a bit easier to take. There's moments in the game when taken to seriously could really get under people's skin, such as the main female. Her name is Goal, and she's basically an object in the whole game.The game is a bit buggy, it's trapped me in scenes where I had to restart from a save a few times. So if that kind of stuff will bother you you won't enjoy the game.  But with humor taken in stride the game is passable, and figuring out the puzzles is pretty fun (and frustrating at times). All in all the game is probably a 6/10, a good way to pass some time, but I'd wait to buy it on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In an attempt to find another such point-and-click adventure in the stylings of Monkey Island I managed to find just that. But it wasn't just in the stylings, it was almost as if the creators of Curse of Monkey Island decided to use their talents to make another story. The humor was clever, the music was catchy, and although the puzzles had me on occasion searching for a walkthrough I found them demanding enough to keep me searching for the answers. 10/10 would play again. (Although in the far future)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+ and -  +lots of trial and error +catchy music +hours of fun (unless you use a walkthru) +a complex story to say the least  -some very high/low volume issues -sluggish and reused animations -can be extremly frustrating when the logical awnser isn't the right one -almost impossible without walkthru",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A masterpiece! If you like a point &amp; click challenge and a good plot story, THIS is your game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia is a very good point an click game with a very interesting story,it is really hard though also the games look gorgeous   7.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good puzzles and art work. Incredibly juvenile and occasionally gross humor. Can't stand it after an hour. I can't believe they made more than one game in this series.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Did you ever play Curse of Monkey Island? Did you enjoy it? If you answered 'no' to either of these questions, you're wrong.  If, on the other hand, you are the sort of intelligent (and let's face it, probably good-looking) person that enjoyed LucasArts adventure games in years past, you will probably enjoy Deponia. The art style, humor, and even the characters are very reminiscent of CoMI, which is a good thing.  The only downside: it's kind of short. The whole thing can be knocked out in a few hours of trial and error, but at least there are sequels, and it usually gets pretty cheap during sales.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can absolutely recommend it! The story and the atmosphere are very catchy. I like the comic-style and there are a lot of funny situations and dry comments that make me laugh or at least smiling. Almost every riddle was logical but sometimes you have to combine items in such a weird way. I will also buy the next one as I like games of Daedalic Entertainemnt at all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely dramatic story with love...and drama...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm a bit torn about this game. On one hand, it is classic-style point-and-click adventure, with a Curse of Monkey Island feel to the graphics, but it doesn't deliver the same level of interesting characters, humour or storyline.  At times I really didn't like the game, but most of the time I enjoyed it well enough to give it a passing grade. There are some truly obnoxious moments and sometimes ambient dialogue can drown out your own conversations. But, there are also some clever puzzles, yet nothing that's likely going to slow you down for too long. I think the game could have won me over more if the characters had been more thoroughly developed and likeable.  If you're looking for something to bring back memories of the golden days of point-and-click adventures, I'd recommend you try it out when you can grab it on sale. I don't think you'll find it quite lives up to them, though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun, beautifully illustrated point-and-click adventure game severely hindered by technical issues and a lack of basic grammar comprehension. Enjoyed the story and got stumped on some of the more obscure puzzles, but I just had to get to the next scene to see the next slab of gorgeous artwork.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, is what can be said. The world is an interesting mix of Douglas Adams and Terry Pratchett styles, and the story, maybe not the most unique ever, is capturing and fun. The graphics are reminiscent of The Curse of Monkey Island. You know, those hand painted backgrounds! The main character, Rufus, is a fun guy but can be seen at times as obnoxious and unlikable, but he does make up for it in the end. The ending, which I do not wish to spoil, was incredible and not predictable. Some of the jokes feel forced at times and the puzzles may seem tedious (but there's a skip button for those more frustrated gamers). Get it, and play it. It's well worth it, and experience the wonder that is Deponia!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The writing translated surprisingly well from the original German. It's pretty funny and the puzzles are a bit more intuitive than some games of this sort can be. If you kind of miss the old Lucas Arts adventure games, this will be an adequate (if imperfect) addition to your collection. The game pads a bit with dialogue, but they make up for it with decent art style.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great fun adventure in good old LucasArts tradition. Lots of quirky humour on a junk yard planet. This is game part of a trilogy: Deponia, Chaos on Depona and Goodbye Deponia.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After having time to play and complete Deponia, I realize just how silly games can be.  It began simple, but after a while you would have no idea what to do with the 10 different items you have. You need to combine 4 items to proceed to the next chapter, it feels long but it's actually quite short, My first play through took about 3-4 hours but from then on (if you are an achievment hunter like me) You will spend the next 8 play throughs tring to get every single achviement with no help or hints what so ever.  Both the art and the story are pretty much the best that I have seen since I Played 'The Walking Dead'. There are plots holes in the Deponia Story line but there no need to pick at them.  There's no need for a meta crittic score here, so I won't give it a score. It's playable but can get rather confusing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very old-school Lucasarts style Point-and-click adventuring, some extremely fiendish puzzles and some excellent voice acting too, worth a look if you're a fan of the genre!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good and Fun indie Game. you have a good time with this Game and enjoy Challenging Puzzles.   9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really makes you think :D A great game and fun story line x",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you loved point and click games from the passed this is a must! Bad humor and lovely art work, the whole trilogi is brilliant!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really like this game a lot. While not 100% up to par with a great Lucasarts Point and Click, this gets the job done and scratches that itch quite well. The artwork is beautiful. The music is great. The only thing is that the game can have some weird responsiveness from time to time and it's not always as smooth as you'd like. I have the second one, but haven't played it yet. I plan on buying the third. Great story... a fun play, for sure.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun point-n-click adventure like the ones of old. A bit shourt and almost impossible to progress at some points without a walkthrough though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For anyone who likes point and click adventure games, this is a must play. Very witty and funny and well worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Feels like a classic 90s LucasArts comedy game. That's both a good and a bad thing, really.  The good: - Great art. - Rock solid voice acting. - The puzzles don't quite get as obscure or ridiculous as 90s adventures, which is a good thing since there's nothing like the infamous Monkey Wrench puzzle here. - Some neat innovations in 90s adventure game playability. Clicking the middle mouse button highlights objects you can interact with, whilst scrolling it brings down your inventory. Feels natural. - Characters are mostly good. I feel Rufus has a good progression from self-centered idiot to someone who actually wants to do good by the end, and that's a nice progression. Other characters serve the plot well too, except for Goal (see below). - The setting of Deponia feels very alive, like a lived-in place with backstory, and not just a shoestrung setting for some doofus causing havoc.  The bleh: - Animation is a mixed bag. - Humour is also mixed. Some jokes are funny, others not so. I think the visual gags work well, whereas the 'witty' puns fall flat eight times out of ten. That's what you get when translating German jokes, I guess. - Goal's character. Don't know anything about her, since she's barely awake for most of the game. Can't say she's particularly bad, but I'm unconvinced she's a worthwhile heroine at this point. - The plot is interesting, but largely unremarkable, especially the romance. It's kind of the typical 'save the world and win the girl as a trophy' trope that's all tired out. As far as that goes it's competent, but I'd have liked to have had a better motivator.  The bad: - The ending is a total bummer, and you feel like you've accomplished nothing. - Some plot threads I feel should've been addressed in this game, have instead been held off for the sequel. - Some puzzles feel obscure, and only after accidentally solving them do you 'get it'. I felt I stumbled into as many solutions on Deponia as I had eureka moments, which felt very unsatisfying.  All told, I think the good outweighs the bad, and none of the bleh moments particularly spoiled the game. If you like 90s LucasArts comedy games (Monkey Island 1-3, Day of the Tentacle, Sam &amp; Max, and the like) then you will probably get your money's worth out of Deponia, and not feel like you've wasted your time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. Never had so much fun in any adventure game so far. The facial expressions and the dialogs are just hilarious. It never gets boring. Can't wait to play the other two parts of the trillogy. Need to know how the story continues... Krah ;)  Get it or you will miss a great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I never really got much into the point and click adventure game genre (although first person adventure games like Myst were a staple for me) -- however Deponia changed that. The game's unique comedic style was an instant hit with me, and the story was compelling enough to guide me through to the end of the game in only a few sittings. I look forward to playing the sequels!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A seriously unexpected Gem. From the awesome cartoon graphics and humourous intro to the quite in depth game play and ensuing animations telling the story allong the way, this is one of the best games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This particular game has caught me in between liking it and disliking it.  Let me go through the things I liked about this game, I enjoyed the humor it contained. It's something fresh to me since I've hardly play games which contain much humor in it as this one does have. The artwork through the game also was appealing to me since I am a fan of good ingame art and graphics.   What I disliked about it was how some of the puzzles were a bit funky and you pretty much had to think outside the box just to solve it. The main character annoyed the fricks out of me. His personality during the first part of the game was fine at first, it was easy to handle. But as the game progresses you either grow to hate it or become immune to it. I personally started to get annoyed with his dialogue and ended up skipping parts because of it.   Overall, I'd say if you have the biggest patience with puzzle games especially weird once then this is the game for you. I wish there was an in between recommendation in steam for this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is different from the usual point and click games. It reminded me a lot of Pajama Sam, a favorite classic PC game of mine. It's more adult based, of course, in comparison to Pajama Sam. Between the snarky comments, adult-related hints and crude comedy, there's the point and click along with the story line. The main character, Rufus, who you play, is the core of most of the comments, and much of the comedy. There's a few parts I don't agree with, like unnessary speech options that don't do anything or cause any different outcome. (Like rude, mean comments won't let you progress. It's a trial and error sort of thing, until you find the right speech option which sometimes can be conflicting with another positive comment.) It has a nice story, but many of the puzzles aren't so obvious like 'go here, do this, for this thing that you need for this 'quest' '. The game gives you a singular hint, and leaves you to it. Much of the gameplay can end up being running around in circles, trying to figure out what you're meant to be doing. Despite this, I still recommend the game for the story and comedy. I would rate the difficulty at 'moderate'. If you're good at puzzle, and point and click games, you'll probably love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best point-and-click adventure games that I've played in a long time. I found it funny and clever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, funny story line",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have you ever wanted to live in a civilization made completely out of dirt, glass, and sharp rusty objects? No? Then you'll get along fine with Rufus! Join him on his quest to escape his home planet- Deponia.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like 2D point &amp; click adventures with a nice story, you'll love this game! It was so funny and I enjoyed playing it. This is one of my favourite games :-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gets pretty boring after a while. The main character is annoying. Some of the puzzles are overly cryptic IMO.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "To be fair, I started this game because it had a great art style and was a point-and-click adventure (a genre I never really got into). The story ended up being more expansive than I expected at the start, and the quirky character Rufus was really relatable as I helped him towards the goal of Elysium.  This game can get really frustrating, because after you figure out most puzzles it doesn't end well for Rufus. After I'd made Rufus' rocket and hit the ship from Elysium, I had to watch him simply fall back to Deponia and continue droning on about escaping with Goal (enough to nearly make me quit the game).  Overall, Rufus is a good character with a bunch of puns and a snappy attitude. He doesn't appreciate his friends as much as he should, so most of what happens really seems to be up to his karma. I love the art style and puzzles (although they can be terribly hard), and the music is impossible to get out of your head.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "50/100",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am a huge adventure game fan.. and while Daedalic Entertainment has some incredible ones - see The Dark Eye and Memoria; Deponia just could not hold my attention.. I found myself bored the majority of the time. I put the game down and tried to pick it up later, only to discover that a recent update ruined all old saved games by causing a bug in which every seen has somone yelling weird noises over and over or talking in a foreign language. Not sure if I can even justify starting over at this point. Not to mention the main character is an idiot in a bad way... not in a lovable, funny Guybrush Threepwood way... but in a sexist obnoxious unlikable annoying way.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A quirky adventure game about egotistical guy named Rufus who tries to escape Deponia, but who stumbles onto a plot that is bigger than himself. This comedy adventure games has all the settings of a good adventure. A funny and engaging story mixed with well thought out mechanics and puzzles. A must play for any fan of the point and click adventure genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A higly enjoyable game, with a stunning art style and interesting characters.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This series.  What can I say.  This ♥♥♥♥♥♥♥ series. Has. EVERYTHING that makes a point-and-click adventure game work. Fantastic puzzles, insane and colorful characters, a story that simulateously makes you laugh and cry with Rufus at the same time.  Speaking of our egotistical main character, never before have I wanted to give a fictional game character a slap and a hug at the same time. The dude is unbelieveably self-centered, but at the same time he tried his best to keep his shenanigans from harming people. He wants to leave Deponia, but he can't just let people call Deponians trash. The planet? Yeah it's trash, but the people mean well and are just trying to get by, and are in no way trash.   This character. This world.  THIS SERIES. IS. AMAZING. 10/10  GET ALL THREE GAMES IT'S AMAZING.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game ! Great story,graphics and music.Sometimes you may stuck on some puzzle but there is alot walthroughts.I recommend it !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't personally recommend this game, even though a lot of people will definitely like it.  It's enjoyable to place a point and click adventure, and has nice graphics, high production quality, and works great on OSX.  But I just got bored with it. The puzzles were too hard, you spend too much time on one screen/'level', and the voice acting was sometimes cheesy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a hard game to review. It's a game with a strong storyline and some genuinely funny dialogue. The puzzles occasionally lack much logic and can sometimes only be solved through guesswork (or by referring to a walkthrough) but this is a common problem with point-and-click adventure games and I would say that it's no worse than its peers in that regard.  However, it's not a game that everyone will enjoy. Whereas other adventure game characters like Guybrush Threepwood are hapless and inept, the protagonist of this game, Rufus, is rude, selfish, callous, sexist and egocentric. This is a protagonist who you should probably not identify with or even sympathise with (although you probably will as you get drawn into the narrative)  The humour is mostly derived from Rufus creating plans that go wrong and behaving in such a way as to cause misery and misfortune to those around them. This is of course a well-established form of black comedy and I think that most people will be able to take it as it was intended.  However, there are a number of jokes that contain elements that are as likely to cause offence and upset rather than amusement. There are three main instances of this (from the entire trilogy):  - One character is depicted in a very transphobic light - One character suffers through a racially demeaning situation (due to the protagonist) - One character is a paedophile  These are all intended as jokes and the author of the game has clarified that racially charged scene was not meant to convey a positive message about racism (the humour is derived from how awful the situation is) but it may still limit the ability of some people to enjoy the game.  If you particularly enjoy point-and-click games and can tolerate the occasionally moment of humour in bad taste then you will enjoy this game. If you are sensitive about racism, transphobia or sex crime then you may find that some jokes spoil your ability to enjoy the rest of the game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good old fashion point and click adventure game that has fantastic humor!  Stop reading this comment and buy it already. Do it. Do it NOW!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one game that just has a wonderful story. Its charming and hilarious from the beginning to the end. I found myself more and more into it with every step I took toward my ultimate goal. The puzzles were clever and challenging, although some of them just make you wanna rip out your hair trying to figure out what the flip to do! I can't explain the number of times I found myself stuck. However, once you do figure it out, its satisfying and it all makes complete sense. Thats the moment when you smack yourself in the face for being an idiot.  I bought this in a mega-bundle and It was a fantastic deal. Definitely worth playing, but I wouldn't have paid full price for it. Enjoy, or dont.  Derp.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "No sound in dialogues, googled that a lot of people has this problem since 2013 and it still not fixed. 10/10.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do you love point and click adventure games? Play it. Otherwise, it depends.  Deponia is the first in a trilogy of point and click adventure games. However, it distinguishes itself from the rest by giving a great presentation and interesting story. The graphics are awesome with what look like hand drawn models, backgrounds, and animations. The game supports modern resolutions (oh thank god) and it sounds and looks very good. It's the best presentation that I've seen in a P&amp;C game.   The plot of the game is interesting. The lore of the society is intriguing and it's funny how it passes off class and income differences as a mere side note. The main character is annoying but the goal is commendable and he is relatable. The side characters are funny and I wish I could have spent more time with them.   HOWEVER, the game commits the major Adventure game problem of inventory ♥♥♥♥♥♥♥t. The puzzles in the game require an insane amount of 'pick everything up and combine it with everything else from a room you visited 20 minutes ago so don't forget to pick up anything or you'll have to backtrack.' At one point in the game, you want to get some out out of a house so you need to combine a hook from somewhere with balloons with helium from a doctor's office to release from the basement. Then you go and pour water in his basement using a drill that you stole from a doctors office 10 minutes ago. What the ♥♥♥♥? The logic is absurd and I followed a guide. I know that you aren't supposed to play it like that but I wanted more of the story rather than the ♥♥♥♥♥♥♥t inventory puzzles.   There are several things the game does to make up for it. Double clicking makes you teleport to the next area which is very helpful when you backtrack 100 times because of ♥♥♥♥♥♥♥t inventory puzzles. There are certain mini puzzles which you can skip because it didn't explain what the switches do and you're expected to find that out via trial and error. ♥♥♥♥ that noise.  Overall, good for a adventure game lover but good if you want the story but for others. Maybe I'll look at the other two but I'm not rushing for it.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do you like point and click adventures? Neither do I, but I like this because it’s funny, doesn’t have bizarre logic behind the item interaction/combinations… oh and there are steam walkthroughs, so getting stuck is a thing of the past. So pick it up in a sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's well made for a point and click I'll give it that and if you're into point and clicks it wouldn't be a bad play but... It wins the 'most pointless boring ♥♥♥♥ in a game award' I have never played a game with so much unnessecary dialogue and stupid ♥♥♥♥♥♥♥t like your toothbrush running and hiding from you. I had to skip the tutorial because it was so remarkably full of stupid dialogue only to find that oh hey it's a point and click, why in the world is there even a tutorial?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was around when games like Space Quest, Kings Quest, Police Quest, Leisure Suit Larry, etc. were the popular games that basically popularized the 'point and click' genre. As such, I still enjoy these types of games and it's nice to see someone making them again. That said.......  I like the art style in the game, I like the music, sound effects, and all of that. I can deal with a slow moving character, as hair pulling as it may be sometimes. My only real complaint with this game is, unfortunately, what it's about and that is solving puzzles.   I like solving puzzles and I like a challenging puzzle as much as the next person. Where these games generally excelled in the past is that while challenging, you were still provided sufficient clues to figure out how to get through the games. This was back in the days before the internet, walk through guides, Youtube videos, and all of that stuff. Where this game has infuriated me is the puzzles - I do not think that I should have to consult walk through guides in order to complete a game and that is what I find myself doing time and time again. Judging from other reviews, so have other people. Again, there was a time where you could find clues in the environment or failing that, after a few failed attempts, your character might offer something helpful - not here.  You will need to backtrack to areas that you thought you were done with and generally don't get any prompting to go back to (or even know you can get back to). You will sometimes need to go back to the same room multiple times in order to find items that should have all been available the first time you were there (unlockables or things of that nature notwithstanding). You will be required to interact with certain things in the environment, that you thought you were done with, multiple times in order to proceed (I'm not giving examples so as not to ruin for those who haven't played it yet). There are times where you may have to manipulate the same nonplayable character multiple times to achieve the desired result (with no prompting or hinting that this is necessary to ultimately elicit the required response/result). The mini games present inside the main game give you no prompting, clues, or hints as to what you are supposed to do to get them to work or how to solve them in most cases. There are times where you click on everything in the environment and try using everything in your inventory, just to find out none of it works because you didn't realize you have to backtrack to the beginning of the game or some other area you thought you were done with to proceed. Of course there are other times where what you are supposed to do is blatantly obvious - I just wish they could have found a middle ground someplace with this.   So for those reasons, I am not recommending this game. If you don't mind having to cheat to get through the game by consulting walk through guides, then give it a shot if it's on sale or offered as a bundle.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's nice to see people trying to revive a dieing genre but this game was just more of a chore than an enjoyable experience. I found myself looking up the answer to something because the logical answers weren't working, or there would be times that I just use all the items together just to see if something happened instead of trying to figure out what went together logically.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was... short. Good, but short. It was good, even if it became more buggy and more badly translated/typoed towards the end. Not too difficult either, I had to dig some hints only for a single task, including a parrot (the later point). Spoiler:   Keep the save-file after finishing the game, if you want to easily complete Droggeljug-archievement  . I didn't, and I hate myself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the story is great, the art is awesome, the puzzles are cryptic.  Ecerything you'd want in a lucas artesque adventure game.  the only bad part i found was the annoying music... theme... thing... that played in most main areas. sure it fits the setting, but i don't enjoy bellsi ringing in my ears.  but the rest of the music was good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The only complaints I have is that the game is kinda short (or feels short since you only get about 4-5 general zones to explore and solve puzzles in) and that the inventory window disappears after a while. It also doesn't ever come back if you have saved the game after it has gone away. (You can still access it via the inventory key 'i' on the keyboard.)  Music is different, but enjoyable, story is nice, and the graphic style is very reminiscent of the classic point-and-click adventures by LucasArts (that I greatly enjoyed as a kid).  If you like point-and-click puzzle adventures, this is a good buy. Otherwise, if you are just into a nice story, pick it up during a sale maybe?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like point-and-click games, you won't be disappointed with this series. Rufus is obnoxious, but he grows on you.  Although the game is tagged as including comedy, it can be dark humor at times. You have been warned. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game for who like quests and not standard thinking.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Daedelic adventure graphics at its best, even though Deponia is garbage planet full of trash, it look great. The main protagonist is selfish ♥♥♥♥♥♥♥ but you cannot help it but to really like him. Deponia has enough humor and great characters to keep you interested in playing until the end.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very engaging with about 15 hours of gameplay. Witty dialogue, loveable characters, and inventive scenes and situations.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After all it's all about Droggeljug.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm using Win 10, and I have to run the game under win7 mode or it won't turn out to be full screen",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First off, this game taught me that I suck at it, or I heavily lost practice at point and click puzzle games. I played it with a walkthrough open in the background for whenever I got stuck because, for example, I wouldn't have figured out that I needed a damn parrot (you'll know now), or to combine certain stuff for stuff that looked like regular background or foreground. Did that ruin the experience for me? No. It was still very enjoyable.  The dialogue is funny and you can get some good laughs from certain parts.   The story is good enough and the main character is alright even though he's quite the egomaniac, though I only got mad at him at the end when he mistook a guy for a pirate, poor dude.  Gameplay is fine as well, specially if you know how these games work and that they have some weird combinations and usage for items.  Only problems I've seen were some minor sound bugs. In the town hall for example, the protagonist shows the speech animation while a line from another character is said, and he does this not in a mocking way. Sometimes something is said that's a bit different in the written form, and when you skip through dialogue it can happen that it gets a bit mixed up when spoken. Doesn't happen very often though, so it's fine.  Only warning I can give is, pay very close attention to everything that moves or changes, and what people say, there are so many hints that I thought was just regular dialogue, but actually mattered.  Conclusion : It's a good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hey, this game was pretty fun. Just wish steam would give me all the achievments THAT IT KNOWS I DESERVE FOR BEATING THIS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Daedalic is probably one of the last companies making 'traditional' point and click adventures around, as such, prepare for the sort of 'logic' and comedy that usually is in titles like these. Deponia encompasses both the faults and the great things about the genre, wrapped around a funny story with some pretty good animation. Rufus, the main character, is very much a Guybrush Threepwood sort of deal. A not very capable person who somehow manages to worm his way out of a bunch of sticky situations with only a.. few.. bruises taken for it. This being the first of a trilogy that was already planned at the time, expect a lot of setup that hints at a deeper lore and character arc in the series beyond what we experience here. If you love point and click adventure, or just a good laugh, I recommend Deponia. Just remember, this is not an action title.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The story in Deponia is wonderful, especially since its got this steampunk feeling, everything being junk and garbage really sets it aside from other games, really well thought out :)   Will definitely be looking at the other games for the future!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is great. You will love the main character as during the old LucasArts pieces and when it finishes (for me 9hours), you will want more. The finish is rather unexpected and without buying the sequel you will feel a bit without conclusion.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This is a review for the Deponia series (Deponia, Chaos on Deponia, and Goodbye Deponia).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Point and click with a decent story and lots of humor. I'd say it's comparable to the monkey island series. If you like the genre, recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! My wife and I enjoyed trying to figure out all the puzzles together. Took us 38 hours to beat the game, and we're looking forward to playing the next one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "my status on the game: Completed the Deponia series.  the only thing i hate is the obvious ♥♥♥♥♥♥♥♥ main character. they could not make him more childish i guess, so they stopped at the bottom of human norms... other then that the game is good if you love to puzzle and find stuff out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I first started playing the game I felt nostalgic as it had that 'Monkey Island' and 'Broken Age' feeling to it. The puzzles were complicated and required quite the amount of backtracking, but once you figured each one out it felt simple. The story had me entranced the whole ways, with a good amount of comedic moments and fourth wall breaking. I found myself stuck in many places in the game and it required me to hop off of it, think for a while, then test my theories and as I said in my last point 'once you figured it out, it was simple'. The characters were really well made, each with its own personality and a fair amount of hilarious dialogue.  As a final point..in a childlike form...THIS GAME WAS AMAZING!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deponia is weird and quirky and Rufus is indeed a jerk, but in a good way. Suffice to say, he'll grow on you towards the end, like that fungal infection in your right toenail that you left untreated for too long. But in a good kind of way. It's hard to explain.  The game is good, it's hard, and the story is very well developed and told. I have to say I'm not a big fan of what happens with the dowsing rod, but I'm also not sure whether the authors made that choice intentionally, as a nod to old-time adventures, or whether they just thought it was funny to play with the players like that. Either way, it's not the hardest enigma. It's in fact quite obvious, and that makes it even more infuriating, but hey!  I played the game almost entirely in German, with Italian subtitles because I don't understand much German. Now, I know and appreciate very much that there is an Italian dubbing, but it's… erhm, let's just say it's wonky. The acting is most of the times lame, and I can't say the same for the German -- or event the English -- dubbing. Still, I appreciate the effort!  Overall, I enjoyed almost every bit of the game. The character animations could be better. The team clearly put a lot of effort in the art -- it's beautiful! -- and the cut scenes -- amazing! -- but in the end you are stuck watching the same 6-frames walk cycles over and over, and even other occasional animations aren't that much better.  My girlfriend hated Rufus -- but that's kind of the point, I suppose. She left the room and didn't come back until I stopped playing. Oh, well. I'm just glad that people are still making well written and engaging graphical adventures these days!  Absolutely recommended if you are a fan of the genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great point and click adventure series with good mixture of humor and challenge. A few odd puzzles but overall great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great humor, diaglog is fantastic, puzzles are entertaining without being frustrating. Solid purchase.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best point and click adventure games out there, daedalic made an amazing work on all games of this series. It is truly worth giving it a try if you enjoy the genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Looking for a good point'n'click adventure with some good comedy - then this is definitely for u... Awesome point'n'click game that will definitely challenge you with it's puzzles :)  I enjoyed the story, the puzzles, the soundtrack was perfect and captured the mood and I liked the art direction and the world they created. The dialogue/script was on par with the classic p'n'c hits of yesteryear and is a main reason I'm thumbing this game up and enjoyed it so much (recently finished another game from daedalic 'New beginnings' but the script/voice acting was not as good as Deponia- altho I enjoyed it as well)  Anyway...... once I started Deponia, I couldn't stop playing.. just got done with the 1st instalment and now downloading chaos on deponia as I write this :)   Not gonna write much more on the game, buy it and u'll see for urself.. plus it's already on overwhelmingly positive, what else could I say that hasn't probably already been said by the other 4900 reviewers :p",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game I got hooked pretty quick. Puzzles in this game are really hard at times but very satisfying when achieved. I recommend this game for anybody who wants to just sit back, relax, and basically play a story because this game has a good theme to it and a great story line, it is pretty funny too.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "app_id": 356790,
+    "name": "Galacide",
+    "release_date": "2015-07-28",
+    "developer": [
+        "Puny Human"
+    ],
+    "publisher": [
+        "Puny Human"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Shoot 'Em Up",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 68,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "You command destructive ships to obliterate thousands of enemies, while weaving through intricate networks of invasive machine-organisms! Combining classic fast-paced shoot 'em up action with quick-thinking tactics of puzzlers, you must carefully match the right pieces to fly out of danger!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/356790/header.jpg?t=1549580589",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Dual-core Intel or AMD processor, 2.5 GHz or faster Memory: 6 GB RAM Graphics: nVidia Geforce or AMD Radeon, 1 GB GDDR5 or greater, 900 MHz memory speed DirectX: Version 10 Storage: 1200 MB available space",
+    "recommended_requirements": "OS: Windows 8 64-bit Processor: Quad-core Intel or AMD processor, 3.0 GHz or faster Memory: 8 GB RAM Graphics: nVidia Geforce or AMD Radeon, 2 GB GDDR5 or greater, 3 GHz memory speed DirectX: Version 11 Storage: 1200 MB available space",
+    "reviews": [
+        {
+            "review_text": "This game is quite simply the perfect marriage of shoot 'em up bullet hell and puzzle games. It does a wonderful job requiring you to proactively solve the moving puzzle while pressuring you with ships and fire. At the end of each level is a boss fight that's very difficult. It even has a strickly puzzle mode and a neverending mode. This game is absolutely thrilling and worth your money, although I would say that this isn't a game for people who don't like challenges.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If your'e into Shmups. One Word: Brilliant!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  (won it in a giveaway)  Good: AWESOME special effects using the Unreal 4 engine. Great shooter sounds and music.  Bad: The color combination and placement options take some time getting used to and can be frustrating. Building up combos can be a lot of fun, despite that. Focusing on the combo matches can distract the player from the enemy ships, resulting in health lost.  Overall 'worth it' score, yes or no: YES!  Caveats: Have played once so far. Future plays might force me to adjust or even change my recommendation to a thumbs-down. I feel that my opinion is still being made about GALACIDE.   (Opinion formed based on playing the introductory level on 'normal' difficulty.)",
+            "review_score": "1"
+        }
+    ]
+}

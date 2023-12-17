@@ -1,0 +1,39 @@
+{
+    "app_id": 758070,
+    "name": "Kill the Superweapon",
+    "release_date": "2018-03-05",
+    "developer": [
+        "Renegade Sector Games"
+    ],
+    "publisher": [
+        "Renegade Sector Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 5.79,
+    "description": "3D Twin-Stick Action game where bosses can roam from room to room in pursuit of the player. Samantha Kill is on a mission to take down Abaddon Inc. and their Bio-Mechanical Supersoldiers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/758070/header.jpg?t=1556138679",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

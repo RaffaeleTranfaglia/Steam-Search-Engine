@@ -1,0 +1,43 @@
+{
+    "app_id": 617480,
+    "name": "Tower of Time",
+    "release_date": "2018-04-12",
+    "developer": [
+        "Event Horizon"
+    ],
+    "publisher": [
+        "Event Horizon"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 77,
+    "positive_ratings": 747,
+    "negative_ratings": 110,
+    "price": 19.49,
+    "description": "A new kind of RPG awaits you. A story-rich dungeon crawler with innovative real-time combat that lets you pause or slow time. Tactical thinking is essential to succeed. Now with RPGlite and Permadeath for fast-paced game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/617480/header.jpg?t=1551726852",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 (64 bit) Processor: Intel Core i3 or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 or equivalent DirectX: Version 11 Storage: 12 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 (64 bit) Processor: Intel i5 series or AMD equivalent Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 770 or equivalent DirectX: Version 11 Storage: 12 GB available space Sound Card: DirectX compatible sound card Additional Notes: 8GB+ RAM decreases loading times to almost zero",
+    "reviews": []
+}

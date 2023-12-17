@@ -1,0 +1,40 @@
+{
+    "app_id": 427290,
+    "name": "Vampyr",
+    "release_date": "2018-06-04",
+    "developer": [
+        "DONTNOD Entertainment"
+    ],
+    "publisher": [
+        "Focus Home Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "tags": [
+        "Vampire",
+        "RPG",
+        "Choices Matter"
+    ],
+    "achievements": 28,
+    "positive_ratings": 4580,
+    "negative_ratings": 1717,
+    "price": 44.99,
+    "description": "London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/427290/header.jpg?t=1554104498",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64 bits) Processor: Intel Core i3-2130 (3.4 GHz)/AMD FX-4100 (3.6 GHz) Memory: 8 GB RAM Graphics: 2 GB, GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / Radeon R7 370 Storage: 20 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64 bits) Processor: Intel Core i7-3930K (3.2 GHz)/AMD Ryzen 5 1600 (3.2 GHz) Memory: 16 GB RAM Graphics: 4 GB, GeForce GeForce GTX 970 / GTX 1060 / Radeon R9 390 Storage: 20 GB available space",
+    "reviews": []
+}

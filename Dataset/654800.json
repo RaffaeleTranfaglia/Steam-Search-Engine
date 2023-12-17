@@ -1,0 +1,39 @@
+{
+    "app_id": 654800,
+    "name": "Guts and Syringes",
+    "release_date": "2018-03-30",
+    "developer": [
+        "Rock Wale"
+    ],
+    "publisher": [
+        "Rock Wale"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 9,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "2D game about something interesting...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654800/header.jpg?t=1522596869",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: AMD Sempron(tm) 145 Processor, 2.8 GHz, 1 core Memory: 1 GB RAM Graphics: 1 GB Video Card DirectX: Version 9.0 Storage: 768 MB available space Sound Card: any",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 561010,
+    "name": "Spirit",
+    "release_date": "2017-01-05",
+    "developer": [
+        "Nylund Games"
+    ],
+    "publisher": [
+        "Nylund Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "Shape an empty island into a wacky ecosystem. The game puts you in the role as a stranded spirit, with the power to give and take life. Play trough the sandbox Free Mode, or 9 casual Adventure missions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561010/header.jpg?t=1484741640",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.4ghz i7 Memory: 2 GB RAM Graphics: Intel HD Graphics (i7) card Storage: 1300 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: 2.8ghz Quad Core Memory: 4 GB RAM Graphics: Intel HD 4600 Storage: 1300 MB available space",
+    "reviews": []
+}

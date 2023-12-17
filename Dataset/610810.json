@@ -1,0 +1,42 @@
+{
+    "app_id": 610810,
+    "name": "Your Friend Hana",
+    "release_date": "2017-04-06",
+    "developer": [
+        "Xorcerox"
+    ],
+    "publisher": [
+        "Xorcerox"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Anime",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 1,
+    "positive_ratings": 294,
+    "negative_ratings": 164,
+    "price": 0.79,
+    "description": "You don't know what do to? Just ask Hana! You can chat with Hana, ask her any question and as an oracle she will answer you. Enter specific keywords and she will tell you different stories!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/610810/header.jpg?t=1491545685",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2 GHz Pentium 4 Memory: 500 MB RAM Graphics: 500 x 700 DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

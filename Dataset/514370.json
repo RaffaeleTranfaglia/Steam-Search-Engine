@@ -1,0 +1,39 @@
+{
+    "app_id": 514370,
+    "name": "DragonBlast VR",
+    "release_date": "2016-09-01",
+    "developer": [
+        "VisionWard LLC"
+    ],
+    "publisher": [
+        "VisionWard LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 2.99,
+    "description": "Choose your dragon and defend the village against invaders in this endless flyer virtual reality game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514370/header.jpg?t=1472761174",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 3.3 GHz Memory: 4 MB RAM Graphics: NVIDIA GTX 970 DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 3.4 GHz Memory: 8 MB RAM Graphics: NVIDIA GTX 980 DirectX: Version 11 Storage: 400 MB available space",
+    "reviews": []
+}

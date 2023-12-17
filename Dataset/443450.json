@@ -1,0 +1,58 @@
+{
+    "app_id": 443450,
+    "name": "LASTFIGHT",
+    "release_date": "2016-05-19",
+    "developer": [
+        "Piranaking"
+    ],
+    "publisher": [
+        "Piranaking"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Fighting"
+    ],
+    "achievements": 44,
+    "positive_ratings": 53,
+    "negative_ratings": 14,
+    "price": 10.99,
+    "description": "LASTFIGHT is bringing 2v2 3D fighting back to your living room! Pick up any available object in one of the 8 stages and teach your opponents a lesson! Play in local multiplayer mode, for up to 4 players, or one-player story mode, with a cast of 10 characters inspired by the comic book LASTMAN.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/443450/header.jpg?t=1551942531",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Intel Core i3-4160 @ 2.60GHz Memory: 3 GB RAM Graphics: NVIDIA® GeForce® GTX 480 or better DirectX: Version 11 Storage: 4 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "recommended_requirements": "OS: Windows 7 64-bit and above Processor: Intel Core i5-4460 @3.20GHz or AMD FX-9370 Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 760 or AMD Radeon R7 370 DirectX: Version 11 Storage: 4 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "reviews": [
+        {
+            "review_text": "+Plays really well: dodging, comboing, throwing are all satisfying +Diverse roster in appearance and playstyle +Colorful stages filled with character +Solid Soundtrack and Concept Art   -Suprisingly demanding specs - means most laptops are a no go -Hard to get MP going without a portable set up (again, requirements are strangely high) -Some stages feel too small -Story mode is only with 2 characters -Limited Multiplayer options - limited options in general (No online, FFA, Video options, color options)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lack of free for all mode in versus: brought over two friends and one of us always had to have an AI as a partner.  The map layouts are kinda stagnant, but that could just be me comparing it to Powerstone. Also online multiplayer would really benefit this game.  Beyond those complaints it's a solid well polished game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's great.",
+            "review_score": "1"
+        }
+    ]
+}

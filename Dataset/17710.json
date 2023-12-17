@@ -1,0 +1,562 @@
+{
+    "app_id": 17710,
+    "name": "Nuclear Dawn",
+    "release_date": "2011-09-26",
+    "developer": [
+        "GameConnect",
+        "InterWave Studios"
+    ],
+    "publisher": [
+        "Iceberg Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Valve Anti-Cheat enabled",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "FPS",
+        "Action"
+    ],
+    "achievements": 58,
+    "positive_ratings": 1675,
+    "negative_ratings": 441,
+    "price": 6.99,
+    "description": "Explore war-torn post-apocalyptic landscapes and take fight against enemies using various weapons in this FPS/RTS hybrid.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/17710/header.jpg?t=1549937933",
+    "minimum_requirements": "OS: Windows® 7 32/64-bit / Vista 32/64 / XP or higher Processor: Intel Core 2 Duo 2.4GHz or equivalent Memory: 2GB Hard Disk Space: 6GB of free HDD space Video Card: Video card must be 128 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 2.0b (ATI Radeon HD 2900 - NVidia GeForce 8800) Sound: DX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Recommend? Yes. It is a really good game. Solid with no bugs. If you are into the genre of FPS/RTS go for it. The problem? Depending on where you are, you will not find servers at all. If you found them, the level between players is to big to have fun... Why I like it? Because you can play with friends via LAN. Yep, get a good group of friends and you can rock it!  If you are a loner, this is not a game for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A surprisingly deep and well-designed FPS/RTS mix. A GREAT Team Fortress 2 alternative 8.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game - This highly team based FPS cross RTS has flown under the radar, and never got as much publicity or praise that it deserves, but it has a strong dedicated community which makes for some challenging and seriously fun gameplay. Up untill now there has been a lack of new content, but more new maps and well balanced servers are starting to be shared by the community more and more often. If you havent played it on a full server yet, you dont know what youre missing out on! Score: 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game on the 26th from a friend. I played 2 hours that night in single player... I made the mistake the next day of playing multiplayer. 11 hours later I looked up to see that It was almost 10 PM and I'd lost my entire day... There is up to around 3 servers with a respectable amount of people at any given time, so it's not hugely popular, but the sale is bringing in more and more people.  ABOUT THE GAME  Difficulty- It's fairly confusing if you're new to real time strategies to play as the commander, but the tutorials are very helpful. As a troop it's fairly easy to pick up as it's basically counter strike or a newer call of duty game. Technically this fits in the category I guess- the bots are beyond stupid. Half of them just try to jump up to unreachable places until they are shot. This, however, is hilarious.  Variation- The classes are amazing. You can't switch weapons like in call of duty, you use whatever ones come with your class. While some find this annoying, I think it levels out the game and makes it better. There are currently four types of troops with up to three or four classes for each. Changing even just a class can change how you play, or if your team wins or not. And if you get bored of just shooting people, apply to be the commander and play it like a tower defence.  Level of fun- OOOVVEEEERRRRR 9000!!!!!!!!! (sorry not sorry ;D)  Some other pros- There are people who use voice chat to be tactical, and awesome and stuff. I have so far only found one annoying person. The weapons as I said are balanced well. Most servers don't allow friendly fire, but it is an option.  Overall this is an amazing game. How I've been describing it is as a super tactical version of counter strike (YOU CAN BE A FRIKKIN INVISIBLE NINJA) but that doesn't do it justice. Nuclear Dawn is so far my favorite FPS (I like being a drone not the leader personally). It's not just I shot Bob, Bob grenaded me, I knifed George, Jeff shot me... You can be a sneaky ninja, you can be an engineer and repair the buildings, you can flame thrower the crap out of people, you can snipe; you can use a rocket launcher, or a pistol; you can just be a soldier or you can lead an army.  10/10 Wasted my whole day and many more to come.  P.S. Devastator196 is brother so if you see him make sure you get a head shot on that fool. ;D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was a little fooled by this... saw it in a humble bundle and then the 'RTS' tag... thought i wanted to get myself a new RTS game...well turns out to be an FPS for me.  I kinda like it, only actively played the Stealth class so far.  Let's start of with stuff i don't really like:  - Hit markers are somewhat off sometimes. Shooting right on the body but no hit? seems legit. - Turrets... Turrets everywhere! - Rockets...grenades... ♥♥♥♥ my life! - Servers are...empty?! i usually only se one server with a lot of people, the rest is empty  On the good side: - Heavy siege battles - People don't trashtalk on ingame voice (at least i havent experienced that so far) - Good positioning (as sniper that is) gets rewarded  - sniper shots usually don't oneshot (except for against snipers^^) but can be set up fairly quickly and the stealth part gives you nice possibilities in duels",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game , sadly the game is a ghosttown",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine TF2, but instead of cartoony and funny it is serious and set in a post apocalyptic universe. Teamwork is very important in this game as the flow of the game chages as well as the current objectives change too (such as defend this area, capture this resourse point etc). Probably more teamwork is involved in this game than tf2, but if you really feel like it you can just run around and kill people like other FPS games. It also has the commander role, the one person who builds all the buildings for your team and plays on an overview map. The commander role ist like playing a RTS but all the units are actual players. It is the unique blend of FPS and RTS that make this game just a blast to play and every time you play it is different than the last. It is a very unique and fun game that I highly reccomend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An RTS/FPS game where it requires a commander and a bunch of soldiers in order to win the battle. This game is really good and the graphics are actually nice despite its age.   Now the Review part:  Pros +Gameplay +Graphics +FPS/RTS hybrid game  Cons - Not a lot of players -Not a lot of servers -SUPER Under-rated game  Don't get me wrong this game is awesome but it's SUPER under-rated! I highly recommend this game and you guys/ladies should try this game out someday. Wait till the game goes on sale......",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I first bought this game I thought it was RTS mixed in with FPS... meaning you could go from a RTS view point to being a single guy as an FPS view... again wasn't it but slightly similar. There is one designated commander (RTS) player while the rest have to take the role as infantry (FPS).   If you've played natural selection, it's slightly similar to this. You start a game needing to be either a commander or a player (the nice thing about this game that yes you can play against the computer). The commander builds outposts to either provide more weapons, turrets, armory, health and upgrade stations. The players themselves attack and attempt to move forward and gain tactical advantage. The FPS portion of the game is actually quite fluid and visually appealing. I also have to give it to them, they put grenades into the game! Any game that does this I have to give them props. Having more options as a gamer is always welcomed, but the basic of a gun and a grenade I believe in a necessity. Zooming in is also possible with most weapons. Although being a good FPS player will advance most of your team, if the other team has a damn good commander, you may be out of luck. A strong commander is definitely needed for a victory. I should also mention there are different classes to choose from such as stealth assassin or sniper, assault marksmen, riflemen, and grenadier, support engineer, medic or BBQ (I'll leave this for you to explore), and exos which are almost like a super class.   The visuals from and FPS and even an RTS stand point is rock solid. Although the game is not that old, it's buffering abilities and graphics on either view is still phenomenal. From an RTS stand point, everything is nicely laid out and easy to manage. There is a grid view system in place to help the commander put buildings in place. HUD on either perspective/view is really easy on the eyes and are another fluid design in my opinion. Passing by these buildings that are being put up in FPS mode is absolutely a beautiful design. Sounds are neat and although not extremely diverse, you won't be hearing the same boom's or gun shots over and over.   I will give it a high rating as it attempts to be a hybrid and pushes the gaming genre boundaries.  RATING : 7.5/10       Gameplay   B     Story / Campaign   N/A     Visuals / User Interface   B     Sounds / Music   B-     Replay-ability   B-     Overall    B-    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is totally worth trying. Communication is the main key to victory here.  Soldiers have to communicate with the commander and respect his decisions. Commander on the other hand has to listen to the needs of soldiers and amend the tactic. This game is the real experience of team cooperation.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game but needs more players.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A surprisingly deep and well-designed FPS/RTS hybrid. A Team Fortress 2 alternative that needs a community to thrive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The perfect combination of strategy and first person shooter plus some RPG-stylized gameplay. I can't wait for the sequel!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Where to start with this one...  Maybe let's take a look at the engine. Source engine means serious work. Using the L4D2/Portal 2 branch, graphics and such are up there.  Gameplay, very different. While you have real humans fighting it out on the battlefield, you can sit in your seat and place structures in a RTS environment. Maybe you will even experience the pain of someone stabbing you in the back when you sit in the command structure. Yes, it does happen often.  Shame the funding and support started to dry up, this game will always be one that I can't turn down to someone. The title has sort of 'come and gone' so to say.   But here I am, going to give it a rating. There's no real purpose in playing unless you can find servers that aren't full (3 or so) and don't have bots.  7/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a very well thought out game with the purfect mix of stratagy and action, it reminds me of a game called battlezone, when i was younger it was my favourite game and nuclear dawn reminds me of it, the classes are really balanced as well, overall a good game, but i think is should be more popular then it is at this time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a great first person shooter that involves some actual team work. It needs more tactic than your usual first person shooters. A few minor things can be said, if you have a bad team you are automatically gonna lose. But that's all it's fun to play there is almost constant battle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good game but not many people online, was online for hours and only every got 6 people on the same server. Gameplay is very simple and easy. Graphics are average. Overall I was happy but would of been better is more people played the game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "hands down one of the best 'cross game-style'. The ability to have a hive mind building up as your team fights to secure areas and push into new ones. Truly a well done game that has something everyone can enjoy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game. More players please.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game! A currently small but active community of players. There are always people on line when I log in after work in the evenings. If RTS/FPS blends interest you at all, pick this one up. Sitting in the commanders chair, leading your team through the big picture, giving them the at-location support they need to overwhelm the enemy lines... Or securing resources for your commander to use, gunning down opposing exos to keep your structures safe, or protecting your own exos from snipers and assassins, this game delivers on both aspects.  Definitely not a k/d focused game at all. Great if you want a good cooperative experience. Veterans are usually very willing to teach and give feedback to rookie commanders, and make suggestions for improving your play as any class on the ground.  There a few bugs, but nothing too severe in my experience. I can't say enough good things about this game. BUY IT! Right meow!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very enjoyable. I find myself getting lost in the matches as the hours go by. I wish more people played and the developers were still working on it. There is so much potential here.   Edit: The game has advanced since I wrote this review. I am learning more and am seeing tactics that are still new to some. The game is evolving as the players become more creative. 8/10 For the $2.79 you pay now, the game will pay for itself in the first few matches.   Some aspects that were fixed, graphics for various items, sale of flame and sonic turret, and a few other adjustments.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so damn amazing, it only saddens me to see that it is so overlooked.  Drop your COD's, Throw away your Battlefields! As this game is a mix of strategy and FPS.  You wanna run in and cause chaos? Do it. You wanna Help your team by healing and repairing? Go ahead! You like snipers? Get in here! You want to lead? Give it a try.  This has everything. Just play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is easily the most involved multiplayer shooter I've ever played. You're never simply running around just killing people; winning requires some of the most intricate teamwork and strategy I've ever seen in a videogame. The entire premise of the game is just so well designed that my words can't do justice to it. The commander position provides RTS fans with a whole different dimension of play and a chance to put their strategic skills to the test with real players as their army, the classes have good balance, the maps are interesting and complex enough to facilitate efficient use of all gameplay elements and weapons, and not to mention, the art direction is superb.  I was completely blown away when I decided to give this game a chance, and I'm hard-pressed to find anything wrong with it (barring some things which they've already fixed). If you're big on real-time strategy or love team-oriented shooters, Nuclear Dawn is a must-have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is easily the most involved multiplayer shooter I've ever played. You're never simply running around just killing people; winning requires some of the most intricate teamwork and strategy I've ever seen in a videogame. The entire premise of the game is just so well designed that my words can't do justice to it. The commander position provides RTS fans with a whole different dimension of play and a chance to put their strategic skills to the test with real players as their army, the classes have good balance, the maps are interesting and complex enough to facilitate efficient use of all gameplay elements and weapons, and not to mention, the art direction is superb.  I was completely blown away when I decided to give this game a chance, and I'm hard-pressed to find anything wrong with it (barring some things which they've already fixed). If you're big on real-time strategy or love team-oriented shooters, Nuclear Dawn is a must-have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is ok, although there is not very much instruction on the unique thing that the game has, so it has a very large leaning curve. If you dont mind that though, then it is pretty good. 7.6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I first bought this game back in 2011 when it came out, this game was a blast for me. This multiplayer community was huge back then, this game is interesting because you can play as the commander for either two different armies, and real players will be fighting as you command and build up to help your team win against the others, graphics are a 6/10 for me, sometimes the game can be glitchy and have bugs on it but those are only minor, the main issue I would have to put out about this game is that hitting targets is a bit challenging since the models are very thin and move clunky. Over the years the multiplayer has shrunk significant numbers, you will be lucky to find maybe 4 or 6 servers open.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it has battlefield team work call of duty like maps and has a little halo in it  if you like team work or cloaking ninjas youl'll like this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's one of the best non-mainstream games out there imo, or at least that i know of. I'm obviously recommending it. 9/10 :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you liked tremulous or natural selection, this game is both similar and works. Usually genre-crossers like this are either unbalanced or just have plain boring combat. Playing as commander, playing as various specialized classes, working with random teammates or even better with friends on voice, it's all very fun from the start.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think the same for this game and Madballs In Babo Invasion, they are great but sadly they are mostly deads. I recomend that two games, Nuclear Dawn can be played as RTS game or FPS, and is great in both sides. Not much players but maybe in prime time can got 30 players in a server to got a funny game. If you have it, test it, and will see is very good, but not popular.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, by the fact im playing multiplayer at the year of 2015, however, its a bit dead, there are only like 2 servers where people are playing, but other than that, its a fun game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great concept, great execution. Could use a campaign, but multi is fun when teams co-operate.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely fantastic title, whole game derseves props for what it brings to the table. Unfortunately the community tends to enjoy stomping and raging at new players rather than help them learn. More often than not there is a massive experience gap between the two teams on any given server of any population (they are indeed rare now..) and new players can look forward to loss after loss without as much as a hint on what they're doing incorrectly.  HOWEVER, someone willing to do the legwork and learn this game can reap so much enjoyment out of it that despite not being a persistent world style FPS or an arena shooter, it holds the right length of match to take the best of both worlds and give you an experience that more companies should be looking into evolving into a more prevalent style of team based shooter.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool concept, great game play. An rts twist on Battlefield. Community has died off, not that many good commanders, which can definately make or break your team. Would definately like to see more players!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good game, but a steep learning curve and not much actual teamwork.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game with the best teamplay ever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game does not quite re-invent the wheel as you may think but they really dared to at least try something new, and what came out was a very solid and fast paced, dynamic FPS with a real nice twist. At least for this price I don't think you can go terribly wrong with Nuclear Dawn.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bought it when it was on sale just to try it, totaly worth it. Awesome gameplay and great concept, shame its so underrated. Hoping more people will notice this game, servers are pretty empty.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game! RTS or FPS you choose! Can't wait to see what comes of it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You can play online with hard bots.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good graphics, fast and cool gameplay. Too few weapons, but a good and addictive game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Feels like a combination of Starcraft2, Battlefield, and Tf2, and ive been loving every minute of it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, as stated by others it takes a while to get into but once you are, it is great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun... Just wish more people played it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's very interesting. =)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game brings two of the greatest games together... Call of Duty and Command and Conquer. the mix feels great and is very team based. if you like the realistic part from the quick deaths like in ral life, rainbow 6 seige is a good game, but if you like call of duty or Command and Conquer the 6$ price tag is worth it. a small glitch here and there but nothing game breaking. the weapons are very ballenced which alot FPS games have problems with, the victory comes down to skill and teamwork, not over powerd weapons. i have currently only played a little under 2 hours but im already hooked and love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like FPS/RTS you will love Nuclear Dawn.  Fantastic game and at this price, you should get it. You can look at youtube reviews, gameplay videos, reviews on other websites, read what others have said here. Or you can spend a pittance, give it a blast and have fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fans of the fps genre rejoice! Finally a game where the efforts of your team really show and make a differnence. One of the more enjoyable shooters i have played this year. ND is a unique twist on the fps/rts hybrid model. To sum it up, each team has a commander which plays rts style. everyone else plays as a class based fps game. There are 4 classes and each one has a sub class to it as well. Each class feels good and has its own strengths and weakness. The commander portion is a blast, but does have a bit of a learning curve. The gameplay beats out a lot of AAA titles that have been released as of late. My only complaint is that its a tad lite on content atm. With only 1 game mode and 6 maps, it does leave a bit to be desired. However, the developers are exellent with communicating to the community, vehicles and more maps/modes are on there way. For 25$, you will get your money out of whats already here. I cant stress this enough, communication and teamwork are key to this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It rocks. Battlefield 2142 meets Call of Duty...meets...something else.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's an FPS, RTS. 2 teams fight for control of points, points yielding money so the commander can buy stuff like spawn points and turrets and supplies and boosts. It is an absolute blast!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, as stated by others it takes a while to get into but once you are, it is great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good for online.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "killed a guy with a minigun then died 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting blend of FPS and RTS; worth a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great tactics-heavy FPS/RTS hybrid with a cool futuristic post apocalyptic theme. The RTS aspect makes for some awesome games.   Not to mention how cheap it is!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like this game. its fun, and a cool concept. Need some way to get more players into it. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best rts not much of a rts in multiplayer but in singleplayer you have to be the leader then you have to think real hard the fps mode is really good its four class with three different weapons you can choose from and its really balanced the player can win if they push hard with rocken launcher and the player in rts mode can win by putting down turrets in the close area to the emeny base i wouldnt give it 9.6/10 its simple that good and it should Cost around 25 us dollars and not 10 so idont line that cuz no feel operation should be that Nice its a assault team of about 10 People so the player is troops to",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I Love This Game !!! That's All &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game was boaring for me and i found on line odd but it is a tad hard",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is in a sense like counterstrike go, due to the need to controll objectives, but aslo like TF2 in the sense of classes and teamwork.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥ing amazing, if you like Sanctum 2 you'll love this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For some reason, I've always had a weak spot for source mods. Some of my favorites being Zombie Master, Synergy, and this game. I remember playing the free weekend for this game around 2011 or 2012 and remembering how much I liked it. The gameplay is pretty cool, combines elements of both FPS and RTS, the commander gets an RTS Eagle-Eye view and can place a bunch of structures and so forth. The FPS gameplay is your standard shooter, point crosshairs at baddies, destroy enemy structures and so forth.   However, one thing really bothers me about this game: How come there aren't that many people playing? The game is fun, and with the addition of trading cards and Steamworks support, you'd think the game would be a little more popular. That's not to say there's absolutely nobody playing, while the community is small, it seems to be a very dedicated one. You should be able to makes a few friends pretty fast on here.  The game creates a nice twist by incorporating RTS elements into the mix, anyone who is a fan of team-based, squad combat shooters should feel right at home with this game. For $10, you can't go wrong.  4 underrated McLovin's out of 5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good FPS/RTS combo. Reminds me of the game called 'Savage', but the gameplay here is a little bit faster... :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The smartest competitive shooter I've ever played. I haven't even played as an RTS commander yet. The FPS portion alone is worth the money.  This game is very rewarding towards players who are good at strategy, shooters, or both.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have you seen these big gas prices? YOu can bguy a big gas trcuk",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game RTS/FPS hybrid. Worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is what C&amp;C Renegade should have been.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is realy addictive if you enjoy a good FPS game and you also like RTS games. Some really epic fights break out on every map as you play this game. An RTS/FPS hybrid sounds bizarre, but it works quite well. Be a solider and destroy emenies and building alike to eventually take out the enemy base with the support of your commander backing you.. Or get in the hot-seat as the commander and have everyone running and gunning thanking you for the building as support as you tear the opposing team apart!  I absolutely love this game and how much fun you can have with it if you like either FPS or RTS games. You can acctually work as a team and do some amazing things if you know what you're doing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid gameplay, lack of players tho :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While this game is fun and amazing to play, its community is mostly dead and it will be difficult at times to find a server with a decent amount of people. If you can find a few friends to play this with, I would pick it up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "wow. An amazing blend between RTS and a FPS. The game is simple to understand and with a litlle work the controls are easy to understand too. I got this for £1.74 in the steam winter sale and boy i was suprised by what i got for my money, and even for £6.99 i am still amazed. It is a great game with no super pay-to-win concept or someone who has paid for everything or someone with privalges in charge of your team, it is the entire teams choice and if people don't like what they see in a commander then they decide what to do. As for the FPS side of it a variety of classes with a variety of sub-classes. What else can you say a great in-depth game for the price of a cheap,old game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A hidden gem that it unfortunately took a long time to discover. Dont make the same mistake I did, BUY EEEET!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing joining of 2 of my favorite gameplay styles, FPS and RTS. If you are fans of both types of games, this is for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great squad based fps love it rts+fps ftw!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game mixuture of fps with RTS I highly reccomend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is for people who want to challenge themselves to the limit. Full on awesome game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nuclear Dawn is an excellent mixture of RTS and FPS genres. I stumbled upon it because I was looking for a good RTS game for Linux. The added bonus of commanding real players instead of mindless bots makes playing Nuclear Dawn a really special experience. 100% Recommended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a shooter game. No, its a strategy game. Dude, its both. BOTH? yes both. the sickest hybrid ive ever played. check it out. no really buy this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's an FPS, with some classes that resemble those from TF2, also, huge maps and mechanics that resemble those from Battlefield. There are no vehicles, this is because each team has a 'Commander' who builds structures and researches upgrades for the team whilst playing the game Real Time Strategy style. Teamwork is absolutely required to win, which leads to genuine gratification. The maps are urban and very detailed, definitely some of the best and most memorable source maps I've ever seen. The game developers claim they are the biggest source maps ever. They did a great job on it and I not going to lie to you, this game makes my dong hard.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Post-apocalyptic shooter, strategy, action story takes place in 2050. Unfolds the real third world war 'red' and 'capitalists'. In network disassembly involved 16 people in the team, there are 6 large enough cards.  The game has an excellent commander system, and in fact it is on the shoulders of the officers have a central role. Command can only be one, he first round control to select randomly from applicants. He can look down on the battlefield and its gameplay is more strategic, but then living units, so not so obedient. At a distance it can treat men and commands a detachment of soldiers and drop bombs and various etching substance enemies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This FPS/RTS is awesome game.It gives same amount of fun when playing as a FPS trooper as also a RTS commander.ND needs more players though becuse there are not as much like in battlefield of call of duty :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is severely underrated, but to be fair, it often feels unfinished It is a terrific FPS thats also an RTS with TF2 style classes in the L4D2 Source engine. Pick it up for cheap and play it all the time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is dead, every server is empty and only a few servers have about five or six players just ♥♥♥♥ing around on it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nuclear Dawn is a very fun FPS game, instead of running around spamming your gun and blowing stuff up, you actually have to cooperate with your team to win.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A year after release, and a near-dear community doesn't stop this ball from rolling. Nuclear Dawn is an FPS/RTS hybrid, akin to Natural Selection. The gameplay feels like Battlefield 2142 mixed with Command &amp; Conquer. This is a game that is worth the cash, and unlike BF games, there's a lesser learning curve, as simple as playing the tutorials gets you the foundation of how to play this genius game. Running on the Source engine, it's also a spectacle. When you aren't looking at the brown that has preluded and infiltrated this game, you see some vivid graphics, curtousy of Interwave's incredible map designers. There's a way for everyone to play, and all you need to do is try it.  This game may be empty, but Interwave is dedicated, and they plan a BIG patch for their anniversary. I recommend you buy it and see for yourself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a good game because of the fact that it actually requires some thought and skill, rather than most fps games, where you just 'rooty tooty aim 'n shooty' to win the game. There is not much variation for classes, but you do get different perks as you level up, and the player #s are growing, making that more possible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ah, Nuclear Dawn, one of the better games I have played on the source engine, a must have if you like class based conquest game modes. Plus if you are good enough, being the commander is some wicked fun... Not only does ND combine the best aspects of games like Battlefield, but it also combines all the fun of RTS Strategy and squad based action games. This one sure pakcs a hell of a punch! Now hurry up and buy it so you can fight with me!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent, smart shooter/RTS hybrid that deserves more attention than it's getting",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game mixuture of fps with RTS I highly reccomend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really nice game, especialy when commander have brains.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a nice game but the community is pretty dead. If you're not really into milshooters where headshots do more damage than bodyshots, and if you're not particularly into RTS aspects then give it a pass. Also pass if you're not into being trapped in your spawn as the enemy slowly advances because your teammates didn't pick the Surrender option. Still a good game though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is decent for its style, although i would recommend 'Natural Selection 2' if you were looking for a game like this, this one is a little underpolished. Still it is a time filler and fun enough to get.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Come Back to this Really Fun RTS Hybrid",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is pretty awesome but it has a lack of players online. As brought to my attention though there are spikes in activity and it can be extremely fun some for the price its pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, the gameplay is innovative, unique, fresh, and satisfying. One of the best multiplayer games Ive played in a while. (8-10)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its good stuff. Fun for the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid gameplay, lack of players tho :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! A mix between RTS and FPS, highly addictive. At first, it will seem a bit complex, but a few rounds will change your mind.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game rocks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really enjoy this game, actually. Though, it may be more fun to play with friends, sometimes you get lucky and join a server with lots of helpful people and make friends that way. This is definitely the first game I've ever seen done the way that it is. Very original, and VERY fun! I've found myself losing hours of my day getting sucked into this game, but I don't regret it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is probably one of the most fun games I have played in while. Mixes a lot of gameplay features from various games and puts them all together very nicely.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Battlefield crossed with Red Alert, Fun Fun Fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "spectacular game. must have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While the game itself is fine, there is currently an extremely small server population. Purchase at your own discretion.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I wish I could recommend this, but the last time few times I played there wasn't enough people in any of the servers to merit a fun match. I'm not the only one who has experienced this, wish the devs were able to nurture the game more and build a larger community. But currently (2016), the game is practically dead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Seems to be one server with people in the UK. I think Chicago server fills up on Friday nights as well. The rest are usually completely empty. Game-play itself is pretty fun, great concept and a few years ago it was probably a great game. If not for the extreme lack of players this would be good. The multi-player is the only thing this game has going as well, the AI in single-player is worthless. Sadly, it's a dead game, which is the only reason I don't recommend it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I wanted this to be good long ago. I bought a four pack for some friends, none of them even gave it a chance because they hated it so quickly. Played it myself and the community is... okay. They are not toxic but they're definitely anti-every-FPS-ever-made. It also has an RTS perspective for the commander, but it isn't as good as Natural Selection 2. Everything is lacking, all except the concept. The concept is great. The concept and the visual's style are good. That's all that remains for positives, unfortunately.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's a great game for the value, and very enjoyable. There's just a few problems: 1:glitches galore 2:not many players 3:GLITCHES 4:While the blend of FPS and RTS is an interesting one, it is a basic RTS and FPS when you boil it down. 5: did I mention glitches? To be fair, there is a great game here, and it can stand on its own, the glitches are unbearable. The last one I encountered crashed my game, yet steam thought the program was still running. So I couldn't close steam, but the game wasn't running at all. It took a complete restart to fix it. CONCLUSION: Good for a budget game, but be warned; it's very buggy and not that polished.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not worth my time to say anything more than this is not worth your time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "No servers no mouse pointer. a dead game for me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Mac version crashes on startup. waste of my money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Was a great game, played fantastic. This game should've really gotten more attention back then! Problem with it was: There just weren't enough players joining the community. It was worth the money, but now I wouldn't recommend buying this anymore due to lack of players unfortunately.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "When you start to play this game looks greate. But the FPS is not about kill the enemy but destroy enemy builds. That is good to the RTS of the game, but the most players will give up of the game because that. Only stay in this game who really like of the RTS, if you want a better mix of boths you should go with natural selection 2.   You can see that when you look the servers. Ghost town.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Reminds me abit of Counter-Strike 1.6, but not as good. Liked it, but not worth paying for.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's not a bad idea, just a poorly executed one. Basically, you won't notice the difference between a normal fps and this hybrid. If the game had a competitive scene, it would be a lot better, but sadly it doesn't. The Commander simply doesn't have enough influence on the game.  As the commander you are mostly doing a monotonous job: place turrets everywhere. It's a lot of busywork. If the simple soldier thinks the commander's idea is good, he does what the commander tells him. If not, he won't. So at the end of the day it all comes down to how good you are at fps games in general, because everyone on your team is an idiot either way.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very cool concept of hybrid multiplayer RTS-FPS, but it becomes very dependent on your team and commander. It is FRUSTRATING taking out enemy infantry in waves, only to have to enemy building materialize around you, and you realize your inability to do anything to take them out. It only ends with you being spawn trapped as it rains down turrets of machineguns, rockets and flamethrowers as you realize there is a mad god out there that hates you.   The Starcraft Brood War Opening Cinematic honestly describes it perfectly, your the marine though :         YouTube™ Video:  Starcraft: Brood War Opening&nbsp;",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A poorly optimized source mod you have to pay money for.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "No dount this was a fun game when it was released, and I enjoyed playing with bots for awhile, but sadly I couldn't find any Asian servers  I'd recommend not buying this, just because it lacks servers in Asia, but for no other reason than that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "June 9 2016 Im afraid this game had huge potential but not an ideal follow up. Its not the smoothest frame rate Ive ever seen.  Ive spent about an hour playing just to see if i could get into it but because i really like the concept but it hasnt really sucked me in. It was on sale for super cheap so im no angry or anything, but you could say im a little disappointed. I thought this game was going to be awsome, based on the concept. Ill keep my eye on on it though because i feel like it might become really good one of these patches.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The first and only software I encountered that instantly crashes my Arch Linux installation. I play a lot of games on this machine, this is a first. On my other machine, the game has no graphics, only the HUD icons.. I'll try again in a couple of months :)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game had potential, but I think what kille dit off is its deviation from the origiaal intent; it is missing the vehicles originally shown in a demo video, It should have stayed the course, and could have become even better than it's sister game, Empires Mod (not from the same people, but concept is identical),",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The one voice actor has about as much enthusiasm as a depressed emo in a kids library.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Was really boring. Empires Mod is more enjoyable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is a Garbage there are no players and if you find someone to play it wont be fun because this game sucks dont waste your money",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "DON'T BUY THIS GAME!!! it's filled with bugs that provent even the most skilled player from funtioning. teams are stacked doed to the team balancer. it haz snipers, armed with BB guns, it haz BBQ with extreme high damage points, server admins who are putting up do's and don'ts., bots that get stuck in spawns or won't follow commands, but shoot with a way to high accuracy.... it was a brutal game when it started, but got killed by to many update's. Don't waste your money, Don't waste your time. Despite all the time i've putt in and despite the guide's i have made for this game, i will not change my opinion as long as the game remains this way. FB",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The gameplay is comfortable and familiar without feeling stale and rehashed.  The user base is small at times, but the users I've come across are helpful and non-Troll-ish.  All in all I think it’s a refreshing take on the genre.  ~~~~ 04/21/15 ~~~~~~ I have to change my recommended status, as I've found VERY few if any servers up recently. As I edit this, I'm am finding one server up in France, a few hours ago, there were no servers active. Still enjoy the gameplay, but if there is no one to play with I can't recommend paying for the game.",
+            "review_score": "-1"
+        }
+    ]
+}

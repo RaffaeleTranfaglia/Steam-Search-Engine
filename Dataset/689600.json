@@ -1,0 +1,38 @@
+{
+    "app_id": 689600,
+    "name": "Little Earth",
+    "release_date": "2017-08-22",
+    "developer": [
+        "RedRabbit Animation"
+    ],
+    "publisher": [
+        "Red Rabbit Company Limited"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "An educational VR experience about the solar-system. Meet little animals and learn about the seasons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/689600/header.jpg?t=1503449665",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 8000 MB RAM Graphics: Nvidia GTX 970 DirectX: Version 11 Storage: 500 MB available space Additional Notes: Your PC should be VR Ready",
+    "recommended_requirements": null,
+    "reviews": []
+}

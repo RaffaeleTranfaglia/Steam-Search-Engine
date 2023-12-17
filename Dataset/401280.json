@@ -1,0 +1,41 @@
+{
+    "app_id": 401280,
+    "name": "Nubs' Adventure",
+    "release_date": "2015-10-12",
+    "developer": [
+        "IMakeGames"
+    ],
+    "publisher": [
+        "IMakeGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 19,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Nubs' Adventure is platforming action and exploration combined with an intriguing story and a vast world to explore!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/401280/header.jpg?t=1451294260",
+    "minimum_requirements": "OS: Windows XP/Vista/7/10 Processor: 1 GHz Single Core Memory: 512 MB RAM Graphics: Onboard Graphics Card Storage: 120 MB available space Sound Card: Onboard",
+    "recommended_requirements": null,
+    "reviews": []
+}

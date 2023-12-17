@@ -1,0 +1,45 @@
+{
+    "app_id": 333490,
+    "name": "Replay - VHS is not dead",
+    "release_date": "2015-07-09",
+    "developer": [
+        "Team Replay"
+    ],
+    "publisher": [
+        "Neko Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 14,
+    "positive_ratings": 26,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Replay: VHS is not dead is a puzzle/ platform game, set in a movie-based universe. Record your characters’ movements. Use the remote control powers to bend time. Change character and play again to combine their actions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333490/header.jpg?t=1464018241",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 / 8  Processor: Intel Core 2 Duo 2.8GHz or equivalent processor  Memory: 2 GB RAM Graphics: 3D graphics card DirectX: Version 9.0c Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "REALLY ENJOYED IT     nice artstyle, simple concept: move/switch characters, push buttons, boxes,  think /puzzle a bit, match timing...  not really challenging but fun to me  NO MUST + NO FUSS",
+            "review_score": "1"
+        }
+    ]
+}

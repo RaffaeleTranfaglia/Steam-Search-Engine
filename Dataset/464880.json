@@ -1,0 +1,36 @@
+{
+    "app_id": 464880,
+    "name": "Stars in Shadow",
+    "release_date": "2017-01-19",
+    "developer": [
+        "Ashdar Games"
+    ],
+    "publisher": [
+        "Iceberg Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "4X",
+        "Strategy",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 62,
+    "positive_ratings": 314,
+    "negative_ratings": 88,
+    "price": 18.99,
+    "description": "Stars in Shadow is a turn-based 4X strategy game and a vivid tribute to the genre classics. Compete with alien factions to explore and colonize nearby starsystems, build fleets to defend against rivals, negotiate or conquer them. Win by unifying the galaxy, through diplomacy or force.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/464880/header.jpg?t=1521476948",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Intel Core 2.6 GHz or equivalent Memory: 4 GB RAM Graphics: ATI Radeon HD 4000 Series or better Storage: 3 GB available space Additional Notes: Stars in Shadow requires the OpenGL framebuffer extension.  This extension is present on almost all graphics drivers released after 2010, but laptops made before 2010 with vendor-locked graphics drivers may not be able to run the game.",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: Intel Core Duo 3.0 GHz or equivalent Memory: 8 GB RAM Graphics: NVIDIA Geforce 400 Series or better, 1 GB RAM Storage: 3 GB available space",
+    "reviews": []
+}

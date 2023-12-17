@@ -1,0 +1,45 @@
+{
+    "app_id": 857850,
+    "name": "Dwarf Defense",
+    "release_date": "2018-05-28",
+    "developer": [
+        "Heavy Safe Studios"
+    ],
+    "publisher": [
+        "Heavy Safe Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Dwarf Defense! An RTS Tower Defense game where you play as a dwarf trying to defend a brewery from thirsty invaders by using magical towers and spells.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/857850/header.jpg?t=1544570552",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows® 7 (32/64-bit) Processor: 2.0 GHz Memory: 2 GB RAM Graphics: DirectX® 8.1 Graphics Card DirectX: Version 8.1 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

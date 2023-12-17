@@ -1,0 +1,43 @@
+{
+    "app_id": 555210,
+    "name": "Trick and Treat - Visual Novel",
+    "release_date": "2016-12-30",
+    "developer": [
+        "Eternal Night Studios"
+    ],
+    "publisher": [
+        "Alberto Herrera",
+        "Ziel Graywords",
+        "Stw projects"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Visual Novel",
+        "Anime"
+    ],
+    "achievements": 5,
+    "positive_ratings": 2922,
+    "negative_ratings": 351,
+    "price": 0.0,
+    "description": "Trick &amp; Treat is a Visual Novel that test your instincts by making choices that can get you out from the cursed forest or drive you to death… or maybe just maybe your choices can guide you to something more?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555210/header.jpg?t=1552426493",
+    "minimum_requirements": "OS: Windows XP Processor: 1.66 GHz Memory: 1 GB RAM DirectX: Version 9.0c Storage: 121 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

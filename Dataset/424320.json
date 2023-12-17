@@ -1,0 +1,47 @@
+{
+    "app_id": 424320,
+    "name": "Anomaly 1729",
+    "release_date": "2015-12-30",
+    "developer": [
+        "Anvil Drop, LLC"
+    ],
+    "publisher": [
+        "Black Shell Media "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 25,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Come explore the world of Phiohm, where up can be down, left can be right, and the way forward is never what it seems. Guide newly cognizant Ano on a journey of self-discovery by learning how to manipulate this ever-changing world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/424320/header.jpg?t=1483035129",
+    "minimum_requirements": "OS: Windows Vista Processor: Dual-core Intel or AMD, 2.5 GHz Memory: 4 GB RAM Graphics: DirectX 10 Compatible card DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Quad-core Intel or AMD, 2.5 GHz Memory: 8 GB RAM Graphics: DirectX 11 Compatible card DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "Mind twisting game in which you need to navigate through enviroment where there is no up or down. And it looks gorgeous.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An awesome puzzle game, great graphics and intriguing mechanics.",
+            "review_score": "1"
+        }
+    ]
+}

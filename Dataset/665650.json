@@ -1,0 +1,41 @@
+{
+    "app_id": 665650,
+    "name": "2V Hoverbike",
+    "release_date": "2017-07-06",
+    "developer": [
+        "Intertum"
+    ],
+    "publisher": [
+        "intertum"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 12,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "2V Hoverbike is a horizontal shoot 'em up.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665650/header.jpg?t=1516893102",
+    "minimum_requirements": "OS: Windows 8 Processor: AMD A8 6410 Memory: 4 GB RAM Graphics: AMD Radeon R5 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

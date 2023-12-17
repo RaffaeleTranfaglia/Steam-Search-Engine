@@ -1,0 +1,41 @@
+{
+    "app_id": 482440,
+    "name": "ESSENCE",
+    "release_date": "2017-04-18",
+    "developer": [
+        "ONEVISION GAMES"
+    ],
+    "publisher": [
+        "ONEVISION GAMES"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 27,
+    "negative_ratings": 13,
+    "price": 15.0,
+    "description": "In this surreal non-violent exploration adventure you are in a world you don’t remember seeing before at a place forgotten by time and space. Wake up and explore this miraculous world that has been waiting for your return so long.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/482440/header.jpg?t=1542905736",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel Core i5-2400 | AMD FX-6100 | or equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 700 series | AMD Radeon HD 7770 | or equivalent DirectX: Version 9.0 Storage: 5 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-3770 | AMD FX-8350 | or better Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 980 | AMD Radeon R9 290 | or better DirectX: Version 12 Storage: 5 GB available space Additional Notes: Recommended Laptop GPUs are NVIDIA GeForce GTX 960m | or equivalent/better",
+    "reviews": []
+}

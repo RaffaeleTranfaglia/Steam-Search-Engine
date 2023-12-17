@@ -1,0 +1,35 @@
+{
+    "app_id": 821680,
+    "name": "Military Operations: Benchmark",
+    "release_date": "2018-06-21",
+    "developer": [
+        "Military Operations"
+    ],
+    "publisher": [
+        "Military Operations"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "Utilities",
+        "War",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 19,
+    "price": 0.0,
+    "description": "&quot;Military Operations: Benchmark&quot;, is a performance and stability Benchmark utility that can be used to specifically test your gaming system for compatibility with the upcoming &quot;Military Operations&quot; (MilOps) Realtime Operational Wargame and the &quot;Metis Simulation Technology&quot; it is developed with.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/821680/header.jpg?t=1534178926",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 x64 Processor: AMD or Intel Quad core Memory: 8 GB RAM Graphics: NVidia GTX 670, AMD Radeon HD 7950 (OpenGL 4.3, OpenCL 1.2, 3 GB VRAM, 2 TFLOP) Storage: 25 GB available space Additional Notes: Intel Integrated Graphics not supported",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 x64 Processor: Intel i5 Quad-core or equivalent Memory: 16 GB RAM Graphics: NVidia GTX 970, AMD Radeon R9 280 (OpenGL 4.3, OpenCL 1.2, 4 GB VRAM, 4 TFLOP) Storage: 25 GB available space Additional Notes: Intel Integrated Graphics not supported",
+    "reviews": []
+}

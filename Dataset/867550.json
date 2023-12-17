@@ -1,0 +1,37 @@
+{
+    "app_id": 867550,
+    "name": "Range Ball",
+    "release_date": "2018-08-13",
+    "developer": [
+        "meokigame"
+    ],
+    "publisher": [
+        "meokigame"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 72,
+    "positive_ratings": 19,
+    "negative_ratings": 4,
+    "price": 0.79,
+    "description": "A puzzle in which colored blocks are pushed from above and the player has to break them with a ball. Make sure that the color of the ball and the color of the tile match.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/867550/header.jpg?t=1543574921",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 512 MB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

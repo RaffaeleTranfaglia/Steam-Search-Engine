@@ -1,0 +1,39 @@
+{
+    "app_id": 885390,
+    "name": "Richy's Nightmares",
+    "release_date": "2018-07-07",
+    "developer": [
+        "Unreal Gaming"
+    ],
+    "publisher": [
+        "Unreal Gaming"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "2D"
+    ],
+    "achievements": 13,
+    "positive_ratings": 21,
+    "negative_ratings": 30,
+    "price": 2.09,
+    "description": "Plunge into the little boy’s world of fantasy, with overactive imagination and wild fear. The game contains plenty of puzzles and obstacles. Richy need your help to overcome all difficulties and fears on his way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/885390/header.jpg?t=1552467937",
+    "minimum_requirements": "OS: Windows 7, 32-bit Processor: 2GHz Memory: 1 GB RAM Graphics: Nvidia GTX 460 DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7, 64-bit Processor: 2GHz Memory: 1 GB RAM Graphics: Nvidia GPU GeForce GTX 550 DirectX: Version 11 Storage: 400 MB available space",
+    "reviews": []
+}

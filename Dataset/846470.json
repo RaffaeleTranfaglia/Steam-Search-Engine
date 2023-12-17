@@ -1,0 +1,39 @@
+{
+    "app_id": 846470,
+    "name": "Moss",
+    "release_date": "2018-06-07",
+    "developer": [
+        "Polyarc"
+    ],
+    "publisher": [
+        "Polyarc"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "SteamVR Collectibles"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Adventure",
+        "VR",
+        "Casual"
+    ],
+    "achievements": 31,
+    "positive_ratings": 531,
+    "negative_ratings": 46,
+    "price": 23.79,
+    "description": "Moss™ is an action-adventure puzzle game from Polyarc tailor-made for the VR platform. It combines classic components of a great game—compelling characters, gripping combat, and captivating world exploration—with the exciting opportunities of VR. Now bundle with the soundtrack.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/846470/header.jpg?t=1554347734",
+    "minimum_requirements": "OS: Windows 7/8.1/10 (64-bit versions) Processor: Intel Core i5-6600K / AMD Ryzen 5 1400 or equivalent Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970 / AMD RX 480 8GB or equivalent DirectX: Version 11 Storage: 12 GB available space",
+    "recommended_requirements": "OS: Windows 10 (64-bit) Processor: Intel Core i7-4790 / AMD Ryzen 5 1500X or better Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 1070 8GB / AMD RX Vega 56 8GB or better Storage: 12 GB available space",
+    "reviews": []
+}

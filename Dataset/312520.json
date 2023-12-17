@@ -1,0 +1,40 @@
+{
+    "app_id": 312520,
+    "name": "Rain World",
+    "release_date": "2017-03-28",
+    "developer": [
+        "Videocult"
+    ],
+    "publisher": [
+        "Adult Swim Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Atmospheric",
+        "Survival",
+        "Platformer"
+    ],
+    "achievements": 21,
+    "positive_ratings": 1497,
+    "negative_ratings": 263,
+    "price": 14.99,
+    "description": "You are a nomadic slugcat, both predator and prey in a broken ecosystem. Grab your spear and brave the industrial wastes, hunting enough food to survive, but be wary— other, bigger creatures have the same plan... and slugcats look delicious.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/312520/header.jpg?t=1513013239",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Dual Core 2.4 Ghz Memory: 2 GB RAM",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

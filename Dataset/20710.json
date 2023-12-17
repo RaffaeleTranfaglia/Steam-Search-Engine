@@ -1,0 +1,63 @@
+{
+    "app_id": 20710,
+    "name": "Mr. Robot",
+    "release_date": "2008-11-03",
+    "developer": [
+        "Moonpod"
+    ],
+    "publisher": [
+        "Moonpod"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 13,
+    "positive_ratings": 55,
+    "negative_ratings": 12,
+    "price": 5.99,
+    "description": "Asimov is a lowly service mechanoid aboard the interstellar colony ship Eidolon. Carrying hundreds of frozen human colonists to a new world. When the Eidolon's computer brain malfunctions, it falls to Asimov to undertake a perilous journey through the bowels of the massive ship to save his robot friends and the precious human cargo. Mr.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/20710/header.jpg?t=1499419184",
+    "minimum_requirements": "Supported OS:  Windows or ROBO-OS 3000                     Processor: Pentium III 800 MHz or level 5 Cyber Brain                     Memory: 256Mb Free System Memory                     Hard disk space: 120Mb                     DirectX version: DirectX 9.0c                     Video: Vertex Shader capable Graphics Accelerator                     Sound: Any DirectSound compatible hardware                     Controller: Any DirectInput compatible controller",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A nice little indie production that creates an alloy of traditional JRPG and puzzle solving in the spirit of games such as Solstice for the NES.  The exploration and puzzle solving all takes place inside the massive space ship. As a maintenance droid the player possesses no weapons to defend himself and has to overcome adversity by problem solving and navigation skills. Some of the jumping puzzles can be agrevating but nothing that feels unfair.   The combat system comes into play whenever a security door or an opponent needs to be hacked. The electronic avatar of the player character Asimov possesses the capability to attack the security measures of the system he hacks. Over the course of his adventures he rescues a vide range of avatars that has lost their robotic bodies. They complement Asimovs Jack-of-all-Trades skills with their specialities.   There is not much innovation about the combat compared to some of the more popular Japanese RPGs out there but it does it job well and achieves enough strategic depth for the entertainment value in a product of this size.   The way the game is set up it is possible to solve many puzzles forcefully by hacking most of the opposition making the actual puzzle solving alot easier. A welcome function for players that dont favour jumping skills or the puzzles them selves.  Playtime is between 5 to 15 hours depending on how thorough the ship is searched.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a cute little turn based RPG with a charming story involving robots that have just enough AI as to exude personality in the way WALL-E's robot characters did. The fighting moves have just enough variation, and anyone that's played a JRPG in the last 20 years will have no trouble identifying the 'physical,' 'magical' and 'AoE' moves. There are some places where you can choose to grind up character stats by revisiting enemies in cyberspace if needed, but you also seem to be able to pursue the story without being gated. The 'maze' of the ship and platforming are interesting without being overwhelming. The combat has a bit of a Shadowrun inspired feel to it which will make you grin with nostalgia.  For a cheap little indie RPG it's fun. It's not going to blow your mind, but for a casual time waster it does the job splendidly, hearkening back to simpler times. Sometimes you just need a break from modern real time RPGs that require 100% of your focus and engagement, and this game understands that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game that sucked me into subscribing to Gametap. The game that got me to come back to Gametap after they screwed me. Mr. Robot is more than a RPG. By the end of the game you really get close to the main character. The story line is brilliant and the environments are eye candy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A bit plodding, but fun most of the time.  I use it as a background game while I catch up on various news podcasts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mr. Robot is ok. It's a platformer set on a space ship. The character kind of feel like he's skating on ice the whole time. The puzzles are standard.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Kind of crashy and glitchy.",
+            "review_score": "-1"
+        }
+    ]
+}

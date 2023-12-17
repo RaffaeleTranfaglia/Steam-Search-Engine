@@ -1,0 +1,42 @@
+{
+    "app_id": 678530,
+    "name": "Plexarium",
+    "release_date": "2017-09-14",
+    "developer": [
+        "Parrott Studios"
+    ],
+    "publisher": [
+        "Parrott Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 12,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "It is your 147th day onboard the research station Plexarium and you are conducting an exciting new experiment to study how spiders live in microgravity. Unfortunately, your crewmates were up late last night partying and one of them tipped over a jar of gooey green Zorlithium that spilled into the spider cage.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/678530/header.jpg?t=1512938714",
+    "minimum_requirements": "OS: Microsoft Windows XP/Vista/7/8/8.1/10 (64-bit) Processor: Intel Core 2 Duo, 3.0GHz or AMD Athlon 64 X2 6400+, 3.2GHz Memory: 4 GB RAM Graphics: nVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB (Does not support Intel Integrated Graphics Cards) DirectX: Version 9.0c Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Microsoft Windows 7/8/10 (64-bit) Processor: Intel Core i5-3470, 3.20GHz or AMD FX-6300, 3.5Ghz Memory: 4 GB RAM Graphics: nVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB (Does not support Intel Integrated Graphics Cards) DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

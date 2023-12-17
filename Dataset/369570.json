@@ -1,0 +1,53 @@
+{
+    "app_id": 369570,
+    "name": "Spectra",
+    "release_date": "2015-07-10",
+    "developer": [
+        "Gateway Interactive"
+    ],
+    "publisher": [
+        "Mastertronic"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 27,
+    "positive_ratings": 31,
+    "negative_ratings": 10,
+    "price": 5.99,
+    "description": "Spectra is a dynamic twitch racing game that will keep you on the edge of your seat! Blast your nimble ship down intricate ribbons of light in time to the dynamic beats and original soundtrack by chiptune artist legend Chipzel.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/369570/header.jpg?t=1447374189",
+    "minimum_requirements": "OS: Win XP / Win 7 / Win 8 Processor: 2.6 GHz Dual Core Memory: 2 GB RAM Graphics: 512 MB VRAM DirectX: Version 9.0c Storage: 200 MB available space Sound Card: DirectX 9.0c compatible.",
+    "recommended_requirements": "OS: Win XP / Win 7 / Win 8 Processor: 2.8 GHz Quad Core Memory: 4 GB RAM Graphics: 1-2 GB VRAM DirectX: Version 9.0c Storage: 200 MB available space Sound Card: DirectX 9.0c compatible.",
+    "reviews": [
+        {
+            "review_text": "If you are a fan of Chipzel's music buy the album and go buy audiosurf 1 or 2 and play it there you will have a way better time there. This game has the same concept as that racing game in the 200-in-1 game your grandmother buys you when you were 7 except somehow they screw with the controls. They feel extremely sluggish as if the same grandmother who bought you the 200-in-1 game was the driver of the car, most the time im holding the left or right arrow and the car barley turns either direction but gods forbid i let go and the car go right back to its original position faster than light. Now i am a fan of difficult games i played super hexagon, dark souls, demon souls, dank suits 2, all the touhou's and those have a learning curve and the deaths in those games dont feel half as cheap as the one's in this game and most of the time its because grandma wont turn the car fast enough.  So there if you find this game's concept enjoyable buy the 200-in-1 version and buy the sound track its a way better use of your money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Addicting! Catchy music. Easy to learn, but not to easy to master.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great soundtrack full of chiptunes, but unfortunately little else about this game is good. This game could and should be so much better but instead it feels like so much wasted potential.  The controls are terrible: You'll be sliding dramatically left and right even with the slightest press of the controls, as if the entire game is covered in a thick sheet of ice. In a game where obstacles are often placed in rapid succession, this makes it almost impossible to actually avoid everything. If you're lucky, you'll grind off the side of something and get bonus points. If you're not, you'll bounce off of the very same thing and fly off the track, immediately ending the level.  The levels are procedurally generated in such a way that you can get a different track even when playing the same stage at a different time, so while this adds some variety it also makes the game feel even more inconsistent. It feels like the the music should be synced to the gameplay but it never is. This might be in part because the start-of-level animation also starts the music, meaning you can skip up to 15 seconds of the song just by letting that play out.  There are plenty of smaller quirks that make the game feel unsatisfying and frustrating. If it detects a controller, you can't interact with the game using keyboard and mouse at all; it will refuse to cooperate. When using keyboard and mouse, you have to use the keyboard in the game but the mouse to navigate everything else: you can't use mouse controls like in Audiosurf and there is no way to quickly replay a level or advance to the next without using the mouse. Smaller issues, such as an in-game timer that always shows 0 tenths of a second, pale in comparison to the greater problems with this title.",
+            "review_score": "-1"
+        }
+    ]
+}

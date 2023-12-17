@@ -1,0 +1,47 @@
+{
+    "app_id": 509600,
+    "name": "Battle Time",
+    "release_date": "2016-09-29",
+    "developer": [
+        "Foggybus"
+    ],
+    "publisher": [
+        "Jetdogs Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 58,
+    "positive_ratings": 105,
+    "negative_ratings": 34,
+    "price": 0.79,
+    "description": "Take a role of a true general of a real army. Join the battle, capture enemies’ castles and raise the power of your army. Lead your clan to the victory!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509600/header.jpg?t=1515845617",
+    "minimum_requirements": "OS: Windows XP Processor: 1.6 GHz Memory: 512 MB RAM Graphics: 1024x768 resolution Storage: 300 MB available space Sound Card: On board",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  honestly I thought the game looked nice but there wasnt much in it that i found particularly gripping. I will only play this mobile game while I am bored.",
+            "review_score": "-1"
+        }
+    ]
+}

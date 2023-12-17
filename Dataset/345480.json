@@ -1,0 +1,63 @@
+{
+    "app_id": 345480,
+    "name": "Lumo",
+    "release_date": "2016-05-24",
+    "developer": [
+        "Triple Eh?"
+    ],
+    "publisher": [
+        "Rising Star Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Retro"
+    ],
+    "achievements": 45,
+    "positive_ratings": 58,
+    "negative_ratings": 20,
+    "price": 14.99,
+    "description": "Witness the rebirth of a genre in Lumo – a classic isometric adventure with a modern twist for gamers young and old alike!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/345480/header.jpg?t=1478618159",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: x86 Dual Core, 2.4Ghz Оперативная память: 4 GB ОЗУ Видеокарта: Direct X9 GPU with 1GB RAM (Shader Model 3) DirectX: Версии 9.0 Место на диске: 4 GB Звуковая карта: Any compatible sound card",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7 or greater Процессор: x86 Quad Core, 3.2Ghz Оперативная память: 4 GB ОЗУ Видеокарта: NVidia 670 or greater DirectX: Версии 9.0 Место на диске: 4 GB Звуковая карта: Any compatible sound card",
+    "reviews": [
+        {
+            "review_text": "Awesome game that takes you back to the good old 80's isometric scene... I want more!!! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gets really repetitive and old really quick, only one song played the hour I played, all the rooms look the same, puzzles aren't hard but instead consist of frustratingly difficult and precise jumps which are made harder by the isometric view.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Lumo is a passion project about old-school action-adventure games; challenging players with isometric-viewed rooms of death. The game tries to deliver a modern take on the classic formula, but some older ideas do get in the way of making this an amazing trip down memory lane.   Old-School Fun:   The story of Lumo has the player being trapped in a broken arcade machine and forced to figure out how to escape. While it's not the most in-depth story, it does set the stage for room after room of puzzles. As with the theme of old-school games, the rooms of Lumo are filled with puzzles of varying shape, size and lethality.  The basic way through the game is to get through each area to ultimately find your way home, but Lumo presents a number of optional objectives, hidden areas and more. Keeping with the old school theme, the game does little to explain its rules and gameplay; forcing the player to dig to figure out what's going on.  The game features modern and old-school modes, where old-school gives you a limit of lives to solve puzzles. While the basic gameplay doesn't change from start to end, there is a wide variety of obstacles to deal with that help to keep the game fresh, along with video game references and those as-mentioned hidden areas.  Lumo is a great example of a game where you can tell that everything was hand-crafted, with each room and zone offering different challenges to test the player.  Unfortunately, what hurts Lumo for me is trying to combine modern and old-school design and not properly meshing well in my opinion.   Awareness Issues:   First off, I highly suggest you play Lumo with a gamepad and set the control scheme to modern isometric, where 'Up' moves the player up and not diagonally up.  Lumo features an isometric camera that gives you a 3/4th view of the proceedings, just like classic games of the genre. Those games worked, because the game space for each room was kept to a cube shape; keeping the player always in the middle of the space.  The problem with Lumo and trying to grow the game is how the camera and room designs conflict with each other and make the game frustrating to play. When the game makes rooms bigger or alters their shape, the camera itself doesn't compensate or move to help the player. Instead, it stays relatively in the same place and view, and what ends up happening is the player's character is no longer in the center of the screen or the platforms that they need to jump on.  You can slightly adjust the camera, but nowhere near the point that you need it to be to get the jumping and spatial distances right. For a point of reference, long rooms, rectangle rooms and massive areas were the big offenders with the camera.  You'll have to make jumps and avoid traps without being able to properly gauge the player's position in relation to them.  This continues to escalate in difficulty and frustration as you get into the latter half of the game. I eventually reached the point of frustration and decided to quit when the camera and difficulty got too annoying to deal with.  Realizing that, there was no way I was going to play the game on old-school difficulty and have to worry about having a limit on the number of deaths.  Besides making the camera a bit more reactive, a top-down isometric view point would also be good to allow the player to easily gauge distance relationships between the player and what's going on in the room.  Also compounding frustration is that the game has you repeat environmental challenges when you move back and forth between rooms; forcing the player to repeat the same thing, but backwards. For players who are just going through for the story, this isn't a problem, but it makes it hard to motivate yourself to go after the game's many secrets and collectibles.   A Forgotten Classic:    I really wanted to like Lumo more than I did, but the camera just got in the way too many times to make me want to keep playing or go back for more secrets. If you can put up with it, Lumo is a great take on growing old-school design for a modern audience, but it could do with more elements on the modern side.  For more on Lumo, you can  watch my spotlight video  if it on the Game-Wisdom YouTube channel.  Check out  Game-Wisdom  [game-wisdom.com] , where I examine the art and science of games.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought the game because the graphic looked great, but the gameplay was terrible. It would be better if you could turn the stages, so jumping from platform to platform would be easier. 5/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  This is a game that'll make ya THINK. and REMEMBER WHERE YOU AT. Because the map doesn't show where you at all the times so you need to pay attention and have an attention span! Plus i've still got to figure out how to get all the damn rubber duckies that are floating around the levels. And it's doing wonders for my spacial awareneness. Git Gud or die trying to.",
+            "review_score": "1"
+        }
+    ]
+}

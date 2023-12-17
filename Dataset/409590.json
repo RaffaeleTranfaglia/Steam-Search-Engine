@@ -1,0 +1,40 @@
+{
+    "app_id": 409590,
+    "name": "KINGDOMS",
+    "release_date": "2015-10-23",
+    "developer": [
+        "Oreol"
+    ],
+    "publisher": [
+        "Oreol"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Medieval"
+    ],
+    "achievements": 0,
+    "positive_ratings": 974,
+    "negative_ratings": 567,
+    "price": 6.99,
+    "description": "KINGDOMS is a procedural medieval RPG in a randomly generated open world. The main feature of KINGDOMS is a smart AI system that completely controls NPC behavior. As the player, you can fully interact with this massive world and become any person you want to be.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/409590/header.jpg?t=1549103168",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 2 GHz Dual-Core 64-bit CPU Memory: 8 GB RAM Graphics: DirectX11 Compatible GPU with 1 GB Video RAM (Game doesn't support integrated Intel cards) DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 499230,
+    "name": "SurvHive",
+    "release_date": "2016-08-01",
+    "developer": [
+        "Rocking Hamster"
+    ],
+    "publisher": [
+        "Rocking Hamster"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 54,
+    "negative_ratings": 31,
+    "price": 10.99,
+    "description": "Inspired by &quot;The Thing&quot;, SurvHive is an asymmetric sci-fi horror multiplayer FPS in which the only one you can trust is yourself, as alien shape-shifters lie in wait. Will humans be able to eradicate the alien menace? Will the infection spread instead? Welcome to their Hive...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/499230/header.jpg?t=1555684593",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0+ GHz processor Memory: 2 GB RAM Graphics: Shader Model 3.0 support DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

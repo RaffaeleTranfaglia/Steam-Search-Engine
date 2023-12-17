@@ -1,0 +1,44 @@
+{
+    "app_id": 770320,
+    "name": "Zazmo Arcade Pack",
+    "release_date": "2018-08-02",
+    "developer": [
+        "Donley Time Foundation"
+    ],
+    "publisher": [
+        "Donley Time Foundation"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 26,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "The Zazmo Arcade Pack is a collection of co-op, single player and competitive games inspired by arcade games we love. We took a few of our favorites and put the Donley Time Foundation spin on them. Five arcade games with multiple modes and tons of fun for you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770320/header.jpg?t=1533274748",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core 2 Duo E6320 (2*1866) or equivalent Memory: 2 GB RAM Graphics: GeForce 7600 GS (512 MB) or equivalent DirectX: Version 8.0 Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

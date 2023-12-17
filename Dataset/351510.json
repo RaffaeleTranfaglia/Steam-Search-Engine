@@ -1,0 +1,42 @@
+{
+    "app_id": 351510,
+    "name": "Quiplash",
+    "release_date": "2015-06-30",
+    "developer": [
+        "Jackbox Games, Inc."
+    ],
+    "publisher": [
+        "Jackbox Games, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Multiplayer",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 359,
+    "negative_ratings": 45,
+    "price": 6.99,
+    "description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351510/header.jpg?t=1546966709",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 2 Ghz Dual Core or higher Memory: 125 MB RAM Network: Broadband Internet connection Storage: 110 MB available space Sound Card: Integrated",
+    "recommended_requirements": null,
+    "reviews": []
+}

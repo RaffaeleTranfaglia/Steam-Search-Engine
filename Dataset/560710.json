@@ -1,0 +1,40 @@
+{
+    "app_id": 560710,
+    "name": "Leap Up no jutsu",
+    "release_date": "2016-12-30",
+    "developer": [
+        "nlfastudio"
+    ],
+    "publisher": [
+        "nlfastudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 14,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "Leap Up No Jutsu is a simple casual game will help you to kill some time. Jump between two bamboo to void the falling spear.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/560710/header.jpg?t=1498187556",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1.0 GHz Processor Memory: 512 MB RAM Graphics: DirectX® 9.0c and shader model 3 with 128 MB of memory DirectX: Version 9.0c Storage: 60 MB available space Sound Card: Any sound card capable of stereo output",
+    "recommended_requirements": null,
+    "reviews": []
+}

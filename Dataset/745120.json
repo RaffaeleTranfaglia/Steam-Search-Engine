@@ -1,0 +1,40 @@
+{
+    "app_id": 745120,
+    "name": "Pinball",
+    "release_date": "2017-11-10",
+    "developer": [
+        "baKno Games"
+    ],
+    "publisher": [
+        "baKno Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "3D Pinball game with an amazing feature: a Table Editor for you to create and play your own tables.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/745120/header.jpg?t=1510321117",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: XP Processor: Intel Single Core Memory: 1 GB RAM Graphics: 2004 GPU Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: 7 Processor: Intel Multi Core Memory: 2 GB RAM Graphics: 2010 GPU Storage: 400 MB available space",
+    "reviews": []
+}

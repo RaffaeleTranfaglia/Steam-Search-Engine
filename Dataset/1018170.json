@@ -1,0 +1,44 @@
+{
+    "app_id": 1018170,
+    "name": "光之迷城 / Dawn of the Lost Castle",
+    "release_date": "2019-02-26",
+    "developer": [
+        "HappyGame"
+    ],
+    "publisher": [
+        "HappyGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 5.19,
+    "description": "&quot;Dawn of the Lost Castle&quot; is an adventure puzzle, trying to solve all the mysteries in the castle to understand the story of the castle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1018170/header.jpg?t=1553249544",
+    "minimum_requirements": "OS: Win7 SP1 or higher. Processor: CPU Intel Core i3-4010U Memory: 4 GB RAM Graphics: Graphics NVIDIA GeForce GTX 750 or AMD Radeon R7 360 or more; Storage: 500 MB available space",
+    "recommended_requirements": "OS: Win10 or higher. Processor: CPU Intel Core i7-6700 or AMD FX 8370 or more; Memory: 8 GB RAM Graphics: Graphics NVIDIA GeForce GTX 1060 or AMD Radeon R9 380 or more; Storage: 1 GB available space",
+    "reviews": []
+}

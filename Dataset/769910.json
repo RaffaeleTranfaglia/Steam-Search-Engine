@@ -1,0 +1,39 @@
+{
+    "app_id": 769910,
+    "name": "Flipped On",
+    "release_date": "2018-01-10",
+    "developer": [
+        "Four Winged Studio"
+    ],
+    "publisher": [
+        "Four Winged Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 5,
+    "positive_ratings": 13,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "In Flipped On your main objective is to complete each stage without destroying your vehicle. Your vehicle takes damage every time you crash into world objects.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/769910/header.jpg?t=1538139372",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD 6300FX Memory: 512 MB RAM Graphics: GTX 750 TI Storage: 130 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

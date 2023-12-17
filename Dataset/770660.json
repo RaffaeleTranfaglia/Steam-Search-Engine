@@ -1,0 +1,45 @@
+{
+    "app_id": 770660,
+    "name": "Thetaball",
+    "release_date": "2018-07-31",
+    "developer": [
+        "Tim Sheehan"
+    ],
+    "publisher": [
+        "Tim Sheehan"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 50,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Thetaball is an authentic digital sport with challenging, physics-based gameplay and lifelike AI.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770660/header.jpg?t=1536951566",
+    "minimum_requirements": "OS: Windows 10 Storage: 48 MB available space",
+    "recommended_requirements": "OS: Windows 10",
+    "reviews": []
+}

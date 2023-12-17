@@ -1,0 +1,50 @@
+{
+    "app_id": 44600,
+    "name": "GTR - FIA GT Racing Game",
+    "release_date": "2012-09-25",
+    "developer": [
+        "SimBin Studios AB"
+    ],
+    "publisher": [
+        "SimBin"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 43,
+    "negative_ratings": 28,
+    "price": 3.99,
+    "description": "Experience the 2003 season of the FIA GT Championship first-hand as you test your skills on all the legendary race tracks the FIA GT.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/44600/header.jpg?t=1478078094",
+    "minimum_requirements": "OS: Microsoft Windows ME / 2000 / XP / Vista / 7 (you need to have administrative rights on your machine) Processor: 2 GHz CPU  Memory: 512 MB Hard Disk Space: 1 GB Video Card:  DirectX 9.0c compatible with at least 128 MB memory DirectX®: 9.0c",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Long in the tooth and superseded by GTR2 but still a very good sim. Really only a necessary purchase for competitionists as GTR2 has basically all the content found in this game plus a whole lot more. The force feedback settings need to be tweaked, (search for feels real to me for GT legends and use those values.) but once you've done that there's still fun to be had here.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "game wont load, says i dont have enough memory hahaha",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "loved this game, played it with no problem on old xp pc, i saw it on steam and decided to purchase it, it has never worked, steams fault, or mine, i dont know, just always get the same message, 32 mb, not enough memory or something like that, and yes i have a very good spec machine, as for steams response to my message for help, about as useful as the preverbial chocalot fireguard",
+            "review_score": "-1"
+        }
+    ]
+}

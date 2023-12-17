@@ -1,0 +1,54 @@
+{
+    "app_id": 499610,
+    "name": "Copter and Sky",
+    "release_date": "2016-07-21",
+    "developer": [
+        "Kopnin Pavel",
+        "Kopnina Ksenia"
+    ],
+    "publisher": [
+        "Fly Dream Dev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 43,
+    "positive_ratings": 42,
+    "negative_ratings": 19,
+    "price": 3.99,
+    "description": "You will control a modern RC hexacopter in different gamemodes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/499610/header.jpg?t=1508657082",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Win 7 (64) Processor: intel Core 2 Duo Memory: 2 GB RAM Graphics: NVIDIA GTS 450 DirectX: Version 11 Storage: 750 MB available space Sound Card: DirectX Compatible Additional Notes: You may need to update the driver for your video card and sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Win 10 (64) Processor: intel i5 Memory: 8 GB RAM Graphics: NVIDIA GTX 770 DirectX: Version 11 Storage: 750 MB available space Sound Card: DirectX Compatible Additional Notes: You may need to update the driver for your video card and sound card",
+    "reviews": [
+        {
+            "review_text": "This is a cool game, please make it also a simulator.  -have a mode where the flyer is standing in a spot on the ground watching the copter from below  and please have the option to not exaggerate the cameras view when turning  besides that, its a great game at a good price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  The game is great! Definitely worth a purchase if you enjoy drone flying!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really bad. thats it it's a really bad game waste of money.",
+            "review_score": "-1"
+        }
+    ]
+}

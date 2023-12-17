@@ -1,0 +1,40 @@
+{
+    "app_id": 588070,
+    "name": "BrotherZ",
+    "release_date": "2017-06-03",
+    "developer": [
+        "ID Group"
+    ],
+    "publisher": [
+        "ID Group"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 2,
+    "negative_ratings": 10,
+    "price": 3.99,
+    "description": "Old school first-person shooter in cartoon style. Postwar time, people get into squads and fight. 8 types of weapons in combat, classic game modes, the ability to be a zombie or a man, as well as a double jump and firejump.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/588070/header.jpg?t=1529573359",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better Memory: 2 GB RAM Graphics: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

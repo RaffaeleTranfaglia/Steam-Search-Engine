@@ -1,0 +1,41 @@
+{
+    "app_id": 329070,
+    "name": "SpyParty",
+    "release_date": "2018-04-12",
+    "developer": [
+        "Chris Hecker",
+        "John Cimino"
+    ],
+    "publisher": [
+        "Chris Hecker"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 366,
+    "negative_ratings": 67,
+    "price": 19.49,
+    "description": "SpyParty is a competitive espionage game about subtle human behavior. A Spy hides in plain sight at a fancy cocktail party, trying to accomplish missions while blending in with the other guests, while a Sniper with a single bullet looks inward, searching for the Spy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/329070/header.jpg?t=1523562427",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows XP Processeur : Celeron Mémoire vive : 2 GB de mémoire Graphiques : Intel HD 3000 DirectX : Version 9.0 Réseau : Connexion internet haut débit Espace disque : 300 MB d'espace disque disponible Notes supplémentaires : I develop the game on a really ancient laptop to keep myself honest and keep the game running fast on low end hardware, so it should work on quite old computers!",
+    "recommended_requirements": null,
+    "reviews": []
+}

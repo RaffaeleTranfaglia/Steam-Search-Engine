@@ -1,0 +1,52 @@
+{
+    "app_id": 502140,
+    "name": "Drayt Empire",
+    "release_date": "2016-07-16",
+    "developer": [
+        "RPG Video"
+    ],
+    "publisher": [
+        "Back To Basics Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "RPGMaker"
+    ],
+    "achievements": 8,
+    "positive_ratings": 106,
+    "negative_ratings": 102,
+    "price": 0.79,
+    "description": "Drayt Empire is a classic RPG. Ronarke and Drayt, best Friends on an adventure to seek out and find the lost forbidden City of Rahland. On their travels they will encounter many challenges which will test their friendship and strength.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/502140/header.jpg?t=1468663094",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8/10 Processor: 1.5Ghz or better Memory: 128 MB RAM Graphics: DirectX 9.0 Compatible Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "EDIT: Game is alright. Try it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is my first review on a game, so... Yeah, my first review. I guess I'll start with Pros and Cons. (Also, this is me writing a review before getting on the ship) Pros: - Love the soundtrack - Addictive at fighting enemies (Well isn't that for every rpg?) - Many places to go too - It's an rpg - Easy Grind - Other things... Cons: - Hard to follow quest (Maybe add a quest section in the menu or the hud?) - (From what I've seen) The fishing is fun, but I've only seen fish that give you potions, worms, and the monster battle (Jelly Fish). If it's only those things you can fish, could you add more. (This is from what I'VE seen so far, so tell me if there is more to fish). - This is annoying sometimes but not always, the encountering system. Sometimes I would encounter an enemy, kill it and encounter another one a not even a second later and sometimes a second later. (This isn't always happening) Other: - Did you remove the Lamia fight? That was my grind man. Conclusion: Love the game, it's fun, but it could have more improvements for the future. But that's not stoping me from playing it, it's still a very fun game nevertheless.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Another one of those RPG Maker games where you have the choice of either playing in a window that is about the size of a credit card of playing full screen with nonstop strobe light flashing. So, no.",
+            "review_score": "-1"
+        }
+    ]
+}

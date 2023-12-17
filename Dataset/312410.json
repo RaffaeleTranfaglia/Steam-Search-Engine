@@ -1,0 +1,50 @@
+{
+    "app_id": 312410,
+    "name": "Defense Zone",
+    "release_date": "2014-07-14",
+    "developer": [
+        "Artem Kotov"
+    ],
+    "publisher": [
+        "Artem Kotov"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Tower Defense"
+    ],
+    "achievements": 63,
+    "positive_ratings": 33,
+    "negative_ratings": 7,
+    "price": 2.89,
+    "description": "Stunning detail of levels, in-depth gameplay, finely tuned balance of all levels and turrets. During the game you will hold your defense with your turrets against the massive hordes of enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/312410/header.jpg?t=1447362573",
+    "minimum_requirements": "OS: Microsoft Windows XP or later Processor: 1.5GhZ Memory: 512 MB RAM Graphics: OpenGL compatible. ATI, NVIDIA or Intel HD. Older Intel graphics cards may have slowdown issues. DirectX: Version 8.0 Storage: 512 MB available space Sound Card: Windows or Mac compatible",
+    "recommended_requirements": "OS: Microsoft Windows XP or later Processor: 2.0 Memory: 512 MB RAM Graphics: OpenGL compatible. ATI, NVIDIA or Intel HD. Older Intel graphics cards may have slowdown issues. DirectX: Version 9.0 Storage: 512 MB available space Sound Card: Windows or Mac compatible",
+    "reviews": [
+        {
+            "review_text": "Play the insanly better game 'Defence Grid' (instead). Or 'Defence Grid 2' (not released while writing this review) For those who have done that (and only for those, every body else: play DG! It's really so much better) and are still looking for a tower defence game ... well I try to make it short.  Very small selection of towers, enemy types don't have any special abilities (just more hit points), unspent ressources are not awarding interest (so no need to act economical), only very few in-game tower statistics and important stats like Kills or DPS of towers are missing, the 3 different targeting choices of towers work unreliable at best, towers are just placed next to the path the enemy takes (so no option to place towers on a free grid to influence paths etc.).  On the bright side: over 20 maps, even on medium difficulty some early maps are challenging (esp. if you are looking for a flawless win) and an interactive feature (&gt; hellfire; activated manually) to increase DPS considerably. Hellfire charges with time for each upgraded tower and adds a nice real-time tactic effect to the game.  Conclusion: A tower defense game ... best suited on mobile platforms, rather less for PC. (I played it anyway while waiting for the release of DG2, so I should give it a recommendation I guess ... such a confusing world we live in ;-) )",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Best tower defense I have played to date (84 hours and still going).   Forces you to continually adapt strategies, even within the individual levels.   Has that 'one more try' influence that keeps you coming back.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 655420,
+    "name": "Simple RTS",
+    "release_date": "2017-06-19",
+    "developer": [
+        "Gal Hajaj"
+    ],
+    "publisher": [
+        "Gal Hajaj"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "RTS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "A Simple Real-Time-Strategy Game Like in the good old days, with 20 types of units. The goal is simply to conquer all territories on the map, which is also your AI opponent's goal...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655420/header.jpg?t=1497901011",
+    "minimum_requirements": "OS: Windows XP (32/64 bit) or newer Processor: Intel Core 2 Quad Q9505 @ 2.80 GHz / AMD Athlon II X4 840 @ 3.10 GHz Memory: 2 GB RAM Graphics: ATI Radeon HD 5770 or NVIDIA GeForce GTS450 with 1GB VRAM Storage: 500 MB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": null,
+    "reviews": []
+}

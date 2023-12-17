@@ -1,0 +1,47 @@
+{
+    "app_id": 19320,
+    "name": "Space Ark",
+    "release_date": "2012-03-16",
+    "developer": [
+        "Strawdog Studios Ltd"
+    ],
+    "publisher": [
+        "Bounce Entertainment "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 6,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Space Ark is a fun arcade/puzzle game with a hint of retro arcade flavour; inspired by classic arcade games of the late 80s, such as Rainbow Island, Bubble Bobble and Arkanoid. With your crack team of animal ‘Arkonauts’, you have escaped your once peaceful solar system, which has been shattered by a wandering black hole, and are now...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/19320/header.jpg?t=1447355475",
+    "minimum_requirements": "OS: Windows XP / Vista / 7Processor: 2 GHz Pentium 4 Memory: XP: 512 MB minimum, 1 GB recommended; Vista or 7: 1 GB minimum, 2 GB recommendedHard Disk Space: 300 MB available disk space requiredVideo Card: 1280x720 recommendedDirectX&reg;: 9.0cSound: DirectX compatible sound cardAdditional: Windows-compliant keyboard, Xbox 360® Controller for Windows® recommended",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A colorful and fun arcade style game where you launch your Arkonaut from the bounce pad to collect DNA blocks. You not only control the bounce pad but also the Arkonaut as well which adds extra challenge. The avatars are cute and the music is catchy. This game is deffinitely worth giving a shot.",
+            "review_score": "1"
+        }
+    ]
+}

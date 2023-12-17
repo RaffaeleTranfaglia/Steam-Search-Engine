@@ -1,0 +1,41 @@
+{
+    "app_id": 866420,
+    "name": "TANKS",
+    "release_date": "2018-06-12",
+    "developer": [
+        "Oleksandr Savostianov"
+    ],
+    "publisher": [
+        "Oleksandr Savostianov"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 33,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "TANKS is a fun game for one or two players where your goal is to protect the base and to destroy all the enemies. Beautiful pixel graphics, music and sound will let you feel the atmosphere of old school gaming.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/866420/header.jpg?t=1542619064",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 2048 MB RAM DirectX: Version 9.0c Storage: 150 MB available space Additional Notes: XBox or compatible XInput controller",
+    "recommended_requirements": null,
+    "reviews": []
+}

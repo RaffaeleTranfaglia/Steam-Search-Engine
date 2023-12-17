@@ -1,0 +1,39 @@
+{
+    "app_id": 958200,
+    "name": "Ralf",
+    "release_date": "2018-11-20",
+    "developer": [
+        "Games By Cane"
+    ],
+    "publisher": [
+        "Games By Cane"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 28,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Something strange is going on. The normally happy Blobbers have been poisoned by stale candy and are attacking their friends! You play as Ralf, who, while looking for his lost ball, becomes an unlikely hero! Help Ralf rescue his friends, save the sick Blobbers and, of course, find his lost ball!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/958200/header.jpg?t=1553465895",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 Ghz (Intel Celeron / AMD Athlon 64 x2) Memory: 2 GB RAM Graphics: Intel HD Graphics or AMD Radeon DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Window 10 Processor: 2.5 Ghz (Intel Core i5) Memory: 4 GB RAM Graphics: GeForce 8000+ / Radeon HD 5000+ DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

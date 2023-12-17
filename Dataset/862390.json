@@ -1,0 +1,40 @@
+{
+    "app_id": 862390,
+    "name": "FlyInside Flight Simulator",
+    "release_date": "2018-12-20",
+    "developer": [
+        "FlyInside Inc."
+    ],
+    "publisher": [
+        "FlyInside Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 10,
+    "positive_ratings": 48,
+    "negative_ratings": 14,
+    "price": 27.79,
+    "description": "FlyInside Flight Simulator is a brand new flight simulator built for VR! It ships with ten beautiful aircraft and scenery covering the entire continental United States. Fly high-speed jets, hover helicopters, and enjoy general aviation aircraft around a variety of locations and weather types!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862390/header.jpg?t=1547253979",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 or equivalent Memory: 8 GB RAM Graphics: DirectX 11.1 Compatible GPU DirectX: Version 11 Storage: 16 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i7 or equivalent Memory: 16 GB RAM Graphics: GTX 1060 or equivalent DirectX: Version 11 Storage: 16 GB available space",
+    "reviews": []
+}

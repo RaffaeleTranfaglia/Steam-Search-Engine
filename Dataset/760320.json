@@ -1,0 +1,42 @@
+{
+    "app_id": 760320,
+    "name": "Gunman Tales",
+    "release_date": "2018-08-01",
+    "developer": [
+        "FobTi interactive"
+    ],
+    "publisher": [
+        " FobTi interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 45,
+    "positive_ratings": 25,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "Gunman Tales is an old-school action adventure game for 1-4 players set in the wild west and inspired by the legendary game from Amiga Moonstone: A Hard Days Knight and Cabal",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/760320/header.jpg?t=1533145238",
+    "minimum_requirements": "OS: Windows 7/8 Processor: 1.8 GHZ Memory: 2 GB RAM Graphics: NVIDIA GT/s 4xx or Equivalent DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7/8 Processor: 2.4 GHZ Memory: 2 GB RAM Graphics: Nvidia Geforce 600 Series or Higher DirectX: Version 9.0c Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 922220,
+    "name": "Khospis",
+    "release_date": "2018-10-12",
+    "developer": [
+        "Luiz Felipe Da Silva Marian"
+    ],
+    "publisher": [
+        "Mushroom Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "From the Indie Game Development Studio &quot;MushRoom Angels Games&quot;. Set in the forest. You will embark on an adventure through hell. The biggest challenge is not going to be fear, to get away you will need to use strategy. Gameplay in First Personnel, You have the goal to escape.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/922220/header.jpg?t=1548020728",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2.6 GHz Dual Core or similar Memory: 4 MB RAM Graphics: GeForce GTX 500 series or similar DirectX: Version 11 Storage: 2 GB available space Additional Notes: Requer um processador e sistema operacional de 64 bits",
+    "recommended_requirements": "OS: Windows 7 or later Processor: GeForce GTX 500 series or similar Memory: 8 MB RAM Graphics: GeForce GTX 700 series or similar DirectX: Version 11 Storage: 3 GB available space Additional Notes: Requer um processador e sistema operacional de 64 bits",
+    "reviews": []
+}

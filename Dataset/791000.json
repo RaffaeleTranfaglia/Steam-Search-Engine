@@ -1,0 +1,39 @@
+{
+    "app_id": 791000,
+    "name": "Atomic Heist",
+    "release_date": "2018-04-19",
+    "developer": [
+        "Live Aliens"
+    ],
+    "publisher": [
+        "Live Aliens"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 31,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "Atomic Heist is a sci-fi roguelike twin-stick shooter. Control your combat ship and fight your way out of the overrun space station. The nuclear core you have to steal is leaking radiation, so you need to hurry and escape! Manage your ammo carefully and collect power-ups to enhance your ship.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/791000/header.jpg?t=1524187401",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1.2Ghz+ Memory: 1 GB RAM Graphics: 1 GB DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

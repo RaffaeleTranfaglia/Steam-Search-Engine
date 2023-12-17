@@ -1,0 +1,42 @@
+{
+    "app_id": 667800,
+    "name": "Loco Dojo",
+    "release_date": "2017-07-27",
+    "developer": [
+        "Make Real"
+    ],
+    "publisher": [
+        "Make Real"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "SteamVR Collectibles",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 25,
+    "negative_ratings": 0,
+    "price": 14.99,
+    "description": "Enter the whimsical wooden world of Loco Dojo and step up to Grand Sensei’s ‘Table of Trials’ to pit your silliest skills against (up to) three friends or strangers in this hilariously competitive cross-platform multiplayer social VR party game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667800/header.jpg?t=1550472732",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 DirectX: Version 10 Network: Broadband Internet connection Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

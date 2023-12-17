@@ -1,0 +1,37 @@
+{
+    "app_id": 1011550,
+    "name": "Light The Way",
+    "release_date": "2019-01-25",
+    "developer": [
+        "QuickSave"
+    ],
+    "publisher": [
+        "QuickSave"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Psychological Horror"
+    ],
+    "achievements": 13,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 5.19,
+    "description": "Light The Way is a first-person horror adventure game. It takes place in a storage house after your character is kidnapped by a stranger.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1011550/header.jpg?t=1551658721",
+    "minimum_requirements": "OS: 64-bit Windows Vista Processor: Core i5 Memory: 4 GB RAM Graphics: AMD RX 480 DirectX: Version 10 Storage: 2200 MB available space",
+    "recommended_requirements": "OS: 64-bit Windows 7 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA GTX 970 DirectX: Version 11 Storage: 2200 MB available space",
+    "reviews": []
+}

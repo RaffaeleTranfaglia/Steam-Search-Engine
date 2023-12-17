@@ -1,0 +1,48 @@
+{
+    "app_id": 809200,
+    "name": "TRIGGERED",
+    "release_date": "2018-04-27",
+    "developer": [
+        "Dry Eel Development"
+    ],
+    "publisher": [
+        "Dry Eel Development"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 4,
+    "negative_ratings": 4,
+    "price": 6.19,
+    "description": "TRIGGERED is a speed runner game, get from point A to point B as fast as you can, without dying.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809200/header.jpg?t=1525083572",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-Bit only) Processor: 2.4 GHz Dual core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 670 or AMD R9 270 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-Bit only) Processor: 2.5 GHz Quad core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 970 or AMD R9 290X Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,61 @@
+{
+    "app_id": 464960,
+    "name": "Hiiro",
+    "release_date": "2016-07-12",
+    "developer": [
+        "Jon Tiburzi",
+        "Ben Harvey",
+        "Philip Gibbons",
+        "Marc Cuva"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 225,
+    "negative_ratings": 24,
+    "price": 1.99,
+    "description": "Hiiro is a 2D platform game focused on ambient exploration and puzzle solving. Discover a grand world filled with mysterious artifacts and forgotten ruins. Become immersed in relaxing gameplay and meditative music. Remain observant as you unravel an explanation for your solitude.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/464960/header.jpg?t=1499883043",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 Ghz Memory: 512 MB RAM Graphics: DirectX 9 compatible video card DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A highly enjoyable, relaxing exploration game: you're free to go where you want on the map, in any order, right from the start. There are no power-ups to collect and only one area that requires you to unlock a door to it first. The music blends seamlessly from one area to the next, matching the theme of that area well, and there are lots of secrets to be found (hint: look closely for differences in walls and floors) Absolutely recommended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This was a nice little game. Graphics arnt the best but the music along with the sfx makes up for it. Enjoyed how they do have secrets in the levels and some of these secrets are in some tough spots! ONly thing i did not enjoy is that their is nothing to fear on this game like death or even traps..",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the most calming game i've ever played. Its music, the exploration, its amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ":-)",
+            "review_score": "1"
+        }
+    ]
+}

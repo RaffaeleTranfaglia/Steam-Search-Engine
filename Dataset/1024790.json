@@ -1,0 +1,40 @@
+{
+    "app_id": 1024790,
+    "name": "Kare wa Kanojo",
+    "release_date": "2019-03-27",
+    "developer": [
+        "JMF Games"
+    ],
+    "publisher": [
+        "JMF Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Visual Novel"
+    ],
+    "achievements": 20,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "One boy, three girls, what could possibly happen? Summer of Heisei period 9 (1997), you play as a young boy who just moved to a small village near Osaka. You will meet three girls in this new school. One of them keeps a really deep secret… What secret?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1024790/header.jpg?t=1556270389",
+    "minimum_requirements": "OS: Windows XP or higher Processor: 2.0 GHz Core 2 Duo Memory: 2 GB RAM Graphics: OpenGL 2.0 or DirectX 9.0c compatible Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

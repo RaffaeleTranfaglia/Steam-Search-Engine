@@ -1,0 +1,41 @@
+{
+    "app_id": 967210,
+    "name": "Spark Five",
+    "release_date": "2018-11-14",
+    "developer": [
+        "TechBridge Interactive"
+    ],
+    "publisher": [
+        "TechBridge Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Welcome to Project Spark. Help our little android friend navigate across multiple, challenging levels in search of bio-matter. You see, we are in desperate need of those primarily to restore human civilization and undo the damage caused by our own problem child - Artificial Intelligence.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/967210/header.jpg?t=1545846926",
+    "minimum_requirements": "OS: Version 7 Processor: 2.5 GHz Intel Core i3 Memory: 2 GB RAM Graphics: Intel HD Graphics 4000 2 GB DirectX: Version 9.0c Storage: 290 MB available space",
+    "recommended_requirements": "OS: Version 7, 8, 8.1, 10 Processor: 2.5 GHz Intel Core i5 Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 4 GB DirectX: Version 11 Storage: 290 MB available space",
+    "reviews": []
+}

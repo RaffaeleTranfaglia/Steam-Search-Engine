@@ -1,0 +1,48 @@
+{
+    "app_id": 364130,
+    "name": "Ride the Bullet",
+    "release_date": "2015-05-22",
+    "developer": [
+        "Jordan Sendar"
+    ],
+    "publisher": [
+        "Jordan Sendar"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 14,
+    "negative_ratings": 7,
+    "price": 2.79,
+    "description": "You are a gun for hire with nothing to your name but your rifle and a single bullet. You have a special gift. You can control this bullet. Your objectives: take jobs, kill, build your reputation, and work your way up the crime ladder.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364130/header.jpg?t=1447372850",
+    "minimum_requirements": "OS: Windows XP or later Processor: Intel Pentium 4 or better Memory: 2 GB RAM Graphics: Intel GMA 950, AMD equivalent. OpenGL 1.2 support. DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is mega fun. A few glitches here and there but p. rockin soundtrack and really fun boss battles. Definitely worth $4.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not recommended because it's broken. The bullet controls are sluggish, and the bullet time feature appears to be extremely picky - if not broken. Either way, it's just not very fun.",
+            "review_score": "-1"
+        }
+    ]
+}

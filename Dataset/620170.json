@@ -1,0 +1,39 @@
+{
+    "app_id": 620170,
+    "name": "Icarus Starship Command Simulator",
+    "release_date": "2017-05-26",
+    "developer": [
+        "Midwest Video Games"
+    ],
+    "publisher": [
+        "Midwest Video Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 24,
+    "positive_ratings": 33,
+    "negative_ratings": 5,
+    "price": 2.79,
+    "description": "In this &quot;starship command simulator&quot; you will fight your way to the center of a randomly generated galaxy where a massive star is about to go supernova and destroy all life. Can you find a way to stop it?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/620170/header.jpg?t=1497413248",
+    "minimum_requirements": "OS: Windows Vista/7/8.1/10 Processor: 2.0 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 260 / ATI Radeon HD 5850, 768 MB video RAM Storage: 8 GB available space Sound Card: Windows compatible sound card",
+    "recommended_requirements": "OS: Windows Vista/7/8.1/10 Processor: 3.0 GHz Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 460 / ATI Radeon HD 5850, 1 GB video RAM Storage: 8 GB available space Sound Card: Windows compatible sound card",
+    "reviews": []
+}

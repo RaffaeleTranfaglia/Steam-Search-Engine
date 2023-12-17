@@ -1,0 +1,42 @@
+{
+    "app_id": 552390,
+    "name": "Druid",
+    "release_date": "2017-01-16",
+    "developer": [
+        "Blazing Planet Studio"
+    ],
+    "publisher": [
+        "Blazing Planet Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 6,
+    "positive_ratings": 50,
+    "negative_ratings": 12,
+    "price": 1.99,
+    "description": "Druid is an adventure game with different puzzles and riddles where you play as a druid who searches for a wise master and helps to magic forest dwellers. Overcome all obstacles to find your teacher!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/552390/header.jpg?t=1550262992",
+    "minimum_requirements": "Минимальные: ОС: Windows XP/Vista/Windows 7/Windows 8/Windows 10 Процессор: 2.0+ GHz Оперативная память: 2 GB ОЗУ Видеокарта: Radeon HD5450 or better; 256 MB or higher DirectX: Версии 9.0c Место на диске: 250 MB Звуковая карта: 100% DirectX9.0c compatible sound card and drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

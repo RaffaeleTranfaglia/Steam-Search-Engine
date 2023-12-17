@@ -1,0 +1,39 @@
+{
+    "app_id": 910660,
+    "name": "Shudder",
+    "release_date": "2018-08-30",
+    "developer": [
+        "Saberphrog"
+    ],
+    "publisher": [
+        "Saberphrog"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Arcade",
+        "Old School"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Shudder is a high speed, twin-stick shooter with one stick and no shooting. Lost in an interdimensional wormhole, absorb powerful cosmic cells to charge up the awesome power of the SHUDDER Drive 9000TM and use it against the onslaught of interstellar Para-Bugs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/910660/header.jpg?t=1536263122",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 64bit, Windows 8.1 64bit, Windows 10 64bit Processor: Intel Core i3-2120 CPU 3.30Ghz Memory: 1 GB RAM Graphics: Intel HD Graphics 4600 or higher DirectX: Version 11 Storage: 200 MB available space Sound Card: Windows Compatible Sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

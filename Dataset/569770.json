@@ -1,0 +1,38 @@
+{
+    "app_id": 569770,
+    "name": "StarShip Constructor",
+    "release_date": "2017-07-19",
+    "developer": [
+        "SSCTEAM"
+    ],
+    "publisher": [
+        "SSCTEAM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 15,
+    "positive_ratings": 150,
+    "negative_ratings": 51,
+    "price": 3.99,
+    "description": "Galaxy is on fire! Only you can save it! More than 20 modules and even more weapons and equipment,you can design your own spaceship and defeat the most powerful ships in galaxy!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/569770/header.jpg?t=1545048030",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Dual Core Memory: 2048 MB RAM Graphics: 1GB DirectX: Version 9.0 Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: 2.3 GHz+, Quad Core Memory: 2048 MB RAM Graphics: 1GB DirectX: Version 11 Storage: 512 MB available space",
+    "reviews": []
+}

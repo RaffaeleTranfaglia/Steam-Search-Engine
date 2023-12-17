@@ -1,0 +1,54 @@
+{
+    "app_id": 279070,
+    "name": "9th Dawn II",
+    "release_date": "2016-10-17",
+    "developer": [
+        "Valorware"
+    ],
+    "publisher": [
+        "Valorware"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 99,
+    "negative_ratings": 19,
+    "price": 1.49,
+    "description": "A large scale fully openworld RPG full of fast-paced action, dungeon crawling, with single or multiplayer adventures! Fight plenty of ferocious monsters, collect masses of loot and take on ancient lost puzzles within the depths of Caspartia!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/279070/header.jpg?t=1527089875",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium 4 or Athlon XP or better Memory: 1024 MB RAM Graphics: NVIDIA GeForce FX 5700+ / ATI Radeon 9500+ Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel i3 or better Memory: 2048 MB RAM Graphics: NVIDIA GeForce 6800+ / ATI Radeon X800+ Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "9th Dawn II is a nice old school/retro/insert buzzword ARPG that is more than worth the low price. The world is quite large and open, but not empty, and all connected as opposed to individual zones. Combat feels more like Sacred than Diablo 3 or Path of Exile. There is a somehwat linear main quest, but also many optional side areas and quests, and for the most part, there are only minor restrictions as to where you can go and explore (This review was made 15 hours in, I have not played all the way through yet), though some areas need keys or quests completed first. There are a couple of bugs but nothing game breaking and the dev is very active in responding to and fixing them. Overall pretty good considering it was just released.   Graphics are average, not great but not painful to look at. Perfectly fine considering the price tag (currently $3.59, 10% off of 3.99). My only gripe with them is that so far, most of dungeon texture has been the same generic cave-looking area, even though there are other textures in the game (desert, swamp, ruined castles/towns, etc.)  Character progression is like a mix between Elder Scrolls and traditional RPGs. You get experience for killing mobs, level up and gain HP and 5 points to divide among your base stats, but your weapon and spell skills also increase through direct use. Increasing weapon/spell skills makes them stronger (some skills may only be used for minimum requirements for higher level weapons/spells, not entirely sure how the formula works), and spells are unlocked automatically by raising the wisdom stat high enough, and raising the related spell skill high enough for higher level spells. There are no classes, but builds are best suited to focus on a specific weapon type (strength=melee damage, dex=bow damage, int=staff/wand damage).  Pros:  Large world, many optional areas Many types of mobs Nonlinear exploration Several builds/char types possible, giving some replay value  Cons:  Bows have no cooldown, making them somewhat OP but also ecouraging rapid clicking which is uncomfortable to do continuously. Inventory UI/selling is somewhat difficult to manage, you can only sell one item or stack at a time by drag and drop, but you will have dozens or hundreds of items in your inventory, some of which are hard to tell apart. A lot of similar-looking areas and dungeons. It could use a few more textures.  Other information: 'Rogue-like' tag is erroneous. There are no rogue-like components to this game that I know of. When you die, you respawn at your last chosen respawn point (set locations around the world) with very minor exp loss. Monsters respawn quickly, usually within a few minutes or faster.  Overall it is fun and the cons are relatively minor. I would give it an 8/10 with potential for a 9 depending on future changes/fixes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Having never played the mobile version I had no idea what to expect from 9th Dawn II. In fact, before playing all I knew of the game was a few screenshots here on Steam. The game immediatly reminded me of Diablo 2 (questing, killling rats, picking up spider legs) but the unique leveling system certainly sets it apart.     Read the full review   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Simple controls and good character customization. This was a much bigger world than I was expecting for the price point. Well worth the time.",
+            "review_score": "1"
+        }
+    ]
+}

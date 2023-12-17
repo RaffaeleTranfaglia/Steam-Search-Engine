@@ -1,0 +1,39 @@
+{
+    "app_id": 569360,
+    "name": "Pivot Pilot",
+    "release_date": "2017-01-06",
+    "developer": [
+        "Niko Kivilahti"
+    ],
+    "publisher": [
+        "Niko Kivilahti"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "2D"
+    ],
+    "achievements": 9,
+    "positive_ratings": 31,
+    "negative_ratings": 2,
+    "price": 4.99,
+    "description": "Pivot Pilot is a challenging platformer with puzzle elements in which you take simultaneous control of a boy and a giant robot arm.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/569360/header.jpg?t=1519754625",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz Memory: 1 GB RAM Graphics: WebGL Storage: 200 MB available space Additional Notes: Keyboard and Mouse",
+    "recommended_requirements": null,
+    "reviews": []
+}

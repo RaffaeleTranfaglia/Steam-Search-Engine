@@ -1,0 +1,47 @@
+{
+    "app_id": 372750,
+    "name": "Girl Amazon Survival",
+    "release_date": "2016-08-16",
+    "developer": [
+        "Kobra Studio"
+    ],
+    "publisher": [
+        "Kobra Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 74,
+    "negative_ratings": 113,
+    "price": 1.99,
+    "description": "Stay alive fighting with the bandits and zombies. Hunt animals, build houses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372750/header.jpg?t=1534645720",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Core 2 Duo 2GHz or higher Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX260 DirectX: Version 9.0 Storage: 2 GB available space Sound Card: DirectX®-compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: Quad Core Processor Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 DirectX: Version 9.0 Storage: 2 GB available space Sound Card: DirectX®-compatible",
+    "reviews": []
+}

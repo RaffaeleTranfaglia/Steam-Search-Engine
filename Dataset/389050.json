@@ -1,0 +1,46 @@
+{
+    "app_id": 389050,
+    "name": "Pocket Rumble",
+    "release_date": "2016-02-01",
+    "developer": [
+        "Cardboard Robot Games"
+    ],
+    "publisher": [
+        "Chucklefish Games",
+        "DANGEN Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Captions available",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Fighting"
+    ],
+    "achievements": 0,
+    "positive_ratings": 127,
+    "negative_ratings": 33,
+    "price": 6.99,
+    "description": "Pocket Rumble is a streamlined, beginner-friendly 2-button fighting game that retains all the gameplay elements that make traditional 2D fighters great, but reduces the level of execution and memorization necessary to the bare minimum.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/389050/header.jpg?t=1555517508",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Intel Core 2 Duo 2.1 ghz or equivalent Memory: 2 GB RAM Graphics: 2nd Generation Intel Core HD Graphics (2000/3000), 256MB Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

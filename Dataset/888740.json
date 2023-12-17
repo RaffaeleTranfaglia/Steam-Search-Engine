@@ -1,0 +1,38 @@
+{
+    "app_id": 888740,
+    "name": "FortOfTheNight",
+    "release_date": "2018-07-12",
+    "developer": [
+        "BeconGamesCorp"
+    ],
+    "publisher": [
+        "BeconGamesCorp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "In FortOfTheNight your goal is to get kills for score. Find weapons from shotguns, assault rifles, and snipers. Use them to get more score and raise your kill counter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/888740/header.jpg?t=1531389188",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: Intel Dual-Core 2GHz or AMD Dual-Core 2GHz Memory: 4 MB RAM Graphics: NVIDIA GeForce 400 series or AMD Radeon HD 6000 series, 1GB Video Card (Minimum Shader Model 2.0) Storage: 1 MB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "recommended_requirements": "OS: XP, Vista, 7, 8, 10 - (64 Bit) Processor: Intel Quad-Core (i5 2300) or AMD Octo-Core (FX 8150) Memory: 6 MB RAM Graphics: NVIDIA GeForce 660Ti or greater, AMD Radeon HD 7950 or greater, 2GB Video Card (Minimum Shader Model 2.0) Storage: 1 MB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "reviews": []
+}

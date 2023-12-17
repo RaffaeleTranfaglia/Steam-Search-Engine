@@ -1,0 +1,45 @@
+{
+    "app_id": 313960,
+    "name": "Exodus",
+    "release_date": "2014-07-11",
+    "developer": [
+        "Galhmac Game Studio"
+    ],
+    "publisher": [
+        "Multi-Form"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 12,
+    "price": 0.79,
+    "description": "Exodus is a 2D Platform/Exploration (metroidvania) game for Windows, with oldschool gameplay mechanics, and HD native resolution (1920*1200). Musics are made by Yann Van Der Cruyssen (Saira, Block That Matter).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/313960/header.jpg?t=1447362685",
+    "minimum_requirements": "OS: Xp Processor: Core 2 Duo 2GHz Memory: 2 GB RAM Graphics: Compatible OpenGL DirectX: Version 9.0c Storage: 3 GB available space Sound Card: Compatible OpenAL Additional Notes: The game do not support Gamepad natively",
+    "recommended_requirements": "OS: Seven Processor: Core i5 2.5GHz Memory: 4 GB RAM Graphics: Compatible OpenGL DirectX: Version 9.0c Storage: 3 GB available space Sound Card: Compatible OpenAL Additional Notes: The game do not support Gamepad natively",
+    "reviews": [
+        {
+            "review_text": "Let me be completely honest here, this game feels unfinished. From the textures, to the loading screens, to the combat... it all feels a little out of date. But... it's definitely worth the 5 dollars being asked for it. My favorite part of the entire game would have to be the music in it though, and if I could make a suggestion to the developers, have the soundtrack for sale, because really... it's WELL made. The most downing thing about it is the combat, it's got the same problem as many other games like it... there's no feel of knockback or even hitting the creature. It's just you swipe and you hope that it does damage to whatever you're swiping at, and likewise for the hitboxes of your own character. There's just no FEEL of hitting or being hit. Obviously if you're going for a non-gory approach, you could have the character just explode into a field of those little... orb things that I can't remember the name of :L Another thing is the talents/skills system: It's very cool, but at the same time, it's so completely generic. I like how the orbs can be used for practical purposes like double jump and attacking twice or sprinting, but when you have a tiny little increase like +20% health? It's just not even worth putting in the game... or you could make it +100% health but the curve increases dramatically. The last thing is, you guessed it, the graphics and animations. The 3D look of the models gives a distinction between foreground and background entities, but not all things follow this distinction. An example I can think of is there's this kind of plant enemy which looks any other plant, in the background not looking suspicious at all, and yet it shoots at you. Heck it took me a bit to even realize what was shooting at me. Then there's the absolutely awful platforms and ground... It's so difficult to tell what can be stepped on and what can't in this game. Above all that though is the actual style of animation. It looks so bad it's like a little 6 year old was using a model maker for the first time. FOR THE RECORD THOUGH: I thoroughly enjoy the art of the backgrounds and the title screen and such; it's really well made.  Now I know I'm recommending the game, but I'm doing it for the sole reason that I think it's worth the 5 dollars they're asking for it. If it were any more, say 10 dollars or something, I'd say no to this thing faster then a damn hedgehog on wheels :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this piece of trash when it was $3. Not even worth 99 cents. Even on sale. Pricedrop just shows how 'proud' the developers are of their 'game'.",
+            "review_score": "-1"
+        }
+    ]
+}

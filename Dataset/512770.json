@@ -1,0 +1,48 @@
+{
+    "app_id": 512770,
+    "name": "IACTURA",
+    "release_date": "2016-08-25",
+    "developer": [
+        "Merlin Beer"
+    ],
+    "publisher": [
+        "Merlin Beer"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shooter"
+    ],
+    "achievements": 12,
+    "positive_ratings": 20,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "It is your job to save the planet from its decay. Only you can prevent an extraterrestrial species from taking over all of humankind. How? By shooting them back to where they belong - into the depths of hell of course!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/512770/header.jpg?t=1509477826",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: Intel Atom Quadcore Z3740 1.3GHz Memory: 1 GB RAM Graphics: Intel HD Integrated Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I named myself after a black man (Nelson Mendella) and immediately was lynched by flying fried chicken. This game is racist.   10/10",
+            "review_score": "1"
+        }
+    ]
+}

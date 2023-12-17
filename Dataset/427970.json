@@ -1,0 +1,46 @@
+{
+    "app_id": 427970,
+    "name": "Heathen Engineering's Terran",
+    "release_date": "2019-03-20",
+    "developer": [
+        "Heathen Engineering"
+    ],
+    "publisher": [
+        "Heathen Engineering"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "VR Support",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 30,
+    "positive_ratings": 6,
+    "negative_ratings": 7,
+    "price": 30.99,
+    "description": "Galactic Strategy | Tactics | Action! Found an empire and expand across the stars, command massive fleets in interstellar conflicts and pilot powerful warships as you battle for victory in Heathen Engineering’s Terran.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/427970/header.jpg?t=1553126496",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7+ 处理器: Core 2 Duo Processor or Equivalent 内存: 8 GB RAM 图形: Shader Model 4 capabilities DirectX 版本: 10 存储空间: 需要 6 GB 可用空间",
+    "recommended_requirements": null,
+    "reviews": []
+}

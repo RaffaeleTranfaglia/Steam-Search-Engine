@@ -1,0 +1,42 @@
+{
+    "app_id": 679300,
+    "name": "PATHOS",
+    "release_date": "2017-12-05",
+    "developer": [
+        "Broguelike"
+    ],
+    "publisher": [
+        "Accordion Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 41,
+    "positive_ratings": 18,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "In PATHOS, a resilient mind is strangled by tragedy and loses its order. Through 150+ sokoban-style puzzles (including some of the hardest ever made for Steam), follow Ego as it works desperately to put back together a brain that’s losing the will to fight.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/679300/header.jpg?t=1540917526",
+    "minimum_requirements": "OS: Windows XP SP2, Vista, or Windows 7 Processor: 2.0 GHz Dual Core CPU Memory: 1 GB RAM Graphics: 256MB Graphics Card Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 491830,
+    "name": "Glow",
+    "release_date": "2016-10-14",
+    "developer": [
+        "Impetus Games"
+    ],
+    "publisher": [
+        "Impetus Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 19,
+    "positive_ratings": 19,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "A fast-paced 3rd person shooter. Control a brave Firefly and kill as many enemy bugs as possible. Unlock perks for more weapons &amp; passive abilities to gain more score and become Glow world champion!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/491830/header.jpg?t=1476918183",
+    "minimum_requirements": "OS: Windows 7 Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 1 GB RAM Graphics: GeForce GTX 750 Ti or Radeon HD 7850 DirectX: Version 10 Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 1 GB RAM Graphics: GeForce GTX 980 or Radeon Pro Duo DirectX: Version 11 Storage: 500 MB available space",
+    "reviews": [
+        {
+            "review_text": "It's better than Holy Cows, but it would have benefited from more time in Early Access! - Gameplay is fun and original but gets boring pretty quick: I got to level 4 and still only fought spiders. Devs need to mix it up earlier to keep players interested. - Keybindings are unchangeable (!) I never used the alt-fire because i was unable to reach the key.  Unfortunately, there is no 'undecided' on steam. Buy only if you see the potential and trust developers to improve (like early access). If you expect a finished/polished game, and 5 bucks is a lot of money for you: stay away!",
+            "review_score": "1"
+        }
+    ]
+}

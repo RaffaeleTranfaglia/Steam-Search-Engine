@@ -1,0 +1,39 @@
+{
+    "app_id": 494040,
+    "name": "PuppetsVR",
+    "release_date": "2017-09-27",
+    "developer": [
+        "Expo Virtualis"
+    ],
+    "publisher": [
+        "Expo Virtualis"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Social experience focused around bringing puppetry to the virtual world",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/494040/header.jpg?t=1506533598",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 Memory: 4 GB RAM Graphics: Nvidia Geforce 970 Network: Broadband Internet connection Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i7-4770 Memory: 8 GB RAM Graphics: Nvidia Geforce 980 Network: Broadband Internet connection Storage: 500 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 581310,
+    "name": "Riskers",
+    "release_date": "2017-10-17",
+    "developer": [
+        "ShotX Studio"
+    ],
+    "publisher": [
+        "Meridian4"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Racing",
+        "Violent"
+    ],
+    "achievements": 27,
+    "positive_ratings": 33,
+    "negative_ratings": 22,
+    "price": 6.99,
+    "description": "Risk it all: Experience thrilling action in Riskers, a top-down shooter about a man who finds himself in a life-or-death game of finders keepers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/581310/header.jpg?t=1544369375",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 2 GHz Memory: 4 GB RAM Graphics: Intel HD 4600 or equivalent (1 GB VRAM) DirectX: Version 9.0 Storage: 540 MB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Mouse, Keyboard",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 GHz dual-core Memory: 4 GB RAM Graphics: GeForce GTX 760 / Radeon 7950 or better. DirectX: Version 12 Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card Additional Notes: Mouse, Keyboard",
+    "reviews": []
+}

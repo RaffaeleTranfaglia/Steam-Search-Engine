@@ -1,0 +1,40 @@
+{
+    "app_id": 581590,
+    "name": "Retro Pinball",
+    "release_date": "2017-02-01",
+    "developer": [
+        "Gear Worx Productions"
+    ],
+    "publisher": [
+        "Gear Worx Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "&quot;Retro Pinball &quot; is a collection of seven pinball tables based on the great machines of the 1990s!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/581590/header.jpg?t=1495354395",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Dual core from Intel or AMD at 2.8 GHz Memory: 2 GB RAM Graphics: Shader Model 3+ nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 DirectX: Version 9.0c Storage: 1200 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 369190,
+    "name": "Shoot 'Em Up Kit",
+    "release_date": "2015-06-05",
+    "developer": [
+        "Tall Studios"
+    ],
+    "publisher": [
+        "Tall Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education",
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Utilities",
+        "Animation & Modeling"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 10,
+    "price": 29.99,
+    "description": "Create your own professional quality videogames without any programming or scripting. Create games using a simple yet powerful drag-and-drop interface and fine-tune items to customise your game. The Shoot 'Em Up Kit provides a wide range of features to create the game you always imagined.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/369190/header.jpg?t=1478384264",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Processor: Intel Dual-Core 2GHz or AMD Dual-Core 2GHz Memory: 4 GB RAM Graphics: Shader Model 3 DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

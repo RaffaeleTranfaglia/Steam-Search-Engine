@@ -1,0 +1,39 @@
+{
+    "app_id": 542270,
+    "name": "Project Alpha 002",
+    "release_date": "2016-10-28",
+    "developer": [
+        "ZaraCodeGames"
+    ],
+    "publisher": [
+        "ZaraCodeGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 4,
+    "price": 2.09,
+    "description": "Abandoned wilderness awaits you, every day is a struggle to survive. Fight against hunger, the nature and the remaining residents. Collect resources to build a fortress, gain experience to earn supply drops to improve your survival chances in survivalmode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/542270/header.jpg?t=1477868192",
+    "minimum_requirements": "OS: Windows 7,8,10 Processor: AMD Dual Core X2 2,2 Ghz Memory: 2 GB RAM Graphics: NVIDIA GTX 280 DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GTX 680 DirectX: Version 9.0 Storage: 8 GB available space",
+    "reviews": []
+}

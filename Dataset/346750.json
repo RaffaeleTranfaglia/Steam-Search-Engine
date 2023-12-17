@@ -1,0 +1,41 @@
+{
+    "app_id": 346750,
+    "name": "Merchant",
+    "release_date": "2018-10-08",
+    "developer": [
+        "Retora Games"
+    ],
+    "publisher": [
+        "Retora Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "RPG",
+        "Simulation",
+        "Pixel Graphics"
+    ],
+    "achievements": 62,
+    "positive_ratings": 155,
+    "negative_ratings": 40,
+    "price": 0.0,
+    "description": "Merchant blends traditional RPG systems and tycoon style mechanics. No gems, no consumables, all purchases are DLC! Great for second screen gaming! Merchant reimagines the classic RPG experience from the perspective of a Merchant. Hire Heroes and Crafters to do your bidding for you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346750/header.jpg?t=1545964451",
+    "minimum_requirements": "OS: Windows 10, Windows 8, or Windows 7 Processor: 1 GHz processor Memory: 1 GB RAM Graphics: OpenGL 2.1 or higher Storage: 100 MB available space Additional Notes: Merchant is potato-playable",
+    "recommended_requirements": "OS: Windows 10, Windows 8, or Windows 7 Processor: 2 GHz processor Memory: 2 GB RAM Graphics: OpenGL 2.1 or higher Storage: 200 MB available space",
+    "reviews": []
+}

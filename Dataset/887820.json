@@ -1,0 +1,39 @@
+{
+    "app_id": 887820,
+    "name": "Double",
+    "release_date": "2019-03-15",
+    "developer": [
+        "TomatoFantasyGames"
+    ],
+    "publisher": [
+        "TomatoFantasyGames",
+        "GrabTheGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 33,
+    "positive_ratings": 22,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Double is an action-quest game telling about a fight with a mental disorder by immersing in dreams. Choose your way and find out how this mystical story ends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/887820/header.jpg?t=1552665857",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Dual Core CPU - 2.6ghz or Greater Memory: 4 GB RAM Graphics: 512 MB DirectX 9.0c compatible graphics card (shader model 2) DirectX: Version 9.0c Sound Card: DirectX 9.0c compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 735810,
+    "name": "Cyber Surf",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Nathan Ralph",
+        "Jon (Assan) Bryant",
+        "Jonathan Ribarro",
+        "Xander Kyle Puckett",
+        "Matthew Myers"
+    ],
+    "publisher": [
+        "I.E.D. Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "Cyber Surf allows you to race through the air and explore different worlds using your favorite VR headset.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/735810/header.jpg?t=1530132030",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i7, 2.5 GHz Memory: 2 GB RAM Graphics: NVIDIA Quadro K610M, AMD Firepro M6100, or equivalent DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-7700 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 1060, AMD Firepro M6100, or better DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

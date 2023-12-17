@@ -1,0 +1,40 @@
+{
+    "app_id": 602930,
+    "name": "Wordlase",
+    "release_date": "2017-04-29",
+    "developer": [
+        "DeXP"
+    ],
+    "publisher": [
+        "DeXP"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Anime"
+    ],
+    "achievements": 11,
+    "positive_ratings": 29,
+    "negative_ratings": 24,
+    "price": 1.99,
+    "description": "Wordlase is a word-puzzle game. You need to compile words from the letters of offered one. For example, you can make words &quot;ant&quot; and &quot;potion&quot; from the letters of &quot;interpolation&quot;. But you can't assemble &quot;mol&quot; since there is no &quot;m&quot; letter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/602930/header.jpg?t=1516897947",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: 1 GHz Memory: 256 MB RAM Graphics: with OpenGL 2.2 (any modern) Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

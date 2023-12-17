@@ -1,0 +1,43 @@
+{
+    "app_id": 584890,
+    "name": "Stayin' Alive",
+    "release_date": "2018-05-17",
+    "developer": [
+        "IndieGala"
+    ],
+    "publisher": [
+        "IndieGala"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 37,
+    "positive_ratings": 189,
+    "negative_ratings": 57,
+    "price": 3.99,
+    "description": "Do your best to die or save your enemies from death in this frantic team multiplayer game about health issues. Death is in the air.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/584890/header.jpg?t=1554792838",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5 ghz dual core Memory: 4 GB RAM Graphics: GeForce 500 series / Radeon HD 5000 series DirectX: Version 9.0 Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "recommended_requirements": "OS: Windows 7 Processor: 2 ghz quad core Memory: 6 GB RAM Graphics: GeForce 900 series / Radeon HD 8000 series DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "reviews": []
+}

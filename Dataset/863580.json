@@ -1,0 +1,37 @@
+{
+    "app_id": 863580,
+    "name": "Viking Days",
+    "release_date": "2018-08-08",
+    "developer": [
+        "VRMonkey"
+    ],
+    "publisher": [
+        "VRMonkey"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 18,
+    "positive_ratings": 5,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "How long can you survive the Viking Days? The ultimate Viking simulator trains you until your beard can reach the floor. Be challenged by every day normal situations of a Viking! Inspired by games such as WarioWare and Job Simulator, interact with the environment and be a REAL VIKING!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/863580/header.jpg?t=1544212369",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer Processor: Intel Core i5 4590 or AMD FX 8350 or greater Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970/AMD Radeon R9 290 equivalent or greater Storage: 950 MB available space Sound Card: Windows Compatible Sound Card Additional Notes: This game requires an VR headset, One USB 2.0 or faster port, HDMI 1.4, DisplayPort 1.2, or better",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 693880,
+    "name": "Trivia Vault: 1980's Trivia 2",
+    "release_date": "2017-08-22",
+    "developer": [
+        "Ripknot Systems"
+    ],
+    "publisher": [
+        "Ripknot Systems"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5000,
+    "positive_ratings": 23,
+    "negative_ratings": 17,
+    "price": 9.99,
+    "description": "Answer 1980s category trivia questions as quickly as you can, the faster you answer the higher the cash value. Correct answers lock in the digit code for the vault, 10 correct answers cracks the vault and awards bonus cash. Track your progress and aim for higher scores to accomplish higher ranks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/693880/header.jpg?t=1522227035",
+    "minimum_requirements": "OS: Win 7 32-bit or higher Processor: 1.8ghz dual core+ Memory: 500 MB RAM Graphics: 500 Megs VRAM DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

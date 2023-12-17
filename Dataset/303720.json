@@ -1,0 +1,48 @@
+{
+    "app_id": 303720,
+    "name": "#KILLALLZOMBIES",
+    "release_date": "2016-08-10",
+    "developer": [
+        "Beatshapers"
+    ],
+    "publisher": [
+        "8Floor",
+        "Beatshapers"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Zombies"
+    ],
+    "achievements": 10,
+    "positive_ratings": 42,
+    "negative_ratings": 15,
+    "price": 3.99,
+    "description": "#KILLALLZOMBIES is an insane twin-stick zombie shooter with the Twitch streaming interactions, where you surviving hordes of zombies on dynamically changing arena and spectators may affect gameplay via special chat commands.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/303720/header.jpg?t=1471874201",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP/Vista/7/8/10 64-Bit Only Processor: 2.0 GHz Memory: 4 GB RAM Graphics: Fast graphics (nVidia 480GTX or faster) DirectX: Version 9.0c Storage: 800 MB available space Sound Card: DX9-compatible sound card Additional Notes: Twitch account needed for the streaming interactions gameplay",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows XP/Vista/7/8/10 64-Bit Only Processor: 2.2 Ghz Memory: 8 GB RAM Graphics: Fast graphics (nVidia 480GTX or faster) DirectX: Version 9.0c Storage: 800 MB available space Sound Card: DX9-compatible sound card Additional Notes: Twitch account needed for the streaming interactions gameplay",
+    "reviews": [
+        {
+            "review_text": "Too many 'Fatal Error' 'The application must exit immediately.' I survived 34:54 mins in vault defence and i was at round 20+ and now i'm still at round 14. Fix it please.",
+            "review_score": "1"
+        }
+    ]
+}

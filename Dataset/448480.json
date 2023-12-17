@@ -1,0 +1,38 @@
+{
+    "app_id": 448480,
+    "name": "Caravanserail",
+    "release_date": "2016-03-10",
+    "developer": [
+        "Jerome Bodin"
+    ],
+    "publisher": [
+        "Jerome Bodin"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Trading"
+    ],
+    "achievements": 14,
+    "positive_ratings": 27,
+    "negative_ratings": 19,
+    "price": 1.99,
+    "description": "Caravanserail is an arcade-ish trading game. Buy, set a price, and sell. It sounds simple but it'll take you some skill to set the right price according to the market tendencies...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448480/header.jpg?t=1555251856",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work. Storage: 100 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

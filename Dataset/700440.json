@@ -1,0 +1,42 @@
+{
+    "app_id": 700440,
+    "name": "Jellyfish",
+    "release_date": "2017-09-15",
+    "developer": [
+        "PanGuoJun"
+    ],
+    "publisher": [
+        "PanGuoJun"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 4,
+    "positive_ratings": 17,
+    "negative_ratings": 10,
+    "price": 1.59,
+    "description": "A simulation game about the life story of a jellyfish. In this game, I will present the full life cycle of a jellyfish: from an egg to a hydra and finally, after a not very long journey it becomes an adult jellyfish. A work of interactive art to bring the most beautiful of sea creatures to your screen.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/700440/header.jpg?t=1537804137",
+    "minimum_requirements": "OS: Windows XP/7/8/10 Processor: 2,2 GHz Memory: 1 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

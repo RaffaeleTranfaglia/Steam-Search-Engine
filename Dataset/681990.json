@@ -1,0 +1,42 @@
+{
+    "app_id": 681990,
+    "name": "Battle Squares",
+    "release_date": "2018-08-23",
+    "developer": [
+        "Caleb Chalmers"
+    ],
+    "publisher": [
+        "Atlas \"Incawporated\""
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "Battle Squares is a turn-based strategy board game where you'll compete against other players to maneuver around the board and earn Atlas Points (AP). Use your AP to buy items and customize your build, then dominate your opponents in the arena to claim victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/681990/header.jpg?t=1548979467",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 x64 Memory: 2 GB RAM Graphics: Dedicated -- 1024MB VRAM or more DirectX: Version 10 Network: Broadband Internet connection Storage: 750 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 x64 Memory: 4 GB RAM Graphics: Dedicated -- 2048 MB VRAM or more DirectX: Version 11 Network: Broadband Internet connection Storage: 750 MB available space",
+    "reviews": []
+}

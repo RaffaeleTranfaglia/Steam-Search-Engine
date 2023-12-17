@@ -1,0 +1,41 @@
+{
+    "app_id": 593490,
+    "name": "Empire Architect",
+    "release_date": "2017-10-06",
+    "developer": [
+        "Batholith Entertainment"
+    ],
+    "publisher": [
+        "Batholith Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "City Builder"
+    ],
+    "achievements": 16,
+    "positive_ratings": 105,
+    "negative_ratings": 50,
+    "price": 10.99,
+    "description": "Empire Architect is an ancient city-building real time strategy game, with elements from grand strategies sprinkled in for good measure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/593490/header.jpg?t=1538288494",
+    "minimum_requirements": "OS: Windows 7 Processor: 2200k i3 Memory: 2 GB RAM Graphics: Intel Integrated HD5000 DirectX: Version 10 Storage: 400 MB available space Additional Notes: direct X 10.1",
+    "recommended_requirements": null,
+    "reviews": []
+}

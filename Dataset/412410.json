@@ -1,0 +1,55 @@
+{
+    "app_id": 412410,
+    "name": "Castle Chaos",
+    "release_date": "2015-12-08",
+    "developer": [
+        "Odd Comet Games"
+    ],
+    "publisher": [
+        "Odd Comet Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 32,
+    "negative_ratings": 23,
+    "price": 2.09,
+    "description": "Castle Chaos is a fast paced local multiplayer game for 1 to 4 players inspired by the old classic game &quot;Rampart&quot;. Build castles with tetris-like shapes and shoot cannons to destroy your opponents' castles. Available for PC, Mac and Linux.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/412410/header.jpg?t=1455613784",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Pentium D or AMD Athlon 64 (K8) 2.6 GHz Memory: 2 GB RAM Graphics: (Integrated): Intel HD Graphics or AMD/ATI Radeon HD Graphics with OpenGL 2.1 Storage: 100 MB available space Sound Card: Yes Additional Notes: Java 6",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i3 or AMD Athlon II (K10) 2.8 GHz Memory: 4 GB RAM Graphics: GeForce 2xx Series or AMD Radeon HD 5xxx Series (Excluding Integrated Chipsets) with OpenGL 3.3 Sound Card: Yes Additional Notes: Java 8",
+    "reviews": [
+        {
+            "review_text": "Super easy and fun game! Even got outplayed by the AI :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its Rampart!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cant figure out how to make multiplayer work, There are no options for it.   Buttons do not do what they say they do in the instructions...   Dosent seem to be as described on the site.  The other reviews posted here dont make sense to me since Mutiplayer isnt an option in the game from what I can find along with the fact i cant rotate pieces when in the placing phase...  I do not recomend this game...  Avoid... Ill update one day if I can possibly recomend this game...",
+            "review_score": "-1"
+        }
+    ]
+}

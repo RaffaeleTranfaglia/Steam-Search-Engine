@@ -1,0 +1,53 @@
+{
+    "app_id": 331880,
+    "name": "Truck Mechanic Simulator 2015",
+    "release_date": "2015-05-01",
+    "developer": [
+        "PlayWay SA"
+    ],
+    "publisher": [
+        "Ravenscourt"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Casual",
+        "Singleplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 65,
+    "negative_ratings": 72,
+    "price": 6.99,
+    "description": "Get ready for the big ones! This stunning simulator puts you in the front seat of a serious car workshop specialized in servicing trucks. With over 100 interactive parts per truck, this highly detailed title is not for the lightweight!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/331880/header.jpg?t=1555358912",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 1.8GHz or AMD equivalent Memory: 2 GB RAM Graphics: GeForce 9800GT or better w /512MB VRAM DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "recommended_requirements": "OS: Windows 7/8 Processor: Intel Core i5 or AMD equivalent Memory: 4 GB RAM Graphics: GeForce GTX 650 Ti or better w/ 1024MB VRAM DirectX: Version 9.0c Storage: 2 GB available space Sound Card: DirectX compatble Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "reviews": [
+        {
+            "review_text": "I will recommend the game for the fact that it is different, but I can't help feel disappointed that it has been made on CMS 2014 engine and not the new CMS 2015 engine if it had been built on 2015 engine it would be whole different game  Game plays well and smooth but needs some more optimization in my opinion  If you're looking to buy this game it is similar to car mechanic simulator 2014  Pros:  different Trucks look good Fair amount of detail Easy to use pretty much same as CMS 2014 Low system load   Cons:  Built on CMS 2014 engine Limited truck models Same level system/work orders as CMS 2014 Some parts are hard to remove due to camera position",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i dont like it the game quit working and support would not give me my code to get the game working again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a good game but they need to do more to make it fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have played this game in 11 hours and I am impressed. It is pretty much the same as Car Mechanic just with trucks. The graphic is not bad and the gameplay is great fun. The only bad thing I can say is the camera. Sometimes it can be very hard to screw something off or select something because of the camera.",
+            "review_score": "1"
+        }
+    ]
+}

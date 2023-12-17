@@ -1,0 +1,38 @@
+{
+    "app_id": 548050,
+    "name": "Runes",
+    "release_date": "2016-11-24",
+    "developer": [
+        "Ede Tarsoly"
+    ],
+    "publisher": [
+        "Headup Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 12,
+    "positive_ratings": 14,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Runes is a unique puzzle game where you need to arrange the marbles in each and every level to match the picture in the upper-right corner. The less moves you use to do that, the more stars you'll earn.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/548050/header.jpg?t=1479991792",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 1Ghz Memory: 256 MB RAM Graphics: Shader Model 2.0 DirectX: Version 9.0c Storage: 100 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

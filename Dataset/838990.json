@@ -1,0 +1,38 @@
+{
+    "app_id": 838990,
+    "name": "Endhall",
+    "release_date": "2018-12-04",
+    "developer": [
+        "HeartBeast Studios L.L.C."
+    ],
+    "publisher": [
+        "HeartBeast Studios L.L.C."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Turn-Based"
+    ],
+    "achievements": 0,
+    "positive_ratings": 53,
+    "negative_ratings": 9,
+    "price": 2.09,
+    "description": "Endhall is a byte-sized roguelike. Become an artificial intelligence and combine tactical actions to defeat your enemies and reach the end of the hallway.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/838990/header.jpg?t=1544988334",
+    "minimum_requirements": "Mínimo: SO: Windows 8/ 10 Procesador: Pentium or compatible, 2 cores or higher Memoria: 2 GB de RAM Gráficos: OpenGL 2.1 or higher Almacenamiento: 100 MB de espacio disponible Tarjeta de sonido: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

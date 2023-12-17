@@ -1,0 +1,40 @@
+{
+    "app_id": 518120,
+    "name": "Chimpact 1 - Chuck's Adventure",
+    "release_date": "2016-11-11",
+    "developer": [
+        "Yippee Entertainment LTD"
+    ],
+    "publisher": [
+        "Yippee Entertainment LTD",
+        "KISS ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 59,
+    "positive_ratings": 125,
+    "negative_ratings": 46,
+    "price": 4.79,
+    "description": "Luscious environments with a variety of delightful characters make Chimpact top of its class. Collect gems, medallions and bananas by chucking your chimp through stunning jungle landscapes. Use bananas to add abilities to your chimp and complete all levels perfectly.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/518120/header.jpg?t=1478891035",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 Ghz Memory: 1 GB RAM Graphics: DirectX 9 Graphics device DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: Chimpact supports Mouse, Microsoft Xbox controller and the Steam controller. Note that a connected Steam controller will take priority over the Xbox controller.",
+    "recommended_requirements": null,
+    "reviews": []
+}

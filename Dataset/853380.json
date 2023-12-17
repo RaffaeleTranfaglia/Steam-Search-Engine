@@ -1,0 +1,39 @@
+{
+    "app_id": 853380,
+    "name": "Air Threat",
+    "release_date": "2018-05-08",
+    "developer": [
+        "SharkGame"
+    ],
+    "publisher": [
+        "Garage Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 28,
+    "negative_ratings": 9,
+    "price": 1.69,
+    "description": "This is a game in which you have to control your own military aircraft. Get ready for the most unforgettable and enchanting aerial confrontation of all time!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/853380/header.jpg?t=1550913233",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 30 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 50 MB available space",
+    "reviews": []
+}

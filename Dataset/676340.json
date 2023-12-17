@@ -1,0 +1,40 @@
+{
+    "app_id": 676340,
+    "name": "Undarkened",
+    "release_date": "2017-10-23",
+    "developer": [
+        "Colin Stoddart"
+    ],
+    "publisher": [
+        "Colin Stoddart"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Undarkened is a PvE/PvP magic survival game, where you can hunt, explore, craft and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676340/header.jpg?t=1508813652",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD Athlon 64 x2 Dual Core Processor 4800+ @ 2.5 GHz Memory: 4096 MB RAM Graphics: ATI Radeon HD 5700 Series DirectX: Version 11 Network: Broadband Internet connection Storage: 4096 MB available space Sound Card: AMD High Definition Audio Additional Notes: Achieves 40-45 FPS at medium to low settings, the absolute minimum specs.",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 3750K @ 3.4 GHz Memory: 8192 MB RAM Graphics: NVidia GeForce GTX 680 DirectX: Version 11 Network: Broadband Internet connection Storage: 10240 MB available space Sound Card: NVidia High Definition Audio Additional Notes: Achieves 60+ FPS with ease at highest settings",
+    "reviews": []
+}

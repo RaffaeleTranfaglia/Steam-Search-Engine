@@ -1,0 +1,650 @@
+{
+    "app_id": 4920,
+    "name": "Natural Selection 2",
+    "release_date": "2012-10-30",
+    "developer": [
+        "Unknown Worlds Entertainment"
+    ],
+    "publisher": [
+        "Unknown Worlds Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Valve Anti-Cheat enabled",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Multiplayer",
+        "Strategy",
+        "FPS"
+    ],
+    "achievements": 67,
+    "positive_ratings": 8372,
+    "negative_ratings": 1498,
+    "price": 6.99,
+    "description": "A fast paced multiplayer shooter that pits aliens against humans in a strategic and action-packed struggle for survival!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556039235",
+    "minimum_requirements": "OS:Windows Vista 64-bit or newer Processor:Core 2 Duo E6700 (2.66 GHz) or better Memory:4 GB RAM Graphics:DirectX 9 compatible dedicated video card with 1 GB VRAM and support for Shader Model 3 (e.g. AMD X800, NVidia 8600 or better) DirectX®:9.0 Hard Drive:12 GB HD space         Other Requirements:Broadband Internet connection",
+    "recommended_requirements": "OS:Windows 7 64-bit or newer Processor:Core 2 Quad Q9650 (3 GHz) or better Memory:8 GB RAM Graphics:DirectX 9 compatible dedicated video card with 1.5 - 2 GB VRAM (AMD 5770, NVidia GTX 450 or better) DirectX®:9.0 Hard Drive:12 GB HD space Other Requirements:Broadband Internet connection",
+    "reviews": [
+        {
+            "review_text": "A missed opportunity. That's all I can call it.   NS2 isn't a bad game. In fact, despite not personally recommending it, I still think it is a good game. The problem is that it isn't a game I can recommend to others. If you look at my hours I'm not someone who hasn't given the game a chance. In fact, I beta tested the original NS1 mod. When NS2 was announced and they asked for help to fund it, I purchased a few copies of Zen of Sudoku (another game they produced). Then, when they were near finished NS2, I pre-purchased the game, sight unseen, long before release.   So I do support the game and the makers. I just can't recommend it anymore. Why? Well the answer can be found in the game's development.  The big failure of the game is exactly what happened with NS1. Basically the developers allowed a small--but vocal and intolerant--minority of players dictate the direction of gameplay development. These 'pros', are basically the people and clanners who play games competitively and/or in tournaments. Now I can see wanting to appeal to the 'pro' gamers as a means to generate interest, but there needs to be a balance between competitive and casual play. Sadly, there never was.   In the end, the difficulty and learning curve puts this game well out of reach of all but the veterans. New players are quickly steamrolled and wonder how the heck it happened. What's worse is that they released the game without a trainer or tutorial mode. While there is a basic 'sandbox' mode that helps to get a player acclimated to the game before they play, it's too little too late.  I saw this all happen in NS1, and it saddened me when it happened here. The competitive gamers basically co-opt the game, and casual players are forced to play at that high level or they don't play at all. In my opinion, the logical way to develop the game would have been to introduce a 'tournament mode', with increased difficulty, for those dedicated players. It could have been finely tuned to appeal directly to their form of play, while still leaving the game with a 'casual' player base that could actually play the game. Unfortunately, the developers objected to this concept suggesting they didn't want there to be 'two games'. But the reality is that difficulty levels are part of gaming. That doesn't make it 'two games', it makes it one game with two difficulty levels.   With the development team basically abandoning casual players, this basically meant that no matter how many sales they made, the new players never stuck around. If you look at the history of the game, you will see that from the release in late October 2012 until the end of 2012, there was a large player base that bought the game and was playing. Since everyone was still learning, it meant there was the potential for developers to cater to that casual player base and build their numbers further. Instead, they went the other way, abandoning the casual player base in favor of the competitive and tournament players.  Over on Steamcharts you can see just how the game started strong and then flamed out in a spectacular fashion. (  steamcharts.com/app/4920  ) The all-time peak number of players online was just a bit shy of 10K. At time of writing there were ~200 playing. It's sad, it really is, since this could have been a much better overall game.  The nail in the coffin for this game was when development for 'game balance' was put in the hands of volunteers. Since the game is easy to modify (in the LUA scripts), balance changes didn't have to be hard coded into the game. As such, a bunch of people who felt they 'knew better' how the game should be developed were able to markedly influence balance changes by verbally bullying anyone who disagreed with them. Anyone who dared question those who wanted to make the game harder were verbally ridiculed and harassed. The game forums became toxic as a result, and casual players began their exodus.   Well, those competitive players got what they wanted. The game is exactly how they said it should be balanced. It's too bad there is hardly anyone left playing now.   What's worse is that the more appealing elements of the game--the highest level 'upgrades'--only show up when the outcome of the game is predetermined. (which happens within the first few minutes) Users who look and see the marine 'mech' robots and the 'rhino-size' alien don't realize that they will likely rarely if ever get to play them.   This game is a good example of what *not* to do when developing a game. While I can see the appeal of competitive gaming to a game like this, it can't be at the expense of casual gamers. Otherwise you kill the potential for the game to grow. Look at TF2. A game that is 'easy', but that can be hard based on the skill of the players. That could have been how NS2 ended up. Instead, the game is harder than ever. What's worse is that they added a ranking system to which isolates players based on skill. New players will find game choices limited as a result.  Simple example of a poor balance choice? In TF2, if you need to get health, you can pick up health kits (on the field or in spawn) and also be healed by the doctor. In NS2 it used to be you could go to 'spawn' and heal up fully (health and armor) at the armory--like a med cabinet in TF2 spawn--and you could get health-only medkit drops in the field. If one was away from spawn, armor could only be repaired with a welder. (like a medigun, except anyone could carry one if they bought it.) However, the competitive complainers cabal (I love alliteration) pressured the person doing balance work to make it so the armory would no longer heal players. In other words, once you lost armor you needed to be welded, and you can't weld yourself--other players have to do it. The outcome of this change was that it made it that much harder for players to stay alive unless they are highly skilled.   In the end, I still play NS2, and I would recommend it to anyone who I felt had the skill to survive. However, there aren't very many people who fit that description.   Unless you are someone who considers themselves an exceptionally good FPS player, I would advise you give the game a pass unless it is deeply discounted and you're willing to take the chance the game may not be fun for you.   While NS2 is--on the surface--a good game, it missed its chance to be a great one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "My all-time favorite multiplayer FPS.  At this point, balance is about as even as it's going to get for an FPS with asymmetrical teams, and the developers (both Unknown Worlds and the Community Dev Team) have added a significant amount of content in a number of rather sizable updates. The community is still quite active and is far less dickish than most, which, to me, is a rarity in this age of games going out of style once they're no longer the flavor of the month.  The gameplay, while obviously an FPS, is very much dependent upon the strategic layer, and vice versa. What this means is that the commander's role is absolutely vital to the success of the players on foot, and their capability to win their encounters affects whether or not he can expand; it's not like Nuclear Dawn or some other RTS/FPS hybrids where one element is gimped or neutered while the other is fleshed out.  My only complaint would be the devs' tendency to change things unnecessarily every other week, with minor balance patches or changes throwing the whole game out of whack. The game as it is now is NOT the same game it was at launch, not by a long shot. If you can keep pace with the changes and roll with the punches, however, it's excellent fun.  One crucial tip for new players would be to use your microphone, if you have one (I know you do). Communication with your team is key. Don't be afraid to pipe up on voice, and always keep an eye on your map (bound to the C key by default).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can’t believe I haven’t reviewed this game yet after 150+ hours into it. But I have returned from a long hiatus to play this game and again and I thought it was time for a review. In a world filled with boring repetitive multiplayer shooters where you run around like a chicken with their head cut off comes a game like Natural Selection 2. A game that ACTUALLY understands the point of competitive multiplayer. TO WORK AS A TEAM!  You play as Aliens or Marines. The marines are fairly standard and easy to get the hang of. For the most part I’m a rather good marine player. Aliens are trickier and require more practice. While I’m not a great alien player I’m decent-ish. In other words I still manage to get more than 5 kills. Overall the game requires teamwork and strategy opposed to lone wolfing it. If you run off on your own you will die. You need to be supported by your team members. Also the game is farily well balanced as I did not notice any major balance issues.   Highly recommended: 9/10 Great game.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best blend of FPS / RTS ever, highly recommend people buy this game, the learning curve is steep but once your clocked in, know what you're doing and when to do it, the rewards of winning are immense!  Initially people at the start can be rude but dont let the minority put you off this game, keep plugging at it!  Been playing the series for over 12 years now and no other games keeps you going back like this one.  9 out of 10!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(DISCLAIMER: Since steam has refunds, I actually DO RECOMMEND you pick up this game, and see if you like it. What I say below is still my opinion.)  The game is fun. I hop on every so often to join in on the fun, but thats if there is anyone to join me.   When I hop on, I see about 95% of servers empty, and the ones that are populated are normally full.  This game is pretty much dead in my opinion, because no one plays it anymore, and if anyone new joins a server they are quickly bashed. While some people try to help new players, this game is really only for the people who have been playing it for a while. And when that group of people tires of this game its dead for good.  A great game gone because no one plays it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really liked NS1 and enjoy NS2 even more. Admittedly the learning curve is very steep, but once you get into it it's really addicting. Contrary to other reviewers here I had only positive experiences with the Natural Selection Community. Generally everyone is very nice to each other because good team play in Natural Selection is even more important than in CS or TF2. There aren't as many servers as there used to be but it's still no problem to find active games with enough players. The game is 4 years old but the graphics still look awesome and the overall design is just timeless. If you are a casual player and just want an easy game you will be frustrated. But if you are tough enough and enjoy a good challenge you will have lots of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is definitely worth it and its usually on sale. There are 2 playable factions -humans and aliens and each have their own special units and abilities. The amazing thing about this game is that its very teamwork intensive. Each team gets 1 commander who pretty much gets an overhead view of the battlefield and instructs teammates on what to do/build. The game is pretty easy for humans but for aliens its a big learning curve. If you do get the game do not play commander without reading a guide/tutorial because it can be extremely difficult. The combat is very fun and you can do all types of strategies and builds each game, such as fast expand for aliens to get xenomorph or human fast expand with warp gate tech or harassing human extractors with skulks with aliens which is one of the best ways to get yourself back into the game as aliens.  All in all 9/10 Very good game I would recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've played Natural Selection since the mod was released for free for all owners owning Half-Life 1. Since that time, I've had some really awesome memories in correlation to this game. I've met some life long friends and enjoyed intense teamwork and strategy.   It is the same for Natural Selection 2, despite it not being as popular as its predecessor, the community and developers are going strong! It'd be nice if more people joined us! So COME PLAY!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "LE SIGH. Sloppy, permanently unfinished, no player base, hostile community, doesn't even know the meaning of the word 'optimization' because it runs like dog doo, and has tons of bad gameplay mechanics needlessly invented since the first game. Sad I paid money for this, but I was there for original NS beta 1.0 and since around 1.3 or something it has been one epic slide downhill that they managed to somehow continue with a brand new game, against my expectations. Natural Selection II is why I stopped buying new games and crowdfunding unknown games. This was a known game, an easy victory, and it still failed.  edit: I wrote this a long time ago and only just made the review public, but it's even more true in 2015. NS2 sadly went the way of NS1 -- Started promising, huge potential, but flamed out quickly because the development of the game pandered to an ultra toxic elitist community of total losers. Sad, sad, sad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I haven't had as many problems with the community as all the reviews are giving. Just join a rookie only server and play the game! Of course there will always be players that are better than you, but if you stick with it these players force your own skill to improve.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, steep learning curve, for it will be many hundreds of hours before you can consider yourself a great player but it's a blast whilst you're doing it.  The game will get a million times better when the developers stop work on it and allow the modders to do their thing :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really do not know why people give this game a bad review! its fantastic game! People claim it has a 'steep' learning curve. Don't listen to that. Its ♥♥♥♥♥♥♥t. I just got the game and I (kinda) know what to do! This game is a lot, I mean A LOT better with friends! Get a group of like 4-5 guys and you got a awesome squad! And for $9.99? This game is worth it. Hell, if they raised it to $19.99 (Please don't Dev's!) I would still buy and recommend this beautiful, action packed, great game! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best multiplayer game in the world.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As I've often summed up (since the days of NS1), this is like the first person shooter version of a StarCraft battle between marines and the Zerg.  In Natural Selection 2 it's not all about twitch reflexes (though this is faster paced than most); victory requires dynamic strategy, tactical combat, communication and team work.  The strategic element to this game makes it a unique gem. It's far more engaging and complex than anything offered by Battlefield, Team Fortress, Counter Strike and similar games.  The community isn't huge, but this game has no equal. Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ummm, yes! no other game is like this. strategy driven, team work is what wins games. The commander role is extremely fun as well. This game takes time to master. I have 80 hours and I'm still learning new strategies. Well worth the price tag.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun, very complex game. It has a nice oldschool PC shooter vibe to it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've read many reviews complaining about an update that moved server-lists to a different, clearly visible, tab. I have to say that after purchasing this game I honestly believed that my experience would be mediocre at best: Veterans calling out noobs, discouraging them to continue playing, etc. Not once in my short period of owning this game has this happened. (I'm willing to rule out that I'm lucky and just haven't been around 'those' people).  However, I can tell you this: As an achievement hunter, I was able to contact a developer on the official discord server (Remi, you're awesome!). This person took the time out to help me join a private server full of veterans for a 'Captain's Night' (Shout out to TGNS, you folks are great and I hope to play with you all again!) and was nice about it. Not only that, but the folks I played with were all immensely supportive of a 'greenie' being on their side. Folks in the voice-comms were giving me tips, telling me to follow them around, and showing me some really neat tricks.  I personally like small maps with 7v7 teams; it allows you to know the folks you're playing with (especially if they are in comms). I've had a great experience so far.  TLDR; This game is awesome and I highly recommend it for the experience and the community.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, if it's on sale it's definitely worth buying. Very simplistic gameplay, but fun none the less.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok, so this is gonna be the first game that i´ll ever review. Can i recommend it? The answer is pretty short, yes i can. It has one of the most interesting game ideas ive ever seen and a pretty good graphic. The gamplay feels nice and smooth, the atmosphere is really great and both races (Marines and Aliens) are pretty even so no race can be called op. Personally i like the community (sure there are always some people that behave like idiots) and would love to see new players in Ns2. So if you read this and consider buying it, i can only say that these are some well invested 10 euros. And if youre able to get this in the summer sale for 5 euros why are you not playing already?  For people that dont like reading: Should you buy it? -yes you should.  cheers Syntexx",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game for players wanting to play alien vs predator online. Misleading game for players wanting to play the darwin award simulator.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really like this game, it requires teamwork and strategy and more people should buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have played many many hours with Natural Selection 2 and for the most part, I have greatly enjoyed my experience. My feelings about it are very complex, as it's a bold and innovative step in FPS multiplayer, has excellent developer support, and a pretty good community to boot. There are frequent updates and gameplay balances, and a new map is released roughly every six months or so. The two opposing factions are assymetrically balanced and gameplay is varied and interesting. So much so that you don't mind playing the same few maps over and over again countless times. In some respects, this game has pretty much everything going for it.   Sadly, I simply cannot recommend Natural Selection 2 for one very specific reason. The game's greatest strength is its ability to seamlessly blend the RTS experience with the FPS experience, and when you have a team that works well together, under a commander who knows the ropes, this game offers one of the most fun multiplayer experiences available.   It is this same strength which is also the game's greatest flaw. Very often - almost always - your experience is entirely dependant on the person in the command chair. To begin with, no one ever wants to be commander. You will sometimes spend as much as 10 minutes waiting for someone's patience to wear thin enough that they finally get into the command chair, at which point you are at their mercy. Sometimes you will even spend longer waiting for the commander than the actual game lasts.   If this person happens to be you, your command experience will go one of three ways: 1) You will do an excellent job and everyone will love you for it, in which case your game will likely be over very quickly. 2) You will do an excellent job and everyone will hate you for it anyway, because you didn't build X thing at Y time. They will complain at you for arbitrary reasons, even though you are winning the game. 3)You will do a bad job and everyone will hate you for it, likely resulting in you being kicked from the command position, ostricized, and ruining everyone's fun.   Additionally, while the game is quite expertly balanced, it takes very little to upset that balance. A bad or good commander can mean everything in a game, and very often the fun and enjoyment of as many as 24 people hinges on that commander's ability to play the game. It's not uncommon to spend hours going from stacked game to stacked game because teams just can't seem to turn out right. And then, when that magical golden ratio finally occurs, and the game looks like it's going to be a long, bloody, brutal fight to the death, someone rushes your base and the game is over before you have time to check the map.   So, while I have had some real fun with Natural Selection 2, at the end of the day I just can't recommend a game with such a massive, fundamental, and irreversible flaw. The average player just has to put in way too much effort and patience to squeeze the fun out of this game. But I do admit that if you manage to do so, you will be in for quite a treat.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Honestly, it has a bit of a learning curve, but you should be able to start and play marines pretty easily if you have any experience with team based FPS games. I played the original in the early 2000s and i became an evangelist for it. This is trly a brilliant game, infinitely replayable, gorgeous to look at, and once you learn its secrets, you realize there are even more secrets...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't play it anymore cause my old computer crashed, but I still love it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't bother with this game, the performance is wretched and the maps take an age to load and there isn't any sort of balance between the two sides; Marines always win. Go play Killing Floor or Red Orchestra 2 instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game devs does not like large servers, no matter how many regulars it has. They abondoned the game, then decided to let 'fans' patch the game. Then they started to 'dev' the game again, hope arised that they actually finish the DX11 mode or ancient bugs like 'Black Screen'....  nope, but hey we have CS:GO cancer now in NS2, thx!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Amazing game by an awesome developer that actually treats the playerbase like a community, not a cash pool. Constant updates, balanced gameplay and very fun to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really like this game because there is cute gorgies in it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's Aliens and Marines, they kill each other. Get the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Yes, people still play this... because it's fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Aliens game that never was. Pits Aliens vs Colonial Space Marines in this FPS/RTS game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A truly unique gaming experience. A blend of action &amp; strategy that requires teamwork, tactics, and skill. Extremely fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A must buy game. Really fun and addicting, and has an awesome soundtrack. Definitely worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "UWE does everything possible to ♥♥♥♥ the community off. They have for years ♥♥♥♥ed with Wooza's server because they hate high pop servers, which in my opinion is some of the best fun.  UWE also has ♥♥♥♥ed with siege a lot becuase they didn't like that mod...it was the best thing NS2 had uncle Kyle the dev for siege went full derp so siege is now trash but that is a side issue.  UWE breaks every single mod on every single update because they can't code worth ♥♥♥♥.  UWE released a new patch that nerfed meds so they are now total trash...they weren't even that good to begin with.  UWE never actually fixes any glitches. Wooza and ATF and reported several serious stability issues with the game but they never fix them.  UWE releases these stupid ♥♥♥ item crap and now i get these endless notification of these stupid iteam i don't want and its annoying.  The community over sucks but there are a few decent people in the game. Trolls and ego maniacs are rampant and admin abuse is ridiculous.  UWE also ruined combat mod....♥♥♥♥ers  UWE......you get the point. Don't waste your time on a dying game unless Zycar brings siege back or UWE stops ♥♥♥♥♥♥♥ on the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a great game. But the community is dead. You will see less than 50 players on at any time on ALL public servers combined. I would reccomend it on solid graphics and gameplay. But it's so hard to get into a game with decent ping, play with people who will listen to your commander, and not play with a narcisistic smurf. Save your money, because this is a game where you think a bit. And mostly people would rather play a WoW faceroll than be challenged. As a result with no hyperbole this game is effectivly dead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "In my experience, the game has too much loading in it, the servers are either full or empty and it is extremely noob unfriendly ( there is always one guy on one team or the other that knows the game and kicks ♥♥♥ and the game is just not fun.)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't buy this game, totally useless. Alot of people can't even join ANY servers.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "ive played the game for 30 min and still havent been in an actual game. The loading screens are very nice.  I Have played a bit of the game now and its alright, i wouldn't reccomend it unless you are getting it on a sale",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I liked the game a lot but it was inundated with severs full of half insane and incredibly racist Turkish people for some reason.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is amazing never had so much fun playign a game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best game since sliced bread",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When a game has an Epic Space Cow vs a Giant Tin Man, it's hard not to like this game. FPS perfectly combined with RTS, good stuff!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have loved NS since the day I first played it.This has been everything I had hoped for in a sequel. 'a little bit of old, a little bit of new'.  This is a most recommended buy!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damn solid multiplayer game. Although the learning curve is pretty tremendous for what seems to be a simple AVP concept, the reality is that Natural Selection 2 involves requiring strategy that most games do not. Each of the two teams of Aliens and Marines have one commander, a person who assumes a top view of the map and can order his soldiers to go to a certian location, complete an objective, upgrade their armor and weaponry, and build structures to fortify the main base and make their team more powerful. I have found that the community for NS2 is generally helpful to rookies, and most (not all) will give tips and advise to new players struggling with the heavy expectations for a team in the matches that can last upwards of half an hour. Occasionally you witness the gruff veteran who lacks patience for the new recruits, but you can pick up on the game mechanics fairly quickly before they nag at you consistently. The gameplay is solid and balanced, playing as either team is fun and enjoyable. Playing as the vulnerable aliens as you stalk your prey can be exhilierating, but hunting the agile opponets with a pulse rifle can be equally enjoyable. The best game involves high levels of cooperation for all, but when you win, it feels great to have contributed to a team and I think I can say the level of comradery felt between two people is greatest when you squinting in the dimly light power room trying to reconstruct power to get the lights on as knee-high aliens shoot acidic goo at your feet. Fantastic game at any price, and it is gaurenteed to last you quite a while.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great. It combines elements of FPS and RTS games to make a unique game, with unique gameplay. The uniqueness of the game does make it challenging for new players however. Both Aliens and Marines use advanced tactics that may be difficult to grasp for first-time players, especially those that come from a CoD background. If you can manage to power through the steep learning curve, you are rewarded with one of the most entertaining and interesting FPS games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One an original mod for Half-Life 1, this amazing game blends the FPS and RTS genres flawlessly. Simply solid gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great. It combines elements of FPS and RTS games to make a unique game, with unique gameplay. The uniqueness of the game does make it challenging for new players however. Both Aliens and Marines use advanced tactics that may be difficult to grasp for first-time players, especially those that come from a CoD background. If you can manage to power through the steep learning curve, you are rewarded with one of the most entertaining and interesting FPS games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When a game has an Epic Space Cow vs a Giant Tin Man, it's hard not to like this game. FPS perfectly combined with RTS, good stuff!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best game since sliced bread",
+            "review_score": "1"
+        },
+        {
+            "review_text": "an easier to learn, slower and more forgiving version of the original without loss of too much depth. The engine perfectly fits the aesthetics the developers were striving for. Very likely the best game in the FPS/RTS hybrid genre together with its predecessor.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very fun multiplayer game! If your playing as commander it is like a strategy game and like a marine/alien 'soldier' it is a FPS with a lot of teamwork! The only bad thing about this game is that somethimes it takes some time to someone became a commander and another thing is that the aren't that much player who play the game anomre :/ But there is some big servers that is almost every time full! :D  Would give the game 8/10 apes",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is pretty good, and has a very dedicated community. However, the skill ceiling is high so it does take some practice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "15 min or 20 to start a game, people kick new gamers because they dont know how play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can´t get enough of it. Perfect game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Challenging but rewarding; extremely fun and infinitely re-playable. Natural Selection 2 is a mix of RTS and FPS that offers a unique team based gameplay with an awesome community. Though it is hard when you’re a rookie, so try to get on basic movements tutorials early on in order attenuate 'the pain'. Definitely a must have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you don't like challenges don't play. The game has a steep learning curve but is worth the wait! Played a lot of different games in the last year. This one was worth the most bang for my buck. With the steep learning curve comes veterans of the game. Usually if you ask for help the will be glad to give it. The community is the main reason I stuck with this game at first (and I had a friend who played). My personal favorite fps and in my opinion the alien side (which you bite) is more fun that marines. There all sorts of different classes you can choose to play which better suit your style or help your team.    I would rate the game 8.5 or 9 out of 10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Natural Selection 2 has a learning curve like al wall, which is tough. However, if you climb over that wall, or power through it, you are rewarded with a game that has all the elements of an epic gaming experience: Team play, Tatics, shooter skill. The fact that the teams are asymetric is an opportunity to master two sides of combat, having that great experience twice. And then there is the commanding position to learn. All these experiences added up make this game on of the best deals on Steam!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "RTS meets FPS.  Fantastic blend of both and something I wish was blended together more with games.  Rather hard learning curve but once masted it, the game soon becomes rather enjoyable and fun.  Trying to learn commander is hard to do tho, long time players tend to want to take the seat so that the team wins but the downside being new guys can never learn or put their RTS minds to the test.  I hope that CDT stay with us and keep this game alive because this game is a rare one to find with such an intresting idea.  For £6.99 you can't really complain....I got this at launch (forgot the price) But it has improved so much since then and for the asking price well....Amazing!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game Sux. There is no mode that is fun and well put together. there is no Solid single play mode with options and the multiplayer is burdened by horible pings making the select fue people that actually play this with good pings win constantly. You know when you get hit by an aim botter that kills you instantly before you can react to them well thats what pvp is like in this game eccept its the garbage net code that makes it feel like that. There is about 70 people at most playing this at any one time spread scross aprox 3-4 servers and there usually full so geting into the server that has the best ping for you is usually impossible. also the comunity is toxic, always bickering, arguing, and just being all round jerks. A fue are deacent people. This game would be fun at lans but across the internet I would absolutly pass on it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A very fun teamwork centers game that takes skill and coordination. A fault I found with the game is the heavy reliance on a good commander.If the commander isn't good then you are destined to fail.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sort of a cross between Starcraft and any FPS. Everyones weirdly polite though. So there's that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most strategic PvP games. An innovative and very demanding multiplayer game, it's fast paced and requires very quick thinking as well as synergy. One player assumes the role as a commander, and plays the game more like an RTS. If you're not one for following orders, or commanding a team, then you have no place in this game.  We need more PvP shooters like this, otherwise they're better off just killing off that portion of gaming altogether. This is one of few PvP shooters worth playing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i am the only person who plays this game now",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played both NS1 and 2. This a a fantastic followup. The graphics are nothing short of amazing. And the two very different sides (marines vs aliens) ... there's just nothing else out there quite like it. Been a gamer for over 20 years and NS2 has got to be one of my favorites. Wish I had more time to play but at least I have something to look forward to when I do. As a veteran Unreal Tournament player I am quite happy with NS2. Fun to play first person with nice focus on strat at the same time. Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine Aliens vs Preditor. Except it's a good game. And there are no preditors",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so good that I cant even kill anybody. Nearly 2 hours in the game and Im still level 0 because I lack the ability to do anything but sit in the vents and dream of what it could be like if my aim wasnt as bad as a pregnancy test.  10/10 would not install again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is probably worth $40-$50 on a good day. Being that it is $24.99 regularely is good... but being $6.24 is amazing. If you don't buy this game before the sale is over your IQ is probably lower than you think.   Graphics - 8.5/10  Gameplay - 7/10  Multiplayer strategy - 9/10  Overall: I would rate this game a 8.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game worth buying!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has been and still is one of my favourite games to play. The idea and the execution really work together and the gameplay is very fun. Sadly the community is slowly getting smaller and smaller. This game does not deserve it, it looks and feels awesome for being a 5 year old game. The small community is what really kills the game for a lot of people and I don't blame them.  Overall: This game is a blast to play and I'd recommend it for anyone who likes this style of game. The small community does suck though so keep that in mind of you buy it. I want to give it a higher rating but with the small community it's hard. Overall I'd give this a 8.5/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's kinda like Starcraft in first-person and is good gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pros: asymmetrical factions, gameplay with depth, a great blend of fps and rts, good video options menu and visuals, great soundtrack, the tech tree for aliens shows the evolution and tech trees available to the player during a game, great server browser menu   cons: steep learning curve with a weak tutorial, difficult to navigate (you have to constantly bring up the mini map to find where you are and the map icons look messy), the tech tree for marines isn't readily available to see during a game  Overall, a great game concept executed very well - but fails to fully tackle the steep learning curve that new players face. The expansive map design is one of this game's strength but also one of its greatest weakness. Natural Selection 2 is a hit or miss.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game makes me weak in the knees with happy love feelings. Play it forever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "That's interesting. Extreme. Addictive. Balanced. When you play as a commander, you open the game with a completely different side. But there is one drawback. Beginners hard to play against other players. REALLY hard. But, may be, it's because I did not pass the training? ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is ♥♥♥♥♥♥♥ amazing. The way they integrated RTS gamplay with a FPS is perfect. While it's sort of hard to understand when you first start playing, The game is great even when you don't have the slightest idea of whats going on. And trust me, I would definitley know.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'OH MY GOD WE LOST, BLAME THE COMMANDER' -Simulator  Still a pretty fun game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you have a decent computer, you will not regret buying this!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm not saying it's aliens... but it's aliens. - Prof. Dr. Phys. Deathstar, Harvard University. No, but really, solid game this, good mixture of FPS and RTS elements that reward teamwork over individual skill. Worth checking out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game stand out bu mixing FPS with RTS in one single game...realy worth it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game needs more attention, this game has been crafted so well, its art. A game like this is very rare to come by, an RTS and FPS combind in a way that does not slow or crash the game, but makes it fly. i Personally suggest that you guys get, and play this game till you got a good idea on how hard it was to make this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Natural Selection is a REALLY fun game to play with friends. It blends in a good amount of FPS and RTS and is really a game you have to work together in.  The only downside to this game is that you need to have a good computer, if you try and kill an Alien or play as an Alien, you wont have a good time if your framerate is bad.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most complete gaming experiences you'll ever experience. The perfect combonation between RTS, RPG and FPS!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥ing Amazing loved it to bits , forgot what the sun looked like 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is suprisingly good, but be aware it has a steep learning curve. If you have the time to put into it, it's totally worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Natural Selection 2 is a near-perfect asymmetrical multiplayer game that integrates the real-time strategy and first-person shooter genres into one package. In Natural Selection 2, there are two teams: the marines, and the aliens. The marines work kind of like your typical first-person shooter. They are, however, led by a commander who can drop health and ammo for the marines as well as placing structures around the map for them to build on their quest for victory. The aliens work a little differently; they tend to fight more effectively in close quarters situations, unlike the marines who can shoot from a distance. The alien players can also evolve into more advanced life forms whom each have their own advantages and disadvantages. Just like the marines, the aliens have a commander. The alien commander works much more independently than the marine commander; however, the alien commander can still provide a lot of support for his team with the structues that he or she builds and the upgrade paths that he or she chooses. The asymmetrical gameplay along with the combination of two outstanding game genres means that there is never really a dull moment, as every match can be interesting in its own way. I definitely recommend that you atleast give Natural Selection 2 a chance.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Playing the Alpha/Beta I knew this game would be amazing, and that was the not polished/completed version. Soon as the game went live and I jumped into the game, I felt like I was 15 again playing NS1 for the first time. It's a fantastic follow-up of the original, and a MUST buy. This is by far the best RTS/FPS combo I've played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a Half-Life fan, I heard of this mod long time ago - but never played it. I bought the new edition last year (mainly to support the developers) and was a bit scared by the fact that they built their own engine. After trying it out I was impressed by the visuals and gameplay, but unhappy with performance and mouse input. Because of that, the game did not draw my attention for too long.  Lately, I gave NS2 a second chance and must admit that they put great effort into updates. You can use raw mouse input and the performance has increased dramatically. Furthermore the skill level is quite high (I think there is a competitive scene) and it is really fun to fool around as a total noob on public servers.  The aiming skills needed are different (in comparision to e. g. Counter-Strike) because aliens are very fast, can be nearly everywhere and a lot of close combat situations arise. The RTS part of the game (commanding) seems to introduce a lot of cooperation and teamwork even to public servers.  There are always full servers and the community is surprisingly friendly (voice communication is quite common). This is a great game, worth to buy even at full price - if you have time to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic AAA remake to a classic game. Love NS2. They have delivered more than I ever imagined possible. SO many tripple A games fail to deliver on the hype. This game does. Hours and hours of playability. Don't be scared to go on Aliens side. Try commanding your troops and building a base! Detailed, complex, yet enjoyable with a minimal learning curve. Watch some youtube videos on attacking if you're new to the game. Would by again 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Outstanding game, more complex than most shooters, steep learning curve but rewarding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game makes me weak in the knees with happy love feelings. Play it forever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First game. Get stuck as the guy that builds stuff. Randomly click things. Win the game. Would recommend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very interesting blend of FPS and RTS genres. Very innovative in that regard. It relies significantly on the quality of its community in the sense that following team orders and communication are necessary for success and enjoyable experiences. The only downfalls I have experienced in the game thus far are the small size of the community (sometimes it is difficult to find a game), and the difficulty of playing on the same side as friends (i.e. via an adequate party system). However, at least one of these difficulties (the size of the community) would be fixed by you following the recommendations of this review and purchasing this game! 8.5/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pros: asymmetrical factions, gameplay with depth, a great blend of fps and rts, good video options menu and visuals, great soundtrack, the tech tree for aliens shows the evolution and tech trees available to the player during a game, great server browser menu   cons: steep learning curve with a weak tutorial, difficult to navigate (you have to constantly bring up the mini map to find where you are and the map icons look messy), the tech tree for marines isn't readily available to see during a game  Overall, a great game concept executed very well - but fails to fully tackle the steep learning curve that new players face. The expansive map design is one of this game's strength but also one of its greatest weakness. Natural Selection 2 is a hit or miss.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An intense mix of FPS and RTS. This game pits marines vs aliens in expansive maps where no two games play the same. The learning curve is quite steep, but the friendly community will help you along the way. Teamwork is vital to your team's success, this makes the games feel EPIC as you and your buddies team up to conquer individual objectives. Many times a small group of people will turn the battle for their team. Overall great game with fantastic dev support and frequent free updates witch add maps, new features and balance tweaks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Consistent dev support. Official World Championship on going. All regular updates/new contents (including new maps, new weapons &amp; new skills etc.) are FREE. Except skins &amp; badges you get by donating to the Reinforcement Program, which actually helps a lot for the devs to keep everything else free.  Very good visuals, sci-fi weapon &amp; map design. Nice music. 1 commander each side. Both human &amp; alien team members play in first person view. No unlockables or progression system. You can play with everything right from the start as long as the commander builts/upgrades it in the match.  Steep learning curve for regular FPS players. Could be very slow in every fresh start up (after system memory clean up). And the devs are still working on performance.   PS: There's a basic turtorial for commander gameplay. Please be nice &amp; patient to newer players especially when they are trying commander mode. If they're really dragging the whole team down just ask nicely &amp; tell them how to exit the command center.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun but no one plays it anymore D: ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a miracle this game happened and it's amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "buy this game, it is amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why are you looking at this? GO AND BUY THE GAME ALREADY!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A super fun game with each faction having a drastically different playstyle! with a perfect mix of RTS and FPS/FPC (first person creature) I highly recommend its addictive multiplayer!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quite a fun game. I offers 2 gameplay modes, one is a standard FPS like mode where you play as one of the human squad members, and the other as one of th ealines. Each one of the factions (human/alien) has its own different unit types, and heavy units. The second mode is the commander mode in which only one player plays the game in a top down view, simmilar to Real Time Strategies. The commander can place 'building blueprints', which then the team can construct, in order to gain additional upgrades (ammo/armor and so forth), There are additional upgrades/buildings that let the teams build/construct their ultimate units - a big mech, and a huge rhino like alien. The commander can also drop ammo and health packs for his troops (if he has enough resources), that aer gained by expansing the team's control over the map and building harvesters. The play style of both aliens and humans are bit diffrent. While the humans favor conventional guns and stationary projectile turrets, the aliens usually domiinate in up close meely combat...and flying units.   Overall this game is rather enjoyable, and offers a nice change of pace. If you get bored of the FPS portion, you can play as a commander, and get into the strategic view. The community seems to work rather well together, reminiscent of the old days BF2 (real team play) gameplay, where people support one another, and have helpful roles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's kinda like Starcraft in first-person and is good gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a very interesting multiplayer game that influences teamwork that is unlike other shooters. it also has a great community. my only problem isnt really about the game itself more about how the mods arent very good, what i mean is there just low work retextures becuase thats all they can do because of how the modding was set up. the devs should look into how left for deads mods work , once they do that everything will be better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well holy hell. A lot of fun and no leveling up your stats, gear, etc. NS2 keeps me coming back for more and its so damn enjoyable. One of my favorite games to stream to twitch.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A visceral and fast paced multiplayer shooter combined with real time strategy make for Natural Selection's strengths. Gameplay involves either being on the ground or in the commander's seat, fusing beautifully the first person shooter and the real time strategy genres.  Numerous weapons and classes are available for both the Marines and the Kharaa, this allows for diverse play and keeps the game interesting. From the humble skulk, running on the ceilings and dropping in on unsuspecting victims. To the gargantuan and brutish Onos, smashing everything in it's path and reducing Marine machines to their component parts in seconds. There's a class for all kinds of players on both sides. Want to run around fearing for your life? Stick with your bog-standard infantryman. Want to go crazy and toe-to-toe with an Onos? Get yourself a mech and be feared by the Kharaa.  WIth hours of replayability, servers up 24/7, and a well balanced system of play. Natural Selection 2 is by far one of my favourite games of all time. Go ahead, buy it. I'll be waiting on the ceiling round the corner.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has been considerably upgraded from the original release, and is now a totally different beast. -The performance of the game engine is now EXCELLENT, and I can play with smooth frame rates on an older laptop. -The game mechanics have been heavily tweaked with input from the community, and it is excellent fun to play, even for casual players.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good stuff. Difficult learning curve.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When your that beast... and you go in for that final kill... very touching moment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has inovative gameplay and is alot of fun. It has a small population so you sometimes may not get to play, also the servers all appear to have high ping at around 200ms but this doesn't effect gameplay in a noticable way because most people have the same delay. It is a great game and I personally am happy with my purchase however you have to decide whether small population and ping is something your okay with or not.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "better than star craft but nothing like csgo",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, requires much team based cooperation to win. The game plays as an FPS for the majority of the players but the Commander of each team plays the game as an RTS like Starcraft.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game doesn't work on Linux anymore. It was supported once, but now the developers abandoned the linux version, as you can see from the lack of a system requirements tab on the store page.   I can get to the main menu, but when I join a server or start the tutorial, the game crashes instantly after the loading screen. I posted on the tech support forum, but the only answer I received is that the game didn't work anymore on Linux and the developer with in-depth knowledge of the Linux version has moved on. This is dissapointing to me, since I decided to pick up NS2, when I saw that it supported Linux. I had to wait, until I got a better laptop to play the game and now it doesn't work anymore.   This kind of bait-and-switch tactic is frustrating to see. At least, now I know not to buy anything from this company in the future, since they have proven their incompetence.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game because it looked really cool, and am I dissapointed? NOT WHATSOEVER. It's a Space Marines VS. Aliens kind of game, but you can play as the aliens which is not seen very often. I recommend this game to anybody that likes Halo-style games, or wants something original! I give this game a 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good asymetric shooter about Space Marines Vs Aliens.  The graphics look a bit old but the game plays nicely.  As of 2016, the game still has players, it is not a huge playerbase but it does have enough players to get on and play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "just trying not to get blacklisted by lash",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Greatest Game of All Time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "best game ever 10/10 would recommend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IF YOU DONT HAVE THIS GAME! YOU ARE MISSING OUT!!!! NOT YOUR BORRING FPS!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Authentication.... Loading..... Timeout.  You shall not pass, motherf*cker!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Amazing game. The combination of RTS and FPS is interesting, engaging and original.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Already one of my favourite MP shooters, ever. Assymetrical balance at its finest. A very original mixture of shooter and RTS, depending on which role are you taking during each match. Why are you still reading this? Go get it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Came back after awhile to see that the devs are still supporting the game. Really happy about that and glad to see all the help for newer players. I heard the game was toxic from elitists but haven't really experienced any of that as yet. Game runs much better than I remember and is a very solid and unique experience from both sides.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is unique and amazing to play, the newest updates really brought it to life with great refinement. Too bad very few people still play it with very few servers, at least inside the acceptable ping for my region. It still is a great competitive team vs team game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're aware of what Natural Selection 1 was you should of already bought NS2.  If you're not it's got a learning curve, prepare to be mightly bad at first, marines versus aliens although sometimes your own team is going to be your worst enemy.  Small community but a wonderful game inside. The game has a 'hive score' system that works occasionally and when a game is balanced and the scales of defeat and victory swing back and forth you won't find a better FPS/team based/strategy/action/multiplayer game.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good blend of RTS and FPS elements, it feels like Aliens vs. Predator 2010 (The game, not the movies) and a good RTS like Command and Conquer (Also, screw you EA Games) had a baby and this was the result. The game can be buggy and the Skulk (alien that bites you and runs on walls/ceilings) has an issue where the camera still is facing towards the ground (Even when you're sideways) and hard to stay on walls without a decent transition from surfaces and a lack of 'Cling' to walls, but the biggest issue is the game is a hidden gem, as a multiplayer exclusive game. So finding matches with decent connections can be trying at times. However the game makes up for this with good squad combat, Alien agility, both factions playing completely differently including commanders or 'Queens'  A major thing to note is DO. NOT. Play. Commander or queens if you're just starting, they have a rediculously steep learning curve compaired to being on the ground. If you do want to be commander, ensure you have a mic. and your team knows you're new to it as you need to be able to hear a soldier say 'Drop extractor at hub' and know exactly where to go and what to do. Generally vets are happy to help new people out and will be a nice guide, giving you build ideas and such.   Overall it's worth a shot, and worst case scenario you can get your own server and play with a bunch of friends, although if you're like me and have no friends you're stuck on pubs, but always worth a shot. It's also got a fair ammount of mods to set the mood!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After clocking 1200 hours on this game, I can with confidence say it's the best multiplayer experience there is.  NS2 is your everyday online FPS shooter - but advanced in every single way imaginable. It's asymmetrical, it's progressive, it's RTS, it's the ultimate teamwork experience, it's the multiplayer FPS for the elite.  Shame that is also its downfall, it is too much of a niche, too hard, too complex. It will never be as popular as mainstream games, but it will always remain as my most memorable FPS experience.  - Cobra Commander",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game crashes and freezes ALOT",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A great FPS. A great RTS. I'm possessed, owned, charmed, amazed. Just after i've bought it i've played 17 hours almost without a stop. A learning curve is here, yeah, and after these 100+ hours i can't say that i'm a really nice player. This is a FPS where the brain needs to find ways to adapt, create new reflexes, struggle not to blow under skilled (and not very) players' pressure. This is a RTS where your units will thank You for good play and curse for slowness. This is the place where i get really excited this summer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "my alien was ♥♥♥♥ing all over the Place! very NICE! Borat ' NIIIIIICCCCEEEE! make sexxy TAME! '",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Legit one of the best games ever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why do I play this so much... It's taken over my life right now, tonnes of fun, but you need a decent computer to run it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "- Too many cheaters - Too expensive - System Requirements are a Joke. - No fun at all  It does not have much in common with earlier mods (Half Life 1). In addition, Tremulous also was way better.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Natural selection 2 is a MUST buy game. It is my absolute favorite, and in my opinion is worth the money. I recommend this game to a lot of people and think everyone should buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "one of the best games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is good because of lag but i still recommend it because i know other people has better computer than mines that does not cause lots of lag to decrease the lag is to lower the screen area(safe area) it does not fully solve it but will not solve the lag problem if your computer set is not good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game sucks, i would rather play the old mod for half life, even though i'm no good with this ♥♥♥♥ i admit.  &gt;get's in-game &gt;searches for servers (337 results at the time i'm posting this) &gt;1 in 20 servers has a small group of players playing it seems &gt;joins a random low ping server &gt;5 minutes in-game and some mic spamming ♥♥♥ goes rage mode and starts calling two of his team mates idiots (i was one of them), said 'WHY CAN'T MY TEAM (alien) DEFEND PROPERLY?' then goes on a rant about having 2 idiots on his team ruining the match (we still won, funny) &gt;my image got detiorated because the other guy had a ♥♥♥♥ score of 3 frags to 15 deaths, while i had mine, sort of balanced, with a bit more deaths than frags (6 to 9), as it was my first time playing (typical ♥♥♥♥ y'know)  Now i know there's idiots in every game's community, but i think i beat a record here, it only took me 5 minutes to see someone rant about 2 other people playing on the same server, on the same team. And most likely both of us were playing for the first time.  Tl;dr version  ♥♥♥♥ this game, it'll be dead by late 2014 and it's not worth the money Oh and did i mention that the sounds from old NS are still being used in this game? So original, it was the first thing i noticed in-game right after spawning.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like Starcraft with real people controlling the units.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS IS LIKE MY NEW HOUSE, I AM IN THERE ALL THE TIME, GET YOUR OWN NS2 HOUSE TODAY!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Onos = 'R.ape simulator 2014' - Marines Everywhere",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A bunch of stuff happens, then some things die and then there's some guy yelling at the mic. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Okay. Like the Alien Trilogy? Like actual teamwork. Want an actually friendly community? Like the sound of xenomorphic teeth ripping through space marine armor? Like feeling like like the STATE OF THE BADASS ART? GET THIS GAME.  Down to its core, NS2 is a game of teamwork. Two asymetrical teams fight to the death for the future of their species. This isn't an average FPS. Both teams, the human Frontiersman and the alien Kharaa, have radical differences in playstyle, but also some striking similarities. The largest similarity, is the presesne of a player acting as a commander for the team. Being a commander compared to being a soldier or a skulk on the front lines is radically different as well. You have to act as the coordinator of your team. You are responsible for keeping an eye on the map, and telling your teammates what needs to be done. NS2 is like an armsrace, where both teams compete to outdamage, outgrow, and eventually overwhelm the other. Playing as a marine, you experience an almost completely different game than as an alien. And because each and every game populated by soley players, no two games are alike. NS2 is not a 'spunk-gargle-weewee 360 noscope FPS'. NS2 is a game of tactics.  Natural Selection looks beautiful. The sci-fi maps, the Darwinism-on-steroids aesthetics of the Kharaa, the sounds, the effects... These all give NS2 this amazing and unique appearance. I have felt true fear when the aliens cut the lights and forced me to engage them in near pitch dark. I have felt the pride swell at being a part of a sucessful push into enemy territory. I have felt the joys of victory, the humility of defeat, and also respect for the enemy team when they manage to outmaneouver us.  The community of Natural Selection 2 is generally friendly and helpful. While there might be a few bad examples here and there, the players are consistantly nice. So long as you're not a caustic individual, you find the community to be one of the strongest aspects of this game.  Get this game. As a fan of the Alien series, this is the game I never recieved. As a fan of deeper games, NS2 has more depth than any probably any other online shooter out there. Thats why I recommend this game. Because this was the kind of game I was always looking for.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get and Play this game now! Nuff Said.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It was an alright RTS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great aliens vs humans game, although I recommend first time players taking sometime to watch some tutorial videos from youtube to get a feel of the game. This game is not for people who just wanna jump onto a server and go guns blazing, it takes time to master both the marines and aliens teams, especially if you like to play as the commander.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Natural Selection 2 is so far my best experience concerning multiplayer games. Basically it combines strategy and ego shooter in one exiting game. In average a game lasts between 5 and 60 min and especially good teamplay is required. After about 300 hours of fun, I really recommend this game to all gamers looking for a top class ground-breaking and fun teamplay-RTS-Shooter. Finally I want to point out the great philosophy of the independent developer/community unknown worlds entertainment. I mean 20 bugs and frequent updates for free and everyone? Awesome.  So ... have fun.  Greetings and always remember: rage-quitting is a crime! ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best online fps evolution strategy this year",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun for both sides, love this game its my #1 fav needs work on the sandbox mode though the screen turns up black and the mods say 0% im using beta",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like the idea greatly but due to certain factors I can't recomend the game.  The overall arcing idea behind the game is great. But it falls short for me on a few places. The need for a good team and commander is often a common one. With many games ending as soon as they begin with the shout of GG, This creates what I call a perfect storm game where you often waiting for all the right players and elements to fall into place to just have some fun.  Another factor which might just be me personally but I do not find the combat enjoyable at all. Aliens and Marines feel like they have no weight to them. Which fights look more like bunny hopping matches with bullets and teeth flying around the place with players hoping to land the hit.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Many fun. Such badass. wow",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game is so ♥♥♥♥ing horrible its not even funny DO NOT BUY IT",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After playing this game the first time, I literally said 'F this game.' I constantly got destroyed repeatedly, aliens were literally the hardest thing to get a kill in (outside getting a Onos) and I just didn't understand the game.  After my 'Second' tour of duty, I gave the game more than a 2 hour shot. Looking back on that 2nd shot, I'm happy I did. Once getting past the STEEP learning curve, I was able to hang with pack. No longer getting destroyed everytime I encountered anyone or anything and was able to really appreciate what this game is... RTS mixed with FPS.  It's really a great an idea, you live and die with your commander or hive leader. If you don't listen to their orders, you lose. If you do... you have a fighting chance depending on his skill level. This game requires you to work together otherwise you get dominated by groups. Remember that, cause if you don't... you'll soon learn. With that aspect brought up, I've really felt a sense of accomplishment when we slowly started pushing across the map and constant yelling over the coms to get to the 'Computer Lab, we're under attack there'. Once you arrive in the computer lab, you'll know what this game is about. Cluster F*** of Aliens and Marines just trying to 'win' that one spot for your team. If you win it, you have a sense of 'We did it' but that sense slowly drifts away once the enemy re-directs it attention else where.   You'll have choices to go help that next area or punch them where it hurts and push forward. Sometimes your commander will make the call, other times you have to know whats best for the team. With that being said, I give this game a 8/10 and a recommend buy if at a discounted price. ($25 dollars is a pretty steep cost for the amount of learning curve you have to deal with).",
+            "review_score": "1"
+        }
+    ]
+}

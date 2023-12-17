@@ -1,0 +1,50 @@
+{
+    "app_id": 448520,
+    "name": "Deranged Rabbits",
+    "release_date": "2016-07-29",
+    "developer": [
+        "Mikko Nykyri"
+    ],
+    "publisher": [
+        "Grove Comp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 32,
+    "positive_ratings": 35,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Deranged Rabbits is a fast-paced platformer game. You are Fluffy the Bunny, and the goal of the game is simple: get the carrot in each level! Do it fast enough, and earn a cabbage to unlock extras. Play alone or with up to three other bunnies. Are you bunny enough?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448520/header.jpg?t=1475919394",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Processor: ~ 1,8 GHz Memory: 512 MB RAM Graphics: 128 MB Graphics memory Storage: 50 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8 or 10 Processor: Intel Core 2 Duo Memory: 1 GB RAM Graphics: Intel HD 3000 Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "how can i play it co-op with a friend not at the same computer MULTIPLAYER CO OP",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 496250,
+    "name": "Paddle Up",
+    "release_date": "2016-08-24",
+    "developer": [
+        "Pavel Jamal"
+    ],
+    "publisher": [
+        "Pavel Jamal"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 202,
+    "negative_ratings": 27,
+    "price": 6.99,
+    "description": "Paddle up with online multiplayer, robots, complete challenges or train your table tennis skills. This is the ultimate ping pong experience for VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496250/header.jpg?t=1473860523",
+    "minimum_requirements": "OS: Windows 8 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 2 GB available space Additional Notes: HTC Vive",
+    "recommended_requirements": null,
+    "reviews": []
+}

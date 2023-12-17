@@ -1,0 +1,40 @@
+{
+    "app_id": 798200,
+    "name": "Tomb Exploration VR",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Epotech"
+    ],
+    "publisher": [
+        "Epotech"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 9,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "An archaeologist has been evolved in a series of unexpected events during a casual dig.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/798200/header.jpg?t=1523840895",
+    "minimum_requirements": "OS: 64bit Windows 7, Windows 8.1 ,Windows 10 Processor: Intel Core i3-2100 / AMD® FX-6300 Memory: 4 GB RAM Graphics: NVIDIA® GeForce GTX 970 4GB DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX 11 sound device Additional Notes: Internet connection required for achievements",
+    "recommended_requirements": "OS: 64bit Windows 7, Windows 8.1 ,Windows 10 Processor: Intel Core i7-3770 / AMD® FX-8350 Memory: 8 GB RAM Graphics: NVIDIA® GeForce GTX 1070 6GB DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX 11 sound device Additional Notes: Internet connection required for achievements",
+    "reviews": []
+}

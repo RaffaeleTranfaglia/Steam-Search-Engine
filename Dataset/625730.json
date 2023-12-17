@@ -1,0 +1,40 @@
+{
+    "app_id": 625730,
+    "name": "Cefore",
+    "release_date": "2018-11-09",
+    "developer": [
+        "Pixelz Games"
+    ],
+    "publisher": [
+        "Crytivo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Puzzle",
+        "Indie",
+        "Sandbox"
+    ],
+    "achievements": 12,
+    "positive_ratings": 36,
+    "negative_ratings": 5,
+    "price": 7.09,
+    "description": "CEFORE is a physics-based puzzler in an abstract simplistic art style in which you get contracted to bring down different structures in the most creative ways possible. Try not to cause too much destruction, of course.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/625730/header.jpg?t=1541771987",
+    "minimum_requirements": "OS: Win 7 Processor: Quad Core Memory: 2 GB RAM Graphics: Nvidia Geforce GTX 770 DirectX: Version 11 Storage: 1 GB available space Sound Card: Yes",
+    "recommended_requirements": "OS: Win10 Processor: Eight Core Memory: 4 GB RAM Graphics: Nvidia geforce GTX 960 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: Yes",
+    "reviews": []
+}

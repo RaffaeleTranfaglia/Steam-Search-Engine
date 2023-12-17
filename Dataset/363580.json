@@ -1,0 +1,44 @@
+{
+    "app_id": 363580,
+    "name": "PING 1.5+™",
+    "release_date": "2015-08-13",
+    "developer": [
+        "NAMI TENTOU"
+    ],
+    "publisher": [
+        "NAMI TENTOU"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 29,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "PING 1.5+™ is a new arcade style puzzle game with the objective of shooting the cube through over 100 stages to reach the orange.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/363580/header.jpg?t=1487159915",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0 GHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 8600 GT Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Very fun retro Pong/Breakout-style game. Highly recommended :)",
+            "review_score": "1"
+        }
+    ]
+}

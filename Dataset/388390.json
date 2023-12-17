@@ -1,0 +1,54 @@
+{
+    "app_id": 388390,
+    "name": "\"Glow Ball\" - The billiard puzzle game",
+    "release_date": "2015-07-20",
+    "developer": [
+        "WTFOMGames"
+    ],
+    "publisher": [
+        "WTFOMGames"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 93,
+    "price": 2.89,
+    "description": "Physics based puzzle game type of billiards. If you like billiard games or love pool then this game is for you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/388390/header.jpg?t=1492053170",
+    "minimum_requirements": "最低配置: 操作系统: Windows XP, 7, 8, 8.1 (32 and 64bit) 处理器: SSE2 instruction set support (Pentium 4, Intel Atom, Athlon XP or highter) 2Ghz 内存: 1 GB RAM 图形: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work. DirectX 版本: 9.0c 存储空间: 需要 200 MB 可用空间 声卡: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Pool with puzzle elements, seems like a nice combination, right? Well, I guess the idea could be nice if it was well executed, which 'Glow Ball' sadly does not.  I do not have any problem with games that do not have superb graphics but Glow Ball's graphics are amazingly ugly in a way I find it amazing people are able to create these kind of graphics in 2014. Especially the main screen looks atrocious and almost funny.  The gameplay could have been interesting. Like in regular pool you will have to shoot your balls in the holes, the only difference here is you will have to avoid fire traps, canyons and other contraptions. The only problem with this is that the physics are nothing like real Pool, which is ofcourse one of the most important things that should be right in a game like this. Then there's the power bar of the cue which is very slow and does not make much of a difference.  Overall this is game is a horrible mess that could have been OK if it was better optimised.   ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "10 mins and I was done. not that it matters, but the menu graphic is ridiculously bad and can give you a headache if you stare too long, cannot change controls either but at least they incorporated the arrows (im left handed so wasd is useless to me).  As far as the game play goes, good idea, done poorly. I'm not much into puzzles or billard games, I got this from a bundle. I do not like that the level resets if you go negative, which can very easily happen in your first shot. I will not be playing any more of this until they make some much needed changes, and for the love of all that is master race, fix up the menu, its extremely unattractive.  edit: just noticed it says partial controller support but this is false, there is no controller support. I am using a 360 receiver with a wireless controller.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "good for killing a nanosecond, otherwise ♥♥♥♥",
+            "review_score": "-1"
+        }
+    ]
+}

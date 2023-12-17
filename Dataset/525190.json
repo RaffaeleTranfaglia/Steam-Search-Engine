@@ -1,0 +1,49 @@
+{
+    "app_id": 525190,
+    "name": "The Construct",
+    "release_date": "2016-09-12",
+    "developer": [
+        "Cannibal Panda Studios"
+    ],
+    "publisher": [
+        "Cannibal Panda Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 21,
+    "negative_ratings": 28,
+    "price": 1.99,
+    "description": "“The Construct” is a classical top-down view adventure indie game. The gameplay mixes retro-like gameplay mechanics with modern features and a spectacular atmosphere and mysterious storyline.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525190/header.jpg?t=1488537982",
+    "minimum_requirements": "OS: Windows XP SP2+, Windows 7, 8, 10 Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "  The controls are sluggish, there is no real turn control, running into walls in tiny halls the size of your ship and getting stuck, instant death beams coupled with bad turning and purple dild- missiles shooting you, plus so dark you can't see anything.  This was the first five minutes into the game. The rest of the time was me spent wondering how this was greenlighted, why it was greenlighted, why someone paid money to send me a bad joke, and who is in charge of quality control.  And then I realized, this game was greenlit. This game was approved by the community and I am playing the result of tireless efforts by someone with a non-commercial copy of Unity for a project that was finished probably in three days.  Do I recommend this game? Yes. I recommend this game to anyone who is looking to become and indie developer in order to show them how to not make a game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Received this product from a friend as a surprise gift. I wish I could recommend this game but as with other reviewers I will agree that the controls aren't very good. The setting, scenario, and mood were all great for what I played of it (not much), but I couldn't keep going because the controls are unresponsive to turning and you'll randomly keep floating in a direction by minute amounts after you should have stopped. In tight spaces that means you die, and that's annoying when you have to redo a bunch of other timing segments from the last checkpoint.  This isn't dark souls difficulty, where mistakes are your fault and can be correct. This is 'core design has flaws' difficulty, and it's just not fun.",
+            "review_score": "-1"
+        }
+    ]
+}

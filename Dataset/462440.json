@@ -1,0 +1,48 @@
+{
+    "app_id": 462440,
+    "name": "ROKH",
+    "release_date": "2017-05-16",
+    "developer": [
+        "Nvizzio Creations"
+    ],
+    "publisher": [
+        "Darewise Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Sandbox"
+    ],
+    "achievements": 7,
+    "positive_ratings": 174,
+    "negative_ratings": 234,
+    "price": 15.49,
+    "description": "Have you got what it takes to survive on Mars? ROKH is a multiplayer survival game featuring scientific realism and extremely deep crafting and building. Make the red planet your sandbox and create a thriving colony.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462440/header.jpg?t=1507827951",
+    "minimum_requirements": "OS: 64-Bit Windows 7 Service Pack 1, or Windows 8  or Windows 10 Processor: Intel i7 2.8 GHz or AMD equivalent Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 560i (Medium settings) DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space Additional Notes: An SSD is highly recommended for local server hosting",
+    "recommended_requirements": "OS: 64-Bit Windows 7 Service Pack 1, or Windows 8  or Windows 10 Processor: Intel i7 3.4 GHz or AMD equivalent Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 960 (Ultra settings) DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space Additional Notes: An SSD is highly recommended for local server hosting",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 939260,
+    "name": "NeoCandy",
+    "release_date": "2018-10-03",
+    "developer": [
+        "hallunazigames"
+    ],
+    "publisher": [
+        "hallunazigames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 6,
+    "negative_ratings": 12,
+    "price": 3.19,
+    "description": "NeoCandy - this is rogue like action shooter in Pixel style.Make your way through the mazes. Destroy enemies. Choose ammunition and survive. First aid kits will allow you to have more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/939260/header.jpg?t=1538589746",
+    "minimum_requirements": "OS: Windows 7 or newer: 32bit / 64bit Processor: Core 2 Duo or higher Memory: 2 GB RAM Graphics: DirectX11 Compatible GPU with 512 MB Video RAM Storage: 350 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 4 Duo or higher Memory: 4 GB RAM Graphics: DirectX11 Compatible GPU with 1 GB Video RAM Storage: 350 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

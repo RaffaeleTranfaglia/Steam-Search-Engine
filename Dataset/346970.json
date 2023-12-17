@@ -1,0 +1,45 @@
+{
+    "app_id": 346970,
+    "name": "OBEY",
+    "release_date": "2015-05-21",
+    "developer": [
+        "Dez"
+    ],
+    "publisher": [
+        "The Lo-Fi Apocalypse, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 263,
+    "negative_ratings": 38,
+    "price": 10.99,
+    "description": "OBEY is an asymmetrical multiplayer game. We've all played games where you send commands to teammates or AI units. OBEY instead puts you in the position to command your enemies (human opponents), and to be commanded by them. Players are always free to obey/disobey.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346970/header.jpg?t=1531187978",
+    "minimum_requirements": "OS: XP Processor: Dual Core processor Memory: 1500 MB RAM Graphics: 128MB GeForce 8400 / Radeon HD 4000 series or equivalent Network: Broadband Internet connection Storage: 300 MB available space Additional Notes: OBEY runs at ~30fps on the Surface Pro 3 on 'Normal' settings @ 1280 x 800px. OBEY is playable offline via LAN.",
+    "recommended_requirements": "Processor: Quad Core Processor Memory: 8 GB RAM Graphics: GeForce GTX 600 series / AMD Radeon HD 7000 series or better Network: Broadband Internet connection Storage: 1 GB available space Additional Notes: Microphone headset is HIGHLY recommended.",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 371650,
+    "name": "COLINA: Legacy",
+    "release_date": "2018-09-13",
+    "developer": [
+        "Chance6 Studios, LLC"
+    ],
+    "publisher": [
+        "Chance6 Studios, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Psychological Horror",
+        "Survival Horror"
+    ],
+    "achievements": 19,
+    "positive_ratings": 71,
+    "negative_ratings": 12,
+    "price": 7.19,
+    "description": "Alex wakes up in his grandmother's home. Alone and unsure of where everyone has gone, he begins escape, the feeling of someone… or something watching him lingering on his mind. Facing the unknown, Alex must make it through the night, and the house, before he loses more than just his mind.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371650/header.jpg?t=1549043130",
+    "minimum_requirements": "OS: Windowns 7 or higher Processor: Intel Inside Core i3 or AMD equivalent Memory: 4 GB RAM Graphics: DirectX 11 capable GPU with 2GB VRAM (nVidia GeForce GTX 750ti or AMD equivalent) DirectX: Version 11 Storage: 13 GB available space",
+    "recommended_requirements": "OS: Windowns 7 or higher Processor: Intel Inside Core i5 or AMD equivalent Memory: 6 GB RAM Graphics: nVidia GeForce GTX 970 or AMD equivalent DirectX: Version 11 Storage: 13 GB available space",
+    "reviews": []
+}

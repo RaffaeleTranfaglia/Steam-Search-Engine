@@ -1,0 +1,43 @@
+{
+    "app_id": 828250,
+    "name": "Stargazer program",
+    "release_date": "2018-05-23",
+    "developer": [
+        "Bear Gears Studio"
+    ],
+    "publisher": [
+        "Bear Gears Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Arcade"
+    ],
+    "achievements": 26,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "Dueling pvp, shoot em up. Face your opponents head on, trade bullets and blast them across the universe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/828250/header.jpg?t=1527113772",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8 Ghz or higher Memory: 2 GB RAM Graphics: AMD Radeon™ HD 6450 or higher DirectX: Version 10 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: 2.4 Ghz Memory: 4 GB RAM Graphics: AMD Radeon™ HD 6450 or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 576380,
+    "name": "Adventures of Abrix",
+    "release_date": "2017-03-17",
+    "developer": [
+        "EJRGames"
+    ],
+    "publisher": [
+        "EJRGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Play sequel of &quot;Abrix the robot&quot; game - new adventures of Abrix. Now with longer levels where several rooms are connected into one long maze. Thanks to this, it reminds the old retro games from the 80s and 90s.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/576380/header.jpg?t=1538167152",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX9 compatible DirectX: Version 9.0 Storage: 500 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

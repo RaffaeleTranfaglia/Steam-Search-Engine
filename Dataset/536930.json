@@ -1,0 +1,42 @@
+{
+    "app_id": 536930,
+    "name": "MOBIUS FINAL FANTASY™",
+    "release_date": "2017-02-05",
+    "developer": [
+        "Square Enix"
+    ],
+    "publisher": [
+        "Square Enix"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Free to Play",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "RPG",
+        "Fantasy"
+    ],
+    "achievements": 35,
+    "positive_ratings": 2456,
+    "negative_ratings": 1082,
+    "price": 0.0,
+    "description": "A team of veteran developers of the FINAL FANTASY franchise, headed by venerated producer Yoshinori Kitase, brings you MOBIUS FINAL FANTASY, a mobile RPG of unprecedented quality. The PC version comes 4K visuals and 60 FPS gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/536930/header.jpg?t=1554259280",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64 bit) Processor: Intel / AMD Dual-Core 1.6 GHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 8800 GT series or GeForce GT 240 series or higher / ATI Radeon HD 4770 512MB series or higher DirectX: Version 9.0c Network: Broadband Internet connection Storage: 10 GB available space Sound Card: DirectSound®-compatible (DirectX®9.0c or higher) Additional Notes: * OpenGL: 2.0 or higher * iOS / Android / Steam save data sharing feature available * Touchscreen input devices currently not supported",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 (64 bit only) Processor: Intel Core 2 Quad 2.66GHz or higher / Core i5 2.4GHz or higher Memory: 3 GB RAM Graphics: NVIDIA GeForce GTX 460 series or GeForce GTX 750 series or higher / ATI Radeon HD 5770 512MB series or higher DirectX: Version 9.0c Network: Broadband Internet connection Storage: 10 GB available space Sound Card: DirectSound®-compatible (DirectX®9.0c or higher)",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 620190,
+    "name": "Gunsmith",
+    "release_date": "2018-05-25",
+    "developer": [
+        "Seacorp Technologies"
+    ],
+    "publisher": [
+        "Seacorp Technologies "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 16,
+    "positive_ratings": 260,
+    "negative_ratings": 72,
+    "price": 14.99,
+    "description": "Build up your own arms manufacturing company. Find your factory, buy your resources, produce a wide range of military equipment to sell to the highest bidder. Good or bad? That's up to you, who you do business with is your choice. Don't ask, don't tell, get paid. After all, war is about making money.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/620190/header.jpg?t=1552518512",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 64-bit Windows 7, Windows 8.1, Windows 10 Processor: Intel Core i3-4340 / AMD FX-6300 Memory: 6 GB RAM GB RAM Graphics: nVidia GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

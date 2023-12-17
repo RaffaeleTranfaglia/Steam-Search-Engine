@@ -1,0 +1,44 @@
+{
+    "app_id": 792500,
+    "name": "Streets Ablaze",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Leyline Studios"
+    ],
+    "publisher": [
+        "Leyline Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Streets Ablaze is a 3D side-scrolling beat em' up inspired by the arcade and console games we played growing up.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/792500/header.jpg?t=1556040065",
+    "minimum_requirements": "OS: Windows Processor: 3.0Ghz Memory: 4 GB RAM Graphics: GTX 960 DirectX: Version 10 Storage: 7 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

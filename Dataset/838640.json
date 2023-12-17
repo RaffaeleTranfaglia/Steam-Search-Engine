@@ -1,0 +1,44 @@
+{
+    "app_id": 838640,
+    "name": "My Super Tower 3",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Mortis Games"
+    ],
+    "publisher": [
+        "Rock Path Collective"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 16,
+    "positive_ratings": 9,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "My Super Tower III is a classic Tower Defense strategy game with a nice bright Low Poly graphics and classic casual gameplay &amp; medieval thematic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/838640/header.jpg?t=1549098472",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 Processor: 1.2GHz or faster processor Memory: 512 MB RAM Graphics: Video card must be 128 MB or more and with support for Pixel Shader 5.0 DirectX: Version 11 Storage: 2 GB available space Additional Notes: Keyboard, mouse",
+    "recommended_requirements": null,
+    "reviews": []
+}

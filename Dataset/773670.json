@@ -1,0 +1,39 @@
+{
+    "app_id": 773670,
+    "name": "Delete",
+    "release_date": "2018-01-25",
+    "developer": [
+        "Pony"
+    ],
+    "publisher": [
+        "Pony"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 8,
+    "positive_ratings": 390,
+    "negative_ratings": 11,
+    "price": 1.69,
+    "description": "Let the number tell you what to do",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/773670/header.jpg?t=1549974375",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Dual Core Memory: 1 GB RAM Graphics: Intel HD4000 Storage: 200 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

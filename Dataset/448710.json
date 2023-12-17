@@ -1,0 +1,47 @@
+{
+    "app_id": 448710,
+    "name": "VirZOOM Arcade",
+    "release_date": "2016-06-30",
+    "developer": [
+        "VirZOOM"
+    ],
+    "publisher": [
+        "VirZOOM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "VR Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 21,
+    "positive_ratings": 20,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "VirZOOM Arcade is a collection of virtual reality sports for the VirZOOM bike controller. Your pedaling and leaning propel you through race tracks, battle grounds, and soaring skies. Play online live or against ghost players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448710/header.jpg?t=1524845862",
+    "minimum_requirements": "Processor: Intel i5-4590 Memory: 8 GB RAM Graphics: NVIDIA GTX 970  or AMD 290 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Really interesting, fun mini games",
+            "review_score": "1"
+        }
+    ]
+}

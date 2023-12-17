@@ -1,0 +1,40 @@
+{
+    "app_id": 421620,
+    "name": "Dissonance: An Interactive Novelette",
+    "release_date": "2015-12-01",
+    "developer": [
+        "Philip Royer"
+    ],
+    "publisher": [
+        "Philip Royer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Story Rich",
+        "Short"
+    ],
+    "achievements": 6,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Dissonance follows the story of Bartholomew Brittle (a movie theater projectionist) and Clementine Cleu (an inquisitive theater patron) in a thought provoking discussion of the meaning of life.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/421620/header.jpg?t=1448978941",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 ghz Dual Core Memory: 2 GB RAM Graphics: Intel HD3000 or higher with OpenGL 2.1 support Storage: 200 MB available space Additional Notes: ARM processor is currently not supported",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5, i7 Memory: 4 GB RAM Graphics: Intel HD3000 or higher with OpenGL 2.1 support Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 879290,
+    "name": "MultiTaskMaster",
+    "release_date": "2018-08-16",
+    "developer": [
+        "WyvernWare"
+    ],
+    "publisher": [
+        "WyvernWare"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 100,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "MultiTaskMaster is a brain melting arcade game in which you juggle four games at once. Become the MultiTaskMaster by completing 48 different games in 12 different locations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/879290/header.jpg?t=1537536609",
+    "minimum_requirements": "OS: Windows Vista SP1+ Processor: SSE2 instruction set support Memory: 500 MB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities. DirectX: Version 10 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

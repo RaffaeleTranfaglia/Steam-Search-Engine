@@ -1,0 +1,44 @@
+{
+    "app_id": 305620,
+    "name": "The Long Dark",
+    "release_date": "2017-08-01",
+    "developer": [
+        "Hinterland Studio Inc."
+    ],
+    "publisher": [
+        "Hinterland Studio Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Survival",
+        "Open World",
+        "Exploration"
+    ],
+    "achievements": 40,
+    "positive_ratings": 45856,
+    "negative_ratings": 4298,
+    "price": 23.79,
+    "description": "The Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster. Welcome to the Quiet Apocalypse.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/305620/header.jpg?t=1552698238",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-Core Intel i5 CPU @ 2GHz+ Memory: 4 GB RAM Graphics: Intel 4xxx Series w/ 512MB VRAM or better Storage: 7 GB available space Sound Card: Any on-board chip will work.",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 CPU @ 2.6GHz or higher Memory: 8 GB RAM Graphics: nVidia GTX 555 w/ 1GB VRAM or better Storage: 7 GB available space Sound Card: Ideally, something with Surround capabilities.",
+    "reviews": []
+}

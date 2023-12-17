@@ -1,0 +1,40 @@
+{
+    "app_id": 32200,
+    "name": "Metal Drift",
+    "release_date": "2009-10-22",
+    "developer": [
+        "Black Jacket Studios"
+    ],
+    "publisher": [
+        "Black Jacket Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 28,
+    "positive_ratings": 81,
+    "negative_ratings": 45,
+    "price": 6.99,
+    "description": "Metal Drift is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena. Core game play centers on intense tank-on-tank multiplayer team combat seen through an immersive, first person cockpit.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/32200/header.jpg?t=1447352565",
+    "minimum_requirements": "OS: WindowsProcessor: 1.8 GHzMemory: 1 GBGraphics: DirectX 9 128MB Video RamDirectX&reg;: 9.0cHard Drive: 250 MBSound: DirectX 9 Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,54 @@
+{
+    "app_id": 348730,
+    "name": "Abyss Raiders: Uncharted",
+    "release_date": "2015-04-30",
+    "developer": [
+        "DarkStar Games"
+    ],
+    "publisher": [
+        "DarkStar Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 20,
+    "positive_ratings": 52,
+    "negative_ratings": 73,
+    "price": 3.99,
+    "description": "Abyss Raiders: Uncharted is an action tower defence game, set in a future where robots are the dominant species in the universe. You will need to survive waves of fierce enemies whilst searching for the ancient ruins that have the power to prevent the second apocalypse.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/348730/header.jpg?t=1447368769",
+    "minimum_requirements": "OS: Windows Vista/Windows 7/Windows 8 Processor: AMD/INTEL Dual-Core 2.4 GHz Memory: 3 GB RAM Graphics: 1024 MB DirectX 9.0c compatible AMD Radeon HD 5850/NVIDIA GeForce GTX 460 or higher DirectX: Version 11 Storage: 4 GB available space Sound Card: DirectX 9 compatible",
+    "recommended_requirements": "OS: Windows Vista/Windows 7/Windows 8 Processor: Intel Core i5-2500K  or AMD FX-8350 Memory: 4 GB RAM Graphics: 2048 MB DirectX 9.0c compatible AMD Radeon R9 270/NVIDIA GeForce GTX 670 or higher DirectX: Version 11 Storage: 4 GB available space Sound Card: DirectX 9 compatible",
+    "reviews": [
+        {
+            "review_text": "This game is now way better than when it was on beta test.  It's a tower-defence game that you can build towers, roam around ,kill mobs and collecting loot to survive. I love the concept of the game. The graphic is making progress on improvement right now, looks good,  Hope the game will runs more smoothly in the following patches.(Can be just because I'm using laptop though...)   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good idea, but poorly executed. Instead of having a static base, you are movable and have to stop the train of monsters. The problem with that is you can't get to the Relic resources some of the time, because your towers are not powerful enough, or your gun can't keep up with the waves without the towers - so the more you progress the slower you progress until you are either a) stuck or b) pushed back. With no options to upgrade you towers/guns/weapons/shields/traps while playing (you can only do the BEFORE the mission), it pretty much ruins the game. If they added a pause or slow down mechanic where you could open the store for upgrades then this would be a beast of a game. As it is, it begins to disappoint around level 4. It's fun to play so it gets a positive rating, but it still needs a bit of work. 5/10 Dragons.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Could Be a great game BUT:  - There is little to no tutorial - The Hit box is strange - It has a weird glitchy lag when moving - There is no In-game menu  At the current state im giving it a 3/10, Since it DOES have potential",
+            "review_score": "-1"
+        }
+    ]
+}

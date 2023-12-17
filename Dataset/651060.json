@@ -1,0 +1,43 @@
+{
+    "app_id": 651060,
+    "name": "Puppies vs Undead",
+    "release_date": "2018-02-28",
+    "developer": [
+        "SnagBox Studio"
+    ],
+    "publisher": [
+        "Atriagames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 15,
+    "positive_ratings": 12,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "Puppies vs Undead - an exciting Tower Defense board game. Plunge into the world of magic and wizardry, where all the toys come to life!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/651060/header.jpg?t=1529840819",
+    "minimum_requirements": "OS: Windows 7 SP1 or greater Processor: Intel® i3-7100, AMD FX 6350 equivalent or better Memory: 1 GB RAM Graphics: NVIDIA GeForce® GTX 550, AMD Radeon™ HD 6800 equivalent or better DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 or greater Processor: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 2 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 9.0 Storage: 1 GB available space",
+    "reviews": []
+}

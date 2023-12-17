@@ -1,0 +1,41 @@
+{
+    "app_id": 658780,
+    "name": "Bomb Chicken",
+    "release_date": "2019-04-16",
+    "developer": [
+        "Nitrome"
+    ],
+    "publisher": [
+        "Nitrome"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 29,
+    "negative_ratings": 1,
+    "price": 11.99,
+    "description": "After a freak accident, a seemingly ordinary chicken becomes a bomb laying free range hero. Explore the versatile mechanic of laying bombs in this explosive exploration platformer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658780/header.jpg?t=1555405733",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 256 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 230760,
+    "name": "DIVO",
+    "release_date": "2013-02-01",
+    "developer": [
+        "Internal Games"
+    ],
+    "publisher": [
+        "Internal Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 14,
+    "price": 3.99,
+    "description": "DIVO - This is an unusual, bright and dynamic arcade game, where you control a hamster in a cyber wheel! Our hero must, within a limited time, reach the finishing point of the level while simultaneously avoiding collisions with enemies and collecting all sorts of bonuses, to successfully complete each level!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/230760/header.jpg?t=1447742305",
+    "minimum_requirements": "OS: Windows XP Processor: AMD or Intel 1.2 Ghz          Memory: 256 MB Graphics: Geforce 9400 or Radeon 2600 with 256 MB DirectX®: DirectX® 9.0c Hard Drive: 120MB space free Sound: DirectX-compatible sound",
+    "recommended_requirements": "OS: Windows 7 Processor: AMD or Intel Dual Core with 2.0Ghz          Memory: 1024 MB Graphics: Geforce 9800GT or Radeon 5750 with 512 MB DirectX®: DirectX® 9.0c Hard Drive: 120MB space free Sound: DirectX-compatible sound        Other Requirements: If 3D Anaglyph activated, the requirements for the graphics card to increase twice.",
+    "reviews": [
+        {
+            "review_text": "Terrible... terrible. Probably untested level design. My son played it for a half hour and couldn't make it past the 3rd or 4th jump. As a comparison he is able to beat most levels on 'New Super Mario Bros Wii' if given a reasonable amount of time.  The gamepad support was terrible! To jump required moving the left joystick down. Down? It's weird enough that you have to use the joystick to jump instead of a button.... but how is pressing down an intuitive way to jump? The ability to switch to magnet mode wasn't even bound to a gamepad button at all.  Last but not least, the annoying music and sound effects are louder than your average game, so you'll have to adjust the sound in order to feel comfortable with the volume.  So... don't buy this... I'd almost say it's ok to get if it's free (because some people love anthropomorphized animals), but no guarantees.",
+            "review_score": "-1"
+        }
+    ]
+}

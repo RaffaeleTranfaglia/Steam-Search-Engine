@@ -1,0 +1,38 @@
+{
+    "app_id": 1003490,
+    "name": "cat notebook",
+    "release_date": "2019-02-01",
+    "developer": [
+        "nair"
+    ],
+    "publisher": [
+        "the curator"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Abstract",
+        "Exploration"
+    ],
+    "achievements": 0,
+    "positive_ratings": 18,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "explore a cat notebook",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1003490/header.jpg?t=1549069216",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: Intel i3 or greater Memory: 2 GB RAM Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

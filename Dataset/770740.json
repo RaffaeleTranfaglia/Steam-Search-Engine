@@ -1,0 +1,38 @@
+{
+    "app_id": 770740,
+    "name": "Tap & Clapp",
+    "release_date": "2018-06-29",
+    "developer": [
+        "hallunazigames"
+    ],
+    "publisher": [
+        "hallunazigames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Physics puzzle with 80 levels and game editor",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770740/header.jpg?t=1530283535",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 2 Duo or higher Memory: 2 MB RAM Graphics: DirectX11 Compatible GPU with 512 MB Video RAM DirectX: Version 11 Storage: 200 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Core 4 Duo or higher Graphics: DirectX11 Compatible GPU with 1 GB Video RAM Storage: 350 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

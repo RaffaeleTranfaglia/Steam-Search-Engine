@@ -1,0 +1,39 @@
+{
+    "app_id": 717820,
+    "name": "Boom Island",
+    "release_date": "2017-10-16",
+    "developer": [
+        "Caden Goodwin"
+    ],
+    "publisher": [
+        "csgood"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "FPS"
+    ],
+    "achievements": 1,
+    "positive_ratings": 17,
+    "negative_ratings": 10,
+    "price": 0.79,
+    "description": "Imagine being stranded on an island in the early 1900's, being a only survivor in a experimental plane crash. However, the island you crashed on is not a normal island, its Boom Island! Engage yourself in this arcade style first person shooter, where the main objective is to shoot explosive balls while surviving.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/717820/header.jpg?t=1520207689",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 CPU Memory: 4 GB RAM Graphics: 3D graphics card compatible with DirectX DirectX: Version 9.0 Storage: 800 MB available space Sound Card: Any DirectX Compatible Sound Card",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 CPU Memory: 8 GB RAM Graphics: NVIDIA Geforce 920M DirectX: Version 11 Storage: 1 GB available space Sound Card: Any DirectX Compatible Sound Card",
+    "reviews": []
+}

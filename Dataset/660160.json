@@ -1,0 +1,39 @@
+{
+    "app_id": 660160,
+    "name": "Field of Glory II",
+    "release_date": "2017-10-12",
+    "developer": [
+        "Byzantine Games"
+    ],
+    "publisher": [
+        "Slitherine Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 238,
+    "negative_ratings": 26,
+    "price": 23.79,
+    "description": "Field of Glory II is a turn-based tactical game set during the Rise of Rome from 280 BC to 25 BC.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/660160/header.jpg?t=1538054436",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: 2.0GHz or higher Memory: 4 GB RAM Graphics: 1 GB DirectX 9 Compatible Graphics Card DirectX: Version 9.0c Storage: 1541 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

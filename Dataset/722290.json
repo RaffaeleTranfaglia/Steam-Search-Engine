@@ -1,0 +1,44 @@
+{
+    "app_id": 722290,
+    "name": "HikeJam",
+    "release_date": "2018-10-01",
+    "developer": [
+        "Hey Mum Jam No Marmalade"
+    ],
+    "publisher": [
+        "Hey Mum Jam No Marmalade"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 23,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "HikeJam is a survival side-scroller. Go on a challenging journey and endure the harsh trail conditions in single or multiplayer. It's now your turn to rank up and become a thru-hiker.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/722290/header.jpg?t=1546542330",
+    "minimum_requirements": "Минимальные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7 Процессор: Intel i5 or equivalent (Dual Core with Hyper-Threading) Оперативная память: 4 GB ОЗУ Видеокарта: ATI or Nvidia graphics card with more than 1 GB RAM DirectX: Версии 10 Сеть: Широкополосное подключение к интернету Место на диске: 1 GB",
+    "recommended_requirements": "Рекомендованные: Требуются 64-разрядные процессор и операционная система",
+    "reviews": []
+}

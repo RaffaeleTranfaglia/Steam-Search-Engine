@@ -1,0 +1,38 @@
+{
+    "app_id": 541160,
+    "name": "MC Lars: The Video Game",
+    "release_date": "2016-10-14",
+    "developer": [
+        "Synersteel Studio, LLC"
+    ],
+    "publisher": [
+        "Synersteel Studio, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Jump, fight, and fly your way through a dozen songs from MC Lars’ discography!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/541160/header.jpg?t=1476497083",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz) Memory: 1 GB RAM Graphics: DirectX 9.0c Compatible DirectX: Version 9.0c Storage: 200 MB available space Sound Card: DirectX 9.0c Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

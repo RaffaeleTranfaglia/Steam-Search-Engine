@@ -1,0 +1,40 @@
+{
+    "app_id": 892930,
+    "name": "Sonar Beat",
+    "release_date": "2019-01-22",
+    "developer": [
+        "Life Zero"
+    ],
+    "publisher": [
+        "Life Zero",
+        "Hiberus Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Music",
+        "Rhythm"
+    ],
+    "achievements": 44,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "In Sonar Beat, your most valuable ally is rhythm. Your super secret nuclear submarine is under attack and only the most intense musical defense can save it! Boost your senses and launch a counter attack to the music to save yourself.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/892930/header.jpg?t=1552467067",
+    "minimum_requirements": "OS: Windows 7 SP1 (32/64 bit version) Processor: 2.5 GHz Dual Core CPU Memory: 2 GB RAM Graphics: Nvidia GeForce GT 440, Radeon HD 8400 DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX 9.0c Compatible Sound Card with latest drivers",
+    "recommended_requirements": "OS: Windows 8, Windows 10 (64 bit versions) Processor: 3.0 GHz Dual Core CPU Memory: 4 GB RAM Graphics: GeForce GTX 260, AMD Radeon HD 6670 or better DirectX: Version 10 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: DirectX 10 Compatible Sound Card with latest drivers",
+    "reviews": []
+}

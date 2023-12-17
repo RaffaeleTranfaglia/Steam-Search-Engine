@@ -1,0 +1,47 @@
+{
+    "app_id": 385690,
+    "name": "Wave Mechanics",
+    "release_date": "2015-08-03",
+    "developer": [
+        "Adam Tarnowski"
+    ],
+    "publisher": [
+        "Adam Tarnowski"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 35,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "The goal of Wave Mechanics is to match the color of each element to the colors of corresponding parts of the frame. Each puzzle includes a set of active elements that can by used in order to change the colors of all elements within range in chosen direction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/385690/header.jpg?t=1482948741",
+    "minimum_requirements": "OS: Windows XP Processor: 1.5 Ghz SSE2 instruction set support. Memory: 1024 MB RAM Graphics: DX9 (shader model 3.0) with 64 MB VRAM DirectX: Version 9.0c Storage: 140 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "edit:  Update came out that added achievements and an undo function. Supposedly the music was changed as well but i listen to my personal music while playing puzzle games so I don't know. If anything, this update made it a pretty much flawless puzzle game.  original:  Okay. I want to start out by saying I read the negative review which was basically the only review for this game and it will probably still be at the top for a while, and that deterred me from picking this game up. But i finally cracked because I absolutey love puzzle games and this one is no exception.   The pause menu is a little...awkward, to say the least, however after about ten seconds of clicking or looking at it you will know what all the buttons do. To save time: top left - restart, bottom left - return to menu, bottom right - next level ( I think it only works if you just beat this level but I haven't tried it in another situation.)  Ok. That's literally my only negative. There might be something later on and I'll be sure to update ASAP if i come across it however I wanted to point out that this game is pretty decent and definitely worth your time if you love puzzles, as a sort of counter to the negative review which might deter other gamers too",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very enjoyable puzzle game. Certainly not simple enough to breeze through all of the levels in one sitting. Based on the time spent playing, I definitely got my money's worth. There's just enough frustration to make it challenging and worthwhile.",
+            "review_score": "1"
+        }
+    ]
+}

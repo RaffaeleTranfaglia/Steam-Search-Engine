@@ -1,0 +1,42 @@
+{
+    "app_id": 492130,
+    "name": "Bye-Bye, Wacky Planet",
+    "release_date": "2016-11-04",
+    "developer": [
+        "Rasul Mono"
+    ],
+    "publisher": [
+        "Efimov Max"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 23,
+    "positive_ratings": 308,
+    "negative_ratings": 71,
+    "price": 3.19,
+    "description": "A fast-paced 2D side-scrolling shooter inspired by the old school video games. Use a wide selection of alien guns to tear through a bunch of enemies to freedom!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/492130/header.jpg?t=1547834358",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 4 GB RAM Graphics: WebGL compatible Storage: 300 MB available space Sound Card: Integrated Audio Additional Notes: Gamepad (XInput, optional), 16:9 aspect ratio (recommended)",
+    "recommended_requirements": null,
+    "reviews": []
+}

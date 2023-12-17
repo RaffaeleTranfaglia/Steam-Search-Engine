@@ -1,0 +1,38 @@
+{
+    "app_id": 702300,
+    "name": "Number World Adventure",
+    "release_date": "2017-09-22",
+    "developer": [
+        "Notus Games Ltd"
+    ],
+    "publisher": [
+        "Notus Games Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 30,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Move all tiles and merge similar Numbers when they touch. Brake chains, melt the ice and overcome other obstacles to join the pieces to fulfil tasks on your numerical puzzle adventure in the Number World! Play 120 levels in the quest mode or set the highest score in various Challenge modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/702300/header.jpg?t=1506090375",
+    "minimum_requirements": "OS: Windows XP or later Processor: 1.0 Ghz Memory: 1 GB RAM Graphics: 64 mb DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

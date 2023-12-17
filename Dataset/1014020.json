@@ -1,0 +1,39 @@
+{
+    "app_id": 1014020,
+    "name": "Successor of the Moon",
+    "release_date": "2019-03-14",
+    "developer": [
+        "魔术工坊"
+    ],
+    "publisher": [
+        "SakuraGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 44,
+    "negative_ratings": 10,
+    "price": 1.69,
+    "description": "A classic 2D side-scrolling action (Metroidvania) game. The young priestess embarks on a journey to solve the monsters' suspicious movements in Parthenope. Seek the help of your peers and elves, Acquire a variety of abilities, and reach the end to discover the truth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1014020/header.jpg?t=1553504084",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i3 M380 Memory: 2 GB RAM Graphics: Intel HD 4000 DirectX: Version 10 Storage: 256 MB available space",
+    "recommended_requirements": "Memory: 4 GB RAM Storage: 1 GB available space",
+    "reviews": []
+}

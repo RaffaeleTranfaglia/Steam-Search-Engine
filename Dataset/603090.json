@@ -1,0 +1,38 @@
+{
+    "app_id": 603090,
+    "name": "Dream Stone",
+    "release_date": "2017-03-08",
+    "developer": [
+        "QuickSave"
+    ],
+    "publisher": [
+        "QuickSave"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 5,
+    "positive_ratings": 9,
+    "negative_ratings": 4,
+    "price": 1.99,
+    "description": "You wake up and find yourself trapped in a dream. Only thing in your mind is to wake up. The key to wake up lies within 3 Dream Stones which are awaiting at the end of puzzles you encounter through the game in different dream chapters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/603090/header.jpg?t=1551658869",
+    "minimum_requirements": "OS: 64-bit Windows Vista Processor: Core i3 / AMD A6 2.4Ghz Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3 DirectX: Version 10 Storage: 840 MB available space",
+    "recommended_requirements": "OS: 64-bit Windows 7 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 4 GB RAM Graphics: NVIDIA GTX 760 DirectX: Version 11 Storage: 840 MB available space",
+    "reviews": []
+}

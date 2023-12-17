@@ -1,0 +1,38 @@
+{
+    "app_id": 795140,
+    "name": "Roanoke",
+    "release_date": "2018-02-12",
+    "developer": [
+        "FailoutGames"
+    ],
+    "publisher": [
+        "FailoutGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 11,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Roanoke is an isometric colony simulator in which the player is capable of gathering resources, building, and upgrading existing structures. Each action performed increases resource count, or hourly/daily resource incomes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/795140/header.jpg?t=1554207314",
+    "minimum_requirements": "OS: Windows 7, Windows 8.1, Windows 10 Processor: 1.6 GHz Memory: 500 MB RAM Graphics: Any DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7, Windows 8.1, Windows 10 Processor: 2.0 GHz + Memory: 2 GB RAM Graphics: Any DirectX: Version 9.0 Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,49 @@
+{
+    "app_id": 439550,
+    "name": "'n Verlore Verstand",
+    "release_date": "2016-04-05",
+    "developer": [
+        "Skobbejak Games"
+    ],
+    "publisher": [
+        "Skobbejak Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "VR Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 52,
+    "positive_ratings": 40,
+    "negative_ratings": 46,
+    "price": 10.99,
+    "description": "Be prepared to be transported to a reality of dreams and nightmares. What will you discover about yourself in this journey through the subconscious?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/439550/header.jpg?t=1531314717",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: Dual Core Memory: 2 GB RAM Graphics: Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher DirectX: Version 9.0c Storage: 2 GB available space Sound Card: Direct X compatible",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Quad Core Memory: 4 GB RAM Graphics: Nvidia GTX 460 OR AMD Radeon HD 5770 OR equivalent/higher DirectX: Version 11 Storage: 5 GB available space Sound Card: Direct X compatible",
+    "reviews": [
+        {
+            "review_text": ":( having trouble getting it working with the oculus and windows10 :\\ keeps crashing managed to get it working in windows7 mode but no vr",
+            "review_score": "1"
+        }
+    ]
+}

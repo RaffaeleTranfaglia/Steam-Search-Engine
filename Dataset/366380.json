@@ -1,0 +1,41 @@
+{
+    "app_id": 366380,
+    "name": "MYTH - Steam Edition",
+    "release_date": "2016-10-28",
+    "developer": [
+        "Circletempo"
+    ],
+    "publisher": [
+        "MangaGamer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+    ],
+    "achievements": 8,
+    "positive_ratings": 31,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "A world of shadows. A world of light. In the world of light where no shadows exist lived a boy - Meito Tanabe. One day, he met a girl who possessed a shadow - Shimon. She brings him to her world - a place filled with shadows.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/366380/header.jpg?t=1549330110",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium III 800 MHz Memory: 256 MB RAM Graphics: 640x480 Resolution Minimum DirectX: Version 9.0c Storage: 800 MB available space Sound Card: DirectSound PCM Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

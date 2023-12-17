@@ -1,0 +1,38 @@
+{
+    "app_id": 904890,
+    "name": "Neverliria",
+    "release_date": "2018-08-22",
+    "developer": [
+        "no_rest"
+    ],
+    "publisher": [
+        "no_rest"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Strategy"
+    ],
+    "achievements": 9,
+    "positive_ratings": 18,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Lost in the dark forest of Neverliria, the fire-headed girl is trying to survive and protect herself from the powers of darkness.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/904890/header.jpg?t=1536535496",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel Core 2 Duo Memory: 1 GB RAM DirectX: Version 11 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

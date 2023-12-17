@@ -1,0 +1,60 @@
+{
+    "app_id": 315930,
+    "name": "Bravada",
+    "release_date": "2014-08-22",
+    "developer": [
+        "Interbellum team"
+    ],
+    "publisher": [
+        "Interbellum team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 48,
+    "positive_ratings": 47,
+    "negative_ratings": 9,
+    "price": 6.99,
+    "description": "You play a young beardless dwarf who dreams about adventures and heroic deeds. Usually dwarves have beards, but for some mystical reasons beard of our hero is not grows. So he decide to make a journey with his friend the bat to solve this problem. During the game you control a group of units each with its own specialties and features.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/315930/header.jpg?t=1447362848",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Celeron (or equivalent) Memory: 512 MB RAM Graphics: Pretty much any 3D graphics card DirectX: Version 9.0c Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This cheerful strategy RPG breathes new life into an old formula with goofy humor and some modern approaches to challenge progression. The most innovative games now include some built-in ability to fail, so that you can fail in big and small ways but still find reason to continue playing, rather than old RPGs which were either far too easy or so hard they encouraged obsessive Save Game-Restore Game loops. One of Bravada's smartest decisions was to make it tolerable to lose your party members: each time one of them dies, you receive an item that can let you copy any unit you encounter, so you can replenish your army with copies of either your current army, or any foe you face. This lets you try on all the units in the game, and incentivizes a manageable amount of death within your army.  Compare this to old strategy RPGs where losing a unit in a level gave you no risk-reward; it simply meant your army was weaker. Add to that many S-RPGs would give each character a minor storyline, and you essentially had no incentive to risk units, because if they died, you lost precious characters you had grown attached to.   Bravada has several challenge innovations like this woven into a deceptively 'lite' feeling game. Really great job and I look forward to more games from this developer!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most charming and addictive hidden gems on Steam.  It is GOOD ♥",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not enough depth. I am kinda on the fence about how to rate this game, but first the technical stuff.  Played it on Ubuntu Linux 14.04 from the living room couch on the big TV. It went into fullscreen easily and I could see the text and important details no problem.  I had written a rather lengthy review where I recommended it, but then I deleted it right after I posted it. Even though I kept playing the game to the finish, the bottom line is there are too many better turn-based strategy games to be playing. The jokes were not very funny and most of the many items you can collect are not useful. There are better ways to spend your gaming time. This is a great game for kids however. My 10 year old loves it, so there is that going for it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Real time strategy games often just make me feel clumsy and stupid. Turn-based strategy games tend to take forever.   Bravada, on the other hand, speeds through the repetetive bits, while also giving enough time to carefully outsmart your enemies in the dangerous parts. It's a best-of-both-worlds solution and I'd love to see it applied to something like Final Fantasy Tactics or Fire Emblem or Disgaea.   ",
+            "review_score": "1"
+        }
+    ]
+}

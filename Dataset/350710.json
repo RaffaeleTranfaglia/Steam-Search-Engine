@@ -1,0 +1,44 @@
+{
+    "app_id": 350710,
+    "name": "Wizards' Clash",
+    "release_date": "2015-09-04",
+    "developer": [
+        "DQ Team"
+    ],
+    "publisher": [
+        "DQ Team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Wizards' Clash is fantasy turn-based card game. Gameplay is easier than classic card games, yet it has some particular features.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350710/header.jpg?t=1447369214",
+    "minimum_requirements": "OS: XP Processor: 1.5 GHz Memory: 1024 MB RAM Graphics: Pixel Shaders 2 DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Not good...not good at all.  The concept is interesting: you build and protect a tower while defeating the enemy's tower or hero, and use a variety of cards from your deck as spells or minions to do so.  The problem is, it's far too overly simplistic, which creates an incredibly boring experience.   No Deck Editing",
+            "review_score": "-1"
+        }
+    ]
+}

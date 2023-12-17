@@ -1,0 +1,39 @@
+{
+    "app_id": 466160,
+    "name": "Arelite Core",
+    "release_date": "2017-02-08",
+    "developer": [
+        "Dragon Slumber"
+    ],
+    "publisher": [
+        "Dragon Slumber"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Adventure"
+    ],
+    "achievements": 21,
+    "positive_ratings": 19,
+    "negative_ratings": 1,
+    "price": 14.99,
+    "description": "The age of heroes is passed, yet an ancient evil rises again. Follow the adventures of Karden, a blacksmith on the path to mastering his craft, forced to take a stand against Talameq, an ageless entity bent on devouring the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/466160/header.jpg?t=1486651597",
+    "minimum_requirements": "OS: Windows 7 or greater Processor: 1.5 GHz CPU Memory: 1500 MB RAM Graphics: 1280x720 or better video resolution in High Color mode Storage: 1500 MB available space Sound Card: Standard onboard sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

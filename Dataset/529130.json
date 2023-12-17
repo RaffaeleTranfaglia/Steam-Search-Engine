@@ -1,0 +1,42 @@
+{
+    "app_id": 529130,
+    "name": "Expect The Unexpected",
+    "release_date": "2016-12-08",
+    "developer": [
+        "GoldenGod Games"
+    ],
+    "publisher": [
+        "GoldenGod Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 33,
+    "positive_ratings": 47,
+    "negative_ratings": 22,
+    "price": 4.99,
+    "description": "Expect The Unexpected is a roguelike, fast-paced, turn-based game with RPG elements. Interact with random generated maps in which you have to deal with hundreds of different events and situations. What will you be? What will you become?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/529130/header.jpg?t=1549392646",
+    "minimum_requirements": "OS: Vista / 7 / 8 / 10 Processor: 2 GHz (32/64bits) Memory: 256 MB RAM Graphics: Minimum Resolution - 1280x720, Graphics Card with at least 128MB Dedicated Memory Storage: 210 MB available space Additional Notes: Works on 32 and 64 bits systems",
+    "recommended_requirements": null,
+    "reviews": []
+}

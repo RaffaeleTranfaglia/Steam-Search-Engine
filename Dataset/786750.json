@@ -1,0 +1,39 @@
+{
+    "app_id": 786750,
+    "name": "Squares",
+    "release_date": "2018-01-31",
+    "developer": [
+        "Mikhail Melnikov"
+    ],
+    "publisher": [
+        "Mikhail Melnikov"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 291,
+    "positive_ratings": 8,
+    "negative_ratings": 17,
+    "price": 0.79,
+    "description": "Squares is a puzzle game in which you have to put everything in its place. You need to arrange the colored squares from the initial position to the position marked with colored stars for each color of square, appropriately.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786750/header.jpg?t=1517405472",
+    "minimum_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 1.2 Ghz or faster processor Memory: 512 MB RAM Graphics: 256 MB Storage: 70 MB available space Additional Notes: Keyboard and Mouse",
+    "recommended_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 2 Ghz Memory: 1024 MB RAM Graphics: 512 MB Storage: 100 MB available space Additional Notes: Keyboard and Mouse",
+    "reviews": []
+}

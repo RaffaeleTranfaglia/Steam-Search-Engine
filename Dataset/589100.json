@@ -1,0 +1,40 @@
+{
+    "app_id": 589100,
+    "name": "The Moonstone Equation",
+    "release_date": "2018-08-20",
+    "developer": [
+        "Andy Buck"
+    ],
+    "publisher": [
+        "Hippy Lizard"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 25,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "Help Alice find some answers as she joins a unique bunch of scientists, oddballs and theorists at a remote hilltop research facility to investigate some puzzling stone carvings. A single player puzzle/platform game about science and curiosity presented in a modern pixel art style.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/589100/header.jpg?t=1545208407",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2.1 ghz or equivalent Memory: 2 GB RAM Graphics: GeForce 440 or equivalent DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

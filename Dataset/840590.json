@@ -1,0 +1,39 @@
+{
+    "app_id": 840590,
+    "name": "ANOIX",
+    "release_date": "2018-04-20",
+    "developer": [
+        "Unusualsoft"
+    ],
+    "publisher": [
+        "Unusualsoft"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 5,
+    "positive_ratings": 14,
+    "negative_ratings": 5,
+    "price": 2.09,
+    "description": "These are the voyages of the starship Anoix. Its 84-level mission to explore strange worlds, protect the ball from going outside and destroy all the bricks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840590/header.jpg?t=1537100952",
+    "minimum_requirements": "OS: Windows XP or Newer Processor: 2.0 GHz Memory: 512 MB RAM Graphics: DirectX 9.0c and Shader Model 3.0 support (almost all graphics cards) DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

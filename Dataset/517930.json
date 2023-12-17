@@ -1,0 +1,44 @@
+{
+    "app_id": 517930,
+    "name": "The Castles of Dr. Creep",
+    "release_date": "2016-09-02",
+    "developer": [
+        "Ed Hobbs",
+        "Robert Crossfield"
+    ],
+    "publisher": [
+        "Strobs Canardly"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Retro"
+    ],
+    "achievements": 39,
+    "positive_ratings": 19,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/517930/header.jpg?t=1472936580",
+    "minimum_requirements": "OS: Microsoft Windows XP Processor: 1.7Ghz or Higher Memory: 256 MB RAM DirectX: Version 9.0c Storage: 25 MB available space",
+    "recommended_requirements": "Memory: 512 MB RAM",
+    "reviews": []
+}

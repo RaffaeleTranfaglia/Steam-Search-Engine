@@ -1,0 +1,44 @@
+{
+    "app_id": 331670,
+    "name": "The Jackbox Party Pack",
+    "release_date": "2014-11-26",
+    "developer": [
+        "Jackbox Games, Inc."
+    ],
+    "publisher": [
+        "Jackbox Games, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Local Multiplayer",
+        "Funny"
+    ],
+    "achievements": 20,
+    "positive_ratings": 774,
+    "negative_ratings": 72,
+    "price": 18.99,
+    "description": "The team behind YOU DON’T KNOW JACK presents FIVE guffaw-inducing party games in one pack! You’re gonna need more than one party for this. Your phones or tablets are your controllers! For 1-100 players!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/331670/header.jpg?t=1546966564",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 2 Ghz Dual Core or higher Memory: 512 MB RAM Network: Broadband Internet connection Storage: 650 MB available space Sound Card: Integrated",
+    "recommended_requirements": null,
+    "reviews": []
+}

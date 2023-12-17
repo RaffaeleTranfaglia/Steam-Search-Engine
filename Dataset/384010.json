@@ -1,0 +1,47 @@
+{
+    "app_id": 384010,
+    "name": "Castles",
+    "release_date": "2015-10-09",
+    "developer": [
+        "Whootgames"
+    ],
+    "publisher": [
+        "BadLand Publishing"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 24,
+    "positive_ratings": 25,
+    "negative_ratings": 11,
+    "price": 1.99,
+    "description": "Castles tells the story of the ambitious King Harold, whose greatest achievement will be the tower you are constructing. As the tower grows taller and taller, more and more challenges arise along with it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384010/header.jpg?t=1548414997",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium Dual Core 2.6GHz or equivalent Memory: 2 GB RAM Graphics: Laptop: Nvidia GT540M or equivalent - Destkop: Nvidia GT440 or equivalent DirectX: Version 9.0c Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i3 2.4Ghz or greater Memory: 2 GB RAM Graphics: Laptop: Nvidia GT 740M or greater - Desktop: Nvidia GTX 460 or greater DirectX: Version 10 Storage: 700 MB available space",
+    "reviews": [
+        {
+            "review_text": "A great idea, a horrible mistake that makes the game almost unplayable.  I bought this to play with my girlfriend, we tried, but the unresponsiveness of the controls is way too much, the first thing I noticed is the delay, you press a key and it takes some time for the game to make the movement, this is not really an issue (well, it is for some, but you get used to it), however, the word part is that  the keys stop responding entirely, you press something and the game won't do anything about it",
+            "review_score": "-1"
+        }
+    ]
+}

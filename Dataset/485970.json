@@ -1,0 +1,44 @@
+{
+    "app_id": 485970,
+    "name": "Cyber Sentinel",
+    "release_date": "2016-07-29",
+    "developer": [
+        "mindhelix.pl"
+    ],
+    "publisher": [
+        "mindhelix.pl"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Programming"
+    ],
+    "achievements": 32,
+    "positive_ratings": 32,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Experience the hacker's side of cyberpunk in Cyber Sentinel! This design-based puzzle game features a complete visual programming kit for designing your own viruses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/485970/header.jpg?t=1484604742",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1.2 Ghz Memory: 1 GB RAM Graphics: 256MB DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Programmer's/Turing Machine Sokoban, and I'm a sucker for anything Sokoban-like with unusual motifs. Hoping for more add-on levels and workshop support in the future.  Also featuring an opening cut scene featuring the most accurate snoring noises in a game ever. Don't challenge me on this.",
+            "review_score": "1"
+        }
+    ]
+}

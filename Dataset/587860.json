@@ -1,0 +1,45 @@
+{
+    "app_id": 587860,
+    "name": "Tales of Escape",
+    "release_date": "2017-03-15",
+    "developer": [
+        "OnSkull Games"
+    ],
+    "publisher": [
+        "OnSkull Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Puzzle",
+        "Co-op",
+        "Free to Play"
+    ],
+    "achievements": 14,
+    "positive_ratings": 374,
+    "negative_ratings": 127,
+    "price": 0.0,
+    "description": "&quot;Tales of Escape&quot; is a series of 6 person multiplayer escape room adventures for virtual reality or desktop pc! Gather your friends and choose a story to play!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587860/header.jpg?t=1526077621",
+    "minimum_requirements": "OS: Windows 7+ (64bit) Processor: Intel i3 / AMD FX series or equivalent Memory: 4 GB RAM Graphics: Nvidia 210 / AMD equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: For Non-VR players",
+    "recommended_requirements": "OS: Windows 7+ (64bit) Processor: Intel i5 4650 / AMD FX-8320 or equivalent Memory: 6 GB RAM Graphics: Nvidia 970/AMD 390 or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: For VR players",
+    "reviews": []
+}

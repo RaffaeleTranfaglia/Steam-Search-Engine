@@ -1,0 +1,43 @@
+{
+    "app_id": 528070,
+    "name": "Solitaire Beach Season",
+    "release_date": "2016-10-10",
+    "developer": [
+        "Creobit"
+    ],
+    "publisher": [
+        "8Floor"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Card Game"
+    ],
+    "achievements": 21,
+    "positive_ratings": 27,
+    "negative_ratings": 11,
+    "price": 3.99,
+    "description": "Solitaire Beach Season is a new card game set in exotic seaside locations. 120 summertime levels await you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/528070/header.jpg?t=1476109743",
+    "minimum_requirements": "OS: Windows XP SP3 or later Processor: 1500 MHz Memory: 512 MB RAM Graphics: OpenGL 3.0 compliant with 1.0GB of video RAM DirectX: Version 9.0c Storage: 35 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I'm easily pleased by Solitaire games. This one is the worst I've ever played... (Wish me luck for finishing it. I don't think I'll have the guts.) - No story. At all. You would expect a basic story from a modern casual game with a theme. - Clicks don't always register. That's a big no-no in casual, again. If the basic Windows card games can do it, why can't a commercial game do it? Why do I have to click again and again to make sure a card is selected? - Everything is completely random. You can end up with 4 identical cards on top of each other, making the 'layout' unwinnable without power-ups. That's insulting, considering how easy it is to implement an 'always winnable' algorithm. - And finally-- the Undo power-up is broken. Whenever you undo a move, the previously removed cards aren't clickable again for some reason. In fact they're seen as if they were still removed internally, since if you attempt to remove them with a joker, it's the card behind them (!) that gets removed, whatever card it was.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 346420,
+    "name": "The Spatials",
+    "release_date": "2015-03-30",
+    "developer": [
+        "Weird and Wry"
+    ],
+    "publisher": [
+        "Weird and Wry"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 48,
+    "positive_ratings": 196,
+    "negative_ratings": 69,
+    "price": 6.99,
+    "description": "It's the year 5781 -- and you have been chosen to build and lead a space station in a wild corner of the galaxy! Attract visitors and explore hundreds of planets to fund your station.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346420/header.jpg?t=1467706651",
+    "minimum_requirements": "OS: Windows 7 Processor: Core 2 Duo 2.4 Ghz Memory: 2048 MB RAM Graphics: Intel HD, AMD, NVIDIA. Requires OpenGL 2.0 drivers Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 599750,
+    "name": "Crisis in the Kremlin",
+    "release_date": "2017-03-20",
+    "developer": [
+        "Kremlingames"
+    ],
+    "publisher": [
+        "Kremlingames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 32,
+    "positive_ratings": 651,
+    "negative_ratings": 126,
+    "price": 3.99,
+    "description": "Don’t let the Soviet Union collapse, and fall in the darkness of history or lead the Union by a new path – democracy and free market! But before you decide something, think – wouldn’t it cause more harm than good?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/599750/header.jpg?t=1515231796",
+    "minimum_requirements": "OS: Windows XP SP2+ (64-bit), Windows 7 SP1+ (32-bit, 64-bit) Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1+, Windows 8, 8.1, Windows 10, etc (32-bit, 64-bit) Processor: SSE2 instruction set support Memory: 3 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0c Storage: 2 GB available space",
+    "reviews": []
+}

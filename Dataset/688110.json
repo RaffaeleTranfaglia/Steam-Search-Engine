@@ -1,0 +1,43 @@
+{
+    "app_id": 688110,
+    "name": "BlockGame",
+    "release_date": "2017-09-12",
+    "developer": [
+        "Tyler Pomplon"
+    ],
+    "publisher": [
+        "Tyler Pomplon"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "BlockGame is a puzzle/platformer hybrid where you control a character stuck in a realm of falling blocks. You must pick up and throw blocks to match them, gain points, and survive for as long as you can.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/688110/header.jpg?t=1505232568",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: 1.2 GHz Memory: 2 GB RAM Graphics: 128MB Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: 2GHz Memory: 4 GB RAM Graphics: 512MB Storage: 200 MB available space",
+    "reviews": []
+}

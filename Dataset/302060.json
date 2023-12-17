@@ -1,0 +1,40 @@
+{
+    "app_id": 302060,
+    "name": "Trucks & Trailers",
+    "release_date": "2014-06-04",
+    "developer": [
+        "SCS Software"
+    ],
+    "publisher": [
+        "SCS Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Driving"
+    ],
+    "achievements": 35,
+    "positive_ratings": 227,
+    "negative_ratings": 122,
+    "price": 3.99,
+    "description": "Put your truck driving skills to the test in Trucks &amp; Trailers! Complete basic training and set on the way to master the wide variety of challenges that lie ahead.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/302060/header.jpg?t=1447361929",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 Processor: 2.2 GHz Memory: 1 GB RAM Graphics: 256 MB (NVIDIA GeForce 7800 or better, ATI Radeon 1800 or better) DirectX: Version 9.0c Storage: 900 MB available space Sound Card: DirectX 9 compatible sound card",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8 Processor: Dual or Quad Core Processor 2.2+ GHz Memory: 2 GB RAM Graphics: 512 MB (GeForce GTS 250 or better, ATI Radeon HD 4850 or better) DirectX: Version 9.0c Storage: 900 MB available space Sound Card: DirectX 9 compatible sound card",
+    "reviews": []
+}

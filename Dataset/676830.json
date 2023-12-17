@@ -1,0 +1,41 @@
+{
+    "app_id": 676830,
+    "name": "Xenomarine",
+    "release_date": "2019-04-23",
+    "developer": [
+        "Fourfold Games"
+    ],
+    "publisher": [
+        "Fourfold Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 55,
+    "positive_ratings": 17,
+    "negative_ratings": 3,
+    "price": 7.99,
+    "description": "Experience hardcore, sci-fi dungeon crawling in this dark, atmospheric roguelike. Xenomarine offers tactical turn-based combat with hundreds of unique items and upgradable weapons and armor, as well as massive replayability thanks to its randomly generated content.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676830/header.jpg?t=1556080742",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: Graphics supporting DX9 or DX11 with 9.3 capabilities Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

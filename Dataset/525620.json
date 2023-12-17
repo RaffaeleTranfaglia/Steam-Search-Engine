@@ -1,0 +1,42 @@
+{
+    "app_id": 525620,
+    "name": "Octogeddon",
+    "release_date": "2018-02-08",
+    "developer": [
+        "All Yes Good"
+    ],
+    "publisher": [
+        "All Yes Good"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 149,
+    "negative_ratings": 26,
+    "price": 10.29,
+    "description": "You ARE Octogeddon, a massive mutant octopus with one mission: DESTROY the world! Grow more tentacles and evolve each of them into deadlier and deadlier weapons until you become the ultimate eight-legged killing machine!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525620/header.jpg?t=1527585881",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 2.0Ghz Dual core CPU (any Core 2 Duo or AMD X2 or better) Memory: 2 GB RAM Graphics: 1 GB RAM DirectX: Version 9.0c Storage: 700 MB available space Sound Card: DirectX® 9.0c compatible sound card",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Any Quad-core Intel or AMD Processor Memory: 4 GB RAM Graphics: 2GB 3D DirectX 9 Compatible video card DirectX: Version 9.0c Storage: 700 MB available space Sound Card: DirectX® 9.0c compatible sound card",
+    "reviews": []
+}

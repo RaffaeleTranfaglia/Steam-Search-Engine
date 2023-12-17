@@ -1,0 +1,39 @@
+{
+    "app_id": 707870,
+    "name": "Hoo-Boy",
+    "release_date": "2017-09-29",
+    "developer": [
+        "Anatoly Konstantinov"
+    ],
+    "publisher": [
+        "Anatoly Konstantinov"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 85,
+    "negative_ratings": 35,
+    "price": 1.69,
+    "description": "HOO-BOY! A platformer game about the adventures of a candy boy hailing from Candy-Land.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/707870/header.jpg?t=1542180304",
+    "minimum_requirements": "OS: Windows 7, 10 Processor: 1.33 GHz Memory: 1 GB RAM DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

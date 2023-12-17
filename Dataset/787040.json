@@ -1,0 +1,42 @@
+{
+    "app_id": 787040,
+    "name": "Perfect Heist",
+    "release_date": "2018-08-17",
+    "developer": [
+        "yeswecamp"
+    ],
+    "publisher": [
+        "yeswecamp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 77,
+    "negative_ratings": 46,
+    "price": 3.99,
+    "description": "Perfect Heist is a round-based online game, where the robber team tries to execute a bank robbery without getting noticed, and the cop team tries to prevent it. Robbers hide in plain sight and try to slowly infiltrate the bank while the Cops try to figure out who is a normal customer, and who is a robber!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/787040/header.jpg?t=1543435766",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64-bit) Processor: 1.5 GHz Dual-Core Memory: 4 GB RAM Graphics: GeForce 500 Series DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64-bit) Processor: 2 GHz Quad-Core Memory: 8 GB RAM Graphics: GeForce 600 Series DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

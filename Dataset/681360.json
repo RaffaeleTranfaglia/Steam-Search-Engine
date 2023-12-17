@@ -1,0 +1,43 @@
+{
+    "app_id": 681360,
+    "name": "Song Samurai",
+    "release_date": "2017-08-15",
+    "developer": [
+        "Jake Overall",
+        "Mark Ohnsman",
+        "Josh Olds",
+        "Matthew Overall",
+        "Jaime Madsen",
+        "Gunnar Anderson",
+        "Aaron Kim"
+    ],
+    "publisher": [
+        "CodeWorks"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Become the Song Samurai, and accept your sacred oath of defending your dojo. Accept the challenge posed to your land by the Dragon of ice and fire. Take up your swords and fulfill your destiny.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/681360/header.jpg?t=1502844606",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, or Windows 10 Processor: ntel® i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater. Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 522300,
+    "name": "Polywings",
+    "release_date": "2016-10-03",
+    "developer": [
+        "Mariano Larronde"
+    ],
+    "publisher": [
+        "Mariano Larronde"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Polywings is an indie flying game with short and challenge missions, atmospheric music and low poly graphics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/522300/header.jpg?t=1498965584",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Dual core or better Memory: 512 MB RAM Graphics: Integrated graphics card (Intel), generally anything from 2004 or later DirectX: Version 9.0c Storage: 190 MB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 1 GB RAM",
+    "reviews": []
+}

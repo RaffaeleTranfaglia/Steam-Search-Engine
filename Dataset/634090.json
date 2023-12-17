@@ -1,0 +1,47 @@
+{
+    "app_id": 634090,
+    "name": "Suncore Chronicles: The Tower",
+    "release_date": "2018-04-10",
+    "developer": [
+        "Inner World Games"
+    ],
+    "publisher": [
+        "Inner World Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 40,
+    "positive_ratings": 15,
+    "negative_ratings": 13,
+    "price": 0.0,
+    "description": "Suncore Chronicles: The Tower is an action roleplaying game with hack-and-slay elements. Defeat enemies, collect gear and solve riddles with up to three friends in cooperative games via Steam or LAN.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/634090/header.jpg?t=1523692945",
+    "minimum_requirements": "OS: Windows 7 Processor: intel i5 series or adequate Memory: 2 GB RAM Graphics: GeForce 500 series or adequate DirectX: Version 11 Storage: 7 GB available space Sound Card: on board Additional Notes: DirectX 11 required",
+    "recommended_requirements": "OS: Windows 10 Processor: intel i5 series or adequate Memory: 8 GB RAM Graphics: GeForce 900 series or adequate DirectX: Version 11 Storage: 7 GB available space Sound Card: on board Additional Notes: DirectX 11 required",
+    "reviews": []
+}

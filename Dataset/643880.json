@@ -1,0 +1,45 @@
+{
+    "app_id": 643880,
+    "name": "Strikey Sisters",
+    "release_date": "2017-06-01",
+    "developer": [
+        "DYA Games"
+    ],
+    "publisher": [
+        "DYA Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 412,
+    "negative_ratings": 28,
+    "price": 9.99,
+    "description": "Say hello to a fantasy themed action arcade brick breaker! Featuring cute characters, silly humor, powerful magic, crazy bosses, and even local 2 player co-op mode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/643880/header.jpg?t=1550070807",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 Processor: Dual Core 1.6 GHz Memory: 1 GB RAM Graphics: OpenGL compatible 256MB VRAM DirectX: Version 11 Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,66 @@
+{
+    "app_id": 370480,
+    "name": "Pixel Galaxy",
+    "release_date": "2015-10-02",
+    "developer": [
+        "Serenity Forge"
+    ],
+    "publisher": [
+        "Serenity Forge"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Bullet Hell",
+        "Co-op",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 127,
+    "positive_ratings": 117,
+    "negative_ratings": 11,
+    "price": 6.99,
+    "description": "A non-shooting shoot 'em up where you must grow, make friends, and survive together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370480/header.jpg?t=1478024320",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core Duo Memory: 4 GB RAM Graphics: GeForce 8800 GT or better Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Pros: +Cool visual style! The color scheme changes regularly throughout, and you can tell thought was put into the different color schemes. +Boss battles are fun! +Enemy formations/waves are fun and are visually interesting. You can tell that the waves are handcrafted (or at least it seems that way), and it's nice that the wave order seems to be partially random, so that the different difficulties aren't exactly the same every time you play them. +Enemy/abilities stay interesting. I kept running into new enemies as I got to each new difficulty level, which in turn are new abilities for the player if you are able to run into them to convert them to your side. +Slick presentation, menus are pretty nice.  Cons: -Can get a little hectic at times. Readability is pretty good, but the game can get so hectic that it can still be hard to tell what's what. I think that's the kind of game it is, though, as you are able to pick up a lot of fodder/shield enemies so that you won't die immediately. -When facing a boss, sometimes I would have barely survived to get to the boss, meaning that I wouldn't have much to shoot the boss with. There are still some enemies spawned during the bosses, but it sometimes felt like I could barely get any weapons to fight him with. Not sure how you fix this problem, though, since more shooting enemies would make the boss fight even more difficult.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Collect all the pixels! ow..ouch...owww..urgh...dead. keep it small? dodge..ow..dead. Well...here we go again...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Okay, imagine a tough bullet hell game with super deep ship constomization.  Now imagine that 'ship customization' means making your ship out of enemy ships while you're dodging bullets.  If that sounds like a good time, here you go.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game that made me like bullet hells",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an intense bullet hell style game but once you get the hang of it, it is really fun to play, especially in cooperative mode. Music and graphics are very catchy. Only issue is that you don't get much warning when the boss arrives, and often they enter the screen where you are and obliterate you instantly which is really frustrating.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's challenging and fun. The variety of enemies and ship building keep it from becoming monotonous.",
+            "review_score": "1"
+        }
+    ]
+}

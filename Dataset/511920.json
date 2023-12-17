@@ -1,0 +1,40 @@
+{
+    "app_id": 511920,
+    "name": "Reproduction Man",
+    "release_date": "2017-01-10",
+    "developer": [
+        "David Kilmer"
+    ],
+    "publisher": [
+        "Deuteranopia"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "2D"
+    ],
+    "achievements": 9,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Reproduction Man is a 2D puzzler where you help some very simple-minded sperm get to the egg. This cult classic of the Windows shareware era was brought back for its 20th anniversary with all-new graphics, animation and sound. Its outward cuteness belies some very tough puzzles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/511920/header.jpg?t=1484056614",
+    "minimum_requirements": "OS: Windows Vista / 7 / 8 / 10 Processor: 2.0 GHz Memory: 2 GB RAM Graphics: ATI Radeon(TM) 9500 or better, NVIDIA GeForce(TM) FX 5900 or better, Intel GMA 950 or better DirectX: Version 10 Storage: 70 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0 GHz Memory: 2 GB RAM Graphics: ATI Radeon(TM) 9500 or better, NVIDIA GeForce(TM) FX 5900 or better, Intel GMA 950 or better DirectX: Version 10 Storage: 70 MB available space",
+    "reviews": []
+}

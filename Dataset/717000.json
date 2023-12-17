@@ -1,0 +1,38 @@
+{
+    "app_id": 717000,
+    "name": "SKIMMERZ",
+    "release_date": "2017-10-14",
+    "developer": [
+        "Harrison Went"
+    ],
+    "publisher": [
+        "Harrison Went"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Battle the enemy 3 rounds at a time in SKIMMERZ. Utilise game changing abilities to turn the tide and unlock each unique skimmer as you progress through colourful arena style maps.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/717000/header.jpg?t=1511492408",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core i3, Fx4300, Ryzen 3 Memory: 4 GB RAM Graphics: Intel HD4000, GTX650, HD7770, R7 250 DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad core or above Memory: 8 GB RAM Graphics: 4GB GPU DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

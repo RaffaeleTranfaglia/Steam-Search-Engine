@@ -1,0 +1,46 @@
+{
+    "app_id": 378510,
+    "name": "Witches, Heroes and Magic",
+    "release_date": "2015-06-29",
+    "developer": [
+        "Michael Swan"
+    ],
+    "publisher": [
+        "AweSwan"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 11,
+    "price": 10.99,
+    "description": "WHAM is like Heroes of Might and Magic, but in REAL-TIME, 3rd person and a slow-time system for amazing strategic battles! DOTA styled (single player) combat for the outposts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/378510/header.jpg?t=1512465870",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Intel Dual Core 2GHz Memory: 2 GB RAM Graphics: 512MB GPU with Shaders 3.0 DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: Will run on $90 windows media machine but Graphics/Performance are severely reduced the worse the hardware. The game is designed for higher end hardware so on the lower end hardware the game naturally isn't as good but still totally playable.",
+    "recommended_requirements": "OS: Win 7+ Memory: 2 GB RAM Graphics: 512MB GPU with Shaders 3.0 DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: Will run on $90 windows media machine but Graphics/Performance are severely reduced the worse the hardware. The game is designed for higher end hardware so on the lower end hardware the game naturally isn't as good but still totally playable.",
+    "reviews": [
+        {
+            "review_text": "Whilst this is clearly a 'first game made in Unity' it's got ambitions way beyond the usual tutorial and slapped-down assets we've been seeing of late.  That said it is EONS away from being a commercial-quality/ready-for-the-public game. There's loads of stuff going-on, most of which is poorly explained and what IS explained is arguably even more obscure. It's glitchy and clunky and every single model clips through every single other model and effects fire randomly and moving stuff around inventory/quickbars is almost entirely potluck based (equipping things has an RNG!!) and so much more...  Props to whoever put this thing together - no lack of ambition shown, but it's NOT a game ready to be sold to people by any means...",
+            "review_score": "-1"
+        }
+    ]
+}

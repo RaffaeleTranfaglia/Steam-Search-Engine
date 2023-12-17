@@ -1,0 +1,39 @@
+{
+    "app_id": 666320,
+    "name": "Watergate Xtreme",
+    "release_date": "2017-08-06",
+    "developer": [
+        "Will Carlough"
+    ],
+    "publisher": [
+        "Will Carlough"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "4 Player Local"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "Watergate Xtreme is a frantic multiplayer extravaganza where you and your friends run around in a maze trying to control your guy and a remote control bomb at the same time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/666320/header.jpg?t=1502204638",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

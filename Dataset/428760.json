@@ -1,0 +1,50 @@
+{
+    "app_id": 428760,
+    "name": "Hatch and Slay",
+    "release_date": "2015-12-22",
+    "developer": [
+        "Myrolit Studios"
+    ],
+    "publisher": [
+        "Myrolit Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 28,
+    "positive_ratings": 23,
+    "negative_ratings": 18,
+    "price": 1.59,
+    "description": "Hatch &amp; Slay is a simple 2D hack &amp; slay survival game located in a tropical environment. It’s about the initiation ceremony of a freshly hatched Varaz - a humanoid lizard race - who has to fight his way out of the dangerous jungle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428760/header.jpg?t=1461235437",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work DirectX: Version 9.0c Storage: 560 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Enjoy playing this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "DO NOT BUY THIS GAME  ",
+            "review_score": "-1"
+        }
+    ]
+}

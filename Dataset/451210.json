@@ -1,0 +1,42 @@
+{
+    "app_id": 451210,
+    "name": "Rocket Shooter",
+    "release_date": "2016-03-31",
+    "developer": [
+        "VLLADGET"
+    ],
+    "publisher": [
+        "VLLADGET"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Sports"
+    ],
+    "achievements": 2,
+    "positive_ratings": 2,
+    "negative_ratings": 4,
+    "price": 4.99,
+    "description": "Rocket Shooter - this team game first-person shooter. The main feature is a move with super speed and super jumps!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/451210/header.jpg?t=1459463845",
+    "minimum_requirements": "OS: Windows 7 32 bit Processor: Intel Core i3 Memory: 4 GB ОЗУ MB RAM Graphics: GeForce GTX 470 DirectX: Version 10 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I got trolled by the fake positive review, that has just disapeared from the review page. Lets see: 1. Just played the game and there was not even one single server online. 2. The bots (maximum 8) are stupid, they just stand there and shoot. 3. Only 2 maps. 4. Super speed and normal speed difference is massive. When you don't hold shift its sooooo slow, like youre walking, so you just end up holding shift anyway. 5. guns (only 2) feel like potatoes. 6. Blur is always on.   This 'game' feels like someone modded a crappy bargain bin fps by stripping it of everything, turned up the movement speed, then got the license to sell it as a standalone.",
+            "review_score": "-1"
+        }
+    ]
+}

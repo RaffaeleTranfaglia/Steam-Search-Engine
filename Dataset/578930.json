@@ -1,0 +1,40 @@
+{
+    "app_id": 578930,
+    "name": "kuso",
+    "release_date": "2017-11-07",
+    "developer": [
+        "Fred Wood"
+    ],
+    "publisher": [
+        "Fred Wood"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Great Soundtrack"
+    ],
+    "achievements": 25,
+    "positive_ratings": 116,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "kuso is the sequel to LOVE, and is a challenging yet fair platformer with a simple aesthetic. You have the ability to run, jump, and leave your own checkpoint. Make your way through acid, long jumps, disappearing platforms, bouncers, giant saws, and much more in this dreadful mechanical world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/578930/header.jpg?t=1542718332",
+    "minimum_requirements": "OS: Windows XP Processor: i3 4130 Memory: 1 GB RAM Graphics: Integrated GPU Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

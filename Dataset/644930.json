@@ -1,0 +1,41 @@
+{
+    "app_id": 644930,
+    "name": "They Are Billions",
+    "release_date": "2017-12-12",
+    "developer": [
+        "Numantian Games"
+    ],
+    "publisher": [
+        "Numantian Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Base-Building",
+        "Strategy"
+    ],
+    "achievements": 30,
+    "positive_ratings": 11377,
+    "negative_ratings": 1921,
+    "price": 19.49,
+    "description": "They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/644930/header.jpg?t=1554219820",
+    "minimum_requirements": "OS: Windows 7, 8, 10 (32 and 64 bits) Processor: INTEL, AMD 2 cores CPU at 2Ghz Memory: 4 GB RAM Graphics: Intel HD3000, Radeon, Nvidia card with shader model 3, 1GB video ram. DirectX: Version 9.0c Storage: 4 GB available space Additional Notes: Minimum resolution: 1360x768, recomended FULL HD 1920x1080.",
+    "recommended_requirements": "OS: Windows 7, 8, 10  (64 bits) Processor: INTEL. AMD 4 cores CPU at 3Ghz Memory: 8 GB RAM Graphics: Radeon 7950 or above, Nvidia GTX 670 or above.  4GB video ram. DirectX: Version 9.0c Storage: 4 GB available space Additional Notes: 4K Monitor (3840x2160)",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 770120,
+    "name": "Yoltrund",
+    "release_date": "2018-01-31",
+    "developer": [
+        "Michael Cox"
+    ],
+    "publisher": [
+        "Templarius Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Sexual Content",
+        "Violent",
+        "Gore",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Lost in a world of fire, stone, and death, you must find your way to the Light in this 2D environmental RPG. Experience a gripping tale of the human Will as you traverse through Yoltrund, navigating the twisted and distorted mazes within. Will you return to Light or succumb to the Shadow?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770120/header.jpg?t=1532665131",
+    "minimum_requirements": "OS: Windows Vista Processor: 2.0 GHz Dual Core Processor Memory: 4 MB RAM Graphics: Integrated Graphics (512MB) Storage: 2 GB available space Additional Notes: Minimum OpenGL 2.0 support",
+    "recommended_requirements": "OS: Windows 10 Processor: 3.0GHz i5 Dual Core or equivalent Memory: 4 MB RAM Graphics: NVIDIA GeForce GTX 650 or Radeon HD 3600 (1GB) Storage: 4 GB available space",
+    "reviews": []
+}

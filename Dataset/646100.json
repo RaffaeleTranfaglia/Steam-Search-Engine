@@ -1,0 +1,38 @@
+{
+    "app_id": 646100,
+    "name": "Woodlands",
+    "release_date": "2017-09-27",
+    "developer": [
+        "Acuze Interactives",
+        "Winterbyte"
+    ],
+    "publisher": [
+        "Acuze Interactives"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 71,
+    "negative_ratings": 176,
+    "price": 4.79,
+    "description": "Survive. Build shelter. Build a fire. Scavenge and kill for materials. Craft. Eat and drink. Do what you need to do to survive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/646100/header.jpg?t=1506519460",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: Intel Dual-Core 2GHz or AMD Dual-Core 2GHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 400 series or AMD Radeon HD 6000 series, 1GB Video Card (Minimum Shader Model 2.0) DirectX: Version 9.0c Storage: 500 MB available space Sound Card: DirectX Compatible Sound Card with latest drivers Additional Notes: May run on systems with lower specs, but with low framerate.",
+    "recommended_requirements": null,
+    "reviews": []
+}

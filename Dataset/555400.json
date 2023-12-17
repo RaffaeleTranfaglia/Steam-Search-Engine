@@ -1,0 +1,39 @@
+{
+    "app_id": 555400,
+    "name": "Collision Course",
+    "release_date": "2017-01-07",
+    "developer": [
+        "Crynosaurs"
+    ],
+    "publisher": [
+        "Crynosaurs"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Dinosaurs",
+        "Adventure"
+    ],
+    "achievements": 20,
+    "positive_ratings": 145,
+    "negative_ratings": 28,
+    "price": 7.99,
+    "description": "A comet is hurtling toward the planet! Sneak, scavenge and blast your way through an immersive prehistoric world filled with Humans, Dinosaurs, Droids and Mother Nature’s fury!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555400/header.jpg?t=1531705660",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 (64-bit only) Processor: Intel Dual-Core E6600 or AMD Equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce 570+ or AMD Radeon HD 6950+ DirectX: Version 11 Storage: 4 GB available space Additional Notes: 64 Bit Windows Required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 (64-bit only) Processor: Intel Quad-Core (i5 2300) or AMD Octo-Core (FX 8150) Memory: 8 GB RAM Graphics: NVIDIA GeForce 970, AMD Radeon RX480 DirectX: Version 11 Storage: 4 GB available space Additional Notes: 64 Bit Windows Required",
+    "reviews": []
+}

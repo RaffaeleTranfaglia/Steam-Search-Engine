@@ -1,0 +1,43 @@
+{
+    "app_id": 290020,
+    "name": "LogicBots",
+    "release_date": "2017-02-08",
+    "developer": [
+        "Incandescent Games"
+    ],
+    "publisher": [
+        "Incandescent Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Robots"
+    ],
+    "achievements": 27,
+    "positive_ratings": 109,
+    "negative_ratings": 26,
+    "price": 14.99,
+    "description": "Design, build and wire up your own unique robot to complete challenging logic puzzles. LogicBots is a puzzle game where robots are used to complete the various levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/290020/header.jpg?t=1512967430",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

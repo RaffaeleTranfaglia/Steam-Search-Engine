@@ -1,0 +1,41 @@
+{
+    "app_id": 500440,
+    "name": "Take the Cake",
+    "release_date": "2017-11-28",
+    "developer": [
+        "Ebenit"
+    ],
+    "publisher": [
+        "Ebenit"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Take back Frank’s stolen cake from evil robots by navigating neon-lit worlds filled with puzzles, obstacles, and electronic music.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/500440/header.jpg?t=1526375093",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 Processor: Intel Core 2 Duo Memory: 2 GB RAM Graphics: 512 MB VRAM DirectX: Version 9.0c Storage: 256 MB available space Sound Card: Compatible with DirectX®: 9.0c Additional Notes: Supported controller is Xbox 360®.",
+    "recommended_requirements": "OS: Windows 7, 8, 8.1, 10 Processor: Intel Core i3 2,4GHz Memory: 4 GB RAM Graphics: 1024 MB VRAM DirectX: Version 9.0c Storage: 256 MB available space Sound Card: Compatible with DirectX®: 9.0c Additional Notes: Supported controller is Xbox 360®.",
+    "reviews": []
+}

@@ -1,0 +1,53 @@
+{
+    "app_id": 485080,
+    "name": "Megapolis",
+    "release_date": "2016-06-15",
+    "developer": [
+        "Lonely Troops"
+    ],
+    "publisher": [
+        "Lonely Troops"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 22,
+    "positive_ratings": 58,
+    "negative_ratings": 26,
+    "price": 2.79,
+    "description": "Construct beautiful and functional city zones with plenty of modern blocks and keep your residents happy by providing all services they need, and they will reward you with a tidy profit. You can work your way to the top in the comprehensive campaign mode or you can create and play your own custom scenarios.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/485080/header.jpg?t=1548248798",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: 1.0 GHz Memory: 1 GB RAM Graphics: 128 MB, DirectX 9.0 DirectX: Version 9.0 Storage: 200 MB available space Additional Notes: Mouse or touch control",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Don't waste your money. You cannot build a city with this. It is timed based senerios. It plays okay, but you quickly get bored with the similarities of the senerios. There is only about 20 squares to work with, and later senerios get no larger. Snadlots are the same size.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is fairly simple. You build in a small space with a few building plots. Some plots cannot be removed or are reserved for specific buildings in campaign mode.  The campaign mode feels really slow and it is sometimes hard to get both the trophy and the star in the same run due to the round ending as soon as you complete the objective.  Essentially, it ends up with you repeating the same thing over and over. Make buildings for money, then complete the objective.  Do note that there are some minor issues. For example, if you are near the end time for the star, the mission may or may not give you the star. In one instance, I went over by a second because of my own mistake, but the game gave me the star anyways. In another instance, I finished before the timer ended, but because of the completion fireworks, it went past the time. I did not get a star that time. Both cases, I was aiming for trophy and star in the same run.  There is also the great popup system when you manage to gain an achievement, which is fairly obtrusive when you consider in that steam shows you the popup already. I found the popup system to cause me to make more mistakes as the popup is in your face obtrusive rather than a side note. This makes maps where trophy+star is tight on time as it is even worse. Especially if you get multiple achievements in one run.  That said, do I recommend it? No. Is it an entirely bad game? No, but don't expect to build actual cities and expect a very long tutorial.",
+            "review_score": "-1"
+        }
+    ]
+}

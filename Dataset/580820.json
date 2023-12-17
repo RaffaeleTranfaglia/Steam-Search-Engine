@@ -1,0 +1,46 @@
+{
+    "app_id": 580820,
+    "name": "Robot Soccer Challenge",
+    "release_date": "2019-02-18",
+    "developer": [
+        "Render System"
+    ],
+    "publisher": [
+        "Render System"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 33,
+    "negative_ratings": 12,
+    "price": 5.59,
+    "description": "Robot Soccer Challenge is a football game in which robots on remote control stand against each other. Show your abilities and skills in robot control and bring your team to victory. Dynamical and fast game, in which there is no lack of exciting and amusing moments.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/580820/header.jpg?t=1550491130",
+    "minimum_requirements": "OS: Windows 7 Processor: SSE2 instruction set support. Memory: 2 GB RAM Graphics: DX11 with feature level 9.3 capabilities Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

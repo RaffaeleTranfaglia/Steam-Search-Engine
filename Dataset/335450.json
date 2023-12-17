@@ -1,0 +1,47 @@
+{
+    "app_id": 335450,
+    "name": "Curse of the Assassin",
+    "release_date": "2015-05-12",
+    "developer": [
+        "Tin Man Games"
+    ],
+    "publisher": [
+        "Tin Man Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 32,
+    "positive_ratings": 18,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Fight, outwit and explore in Orlandes City as you uncover a conspiracy in this Gamebook Adventure where YOU control the story!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/335450/header.jpg?t=1479438238",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware Accelerated Graphics with dedicated memory Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 7/8 Memory: 4 GB RAM Graphics: Hardware Accelerated Graphics with 1GB memory Storage: 350 MB available space",
+    "reviews": [
+        {
+            "review_text": "This book is a sequel to An Assasin in Orlandes and though it is not neccesary to have played that book there are several references back to it if you have. I got quite badly stuck at the end fight in this one and had to completely restart again in order to rectify the problem. You are going to need a companion to help you out so when the option comes the first time I recommend going for Esplanadian as he is the easiest to get first time through.  That hiccup aside though this is a solidy written adventure wtih a variety of paths through depending on what companions you get. I recommend trying for the other two after finishing the game once with Esplanadian.",
+            "review_score": "1"
+        }
+    ]
+}

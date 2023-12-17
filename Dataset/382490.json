@@ -1,0 +1,955 @@
+{
+    "app_id": 382490,
+    "name": "Relic Hunters Zero",
+    "release_date": "2015-08-18",
+    "developer": [
+        "Rogue Snail"
+    ],
+    "publisher": [
+        "Rogue Snail"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Pixel Graphics",
+        "Action"
+    ],
+    "achievements": 44,
+    "positive_ratings": 5715,
+    "negative_ratings": 352,
+    "price": 0.0,
+    "description": "Relic Hunters Zero is a FREE game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/382490/header.jpg?t=1502124671",
+    "minimum_requirements": "OS: Windows 7 or newer Memory: 4 GB RAM Graphics: Shader Model 2.0 compatible graphic card with at least 512 MB of video memory DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: Graphic cards with integrated memory such as Intel Graphics not supported",
+    "recommended_requirements": "Graphics: Graphic Card with at least 1 GB of video memory",
+    "reviews": [
+        {
+            "review_text": "The Game Is GREAT!  I love the soundtrack I love the gameplay I love the weapons I love the style i currently dont see anything bad with it.  and my rating is: 10/10  EDIT:  Oh and it reminds me of Nuclear Throne",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This game was reviewed with a key from the developer (yes, it's a free game, but I played it before it was released).     Gameplay Footage and Video Review:         YouTube™ Video:  Relic Hunters Zero (Fly By): It's Free and Good. Play It.&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like Nuclear Throne but not as frustrating. And it's free!   I like it a lot. The boss fight was pretty intense!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/10 its great. only thing i dont like is there is no level editor  but its free to play and i dont have to pay gabe anything",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Free game, extremely polished, fantastic gameplay. Local co-op is sick, I would like to see an online co-op but wonder about netcode problems. I really hope the developer decides to release weapons/enemies/levels as paid content packs because I want to throw dollars at them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is free, and it's more fun than most games you can buy today  It's got tight controls, collectables, and lots of replayability.   Pro:  As mentioned previously, Tight controls  An environment that compliments said controls  Shooting feels good, and there's so many guns to use  Graphically pleasing  Different characters to play as  Fairly challenging  Neat relic system  Endless mode providing replayability   Con:  The soundtrack is very... Meh...  Some of the enemies act a lot like dogs and it might make you feel bad for killing them   The cons aren't really cons, I just couldn't think of anything really bad to say.  If this sounds like something cool to you go right ahead and play it, it's a free game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm absolutely in love with this game!  The art style is adorable, the gameplay is challenging and addictive and it's free!  Hell, I wouldn't hestitate to pay for this. It's great to see that there are still developers that just care about the joy in gaming and not about money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I hunted zero relics while playing this game . 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I LOVE THIS GAME! It's fun, free and a small download! What I like even more is loads of numbers popping up on your screen when you kill ♥♥♥♥! (I love numbers popping up when you kill ♥♥♥♥)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much challenge, good music, fun for all. I like donkey.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best games for local co-op! I have almost beaten the story mode of this game with only 6 hours of play time and that includes building all the relics and getting all the guns. It's hard enough to be fun and not rage inducing thanks to the checkpoints.   9/10 would play more than $60 games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is pretty awsome but it tends to get old after a few replays id like the levels to have the enemy randomly generate it would vastly iimprove upon the replayability of the game but other than that awsome art style good music and great controls",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Free to Play top down shooter adventure game using Retro 16 bit graphic, chiptune music, retro sound effects, retro gore. Can be Hard since you die you have to restart and can run out of ammo.   You might like it, give it a try, if you like retro games.  for more info:          YouTube™ Video:  Relic Hunters Zero Co-op Gameplay - Part One - Vac?&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Overall a pretty good game that i would reccomend ^-^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bullet hell and fast pace games are fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Way more fun then my body has room for. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "getting this game for free, have fun with this game with my netbook",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a lover for fast action, adrenaline based games. Indie titles never tickle my pickle. But, this just suckered me in with it's retroness.   Atleast give it a go, nothing to lose, well just 100mb of HDD space.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1-Start playing 2-Start shooting space ducks 3-kill space ducks 4-Profit",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+ Nothing to pay for   + Great soundtrack  + Good Alt for Nuclear Throne  Nothing bad that i can see.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a great game! Super easy to download, impressive looks, and just a over all simple but fun game to play. I'd just say there is a random glitch where my mouse would get locked in the bottom right. I would be able to get out of it if I flung my mouse faster across my mouse pad. But a simple thing to correct so no big deal!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a great game, the different characters add variety, and to everybody downvoting it because of the lack of Trading Cards, SHUT UP. This game is one of the only I've seen of its type, with NO microtransactions, meaning that they can't add cards for that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Top down Shooter Open Source Advancement System Local Co-op Fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game  Nice Design  Much fun  i hope a Multiplayer Co-Op will be addet :3  100/10 :D nice work",
+            "review_score": "1"
+        },
+        {
+            "review_text": "[DON'T PLAY WITH A CONTROLLER DEAR GOD IS IT HORRIBLE!] Besides the horrible controller controls the rest of the game is amazingly fun. Endless mode is also great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS game is pretty good. Amazing. EXCELLENT! AND the characters are freaking cute. oh, and it's FREE!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Checklist of Gaming: Quality graphics? Yes Good and Intuitive Controls? Yes Good Gameplay? MANY TIMES YES Challenging? HOLY CRAP YES Shooting Ducks? Yep its has that too And its free? With no micro transactions? AT ALL?   Yep you click a single button and the game is ready waiting for you to play it.   Also its a simulator i like to call  Screaming DIE DIE DIE DIE DIE DIE at your foes untill either they die or you die Simulator 2015 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a lot of fun to play, and still poses a challenge. That it something that a lot of indie games fail to pull off. Better yet, this game is free! I only played it for a few minutes so far, and I'm already loving it.  The games is lacking a co-op mode though, which would have made the game even better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I Love this game so much! Yo dev, ty very much for this game!  + Works clean even on bad (old) computers. + Its fun to play. + Music is best. + Fast install and unistall. + ITS FREE!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Concept art: Great Gameplay: Awesome Story: Cool Characters desing: Amazing Simply one of the best FTP games on steam 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is really great to be F2P and for me one of the best indies, action games.    dun bother me about: dis game feels so really like borderlands and so insane but version miniature in 2D and just killing turtles in the Mars XD     I'm not addicted..    Halp ;-;    Okay i just want to be popular, k? dun hates me for being ignorant but how to play with cooperative mode? ;-;  I have 3 stages completed and unlocked by my own experience but I didn't see the mode cooperative unlocked, I want to play this game with mode cooperative with a friend and I can't ;-;   Read down latur~      I really wanna kill ur curious experience e.e        Thanks for ur help ;-;    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i hope u guys can make an online co-op ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Crazy and wild. I love it. It is like Dark Souls in pixels with chiptune music and colors of 80's. Dark Souls on drugs ;]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fast and tactical. All the relics you can find also a fun smooth shooting gameplay.  A MUST PLAY!! DOWNLOAD NOW!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Crazy and wild. I love it. It is like Dark Souls in pixels with chiptune music and colors of 80's. Dark Souls on drugs ;]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good indie action game fit for offline gaming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Every time I die, I exit the game and stare at my screen for a solid minute. Afterwards, I reopen the game and continue to hate my life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun arcade shooter, reminds me of back in the day playing mystical ninja on the snes. perfect for killing some time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is nice, fit to play in their spare time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a good game but you find after a while your getting stuck somewere and doing the same thing over and over again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "⁧ ⁨",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reading the poorly written negative reviews was hilarious.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It Aint Even A Good Game. Its Just Another Skyward Sword Ripoff   7.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great and i love it, but since today whenever i move my left stick it immediately fires my gun? If this could be fixed i'd be really happy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nuclear Throne for Free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a nice time killer. The only draw back is lack of a save game feature",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've only played this for around an hour at time of reviewing, but this game is great, I can see why it has 96% positive (at time of review) I don't think it has online Co-op just yet but if you have a buddy or like playing games solo then give it a shot, reminds me of Nuclear Throne alot, haven't played that much either but still, both very good games :)  EDIT 8/31/2015: I'm now just noticing that the Devs do not want to add online Co-op. I will still suggest this game and do not blame them, working on another huge thing after the game's already released is hard, he (they not sure) said that if anybody wants to mod in online he'd try to support but he won't work on it. I don't blame him and GL to anybody that wants to make online Co-op.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It doesn't feel so 'modern' as most new games in this genre. It doesn't have odd mouse movement, or a camera that follows the mouse, it's nice and simple and it has a fantastic atmosphere. I'd probably buy this. I haven't gotten far at all, so I can't say if the entire game is balanced, but I've been looking for something like this for a while and I recommend it just for the feel of the game. And gotta love that music.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relic Hunters Zero is a great twin stick shooter rogue-like in the vein of Nuclear Throne, Dungeon Souls and Teleglitch. The genre is increasingly popular and this entry is well worth your time especially since it's free to play:         YouTube™ Video:  Relic Hunters Zero - Free To Play - Relic Hunters Zero Gameplay PC - Relic Hunters Steam&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pretty good but then i died so meh",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very fun top down shooter game. the art is very pretty and the sprites are very well made. gameplay is fun so far and not to easy or to hard. One gripe I do have though is that its not online multiplayer, hopefully they will add this in the future. over al i love this game and would highly recomend this to anybody who wants a quick easy game .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't find the relic, neither can I find a friend to play with.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I installed it like a year ago and left it in my libary because I had more pressing matters to attend to (staring at my libary for 30 minutes before wondering why I had nothing new to play), then I picked it back up earlier and beat the game in an hour.         What do you want, an actual review? Fine.                                                      I'm Rick Harrison, and this is my pawn shop. I work here with my old man and my son, Big Hoss. Everything in here has a story and a price. One thing I've learned after 21 years - you never know what is gonna come through that door.               Was that bad? I'm sorry. I'll try again.                                      The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start. ding﻿.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is freaking awesome!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "not bad,nice game ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pretty damn good, Binding of Isaac but free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pixel style games are making a comeback, and when a game uses this principle and manages to still be fun is a welcome game to me.  Relic Hunters Zero is entertaining as an arcade style of game. It's simplistic gameplay, loads of collectibles and agreeable challenge factor give it major bonus points.  I find that some of the weapons are difficult to use, especially my go-to in shooters, the sniper rifle. I find that it's range is not at all what it could be, which is disappointing for anyone that wants to take enemies out from afar.  Also, the game's overall story is built on very little backstory, as if you are tossed into a fight that you have no idea is going on. This takes away from the interest, as I'm left questioning what is going on at all times.  That being said, what this game lacks in story is made up for in its charming and fun style of gameplay. This 2D shooter lets you roam through a variety of areas with a loadout of your choice, and you can either take out your enemies quietly or blow them to smithereens, taking the terrain with you.  Final verdict, Relic Hunters Zero is a good game all and all, because its fun and it has a bit of charm to it. The collection feature is a great way to boost playtime. It may lack in a few areas, but it makes up for them well enough that it doesn't matter. I can destroy my enemies and the whole world as I please! Mwahahaha!  Final Mark: 3/5 stars",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple and Fun Gameplay with Good Music + Nice Art Style! If you are looking for a Simple, Fun and Well Crafted Game, You should use some of your freetime to check this one out. And Since this game is free i don't see why you don't want to check this one out yourself ^^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm blown away this game is free. If it was $15 bucks or so, I wouldn't have batted and eye and still got it. Game is super fun. Controls are tight, monsters are fun to shoot, graphics are fun. Awesome, awesome little gem.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hands down, one of my favorite games at the moment, regardless of genre. The game is incredibly smooth, and even more addicting than many classic arcade games. The characters are brilliant, both in design and overall balance, and each time you play feels completely different from the last. The replayability is limitless. I'd give this game a solid 10/10 for what it is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game , waiting cop mod FAST PLS !!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the game is very fun i really enjoy it. but i do have a question will we be able to change the mouse color",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game really reminds me of Nuclear Throne. It's a great game and all but umm...Someone tell me how to local co op plez.    XD included.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've already played enough of this game to tell you all that it's one of the best free games on Steam, and the fact that it's free is nonsense because I would've gladly payed money for this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well made, but not the most fullfilling single player.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Is this game multiplayer suported and if it is then how do i do it? ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Seems like it would be a great game. The only problem is that, every time I shoot, the game crashes. Please fix this as I would really love to play this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a pretty fun game to play when you're bored and have absolutely nothing else to do. It may get a bit repetitive, but it should usually hold up. One major thing that I think was kind of dissapointing was the fact that there is no online multiplayer. I strongly, strongly recommend to the devs that they implement some sort of online play, it would make this game much more entertaining. You CAN, however, play local co-op on the same keyboard.. But, eh..  Overall, It's worth a play if you like this kind of thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is actually pretty fun! Usually i'm not a fan of games like this but right off the bat I started enjoying it. For THIS type of game the graphics are great. The enemy AI can be very challenging sometimes (damn parrots! &gt;=( lol) but that's what I like about it. Simple, fun and challenging! And to be free as well, definitely would recommend you to download it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You want a fun free game? Well this is it. It's fun gameplay, co-op mode, and achivements are fun to do. Not a lot of free games are good, but this one is good. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game but theres a bug(or not) where my game keeps crashing ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So Amazing. where do I start...  Pros: fun retro style side-scrolling shooter silly story well done high replay value. Cons: none  JUST DO IT",
+            "review_score": "1"
+        },
+        {
+            "review_text": "well im not able to play with my little brother and that sucks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good God, I recommend this game. Just gettin' high on chiptunes...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game- recommend a friend to play with though, as after acquiring all relics, and items, the final boss can still be kind of a pain. Game is based on replayability more than anything. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "See what we thought here!         YouTube™ Video:  FS Plays Relic Hunters Zero Live 1! Free to hunt!&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not bad for a free game. Enemy AI could do to be a bit more sophisticated in behaviour but otherwise a solid little effort.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a really cool game and it's free!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Actually pretty fun, can't complain for something that is free, but it runs very well and is fun to play with replayability. Very fun shooter, a bit challenging aswell!   so thumbs up!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relic Hunters Zero is free, which is a shame. It's a fun shooter with some kind of Roguelike elements. You're basically shooting Ducks from outer space, and man... They hit hard.  I'd gladly pay for this game, like, seriously.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Digging for treasure is easy:  The color corresponds to the closeness White - far Blue - close Red - within 1~3 box  The red region will be within the blue region and the blue within the white. The treasure might be all around the map, so move and find.  Once you learn this, you won't waste the first hour trying to dig up the treasure in one spot, but be able to have wham bam fun.  It's not as easy as it seems I assure you ;) ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I Love This Game! Its Easily Became My Favorite Recent Game And Came Close To My Top Ten Favorites! The Only Thing I Would Recomend Adding, If The Creators See This, I Would LOVE For Them To Implement Online Multiplayer So I Can Play With My Online Friends And To Add More Items, Guns, Relics, And Possibly New Worlds. If You Could Do This, It Would Do NOTHING BUT GOOD! I HIGHLY Recomend You Get This Game Or Atleast Try It Out, You Wont Regret It!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "better than expected purdy cuul",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game rocks! The controls are tight, the graphics are nice and cartoony, and the whole relic thing is very cool. Lovely game and i hope these developers make more like it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun and fast paced, Highly recomend to download!! besides it's free :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The first person that i shoot crashes my game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Is this game multiplayer suported and if it is then how do i do it? ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great free game very fun and has a arcade style",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relic Hunters Zero is fast-paced top down shooter about killing ducks, turtles, space dogs and bugs while searching for relics in space. It's difficult and 100% free and open source with mod support.   Pros",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What anyone want more than an open source spectacular game where you can customize your own mods :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game to play. I honestly don't understand why it's free. Great control and endless replayability!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best 2d Game I have ever played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty sick game.  Obviously made with love and care.  Nice artstyle, cool character designs.  No memes, everybody.  Round of applause.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Looks like lots of fun. but keeps crashing when ever a gun is fired",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the best free game I've ever played on steam and, as someone who has played decades of freeware, is up there with the most satisfying arcade experiences I've played for free. It's an absolute no-brainer for you to try this, I suspect you'll be tearing yourself away spending at least half an hour longer than you meant to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is quite a good game that will keep you entertained for a while. The only dissapointment is that it doesnt have online multiplayer, but still quite a good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a pretty good game, for being free. Maybe add Online multiplayer? And if that maybe also add pvp or ctf etc.. overall its pretty good. Would play alot more if i could play with steam friends with this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relic Hunters Zero is a fun 2D shooting game 100% Free for single-player campaign with lots of weapons and 5 or 6 characters to unlock. You start with two characters unlocked in case you want to play Multiplayer mode.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Adventure mode is great! Simple, straight to the point, unlock stuff to help you beat it. Pretty fun.  Endless mode, I have no idea if it's hard or I'm just really bad at the game. I've clocked in too many hours trying to beat the first loop. I don't know why I keep playing. Maybe it's because the enemies make duck noises when they die.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been kind of burned out on most of my games lately, but on a whim I decided to download this and give it a try. It's small and lightweight, runs on pretty much any machine, and it's really fun. I'd forgotten how entertaining such a stripped-down shmup can be. Bravo!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good retro shooter. Give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is better than call of duty",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Incredibly fun game, especially for a completely free game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "saw the words made by people who made chroma sqaud downloaded got a pineapple 10/10 got a pineapple and a game by behold for free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's A highly solid game considering it's free.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice and free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you took Halo, make it top down, added the boosing ability of Call of Duty: Advance Warfare, and thrown in a lot of cutness, then you would get Relic Hunters Zero. I don't think I've ever had this much fun with a game, in a very long time. It's visually appealing, and the gameplay is a lot of fun.  Highly recommended to those that want a quick shooter fix, with some quirkiness sprinkled in.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How to play relic hunters zero: 1: download 2: play. 3: . . .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What anyone want more than an open source spectacular game where you can customize your own mods :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The music is quite punchy to match gameplay 'attitude' Good job Dev.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great little gem that everyone should try. Multiple characters, Multiple weapons, amazing art style. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Real fast past fun co-op game  really fun. But add more stuff i want more  weapons more enemies mabye custom characters mabye levelng up or more leves i just want more updates. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I had a really good time, the Mechanics are simple yet exciting and the unlock able content keeps you playing. The only down side is that the game is rather small.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun lil game. I'd pay for a in depth verson of it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its an amazing, spectacular game, i have no doubt this game will see lots of success, i am enjoying the game very much in the short time that i have played it. it is an amazing game, 10/10 -ign, just the right amount of water.  Edit: November 2015, the devs said, 'See you next week!'  Its February 2016 and we havent heard a single word from them since  Re-Edit: Devs are alive!! Nice! Loving the new character Red, very unique. (Do they throw pokeballs to summon their Kamis?)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "best pixel game in the world",
+            "review_score": "1"
+        },
+        {
+            "review_text": "please translate the game into Polish",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so fun! im happy i was here when it was in Greenlight! 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "awsome game no question, and its free!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty damn good, for free. Like, free free, not f2p. Try it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game Is great but I have found a minor bug where if i pause the game everything will slow down to half the speed and i find it very odd. Other than that this game is amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow, so when I saw this game I thought 'Nothing too special here' God was I proved wrong, it's like a free Nuclear Throne, and it's super fun and cute, space ducks with fully automatic futuristic laser guns, and grenades that always find me, i love it, it's fantastic 11/10 don't judge it by screenshots or even my review, just play it. :D &lt;333  EDIT: the only thing that could make this game any more amazing is online multiplayer/Co-op, so me and my girlfriend can play c;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ogm i didt pay free 4 this 30 fps!!1!!!11!111",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is free and it's so good. The combat is fantastic, the music is cool, the *something* is *positive adjective*. It is short - my brother and I beat it in 4 hours - but once endless mode comes out, I think the length problem will be fixed. The only other problem is the camera in co-op, so hopefully that'll get fixed, too. Bottom line: Play it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "amzing game no micro transaction but wish for steam co-op so you can play with frends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Decent I guess my first impression was 'meh' but honestly worth the download considering it's F2P why not .. can't see myself playing this game for more than a few hours... I'll give it a thumbs up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is one of the best i ever play free to play and you continue play and you can play like 5 or 6 h whit out stoping i recomend this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'd pay good money for this gem",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game has just gotten me in absolute aw at how stunning the mechanics are,the variety of guns and just the amazing music.This game is a MUST for top-down shooter lovers.also ducks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1 Hour so far, Its Very Fun Game.. 8.7/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VERY GOOD GAME. Absolutely worth the download, if you like rogue-likes.  100/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like if Scott Pilgram and Nuclear Throne had a kinky night",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game Is Perfect!! It should be Multiplayer online!! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I mean I may only have only 17 minutes I plan on have more Hours on this game.  The best part about it is Free 10/10 would Fist Dogs again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good little game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's the kind of game that middle school me wish he had. It's pretty great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why is this game even free ?  I would love to pay for this game with more levels, characters, weapons and an online coop feature.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow !! What a nice quality game... and for free !! A retro alternative futuristic twin-stick shooter with a mix of rogue-like and some persistant rpg elements. Pretty graphics, punchy soundtrack, fun, addictive, with a solid gameplay and good feeling with weapons !!  You must try it !!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like this game a lot. It reminds me of Rouge Legacey meets isometric hotline miami. I did not think punching things would be fun, so I started with the shooting character. After a while I decided to mix it up and I'm so glad I did becuase she is so fun to use and just rip up the place. its fun to see how you can get the ideal loadout of relics to run through again. looking forward to unlockiing other characters.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a fan of Indie and Pixel Graphics games, I give dis 9/10...  Dis game got: - Cool music - Characters, each with their own special traits and abilities. - Good controls. - Guns? Hell yeah!  Cons: - It was pretty hard to find relics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "lots of fun toi be had with the first mode but then theres endless replayability with endless plus its open source so you can have mods too great game but will probably get boring around 100 hours but its free so.. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "definetely worth to check out, but i would have liked to see a level system or a lan coop capabilities in the game. the gameplay is smooth addicting art style is refreshing and the strategy and style are fun and enjoyable. but remember, this is all relevent in short bursts as the levels get repetetive so its a game to pick up every once in a while.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its awesome,for something that is free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IT IS AMAZING Some what difficult but AMAZING and it only to under a minute to download ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was incredible for a free game! Great graphics, Very replayable, and retro styled music. gj creators",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would fight ducks with machine guns again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Waw so funn :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just saying this game would be a lot greater with muliplayer ok?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazing dungeon shooter. This game has everything from epic music to an awesome art style that reminds me of loz windwaker.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very good game herry laik it  11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really radical relic hunting. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is fun if you like pixlie type games but if not i cant guarantee you will like this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good and Fun concept~ It have trading cards if u have the keys...  Quite hard at 1st but u will get used later. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very entertaining and fun...you cannot be it for the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is fun, plain and simple. There's a difficulty curve to it for sure, but the artstyle and gameplay make it rather addicting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very fun and very attdicive",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Addicting goofball shoot-em-up fun for FREE. Hotline Miami wishes it had anything on this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much fun, Very awsome, wow. This gam may not have very good graphics but the addictive gameplay and adverse weaponry makes for a awsome and very epics experience.   The starting menu thingama jigger is nice, where you can purchaase weapons,bombs,and ammo before u attack enemwies.  Shoot space ducks to unlock power ups and guns to shoot more space duckz.  very awsome, much likes, much liked, vey nice game ona goma. (eraser)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've only been playing for a week before I posted this review. I gotta say, I would've expected stuff like DLC or something to make us pay one way or another. That's how free games go on about nowadays.  However, these developers have returned the feeling of tingly warm sensation of generosity! For a game this good, it feels like it should be worth ten dollars or so. Instead of slapping a price tag, they just hand it to us, showing phenomenal artwork with pixel graphics so good, it brings back the old days. Music fits in well, and everything feels alive.  Focusing on game play, it really dives in the arcade feel. -It has 6 characters, all having unique stats and some having different game play. How they shoot, punch, use their grenades, or even what weapons they start off with. The variety of your tactics mixing with these characters make a lot of difference, but fun nonetheless. -Each of them has the following standard. -Health determines how much hits you can take before you get K.O.'d -Shield acts as a barrier for your health, and can recharge if you're safe from attacks long enough. -Grenades are throwable bombs for most characters. Some may use it differently however, like Pinkyy uses it for an invincible barrier for a short time. -Ammo, ranging from Light, Medium, and Heavy, it refills your guns clip depending on what kind of gun you have.  The game features two modes.  -Adventure Mode would be considered as 'Story Mode', or 'Campaign'. It holds 4 stages, each having 3 acts to complete the stage, then followed up by a boss known as Duke Duncan. The Adventure Mode is short, but is meant to be replayed as it offers 'Relics' that can be obtained through these levels or by buying them. (Not real money of course) Shoot or bust your way through these levels with planned out maneuvers or fast tactics. Watch your surrounding whether it's a crowd full of enemies, a cage full of dangerous beasts, an explosive box, or breakable barriers. The environment is there, and how you go about is up to you.  -Endless Mode is more or less like Adventure Mode. The only difference? It's mixing in with dungeon curses! The disadvantage occurs during the stage, sabotaging you or supporting the enemy. Now with even more troubles to worry about, you'll have to watch your ammo, health, shield, and your surroundings! Along the lines, there are even more relics to unlock and an exclusive weapon upgrade! Try the game and feel the difference!  -Rating- Price Range: More than Generous! Game play: Fast, Smooth, Tactical, and lots of Arcade fun without the use of quarters! Overall: 10/10 - No risk in trying something that's free!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! Fun and easy to play!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS GAME! THIS GAME!  it... is... so... AMAZING!!!!  DOWNLOAD AND PLAY NOWWWWWWWW!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you find an enemy and it kills you, it's all G-Man's fault.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really Good game!! 10/10 Love it !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cant think of a good thing..come back later",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's AWESOME! You shoot things! You die! You buy stuff! you shoot more things!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is meant to be impossible ( mostly for pros ) this game will make you rage....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very frustrating, but also an amazing piece of art.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like a cupcake, its colorfull and delicious but you finish it fast and you are just left wanting more. Honestly they could have dont a bit more with it, but hey... it is what it is  7/10 its ok",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really good indie free 2 play game  but its need online co_op it will be really awesome just that [7.9/10] [download it]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros : You dont waste your money  Cons : You waste your time  ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How is this game free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is just awesome. 10/10. Retro is real.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How do you play co-op?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I picked this up a while ago, but just tried it, and... I gotta say... I don't get the pissy negative reviews, its FREE and REALLY FUN! there's no microtransactions, to pay to win or wait to win, its just straight-up free.  like I'd pay probably $5 to $10 for this game (but I'm just a weenie who supports indie devs)  But real quick imma put the pros and cons and be like everyone else  +It's literally ♥♥♥♥ing free. There is no money you can or have to spend on this game. +Despite being completely free, it plays very well and has tight controls (on KBAM, never tried a controller, prefer KBAM for most games like this anyway, just my preference) +Super charming and realised art style, very pleasant to look at +Sound design is minimalistic, but again, charming and satisfying +Game feedback (screen shakes and hit sounds and such) is satisfying +It's open-source if you're into that! Aspiring game devs and experienced alike can poke around in the source code freely +Plenty of replayability added through a persistant unlock system (new characters, weapons I haven't unlocked yet, etc)  -No online co-op (doesnt kill it for me, but apparently a selling point for others) -I can see how some would see it as short or repetitive, but I won't complain for the low, low price of ♥♥♥♥♥♥♥ FREE -SOME, not all, may not like the game's aesthetic... that's about it...  how yall gonna complain about a completely free game, made for YOU, THE GAMERS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damn, this game is pretty fun. Combine that with a boppin'/boopin' soundtrack, cute graphics, and IT ALL BEING  FREE,  this is a solid little experience.  Even if it is a little easy to cheese the final boss with Pinkyy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like an easier to get into Nuclear Throne. It's actually similar to Nuclear Throne except everyone has a roll and the game is much less frantic overall, would easily recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 This game is really cool. The music can be kind of loud and high-pitched at times, but the style is cool. It is really engaging addictive. I like it a lot!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is SO good, I would pay for it if necessary, good retro graphics and music, addictive gameplay and it's always fun to play, I would like to see online multiplayer in the future!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall Great Game! But, I can't seem to use my PS3 controller on this game. It is always firing my weapons non-stop, making me unable to play the game as i would always waste ammo for no reason. Is there a manual for the PS3 controller on this game?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tons of fun. I like all the diffrent charas and the gamplay is fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "👌👀👌👀👌👀👌👀👌👀 good ♥♥♥♥ go౦ԁ ♥♥♥♥👌 thats ✔ some good👌👌♥♥♥♥ right👌👌there👌👌👌 right✔there ✔✔if i do ƽaү so my self 💯 i say so 💯 thats what im talking about right there right there (chorus: ʳᶦᵍʰᵗ ᵗʰᵉʳᵉ) mMMMMᎷМ💯 👌👌 👌НO0ОଠOOOOOОଠଠOoooᵒᵒᵒᵒᵒᵒᵒᵒᵒ👌 👌👌 👌 💯 👌 👀 👀 👀 👌👌Good ♥♥♥♥!!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IM having a problem playing Co-Op how do I play Co-Op please Btw the game is AWESOME AWESOME AND AWESOME!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok first off the game NEEDS to keep telling that a relic is near. Because itjust becomes tedious to deal with. The game is great though it just has some flaws. The game should just already have endless mode unlocked because it would be awesome for multiplayer.The game is addicting though i really like the character models. They look straight out of splatoon. 7/10. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "FEEL THE POWER OF THE SHOTGUN FEEL THE POWER OF MEGA GLOVES AND PUNCH THE LIVING CRAP OUT OF DUCKS! also there is gernades",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game for the price. Have basically gotten all the relics, just missing 1 part of the last one. get it and add it to your collection. 60MB and FREE. stop reading reviews and get it for the heck of it!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "when is it gonna be updated?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Cards",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best shootem up crawler games ive played, plus free!! Will pay gud money for relic hunters legends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Guys i love your game for real , the gameplay , the style , the music , everything ,except for one thing : when i am playing in endless sometimes it appears a blue/green tresure and whenever i am open it the game crash and an error code appears on my screen pls fix it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall Great Game! But, I can't seem to use my PS3 controller on this game. It is always firing my weapons non-stop, making me unable to play the game as i would always waste ammo for no reason. Is there a manual for the PS3 controller on this game?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So far it just seems like pretty-cool-looking-but-not-as-fun-but-free Enter the Gungeon. I've only played a bit but it seems like it's cool. Give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is pretty good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros : You dont waste your money  Cons : You waste your time  ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "why you no ps3 why i wanna play with my brother please add in ps3 :( please",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nothing to complain about with the game being free. It's short yea, but it definetly has some solid replay value to it. Combot is fast paced and will keep you on your toes. I believe the game is randomized and the relic hunting aspect gives you something to play through again for. Only slight complaint I have is that the melee character seems to be a little underpowered. Well, she definetly has enough POWER, but she feels a little squishy. I realize with the melee it's high rish high reward, but I find when playing with her, most situations call for gun combat as going in and trying to melee would result in my death or taking a lot of shots. I know she shouldn't/isn't a tank (since there is a character dedicated to that) but I think she should have a sheild that can take more than 3 or 4 hits from most enemies. Despite that, she's still playable and not broken in any sense. 10/10 great little gem",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice and nice and nice XD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's really good except for sometimes the mouse will glitch out and it becomes almost unusable for me. dunno whats that about",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a really nice bullet hell. All it needs is multiplayer, it only has local coop sad face.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "PLEASE AD SOME DLC! I want more, and i want to support the Devs. Great game. PROS: -Fun, quick gameplay -Pick-up and play game -local co-op -Cute characters -nice pixel art -controller compatibilty -loads of weapons -loads of unlockables -loads of characters -Completely free game with NO DLC or microtransactions -Controls well  CONS: -Bit of a short game -No online play (Yet)  TL;DR: 8/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game. The graphics, sound and gameplay remind me of classic retro games where you move and shoot or punch. Finding relics to use is always gratifying since it can take a while sometimes. This game rewards you and introduces to new things every single time you move to the next tage or zone.  Godd things I like: 1. Variety of characters after you unlock them. Which sometimes just takes time. 2. Weapons and specials are fun to use against enemies.  3. Relics are fun and gives a hand in some cases. 4. Co-op is fun 5. Endless mode is a good thing to play.  Only draw backs for me is:  1. sometimes it gets hard (Like stupid hard) but depends how you take it. 2. No online for those that want to play online 3. There is a story some what but its not all chat chat or cutscene really. It has Lore but the game is not heavy on it. 4. You probably wont take the game serious when you find out you fight ducks. 'DUCKS'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I know my time is short, but this game is fun! It's a amazing 2d shooter that is easy to pick up! However theres only one problem I have with this game. Relics are to hard to find! The levels are large, so finding the relic piece can take a long time, and is repetitive. The relic finding system needs to be better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't think, just play and appreciat music same time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a good game wth good potentiol but it needs better maps and more story but its good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a quircky and fun game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't believe this great game is completely free. Thanks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool graphics, nice chiptunes, fun gameplay. And it's FREE, so play it already.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS GAME! THIS GAME!  it... is... so... AMAZING!!!!  DOWNLOAD AND PLAY NOWWWWWWWW!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relic Hunters Zero is a pretty fun game. It has good characters and decent levels. The weapons and tactics are amazing! The varity of weapons to choose are pretty good, Including the weapons previously given to the player before choosing yor weapons .3.  Overall, this game is pretty gud, and has some good enemies with some difficult challenges. But, if you have a good enough stradegy, you could master this game. That's why I like to try my best on all levels :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great game, good replay value. Would've been better if the stages are random generated, since the endless mode is the only thing any player done with the campaign are playing, i get to the point of memorizing enemy spawn location which actually made it a bit easier and less fun. But it's great either way, i recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cheap card i can craft a badge within a dollar",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! cant beleive its free! worth a few hours of gameplay. cant see it beating gungeon but this one has its ownn fel and fun! less than 2 hours in and i'm forcing myself to stop so i can seep toonigh! cant wait to co-op with muh bros! also HighMag is a beast!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! cant beleive its free! worth a few hours of gameplay. cant see it beating gungeon but this one has its ownn fel and fun! less than 2 hours in and i'm forcing myself to stop so i can seep toonigh! cant wait to co-op with muh bros! also HighMag is a beast!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Coop review with Steam Controller: aiming is not convenient. The game was quite fun though.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a 2d game that won't run on most of the computers. It doesn't work only for me, but for all my friends too. Just look at steam discussions about relic hunters zero crashing after start. Developer does nothing with this problem. The game seems to be cool and it has local coop, but i guess i will never play it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is not a game that I enjoyed. (At least it was free) The story makes no sense from a typical gamer like me (ie skip everything and just get to the game) and the plot of the levels does not make much sense. I would prefer to design this in a bit different fashon, but how to do that without taking away the aspects of the game, I do not know.  The controller support, the only reasn I got this game, is pretty eh. It's ok, not really anything major.  Try it out if you want, it won't cost you anyhitng, but I didn'y find it too memorable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ok so i play this game a lot and i quite like it aswell, BUT if you use a mac, just forget about getting it. The creaters obviously dont even ♥♥♥♥ing care about mac users... BECAUSE THEY STILL HAVENT GOTTEN US MAC USERS PAST UPDATE 7 AND ITS AT ♥♥♥♥ING 13 NOW. ♥♥♥♥ YOU DEVS AND GET YOUR HEAD OUTA YOUR ♥♥♥. nuf said",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Everytime I try to shoot or hit it crashes my. I have tryed restarting my computer and it didnt help. Does anyone have the same problem?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Is a rip-off of an actual good game.Try nuclear throne",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I spend 2 hours digging for relics while i spend 30 minutes clearing the different floors. Do not play this game if you want to keep your sanity.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was cute and easy enough, but it too wacky for me and should be a mobile app instead of a PC game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "99% of the time i played this i was spamming e looking for treasure.    11/10  not even good enough to be free  #would rather eat my own legs",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "so sad that there is no online coop",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I don't have the best PC ever but this game shouldn't slow down this much It says 40/60 fps with lowest settings but it's slow and laggy, I play Warframe on this for God's sake",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Needs online co-op",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its those types of games where you'll never play for over 10hrs of.",
+            "review_score": "-1"
+        }
+    ]
+}

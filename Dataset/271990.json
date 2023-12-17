@@ -1,0 +1,51 @@
+{
+    "app_id": 271990,
+    "name": "Dreamscape",
+    "release_date": "2015-02-02",
+    "developer": [
+        "Aldorlea Games"
+    ],
+    "publisher": [
+        "Degica"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "RPGMaker",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 39,
+    "negative_ratings": 6,
+    "price": 6.99,
+    "description": "Addictive RPG with bits of strategy to enhance the gameplay, Dreamscape can be played in 4 different modes and features different rewards for completing them. You even get bonus heroes if you complete a mode without using the healing goddess!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/271990/header.jpg?t=1447360029",
+    "minimum_requirements": "Минимальные: ОС: Windows XP/Windows Vista/Windows 7/8 Процессор: 1.6 GHz Оперативная память: 128 MB ОЗУ Видеокарта: DirectX 9.0 Compatible DirectX: Версии 9.0 Место на диске: 120 MB Звуковая карта: DirectX 9.0 Compatible Sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The story is nice 8/10 The music fits in the areas so 10/10 The characters are all different and funny in their own ways 9/10 This game seems to be for girls but really is for all sexes  overall this game is a 9.75/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dispite being mostly a good game, I cannot continure playing it due to a game breaking bug in JAG 12, basically preventing the game from letting you past that one point.  EDIT: Found the problem, but you have to run into the wall to the left of the starting point first, a bug that can really break the game.",
+            "review_score": "-1"
+        }
+    ]
+}

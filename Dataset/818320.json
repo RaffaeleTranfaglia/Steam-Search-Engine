@@ -1,0 +1,44 @@
+{
+    "app_id": 818320,
+    "name": "LEGO® The Incredibles",
+    "release_date": "2018-06-15",
+    "developer": [
+        "TT Games",
+        "Feral Interactive (Mac)"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment",
+        "Feral Interactive (Mac)"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "LEGO"
+    ],
+    "achievements": 51,
+    "positive_ratings": 143,
+    "negative_ratings": 33,
+    "price": 34.99,
+    "description": "Experience the thrilling adventures of the Parr family as they conquer crime and family life through both Disney-Pixar films The Incredibles and Incredibles 2, in a LEGO® world full of fun and humor.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818320/header.jpg?t=1543412689",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 x64 Processor: Intel Core i3-3240 (2 * 3400) or equivalent, AMD Athlon X4 740 (2 * 3200) or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 560 (1024 MB), Intel Iris Pro 5200 (shared), Radeon HD 5850 (1024 MB) DirectX: Version 11 Network: Broadband Internet connection Storage: 16 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+    "recommended_requirements": null,
+    "reviews": []
+}

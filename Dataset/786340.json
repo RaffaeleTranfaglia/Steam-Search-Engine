@@ -1,0 +1,41 @@
+{
+    "app_id": 786340,
+    "name": "Ativeil",
+    "release_date": "2018-02-15",
+    "developer": [
+        "Phoesion"
+    ],
+    "publisher": [
+        "Phoesion"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 18,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "Ativeil is a fun and interesting 3D puzzle game. Cubes, lasers, teddy bears... this game has them all. Can you figure it out ?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786340/header.jpg?t=1532706489",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: Dual Core 1.8 GHz Memory: 4 GB RAM Graphics: GeForce 750, Radeon R7 240, 1GB VRAM, Shader Model 5.0 or better DirectX: Version 11 Storage: 3 GB available space Additional Notes: *Intel® HD Graphics not supported",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad Core 2.4 GHz Memory: 8 GB RAM Graphics: GeForce 1070, Radeon RX 570, 4 GB VRAM DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

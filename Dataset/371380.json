@@ -1,0 +1,47 @@
+{
+    "app_id": 371380,
+    "name": "Dr. Spacezoo",
+    "release_date": "2016-05-09",
+    "developer": [
+        "SmashRiot LLC"
+    ],
+    "publisher": [
+        "SmashRiot LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 10.99,
+    "description": "Rescue exotic space animals from a corrupt AI in Dr. Spacezoo, a chaotic twin-stick precision shoot-em-up for 1-4 players. Or reduce them to gibs. Your call, monster.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371380/header.jpg?t=1492565065",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2 Ghz Core i5+ Memory: 4 GB RAM Graphics: Recent on-board (Iris+) DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

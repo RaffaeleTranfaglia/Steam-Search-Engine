@@ -1,0 +1,40 @@
+{
+    "app_id": 684170,
+    "name": "Hexlide",
+    "release_date": "2017-09-29",
+    "developer": [
+        "Tooth Decay Entertainment"
+    ],
+    "publisher": [
+        "Tooth Decay Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 2,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "A minimalist, relaxing puzzle game with beautiful music.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/684170/header.jpg?t=1507664191",
+    "minimum_requirements": "OS: Windows Vista Processor: 2GHz, 1 core Memory: 256 MB RAM Graphics: integrated Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2GHz, 2 cores Memory: 512 MB RAM Graphics: 128MB Storage: 300 MB available space",
+    "reviews": []
+}

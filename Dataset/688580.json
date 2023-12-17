@@ -1,0 +1,35 @@
+{
+    "app_id": 688580,
+    "name": "Tanker",
+    "release_date": "2017-08-21",
+    "developer": [
+        "Alexey Volonsky"
+    ],
+    "publisher": [
+        "AYE Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 7,
+    "price": 3.19,
+    "description": "Tanker - logical puzzle-game in which player moves boxes in the labyrinth to place them on fixed finish positions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/688580/header.jpg?t=1527713918",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo (or equivalent) Memory: 512 MB RAM Graphics: with 256 MB VRAM compatible with DirectX 9 DirectX: Version 9.0 Storage: 120 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i3 (or equivalent) Memory: 1024 MB RAM Graphics: with 512 MB VRAM compatible with DirectX 9 DirectX: Version 9.0 Storage: 140 MB available space Sound Card: DirectX® Compatible",
+    "reviews": []
+}

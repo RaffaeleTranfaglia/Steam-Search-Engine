@@ -1,0 +1,46 @@
+{
+    "app_id": 452920,
+    "name": "Laser Disco Defenders",
+    "release_date": "2016-10-06",
+    "developer": [
+        "Out Of Bounds"
+    ],
+    "publisher": [
+        "Excalibur Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Cartoony"
+    ],
+    "achievements": 12,
+    "positive_ratings": 32,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "A self-inflicted bullet hell that combines retro sci-fi with the sounds and sights of the disco era",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/452920/header.jpg?t=1555511882",
+    "minimum_requirements": "OS: Windows 7 or above Processor: Intel dual core processor 2GHz or faster Memory: 2 GB RAM Graphics: Dedicated graphics with 256MB memory or more Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "tl;dr a fast-paced bullet hell with funky tunes and funky moves.  Laser Disco Defenders isn't the sort of game I'd pick up normally, but I had a preview of a pre-release build at a demo booth at a local gaming and video convention and I've followed with interest since.  The gameplay is essentially flying though the level and destroying enemies (with frikkin' lasers), with the interesting twist of any shots stay in the level. There's different characters - they vary from slow with lots of health to very fast with no health, and outfit additions like medallion (protect you from a hit) and in-game powerups (slow down time, suck lasers in), and firing modes (long, slow laser burst, lots of fast laser bursts).  The game basically runs on anything (my system is quite overkill - AMD FX-8320E 8-Core, 16GB, 480GB SSD and RX480 8GB) - the only things I'd like to see in future updates are a passcode system or the ability to skip to later levels once they've been played once (at the cost of a point handicap, or something similar) and maybe split-screen multiplayer. One on keyboard + Mouse, one on controller, or both players on controller. Could be intersting.  Endless replayability, a funky soundtrack, and a combination of being both infuriating and 'just one more go' for under £7.",
+            "review_score": "1"
+        }
+    ]
+}

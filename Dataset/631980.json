@@ -1,0 +1,39 @@
+{
+    "app_id": 631980,
+    "name": "Immortal Planet",
+    "release_date": "2017-07-27",
+    "developer": [
+        "teedoubleuGAMES"
+    ],
+    "publisher": [
+        "teedoubleuGAMES"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Souls-like",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 111,
+    "negative_ratings": 15,
+    "price": 10.99,
+    "description": "Immortal Planet is an action RPG with challenging combat that rewards patience and punishes recklessness. Explore the crumbling remains of a society of immortals trapped in endless cycles of rebirth. Fight your way to discover the planet's mystery and escape its curse.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/631980/header.jpg?t=1501192900",
+    "minimum_requirements": "OS: Windows 7 or later. Graphics: Integrated should be fine. DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 372080,
+    "name": "Ananias Roguelike",
+    "release_date": "2017-02-09",
+    "developer": [
+        "Slashware Interactive"
+    ],
+    "publisher": [
+        "Slashware Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 37,
+    "positive_ratings": 31,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Explore five ancient realms fighting their monstrous inhabitants in this turn based, graphical classic roguelike. Every time you play the game will create new places full of challenges and surprises for you populated with monsters and ancient magical artifacts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372080/header.jpg?t=1486687343",
+    "minimum_requirements": "OS: Windows 7+ Processor: Core 2 Duo / Athlon 64 Memory: 1 GB RAM Graphics: None Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

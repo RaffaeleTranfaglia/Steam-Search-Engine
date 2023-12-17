@@ -1,0 +1,36 @@
+{
+    "app_id": 801200,
+    "name": "Fitzzle Mighty Bears",
+    "release_date": "2018-02-19",
+    "developer": [
+        "Red Dolphin Games"
+    ],
+    "publisher": [
+        "VT Publishing"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 5000,
+    "positive_ratings": 13,
+    "negative_ratings": 10,
+    "price": 3.99,
+    "description": "Puzzles are randomly created each play through with over 2,000 puzzle combinations for a new experience each play through. The squares on the left need to perfectly fit into the image on the right. You clear out the corresponding squares and merge the two images together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/801200/header.jpg?t=1540788218",
+    "minimum_requirements": "Минимальные: ОС: Win 7 32-bit or better Процессор: 2.0 ghz or higher Оперативная память: 500 MB ОЗУ Видеокарта: 500 Megs VRAM DirectX: Версии 9.0 Место на диске: 500 MB",
+    "recommended_requirements": null,
+    "reviews": []
+}

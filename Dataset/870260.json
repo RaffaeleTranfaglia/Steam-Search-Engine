@@ -1,0 +1,39 @@
+{
+    "app_id": 870260,
+    "name": "Forward Line",
+    "release_date": "2018-07-09",
+    "developer": [
+        "Dreamreason"
+    ],
+    "publisher": [
+        "Dreamreason"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 5,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Forward Line is a two player, medium weight, skill-based strategy game with a World War Two theme. It features internet, LAN, hotseat multiplayer and single player against the computer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/870260/header.jpg?t=1551059168",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DirectX 10 compatible DirectX: Version 10 Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

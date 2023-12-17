@@ -1,0 +1,43 @@
+{
+    "app_id": 464920,
+    "name": "Surviving Mars",
+    "release_date": "2018-03-15",
+    "developer": [
+        "Haemimont Games"
+    ],
+    "publisher": [
+        "Paradox Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "City Builder",
+        "Survival"
+    ],
+    "achievements": 60,
+    "positive_ratings": 3942,
+    "negative_ratings": 1608,
+    "price": 26.99,
+    "description": "There will be challenges to overcome. Execute your strategy and improve your colony’s chances of survival while unlocking the mysteries of this alien world. Are you ready? Mars is waiting for you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/464920/header.jpg?t=1556002511",
+    "minimum_requirements": "OS: Windows 7 64-bit or newer Processor: 4th Generation Intel i3 CPU or equivalent Memory: 4 GB RAM Graphics: HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM Storage: 6 GB available space",
+    "recommended_requirements": "OS: Windows 7 64-bit or newer Processor: 5th Generation Intel i5 CPU or equivalent Memory: 8 GB RAM Graphics: Geforce 750 Ti or equivalent with 4GB of video RAM Storage: 6 GB available space",
+    "reviews": []
+}

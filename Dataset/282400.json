@@ -1,0 +1,39 @@
+{
+    "app_id": 282400,
+    "name": "SuperPower 2 Steam Edition",
+    "release_date": "2014-04-18",
+    "developer": [
+        "GolemLabs"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Politics"
+    ],
+    "achievements": 14,
+    "positive_ratings": 1296,
+    "negative_ratings": 354,
+    "price": 8.99,
+    "description": "SuperPower 2 is the only global geopolitical simulation game which allows players to control entire countries. Players control countries in 3 major areas: political, economic and military, but this time, in a beautiful real-time 3D environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/282400/header.jpg?t=1490951076",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 1.5 GHz CPU Processor Memory: 256 MB RAM Graphics: DirectX compatible graphic card with 64 MB DirectX: Version 9.0",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 2 GHz CPU Processor Memory: 512 MB RAM Graphics: DirectX compatible graphic card with 128 MB DirectX: Version 9.0",
+    "reviews": []
+}

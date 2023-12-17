@@ -1,0 +1,42 @@
+{
+    "app_id": 430190,
+    "name": "Wondershot",
+    "release_date": "2016-02-19",
+    "developer": [
+        "Leikir Studio"
+    ],
+    "publisher": [
+        "Leikir Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Local Multiplayer",
+        "4 Player Local"
+    ],
+    "achievements": 56,
+    "positive_ratings": 19,
+    "negative_ratings": 3,
+    "price": 9.99,
+    "description": "Wondershot is a local multiplayer battle arena! You have only one ammo and one life to defeat your opponent. Each round, your weapon changes and the map does too. No luck, just skill !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/430190/header.jpg?t=1458727495",
+    "minimum_requirements": "OS: Windows Vista / 7 / 8 / 8.1 /10 Processor: 2.4 GHz Intel Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: NVIDIA GeForce 8600 GT or equivalent DirectX: Version 9.0 Storage: 800 MB available space Sound Card: DirectX 9 Compatible Audio",
+    "recommended_requirements": "OS: Windows 7 / 8 / 8.1 /10 Processor: 3.3 GHz Intel Core i5 or equivalent Memory: 4 GB RAM Graphics: NVIDIA GTX 760 or equivalent DirectX: Version 9.0 Storage: 800 MB available space Sound Card: DirectX 9 Compatible Audio",
+    "reviews": []
+}

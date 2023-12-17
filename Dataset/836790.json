@@ -1,0 +1,38 @@
+{
+    "app_id": 836790,
+    "name": "Dr. Pills",
+    "release_date": "2018-04-17",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 21,
+    "positive_ratings": 13,
+    "negative_ratings": 10,
+    "price": 1.69,
+    "description": "Here is a brand new puzzle game in which you need to gather up pills of the same color to destroy all the harmful bacteria.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/836790/header.jpg?t=1523979810",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 200 MB available space",
+    "reviews": []
+}

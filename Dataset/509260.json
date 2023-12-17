@@ -1,0 +1,42 @@
+{
+    "app_id": 509260,
+    "name": "Northern Regime",
+    "release_date": "2017-02-17",
+    "developer": [
+        "Axel Anderson"
+    ],
+    "publisher": [
+        "Axel Anderson"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 11,
+    "positive_ratings": 12,
+    "negative_ratings": 19,
+    "price": 7.99,
+    "description": "Northern Regime: 1862 is a hardcore survival game set against the backdrop of the American Civil War in the frozen and frigid lands of Northern Dakota. It’s you vs. the environment and all its inherent dangers as you tackle Confederate soldiers, hostile wildlife, and the cold to stay alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509260/header.jpg?t=1487716177",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: 2 GHz Memory: 6 GB RAM Graphics: 650 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: 3 GHz Memory: 8 GB RAM Graphics: 660 Storage: 5 GB available space",
+    "reviews": []
+}

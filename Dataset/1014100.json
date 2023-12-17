@@ -1,0 +1,38 @@
+{
+    "app_id": 1014100,
+    "name": "Shivering Sky",
+    "release_date": "2019-02-04",
+    "developer": [
+        "Denys Li"
+    ],
+    "publisher": [
+        "Denys Li"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 4.79,
+    "description": "Play as a gunner in B-25 bomber. Shoot enemy interceptors and support friendly air forces to finish the bombing mission. Chose between side, tail, top or nose gunner positions to resist enemy attacks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1014100/header.jpg?t=1549284405",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 x64 Processor: Single-Core 3.5 Ghz Memory: 4 GB RAM Graphics: 2GB VRAM, from 2013 or newer (GeForce 700, Radeon R7) DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

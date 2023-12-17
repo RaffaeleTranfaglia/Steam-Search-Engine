@@ -1,0 +1,43 @@
+{
+    "app_id": 496480,
+    "name": "Vex",
+    "release_date": "2016-09-13",
+    "developer": [
+        "Stenner Studios",
+        "Killbox Graphics"
+    ],
+    "publisher": [
+        "UltraShock Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 17,
+    "negative_ratings": 6,
+    "price": 2.49,
+    "description": "Vex is a retro, re-imagining of the classic arcade genre, and strikes the balance between simplicity and intricacy. It is a casual yet challenging game, reminiscent of the early days of video games, but with a more modern feel. Vex is a crowdfunded indie game, built with love and character in mind.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496480/header.jpg?t=1529594378",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Pentium 4 / AMD Athlon 64 X2 Memory: 1 GB RAM Graphics: Geforce 8400 GS / AMD HD 5450 DirectX: Version 10 Storage: 125 MB available space Additional Notes: Integrated Graphics are compatible.",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i3 / AMD FX 4300 Memory: 2 GB RAM Graphics: Nvidia GTX 570 / AMD HD 6870 DirectX: Version 11 Storage: 125 MB available space Additional Notes: Integrated Graphics are compatible.",
+    "reviews": []
+}

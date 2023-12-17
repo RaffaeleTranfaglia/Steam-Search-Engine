@@ -1,0 +1,51 @@
+{
+    "app_id": 436400,
+    "name": "Heroes of the Seven Seas VR",
+    "release_date": "2016-10-14",
+    "developer": [
+        "Mirage Interactive",
+        "北京魔视互动科技有限公司"
+    ],
+    "publisher": [
+        "Mirage Interactive",
+        "北京魔视互动科技有限公司"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "VR Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 35,
+    "negative_ratings": 9,
+    "price": 4.99,
+    "description": "This is about a pirate’s adventure in the 16th century. Player will be the pirate to start a stimulating journey with friends to seek after the legendary Seven Sea Artifact on the mysterious sea. Explore and conquer the pirate world in VR now. Time to command your pirate ship with HTC VIVE.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/436400/header.jpg?t=1548397294",
+    "minimum_requirements": "OS: win7 Processor: 1.7 GHz Processor Memory: 512 MB RAM DirectX: Version 11 Storage: 2000 MB available space",
+    "recommended_requirements": "OS: win7 Processor: 3.2 GHz Processor Memory: 1024 MB RAM DirectX: Version 11 Storage: 5000 MB available space",
+    "reviews": [
+        {
+            "review_text": "interesting VR experience, especially on the boat. the graphics are good and the voice acting is excellent. the storyline is kinda short tho, I expect more content in the future.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Controls get wonky at times and should be tweaked to make the sailing and sea battles more enjoyable. The game is way too short.   The above said. I had a blast playing it and look forward to more VR games like this.",
+            "review_score": "1"
+        }
+    ]
+}

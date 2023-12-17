@@ -1,0 +1,41 @@
+{
+    "app_id": 612840,
+    "name": "Boxplosion",
+    "release_date": "2018-01-15",
+    "developer": [
+        "DNV"
+    ],
+    "publisher": [
+        "DNV"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 5.59,
+    "description": "An intense particle colliding experience for Virtual Reality. Interact with particles in unique new ways.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/612840/header.jpg?t=1516214087",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Recent dual core, Quad core or better recommended Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD R9 280 DirectX: Version 11 Storage: 500 MB available space Additional Notes: Requires VR motion controllers",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

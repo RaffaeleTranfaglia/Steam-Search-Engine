@@ -1,0 +1,41 @@
+{
+    "app_id": 602770,
+    "name": "Clatter",
+    "release_date": "2018-12-10",
+    "developer": [
+        "Facepunch Studios"
+    ],
+    "publisher": [
+        "Facepunch Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based"
+    ],
+    "achievements": 12,
+    "positive_ratings": 198,
+    "negative_ratings": 29,
+    "price": 7.19,
+    "description": "Create and command your own customizable squads of fighting robots in this turn-based, arena tactics game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/602770/header.jpg?t=1553791981",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i3 6100 or AMD FX-4350 Memory: 4 GB RAM Graphics: NVIDIA Geforce GT 1030 - 2GB, AMD RX550 - 2GB, Integrated: Intel HD Graphics 630 DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel Core i5 6600 or AMD Ryzen 1600x Memory: 8 GB RAM Graphics: NVIDIA Geforce GTX 1060 - 3 GB, AMD RX 580 - 4 GB DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

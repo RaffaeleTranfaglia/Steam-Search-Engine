@@ -1,0 +1,41 @@
+{
+    "app_id": 740790,
+    "name": "Goldmine",
+    "release_date": "2018-03-28",
+    "developer": [
+        "Alaric von Teplitz"
+    ],
+    "publisher": [
+        "Alaric von Teplitz"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 34,
+    "positive_ratings": 72,
+    "negative_ratings": 21,
+    "price": 0.79,
+    "description": "A casual clicker / resource management game in which you are tasked with running a fantasy goldmine.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/740790/header.jpg?t=1546395305",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, Windows 8, Windows 8.1, Windows 10 or later Processor: An Intel Pentium 4 processor or later that's SSE2 capable Memory: 500 MB RAM Graphics: Any Storage: 200 MB available space Sound Card: Any Additional Notes: A monitor with at least 1080 pixels of vertical resolution.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

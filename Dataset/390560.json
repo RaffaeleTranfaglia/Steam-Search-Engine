@@ -1,0 +1,45 @@
+{
+    "app_id": 390560,
+    "name": "Fantasy Strike",
+    "release_date": "2017-09-14",
+    "developer": [
+        "Sirlin Games"
+    ],
+    "publisher": [
+        "Sirlin Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Fighting"
+    ],
+    "achievements": 0,
+    "positive_ratings": 221,
+    "negative_ratings": 31,
+    "price": 14.99,
+    "description": "A fighting game designed from the ground up to be so easy to control that even non-fighting game players can play it, yet deep enough to play in tournaments. Vibrant graphics and excellent online play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/390560/header.jpg?t=1554439471",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ Processor: Intel Core i5-4302Y @ 1.6GHz, Celeron G1840 @ 2.8 GHz / AMD Athlon II X3 Memory: 4 GB RAM Graphics: GeForce GT 555M, 9800 GTX / Radeon R7, HD 8500 DirectX: Version 11 Storage: 6 GB available space Sound Card: -",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ Processor: Intel Core i5-5200U @ 2.20GHz, Celeron G3920 @ 2.90GHz / AMD Athlon II X4 645 Memory: 8 GB RAM Graphics: GeForce GTX 960, Radeon R9 280X DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: -",
+    "reviews": []
+}

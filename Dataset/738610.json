@@ -1,0 +1,44 @@
+{
+    "app_id": 738610,
+    "name": "Train Station Simulator",
+    "release_date": "2017-12-14",
+    "developer": [
+        "Appliks Apps Studios"
+    ],
+    "publisher": [
+        "Appliks Apps Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 32,
+    "positive_ratings": 115,
+    "negative_ratings": 50,
+    "price": 14.49,
+    "description": "Train Station Simulator is a station builder and manager game. Create and maintain your dream station! Ride the rails and operate your ultimate grand central empire!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/738610/header.jpg?t=1542711827",
+    "minimum_requirements": "OS: Windows XP SP 2 Processor: Intel Core 2 Duo 2.4 GHz | AMD: 3 GHz Memory: 4 GB RAM Graphics: Any 1 GB RAM DirectX: Version 9.0 Storage: 250 MB available space Additional Notes: Windows 8 and Windows 8.1 might not fully supported. 16:9, 16:10, 21:9, 16:3 supported (Tested: 1600x900, 1600x1200, 1680x1050, 1920x1080, 1920x1200, 1920x1440, 2048x1536, 2560x1080, 2560x1440, 2560x1600, 3440x1440, 5760x1080)",
+    "recommended_requirements": "OS: Windows 7 (or higher) (64 bit) Processor: Intel Core i7 2.6 GHz | AMD: 3 GHz Memory: 8 GB RAM Graphics: Any 1.5 GB RAM (or higher) DirectX: Version 9.0 Storage: 500 MB available space Additional Notes: Windows 8 and Windows 8.1 might not fully supported. 16:9, 16:10, 21:9, 16:3 supported (Tested: 1600x900, 1600x1200, 1680x1050, 1920x1080, 1920x1200, 1920x1440, 2048x1536, 2560x1080, 2560x1440, 2560x1600, 3440x1440, 5760x1080)",
+    "reviews": []
+}

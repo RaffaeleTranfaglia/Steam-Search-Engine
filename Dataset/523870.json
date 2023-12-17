@@ -1,0 +1,49 @@
+{
+    "app_id": 523870,
+    "name": "Breaking Fast",
+    "release_date": "2017-06-08",
+    "developer": [
+        "Tale Studios"
+    ],
+    "publisher": [
+        "Tale Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 35,
+    "positive_ratings": 26,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Challenge your friends and family to a fast-paced racing game where breakfast foods battle it out in delicious scenarios. You can turn into a cookie or a carton of milk and fight for your honor online or offline. Will you be the fastest? The smartest? The most delicious?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/523870/header.jpg?t=1513853994",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: If it's a laptop with no dedicated GPU, CPU should be less than 2 years old. Memory: 2 GB RAM Graphics: Dedicated GPU recommended Network: Broadband Internet connection Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

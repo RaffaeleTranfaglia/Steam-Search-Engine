@@ -1,0 +1,41 @@
+{
+    "app_id": 897030,
+    "name": "Paratopic",
+    "release_date": "2018-09-06",
+    "developer": [
+        "Arbitrary Metric"
+    ],
+    "publisher": [
+        "Arbitrary Metric"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Captions available"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Surreal",
+        "Horror"
+    ],
+    "achievements": 20,
+    "positive_ratings": 234,
+    "negative_ratings": 45,
+    "price": 4.79,
+    "description": "Smuggle contraband VHS tapes across the border. Discover the remnants of illicit industry. Prepare for an assassination. This is Paratopic, an atmospheric retro-3D horror adventure through a cursed fever dream.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/897030/header.jpg?t=1554902621",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel Core Duo Q8300 @ 2.5GHz Memory: 4 GB RAM Graphics: Intel HD Graphics 630 Storage: 392 MB available space Sound Card: Onboard Sound Additional Notes: These specifications match the lowest tested.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5 or higher Memory: 4 GB RAM Graphics: GeForce GT 630 2GB DDR3 or Higher Storage: 392 MB available space Sound Card: Onboard Sound",
+    "reviews": []
+}

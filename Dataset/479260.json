@@ -1,0 +1,49 @@
+{
+    "app_id": 479260,
+    "name": "Cuties",
+    "release_date": "2016-05-29",
+    "developer": [
+        "Roman Anatolevich",
+        "Denis Ovsyannikov"
+    ],
+    "publisher": [
+        "Atriagames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 101,
+    "negative_ratings": 64,
+    "price": 1.99,
+    "description": "The colorful and positive arcade in the best traditions of retro gaming in a new way, remember the best years and plunge headlong into the childhood of this kind and incredibly cute colorful arcade - Cutties! Help the rabbits love to meet each other without going through a cruel gluttonous pig.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/479260/header.jpg?t=1495590452",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0+ GHz Memory: 512 MB RAM Graphics: Integrated Graphics Storage: 120 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Launching  Cuties  (or  Cutties  as it's called in the game proper) brings up a GameMaker installer. By default it will place the files in your user folder, but you can set them to go to the game's Steam folder, or wherever you prefer. Launching through Steam will still bring up the installer; to play the game you'll need to launch the newly installed executable. Replacing the installer file with a renamed game file does not help, as the game will fail to launch - apparently this is due to a conflict between Steam and older versions of GameMaker, or something (I read about it on another GM game's forum, but I forget the details).  Anyway, after all that annoyance, the game must be really good to have garnered such a warm reception, right? Yeah, not really, no. Aside from the rather shrill royalty-free banjo track playing at all times, the emotionless characters wandering through generic tilesets, and the fact that you can't use WASD to move even though the first tutorial message says you can, this game has a couple of major bugs that make me question whether it was actually tested at all.  The first bug kept sending me back to level 2. At first I though it was happening at random, but on further investigation it seems it happened whenever I unlocked a new level. Why yes, I did have to replay the interim levels! Going back to the stage select reset all progress. That on its own would be grounds for quitting, but 'luckily' bug number two made the decision easier. Level 6 introduces pits which restart the level if either of the player characters touch them. Sounds good; finally we have some challenge. However, due to some poor collision detection, collecting one of the carrots needed to finish the level also caused me to touch the adjacent pit, thus rendering the game unwinnable.  Even if the above problems were fixed (lol, can you imagine?), the game itself is clunky, tedious and badly presented. The first five levels (out of 27, so almost a fifth of the game) lack any challenge and feel more like busywork than puzzles. With pacing like that, I don't expect the game to improve in level 7 and beyond.  Y'know, call me a conspiracy nut, but I don't think most of this game's positive reviews are sincere.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very good game! Haven't seen something like this before! Recomended!!!!!!!!!",
+            "review_score": "1"
+        }
+    ]
+}

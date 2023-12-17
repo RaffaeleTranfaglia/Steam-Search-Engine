@@ -1,0 +1,48 @@
+{
+    "app_id": 407100,
+    "name": "Gulf of Aden - Task Force Somalia",
+    "release_date": "2015-12-14",
+    "developer": [
+        "BlewScreen"
+    ],
+    "publisher": [
+        "BlewScreen"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 20,
+    "negative_ratings": 0,
+    "price": 5.59,
+    "description": "In 20 different missions you have to tactically prevent pirates in the Gulf of Aden from attacking and seizing civilian targets. These targets range from oil tankers and drilling platforms to sailing yachts and even disabled pirate mother ships.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/407100/header.jpg?t=1452686861",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel core 2 duo T6600 - AMD opteron 1216 Memory: 2 GB RAM Graphics: Geforce 210 - Radion HD4350 DirectX: Version 9.0c Storage: 700 MB available space Sound Card: Onboard",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Battleship somalia edition -D",
+            "review_score": "1"
+        }
+    ]
+}

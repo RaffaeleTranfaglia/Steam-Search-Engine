@@ -1,0 +1,45 @@
+{
+    "app_id": 556010,
+    "name": "Neon Arena",
+    "release_date": "2017-02-20",
+    "developer": [
+        "Axyos Games"
+    ],
+    "publisher": [
+        "Axyos Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 45,
+    "negative_ratings": 22,
+    "price": 3.19,
+    "description": "Let's fight on the Neon Arena!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/556010/header.jpg?t=1520338218",
+    "minimum_requirements": "OS: Windows 7 (32-bit) Processor: 2.66 Ghz (2 Core) Memory: 4 GB RAM Graphics: GeForce GTX 260 Storage: 2 GB available space Additional Notes: For VR mode you should have GeForce GTX 760 or higher",
+    "recommended_requirements": "OS: Windows 7, 8, 10 (32 or 64 bit) Processor: 3.33 Ghz (4 Core) Memory: 4 GB RAM Graphics: GeForce GTX 660 Storage: 2 GB available space Additional Notes: For VR mode you should have GeForce GTX 970 or higher",
+    "reviews": []
+}

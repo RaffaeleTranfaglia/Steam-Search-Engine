@@ -1,0 +1,40 @@
+{
+    "app_id": 670350,
+    "name": "The Free Ones",
+    "release_date": "2018-07-12",
+    "developer": [
+        "Farsky Interactive"
+    ],
+    "publisher": [
+        "Farsky Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "3D Platformer",
+        "Parkour"
+    ],
+    "achievements": 18,
+    "positive_ratings": 310,
+    "negative_ratings": 79,
+    "price": 7.19,
+    "description": "Follow Theo's dizzying adventure in first-person platformer &quot;The Free Ones&quot;. Soar through the air with your grapple, blaze a trail through the canyons and take part in an extraordinary story.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670350/header.jpg?t=1536158770",
+    "minimum_requirements": "OS: 7 Processor: Intel Core i5 2.00 GHz or AMD equivalent Memory: 4 GB RAM Graphics: Radeon HD6970, Nvidia GT 750 DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": "Memory: 6 GB RAM",
+    "reviews": []
+}

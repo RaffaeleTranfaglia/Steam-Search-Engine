@@ -1,0 +1,42 @@
+{
+    "app_id": 581100,
+    "name": "Langoth",
+    "release_date": "2017-02-27",
+    "developer": [
+        "Atum Software"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 24,
+    "negative_ratings": 30,
+    "price": 1.99,
+    "description": "Langoth (Old English) means a very specific yearning, when a person had a vision of Paradise – and it was gone, but the rest of his life he was looking for it reflections.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/581100/header.jpg?t=1494879970",
+    "minimum_requirements": "OS: Windows 7 SP1 (x64) Processor: Intel Core i3 Memory: 4 GB RAM Graphics: GeForce GTX 460 DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 10 (x64) Processor: Intel i5 4570 @ 3.2 GHz / AMD Phenom II 945 @ 3.0 GHz Memory: 12 GB RAM Graphics: NVIDIA GTX 970 / AMD R9 290 equivalent or greater DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

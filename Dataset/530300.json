@@ -1,0 +1,45 @@
+{
+    "app_id": 530300,
+    "name": "Slymes",
+    "release_date": "2016-11-25",
+    "developer": [
+        "WolfTech Games"
+    ],
+    "publisher": [
+        "WolfTech Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Slymes is a 3D multiplayer arena cell-game. It is inspired by games like agar.io and Osmos, but with a focus on exploring a plethora of unique maps and interacting with the world around you. As a Slyme, you must absorb small blobs to grow massive enough to trample your insignificant but oh-so-tasty opponents.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/530300/header.jpg?t=1488077453",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel® Pentium® 3825u (1.9GHz) Memory: 2 GB RAM Graphics: 2GB of Video RAM, DirectX 9.0 (shader model 3.0) DirectX: Version 9.0 Network: Broadband Internet connection Storage: 512 MB available space Additional Notes: These System Requirements should allow for a smooth 30fps gameplay experience",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel Core i3 or higher (2.5+ Ghz) Memory: 4 GB RAM Graphics: 4GB+ of Video RAM, DirectX11 with feature level 9.3 capabilities DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space Additional Notes: These System Requirements should allow for a smooth 60fps, high fidelity gameplay experience",
+    "reviews": []
+}

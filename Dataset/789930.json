@@ -1,0 +1,38 @@
+{
+    "app_id": 789930,
+    "name": "Blind Boris",
+    "release_date": "2018-02-26",
+    "developer": [
+        "Marginal act"
+    ],
+    "publisher": [
+        "Marginal act"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Horror",
+        "Pixel Graphics"
+    ],
+    "achievements": 5,
+    "positive_ratings": 9,
+    "negative_ratings": 8,
+    "price": 4.79,
+    "description": "Blind Boris is a survival horror about a blind person. The character arrives to the hospice and a week later strange things begin to happen in him. Staff disappears, terrible sounds are heard outside, exit doors are tightly locked, and aggressive visitors enter the building.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/789930/header.jpg?t=1553600368",
+    "minimum_requirements": "OS: x86 / x64 7,8,10 Processor: 2 GHz Memory: 2000 MB RAM Graphics: GeForce GT 610 / Intel (R) HD Graphics 5300 DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

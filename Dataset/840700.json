@@ -1,0 +1,37 @@
+{
+    "app_id": 840700,
+    "name": "Qvabllock",
+    "release_date": "2018-04-30",
+    "developer": [
+        "NedoStudio"
+    ],
+    "publisher": [
+        "NedoStudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 30,
+    "positive_ratings": 50,
+    "negative_ratings": 11,
+    "price": 0.79,
+    "description": "«Qvabllock» — pixemalism game with elements of puzzle, with minimalistic gameplay. Collect all the colored squares to take the main green and go through all 30 levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840700/header.jpg?t=1526648736",
+    "minimum_requirements": "OS: Windows XP (SP 2,3), Vista, 7, 8, 10 Processor: 1 GHz Memory: 1 GB RAM Graphics: 128mb Storage: 128 MB available space",
+    "recommended_requirements": "OS: Windows (SP 2,3), Vista, 7, 8, 10 Processor: 2 GHz Memory: 2 GB RAM Graphics: 128 mb Storage: 130 MB available space",
+    "reviews": []
+}

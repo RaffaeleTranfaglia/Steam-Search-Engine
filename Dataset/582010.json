@@ -1,0 +1,43 @@
+{
+    "app_id": 582010,
+    "name": "MONSTER HUNTER: WORLD",
+    "release_date": "2018-08-09",
+    "developer": [
+        "CAPCOM Co., Ltd."
+    ],
+    "publisher": [
+        "CAPCOM Co., Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Hunting",
+        "Multiplayer"
+    ],
+    "achievements": 50,
+    "positive_ratings": 72029,
+    "negative_ratings": 35294,
+    "price": 49.99,
+    "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/582010/header.jpg?t=1554771889",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: WINDOWS® 7, 8, 8.1, 10 (64-bit required) Processor: Intel® Core™ i5-4460, 3.20GHz or AMD FX™-6300 Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x (VRAM 2GB) DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space Sound Card: DirectSound (DirectX® 9.0c) Additional Notes: 1080p/30fps when graphics settings are set to &quot;Low&quot;",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: WINDOWS® 7, 8, 8.1, 10 (64-bit required) Processor: Intel® Core™ i7 3770 3.4GHz or Intel® Core™ i3 8350 4GHz or AMD Ryzen™ 5 1500X Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 1060 (VRAM 3GB) or AMD Radeon™ RX 570  (VRAM 4GB) DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space Sound Card: DirectSound (DirectX® 9.0c or better) Additional Notes: 1080p/30fps when graphics settings are set to &quot;High&quot;",
+    "reviews": []
+}

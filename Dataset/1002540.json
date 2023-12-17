@@ -1,0 +1,40 @@
+{
+    "app_id": 1002540,
+    "name": "HA/CK",
+    "release_date": "2019-02-14",
+    "developer": [
+        "Gampixi"
+    ],
+    "publisher": [
+        "Gampixi"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle-Platformer",
+        "First-Person"
+    ],
+    "achievements": 9,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 7.99,
+    "description": "HA/CK will puzzle your mind with a variety of challenging levels. You have to solve a series of tests devised by The Programmer. Devise unforethought solutions to achieve top times amongst your friends or worldwide.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1002540/header.jpg?t=1550207169",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Dual Core CPU @ 2.4GHz Memory: 4 GB RAM Graphics: Graphics card with Shader Model 5 support and at least 1GB dedicated memory DirectX: Version 11 Storage: 1 GB available space Additional Notes: 64-bit operating system only",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Quad Core CPU @ 3.0GHz Memory: 8 GB RAM Graphics: Graphics card with Shader Model 5 support and at least 2GB dedicated memory DirectX: Version 11 Storage: 1 GB available space Additional Notes: 64-bit operating system only",
+    "reviews": []
+}

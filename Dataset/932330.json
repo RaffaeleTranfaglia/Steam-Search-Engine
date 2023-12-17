@@ -1,0 +1,35 @@
+{
+    "app_id": 932330,
+    "name": "Alchemia",
+    "release_date": "2018-09-28",
+    "developer": [
+        "Matthew Brown"
+    ],
+    "publisher": [
+        "Matthew Brown"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 1,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Alchemia is a cryptic puzzle game which is solved through research outside of the game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/932330/header.jpg?t=1538135366",
+    "minimum_requirements": "OS: Windows Vista (64-bit) or later Processor: 2.8 GHz+ Memory: 2 GB RAM Graphics: Shader Model 3.0+ Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

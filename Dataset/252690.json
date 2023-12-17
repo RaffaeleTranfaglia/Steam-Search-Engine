@@ -1,0 +1,133 @@
+{
+    "app_id": 252690,
+    "name": "Fantasy Grounds",
+    "release_date": "2014-05-09",
+    "developer": [
+        "SmiteWorks USA, LLC"
+    ],
+    "publisher": [
+        "SmiteWorks USA, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Software"
+    ],
+    "achievements": 0,
+    "positive_ratings": 377,
+    "negative_ratings": 100,
+    "price": 29.99,
+    "description": "Fantasy Grounds is a hybrid application which allows you to play and create your own RPG games. It facilitates this play and provides some optional add-on Adventure modules which can be loaded and played with very little preparation. Each game will require a GameMaster (GM) and one or more players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/252690/header.jpg?t=1555463184",
+    "minimum_requirements": "OS: Windows 7, Windows 8 or Windows 10 Processor: 1.6 GHz or higher processor Memory: 1 GB RAM DirectX: Version 9.0 Network: Broadband Internet connection Storage: 500 MB available space Sound Card: n/a Additional Notes: Requirements vary by the add-ons installed and the number of players connecting to your game.",
+    "recommended_requirements": "OS: Windows 7 or Windows 8 Processor: 2.00 GHz or higher Memory: 4 GB RAM Graphics: Graphics card recommended DirectX: Version 9.0 Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: Requirements vary by the add-ons installed and the number of players connecting to your game.",
+    "reviews": [
+        {
+            "review_text": "Fantasy Grounds is quite honestly the best virtutal tabletop software. I've tried several, but I run campaigns exclusively on this now. This software has a massive learning curve. You can get the basics quickly, but to master it takes a while. It is so feature rich that you can automate 90% of the DMing with enough planning and set up. My players love the system - other DMs that play in my campaigns want to switch over.   Combined with other software (map designing, photoshop, ect) you can create excellent and wonderful campaigns loaded with graphics built upon a fantastic under-the-hood ruleset system which takes the technical (mathematical) aspects comepletely from the game so you can have lightning quick combat encounters and focus on roleplaying. Of course the combat traker is wonderful if you want to have a combat heavy hack-n-slash campaign and only makes combat more enjoyable.   The story design part of the game is great. You can pin combat encounters, NPCs, story elements, loot, exp, and more directly to the map. Experience can be awarded on command. Loot can be dumped into the party inventory automatically and the players can divide it themselves.   Character creation is simple and easy. All of the math is again automated here. Just drag items to your inventory. Same with spells, but things get more complex if you multiclass, but its just part of the learning curve.   Some will complain about connectivity issues. Port-forwarding is a simple thing to do, but VPN software can get around it. Mac -&gt; PC does have some issues. I only have one Mac user in my games, but he has the majority of the technical issues. Tech support is very fast as well, but I've only had to use it once.  Overall, I can't recommend this software enough. I have had hours of use with it. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You need a deep wallet to play this game.  I downloaded this game in hopes I could use this to DM a local group. Since we are just getting started I thought it would be nice to have a program that would show us the rules and do some of the math for us. I purchased a liscense thinking 40 bucks is a lot, but since its a one time fee it would be fine. I got into the game and found that all the features that seemed useful were behind a second paywall.   I've requested a refund and would not suggest this product especially if you are just getting started like us.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "There's two common threads in many (not all -some have legit gripes) of the negative reviews of Fantasy Grounds: First, the user doesn't bother learning how to use the software, then complains that it doesn't do much for the cost.  Second, the buyer doesn't understand the licensing (specifically, WotC stuff), and is somehow surprised when they don't gain access to the entire PHB, DMG, MM, and published adventures with all of their art, rules, statblocks, etc. for a pittence of what the actual books cost. Part of this is also not understanding just what porting that content to FG does for them. You'd be paying for the rulebooks or adventure books if you weren't playing a VTT or if you were playing on any other VTT. I don't understand why people think they should for some reason be free when in digital form. If you already own the physical books, you can manually enter all that information into FG. You don't need to re-buy it. And you'd be doing this for every other VTT anyway, WITHOUT Fantasy Ground's automated functionality. So you don't need to buy the WotC FG versions if you already own the books. You'll just need to manually enter the stuff -just like playing on paper. If you want the automated functionality for an official licensed product, you're going to pay for it. And WotC has decided that the cost for those are the same as the books (they set the prices, not SmiteWorks). I put the entire Pathfinder Beginner Box into FG using nothing but OGL libraries and the official PDF from Paizo.  Fantasy Grounds is a TOOL. It's not a published game. It's not a published adventure. It's very much like Roll20 or MapTools. You are not getting a complete, ready-to-play Tabletop RPG when you get Fantasy Grounds. Several reviewers also seem to not understant this. It's Virtual Tabletop Software designed to facilitate playing P&amp;P RPGs. You must still know the rules of the game and have many of the resources you'd need to play the game face-to-face (like the battlemaps, player handouts, etc.).   Where Fantasy Grounds shines is incorporating that information into the program itself. You want to add a monster to the battle? Drag it from the MM to the combat tracker -now your monster with all its stats, attacks, and everything else is available right in front of you. Want to add a spell to your wizard? Drag it from the integrated rulebook onto your character sheet, and FG automatically sets the proper dice/bonuses for casting/attack, saves, DR, etc. based on the information in the spell stat block. You can click on the spell and have instant access to all of the spells relevant stats and description -all within the program. THAT is the functionality you pay for when you buy an official WotC rulebook. You have the entire MM at your fingertips with everything you need. Character sheets are updated automatically and re-calculated on the fly (great for things like ability damage).   FG automates many die rolls, so an attack roll boils down to selecting your target and rolling for your attack. Modifiers for size, ability scores, cover, and other conditions and effects are automatically applied. If you hit, simply roll damage and the likewise the correct modifiers are applied and damage the target. This even compensates for different weapon types and resistences. If you roll a threat, it will automatically roll to confirm a crit, then automatically double your damage roll if you get a crit. Stuff like that. In other VTT tools, it's ALL on the GM and players to do that.  There's tons of different ways Fantasy Grounds makes life easier for both the GM and players. From automating common functions to cross-linking notes, maps and images. With the proper libraries a GM can convert a published adventure from paper to FG in an afternoon, and never have to reference anything outside the program while playing.  It's that kind of automated functionality you pay for with Fantasy Grounds, and that kind of functionality does not exist in Roll20 or Maptools (my current favorite is the Barbarian Rage ability from PF -you can re-calculate the character stats, or just add the 'Rage' condition, specify the duration, and FG does all the work for you). And the GM can still override everything, so you can easily houserule your own stuff into supported rulesets (or fix things when your players click the wrong thing or forget to add a modifier or something).  And if you play 3.5 or PF, you're in luck -the entire rulesets are OGL so you don't have to buy anything else. 5e can get a little pricey, since WotC sets the costs for VTT content and they've decided to make it the same as the published books. But, the advantage being, all the content in the books is available and ready to use in FG.  FG is a massive, massive time saver. Both in preparation and playing. Using all of that functionality does require one to LEARN how to use the software. This is a very complex program hidden under a fairly decent UI. Don't expect to DL the software, spend 30 minutes clicking around, and expect to use it perfectly for your session with friends later that night. Going back to my very first point in the review, quite a few of the negative reviews state the program doesn't do things it CLEARLY does -simply because the reviewer never bothered to take the time to learn how to use the software.   Now, TBF, if you're NOT using a supported ruleset (Rolemaster, D&amp;D 3.5/4/5, PF, Savage Worlds, etc). the argument for using FG over some other solutions is harder to make.   The program is older (the codebase goes back to 2004), and it's starting to show its age in some areas. The UI is clean pretty good once you get used to it (I really love the radial menu, personally), but without proper dual moniter support you really need a lot of single-screen real-estate, otherwise things start to feel crammed a bit.   The program is a bit of a resource hog, particularily on memory. Those with slower or older computers -especially ones without a dedicated GPU- may notice performance issues.   There's some neat features in Roll20 that don't exist in FG, like dynamic lighting. This will be added to FG when SmiteWorks finishes the Unity re-write -set sometime for release next year (it's worth noting that the full re-write of FG is being designed to be fully backward compatible with existing FG content).  There are occaisonal disconnects from players when playing. Usually the program reconnects on its own without issue. Considering Roll20 requires a 3rd part service to use that does go down on occaision and FG does not, I don't see that as a big problem.  I've noticed a few other little quirks in the different rulesets, but nothing that causes problems when gaming.  TL;DR: If you're using a supported ruleset FG is the best VTT out there. Bar none.  EDIT: Oops'd a word or three.  Also thought I'd clear up some of the cost stuff, since many people are confused:  FREE License - Allows players to manage characters for various rulesets, as well as connect to games hosted by Ultimate License.  Standard License ($40 USD) - Allows you to create and manage characters and campaigns, host games for Standard and Ultimate license holders, and connect to games hosted by Standard or Ultimate license holders, INCLUDED RULESETS: 3.5E, 4E, 5E SRD Content, FATECore, PFRPG, Numenera.   Ultimate License ($150 USD) - As per Standard, but can also host games for FREE license holders.   So you can easily play D&amp;D 5E games with the Standard or Ultimate License, so long as it's SRD content. This is basic ruleset functionality -if you want all of the automated functions (like being able to drag a fully-functional monster from the MM onto the combat tracker) you'll need to enter the statblock yourself, or buy the associated FG rulebook. Likewise with the adventure modules.  3.5 and PF are fully functional, and there are many community made modules that include the content of the official PRD and d20fsprd.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is more of an application than a game. I've found that the interface takes some getting used to but it does work very well. I've picked up an additional ruleset and it's great for using offline to get used to the gaming system if you aren't going to be the GM. With what it comes with out of the box I think it's a great value for the money. It's hard finding people to play face to face with but with FG it's a lot easier.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing Virtual Table top.  Been using FG for years, great game - support from the devs for any problem, very easy to code modules/adventure paths into the game so the setup doesn't take hours on end.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This app was the best thing ever for my d&amp;d group. I was worried that this would just turn my RPG into a miniture fighting game. My worries were unfounded, it is a story telling game like a RPG should be. My players reside in multiple states and time zones and we play every week vs find new players and start over. I recomend this for any adult who games and finds the travel time and time away from the house/family creates issues, this app will reduce that. 10 of 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best program ever when it comes to running a tabletop game. So much so that i don't think i will ever play a pen and paper game with people at a real table ever again. The tools at your disposal for running are amazing, really help with the immersion of the world, and there is still more to come out of this program with future updates. Not only can you play DnD rule sets of different editions with this software, but you can play a number of other types of rulesets using the same program.  The greatest thing about this program, besides how everything inside it works, is that you arent just limited to friends that you know. The online community is amazing on the forums, with just one post you could be playing a game in minutes, hours, or a couple of days depending on what type you are looking for, and timeframe. You can play with anyone in the world that has the program. You dont even have to buy it if your DM has the DM edition, all you have to do then is download the free demo and you can play with everyone else just like you own the program.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely worth the money if you and your gaming group have moved away from each other. I didn't think I was going to play D&amp;D with my old group ever again until we decided to give Fantasy Grounds a try.   Despite some of the quirks and the difficult learning curve for more advanced features, anyone familiar with D&amp;D should be able to quickly get a game going.   I love being able to create my own campaign and adventure modules. Fantasy Grounds keeps track of things way better than I ever did previously as a DM.   There are some great tutorials online covering play and content creation.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Love this application!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I thought Fantasy Grounds, from a player perspective was rather easy to get used to with it's current interface. And once you get some assistance, it makes it all the better. The entire process of creating characters and such things, depending on the ruleset you are using, is the harder part.  Can't recommend FG enough for tabletop gaming from home, I can't get out and it still brings the same feelings, environment and enjoyment to the games.  (I haven't tried to GM anything at this stage, so I cannot comment on the GM system)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the best Virtual RPG Table Top application I have used. The other things I have tried are Roll20 and Google+/Hangouts. In comparison this is like driving a luxury car compared to a beat up Dodge Dart.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great for any D&amp;D player. Everything a DM needs to run a campaign",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been attempting to find a way to play Star Wars: Edge of the Empire online for a while now, and after trying MapTool and looking into Roll20, both of those apps confuse me to no end &amp; make my head hurt. I'd basically resigned myself to going without playing online.  Fantasy Grounds caught my attention since it was just uploaded to Steam here, and it has succeeded in turning things around for me. Edge of the Empire support is enabled through a custom, user-created ruleset (free!) that continues to be updated and is rather well-organised. Its creator is also in the process of making a video tutorial series for it. Through a combination of his first tutorial video, a read-through of the ruleset's functions on its forum page, and an afternoon of playing around and experimenting by myself, I was able to learn the entire system &amp; host a short session today (bought it yesterday night after learning on the demo version).  Overall, it's VERY fun, very pretty, and the extensive amount of features designed to keep everything organised is exactly what I was looking for in a virtual tabletop for Star Wars. I don't have much of an opinion on Fantasy Ground's support for other games, though I'd love to give their Vampire: The Masquerade functionality a shot sometime as well. I'm absolutely satisfied with my personal copy~!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Simple enough to give a character to a child - strong enough for a pro to make a strong character with ease; and all while looking good. The mod/addon community is very lively and produces many useful tools, also. Can't wait to run my own game off of it and not just play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So, after two play sessions our group (me as DM and three others as PCs) all agree that Fantasy Grounds is a great tool. It does require a bit of 'getting the hang of the interface' but once you do, it all feels quite intuitive and easy to get in and out of a gaming session. If you're looking to rekindle some of that old-school D&amp;D magic, but have friends who cannot get together physically on a regular basis, this is a GREAT option.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A wonderful tool to assist in playing tabletop-style RPGs over the internet. In today's world, it is hard to get a group together on a regular basis, and Fantasy Grounds helps to make it so that those of us who love pen and paper/table RPGs can play them. The program is regularly updated and has a wide variety of user-made custom rulesets, extensions, and themes.   This year, Fantasy Grounds became the only officially supported platform for D&amp;D 5th edition online play. There are regular 'online conventions' that allow free play for everyone, and the license and DLC structure is set so that only the DM needs to pay (I personally take donations from my players to help buy the content, and they each pitched in $15 for the ultimate license - cheaper for them than buying a full version).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a really expensive tool for what you get out of it but I can honestly say that I truly enjoyed using it. I think the biggest problem is that each of the DLCs are exceptionally expensive on top of the price that you pay for the tool. There are a few free DLCs available but they're currently very limited, and the tool is improving all the time.   It also has a very high learning curve and doesn't lessen the preperation required before hosting a game.  The one thing that I'm hoping for is a ton of fun free DLCs (PS. It's a mission creating your own as there are currently licensing laws preventing you from publishing without royalties paid to the creators of the rulesets. Which really limits the community. Free DLCs will normally only be released by the creators of the ruleset.)  Who is this really for? You can normally use the free (demo) version to connect to online games if the host has the full version. So you're not required to purchase this to partake in games. Purchasing this is only recommended for long time GMs who are commited to their games and are unable to host locally all the time. I promise you that currently pen and paper and/or a printer takes just as much time to use and prepare with and if you're organized you can achieve exactly the same.  The true value comes from the market. If I were the creators of this tool I would've rather taken royalties from each DLC purchase than charge this much for the tool. My group moved through my story in 3months and I gave up after that as I wasn't prepared to pay more for new DLCs.  Anyway, so yes I would recommend this tool but only for long term GMs that have the cash to waste and the inability to host games locally (or technologically obsessed ones like myself that use their laptops for everything) go for it. And I have to stress this again, only for long time GMs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The program claims to support Dungeons and Dragons 4th Edition games and on the very basic level it does. Provided YOU have every single manual and every single source book, you can create a 4th edtion game and build 4th edition characters. If you don't have these now out of print and difficult to find books, none of the DLC for Fantasy Grounds will help you. All of the D&amp;D material is for 5th edition, because that is the only edition for which they have a license.  Now, I would normally not be upset about this. Wizards of the Coast is notorious for making their previous products obsolete to ensure their current ones are sold like hotcakes, just look at Magic the Gathering (5 months after a collection is completed a new one is released and a year after that neither are deemed 'playable' by serious gamers), so I understand that the developers might not be able to get the license for a gaming system the creators want to fade into ancient history.  My problem is that NO WHERE on their Steam Store page or main website does it say that the DLC items are not compatible with older verson of the systems their program supports. I spent several hours searching and eventually found one after utilitizing Google Search and it was an archived post on their Forum Boards about others having a simliar issue with creating 3.5 games. The Steam Store does, however, celebrates the fact that the company received permission to create 5th Edition data packs, but does not clarify that the data packs are ONLY for 5th.  I bought the game to help run my 4th Edition D&amp;D game. I returned it when I realized it couldn't.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I don't understand this thing at all. I get that its a pretty amazing online Table top but I dont understand why I have to pay a subscription just to read the 30$ DLC I paid for they should really tell you that when you go to purchase the DLC. I had never used Fantasy Grounds I bought it on a whim but now when I see Curse of Strhad DLC is on sale I thought this would be a good oppertunity to buy the book just to read it via Fantasy Grounds but they don't allow that unless you buy a subscription.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can't connect to host game!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "almost $3000 in DLC.... not sure if its worth that... $119.99 for the 4 pack... $39.99 for program + $115 for ultimate so your friends don't have to buy it, if you are the GM, even the bundles are ♥♥♥♥ing outrageous at 20-25% off. Its an awesome program, but it prices at higher than Professional Developer programs. I wish I could recommend it. You are better off buying all the books instead, but if your friends are all over the globe this might be a better alternative.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad tool/difficult to use interface...AND they make you pay for individual base classes and there are these kind of microtransactions everywhere. Look at the dlc. It's ridiculous. No I don't recommend it, sorry.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The software itself is fine; relatively flexible, easy to use if you're already computer literate, and fairly reliable. Aside from a few issues regarding required connectivity for use of aliases or licenses, I have few complaints about the program itself.  Unfortunately, I cannot recommend investing in Fantasy Grounds to anyone who doesn't already have a group in mind to play with. The community is largely insular, consisting of groups who already know and play with each other. As either a GM or player, I've seen very little interest or discussion on the official forums and here for most people looking for games.  If you're looking for a virtual tabletop for a current group, FG is worth a try. If you're looking to get into a group for an online game, Fantasy Grounds may take some work getting involved with.  That being said, many games are run using an Ultimate License, meaning players can often join games and try it out using the demo version of FG. So there is a very solid option for 'try before you buy.'",
+            "review_score": "1"
+        }
+    ]
+}

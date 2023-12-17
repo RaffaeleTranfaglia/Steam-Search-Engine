@@ -1,0 +1,44 @@
+{
+    "app_id": 610210,
+    "name": "Planetes",
+    "release_date": "2018-08-28",
+    "developer": [
+        "New Orbit Games"
+    ],
+    "publisher": [
+        "New Orbit Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 5,
+    "price": 7.7,
+    "description": "In Planetes your aim is to survive, create and explore. You will need to harvest resources, in order to construct bases, spacecraft, and items. Protect yourself from other players by creating better spacecraft or a stronger base. Explore space, finding asteroids and planets to land on.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/610210/header.jpg?t=1545464826",
+    "minimum_requirements": "OS: Microsoft® Windows® 7/8/10 Processor: 2 Ghz Processor Memory: 2 GB RAM Network: Broadband Internet connection Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

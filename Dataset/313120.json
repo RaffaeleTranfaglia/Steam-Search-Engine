@@ -1,0 +1,41 @@
+{
+    "app_id": 313120,
+    "name": "Stranded Deep",
+    "release_date": "2015-01-23",
+    "developer": [
+        "Beam Team Games"
+    ],
+    "publisher": [
+        "Beam Team Pty Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Open World"
+    ],
+    "achievements": 8,
+    "positive_ratings": 15604,
+    "negative_ratings": 5459,
+    "price": 10.99,
+    "description": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/313120/header.jpg?t=1531797396",
+    "minimum_requirements": "OS: Windows Vista or higher Processor: 1.8GHz Intel dual-core and above Memory: 4 GB RAM Graphics: Intel HD5500 and later. Minimum 512MB VRAM. Pixel Shader 3.0 support. Deferred lighting support (most 2005 and later cards support deferred lighting) DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Memory: 4 GB RAM Graphics: NVIDIA GTX600 or ATI HD7000 series with 2GB VRAM DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

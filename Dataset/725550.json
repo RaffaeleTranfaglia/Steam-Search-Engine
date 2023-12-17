@@ -1,0 +1,40 @@
+{
+    "app_id": 725550,
+    "name": "VS Round 1",
+    "release_date": "2017-12-18",
+    "developer": [
+        "Radi Lewis"
+    ],
+    "publisher": [
+        "OpenWorldComics"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 15.49,
+    "description": "Versus is a fighting game starring comic book characters from Independent publishers/creators. The game is 2d with 3d models featuring specials, parrys and team-ups. You can build a team or run solo but you must make your way through 12 levels beating each character on each team until their health bar reaches 0.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/725550/header.jpg?t=1514257521",
+    "minimum_requirements": "OS: Win7 Processor: Intel i5 Memory: 2 GB RAM Graphics: Geforce GT 710 DirectX: Version 11 Storage: 450 MB available space Sound Card: standard",
+    "recommended_requirements": "OS: Win10 Processor: Intel i5 Memory: 4 GB RAM Graphics: Geforce GT 710 DirectX: Version 11 Storage: 2 GB available space Sound Card: Standard",
+    "reviews": []
+}

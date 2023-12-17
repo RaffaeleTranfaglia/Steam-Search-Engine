@@ -1,0 +1,44 @@
+{
+    "app_id": 501920,
+    "name": "Totem",
+    "release_date": "2016-08-30",
+    "developer": [
+        "Grizlikyt"
+    ],
+    "publisher": [
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 76,
+    "negative_ratings": 52,
+    "price": 3.19,
+    "description": "TOTEM - Action RPG with a pretty, detailed pixel-art. In this game you will become the only hope for the salvation of mankind. Mysterious horrifying evil corrupts the forest and its inhabitants. You need to find out what’s hidden behind all these nightmares.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501920/header.jpg?t=1516912308",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista Processor: Dual Core 2.0 GHz Memory: 256 MB RAM Graphics: 128 MB or higher DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: Microsoft® Windows® 7 or later Processor: Dual Core 3.0+ GHz or higher Memory: 512 MB RAM Graphics: 256 MB or higher DirectX: Version 9.0 Storage: 400 MB available space Sound Card: DirectX® Compatible",
+    "reviews": [
+        {
+            "review_text": "Short dumb game not worth even $0.99",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 969480,
+    "name": "Warp Glider",
+    "release_date": "2018-12-14",
+    "developer": [
+        "Mole Eyes Entertainment"
+    ],
+    "publisher": [
+        "Mole Eyes Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "2D"
+    ],
+    "achievements": 6,
+    "positive_ratings": 22,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Pilot a gravity-defying craft at blazing speeds. Pull off aerial acrobats using stackable weapons to survive the swarming Bandits. Retro arcade action and out of this world flight control! Now with Co-op!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/969480/header.jpg?t=1549651598",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core Memory: 2 GB RAM Graphics: 1GB Video Card minimum Storage: 96 MB available space Additional Notes: I hope you get to play this game on some decent specs for the ultimate experience of speed!",
+    "recommended_requirements": "OS: Windows 10 Processor: Developed on: i7-4770K 3.5GHz Memory: 16 GB RAM Graphics: Developed on: 1060 GTX Storage: 120 MB available space Additional Notes: Most CPU and RAM that will give you 60 FPS should be great. Should appear consistent across specs so run of the mill cards should be good.",
+    "reviews": []
+}

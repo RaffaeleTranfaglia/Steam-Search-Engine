@@ -1,0 +1,48 @@
+{
+    "app_id": 373630,
+    "name": "Game Type",
+    "release_date": "2015-09-23",
+    "developer": [
+        "Mommy's Best Games"
+    ],
+    "publisher": [
+        "Mommy's Best Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 12,
+    "positive_ratings": 27,
+    "negative_ratings": 9,
+    "price": 1.99,
+    "description": "Help Hoodie Girl fight the evil MediaBall's inane advertisements! It's a looping shooter in which each loop increases the speed and difficulty!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/373630/header.jpg?t=1545872095",
+    "minimum_requirements": "最低配置: 操作系统: XP, Vista, 7 处理器: Intel Core™ Duo or faster 内存: 1 GB RAM 图形: 128 MB Card, supports Shader Model 2.0 DirectX 版本: 9.0c 存储空间: 需要 500 MB 可用空间 声卡: DirectX 9.0c Compatible sound card 附注事项: Microsoft Xbox 360 Controller is the best way to play.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Disclosure: I helped with pre-release testing of this game, and was given a key by the developer for that purpose.   Here, for your observation, is that rarest of creations, the 'protest game', programmed mainly to comment on a real-world issue. In this particular case, the target is Microsoft's infamous overhaul of the XBox 360's user interface, which plastered advertisements everywhere while making games, particularly indies, harder to find (grouping them, not coincidentally, under the heading 'Game Type'). The official description even goes so far as to call itself 'two games in one' - the first is a facsimile of the 360's dashboard where the 'challenge' is to locate the second game, an infinitely looping, and rather loopy, side-scrolling shooter.  Taking control of Hoodie Girl (a stock photo MS utilized to much-mocked effect), your job is to fight through waves of cats, cars, football players, doughnuts, and other frequent ad fodder; once you've made it through the sequence repeats, but your adversaries are faster, more aggressive, and more numerous than last time, and this goes on until you finally run out of lives. Your weaponry consists of a standard three-way shot, a slower, more powerful frontal 'kick beam' (whose activation is punctuated by a stirring war cry of 'PARKOUR!'), and a limited-use 'time pulse' which temporarily slows things down while allowing you to transform enemy shots into point items (literally, piles of cash) - you'll want a constant flow of moolah to keep your multiplier up, so let off the fire button from time to time to attract all onscreen items to you.  That basically covers all there is to playing the game, which, it should be noted, was originally created within the span of a week - as such, there is only a single background and a few enemy types, whose animations range from 'sparse' to 'non-existant'. That said, the bizarre, slapped-together look actually suits the theme rather well, and while the lone music track is somewhat anonymous the goofy sound effects pick up a lot of the slack on the audio end. Moreover, the developer has made both your character's hitbox and enemy shots easier to see than they were in the XBLIG release, which is quite nice considering how fast and chaotic things can become in short order.  So there you have it - a game whose scope could be described as both 'limited' and 'focused', having been brought into existence practically overnight and for a very specific purpose but managing to be rather fun in spite of its inherent shortcomings. If you're that hesitant to drop the three bucks (two, if you go for the 'Mommy's Best Pack' which includes three other games), Game Type (and its free demo) should still be up on the XBLIG store for your perusal, at least until MS closes it a year or so from the time of this writing - in my heart of hearts, though, I'm tempted to recommend you snag this title just to do your part to ensure that small-but-vocal developers like Mommy's Best Games can keep doing what they're doing.",
+            "review_score": "1"
+        }
+    ]
+}

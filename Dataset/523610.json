@@ -1,0 +1,42 @@
+{
+    "app_id": 523610,
+    "name": "Beyond Enemy Lines",
+    "release_date": "2017-02-21",
+    "developer": [
+        "Polygon Art"
+    ],
+    "publisher": [
+        "Polygon Art"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "War"
+    ],
+    "achievements": 56,
+    "positive_ratings": 19,
+    "negative_ratings": 16,
+    "price": 13.99,
+    "description": "Think your way in, observe the enemies and sneak into their base and complete your objective. You have the total freedom to choose your path - guns blazing or silent assassin - it's your choice! Beyond Enemy Lines is an unforgiving, intense experience where skill and tactical decisions matter!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/523610/header.jpg?t=1553021102",
+    "minimum_requirements": "OS: Windows 7 64Bit Processor: Intel Core i5-2500K CPU or equivalent Memory: 4 GB RAM Graphics: Geforce GTX 570 or AMD Radeon HD 7850 DirectX: Version 11 Storage: 20 GB available space Additional Notes: Requirements for 1080p @ 60FPS, no official support for mobile or integrated GPU",
+    "recommended_requirements": "OS: Windows 10 64Bit Processor: Intel Core i7 4790k CPU or equivalent Memory: 6 GB RAM Graphics: Geforce GTX 970 or AMD Radeon R9 290 DirectX: Version 11 Storage: 20 GB available space Additional Notes: Requirements for 1080p @ 60FPS, no official support for mobile or integrated GPU",
+    "reviews": []
+}

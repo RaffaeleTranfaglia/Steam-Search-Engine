@@ -1,0 +1,43 @@
+{
+    "app_id": 1049660,
+    "name": "stein.world",
+    "release_date": "2019-04-23",
+    "developer": [
+        "pg5-Studio"
+    ],
+    "publisher": [
+        "pg5-Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "MMO",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 47,
+    "negative_ratings": 39,
+    "price": 0.0,
+    "description": "Stein.world is a real-time MMORPG in a beautiful fantasy world with many common game features from the MMO genre: A big and persistent fantasy world with a lot of variety filled with hundreds of quests and items, dungeons, professions and much more to come.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1049660/header.jpg?t=1556045337",
+    "minimum_requirements": "OS: Windows 7 or higher (32-bit or 64-bit) Processor: Intel Core i3 Memory: 2 GB RAM Graphics: GeForce GTS 250, Radeon HD 3870 Network: Broadband Internet connection Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher (32-bit or 64-bit) Processor: Intel Core i3 Memory: 4 GB RAM Graphics: GeForce 260 GTX, Radeon HD 4870 Network: Broadband Internet connection Storage: 200 MB available space",
+    "reviews": []
+}

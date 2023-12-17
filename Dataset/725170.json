@@ -1,0 +1,37 @@
+{
+    "app_id": 725170,
+    "name": "Home Run Solitaire",
+    "release_date": "2017-10-18",
+    "developer": [
+        "The Revills Games"
+    ],
+    "publisher": [
+        "The Revills Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Card Game"
+    ],
+    "achievements": 20,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Score a home run today!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/725170/header.jpg?t=1515022054",
+    "minimum_requirements": "OS: Windows XP Processor: 1GHz Memory: 1024 MB RAM Graphics: 64MB VRAM DirectX: Version 7.0 Storage: 81 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

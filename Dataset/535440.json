@@ -1,0 +1,51 @@
+{
+    "app_id": 535440,
+    "name": "WAR7",
+    "release_date": "2016-10-21",
+    "developer": [
+        "CPsoft"
+    ],
+    "publisher": [
+        "CPsoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 36,
+    "positive_ratings": 9,
+    "negative_ratings": 17,
+    "price": 0.0,
+    "description": "When you are in a WAR, you should NEVER give up.Jump in this exteme action adventure!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535440/header.jpg?t=1519962126",
+    "minimum_requirements": "OS: Vista/7/8/8.1/10 Processor: Dual Core Memory: 2 GB RAM Graphics: NVidia GT 650M DirectX: Version 11 Storage: 600 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Very fun. Still much work to do!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I didn't enjoy this game, you might if you're into generally dodgy third-person shooters. Positives: -soundtrack (good if you like dubstep) -amusing -free to play Negatives: -both camera angles provided are abysmal -character models and animations are bizarre -AI barely functions as intended -no servers whatsoever, therefore limited to single player -no map function/zoom This game needs a lot of work. Until then, you won't catch me playing it again. My first experience with WAR7:         YouTube™ Video:  WAR7 gameplay&nbsp;",
+            "review_score": "-1"
+        }
+    ]
+}

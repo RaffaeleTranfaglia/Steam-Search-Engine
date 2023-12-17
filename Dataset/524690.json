@@ -1,0 +1,45 @@
+{
+    "app_id": 524690,
+    "name": "Bitslap",
+    "release_date": "2016-09-23",
+    "developer": [
+        "Comrex AG"
+    ],
+    "publisher": [
+        "Comrex AG"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "VR"
+    ],
+    "achievements": 14,
+    "positive_ratings": 23,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Deep in the Andromeda galaxy, a lone warrior stands against an army of cubes. Due to quantum disturbances in the world line, cubes can only be destroyed in the order in which they appear.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/524690/header.jpg?t=1476892121",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel Core i5 4590 or AMD FX 8350 or greater Memory: 4 GB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 or better",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "they very swiftly fixed all the issues i reported, which is awesome, thanks for making such a nice fun game   (efited for updates)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Intensely fun. Once you get the hang of it, this is one of the fastest VR games I've ever played!",
+            "review_score": "1"
+        }
+    ]
+}

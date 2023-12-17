@@ -1,0 +1,45 @@
+{
+    "app_id": 582350,
+    "name": "Zombie Killin'",
+    "release_date": "2017-01-31",
+    "developer": [
+        "BagelMaster5000"
+    ],
+    "publisher": [
+        "SamStar Enterprises Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Zombie Killin' is a cooperative action game that can be played locally with up to four players. In it, your team must shoot its way through an endless onslaught of zombies while at the same time individually accumulating cash and purchasing upgrades.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/582350/header.jpg?t=1485989124",
+    "minimum_requirements": "OS: Windows XP or higher Processor: Intel Pentium 4 or higher Memory: 1 GB RAM Graphics: Must support at least Direct3D 9.0 DirectX: Version 9.0 Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

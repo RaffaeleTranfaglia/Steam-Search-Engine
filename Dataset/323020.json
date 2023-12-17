@@ -1,0 +1,39 @@
+{
+    "app_id": 323020,
+    "name": "Destructamundo",
+    "release_date": "2015-01-28",
+    "developer": [
+        "MiniVisions"
+    ],
+    "publisher": [
+        "Choice Provisions"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Destructamundo is a game of chain reactions and massive explosions. Set off a warhead and watch the fireworks as you cause as much widespread damage as possible by setting off long, winding combos that reach throughout the cosmos.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/323020/header.jpg?t=1478115554",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 2.0+ GHz Memory: 512 MB RAM DirectX: Version 9.0c Sound Card: Any sound card capable of stereo output",
+    "recommended_requirements": null,
+    "reviews": []
+}

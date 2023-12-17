@@ -1,0 +1,38 @@
+{
+    "app_id": 1010150,
+    "name": "PASHTET",
+    "release_date": "2019-01-19",
+    "developer": [
+        "Snkl Studio"
+    ],
+    "publisher": [
+        "Snkl Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 29,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Help the hamster earn his first million.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1010150/header.jpg?t=1547901203",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz CPU Dual Core Memory: 1024 MB RAM Graphics: 512 MB DirectX: Version 9.0 Storage: 20 MB available space",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: Core i3 or higher Memory: 2048 MB RAM Graphics: 1 GB DirectX: Version 9.0 Storage: 20 MB available space",
+    "reviews": []
+}

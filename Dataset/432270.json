@@ -1,0 +1,42 @@
+{
+    "app_id": 432270,
+    "name": "No Seat?",
+    "release_date": "2016-12-19",
+    "developer": [
+        "khos85"
+    ],
+    "publisher": [
+        "khos85"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 4,
+    "positive_ratings": 1,
+    "negative_ratings": 4,
+    "price": 1.99,
+    "description": "No Seat? is a unique trial bike game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/432270/header.jpg?t=1511201557",
+    "minimum_requirements": "OS: Windows 7 Processor: Core i5 equivalent Memory: 4 GB RAM Graphics: nVidia gtx 760 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: n/a Additional Notes: Tested on nVidia gtx 760",
+    "recommended_requirements": "OS: Windows 8/10 Processor: Core i7 equivalent Memory: 8 GB RAM Graphics: nvidia 980 equivelant DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: n/a Additional Notes: Tested on nVidia gtx 760",
+    "reviews": []
+}

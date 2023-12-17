@@ -1,0 +1,42 @@
+{
+    "app_id": 984750,
+    "name": "Mola mola",
+    "release_date": "2019-01-11",
+    "developer": [
+        "Mola game"
+    ],
+    "publisher": [
+        "Mola game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Nudity",
+        "Sexual Content",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 223,
+    "negative_ratings": 38,
+    "price": 0.79,
+    "description": "Casual decompression game, easy to experience a good mood.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/984750/header.jpg?t=1556428047",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2 Ghz Dual Core Memory: 1 GB RAM Graphics: graphics card supporting DirectX 9 DirectX: Version 9.0c Storage: 300 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 4 Ghz Dual Core Memory: 4 GB RAM Graphics: graphics card supporting DirectX 11 DirectX: Version 11 Storage: 300 MB available space Sound Card: Any",
+    "reviews": []
+}

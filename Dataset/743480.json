@@ -1,0 +1,37 @@
+{
+    "app_id": 743480,
+    "name": "HexaMon",
+    "release_date": "2017-11-17",
+    "developer": [
+        "Fancy Bytes",
+        "Reactor"
+    ],
+    "publisher": [
+        "Libredia Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Don’t be fooled by how easy it looks – each level is trickier than the last.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/743480/header.jpg?t=1529672953",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 1.5 GHz Memory: 1 GB RAM Graphics: On Board Graphics Card Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 340960,
+    "name": "Pulsen",
+    "release_date": "2015-07-27",
+    "developer": [
+        "4-Panel Footprint"
+    ],
+    "publisher": [
+        "4-Panel Footprint"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Music"
+    ],
+    "achievements": 0,
+    "positive_ratings": 41,
+    "negative_ratings": 10,
+    "price": 11.39,
+    "description": "Pulsen is a music and rhythm game where you listen to music and move along to the beat. Can you master your timing and groove through the expansive song list and challenging patterns? Hit arrows to the beat of the music, the better your accuracy the better your score!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340960/header.jpg?t=1472711833",
+    "minimum_requirements": "OS: Microsoft Windows Vista or higher Processor: 1.33GHz Intel Atom Z5xx or AMD equivalent Memory: 1 GB RAM Graphics: Intel Integrated 915G, nVIDIA GeForce 6600GS, or AMD Radeon 9600 Pro DirectX: Version 9.0c Network: Broadband Internet connection Storage: 400 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows 8.1 or higher Processor: 3.06GHz Intel Pentium 4 or AMD equivalent Memory: 2 GB RAM Graphics: Intel GMA 4500X, nVIDIA GeForce 9400M, AMD Radeon HD3850 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 400 MB available space",
+    "reviews": []
+}

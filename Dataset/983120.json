@@ -1,0 +1,39 @@
+{
+    "app_id": 983120,
+    "name": "TendyTrainer",
+    "release_date": "2018-12-03",
+    "developer": [
+        "Owen Smallwood",
+        "Duncan Boyes"
+    ],
+    "publisher": [
+        "Owen Smallwood",
+        "Duncan Boyes"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Free to Play",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "TendyTrainer is a VR app made for goalies to refine their skills in VR space. The goal of TendyTrainer is to provide the most realistic off-ice training environment possible. It is designed to build good habits that directly translate to the ice.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/983120/header.jpg?t=1543846394",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 Memory: 4 GB RAM Graphics: NVIDIA GTX 1050 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5-4590 Memory: 8 GB RAM Graphics: NVIDIA GTX 1050 Storage: 200 MB available space",
+    "reviews": []
+}

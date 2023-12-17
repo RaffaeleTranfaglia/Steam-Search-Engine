@@ -1,0 +1,52 @@
+{
+    "app_id": 377480,
+    "name": "N.E.R.O.: Nothing Ever Remains Obscure",
+    "release_date": "2016-04-29",
+    "developer": [
+        "Storm in a Teacup"
+    ],
+    "publisher": [
+        "Storm in a Teacup"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 24,
+    "positive_ratings": 104,
+    "negative_ratings": 46,
+    "price": 10.99,
+    "description": "N.E.R.O. is a wonderful journey in a world of incredible beauty, a story driven first-person game with puzzles and intuitive controls where the environment is connected to the characters and their past. The world of N.E.R.O. is magical and varied, making exploring an ongoing challenge.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/377480/header.jpg?t=1552055518",
+    "minimum_requirements": "Mínimo: SO: Windows 7, 32-bit Procesador: i5 Memoria: 2 GB de RAM Gráficos: GTX 745 DirectX: Versión 11 Almacenamiento: 11 GB de espacio disponible",
+    "recommended_requirements": "Recomendado: SO: Windows 7, 32-bit Procesador: i7 Memoria: 4 GB de RAM Gráficos: GTX 750 Ti DirectX: Versión 11 Almacenamiento: 11 GB de espacio disponible",
+    "reviews": [
+        {
+            "review_text": "   N.E.R.O, an atmospheric walking simulator featuring a tale of love, loss, and hope, doesn’t offer anything new to the genre. Still, it’s a lovely experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awsome game with wonderful environment! I was waiting for it since it was released for XBOX and I have been not disappointed at all; tricky puzzles, marvelous effects and a really touching story. A must for its genre!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Same developers as Adam's Venture: Origins and same problems. Booted up on wrong monitor Had to restart multiple times to get right display &amp; resolution Wasn't able to play because default keybindings were QWERTY while I have an AZERTY keyboard and you can't change the keybindings",
+            "review_score": "-1"
+        }
+    ]
+}

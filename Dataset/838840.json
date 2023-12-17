@@ -1,0 +1,40 @@
+{
+    "app_id": 838840,
+    "name": "Secret of Harrow Manor",
+    "release_date": "2018-04-24",
+    "developer": [
+        "Only Human Studios"
+    ],
+    "publisher": [
+        "Only Human Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "Explore an abandoned manor and it's grounds filled with nightmare creatures, locked doors, and scattered ammunition.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/838840/header.jpg?t=1549405030",
+    "minimum_requirements": "OS: Windows 8.1 Processor: Intel Core i7 - 4710HQ CPU @ 2.50GHz Memory: 8 GB RAM Graphics: NVidia GeForce GTX 860M (GTX 970 or above required for VR) DirectX: Version 11 Storage: 5 GB available space Additional Notes: (can probably run on a system lower than this, this is just all I was able to test on!)",
+    "recommended_requirements": null,
+    "reviews": []
+}

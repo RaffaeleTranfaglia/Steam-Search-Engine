@@ -1,0 +1,42 @@
+{
+    "app_id": 16500,
+    "name": "Chaos Theory",
+    "release_date": "2008-05-22",
+    "developer": [
+        "blurredVision"
+    ],
+    "publisher": [
+        "blurredVision"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 12,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Meet Chaos Theory! A balanced mix of arcade gameplay and challenging physics-based puzzle solving.The main objective in Chaos Theory is to fill &quot;Collectors&quot; with magnetically charged particles. Those particles move freely in the environment and are influenced by other objects and their magnetic forces.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/16500/header.jpg?t=1447351330",
+    "minimum_requirements": "Supported OS: Microsoft Windows® 2000/XP/VistaProcessor:Pentium or Athlon, 1 GHz or higherMemory: 512MB (Vista 1GB)Graphics: DirectX® 9.0 compatible, PixelShader 2.0DirectX®: 9.0c Hard Drive:  30MB  Sound: Yes, we have sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Pretty interesting, fun, and unique puzzle game. Requires some forward thinking and in some cases speedy user actions, although after 20 levels, the game has not put up any real challenging brain teasers.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "app_id": 320410,
+    "name": "Near Impact",
+    "release_date": "2014-09-16",
+    "developer": [
+        "Sonalysts Combat Simulations"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Thousands of incoming asteroids...One robot...An untested defense force...The odds are about even!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/320410/header.jpg?t=1447363398",
+    "minimum_requirements": "OS: Windows XP SP3/Windows 7/Windows 8 Processor: 1.6 GHz Intel or AMD equivalent Memory: 1 GB RAM Graphics: OpenGL 3.3 Support with 1GB video RAM, minimum screen resolution 1280x768 DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX 9.0c support Additional Notes: Known Incompatibilities: (101) S3 Chrome 430 GT 256MB Video Card-Only supports OpenGL 2.1, Integrated Realtek ALC269Z-VC Audio chipset",
+    "recommended_requirements": null,
+    "reviews": []
+}

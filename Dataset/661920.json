@@ -1,0 +1,45 @@
+{
+    "app_id": 661920,
+    "name": "Claybook",
+    "release_date": "2018-08-31",
+    "developer": [
+        "Second Order"
+    ],
+    "publisher": [
+        "Second Order"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 11,
+    "positive_ratings": 128,
+    "negative_ratings": 48,
+    "price": 11.39,
+    "description": "Claybook is a unique world made entirely of clay. Shape your character and the world around you to overcome challenging obstacles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/661920/header.jpg?t=1535703682",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 64-bit or newer Processor: Dual-core Intel or AMD, 2.0 GHz or faster Memory: 4 GB RAM Graphics: Nvidia GTX 750 or AMD R7 260 or equivalent DirectX: Version 11 Storage: 3 GB available space Additional Notes: DX11 compatible graphics card with 2GB VRAM or more",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

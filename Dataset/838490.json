@@ -1,0 +1,37 @@
+{
+    "app_id": 838490,
+    "name": "Theorem",
+    "release_date": "2018-04-24",
+    "developer": [
+        "Geckoo1337"
+    ],
+    "publisher": [
+        "Geckoo1337"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 9,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Abstract puzzle game",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/838490/header.jpg?t=1524719199",
+    "minimum_requirements": "OS: Windows Vista (service pack 2) Processor: 2 Mhz Memory: 1024 MB RAM Graphics: 128MB VRAM DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

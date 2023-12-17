@@ -1,0 +1,47 @@
+{
+    "app_id": 446850,
+    "name": "Mindball Play",
+    "release_date": "2018-07-11",
+    "developer": [
+        "Interactive Productline Team"
+    ],
+    "publisher": [
+        "Interactive Productline IP AB"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 33,
+    "positive_ratings": 56,
+    "negative_ratings": 10,
+    "price": 11.99,
+    "description": "Mindball Play is a physics based racing game. Roll over the competition in multiplayer or have fun in single player with time trials and campaign chapters. Race with an EEG headband: Stay focused to gain control over your ball - or play with a keyboard, mouse, gamepad or Tobii Eye Tracker.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446850/header.jpg?t=1551185605",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 2 GHz Processor Memory: 4 GB RAM Graphics: GeForce GTX 460 DirectX: Version 10 Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 486500,
+    "name": "Spooky Heroes",
+    "release_date": "2016-06-23",
+    "developer": [
+        "Gaweb Studio"
+    ],
+    "publisher": [
+        "Gaweb Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 22,
+    "negative_ratings": 12,
+    "price": 3.99,
+    "description": "Play as a knight who tries to unveil the mystery behind the spooky events occurring lately : Undead rising at night, hordes of goblins, orcs, tritons, elves, yetis and heretics suddenly becoming hostile, monstrous creatures blocking the path of travelers... Enroll new heroes on the way, each with their own powers and way to play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486500/header.jpg?t=1467631068",
+    "minimum_requirements": "OS: Microsoft® Windows® Vista / 7 / 8 Processor: Intel Core 2 Duo 2GHz+ or better Memory: 1 GB RAM Graphics: 256 MB video card Storage: 391 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

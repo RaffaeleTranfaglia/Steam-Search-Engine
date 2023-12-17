@@ -1,0 +1,54 @@
+{
+    "app_id": 361430,
+    "name": "The Little Crane That Could",
+    "release_date": "2015-04-27",
+    "developer": [
+        "Game Studio Abraham Stolk Inc."
+    ],
+    "publisher": [
+        "Game Studio Abraham Stolk Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Sandbox"
+    ],
+    "achievements": 5,
+    "positive_ratings": 21,
+    "negative_ratings": 14,
+    "price": 8.99,
+    "description": "The Little Crane is back! And it brought its friends to play in the dirt. Driving and operating heavy machinery is a blast! Test your operating skills in this simulator game with a diverse set of challenges. Use the crane to load an unload, the bulldozer to shape the terrain, and an excavator to dig up the terrain.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/361430/header.jpg?t=1478033574",
+    "minimum_requirements": "OS: 7 Processor: Core i3 Memory: 4 GB RAM Graphics: Intel IGP (OpenGL3.2+) Storage: 120 MB available space Additional Notes: NOTE: Intel HD Graphics 3000 is too old and will not work.",
+    "recommended_requirements": "OS: 7 Processor: Core i7 Memory: 8 GB RAM Graphics: Discrete GPU (OpenGL3.2+) Storage: 1 GB available space Additional Notes: SSD Drive recommended, gamepad recommended.",
+    "reviews": [
+        {
+            "review_text": "fun little title, needs some more missions and trucks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its nice a developer to listen to the community but however there are some flaws I think in this game.  The control system is not good you have to be very ambidextrous to use the controls. Example you have to hold the bumper bar all the time whilst trying to use the digging function. woud have been much nicer to toggle the digger on and off.  Shame about the control issue as I bought it thinking my 3 year old would love it as he is digger mad.  It is I guess a tablet game rather then PC for example the scenary looks like its in FOG and you cant see very far. In fact you can see it draw the scenary as you drive. If you do to digging the whole thing get laggy and slow and I would say that I dont have a slow PC for this sort of game. GTX 660 and an i3 but like I say the game really should not require this to run smoothly.  I will be honest it steam did refunds then I would be asking for one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game needs something like a steam roller that can make the terrain flat again. It's a mess when you dig something out.",
+            "review_score": "1"
+        }
+    ]
+}

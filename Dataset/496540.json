@@ -1,0 +1,40 @@
+{
+    "app_id": 496540,
+    "name": "Zone of Lacryma",
+    "release_date": "2018-07-23",
+    "developer": [
+        "oophok"
+    ],
+    "publisher": [
+        "oophok"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 17,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 5.99,
+    "description": "Zone of Lacryma is a story driven vertical shmup with 11 levels, highscores, speedrunning, upgrades and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496540/header.jpg?t=1533935882",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2GHz Memory: 4 GB RAM Graphics: 512MB+ Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

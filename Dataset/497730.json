@@ -1,0 +1,38 @@
+{
+    "app_id": 497730,
+    "name": "The Wardrobe",
+    "release_date": "2017-02-15",
+    "developer": [
+        "C.I.N.I.C. Games"
+    ],
+    "publisher": [
+        "Gamera Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Point & Click",
+        "Singleplayer"
+    ],
+    "achievements": 26,
+    "positive_ratings": 182,
+    "negative_ratings": 34,
+    "price": 12.99,
+    "description": "Inspired by the great ‘90s classics such as 'Monkey Island', 'Day of the Tentacle', 'Tony Tough' and 'Sam &amp; Max: Hit the Road', &quot;The Wardrobe&quot; has a strong sense of humour, but isn't shy about dealing with mature and non-politically correct themes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/497730/header.jpg?t=1554708575",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: 2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: ATI Radeon HD 3400 Series, Geforce 9400 Series with at least 512 MB VRAM DirectX: Version 9.0c Storage: 5 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "recommended_requirements": "OS: Windows 7/8/10 64-bit Processor: 2.6 GHz Dual Core CPU Memory: 3 GB RAM Graphics: ATI Radeon HD 4500 Series, Geforce 9400 GT or higher DirectX: Version 9.0c Storage: 8 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "reviews": []
+}

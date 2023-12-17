@@ -1,0 +1,41 @@
+{
+    "app_id": 833300,
+    "name": "Fantasyland",
+    "release_date": "2018-04-21",
+    "developer": [
+        "Apillo"
+    ],
+    "publisher": [
+        "Apillo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 3,
+    "negative_ratings": 23,
+    "price": 6.19,
+    "description": "Fantasyland, from one of the four ancient China masterpiece &quot;Dream of the Red Chamber&quot;.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/833300/header.jpg?t=1531197973",
+    "minimum_requirements": "OS: Windows 7 / Windows 8 / Windows 10 Processor: Intel Core i3 Memory: 2048 MB RAM Graphics: Intel HD Graphics 4400 Storage: 2048 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

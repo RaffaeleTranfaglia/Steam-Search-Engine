@@ -1,0 +1,41 @@
+{
+    "app_id": 1001980,
+    "name": "Archeo: Shinar",
+    "release_date": "2019-01-17",
+    "developer": [
+        "Artists Entertainment"
+    ],
+    "publisher": [
+        "Artists Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 28,
+    "negative_ratings": 5,
+    "price": 10.29,
+    "description": "Explore the deepest caves with a cup of tea in your hand, reach the heart of the jungle with your finger on a globe, send your highly educated employees to uncivilized tribes and don't let them convince you it's a certain death! The worst case scenario? You will hire new ones.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1001980/header.jpg?t=1549036251",
+    "minimum_requirements": "OS: 64-bit Operating Systems (Windows 7, Windows 8.1) Processor: Intel Core i3-4170 or AMD FX-8120 Memory: 1 GB RAM Graphics: Intel HD Graphics 505 DirectX: Version 11 Storage: 800 MB available space Sound Card: DX11 compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

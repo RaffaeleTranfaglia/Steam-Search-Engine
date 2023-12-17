@@ -1,0 +1,52 @@
+{
+    "app_id": 303530,
+    "name": "Sentris",
+    "release_date": "2014-08-22",
+    "developer": [
+        "Timbre Interactive"
+    ],
+    "publisher": [
+        "Timbre Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Rhythm"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 11,
+    "price": 10.99,
+    "description": "Sentris is a musical performance game. Make your own music as you Drop, Recycle, and Stack &quot;Sound Blocks&quot; into a spinning loop. Freestyle with a huge degree of musical control. Or focus on achieving the goal and let your song emerge organically.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/303530/header.jpg?t=1483751503",
+    "minimum_requirements": "OS: Windows XP Processor: 1GHz Memory: 512 MB RAM Graphics: Radeon 4850 / GeForce 8800 (integrated gfx is not officially supported) DirectX: Version 9.0 Storage: 500 MB available space Sound Card: any Additional Notes: Be sure to use the latest sound and graphics drivers",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I played an early version of this game at PAX last year and could not get my head around it. I dropped blocks haphazardly in to a wheel, not understanding what I was supposed to be doing and not enjoying the sounds I was creating. I walked away feeling embarrassed that I had failed to 'get' Sentris.  The tutorial in the release version immediately got me on the right track and removed my doubts about this game. Within five minutes I was creating funky loops that went beyond the tunes the game was feeding me and I felt the thrill of composition that I know the designer was aiming to inspire. There is a real satisfaction in building loops layer by layer and it is especially cool to see how the sound evolves as later layers start to push earlier ones out of the loop. The way the progression of songs helps you learn what the game has to offer in terms of depth is almost perfectly executed, the only thing that I struggled a little to figure out was how to change octaves in freestyle mode (you have to climb or descend the scale to reach the octave you want to play in).  I have now worked my way through all of the 'puzzles' that the game ships with (excluding one, Kentucky Fried Chernobyl, that seems to be broken) in their default forms and started to mess with the remix function, which lets you change the BPM, key signature, scale mode and instrument set for any track, and the endless random mode. There is a lot of room to experiment using these tools and although I don't think I will be using Sentris for serious music composition I definitely see myself regularly dipping back in to this game for short jam sessions.  Sentris is not without flaws; I would have gladly played through two or three times as many puzzle songs as the game shipped with or made my own with a level editor, freestyle mode being a face-button toggle rather than a shoulder-button hold makes the controls a little clumsy at times, and the game never gives you control over the length of the blocks you are placing even in the remix and infinite modes, although I suspect that this last 'flaw' was a deliberate design decision to force players to experiment and compose rather than reproducing tunes or beats they already know.  I would recommend this game to anyone, even if you do not think of yourself as a musical person I think you will be pleasantly surprised by what you are able to create in Sentris.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's not a game nor is it a creative tool. It gives you rules to 'pass' each level which along with the poor samples restricts your creativity, but conversely it's easy to pass levels and create a loop that sounds bloody awful. Before you buy this, have a look on YouTube and see whether there are any shining examples of good loops that people have made, and that includes the trailer for the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The tutorial absolutely sucks. It's extremely vague, and unless you do a small bit of video watching on YouTube, you can only make assumptions based on what it's asking for you to do. At least common logic carried me for the first song and a half.  Other than the outright confusion I experienced, this is an excellent piece of work. I'm sure Samantha is planning on adding more cool stuff, so if you got the chance, buy it now. A lot of love and dedication went into this game, and if you're like me and enjoy items like Audiosurf, Beat Hazard, Savant: Ascent, or anything in general that has in depth gameplay pertaining to music, you will enjoy this...eventually. If at first you play it and don't get how it works or if you don't like it right off the bat, I really encourage you to go watch people fiddle around with it first before you shelve it for good.  Also, be careful if you play too long. I played for a straight half hour (yeah, I know) without a break and after closing the game was promptly greeted by my vision going wonky and spinning like I had just had a few shots of vodka on an empty stomach. Don't ask.  8/10 Probably opens wormholes to another dimension. *blink blink*",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 987710,
+    "name": "BLASK",
+    "release_date": "2019-01-14",
+    "developer": [
+        "SmallBigSquare"
+    ],
+    "publisher": [
+        "SmallBigsquare"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 13,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "BLASK is a unique puzzle game where you control the environment in order to hit all the goal markers with lasers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/987710/header.jpg?t=1554995412",
+    "minimum_requirements": "最低配置: 操作系统: Windows XP/Vista/7/8/8.1/10 x86/x64 处理器: Intel Pentium D 830 (2* 3000) or equivalent / AMD Athlon 64 4000+ (2600) or equivalent 内存: 1 GB RAM 图形: GeForce 7600 GS (256 MB) / Radeon HD 2400 PRO (256 MB) 存储空间: 需要 50 MB 可用空间",
+    "recommended_requirements": null,
+    "reviews": []
+}

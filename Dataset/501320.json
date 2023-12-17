@@ -1,0 +1,42 @@
+{
+    "app_id": 501320,
+    "name": "The Shrouded Isle",
+    "release_date": "2017-08-04",
+    "developer": [
+        "Jongwoo Kim",
+        "Erica Lahaie",
+        "FX Bilodeau",
+        "Tanya Short"
+    ],
+    "publisher": [
+        "Kitfox Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Lovecraftian",
+        "Management"
+    ],
+    "achievements": 16,
+    "positive_ratings": 437,
+    "negative_ratings": 174,
+    "price": 6.99,
+    "description": "Includes the Sunken Sins free DLC! Your Excellency, in this short game, we prepare for the awakening of our Lord. He hungers for human sacrifice. Sinners try to hide their dark secrets, but all must be purged...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501320/header.jpg?t=1548343284",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: 1024 x 768 or larger resolution DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,91 @@
+{
+    "app_id": 325180,
+    "name": "AppGameKit: Easy Game Development",
+    "release_date": "2014-11-21",
+    "developer": [
+        "The Game Creators"
+    ],
+    "publisher": [
+        "The Game Creators"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education",
+        "Software Training",
+        "Utilities",
+        "Web Publishing"
+    ],
+    "tags": [
+        "Game Development",
+        "Software Training",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 225,
+    "negative_ratings": 27,
+    "price": 60.99,
+    "description": "AppGameKit is a powerful game development engine, ideal for Hobbyist and Indie developers. Choose to code in the easy to learn AppGameKit BASIC or use our libraries in C++ &amp; XCode. Write your code once and deploy easily to multiple mobile &amp; desktop platforms.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/325180/header.jpg?t=1536694332",
+    "minimum_requirements": "OS: Windows XP SP2 or better Processor: Intel Celeron / Athlon Sempron or better Memory: 1 GB RAM Graphics: Open GL 2.0 compatible or better DirectX: Version 9.0c Storage: 2 GB available space Sound Card: N/A",
+    "recommended_requirements": "OS: Windows 7 or better Processor: Intel Core 2 / Athlon 2 X2 or better Memory: 2 GB RAM Graphics: Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better Storage: 2 GB available space Sound Card: N/A",
+    "reviews": [
+        {
+            "review_text": "While I would recommend this program for mobile and cross-platform 2D development, I feel that development has been wayyyy too slow for 3D as well as for other important features. Also, don't pay attention to the hours I've spent on the Steam version. I've used the standalone AGK 1 and AGK 2 for hundreds of hours (version 1 and 2 are pretty much identical, even at this point in my opinion).  A little story for context: I originally had bought AGK 1 almost 2 years ago when it was priced at $60. For the price, it was a solid program with an incredibly easy learning curve (this is a HUGE strength). It's huge weakness though was exporting iOS and Android apps (the process was just ridiculous-they had like a 70-step guide or something that was missing steps and stuff). Then, AGK 1 had trouble getting funding because it seemed that it was underpriced for what it offered. Then, the AGK 2 came along (as part of a massive Kickstarter campaign) to replace AGK 1, promising a bunch of new features and such. I understood that they made a business mistake, and I wanted to help them out, so I pledged (you also got the beta version). AGK 2 luckily fixed the export with a new IDE and such.  Anyway, I spent months on a 3D mobile game (probably my most impressive and time-consuming project to date) since 3D animation was promised to come out a few years ago, but still has yet to arrive. In fact, I stopped working on the project a year ago, waiting for the promised 3D animation, and it's still a long way from coming. What's worse is that there were other stretch goals for 3D that haven't even been touched yet. The worse part about all of this is that the deadlines for when these features would arrive were months, if not years off, which made it difficult to plan. This isn't even just for the 3D parts, certain 2D features have also taken absurd amounts of time to be released.  Unfortunately, since those almost two years, not too much else has changed. I don't want to give a negative review (I wish you could use neutral) for AGK 2, because I feel that it's worth the money for 2D games. However, this product continues to frustrate me on how little it delivered from what was promised. I really don't understand how long it can take to incorporate 3D animation or even some other 3D commands; it really shouldn't be that difficult. It appears that the product is understaffed (I think there is like one programmer working on it for like 5 devices), and the countless delays and limited updates (both in scale and in time) have really made this product suffer. It really is a shame because this product could have been so much better.  Anyway, sorry for the rant. It is a decent product if all you wish to use it for is 2D stuff, but its 3D has been lacking for years. I know it doesn't advertise this on the store page, but it is part of the product as well as other promised 3D features. If you are expecting features in the future, it's too hit-or-miss.  In short, the 2 after AGK is so misleading, it really should just be called AGK 1, and even then, an incomplete version.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Overall, I think this is a good product. Not great--not yet at least--but good. I see what this company did with DarkBasic and I hope that they intend to stuff as much of that as they can into APK2, and the indications are that they intend to do just that. I tried GameMaker last year, and I found that the games I was interested in making didn't fit very neatly into the GM model (although I'm sure it's a good tool for some games). The nice thing about AGK is that it is more flexible--so much that I can't think of a 2D game that can't be done with it.  My sense is that this is the initial release of a product that will see many updates, especially in the 3D world. The features for 3D appear to be fairly basic, although I haven't tried them yet. That said, let's get to the pros and cons:  Pros: + Handles all of the graphics-related stuff I don't feel like dealing with, and plenty of nice features + 'Easy enough' that I've got a (very rudimentary) game prototype within a week + Very flexible--basically it's a library of game functions with an IDE wrapped around it + Nice IDE, fairly intuitive and hasn't caused me any headaches + BASIC compiler points out most silly mistakes, like using a variable before setting it + Pretty reasonable physics model (take it as a compliment, as Physics was one of my majors) + Handles collisions pretty well  Cons: - Documentation is...pretty basic. It exists and gives you a decent idea of what the functions do, but it's just not up to a great level yet. I suspect that they and the community will rectify this with time. - There are a few non-obvious behaviors (bugs?) and call sequences. It increases the learning curve because you spend time dealing with things that 'ought' to work. - There seem to be certain ranges of values that the physics model 'likes' to deal with. Don't expect to place planets and astronauts in the same program with their real masses. Fortunately, you shouldn't ever need to do that. - I wouldn't use this to make a 3D game, yet. I believe I read that 3D animations are not supported yet.  Overall, I'd say: it's good, and getting better.  About the reviewer: I have 11 years of experience as a professional computer scientist. I have more than the layman's knowledge of physics. What I do not have (yet) is game development experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Works like a charm! Developing in Tier 1 is as easy as using a drag-and-drop/WYSIWYG-program and the broadcast-feature makes testing as easy as possible. Only thing I don't like when using this on steam is that all your friends get a pop-up everytime you start your application on your PC (so you can avoid it by using broadcast) that informs them that you started 'playing' App Game Kit 2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The App Game Kit makes developing games and apps for multiple platforms very easy. I use its built in Basic language to create one codebase that I can export to multiple platform such as IOS, Android, and BlackBerry 10 in minutes. Also its broadcast feature is great for deploying apps for testing to multiple devices at the same time using WIFI.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The dev tool is fantastic. It's easy it pick up, a joy to use and is powerful enough to pull off any idea you have. Games can be produced, packaged and on sale on multiple outlets very quickly. I personally have used this software for several years and I've released six games across Windows, Linux and Android. I've also won various laptops, all-in-ones and tablets since 2013 and that was only possible because of the fast results possible using AGK. Also the community linked to this software is simply amazing, there's always someone willing to help you out whenever you think you've hit a dead end. I couldn't recommend this tool enough.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have used a lot of different engines and frameworks for app development and keep going back to AGK for its ease of programming and rapid testing across all platforms. There is something very satisfying about being able to code on Windows (or Mac) and then hit a button and see your creation immediately transmitted to all mobile devices that have the AGK player running. AGK has come a long way since the original version many years ago and includes a solid range of 2D and 3D features plus easy integration of ads, social, in-app purchases, achievements and so on. New programmers will appreciate the BASIC syntax, while advanced users will enjoy the versatile functionality and optional Tier 2 development tract via C++ that allows for greater expansion capabilities.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm recomending thisa software even though it may not be as simple and straight forward as one would expect. The only downside I encountered was figuring out which online site had the assets for different tasks and the youtube tutorials are soso at best. Still, it's not too hard to learn if you show some deication and follow the manuals.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple way to get started in writing for multiple devices if you can deal with BASIC.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "?/10 -IGN. I have no idea how to use it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple to learn and use. You'll be creating games in no time. Very comprehensive 2D commands which are ideal for mobile games. Also has basic 3D commands which are going to be improved on very soon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At this Point in time (4th Feb 2016) APK2 is ONLY cross platform if you want to programe in the BASIC language.  If you want to programe in a REAL language 'C++' on the LINUX operating system than THIS IS A TOTAL WASTE OF MONEY as it does not properly support LINUX yet!!!!!!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "no guides or tutorials wont recommend to anyone not even for a dollar should be free its trash",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 332540,
+    "name": "We Slay Monsters",
+    "release_date": "2017-06-21",
+    "developer": [
+        "Furiously Inactive Games"
+    ],
+    "publisher": [
+        "Furiously Inactive Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 58,
+    "positive_ratings": 53,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "We Slay Monsters streamlines traditional roguelike RPG gameplay and introduces a unique poker-esque card based combat mechanic. Each class (Wizard, Rogue, Warrior) has a unique deck of cards; using this deck you will guide your hero through the dungeon.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/332540/header.jpg?t=1517690431",
+    "minimum_requirements": "OS: Windows XP+ Processor: SSE2 instruction set support Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work",
+    "recommended_requirements": null,
+    "reviews": []
+}

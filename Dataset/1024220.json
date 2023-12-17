@@ -1,0 +1,38 @@
+{
+    "app_id": 1024220,
+    "name": "Death Waves",
+    "release_date": "2019-02-19",
+    "developer": [
+        "SeedWall"
+    ],
+    "publisher": [
+        "SeedWall"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 100,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "These zombies chose the wrong day to get out of their mom's hot spot. Kill them and survive to waves !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1024220/header.jpg?t=1550656409",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: Intel I3 or Amd FX-6350 or equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 or AMD R9 270 DirectX: Version 9.0 Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: Intel I5 ou Amd FX-8350 Or Better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 750 TI or AMD R9 280X or Better DirectX: Version 9.0 Storage: 8 GB available space",
+    "reviews": []
+}

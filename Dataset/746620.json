@@ -1,0 +1,39 @@
+{
+    "app_id": 746620,
+    "name": "Bakery",
+    "release_date": "2017-11-22",
+    "developer": [
+        "ChaoYe Liu"
+    ],
+    "publisher": [
+        "Happy Home Company"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Management"
+    ],
+    "achievements": 20,
+    "positive_ratings": 50,
+    "negative_ratings": 8,
+    "price": 5.79,
+    "description": "Operating bakery Making various breads and cakes Manage and operate storefronts",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/746620/header.jpg?t=1546198052",
+    "minimum_requirements": "OS: Windows XP / Vista / Win7  / Win8 Processor: Pentium4 Memory: 512 MB RAM Graphics: Support DirectX DirectX: Version 8.0 Storage: 600 MB available space Sound Card: Support DirectX",
+    "recommended_requirements": null,
+    "reviews": []
+}

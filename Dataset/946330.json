@@ -1,0 +1,38 @@
+{
+    "app_id": 946330,
+    "name": "Fallen Threats",
+    "release_date": "2018-12-28",
+    "developer": [
+        "Mario Almaguer"
+    ],
+    "publisher": [
+        "Mario Almaguer"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Explore a randomly generated dungeon, pick up loot, level up, fight enemies and bosses, buy new swords, go deeper and use your abilities. How long will you survive?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946330/header.jpg?t=1546192938",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2Ghz+ Memory: 1024 MB RAM Graphics: 256MB Storage: 120 MB available space Additional Notes: The Framerate may drop when lots of enemies are on screen.",
+    "recommended_requirements": "OS: Windows 7 Processor: Any Dual Core 2Ghz+ Memory: 2048 MB RAM Graphics: 512MB Storage: 250 MB available space",
+    "reviews": []
+}

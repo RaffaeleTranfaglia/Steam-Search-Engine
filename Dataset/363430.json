@@ -1,0 +1,65 @@
+{
+    "app_id": 363430,
+    "name": "D Series OFF ROAD Driving Simulation",
+    "release_date": "2015-05-19",
+    "developer": [
+        "devotid"
+    ],
+    "publisher": [
+        "devotid Media"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 56,
+    "positive_ratings": 25,
+    "negative_ratings": 42,
+    "price": 5.99,
+    "description": "D Series is an off road driving simulation with custom track editor built into the Steam Workshop. It was originally released in 2015 and completely rebuilt for 2017 with all new vehicles and a new controller input system.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/363430/header.jpg?t=1509299686",
+    "minimum_requirements": "OS: Windows XP SP2 (Windows Vista and 7) Processor: Intel CPU, AMD 64 CPU (2 GHz) Memory: 1 GB RAM Graphics: 1024 MB Pixel Shader 2.0 GPU DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: Must have DirectX Redist for Force Feedback",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I like the update. The new cars are great. I need to play with the controller setup and force feedback. I have not looked at the track editor but my son is very interested. I would recommend this game if you like racing or driving simulators.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Would be good if this was on early access... But there really isn't anything here worth playing. You can't even race against other trucks so it's all time trials. The ability to paint your truck is neat but in addition to that it would have been nice to have more than 1 different truck in the game. If there was a career mode with upgradeable trucks and an actual path of progression it would be more interesting. Right now you have 5 or 6 tracks and you can drive through them. That's the game.   It's very buggy. The mountains just flicker randomly in many tracks, it is practically epilepsy-warning level of flickering. It looks funny though, I was laughing the whole time but I was thinking it was early access but apparently this is their finished product.   I will commend them for including both a pushbutton-handbrake and an analog handbrake but there is a problem with that. What I did was assign my handbrake to the right analog stick so I could try out (for the first time ever) the feeling of an analog handbrake in a game but due to the deadzone in the stick it causes the transmission to break. As in, if you center the joystick and it is only 0.05% off-center the transmission will cease to function and you can go in top gear and redline it and you won't be able to move. So that doesn't work at all, and to top it off you can't UN-assign a button so once you have assigned it you don't have the ability to change it.   In my opinion this game would be more fun without the invisible walls in the open areas of the track. I know you are supposed to just do the races but I see vast flickering mountains in the distance and it would have been fun to just go off-roading over there and explore.   At no point does it even feel like 'off roading', it's more like driving on a gravel roads. I live out in the boonies with gravel roads so this just seems normal to me.   Overall I wouldn't recommend this to anyone. Literally the best part of the game is the fact that you can drive the truck in the menu/garage. This game has a retail price of $20 and for that amount of money you can get a copy of Spintires at a discount and play a REAL off roading game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Cant say I care for the handling of the trucks. Feels like driving on ice since I got a G27 wheel. Very frustrating to drive. And I have driven offroad with an offroad mini buggy I build. My mini was much easier to drive despite have 120 hp at about 800 lbs.         YouTube™ Video:  Minibuggy Run&nbsp;",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 437630,
+    "name": "State of Mind",
+    "release_date": "2018-08-15",
+    "developer": [
+        "Daedalic Entertainment"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Cyberpunk"
+    ],
+    "achievements": 34,
+    "positive_ratings": 232,
+    "negative_ratings": 42,
+    "price": 25.99,
+    "description": "State of Mind is a futuristic thriller game delving into transhumanism. The game explores themes of separation, disjuncture and reunification, in a world that is torn between a dystopian material reality and a utopian virtual future.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/437630/header.jpg?t=1537370568",
+    "minimum_requirements": "OS: Win 7, 8, 10, 32bit Processor: 2.8 Ghz Dual Core CPU Memory: 4 GB RAM Graphics: NVIDIA GeForce 560 / AMD Radeon 7770 or similar, at least 2 GB of VRAM DirectX: Version 11 Storage: 23 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "recommended_requirements": "OS: Win 7, 8, 10, 64bit Processor: 3 Ghz Quad Core CPU Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 750 Ti / AMD Radeon R7 370 or similar, at least 4 GB of VRAM DirectX: Version 11 Storage: 23 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "reviews": []
+}

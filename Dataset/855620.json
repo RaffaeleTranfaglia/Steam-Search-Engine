@@ -1,0 +1,44 @@
+{
+    "app_id": 855620,
+    "name": "Asteroid Deathmatch",
+    "release_date": "2019-01-31",
+    "developer": [
+        "Eager Amoeba"
+    ],
+    "publisher": [
+        "Eager Amoeba"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "The future is now, so why not take a holiday to the past? Asteroid Deathmatch is a homage to very old games, re-vamped for modern systems.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/855620/header.jpg?t=1548972290",
+    "minimum_requirements": "OS: Windows Vista SP1+ Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

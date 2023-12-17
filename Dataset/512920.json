@@ -1,0 +1,41 @@
+{
+    "app_id": 512920,
+    "name": "Trigger Time",
+    "release_date": "2017-05-15",
+    "developer": [
+        "Shephf Games"
+    ],
+    "publisher": [
+        "Creative Mobile"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Top-Down Shooter"
+    ],
+    "achievements": 24,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 0.0,
+    "description": "Trigger Time is a story-driven, top-down Shoot 'em up with a fun gravity gun and physics puzzles to solve. Blast your way through 9 levels filled with enemies, hazards and bizarre bosses. Along the way you'll take control of vehicles, pick up weapons, items and boosters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/512920/header.jpg?t=1529013820",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2Ghz+ Memory: 1024 MB RAM Graphics: OpenGL compatible card with at least 256MB Storage: 250 MB available space Sound Card: 2D sound compatible card",
+    "recommended_requirements": null,
+    "reviews": []
+}

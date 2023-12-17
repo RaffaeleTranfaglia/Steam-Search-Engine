@@ -1,0 +1,40 @@
+{
+    "app_id": 861160,
+    "name": "Argos",
+    "release_date": "2018-05-31",
+    "developer": [
+        "PROGRAMMER: LUCA TOCCO",
+        "3D ARTIST: JACOPO FILO DELLA TORRE",
+        "Other collaborators: Alessio Tolu",
+        "Soundtrack: Davide Cuomo"
+    ],
+    "publisher": [
+        "PixelsDesign"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 4,
+    "price": 9.99,
+    "description": "Argos VR, the first escape room title and chapter, entirely designed and created by the indie PixelsDesign software house, involves and totally immerses the player in an atmosphere characterized by a very high graphic level, excellent interactivity and playability.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/861160/header.jpg?t=1548317275",
+    "minimum_requirements": "OS: Windows® 7 SP1, Windows® 8.1 or later, Windows® 10 Processor: Intel® Core™ i5-3450 equivalent or better Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 970 (VR Ready) DirectX: Version 10 Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows® 7 SP1, Windows® 8.1 or later, Windows® 10 Processor: Intel® Core™ i7 equivalent or better Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480, equivalent or better DirectX: Version 11 Storage: 8 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 749340,
+    "name": "Chocolate makes you happy",
+    "release_date": "2017-11-22",
+    "developer": [
+        "Blender Games"
+    ],
+    "publisher": [
+        "Blender Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Physics"
+    ],
+    "achievements": 154,
+    "positive_ratings": 33,
+    "negative_ratings": 9,
+    "price": 0.79,
+    "description": "Casual colorful physical puzzle with sweets and explosions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/749340/header.jpg?t=1553271134",
+    "minimum_requirements": "OS: Windows 7, 8.1, 10 Processor: Intel or AMD 2 GHz Memory: 150 MB RAM Graphics: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

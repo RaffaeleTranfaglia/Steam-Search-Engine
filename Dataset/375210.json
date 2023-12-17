@@ -1,0 +1,46 @@
+{
+    "app_id": 375210,
+    "name": "Unveil",
+    "release_date": "2016-04-19",
+    "developer": [
+        "Particle Studios"
+    ],
+    "publisher": [
+        "Particle Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Survival",
+        "Indie"
+    ],
+    "achievements": 27,
+    "positive_ratings": 47,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "Experience Survival in it's purest form. Unveil delivers a rich recreation of Nature with a deep simulation of Weather, Body, Flora &amp; Fauna, Fire and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375210/header.jpg?t=1461688205",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0 GHz Memory: 2 GB RAM Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.6 GHz Memory: 3 GB RAM Graphics: Graphics Card with full OpenGL support drivers Storage: 500 MB available space",
+    "reviews": [
+        {
+            "review_text": "Love the game, great music very calming, challenging game, i mean it's survival for christ sake it can't be easy. multiplayer would be dank, other than that just a chill game to play",
+            "review_score": "1"
+        }
+    ]
+}

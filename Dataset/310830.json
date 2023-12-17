@@ -1,0 +1,40 @@
+{
+    "app_id": 310830,
+    "name": "Retrobooster",
+    "release_date": "2014-07-11",
+    "developer": [
+        "Really Slick"
+    ],
+    "publisher": [
+        "Really Slick"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "A reinvention of the cave-flyer for players who love games of skill. You control an extremely responsive ship, which opens up new possibilities for speed flying challenges, puzzles, and bullet hell scenarios. This game is set at 1980s difficulty--Survive it if you can.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/310830/header.jpg?t=1447362464",
+    "minimum_requirements": "OS: Windows XP (with Service Pack 3) Processor: Intel Core 2 Duo | AMD Athlon 64 X2 3.0GHz Memory: 512 MB RAM Graphics: NVidia GeForce 8xxx or 9xxx Go | AMD Radeon HD 4xxx or 7xxxM | Intel HD Graphics 2500 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

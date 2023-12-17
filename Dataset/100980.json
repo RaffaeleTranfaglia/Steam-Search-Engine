@@ -1,0 +1,50 @@
+{
+    "app_id": 100980,
+    "name": "3DCoat 4.8",
+    "release_date": "2012-10-02",
+    "developer": [
+        "Pilgway"
+    ],
+    "publisher": [
+        "Pilgway"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling"
+    ],
+    "tags": [
+        "Animation & Modeling"
+    ],
+    "achievements": 0,
+    "positive_ratings": 75,
+    "negative_ratings": 5,
+    "price": 95.99,
+    "description": "3D-Coat is the one application that has all the tools you need to take your 3D idea from a block of digital clay all the way to a production.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/100980/header.jpg?t=1534276868",
+    "minimum_requirements": "OS: Windows 2000, XP, Vista, 7                 Processor: 1.2 GHz or better                  Memory: 512Mb or better                 Hard Disk Space:  1GB                                Video Card: 9600/Nvidia 5600 128Mb or better                  DirectX®: 9.0c",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Relatively powerful tool. The voxel painting it offers by far surpasses other programs of its type. It's a great tool and it's pretty fun to learn.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good for texturing and uv mapping, but maya's modeling tool kit is better for retopology and I could never get the sculpting part of it to work. Over all a useful part of the pipe line. Expect to spend some time learning the user interface.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing software, and good value for money, 10++ i waisted money on many other UV software and tried all the free one their is,  They all have to many in's and out of exporting to paint programs and so on and it takes ages and give one a head ache.  3D coat on the other hand has it all. and i dont get an head ache doing UV's,  So i have more time creating.  Forget the rest and get the best for an all in one to get your job done, SIMPLES!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great sculpting and retopology tools.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 642730,
+    "name": "Virtual SlotCars",
+    "release_date": "2017-06-09",
+    "developer": [
+        "PraGames"
+    ],
+    "publisher": [
+        "PraGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 24,
+    "positive_ratings": 25,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "VSC is a game that allows you to accurately simulate the Consumer and Pro Slot Car racing environment. Play single or multiplayer, fully customise your cars, create your own tracks, and race at speeds in excess of 70km/h with up to 8 players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/642730/header.jpg?t=1553767961",
+    "minimum_requirements": "OS: Microsoft Windows® 7/8/10 Processor: Intel® Core2 Duo 2.0 GHz (or AMD® equivalent) Memory: 3 GB RAM Graphics: NVIDIA® GeForce 400 series / ATI® Radeon HD 2000 series / Intel® HD 4000 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX® 9.0c compatible 16-bit sound card Additional Notes: DirectX® 9.0c (required for the audio system), OpenGL 3.3, 1 GB VRAM, should work on Microsoft Windows® Vista (untested)",
+    "recommended_requirements": "OS: Microsoft Windows® 7/8/10 Processor: Intel® Quad Core i5 2.5 GHz (or AMD® equivalent) Memory: 6 GB RAM Graphics: NVIDIA® GeForce 600 series / ATI® Radeon HD 7870 2GB / Intel® HD 6000 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX® 9.0c compatible 16-bit sound card Additional Notes: DirectX® 9.0c (required for the audio system), OpenGL 4.2, 2 GB VRAM",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 323670,
+    "name": "Super Indie Karts",
+    "release_date": "2015-05-06",
+    "developer": [
+        "One Legged Seagull"
+    ],
+    "publisher": [
+        "One Legged Seagull"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 197,
+    "negative_ratings": 44,
+    "price": 11.49,
+    "description": "Super Indie Karts is a classic retro 16 to 64-bit style karting game, with Time Trials, Grand Prix, SplitscreenGP, and Battle Modes! The game was KickStarted late in 2014 and is aimed for completion in 2019. You don't have to wait until completion though as you can join in now with Early Access!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/323670/header.jpg?t=1552538033",
+    "minimum_requirements": "OS: Windows Vista Processor: 2.5 GHz i5 dual core Memory: 2 GB RAM Graphics: Mid-range Graphics Card, Nvidia Geforce GT430 or equivalent Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: 3 GHz i7 quad core Memory: 8 GB RAM Graphics: High-end 4GB Graphics Card recommended Storage: 1 GB available space",
+    "reviews": []
+}

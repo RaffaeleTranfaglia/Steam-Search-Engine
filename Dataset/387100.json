@@ -1,0 +1,39 @@
+{
+    "app_id": 387100,
+    "name": "Walkerman",
+    "release_date": "2017-05-22",
+    "developer": [
+        "ScalemaiL"
+    ],
+    "publisher": [
+        "Sekai Project"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Violent",
+        "Sexual Content"
+    ],
+    "achievements": 20,
+    "positive_ratings": 21,
+    "negative_ratings": 4,
+    "price": 4.99,
+    "description": "Hunt monsters by discovering and exploiting their rules in this Visual Novel from ScalemaiL.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/387100/header.jpg?t=1555647049",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2 Ghz Pentium 4 Memory: 512 MB RAM Graphics: 1920x1080 DirectX: Version 9.0 Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

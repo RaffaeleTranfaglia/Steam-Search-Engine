@@ -1,0 +1,40 @@
+{
+    "app_id": 573680,
+    "name": "Real Farm",
+    "release_date": "2017-10-20",
+    "developer": [
+        "Triangle Studios"
+    ],
+    "publisher": [
+        "SOEDESCO Publishing"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Agriculture",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 60,
+    "negative_ratings": 107,
+    "price": 15.49,
+    "description": "Grow your way to success in Real Farm, the most immersive agricultural sim around. Explore the countryside and make it yours. Start from nothing or take on a working farm. Manage the land, crops, animals and staff, and reap the riches you sow.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/573680/header.jpg?t=1523973775",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 or higher Процессор: 2.7 GHz Dual Core Оперативная память: 4 GB ОЗУ Видеокарта: Nvidia Geforce GTX 670 or AMD Radeon HD 7970 DirectX: Версии 11 Место на диске: 2 GB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7 or higher Процессор: Intel® Core™ i5 4th Gen / AMD A10 series Оперативная память: 8 GB ОЗУ Видеокарта: NVIDIA® GeForce® GTX 950 DirectX: Версии 11 Место на диске: 3 GB",
+    "reviews": []
+}

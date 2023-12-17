@@ -1,0 +1,46 @@
+{
+    "app_id": 341260,
+    "name": "Isaac the Adventurer",
+    "release_date": "2015-03-02",
+    "developer": [
+        "Artisiti",
+        "Studio Vrtinec"
+    ],
+    "publisher": [
+        "Artisiti"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 13,
+    "price": 1.99,
+    "description": "Embark on a dangerous journey in the role of a small boy who is chasing his dream of becoming a great adventurer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/341260/header.jpg?t=1447366724",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Core 2 Duo 2.4 GHz or AMD Athlon X2 2.7 GHz Memory: 4 GB RAM Graphics: ATI Radeon 3870 or higher, Nvidia GeForce 8800 GT or higher DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A very fast-paced and addictive gameplay. You can take a moment, look around the map, and figure out how to solve some puzzles. But if you want to go for the highscore you need to think on the go. The team behind the game is quite small so kudos to them!  Would recommend! :)",
+            "review_score": "1"
+        }
+    ]
+}

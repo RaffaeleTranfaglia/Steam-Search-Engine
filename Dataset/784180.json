@@ -1,0 +1,37 @@
+{
+    "app_id": 784180,
+    "name": "American Farmer",
+    "release_date": "2018-04-20",
+    "developer": [
+        "Tyler Borg"
+    ],
+    "publisher": [
+        "TyBorgGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 31,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Buy and Sell in a 2D board game of chance and risk management. Up to 8 players Human (Local) or AI. Unlock Steam achievements!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/784180/header.jpg?t=1524278957",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit) Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 1 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU Storage: 200 MB available space Additional Notes: 1280x768 or better Display",
+    "recommended_requirements": null,
+    "reviews": []
+}

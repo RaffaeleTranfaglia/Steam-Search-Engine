@@ -1,0 +1,38 @@
+{
+    "app_id": 713450,
+    "name": "Dungeon Rustlers",
+    "release_date": "2018-03-21",
+    "developer": [
+        "Zimventures, LLC"
+    ],
+    "publisher": [
+        "Zimventures, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Collect loot. Kill Monsters. Do it Quickly. Oh...and DON'T DIE! Quickly navigate your character through a series of levels filled with monsters trying to take you down. Unlock class-specific power-ups, minions, and other bonuses to help you on your quest.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/713450/header.jpg?t=1521679652",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Intel Pentium or AMD equivalent Memory: 1 GB RAM Graphics: Any card which supports DX9 (shader model 2.0) capabilities DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

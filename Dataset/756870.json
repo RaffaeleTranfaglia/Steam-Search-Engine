@@ -1,0 +1,39 @@
+{
+    "app_id": 756870,
+    "name": "Anubis Dungeon",
+    "release_date": "2017-12-12",
+    "developer": [
+        "MyDreamForever_Old",
+        "Dark Light Studio"
+    ],
+    "publisher": [
+        "Dark Light Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 28,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "The judge of the kingdom of the dead is the guide of the dead to the afterlife, but what if the living cheated death?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/756870/header.jpg?t=1549393869",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 600 MHz or higher processor Memory: 256 MB RAM Graphics: Integrated Graphics DirectX: Version 8.1 Sound Card: Integrated Audio",
+    "recommended_requirements": "OS: Windows 7/8/8.1/10 Processor: 2.5 GHz (Single Core) / 2 GHz (Dual Core) Graphics: Video card with 1024 MB shared VRAM &amp; openGL 2.0 support Sound Card: DirectX compatible",
+    "reviews": []
+}

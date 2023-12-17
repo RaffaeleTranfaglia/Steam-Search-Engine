@@ -1,0 +1,36 @@
+{
+    "app_id": 754930,
+    "name": "Zero Days VR",
+    "release_date": "2017-12-14",
+    "developer": [
+        "Scatter"
+    ],
+    "publisher": [
+        "Scatter"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Based on the Oscar short-listed Participant Media documentary Zero Days, Scatter's award-winning, immersive documentary Zero Days VR visualizes the story of Stuxnet in a new way: placing you inside the invisible world of computer viruses, experiencing the high stakes of cyber warfare at a human scale.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/754930/header.jpg?t=1513292488",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7 Memory: 16 GB RAM Graphics: NVIDIA GTX 1080 DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 1065650,
+    "name": "Super Star Blast",
+    "release_date": "2019-04-24",
+    "developer": [
+        "EntwicklerX"
+    ],
+    "publisher": [
+        "EntwicklerX"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 24,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Super Star Blast is a space based game with challenging levels of increasing difficulty. All enemies must be shot down to finish a level and go to the next one. A scanner around the player tells roughly where the enemies are located.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1065650/header.jpg?t=1556089808",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 (32/64bit) Processor: 2 Ghz or faster Memory: 256 MB RAM Graphics: OpenGL 3.3 Compatible GPU with 1GB Video RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

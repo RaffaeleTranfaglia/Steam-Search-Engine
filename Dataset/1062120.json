@@ -1,0 +1,36 @@
+{
+    "app_id": 1062120,
+    "name": "Peas Adventure",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Artur Rezende"
+    ],
+    "publisher": [
+        "Artur Rezende"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Peas Adventure is a fun and challenging game where the main idea is to use a small wooden cannon to throw all the peas inside the basket to save them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1062120/header.jpg?t=1555586387",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: windows 64 bits Processor: Dual core Memory: 2 GB RAM Graphics: 512mb dedicated, Compatible with Open GL 2.1 DirectX: Version 9.0 Storage: 190 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 64bits Processor: i5 Memory: 4 GB RAM Graphics: Geforce 2G dedicated, Compatible with Open GL 2.1 DirectX: Version 11 Storage: 190 MB available space",
+    "reviews": []
+}

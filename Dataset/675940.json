@@ -1,0 +1,39 @@
+{
+    "app_id": 675940,
+    "name": "SpaceShot",
+    "release_date": "2017-09-20",
+    "developer": [
+        "Shevchenko Technology"
+    ],
+    "publisher": [
+        "Shevchenko Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4896,
+    "positive_ratings": 65,
+    "negative_ratings": 31,
+    "price": 0.79,
+    "description": "SpaceShot - a complex arcade game in which you must destroy the alien invaders and collect bonuses. Three game modes, fast gameplay and a lot of achievements are waiting for you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/675940/header.jpg?t=1506015388",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 / 10 Processor: 1.4GHz or faster Memory: 256 MB RAM Graphics: Pixel Shader 3.0, Vertex Shader 3.0 DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® XP / Vista / 7 / 10 Processor: 2.4GHz or faster Memory: 1 GB RAM Graphics: Pixel Shader 3.0, Vertex Shader 3.0 DirectX: Version 11 Storage: 500 MB available space",
+    "reviews": []
+}

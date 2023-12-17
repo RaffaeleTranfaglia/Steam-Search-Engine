@@ -1,0 +1,39 @@
+{
+    "app_id": 568200,
+    "name": "Duo",
+    "release_date": "2016-12-19",
+    "developer": [
+        "Bruno Freitas"
+    ],
+    "publisher": [
+        "Bruno Freitas"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 30,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Duo is a single-player minimalist puzzle game where your objective is to make two characters meet each other using the scenario in your favor and preventing them from falling in the process.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/568200/header.jpg?t=1483714613",
+    "minimum_requirements": "Processor: Intel/AMD Dual Core 1,2Ghz Memory: 2 GB RAM Graphics: Graphic card compatible with directx 9 Storage: 300 MB available space",
+    "recommended_requirements": "Processor: Intel(R) Celeron(R) CPU  J1800  @ 2.41GHz Memory: 2 GB RAM Graphics: Intel HD Graphics (Intel Bay Trail) Storage: 300 MB available space",
+    "reviews": []
+}

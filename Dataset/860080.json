@@ -1,0 +1,39 @@
+{
+    "app_id": 860080,
+    "name": "lilGunBois",
+    "release_date": "2018-06-03",
+    "developer": [
+        "BoringKate"
+    ],
+    "publisher": [
+        "BoringKate"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Just a lil game about some lil pixely gun bois doing lil gun boi things. Pew pew!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/860080/header.jpg?t=1533394996",
+    "minimum_requirements": "Минимальные: ОС: Windows XP Видеокарта: Anything with OpenGL 2.1 support Место на диске: 10 MB Дополнительно: It should really run on almost anything",
+    "recommended_requirements": null,
+    "reviews": []
+}

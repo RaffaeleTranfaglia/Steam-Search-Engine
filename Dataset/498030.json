@@ -1,0 +1,40 @@
+{
+    "app_id": 498030,
+    "name": "Barnyard Mahjong 3",
+    "release_date": "2016-07-29",
+    "developer": [
+        "EnsenaSoft"
+    ],
+    "publisher": [
+        "EnsenaSoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 58,
+    "negative_ratings": 30,
+    "price": 1.69,
+    "description": "Barnyard Mahjong 3 takes you on a grand adventure around the farm playing challenging mahjong puzzles with farm-inspired animals such as horses, cows and chickens.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/498030/header.jpg?t=1478740142",
+    "minimum_requirements": "OS: Windows XP Service Pack 2 (SP2), Vista, 7, 8, 10 Processor: 1.0 GHz Memory: 1 GB RAM Graphics: vCard with DirectX 9.0 support DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: 2.0 GHz Memory: 2 GB RAM Graphics: vCard with DirectX 9.0 support DirectX: Version 9.0 Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "Lots of fun but challenging just enough to a slow thinker like me. Your typical Mahjong game set in a barn style life",
+            "review_score": "1"
+        }
+    ]
+}

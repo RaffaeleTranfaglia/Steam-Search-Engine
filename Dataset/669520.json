@@ -1,0 +1,39 @@
+{
+    "app_id": 669520,
+    "name": "Mino Saga",
+    "release_date": "2017-12-21",
+    "developer": [
+        "Tomislav Kadežabek"
+    ],
+    "publisher": [
+        "Tomislav Kadežabek"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 38,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 4.79,
+    "description": "Mino Saga is new type of puzzle game, it's evolutionary concept for playing pentomino type of games. Mino Saga is mix of two worlds, bringing best of Pentomino games and fast game play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/669520/header.jpg?t=1513851760",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8/8.1, Windows 10 (32/64bit versions) Processor: Intel Core 2 Duo E7300 @ 2.0 GHz or AMD Athlon II X2 240 @ 2.8 GHz Memory: 2 GB RAM Graphics: nVidia GeForce GTS450 or AMD Radeon HD5670 Storage: 200 MB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "recommended_requirements": "OS: Windows 7 SP1, Windows 8/8.1, Windows 10 (32/64bit versions) Processor: Intel Core 2 Quad Q6600 @ 2.4 GHz or AMD Athlon II X4 620 @ 2.6 GHz Memory: 4 GB RAM Graphics: nVidia GeForce GTX 460 or AMD Radeon HD5850 or better Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "reviews": []
+}

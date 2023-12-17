@@ -1,0 +1,34 @@
+{
+    "app_id": 974040,
+    "name": "BattleMore",
+    "release_date": "2018-11-16",
+    "developer": [
+        "Heat Wave Games"
+    ],
+    "publisher": [
+        "Heat Wave Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RTS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "From battling rocket squirrels to lead zeppelins, this goofy single player RTS will keep your hands full and APM high.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/974040/header.jpg?t=1547518381",
+    "minimum_requirements": "OS: Windows 8 / 10 Processor: 2 Ghz Dual Core Memory: 4 MB RAM Graphics: nVidia GeForce GTX 275 / ATI Radeon 4770 Storage: 2 GB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows 10 Processor: 2 Ghz Quad Core Memory: 8 GB RAM Graphics: nVidia GeForce GTX 460 / ATI Radeon HD 5850 Storage: 2 GB available space Sound Card: Any",
+    "reviews": []
+}

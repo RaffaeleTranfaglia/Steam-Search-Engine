@@ -1,0 +1,43 @@
+{
+    "app_id": 458600,
+    "name": "ZRoll",
+    "release_date": "2017-04-17",
+    "developer": [
+        "KxONE",
+        "Andrew Drumov",
+        "starmops"
+    ],
+    "publisher": [
+        "Bitlock Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 300,
+    "positive_ratings": 62,
+    "negative_ratings": 38,
+    "price": 0.79,
+    "description": "In ZRoll you will encounter many difficult levels. You will need to jump over the platforms, use different mechanisms and collect ancient totems to earn achievements and pass the levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/458600/header.jpg?t=1547061947",
+    "minimum_requirements": "OS: windows 7, 8 or 10 Processor: Intel core i3 or amd fx4300 Memory: 4 GB RAM Graphics: GTX 560 or R7 260 Storage: 5 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 334960,
+    "name": "Cell HD: emergence",
+    "release_date": "2015-02-19",
+    "developer": [
+        "New Life Interactive, LLC"
+    ],
+    "publisher": [
+        "New Life Interactive, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 12,
+    "positive_ratings": 4,
+    "negative_ratings": 8,
+    "price": 4.79,
+    "description": "Based on a 3D version of mathematician John Conway's &quot;Game of Life,&quot; the game puts the player in a biological world that is uncannily alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/334960/header.jpg?t=1447365399",
+    "minimum_requirements": "OS: Windows XP or later Processor: dual core Memory: 2 GB RAM Graphics: graphics card compatible with XNA HiDef Profile (roughly DirectX 10) DirectX: Version 10 Storage: 500 MB available space Additional Notes: PCs five years old or newer with good video cards should be able to run this game; try the demo first to be sure.",
+    "recommended_requirements": "OS: any Processor: quad core Memory: 4 GB RAM Graphics: graphics card compatible with XNA HiDef Profile (roughly DirectX 10) DirectX: Version 10 Storage: 500 MB available space",
+    "reviews": [
+        {
+            "review_text": "I found the difficulty curve too steep. I've played twice, died both times on the second level, and am not inspired to try again. I would definitely recommend trying the demo before buying.",
+            "review_score": "-1"
+        }
+    ]
+}

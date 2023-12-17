@@ -1,0 +1,39 @@
+{
+    "app_id": 818350,
+    "name": "TENKYU",
+    "release_date": "2018-03-28",
+    "developer": [
+        "keepgamesimple"
+    ],
+    "publisher": [
+        "keepgamesimple"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Roll the ball through a 3D world to reach the goal!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/818350/header.jpg?t=1522227806",
+    "minimum_requirements": "OS: Windows 10+ Processor: 1.8 GHz Dual Core Memory: 2 MB RAM Graphics: Any Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

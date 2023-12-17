@@ -1,0 +1,39 @@
+{
+    "app_id": 424200,
+    "name": "Little Mouse's Encyclopedia",
+    "release_date": "2019-02-25",
+    "developer": [
+        "Circus Atos"
+    ],
+    "publisher": [
+        "Circus Atos"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Education",
+        "Family Friendly"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "An interactive encyclopedia for kids and their parents.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/424200/header.jpg?t=1551087597",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 2.3 GHz Dual Core Memory: 1 GB RAM Graphics: Intel HD 4000 Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

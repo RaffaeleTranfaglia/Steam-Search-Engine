@@ -1,0 +1,40 @@
+{
+    "app_id": 969130,
+    "name": "The Lost Soul",
+    "release_date": "2018-11-11",
+    "developer": [
+        "Polovey Alexander"
+    ],
+    "publisher": [
+        "Polovey Alexander"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "The Lost Soul is an arcade difficulty-focused platformer , made in a minimalist style. 13 different levels, each of which contain it’s own unique soundtrack, checkpoint system, as well as many secrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/969130/header.jpg?t=1541958139",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 512 MB RAM Graphics: Intel HD Graphics 4000 or higher DirectX: Version 9.0c Storage: 64 MB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

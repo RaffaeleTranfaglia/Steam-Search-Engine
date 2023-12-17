@@ -1,0 +1,50 @@
+{
+    "app_id": 355910,
+    "name": "Piloteer",
+    "release_date": "2015-09-25",
+    "developer": [
+        "Fixpoint Productions"
+    ],
+    "publisher": [
+        "Fixpoint Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 39,
+    "positive_ratings": 18,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "In Piloteer, a whimsical and serenely challenging physics-based game about learning to fly, a renowned inventor is determined to overcome the stigma associated with flying a jetpack and convince the world that jetpacks should be revered by all.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/355910/header.jpg?t=1447370675",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Memory: 1 GB RAM Graphics: Direct X9.0c Compatible Card DirectX: Version 9.0 Storage: 300 MB available space Sound Card: Standard audio",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Tough, fair, hilarious.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "there is a bug but i still like it",
+            "review_score": "1"
+        }
+    ]
+}

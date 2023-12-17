@@ -1,0 +1,43 @@
+{
+    "app_id": 583490,
+    "name": "InfiniPicross",
+    "release_date": "2017-03-06",
+    "developer": [
+        "ReverseImpact"
+    ],
+    "publisher": [
+        "ReverseImpact"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 22,
+    "positive_ratings": 110,
+    "negative_ratings": 37,
+    "price": 1.59,
+    "description": "A never ending supply of picross puzzles in any rectangular shape between 3x3 and 99x99.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/583490/header.jpg?t=1491856103",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1 GHz Memory: 1 GB RAM Graphics: OpenGL 2.0 or better Storage: 100 MB available space Additional Notes:",
+    "recommended_requirements": null,
+    "reviews": []
+}

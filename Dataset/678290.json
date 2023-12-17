@@ -1,0 +1,39 @@
+{
+    "app_id": 678290,
+    "name": "Ezy",
+    "release_date": "2017-08-07",
+    "developer": [
+        "Strong Cube"
+    ],
+    "publisher": [
+        "Strong Cube"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 30,
+    "positive_ratings": 15,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "A small 2D platformer in pixel style. You play as a dinosaur &quot;Ezy&quot;, you need to get to the castle, but it will not be easy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/678290/header.jpg?t=1502113356",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 10 Processor: Intel Celeron 1800 MHz Memory: 1 GB RAM Graphics: Intel HD Graphics Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows XP, 7, 8, 10 Processor: Intel Celeron 1800 MHz Memory: 1 MB RAM Graphics: Intel HD Graphics Storage: 100 MB available space",
+    "reviews": []
+}

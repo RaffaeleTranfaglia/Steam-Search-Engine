@@ -1,0 +1,43 @@
+{
+    "app_id": 313810,
+    "name": "Legend of Kay Anniversary",
+    "release_date": "2015-07-27",
+    "developer": [
+        "KAIKO",
+        "Neon Studios"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 25,
+    "positive_ratings": 134,
+    "negative_ratings": 59,
+    "price": 17.99,
+    "description": "10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/313810/header.jpg?t=1540228563",
+    "minimum_requirements": "OS: Windows 7/Windows 8.1 32 or 64 bit Processor: Dual Core Processor at 2.0+ GHz or better Memory: 2 GB RAM Graphics: 1024 MB NVidia or ATI graphics card DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

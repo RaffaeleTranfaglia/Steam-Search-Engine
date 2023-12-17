@@ -1,0 +1,45 @@
+{
+    "app_id": 372490,
+    "name": "GROOVY",
+    "release_date": "2016-05-27",
+    "developer": [
+        "SGS Team"
+    ],
+    "publisher": [
+        "SGS Team"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Racing",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 60,
+    "positive_ratings": 74,
+    "negative_ratings": 47,
+    "price": 2.79,
+    "description": "Groovy is a robotic sphere that exists in the abstract and crazy world of mechanisms. The game world is divided into two modes - Arcade and Survival, each of them filled with a unique environment, challenges and enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372490/header.jpg?t=1502200349",
+    "minimum_requirements": "OS: 7 SP2, 8, 8.1, 10 64-bit Processor: Dual Core 2.6 Ghz Memory: 4 GB RAM Graphics: NVIDIA® GTX 550 Ti / AMD® HD 5770 DirectX: Version 11 Storage: 3200 MB available space Sound Card: DirectX 9.0c compatible Additional Notes: Full supports, Xbox 360 Controller for Windows",
+    "recommended_requirements": "Graphics: NVIDIA® GTX 960 / AMD® R9 280",
+    "reviews": []
+}

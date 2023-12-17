@@ -1,0 +1,36 @@
+{
+    "app_id": 814200,
+    "name": "Simple Story - Alex",
+    "release_date": "2018-03-22",
+    "developer": [
+        "КиКо"
+    ],
+    "publisher": [
+        "КиКо"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "RPGMaker",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 48,
+    "negative_ratings": 26,
+    "price": 0.79,
+    "description": "It's a short interactive story, about Alex, an ordinary loser. He lives a dull life, full of alcohol and misery, but deep in his soul, he always wanted to be a hero. One day, then he leaves his house, Alex accidentally teleported in mystery temple. Temple, the exit from which you should find!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/814200/header.jpg?t=1550345939",
+    "minimum_requirements": "OS: Microsoft Windows (32-bit/64-bit) Processor: Intel Pentium III 800 MHz Memory: 512 MB RAM Storage: 700 MB available space Sound Card: DirectSound Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

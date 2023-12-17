@@ -1,0 +1,41 @@
+{
+    "app_id": 651990,
+    "name": "The Montana Chronicles: Montana's Croatoa",
+    "release_date": "2017-07-07",
+    "developer": [
+        "Austin Boucher"
+    ],
+    "publisher": [
+        "Austin Boucher"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Violent",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Violent",
+        "Strategy"
+    ],
+    "achievements": 22,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Building on classical maze crawlers, Montana's Croatoa is an attempt to break away from grid based movement in dungeon crawling puzzle based games. In real time the player must escape from the maze of enemies with limited sight.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/651990/header.jpg?t=1502136207",
+    "minimum_requirements": "OS: XP SP2+ Processor: Intel Core i5-4670K @ 3.40GHz Memory: 8 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 1 GB available space Sound Card: Unknown",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 777250,
+    "name": "The Tavern of Magic",
+    "release_date": "2018-09-07",
+    "developer": [
+        "Gnamics Ltd."
+    ],
+    "publisher": [
+        "Gnamics Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 19,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 15.49,
+    "description": "Welcome to the Tavern! Craft, buy or sell Magic Cards to form your perfect deck and conquer other mages in Duels. Crawl together through Dungeons and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777250/header.jpg?t=1554914371",
+    "minimum_requirements": "OS: Windows 7 SP1 (64bit) or higher Processor: Intel Core i5- 4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 or greater DirectX: Version 12",
+    "recommended_requirements": null,
+    "reviews": []
+}

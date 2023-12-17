@@ -1,0 +1,43 @@
+{
+    "app_id": 658790,
+    "name": "Samurai Riot",
+    "release_date": "2017-09-13",
+    "developer": [
+        "Wako Factory"
+    ],
+    "publisher": [
+        "Wako Factory"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 47,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "Samurai Riot is a 2D Arcade-style Beat ‘Em Up game with a unique co-op system. Make deep moral choices throughout the branching storyline with high replay value.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658790/header.jpg?t=1542983339",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/8.1/10 x86 or x64 Processor: Intel Core i3 Memory: 4 GB RAM Graphics: Intel HD graphics family Storage: 5 GB available space Sound Card:  Additional Notes: Xbox 360 Controller Recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

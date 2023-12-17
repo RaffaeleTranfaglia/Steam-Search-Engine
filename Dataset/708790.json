@@ -1,0 +1,43 @@
+{
+    "app_id": 708790,
+    "name": "Fantasy World",
+    "release_date": "2018-01-16",
+    "developer": [
+        "LaserStone"
+    ],
+    "publisher": [
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 9,
+    "negative_ratings": 5,
+    "price": 2.79,
+    "description": "You have your kingdom and some citizens. The aim is to improve your king, develop the economics and produce invincible armies that will beat enemies' armies and get their territories.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/708790/header.jpg?t=1547830160",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8.1, 10 Processor: AMD Athlon II X3 440 and better Memory: 256 MB RAM Graphics: Compatible with DirectX DirectX: Version 9.0 Storage: 150 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

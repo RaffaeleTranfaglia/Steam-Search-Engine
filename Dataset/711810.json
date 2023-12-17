@@ -1,0 +1,52 @@
+{
+    "app_id": 711810,
+    "name": "Never Split the Party",
+    "release_date": "2018-09-14",
+    "developer": [
+        "Legend Studio"
+    ],
+    "publisher": [
+        "Legend Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Multiplayer"
+    ],
+    "achievements": 52,
+    "positive_ratings": 792,
+    "negative_ratings": 281,
+    "price": 0.0,
+    "description": "Never Split the Party is an ultra social rogue-like! You're one of four adventurers joining together to explore a procedurally generated dungeon, amass powerful upgrades, and cooperate with your fellow adventures to conquer and crush the evil dungeon champions!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/711810/header.jpg?t=1549347468",
+    "minimum_requirements": "OS: Windows 7+ Processor: SSE2 instruction set support. Memory: 1 GB RAM Graphics: DX11 capabilities Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

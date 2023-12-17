@@ -1,0 +1,39 @@
+{
+    "app_id": 885090,
+    "name": "Digital Siege",
+    "release_date": "2018-07-20",
+    "developer": [
+        "Dreambakers"
+    ],
+    "publisher": [
+        "Dreambakers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 4,
+    "negative_ratings": 24,
+    "price": 5.79,
+    "description": "Show everyone what a typical office employee who suffers of the digital bureaucracy is capable of! Develop a network of powerful computers to crack the base of citizens' social ratings, protected by quantum encryption, and obtain justice.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/885090/header.jpg?t=1539065226",
+    "minimum_requirements": "OS: Windows 7 Processor: 2GHz Dual-core CPU Memory: 1 GB RAM Graphics: 1Gb DirectX 9.0c compatible DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

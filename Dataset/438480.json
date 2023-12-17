@@ -1,0 +1,58 @@
+{
+    "app_id": 438480,
+    "name": "Rock 'N' Roll Defense",
+    "release_date": "2016-08-10",
+    "developer": [
+        "NukGames"
+    ],
+    "publisher": [
+        "NukGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Tower Defense",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 240,
+    "positive_ratings": 673,
+    "negative_ratings": 137,
+    "price": 0.79,
+    "description": "Rocked by an explosive soundtrack, choose your band, place your equipments and defend the Rock 'N' Roll from everyone and everything who try to pull it down, on a totally hardcore tower defense!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/438480/header.jpg?t=1548707364",
+    "minimum_requirements": "OS: Windows XP or Superior Processor: 2 Ghz Memory: 1 GB RAM Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows XP or Superior Processor: Dual Core 2,2 Ghz Memory: 2 GB RAM Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "A disappointing tower defense game. There is no choice in creating paths, very few locations to build towers, and little variety among the towers available. Over the course of the game, you do not 'level up' in any way. You do not unlock new towers or improve your towers. You simply play on new maps with the same towers. Lastly, the towers always seem to target the enemy closest to them, rather than the enemy furthest ahead, so they often do a little damage to several enemies without killing any of them. There is no way to adjust the towers' targeting behavior. Other than the soundtrack, there is very little that is distinctive or excellent about the game, and there are plenty of other games that do the same thing better.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is fun, bit rigid in the options and balance need a bit of work, but use the special attack (click stage when bar is full) and your problems are solved :) No AAA-title here, but kept me entertained for a few hours :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome tower defense game with a cool soundtrack imo.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have given this game a decent go... The premise seemed interesting.  Some things stop me from recommending though; 1. crashes. 2. appearance of random lag, especially when restarting a level. 3. the lag seems to effect tower damage output. 4. towers need more balancing, seem underpowered/expensive. 5. game has 10 music tracks but levels/concerts will loop one song over and over. you will even hear the same song repeated over multiple levels/concerts if you do a number of stages per sitting.  If the developers improve the game in these respects then I will revisit my review.",
+            "review_score": "-1"
+        }
+    ]
+}

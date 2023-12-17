@@ -1,0 +1,44 @@
+{
+    "app_id": 535400,
+    "name": "Breathing Fear",
+    "release_date": "2016-10-07",
+    "developer": [
+        "LunarPixel"
+    ],
+    "publisher": [
+        "Atriagames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Horror",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 167,
+    "negative_ratings": 30,
+    "price": 1.99,
+    "description": "This story is about a man brought by his fate to an abandoned house in the woods. This place mysteriously makes him be afraid of his own shadow, and that’s driving him crazy. Will he be able to stay sane and solve all the mysteries of the cursed house?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535400/header.jpg?t=1515219264",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0+ GHz Memory: 512 MB RAM Graphics: Integrated Graphics Storage: 30 MB available space Sound Card: Integrated Audio",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Not bad for a $3 pixeled game this is very good.",
+            "review_score": "1"
+        }
+    ]
+}

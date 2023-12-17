@@ -1,0 +1,41 @@
+{
+    "app_id": 480640,
+    "name": "Pathfinder Adventures",
+    "release_date": "2017-06-15",
+    "developer": [
+        "Obsidian Entertainment"
+    ],
+    "publisher": [
+        "Asmodee Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Violent",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Card Game"
+    ],
+    "achievements": 16,
+    "positive_ratings": 285,
+    "negative_ratings": 169,
+    "price": 11.39,
+    "description": "Pathfinder Adventures translates the best-selling Pathfinder Adventure Card Game into an entirely new breed of digital card game, where players adventure collaboratively to battle monsters and villains, and acquire new feats, items, weapons, and allies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/480640/header.jpg?t=1520624084",
+    "minimum_requirements": "OS: Windows 7/Windows 8/Windows 10 Processor: 2GHz CPU Memory: 2 GB RAM Graphics: 512MB VRAM GPU DirectX: Version 9.0c Storage: 4 GB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

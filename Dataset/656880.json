@@ -1,0 +1,40 @@
+{
+    "app_id": 656880,
+    "name": "Cybercube",
+    "release_date": "2017-10-10",
+    "developer": [
+        "Just1337 Studio"
+    ],
+    "publisher": [
+        "Just1337 Publisher"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 85,
+    "positive_ratings": 41,
+    "negative_ratings": 7,
+    "price": 4.99,
+    "description": "Cybercube is a fun platformer with many colorful levels. The goal of the game is avoiding obstacles with various mechanics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656880/header.jpg?t=1507645225",
+    "minimum_requirements": "Минимальные: ОС: Windows XP,7,8,10 Процессор: 2 GHz Оперативная память: 256 MB ОЗУ Видеокарта: 256 MB DirectX: Версии 9.0c Место на диске: 700 MB",
+    "recommended_requirements": null,
+    "reviews": []
+}

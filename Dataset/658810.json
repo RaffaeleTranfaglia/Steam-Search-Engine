@@ -1,0 +1,43 @@
+{
+    "app_id": 658810,
+    "name": "Flux8",
+    "release_date": "2017-08-07",
+    "developer": [
+        "Canalside Studios"
+    ],
+    "publisher": [
+        "Canalside Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Platformer"
+    ],
+    "achievements": 21,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "As a sentient magnet, enslaved in a factory, you have two options: work or be terminated! However, not all magnets are born to work. Some dream of freedom and choose to rebel. There’s a whole wide world waiting just outside those factory doors… you must remain positive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/658810/header.jpg?t=1502358419",
+    "minimum_requirements": "OS: Windows 7 32-bit or Newer Processor: Intel i3 4xxx above or AMD equivalent Memory: 3 GB RAM Graphics: Intel HD 4000 Graphics above or equivalent DirectX: Version 10 Storage: 750 MB available space",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel i5 4xxx above or AMD equivalent Memory: 4 GB RAM Graphics: Nvidia Geforce 650M above or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

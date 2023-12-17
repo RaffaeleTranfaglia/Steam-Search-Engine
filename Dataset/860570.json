@@ -1,0 +1,37 @@
+{
+    "app_id": 860570,
+    "name": "Music Producer",
+    "release_date": "2018-05-31",
+    "developer": [
+        "Gamenesis"
+    ],
+    "publisher": [
+        "Gamenesis"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Music",
+        "Rhythm"
+    ],
+    "achievements": 13,
+    "positive_ratings": 0,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Always dreamed of being a producer of a music band and make its way to the top. In this card game you are going to take on a role of a music band manager, starting from the scratch and grow your musicians from underground performers to world-known superstars.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/860570/header.jpg?t=1531461563",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0 GHz Dual Core Memory: 4 GB RAM Graphics: NVIDIA Geforce GTS 450 or AMD Radeon HD 6750 DirectX: Version 9.0 Storage: 205 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

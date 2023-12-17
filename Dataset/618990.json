@@ -1,0 +1,45 @@
+{
+    "app_id": 618990,
+    "name": "Into Oblivion",
+    "release_date": "2018-07-30",
+    "developer": [
+        "CoaguCo Industries"
+    ],
+    "publisher": [
+        "CoaguCo Industries"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 36,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Into Oblivion is a drinking contest of ridiculous proportion. Mix drinks against a variety of bots or drink your friends, and strangers, under the table in three different multiplayer modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/618990/header.jpg?t=1555385922",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD or Intel Memory: 512 MB RAM Graphics: OpenGL 2.1+ Sound Card: Only if you want sound",
+    "recommended_requirements": "OS: Windows 10 Processor: AMD or Intel Memory: 1 GB RAM Graphics: OpenGL 2.1+ Network: Broadband Internet connection Sound Card: Only if you want sound",
+    "reviews": []
+}

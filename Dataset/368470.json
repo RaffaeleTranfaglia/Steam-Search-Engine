@@ -1,0 +1,59 @@
+{
+    "app_id": 368470,
+    "name": "GeoVox",
+    "release_date": "2015-05-22",
+    "developer": [
+        "Axis Game Factory, Inc."
+    ],
+    "publisher": [
+        "Axis Game Factory, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Full controller support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education",
+        "Photo Editing",
+        "Software Training",
+        "Utilities",
+        "Video Production"
+    ],
+    "tags": [
+        "Software Training",
+        "Animation & Modeling",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 26,
+    "negative_ratings": 24,
+    "price": 19.49,
+    "description": "GeoVox is the latest application by Axis Game Factory, Inc. GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. Instantly create lush AAA quality environments from the start; carve, sculpt, and generate scenes like never before! Build, Play &amp; Share.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/368470/header.jpg?t=1447373906",
+    "minimum_requirements": "OS: Windows XP SP2 or better Processor: Intel Core 2 Duo / AMD Athlon X2 or Better Memory: 2 GB RAM Graphics: Nvidia Geforce 6600 / ATI Radeon X800 (shader model 2.0+) or better DirectX: Version 9.0 Storage: 700 MB available space Sound Card: N/A Additional Notes: On 64 bit machines the following must be installed - Microsoft Visual C++ Redist (64)",
+    "recommended_requirements": "OS: Windows 7 or Better Processor: Intel Core 2 Quad / AMD Phenom 2 x4 or Better Memory: 2 GB RAM Graphics: Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better DirectX: Version 11 Storage: 700 MB available space Sound Card: N/A Additional Notes: On 64 bit machines the following must be installed - Microsoft Visual C++ Redist (64)",
+    "reviews": [
+        {
+            "review_text": "What the hell is this?   Spent 3 hours making a terrain and figuring it out how the hell to export to Unity only to find out that ....:  You can't import custom textures which HONESTLY should be a given considering this is labeled as 'software' for game developers. Do game developers not use original assets or what?    Yeah yeah I know, I read you could always just go and create a Unity3d package on Unity and then 'import' (more like use the explorer/finder to copy your files to the corresponding directory...) that into GeoVox.   Hell, I spent like 2 hours googling how the ♥♥♥♥ to pack a Unity3d package since EVERYTIME I try to create and export a package it'll be set to 'unityPackage' as opposed to 'Unity3d'.  How did i come to realize the absence of such a basic feature? Well... Cause I was trying to change the specular and normal maps of one of my voxel types and ended up realizing that EVERYTIME that I import a scene into Unity the materials loose the specular channel resulting in some horrible looks for the whole terrain.  I'm glad I got this discounted cause as of today, this is really still something I can't find myself using because of its severe professional features.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ok i gotta say Im so happy with this program For so many reasons.  #1 is the ability to loading in scenes to Unity It saves so much time and hair pulling LOL  #2 The ability to dig holes into mountains to make caves subways etc  #3 The customer support is the best service I have ever had from anywhere.   There are many other reasons but these are my top 3   Also No one paid me to write this I am truly totally happy with this program I give it a 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice, I was pleasantly surprised when I opened up to find the terrain already there ready to go.  It's a lot better than the ones I've used before over the years you can get up and running very quickly with a high quality terrain.  Once the updates which import into Unity 5 and Axis come out this will be the best ever.  I recommend it for now and await the promised updates.  'Just as I thought, the devs have listened and already released the Unity 5 import of the terrain'  Way to go guys ... nice",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is good, but idk.. could be better.",
+            "review_score": "-1"
+        }
+    ]
+}

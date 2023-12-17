@@ -1,0 +1,36 @@
+{
+    "app_id": 756230,
+    "name": "KARTOFELKA",
+    "release_date": "2018-01-10",
+    "developer": [
+        "ObshaGaming"
+    ],
+    "publisher": [
+        "ObshaGaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Violent",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Violent"
+    ],
+    "achievements": 4999,
+    "positive_ratings": 6,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "Platform of medium complexity, where the main role is played by 'potato'.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/756230/header.jpg?t=1516993991",
+    "minimum_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Celeron 1300 MHz Memory: 128 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 20 MB available space",
+    "recommended_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Celeron 1700 MHz Memory: 256 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 30 MB available space",
+    "reviews": []
+}

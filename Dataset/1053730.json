@@ -1,0 +1,43 @@
+{
+    "app_id": 1053730,
+    "name": "Foxyland 2",
+    "release_date": "2019-04-16",
+    "developer": [
+        "BUG-Studio"
+    ],
+    "publisher": [
+        "Crescent Moon Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Get ready to plunge into an exciting new platforming adventure with Foxy!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1053730/header.jpg?t=1556560383",
+    "minimum_requirements": "OS: Windows 7 Processor: intel Atom Memory: 256 MB RAM Storage: 256 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i3 Memory: 512 MB RAM Storage: 256 MB available space",
+    "reviews": []
+}

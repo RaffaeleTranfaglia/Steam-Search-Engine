@@ -1,0 +1,43 @@
+{
+    "app_id": 782460,
+    "name": "Tank Slam",
+    "release_date": "2018-11-27",
+    "developer": [
+        "Go All Games"
+    ],
+    "publisher": [
+        "Go All Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "A fun casual game of tanks, top down or 3rd person. Play Challenging scenarios against the meanest world leaders or create custom skirmish games where you make the rules. It can be as hard or easy as you like. We've made just about everything configurable so you can really play the game your way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/782460/header.jpg?t=1555421403",
+    "minimum_requirements": "OS: Windows 7 Processor: Celeron Memory: 2 GB RAM Graphics: Nvidia or ATI DirectX9 Compatible Graphics Card DirectX: Version 9.0 Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel I3 Memory: 4 GB RAM Graphics: Nvidia or ATI DirectX11 Compatible Graphics Card DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": []
+}

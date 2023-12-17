@@ -1,0 +1,42 @@
+{
+    "app_id": 535930,
+    "name": "Two Point Hospital",
+    "release_date": "2018-08-29",
+    "developer": [
+        "Two Point Studios"
+    ],
+    "publisher": [
+        "SEGA"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Management",
+        "Building"
+    ],
+    "achievements": 31,
+    "positive_ratings": 6432,
+    "negative_ratings": 1264,
+    "price": 24.99,
+    "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535930/header.jpg?t=1555424325",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i3 6100 or AMD FX-4350 Memory: 4 GB RAM Graphics: NVIDIA Geforce GT 1030, 2GB (Legacy: NVIDIA GeForce GTX 460), AMD RX550, 2GB (Legacy: AMD Radeon HD 6850), Integrated: Intel HD Graphics 630 DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10  64-bit Processor: Intel Core i5 6600 or AMD Ryzen 1600x Memory: 8 GB RAM Graphics: NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB) DirectX: Version 11 Storage: 6 GB available space",
+    "reviews": []
+}

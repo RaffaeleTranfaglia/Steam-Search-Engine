@@ -1,0 +1,50 @@
+{
+    "app_id": 60600,
+    "name": "ProtoGalaxy",
+    "release_date": "2010-10-06",
+    "developer": [
+        "Source Studio Ltd."
+    ],
+    "publisher": [
+        "Source Studio Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Co-op"
+    ],
+    "achievements": 33,
+    "positive_ratings": 30,
+    "negative_ratings": 22,
+    "price": 0.0,
+    "description": "Earth is under siege! A mysterious and powerful alien race has come to enslave the entire galaxy, and your fleet is humanity's last hope. You must put an end to the attacks and rebuild a home for the survivors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/60600/header.jpg?t=1447353596",
+    "minimum_requirements": "OS: Windows XP SP3/Vista/7  Processor: 2GHz or equivalent processor Memory: 1GB  Graphics: 256MB video ram or better (GeForce 7 series or higher/Radeon X600 series or higher) DirectX®:  9.0c Hard Drive: 1GB  Sound:  Windows compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game has a truly powerful engine for building levels! Once the community gets strong, endless bullet patterns for everyone!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very bad.",
+            "review_score": "-1"
+        }
+    ]
+}

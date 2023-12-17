@@ -1,0 +1,41 @@
+{
+    "app_id": 32160,
+    "name": "Zombie Bowl-o-Rama",
+    "release_date": "2009-10-15",
+    "developer": [
+        "MumboJumbo"
+    ],
+    "publisher": [
+        "MumboJumbo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Sports",
+        "Casual"
+    ],
+    "tags": [
+        "Bowling",
+        "Zombies",
+        "Casual"
+    ],
+    "achievements": 21,
+    "positive_ratings": 244,
+    "negative_ratings": 44,
+    "price": 6.99,
+    "description": "Bowl or Beware! From the depths of the graveyard…a gruesome gang in search of brains! When Zombies show up at the town’s lanes, it’s up to you to put ‘em back in the ground! The Zombies have taken over your favorite lanes, and it’s up to you to send ‘em back to the graveyard where they belong!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/32160/header.jpg?t=1447352552",
+    "minimum_requirements": "OS: Windows Vista/XP/2000Processor: Pentium III 1GHz ProcessorMemory: 256 MB RAMGraphics: DirectX Compatible 16 or 32-bit Video Card with 64MB VRAMDirectX&reg;: 9.0 or higherHard Drive: 140 MB Free HD SpaceSound: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

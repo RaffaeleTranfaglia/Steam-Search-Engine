@@ -1,0 +1,49 @@
+{
+    "app_id": 316020,
+    "name": "Hangeki",
+    "release_date": "2014-08-11",
+    "developer": [
+        "Pentavera"
+    ],
+    "publisher": [
+        "Pentavera"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 30,
+    "positive_ratings": 31,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Hangeki is an arcade style shooter that emphasizes the use of over 50 spectacular weapon. Formulate new strategies and take on the alien invasion in this reimagining of the classic shoot em up.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/316020/header.jpg?t=1545608950",
+    "minimum_requirements": "OS: Windows Vista Service Pack 2 Processor: 2.5Ghz i3 Equivalent Processor Memory: 2 GB RAM Graphics: DirectX 9 Compliant Graphics Device, Radeon 5450, NVidia 8600 DirectX: Version 9.0 Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.8Ghz i5 Equivalent Processor Memory: 2 GB RAM Graphics: DirectX 9 Compliant Graphics Device, Radeon 5770, NVidia GTX 470 DirectX: Version 9.0 Storage: 512 MB available space",
+    "reviews": [
+        {
+            "review_text": "edit: このゲームは日本語をOKです！  Hangeki is a simple tactical shmup that supports two local players. It's pretty well done with a focus on having a vast array of diverse weapons that you can unlock as you clear stages and challenges. It starts of simple, with you keeping up a combo by destroying enemies and picking up items constantly to level up and unlock your stronger weapons, which also require keeping that combo bar up. This combination will keep you always at the edge trying to destroy things as fast and efficiently as you can.  When a wave reaches a 'critical' point after destroying enough enemies (shown on the upper side of the screen as a white progress bar), you can trigger the 'Hangeki' to make all remaining enemies explode and trigger the next wave. Survive all the waves in any given stage and you'll face the area boss, which are also ery creative, challenging and force you to think a bit outside of the box by launching sudden melee strikes (ok, they give you a millisecond warning at the very least!) or drop waterfalls of lasers+bombs and more.  So, yep, a tactical choice between weapons, permanent aggression and knowing the enemy waves leads to victory. And mastering the controls: the ship is really fast which makes players prone to mistakes due to overconfidence in movement.  In some aspects, it reminded me of Super Crossfire (another good shmup in a similar vein although with a fixed position instead of free movement, unfortunately it's not on Steam despite having an awesome PC version) but with a mixture of the old Wipeout/Psygnosis style in the design of the weapons, which I found very cool. You in fact get achievements by completing stages using weapons from the same manufacturers, like Hangeki Initiative or Crystalix.  Expect the difficulty to ramp up fast as you progress through the stages and good luck with the challenges, some of them are going to make you cry but, still, this is a shmup and if you like those, you are certainly going to enjoy Hangeki.  Special mention to the music (freaking awesome, comes in ogg format inside the game but seriously needs an official OST release!!!) and the local co-op: banish the anti-social in you and bring a friend, bring two 360 pads and stay alive! The co-op is great, although a bit chaotic (nothing compared to the madness Jamestown's 4-player local co-op is though) it's highly satisfying to clear stages with friends.  Definitely recommended it for those who like shmups, those who don't perhaps will need the discount incentive to budge. Give it a chance, you'll be surprised.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game provides hours of fun. Great graphics. If you like the old style arcade shoot em up games, you'll love this game. 5 Stars.",
+            "review_score": "1"
+        }
+    ]
+}

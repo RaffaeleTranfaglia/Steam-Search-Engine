@@ -1,0 +1,46 @@
+{
+    "app_id": 432170,
+    "name": "Silver Knight",
+    "release_date": "2016-01-15",
+    "developer": [
+        "Wojciech Krupinski"
+    ],
+    "publisher": [
+        "KrupinskiArt"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 36,
+    "negative_ratings": 28,
+    "price": 1.59,
+    "description": "Silver Knight is a unique isometric mini-RPG with randomized enemy spawn placement that offers a challenging new experience each time you play. Any second can become your last in this dangerous land. Think twice before making your move — lives are extremely hard to come by in these parts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/432170/header.jpg?t=1466752367",
+    "minimum_requirements": "OS: Windows 7 Processor: CPU Pentium 3, 800 Mhz Memory: 128 MB RAM Graphics: Video Any 3D capable card DirectX: Version 9.0 Storage: 50 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo or Athlon 64 X2 Memory: 1 GB RAM DirectX: Version 9.0 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "The game looks great! If you like 320x240. How do I make it bigger resolution?",
+            "review_score": "1"
+        }
+    ]
+}

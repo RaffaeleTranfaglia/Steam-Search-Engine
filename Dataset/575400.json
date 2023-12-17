@@ -1,0 +1,43 @@
+{
+    "app_id": 575400,
+    "name": "Try Hard Parking",
+    "release_date": "2017-01-03",
+    "developer": [
+        "gearspecs"
+    ],
+    "publisher": [
+        "gearspecs"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Racing"
+    ],
+    "achievements": 18,
+    "positive_ratings": 62,
+    "negative_ratings": 15,
+    "price": 1.59,
+    "description": "&quot;Hardest and most Rage Inducing Parking Game in The World&quot;. Navigate crazy obstacle courses in pursuit of your holy parking spot in this 80s Arcade Style driving game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/575400/header.jpg?t=1487097979",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Single Core 2.0 Ghz Memory: 1 GB RAM Graphics: Nvidia 9400M or ATi/AMD HD 2400 or Intel HD 4000 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space Additional Notes: Any PC Not older than 6 years (Game was tested on laptop running 9300m GS, Centrino Duo)",
+    "recommended_requirements": "OS: Windows 7 Processor: Quad Core 2.0 Ghz Memory: 4 GB RAM Graphics: Nvidia GTX 650/Radeon 7780/ Intel HD 520 and Above DirectX: Version 9.0c Storage: 1 GB available space Additional Notes: I have used a GTX 770 2GB, 16 GB RAM, I7 4820k to make and test the game. This can be considered Mid-range by today's standards.",
+    "reviews": []
+}

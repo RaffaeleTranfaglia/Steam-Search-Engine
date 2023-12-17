@@ -1,0 +1,40 @@
+{
+    "app_id": 864010,
+    "name": "Space Force",
+    "release_date": "2018-06-01",
+    "developer": [
+        "Semi Sağlam"
+    ],
+    "publisher": [
+        "Semi Sağlam",
+        "Timberwolf Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "Go as much as you can in Space Force.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/864010/header.jpg?t=1528157874",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows (64-bit versions only) Processor: Intel Core 2 Memory: 1 GB RAM Graphics: 1 GB Video Card Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

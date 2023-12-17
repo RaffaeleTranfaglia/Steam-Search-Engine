@@ -1,0 +1,42 @@
+{
+    "app_id": 953640,
+    "name": "Gyro Buster",
+    "release_date": "2019-01-26",
+    "developer": [
+        "MAENTRUS DIGITAL LAB PT"
+    ],
+    "publisher": [
+        "MAENTRUS DIGITAL LAB PT"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "Gyro Buster is an online spinning top game. Choose your favorite Gyro to upgrade and make your Gyro stronger. Each Gyro is equipped with tight control and special skills to clash with your opponent.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/953640/header.jpg?t=1549527103",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 32 Bit/64 Bit Processor: Intel Core® i3  2.4 GHz Memory: 4 GB RAM Graphics: GeForce GT 8800 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1100 MB available space Sound Card: Windows compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 32 Bit/64 Bit Processor: Intel Core® i5  2.4 GHz Memory: 8 GB RAM Graphics: GeForce 1050 or 2 GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 1100 MB available space Sound Card: Windows compatible sound card",
+    "reviews": []
+}

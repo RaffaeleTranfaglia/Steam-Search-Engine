@@ -1,0 +1,51 @@
+{
+    "app_id": 341910,
+    "name": "Ultimate Space Commando",
+    "release_date": "2015-05-12",
+    "developer": [
+        "Creatio 49"
+    ],
+    "publisher": [
+        "Angry Cat Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 30,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "USC is a turn-based, top-down view tactics game in which you control the crew of a stranded recon vessel in a &quot;first contact war&quot; for survival, featuring a detailed combat system with RPG elements, fully interactive randomized maps, unique weapons and gadgets, crafting, and custom multiplayer modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/341910/header.jpg?t=1447366853",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Intel Dual Core 1.8 GHz or equivalent Memory: 2 GB RAM Graphics: AMD Radeon HD3850 512 MB DirectX: Version 9.0c Storage: 800 MB available space Sound Card: DirectX 9.0c compatible Additional Notes: Can run in 1024x600.",
+    "recommended_requirements": "OS: Windows Vista / 7 / 8.1 Processor: Intel Dual Core 2.8 GHz / Quad Core / i3 Memory: 4 GB RAM Graphics: AMD Radeon HD4850 512 MB DirectX: Version 9.0c Storage: 800 MB available space Sound Card: DirectX 9.0c compatible Additional Notes: Full HD (1920x1080) supported.",
+    "reviews": [
+        {
+            "review_text": "X-Com, Laser Squad, Fallout 1/2, Space Hulk.  If you're a fan of oldschool tactical combat, this game belongs in your library.    Pros:  Meaty, non-casual, action-point based combat like the orig X-com. The tension and onslaught of Space Hulk, where campaign ending death can occur at any moment.  Rogue-like randomisation, permadeath, one-save, possible to make campaign ending mistakes both tactically and strategically.  Oldschool difficulty. Normal is hard, hard is Ninja Gaiden/Battletoads sewer difficulty.  Tons of items. Random unique shiny loot. Melee weapons. Lasers, flamethrowers, tranquilizers, rocket launchers, miniguns, and everythig else under the sun. Each weapon has multiple attack modes, mods, and different types of ammo. Will you survive long enough to make use of any of it?  Helpful, responsive developer.  Cons:  Tedious, at times infuriating looting system that trolls you and can cause campaign restarts. Your commandos only have 9 slots, most of which will be filled with essential items, which means you'll spend a lot of time micromanaging inventory space to pick up loot after battle. Missions will abruptly end before you can reclaim deployed equipment/pick up loot. I'd kill for an option just to have all discovered/deployed items on the floor automatically looted after a successful mission.. it's all just unnecessary downtime that gets in the way of the tense combat .  Weird, arbitrary firing angle rules on the majority of weapons/firing modes, limiting your shots to UDLR and diagonals. Granted a token few are simply LOS, but the vast majority use the 'star' aiming system. Overwatch/defend mode and monsters completely ignore these limitations.   The visuals are what you'd expect from a one-person project, but combat/gameplay trumps everything.. and USC has damn good combat. This is clearly a work of love for the genre.  Gameplay 8.5 (9 if the looting/inventory system is ever improved) Visuals 6.5 (needs more alien variation/tilesets) Developer 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Before you read on, make sure you realize I'm only roughly two hours in.  This is a yes and a no in my book. I really don't think this should be marked as a 'full release' yet. There are a few reasons why.  There are a few minor (but noticable) spelling and grammar mistakes, along with a lack of continuity, at least where I got in the campign (which is barely past the tutorial). A character has the rank of (in their panel) Petty Officer, but is addressed as a Corporal by a Lieutenant. What? Did the writers not agree somewhere?  The basic gameplay and mechanics is more or less XCOM, but in space. If you've played XCOM, you've played this game. There isn't anything I've seen so far that sets it apart, although this is subjec to change.  What I   don't   like is the fact that you're stuck with character names for the campign. While I guess it makes sense, it also puts up a barrier between the player and the game, because they aren't able to relate as well with characters the dev's named, in this sort of game at least.  There are also no animations, in regards to movement and attacking. It's sliding around on the screen, with sound effects. The first thing I thought of, was ToME, in regards to it. Games like that can get away with it, because they're cheaper. At least very minor ones would be nice, for a game that is charging $20 (keep in mind I bought this at $15) to play. Not that it's terrible how it is, it's just kinda a mild annoyance.  It also suffers from the same annoying 'multiplayer' that some other indie games do. The one that is inputting an IP address, and hoping it connects. Unless you know somebody who can port-forward every day, or some shell server, you won't be getting on multiplayer, as there is no server browser or even a quick-match service.  With the rather hefty price tag in mind, unless things get patched and added for the game, this isn't a game you should pick up if you have played games such the older (or newer) XCOM. If it is on sale for $10-13, maybe. $5, then without a doubt pick it up. At the normal price of $20, you could do much better.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 861940,
+    "name": "Crashbots",
+    "release_date": "2018-10-09",
+    "developer": [
+        "Neonchimp Games"
+    ],
+    "publisher": [
+        "Neonchimp Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 31,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 7.99,
+    "description": "Take control of the latest line of robots and test their fighting capabilities, agility, and endurance in various arenas filled with dangerous obstacles, booby traps and enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/861940/header.jpg?t=1555165083",
+    "minimum_requirements": "OS: XP Processor: 2.4 Ghz Dual Core CPU Memory: 1024 MB RAM Graphics: 1024MB Dedicated Memory DirectX: Version 11 Storage: 1 GB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: 10 Processor: 3.0 Ghz Quad Core CPU or faster Graphics: 2048MB Dedicated Memory DirectX: Version 11 Storage: 1 GB available space Sound Card: DirectX® Compatible",
+    "reviews": []
+}

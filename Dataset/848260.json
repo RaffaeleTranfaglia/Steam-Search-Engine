@@ -1,0 +1,43 @@
+{
+    "app_id": 848260,
+    "name": "Super GTR Racing",
+    "release_date": "2018-05-18",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 138,
+    "positive_ratings": 4,
+    "negative_ratings": 6,
+    "price": 2.89,
+    "description": "Excellent racing arcade with different modes of competitions. Racing on huge speeds with complex routes and sharp turns.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/848260/header.jpg?t=1526666516",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space Sound Card: any",
+    "reviews": []
+}

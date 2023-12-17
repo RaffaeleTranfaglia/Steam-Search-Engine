@@ -1,0 +1,39 @@
+{
+    "app_id": 513140,
+    "name": "OCCHIO",
+    "release_date": "2016-08-11",
+    "developer": [
+        "Acerio Games"
+    ],
+    "publisher": [
+        "Like A Boss LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 1.59,
+    "description": "OCCHIO is a fast-paced puzzle platformer about facing fears, inside a lucid dream. Explore this massive world, conquer obstacles, fight epic bosses to discover the truth behind this strange dream.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/513140/header.jpg?t=1490855143",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0 GHz Memory: 4 GB RAM Graphics: Nvidia GeForce 210 Storage: 100 MB available space Additional Notes: These probably aren't accurate, you can run with lower specs. If you notice the game is running in slow motion, or the opening cutscene music is out of sync, your specs are too low, but the game will still be playable, just won't feel as good.",
+    "recommended_requirements": null,
+    "reviews": []
+}

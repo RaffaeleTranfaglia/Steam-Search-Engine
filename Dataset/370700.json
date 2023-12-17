@@ -1,0 +1,47 @@
+{
+    "app_id": 370700,
+    "name": "Black Home",
+    "release_date": "2015-08-07",
+    "developer": [
+        "Warfare Studios"
+    ],
+    "publisher": [
+        "Aldorlea Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 22,
+    "positive_ratings": 27,
+    "negative_ratings": 9,
+    "price": 6.99,
+    "description": "More 16-bit RPG goodness from Warfare Studios with this dark and thrilling adventure. Can you solve the mystery of the Monastery? Brave the unknown terrors inside, find hidden rooms and secret chambers, and unlock the mysterious past before the sun comes up, and you may get out alive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370700/header.jpg?t=1535991601",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8 Processor: 1.6 GHz Memory: 128 MB RAM Graphics: DirectX 9.0 Compatible DirectX: Version 9.0 Storage: 200 MB available space Sound Card: DirectX 9.0 Compatible Sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great game with two different endings. I wonder if their is a secreat third ending because you can collect all the chess pieces? I recommend this game to anybody that wants an short but sweet RPG classic game.",
+            "review_score": "1"
+        }
+    ]
+}

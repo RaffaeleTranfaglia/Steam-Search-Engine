@@ -1,0 +1,43 @@
+{
+    "app_id": 294190,
+    "name": "A-Men 2",
+    "release_date": "2015-06-24",
+    "developer": [
+        "Bloober Team SA"
+    ],
+    "publisher": [
+        "Bloober Team SA"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 9,
+    "negative_ratings": 12,
+    "price": 5.99,
+    "description": "Prepare yourself for another journey through series of new worlds, featuring multiple challenges with many ways to pass a level and resolve puzzles. A-MEN 2 allows you to hang out with your good, old friends once more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/294190/header.jpg?t=1450771612",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium / AMD Athlon XP 2.0 GHz Memory: 512 MB RAM Graphics: 128 MB DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I have played tons of games on my current PC. This game never launched, only tells me before crash: Your graphics card is not compatible with the game: 'Hardware compatible.'  PS: To make this review I just kept error message not closing for couple minutes, so Steam think I played it.",
+            "review_score": "-1"
+        }
+    ]
+}

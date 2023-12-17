@@ -1,0 +1,37 @@
+{
+    "app_id": 889320,
+    "name": "The Plant",
+    "release_date": "2018-07-23",
+    "developer": [
+        "Aventy's team"
+    ],
+    "publisher": [
+        "Aventy's team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 26,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "Интерактивная история про ученого-отшельника, с которым заговорил его подопытный цветок. Настраивая характеристики выбора ответа, результат приведет вас к одной из нескольких окончаний.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/889320/header.jpg?t=1535260058",
+    "minimum_requirements": "OS: 7 Processor: AMD Athlon 64 X2 Dual Core Processor 4800+ 2.51GHz Memory: 2 GB RAM Graphics: AMD Radeon HD 6670 DirectX: Version 11 Storage: 600 MB available space Sound Card: AMD HD Audio Device Additional Notes:",
+    "recommended_requirements": "OS: 10 Processor: Intel Core i5 7200 2.5GHZ Memory: 4 GB RAM Graphics: Radeon 520 DirectX: Version 11 Storage: 1 GB available space Sound Card: AMD HD Audio Device",
+    "reviews": []
+}

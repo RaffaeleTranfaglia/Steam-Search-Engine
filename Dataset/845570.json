@@ -1,0 +1,41 @@
+{
+    "app_id": 845570,
+    "name": "Super Punchman",
+    "release_date": "2018-05-09",
+    "developer": [
+        "Mugle Studio"
+    ],
+    "publisher": [
+        "Mugle Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 1,
+    "negative_ratings": 5,
+    "price": 1.69,
+    "description": "The crash ... Not the best start of the day. In any case, for those who live on this planet... The time has come to destroy the monsters and fly home.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/845570/header.jpg?t=1534150936",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Intel Core i3 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 950 DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: Intel Core i5 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 DirectX: Version 12 Storage: 1 GB available space",
+    "reviews": []
+}

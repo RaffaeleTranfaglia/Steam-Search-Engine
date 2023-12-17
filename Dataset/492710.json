@@ -1,0 +1,46 @@
+{
+    "app_id": 492710,
+    "name": "VR Ping Pong",
+    "release_date": "2016-09-13",
+    "developer": [
+        "Reddoll Srl"
+    ],
+    "publisher": [
+        "IV Productions",
+        "Merge Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 100,
+    "negative_ratings": 24,
+    "price": 6.99,
+    "description": "VR Ping Pong is the first simulator that thanks to VR technology, and with the help of SteamVR Controllers, brings a ping pong table into your lounge. Using 1:1 scale with virtual reality, you will have the sensation of play ping pong in reality: Virtual reality teleports you inside voxel-style environments that until today you could...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/492710/header.jpg?t=1492511113",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 4 GB RAM Graphics: Nvidia GTX 970 (VR) or AMD equivalent DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 8.1 Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: Nvidia GTX 980 (VR) or AMD equivalent or greater DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "I love this game and have actually used it as daily exercise. I think you have the dificullty settings down to a tee. I also like the blocky retro graphics, its a nice change. Great value game. Keep up the good work!!",
+            "review_score": "1"
+        }
+    ]
+}

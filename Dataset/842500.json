@@ -1,0 +1,37 @@
+{
+    "app_id": 842500,
+    "name": "Kickshot",
+    "release_date": "2018-05-04",
+    "developer": [
+        "R.A.M. Studios LLC"
+    ],
+    "publisher": [
+        "R.A.M. Studios LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Gore",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Gore"
+    ],
+    "achievements": 0,
+    "positive_ratings": 38,
+    "negative_ratings": 9,
+    "price": 0.0,
+    "description": "Kickshot is a first-person speedrunning game in which you utilize your tools, environment and movement abilities to complete the course as quickly as possible.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/842500/header.jpg?t=1525443024",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: i3-8300 Memory: 4 GB RAM Graphics: GTX 560 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: i7-4790k Memory: 8 GB RAM Graphics: GTX 1060 DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

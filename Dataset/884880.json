@@ -1,0 +1,43 @@
+{
+    "app_id": 884880,
+    "name": "Super Seeker",
+    "release_date": "2018-11-12",
+    "developer": [
+        "Ennui Studio"
+    ],
+    "publisher": [
+        "Webble Games",
+        "Kwebbelkop"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "Super Seeker! is a “hide &amp; seek” multiplayer game, where one team can disguise themself as Props of the environment, meanwhile the other team has to unmask them and shoot them down before the time hits 0.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/884880/header.jpg?t=1543731984",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel Kaby Lake Core M3-7Y30 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz Memory: 4 MB RAM Graphics: Intel HD Graphic 615 / AMD Radeon HD 6750M DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i3-7100 @ 3.9GHz or AMD FX-8350 @ 4.0GHz Graphics: Nvidia GPU GeForce GTX 770 / AMD GPU Radeon R9 290 DirectX: Version 11 Storage: 7 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 110630,
+    "name": "Mutant Storm: Reloaded",
+    "release_date": "2012-03-21",
+    "developer": [
+        "PomPom Games"
+    ],
+    "publisher": [
+        "PomPom Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 12,
+    "positive_ratings": 23,
+    "negative_ratings": 14,
+    "price": 3.99,
+    "description": "Mutant Storm progresses over 89 levels of twin-stick shooter mayhem! As you get deeper, you are ever more overcrowded with nasty beasties. This carnival of frenetic fun is showcased in a cutting edge graphics extravaganza.Viewed from well above, you and your enemies can always be seen. Always be killed, and always be laughed at!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/110630/header.jpg?t=1447355365",
+    "minimum_requirements": "OS: Windows XP,Vista, 7 Processor: Intel/AMD 1.6ghz or better Memory: 512mb of RAM Graphics: DirectX 9.0c compatible shader 2 DirectX®: 9.0c Hard Drive: 100 MB Sound: DirectX 9.0c compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A really great  Robotron  clone!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you really like trippy, psychedelic twin-stick shooter action, then this game is for you! I personally gave it a heavy 'meh'. It was fun but just not my style of game. It tries to be Geometry Wars all hopped up on Red Bull.",
+            "review_score": "1"
+        }
+    ]
+}

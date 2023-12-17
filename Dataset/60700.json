@@ -1,0 +1,52 @@
+{
+    "app_id": 60700,
+    "name": "Power of Defense",
+    "release_date": "2010-08-04",
+    "developer": [
+        "4sdk"
+    ],
+    "publisher": [
+        "4sdk"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Strategy",
+        "Indie"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Tower Defense"
+    ],
+    "achievements": 26,
+    "positive_ratings": 9,
+    "negative_ratings": 25,
+    "price": 6.99,
+    "description": "Power Of Defense provides a new strategy and defense mix game experience. Defend your world from upcoming evil and oil-smelling robots. They come from the platform between both parallel universes you have to fight on by producing own robots to send them back to their native world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/60700/header.jpg?t=1447353405",
+    "minimum_requirements": "OS: Windows XP, Vista, 7Processor: 1.2 Ghz CPU or betterMemory: 512 MB, 1 GB for VistaGraphics: 256 MB video RAM and Shader Model 2.0DirectX&reg;: DirectX&reg; 9.0cHard Drive: 200 MBSound: Windows compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Terribly balanced game, not visually appealing, and now it seems it won't even play without breaking (text disappears and certain scripted actions don't run when you play the single player campaign... 1/10, not even worth a couple of dollars.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game would be more at home on a site like Kongregate, not as a (fairly pricey) game on Steam. I love defense games, but this one lacked depth.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "First off the Tutorial is horrible. Secondly none of the icons for anything show up. And finally. I had 4 people try. no-one could beat the first level.   I would not recomend this game.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 862370,
+    "name": "Yahrit!",
+    "release_date": "2018-07-13",
+    "developer": [
+        "Vertical Skull Games"
+    ],
+    "publisher": [
+        "Vertical Skull Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Easy to learn and fast to play local competitive multiplayer for 2-4 players. Cleverly combine jumping and dashing mechanics to outwit your rivals in this sweet pixel art brawler!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862370/header.jpg?t=1550420428",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: Dual Core 2GHz or higher Memory: 2 GB RAM Graphics: GPU with 512 MB Video RAM DirectX: Version 9.0 Storage: 100 MB available space Additional Notes: Local multiplayer only. Up to 2 players can play on the same keyboard. Gamepads are highly recommended.",
+    "recommended_requirements": null,
+    "reviews": []
+}

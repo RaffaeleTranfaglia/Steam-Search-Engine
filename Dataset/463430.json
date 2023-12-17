@@ -1,0 +1,37 @@
+{
+    "app_id": 463430,
+    "name": "Ironguard",
+    "release_date": "2016-10-14",
+    "developer": [
+        "Aegon Games Ltd"
+    ],
+    "publisher": [
+        "Aegon Games Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "FPS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 6,
+    "price": 4.99,
+    "description": "Ironguard is a fast-paced roguelite shooter with procedurally generated levels and a wide array of unique weapons and items",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463430/header.jpg?t=1476461106",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 2.3 GHz Memory: 4 GB RAM Graphics: Shader model 3.0 DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: 3.0GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

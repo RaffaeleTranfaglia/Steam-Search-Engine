@@ -1,0 +1,38 @@
+{
+    "app_id": 676450,
+    "name": "Double Memory",
+    "release_date": "2017-09-18",
+    "developer": [
+        "Tyler Stansfield Jaggers"
+    ],
+    "publisher": [
+        "Overidon Omnimedia"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Card Game"
+    ],
+    "achievements": 7,
+    "positive_ratings": 18,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Memorize and match card pairs in this casual and challenging 1990's inspired concentration game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676450/header.jpg?t=1531108145",
+    "minimum_requirements": "OS: Windows 7 Home Premium Processor: Intel Pentium Dual CPU 1.86 GHZ Memory: 2 GB RAM Graphics: Intel HD Graphics 4400 - 1280 x 800 Screen Resolution Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 Home Premium or Higher Processor: Intel I3 CPU 2GHZ or higher Memory: 4 GB RAM Graphics: Nvidia Graphics with 1GB Graphics RAM -1920 x 1080 Screen Resolution Storage: 300 MB available space",
+    "reviews": []
+}

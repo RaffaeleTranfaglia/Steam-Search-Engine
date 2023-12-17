@@ -1,0 +1,41 @@
+{
+    "app_id": 748930,
+    "name": "Brink of Extinction",
+    "release_date": "2017-11-30",
+    "developer": [
+        "Correcture Games AB"
+    ],
+    "publisher": [
+        "Correcture Games AB"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 72,
+    "positive_ratings": 8,
+    "negative_ratings": 5,
+    "price": 2.89,
+    "description": "Brink of Extinction is a challenging tower defense game set in the ruins of human civilization. Battle swarms of insects over 15 campaign levels and 8 continuous mode levels. At your disposal you have an arsenal of brutal weapons, ranging from machine gun turrets to plasma and rail turrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/748930/header.jpg?t=1546194588",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 8 GB RAM DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 3 Ghz Memory: 8 GB RAM Graphics: Dedicated Graphics Card DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

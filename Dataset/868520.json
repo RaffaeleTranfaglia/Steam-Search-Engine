@@ -1,0 +1,39 @@
+{
+    "app_id": 868520,
+    "name": "killer7",
+    "release_date": "2018-11-15",
+    "developer": [
+        "GRASSHOPPER MANUFACTURE INC.",
+        "Engine Software BV"
+    ],
+    "publisher": [
+        "NIS America, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Violent",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 432,
+    "negative_ratings": 12,
+    "price": 15.49,
+    "description": "Sneak into a world of underground assassins as Harman Smith, a man who manifests 7 deadly personalities, the killer7. Take control of this distinct murderers' row as they hunt down the sinister Kun Lan to thwart his plan of world dominance.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868520/header.jpg?t=1548990558",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2GHz Dual Core Memory: 2 GB RAM Graphics: Intel HD Graphics DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 3GHz Dual Core Memory: 4 GB RAM Graphics: 512MB, Dedicated Graphics Card DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

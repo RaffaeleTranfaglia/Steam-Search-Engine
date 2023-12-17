@@ -1,0 +1,48 @@
+{
+    "app_id": 378810,
+    "name": "Steamroll",
+    "release_date": "2016-02-19",
+    "developer": [
+        "Anticto"
+    ],
+    "publisher": [
+        "Anticto"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Steampunk"
+    ],
+    "achievements": 26,
+    "positive_ratings": 35,
+    "negative_ratings": 11,
+    "price": 9.99,
+    "description": "Steamroll is an adventure and puzzle game with a touch of minigolf gameplay. Help the junior engineer escape a collapsing mine by solving puzzles and shooting steamballs from your vehicle to create ramps, walls, activate triggers, blow things away, and more. Can you handle the pressure?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/378810/header.jpg?t=1546950340",
+    "minimum_requirements": "OS: Windows 7 Service Pack 1 Processor: Intel i3 1.8GHz Memory: 4 GB RAM Graphics: NVidia GeForce 260GTX series card or higher DirectX: Version 11 Storage: 2500 MB available space",
+    "recommended_requirements": "OS: Windows 7 Service Pack 1 Processor: Intel i5 2Ghz Memory: 8 GB RAM Graphics: NVidia GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 11 Storage: 2500 MB available space",
+    "reviews": [
+        {
+            "review_text": "Steamroll is a game that has captivated me. I love the idea of this Steampunk world where you have to overcome all the levels with your ingenuity and cleverness. Every puzzle has a different challenge and not done repetitive.  Music wrapped you completely in the mission; it feels that you are in a mine of this steampunk fantasy world. I recommend this game for lovers of the puzzle games and steampunk world. ",
+            "review_score": "1"
+        }
+    ]
+}

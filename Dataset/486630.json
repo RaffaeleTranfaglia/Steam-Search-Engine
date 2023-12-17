@@ -1,0 +1,45 @@
+{
+    "app_id": 486630,
+    "name": "Toxic Terror",
+    "release_date": "2016-06-03",
+    "developer": [
+        "Fascimania"
+    ],
+    "publisher": [
+        "Fascimania"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "You're trapped deep within the toxic sewers. It's a dangerous place and you have to think quickly in order to survive. Grab all of the keys in a level to open the door to freedom... or at least the next level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486630/header.jpg?t=1509874801",
+    "minimum_requirements": "OS: Windows XP SP3 or better Processor: Intel Celeron / Athlon Sempron or better Memory: 128 MB RAM Graphics: Open GL 2.0 compatible or better, DirectX 9.0c Storage: 15 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "EDIT: The developer is working on fixing my problem with the controller support, so I've decided to edit this review to reflect that. So, think of Sokoban. Classic concept. Now imagine it with monsters chasing you. That's Toxic Terror. While the basic idea is there, and the idea of moving stuff/yourself around a level whilst being chased isn't so novel either (Burger Time, Wrecking Crew, Crazy Castle come to mind) it works well here and is combined with the right kind of clever level design that it needs. Also the horror theme works well, as it reminds one of classic gaming titles with a similar theme and characters (Castlevania, Vampire-Master of Darkness, Nosferatu, etc.).  I'd recommend it!   ORIGINAL REVIEW: Hey, developer! Either give me the ability to remap the movement to the pad, and not the stick, or make the movement in your game NOT grid-based.  NOT RECOMMENDED.",
+            "review_score": "1"
+        }
+    ]
+}

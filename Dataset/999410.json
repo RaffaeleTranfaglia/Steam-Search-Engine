@@ -1,0 +1,38 @@
+{
+    "app_id": 999410,
+    "name": "Magnibox",
+    "release_date": "2019-03-26",
+    "developer": [
+        "Joseph Gribbin"
+    ],
+    "publisher": [
+        "Joseph Gribbin"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Pixel Graphics"
+    ],
+    "achievements": 9,
+    "positive_ratings": 18,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A puzzle game about magnets designed for human brains.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/999410/header.jpg?t=1553870129",
+    "minimum_requirements": "Mínimo: SO: Windows XP, Vista, 7, 8, or 10 Procesador: 2.0 ghz Memoria: 2 GB de RAM Gráficos: 128MB Almacenamiento: 44 MB de espacio disponible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,49 @@
+{
+    "app_id": 398150,
+    "name": "Ace of Protectors",
+    "release_date": "2016-06-27",
+    "developer": [
+        "xPathfinder"
+    ],
+    "publisher": [
+        "xPathfinder Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 47,
+    "positive_ratings": 41,
+    "negative_ratings": 27,
+    "price": 1.69,
+    "description": "Be a hero. Be the Ace of Protectors. According to the legend of the Venux, you're who can save the Venux. You have to fight devils who are trying to destroy the Venux.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/398150/header.jpg?t=1478084507",
+    "minimum_requirements": "최소: 운영체제: Microsoft® Windows® XP / Vista / 7 / 8 / 10 프로세서: Intel Core 2 Duo 2.0 GHz 메모리: 1 GB RAM 그래픽: Graphics Cards supporting 1024x768 resolution DirectX: 버전 9.0 저장공간: 500 MB 사용 가능 공간",
+    "recommended_requirements": "권장: 운영체제: Microsoft® Windows® XP / Vista / 7 / 8 / 10 프로세서: Intel Core 2 Duo 2.4 GHz or better 메모리: 2 GB RAM 그래픽: Graphics Cards with 256MB+ VRAM, supporting 1024x768 resolution DirectX: 버전 9.0 네트워크: 초고속 인터넷 연결 저장공간: 500 MB 사용 가능 공간 추가 사항: Broadband internet connection is required for Steam Cloud.",
+    "reviews": [
+        {
+            "review_text": "MSpaint art, horrible grammar, terrible combat system and generic plot.  Need I say more?",
+            "review_score": "-1"
+        }
+    ]
+}

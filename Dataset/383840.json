@@ -1,0 +1,44 @@
+{
+    "app_id": 383840,
+    "name": "Nimbatus - The Space Drone Constructor",
+    "release_date": "2018-10-03",
+    "developer": [
+        "Stray Fawn Studio"
+    ],
+    "publisher": [
+        "Stray Fawn Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Sandbox",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 328,
+    "negative_ratings": 60,
+    "price": 15.49,
+    "description": "Nimbatus - The Space Drone Constructor is an action-packed simulation game. Craft drones out of hundreds of different parts and explore a destructible, procedurally generated galaxy. Build autonomous drones to fight against other players' creations. Do you have what it takes to become a drone engineer?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/383840/header.jpg?t=1555406068",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Quad Core Processor Memory: 4 GB RAM Graphics: nVidia® 8800 GT / AMD® 4670 or faster DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

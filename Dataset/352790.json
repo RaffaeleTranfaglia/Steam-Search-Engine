@@ -1,0 +1,49 @@
+{
+    "app_id": 352790,
+    "name": "Futuridium EP Deluxe",
+    "release_date": "2016-01-07",
+    "developer": [
+        "MixedBag Srl"
+    ],
+    "publisher": [
+        "AGM PLAYISM"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Colorful"
+    ],
+    "achievements": 13,
+    "positive_ratings": 13,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "Futuridium EP Deluxe is a psychedelic retro inspired shoot’em up with a modern twist, that blends together frantic action, puzzle elements, a vibrant low poly aesthetic and an heart pumping electronic soundtrack.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352790/header.jpg?t=1554705794",
+    "minimum_requirements": "最低: OS: Windows XP, 7 プロセッサー: Core 2 Duo or higher メモリー: 2 GB RAM グラフィック: Shader Model 2.0 ストレージ: 300 MB 利用可能",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Persistent crashes. Waiting for fix.",
+            "review_score": "-1"
+        }
+    ]
+}

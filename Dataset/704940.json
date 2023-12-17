@@ -1,0 +1,40 @@
+{
+    "app_id": 704940,
+    "name": "BOX IT",
+    "release_date": "2018-06-04",
+    "developer": [
+        "Phoenix Coalition"
+    ],
+    "publisher": [
+        "Phoenix Coalition"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 4,
+    "positive_ratings": 0,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "A classic Arcade Puzzle Game from a different perspective with 300 puzzles to solve and full Workshop support.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704940/header.jpg?t=1528129594",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Win7/8/10 64-bit Processor: Core 2 Duo E8200 2.66GHz or Phenom II X2 545 Memory: 4 GB RAM Graphics: DirectX 11 compatible graphics card with at least 1GB dedicated VRAM. DirectX: Version 11 Storage: 5 GB available space Additional Notes: Mobile and Integrated GPUs might work but have no official support.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Win7/8/10 64-bit Processor: Core 2 Quad Q9550 2.83GHz or Phenom II X4 955 Memory: 4 GB RAM Graphics: DirectX 11 compatible graphics card with at least 1GB dedicated VRAM. DirectX: Version 11 Storage: 5 GB available space Additional Notes: Mobile and Integrated GPUs might work but have no official support.",
+    "reviews": []
+}

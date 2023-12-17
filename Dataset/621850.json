@@ -1,0 +1,40 @@
+{
+    "app_id": 621850,
+    "name": "Maze Bandit",
+    "release_date": "2017-07-06",
+    "developer": [
+        "Gamestone Studio"
+    ],
+    "publisher": [
+        "Gamestone Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "Build your own dungeon. Defend it with deadly traps. Conquer &amp; loot other mazes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/621850/header.jpg?t=1499334232",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 1024 MB RAM Graphics: Graphics card supporting DirectX 9.0c Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 1024 MB RAM Graphics: Graphics card supporting DirectX 9.0c Storage: 150 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 411120,
+    "name": "Galaxy Admirals",
+    "release_date": "2017-01-17",
+    "developer": [
+        "Jetdogs Studios"
+    ],
+    "publisher": [
+        "Jetdogs Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Turn-Based"
+    ],
+    "achievements": 25,
+    "positive_ratings": 173,
+    "negative_ratings": 29,
+    "price": 1.59,
+    "description": "Galaxy Admirals is a multiplayer turn-based cosmic strategy with pretty innovative and challenging gameplay. Improve your command skills with AI and conquer the whole universe by fighting with real players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/411120/header.jpg?t=1484683510",
+    "minimum_requirements": "OS: Windows XP Processor: 1.6 GHz Memory: 512 MB RAM Graphics: 1024x768 resolution Storage: 300 MB available space Sound Card: On board",
+    "recommended_requirements": null,
+    "reviews": []
+}

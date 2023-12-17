@@ -1,0 +1,40 @@
+{
+    "app_id": 444020,
+    "name": "Coffee Pot Terrarium",
+    "release_date": "2016-06-01",
+    "developer": [
+        "Brothers Flint"
+    ],
+    "publisher": [
+        "Brothers Flint"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 44,
+    "positive_ratings": 3,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Created by two brothers, Coffee Pot Terrarium is a turn-based puzzle game of tile manipulation. Raise new pathways to traverse the map, drop tiles to eliminate the enemy. Stop and smell the cherry blossoms.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/444020/header.jpg?t=1468261101",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: Core 2 Duo Memory: 2 GB RAM Graphics: NVIDIA® GeForce® 7800 GT or ATI Radeon™ HD 3000+ or better DirectX: Version 9.0c",
+    "recommended_requirements": null,
+    "reviews": []
+}

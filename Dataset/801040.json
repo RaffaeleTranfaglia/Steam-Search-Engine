@@ -1,0 +1,43 @@
+{
+    "app_id": 801040,
+    "name": "Poly Universe",
+    "release_date": "2018-07-20",
+    "developer": [
+        "Pouchmouse"
+    ],
+    "publisher": [
+        "Pouchmouse"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 4,
+    "positive_ratings": 65,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "Poly Universe is a survival city-building game in a galaxy where planets are only slightly larger than the colonists who inhabit them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/801040/header.jpg?t=1532090021",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core 2 GHz Memory: 2 GB RAM Graphics: Intel HD 4600 (AMD or NVIDIA equivalent) DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

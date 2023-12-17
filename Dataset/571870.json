@@ -1,0 +1,40 @@
+{
+    "app_id": 571870,
+    "name": "Little Jack's Adventures",
+    "release_date": "2016-12-28",
+    "developer": [
+        "Mihai Morosanu"
+    ],
+    "publisher": [
+        "Mihai Morosanu"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 16,
+    "price": 0.79,
+    "description": "Join the adventures of Little Jack. You will need to solve many interconnected puzzles that involve finding keys, pushing crates in order to reach the exit door. The game will have 4 difficulty levels so that each person regardless of its skill level can enjoy this game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/571870/header.jpg?t=1482912690",
+    "minimum_requirements": "OS: 7+ Processor: 2 Ghz Memory: 1000 MB RAM Graphics: any Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

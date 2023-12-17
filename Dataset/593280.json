@@ -1,0 +1,43 @@
+{
+    "app_id": 593280,
+    "name": "Cat Quest",
+    "release_date": "2017-08-08",
+    "developer": [
+        "The Gentlebros"
+    ],
+    "publisher": [
+        "PQube Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Cute"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2398,
+    "negative_ratings": 103,
+    "price": 9.99,
+    "description": "Cat Quest is an open world RPG set in the pawsome world of cats! In search of your catnapped sister you pounce into the massive continent of Felingard - a world crafted in the style of overworld maps of yore and purring with cat-tastic characters, stories, and puns!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/593280/header.jpg?t=1542371486",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz (4 CPUs), ~3.1GHz Memory: 4 GB RAM Graphics: Intel(R) HD Graphics 520 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz Memory: 8 GB RAM Graphics: Intel(R) HD Graphics 620 DirectX: Version 12 Storage: 250 MB available space",
+    "reviews": []
+}

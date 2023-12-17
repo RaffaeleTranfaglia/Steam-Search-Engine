@@ -1,0 +1,41 @@
+{
+    "app_id": 601790,
+    "name": "Eternal Lore",
+    "release_date": "2017-09-19",
+    "developer": [
+        "Hitbear Studio"
+    ],
+    "publisher": [
+        "Hitbear Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 26,
+    "positive_ratings": 26,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "Eternal Lore is a classic Action-RPG Game where the player can explore the world and dungeons while battling monsters and bosses, solving puzzles during the adventure and collect items to craft powerful equipment and gain access to even more powerful skills during your adventure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/601790/header.jpg?t=1505808635",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8 GHz Dual core Memory: 2 GB RAM Graphics: NVIDIA GeForce GTS 210 (or equivalent) Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.5 GHz Dual core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 270 (or equivalent) Storage: 1 GB available space",
+    "reviews": []
+}

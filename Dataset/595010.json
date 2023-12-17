@@ -1,0 +1,41 @@
+{
+    "app_id": 595010,
+    "name": "Violet Cycle",
+    "release_date": "2018-02-02",
+    "developer": [
+        "Weckr Industries"
+    ],
+    "publisher": [
+        "Digerati Distribution"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action"
+    ],
+    "achievements": 9,
+    "positive_ratings": 13,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Hyperkinetic neopoly roguecade action game with procedural generation at its core. Order within chaos. Feeling inside polygons!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595010/header.jpg?t=1520181672",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP SP2+ or higher Processor: Intel Core i3-330M 2.13 GHz or higher Memory: 4 GB RAM Graphics: ATI Mobility Radeon HD 5650 or higher DirectX: Version 9.0 Storage: 350 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

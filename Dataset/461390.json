@@ -1,0 +1,47 @@
+{
+    "app_id": 461390,
+    "name": "Bulby - Diamond Course",
+    "release_date": "2017-01-19",
+    "developer": [
+        "Rafael Senne"
+    ],
+    "publisher": [
+        "Paperdog Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Co-op"
+    ],
+    "achievements": 6,
+    "positive_ratings": 14,
+    "negative_ratings": 12,
+    "price": 1.99,
+    "description": "Bulby - Diamond Course is a colorful 3D Platformer inspired by a classic old 16-bit game. Bulby features tons of levels in Story Mode, Coop, Multiplayer, and a built-in Course Editor to create your own courses and share with the internet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/461390/header.jpg?t=1485105531",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core 2 Duo Memory: 2 GB RAM Graphics: Intel HD Graphics Storage: 800 MB available space",
+    "recommended_requirements": "OS: Win 7, Win 8, Win 8.1, Win 10 Processor: Intel i5 2nd Gen Memory: 4 GB RAM Graphics: Gtx 550 Storage: 2 GB available space",
+    "reviews": []
+}

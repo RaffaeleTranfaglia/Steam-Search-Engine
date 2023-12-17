@@ -1,0 +1,36 @@
+{
+    "app_id": 592240,
+    "name": "Jupiteration",
+    "release_date": "2017-03-10",
+    "developer": [
+        "Bartoš Studio"
+    ],
+    "publisher": [
+        "Bartoš Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "VR",
+        "VR Only"
+    ],
+    "achievements": 5,
+    "positive_ratings": 15,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "Jupiteration is a Sci-Fi shooter game designed for virtual reality headset HTC Vive &amp; Oculus Rift + Touch",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/592240/header.jpg?t=1532122565",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64bit Processor: Intel i5 2400 or similar AMD CPU Memory: 8 GB RAM Graphics: nVidia GTX 980 or AMD R9 FURY DirectX: Version 11 Storage: 2 GB available space Sound Card: Any",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64bit Processor: Intel i7 3770 Memory: 8 GB RAM Graphics: nVidia GTX 1080 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: Any",
+    "reviews": []
+}

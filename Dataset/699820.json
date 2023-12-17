@@ -1,0 +1,38 @@
+{
+    "app_id": 699820,
+    "name": "Mustdashe",
+    "release_date": "2017-09-08",
+    "developer": [
+        "Chris Germano"
+    ],
+    "publisher": [
+        "Pilone Consulting"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 3,
+    "negative_ratings": 4,
+    "price": 0.79,
+    "description": "You have sixty seconds to make everything look awesome! Unleash the force of facial hair with the fabled Stash Knuckles and rack up points to get highscores and unlock achievements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/699820/header.jpg?t=1504873054",
+    "minimum_requirements": "OS: Windows 7 Memory: 1 GB RAM",
+    "recommended_requirements": null,
+    "reviews": []
+}

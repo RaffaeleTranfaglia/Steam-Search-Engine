@@ -1,0 +1,41 @@
+{
+    "app_id": 496440,
+    "name": "The Challenge",
+    "release_date": "2016-10-07",
+    "developer": [
+        "Atum Software"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 15,
+    "price": 7.99,
+    "description": "The early 22nd century began the era of &quot;time travel&quot;. At this time, the UN Security Council also created the &quot;Time Bureau&quot;, a special surveillance service where employees are required to eliminate anachronisms caused by people visiting past events.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496440/header.jpg?t=1481543908",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 (x64) Processor: Intel Core i3 Memory: 4 GB RAM Graphics: GeForce GTX 460 DirectX: Version 11 Storage: 17 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (x64) Processor: Intel i5 4570 @ 3.2 GHz / AMD Phenom II 945 @ 3.0 GHz Memory: 12 GB RAM Graphics: NVIDIA GTX 970 / AMD R9 290 equivalent or greater DirectX: Version 11 Storage: 17 GB available space",
+    "reviews": []
+}

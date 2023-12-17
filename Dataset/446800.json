@@ -1,0 +1,572 @@
+{
+    "app_id": 446800,
+    "name": "Transport Fever",
+    "release_date": "2016-11-08",
+    "developer": [
+        "Urban Games"
+    ],
+    "publisher": [
+        "Good Shepherd Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Management",
+        "Economy"
+    ],
+    "achievements": 53,
+    "positive_ratings": 4418,
+    "negative_ratings": 1266,
+    "price": 26.99,
+    "description": "Transport Fever is a railroad-focused tycoon game. Players start in 1850 and build up a thriving transport company. As an emerging transport tycoon, the player constructs stations, airports, harbors and makes money by connecting areas requiring transport services. Build up your own Empire!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446800/header.jpg?t=1545501169",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8 or 10 (64­bit) Processor: Intel Core 2 Duo 3.0 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 260, ATI Radeon HD 5670, 1 GB VRAM Storage: 12 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": [
+        {
+            "review_text": "This is a great game but It got some really annoying problems.  This review is for people who came here because they used to love OTTD or Simutrans. If you loved Transport Tycoon, Simutrans etc. and you came here looking for something like that: BUY IT. It is not as complexe as those but it looks nice, is fair priced and has enough features to provide a good amount of fun.  So I give it a 6/10, without the points made below it would've been a 9/10.  - When you upgrade a trainstation all the trains heading there will turn arround and try to find a new route (even if you make changes in pause) This really kills alot and forces you to pay close attention to no ruin your trainsystem.  -If you want to have onewaytrack-systems utilized by many lines and big stations with platforms to choose for those lines - forgett it. A line randomly decides wich of the platforms in the station it uses and each and every single train of this line will use it. There is no 'who comes first chooses platform'.  -There are only 'path-signals' - nothing else. (and if you red the points above they're 'semi-functioning'  -The landscaping is a bad joke. You get 3 options (raise, lower, flatten) and 3 strengths to choose from. The tool is a TINY circle and you just wont be able to do anything productive with it.  - For my personal taste to few graphs and numbers. I compare it to simutrans where you could compare almost every numbers in nice graphs.  Transport fever gives you numbers but no window to select and compare them. The finances-tab is verry basic, no nice graphs and only the big numbers are listed.     Thanks for reading and don't get me wrong this is a good game. But it wasted a good amount of potential and needs some fixes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "First review I have ever written on Steam. The reason why, is because of the missleading negative user reviews from people who have no idea what this game is about or run the game on a wooden potato.  So first up, graphics: This game looks amazing on some moments, especially when seeing the modeled boats, trucks and trains, they all look gorgeous. Some other aspects like font and trees look low res, but bear in mind you ll play this game mostly zoomed out.  Gameplay: Okay, prepare to restart the game a lot of times. I am an experienced Train Fever player and I still had to restart like 5 times when playing on hard and mountain map. The goal of this game is to set up a transport line as profittable as possible, causing to grow cities on the map. It's the kind of game you ll fire up and still be playing 5 hours later.  Cons: -upgrading stations or platforms causes cargo/passengers to disappear, this is an issue we had in Train Fever as well and there is no excuse for the devs this is still in the game, it is ridiculous. -Performance may get a hit when building the map full of moving detailed vehicles and having everything set to ultra. -More info and the how and why should be given. I see there is a tutorial now so for new players that might be the best place to start.  Pro: -Addictive gameplay -One of the few transport or tycoon games with good graphics -Tons of replayability -Big modding community   Conclusion: This game is far from a 10/10 game, but for a tycoon or transportation economical management game this game should deserve some credit for it as well. For me this game has a 7.5-8/10 and could possibly become a 9/10 if better mods are added and if they fix the issues listed before. People who are saying the game is unplayable have no idea what this game is about and can return to their OTTD and stick with that. People also dont like to admit the game is too hard for their understanding so they go around rating it as a bad game. Dont let yourself be fooled, this game is tons of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Transport Fever : fun and relax game ♥  The game is better, compare to Train Fever, it extent the contents, everything look nice and easy to use, the city and everything else look alive than before. plus first person view that will help you enjoy the game even more.   For the new player who look to get into this game, it is  one of  the best Simulation game, that I recommend you to try it out, transport are cover from ground to air, and a lot more for you to do.  Witness your transport company grow with the town while the great soundtrack playing on the background are one of the best feeling that Simulation fan will love it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Endless hours of fun to be had by certain 'gamers'.  Let me start by saying: This is not a game for the mainstream market. If you're the kind of guy that likes fine-tuning and spent hours perfecting his track-layouts in Railroad Tycoon 3 - this is the one game to get! I have not written a review in about a decade. So this praise is ment from the heart as I can feel the love that went into making this work of art.  I have not had any of the technical problems that i see mentioned in other reviews. The game worked fine since release with only a few quirks and not a single crash in hundreds of hours playing, including frequent switches into the background. To keep this short: Of course certain gameplay aspects could be done differently, but many are done very well. If i had single wish: More of these wonderful campaigns (by DLC).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great economy simulation. Fantastic graphics. Day one steam workshop support. Fun and enjoyable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am not a guy who likes to give a public review on games, and who knows why i am here to give this game a review.  This game is, without any doubt, a good game. Taking loans and building up transportation network is what you need to do in the game. The network in this game also introduces a supply chain system, for example, a unit of steel is produced in a steel plant, from a unit of coal and a unit of iron ore which are delivered from a coal mine and a iron mine. and you need to ship the steel to a workshop for tools or machine manufacture, and you may need more than one kind of other resources from other supply chain like oil-fuel-plastic, wood-planks, grain-food/biofuel, etc. The sites are separated in the entire map,it is very common that your supply chain circles many rounds before reaching.thefinal destination, but dont worry, the.longer it goes the.more payment you get. Finally, you have to deliver the final products to cities to support their growing need.  There are several things you may want to know before you buy this game or new to this game.  a)In 1x speed time mode, it would take nearly 10s to pass a day in the game, a vehicle may need a year to travel across the map, so the game is extremely slow-paced, I always forget my time in reality, which made.me sick this afternoon.  b)unlike city:skyline or simcity, removing a building costs money, you need to pay extra money when removing commercial/residential/industrial buildings. You can't build any commercial/residential/industrial buildings either, but they can be built automatically ehen city need is satisfyied in late game.  c)building tunnels or bridges costs huge amount of money, so dont unless.you have to.  d) loans are will charge you a small amount of interests every year untill you payback, which is very different from the loan in reality.  English is not my first language, so forgive me if my expression is not satisfied. I will update this review after other useful things come into my mind. I hope you can enjoy this game as I do, but not at the cost of sleeping too late.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game. I've been waiting 20 years for a modern Transport Tycoon (or Locomotion) replacement. This game is a bit different but greatly satisfies my itch. It did have a few initial glitches but many have already been remedied and given the Urban Games track record of responding so well to Train Fever's similar initial problems, I have no doubt that any problems will be quickly addressed. They care and are very responsive.  Track and road buiding are so improved over Train Fever. The industrial products and businesses are greatly improved also. The graphics are beautiful. Just let it run and watch the wonderful details in the buldings pass by as you follow a realistically detailed stage coach.  The Steam Workshop (already bursting with cool new content) will insure that the game will not get stale but only get better and better. This will be the Transport Tycoon for the next 20 years.  Okay, it's not an action-packed shooter type game. It's an enjoyable relaxing city/transportation builder which will bring you hours and probably years of fun. I highly recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I just had to force myself to stop playing for a short while.  I wasn't sure I would keep this game or go for a refund at first, but then I got hooked and well.. Think I'll keep this one ;)  It has its issues, but balancing input/output made it very fun for me :D  Got $12.5 billion so far on my 'endless' game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "installed,played enjoying, lagging as hell. not happy.    Loads of fun, great potential iam sure. The modding community will bring it to life.   Will review it once they start optimizing stuff.  Update: 12-11-2016 So changed the settings to low, I would say i have a mid to highend machine. Really disappointing. There is truely no optimizations.   Also after a time of gameplay it crashes so probebly a couple of memory leaks as well. Love the gameplay which lasts around 20mins before a crash.  Update: 12-11-2016 Yep, cant play it anymore after it reaches a specific size it just crashes after a few minutes of play. A memory leak for sure.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I enjoy good business simulation games and I was really excited when I saw the presentation videos. Unfortunately behind a game with good building mechanics you will find various terrible economy and AI mechanics. Some of the things can be patched though.  The funny part is that the devs designed the campaign missions in a way that the flaws the game has become so extremely obvious.  First of all let's look at the trains which is usually the focus of these types of games as people usually like to build their own train network and watch it work. The problems here probably the easiest to fix, because they are more a balance issue. Trains are extremely expensive compared to other forms of transportation and in addition they have much higher running costs. So when starting a new game you are pretty much forced to use trucks and busses to get profits before you can actually start building a train network. Unfortunately due to the high initial costs it is tricky to approach this without going bancrupt the first few times. When I used trains to deliver cargo they barely made any profit even when if they had little to no wait time and sometimes I even had them running at a loss while trucks easily made their money back within the first few months of operation.  So at the moment It looks like trains are only good to transport passengers as they bring in more money. However even here other types of transportation are better (as they are cheaper to operate). Why the devs did it this way is a mystery to me.   Let's take a look at the planes. The pilots and air traffic controllers in this game seem to monkeys. There is no structure or proper priority designation for planes on the ground and in the air. planes on the ground when finished with loading passengers simply roll to the runway and depart even if another plane is about to land. And the go around functionality causes these planes then to fly very long paths which causes them to get in trouble with other planes causing even more delays. This system has to be reworked completely. Even the very old transport tycoon did it better. At the moment a runway for an aiport is barely able to handle the planes on one line. If you think about setting up several lines going to the same airport don't even try. The income of your air lines will be completely destroyed. It looks like the devs wanted to be realistic here, but failed with programming the AI properly.  Ships are huge work horses in Transport Fever that are slow but can load quite a bit of cargo. However this also causes problems as ships can only carry one type of cargo at any given time. If you have 10 tons of tools, 15 tons of bread and 26 tons of construction material the ship with a loading capacity of 100 tons will only take the 26 tons of construction material as it has the highest priority. This is a system that also affects other vehicles but isn't noticable there as the train waggon for example has a lower loading capacity and therefore you have various waggons able to load smaller numbers of different cargo types. So the devs implemented ships without thinking about what makes ships different.  The economy machanics require the player to seriously look at all factories in range, because if you start with one cargo line you have to build several others at the same time. If for example you deliver iron ore to a steel factory without delivering coal as well, the iron ore mine will shut down quickly as soon as the steel factory has the maximum number tons of iron ore it can receive. The same goes if you don't take the steel the factory produces and deliver it somewhere. As soon as the factory is full and if no cargo is taken away everything that is connected will shut down.  This is also different to other games in this genre. Usually the industry defines how much cargo is produced and needs to be transported. Here you as the transport company increase the production by delivering more and more over time. If you don't transport anything the factories will not produce cargo. This also means that with each new line you create you start with a loss and have to wait for the production to increase to turn loss into profit. Doesn't that sound like fun?  There is also game freezing and crashes. So the game still has some problems with stability that have to be solved.   I want to like this game, but just like train fever this game has to many issues to be considered good. It looks like they went two steps forward (more options in terms of transportation, better construction) and one step back (unfinished game with a terrible economy system)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pros: Good game play Well Ballenced Nice textures Good graphics  Cons: Buggy Terrible optimization- lags even on good computers Bad tutorial",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good sequel to Train Fever. All the extras are worth the price. If you liked the first one, you'll love this one - I do!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "NOV8: the game wont start through steam WTF! like i click play and it loads and nothing happens. FIX THIS NOW!!!  edit:NOV20: NOPE ♥♥♥♥ THIS GAME THIS GAME!! ITS A TON OF IMPROVEMENTS OVER TRAIN FEVER BUT ♥♥♥♥ING FALLS APART WHEN YOU ARE FORCED TO USE ANYTHING BESIDES TRAINS AND CARS LIKE IN TRAIN FEVER. BOATS ARE TOO SLOW TOO BE EFFECTIVE AND PLANES CANT CARRY ANY PEOPLE TO KEEP UP WITH THEIR MAINTAINENCE SO THEYRE USELESS AS WELL FIX THIS NOW!!!!!!!!!!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I feel that this game could use some more work. It is supposed to be an upgrade from Train Fever but the changes are very minimal. I was expecting new signals, tracks and many more vehicles but in that respect I was a little dissapointed. It is still a good game, but just 'good' not excellent. I hope the developers work on a few more changes to make this game even better. Note - It is only fair to mention that the price I paid was a promotional one so maybe they are aware that it still needs some work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great and enjoyable game. Can't stop playing. Have been waiting for this since TTD, and this is a worthy successor. Can't recommend enough.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super fun spiritual sucessor to one of my all time favorites: transport tycoon. Can't wait to play more!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The simulation is done well including the pathfinding. As some reviewers already pointed out there is no chance to let trains automatically find a new platform if a different train is blocking it, neither is there any chance to let the train find a different route if the actual one is blocked. These two points did keep me from buying the game.  What can I say, I did buy it and the pathfinding is okay. This is just because you can rewiew the path and tweak it, which i rarely needed to. Same goes for the automatic selection of the platform in a station: You can just force any train into the platform of your choice by sending him to a waypoint just in front of it.  To be honest, there are some caveats. The performance is okay, i guess (Core i7 2600, GTX 550 Ti, 8GB RAM), the Framerate drops to single digit values occasionally, but the game plays fine. This isn't a FPS after all. The loading times however, are tremendous (HDD 7200 rpm).  Some aspects of the game are subject to each and every ones taste. The overall progress of the player in the game is relatively slow, while the timeline flies like an arrow. If you are more into trains, your first and third train are from different epochs.  The track building progress is more fun than in other games (I didn't play Train Fever though) and the result looks like in real life, especially the track fields (Gleisvorfelder) of larger stations. Signalling is fine yet simple. Somehow i managed to build a setup with no deadlocks - yet.  For die hard fans of Transport Tycoon and its successors, this game is a must have. It feels a lot like Trucks and Trains Tycoon, but has almost everything done right.  Despite the performance issues this game is worth its while and the price tag is somewhat okay. If you can snatch the game in sale, you won't regret it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm very, very disappointed with this game.   Take what you know about the quirks in the gameplay of Train Fever and throw that out in the trash and enter new quirks. The improvements sound good on paper, but the overall way the game presents its gameplay to you is terrible. There are many improvements that needed to be made to the interface, particularly with how the new catchment system works. The result is an extremely high learning curve. One minute you think you have it figured out and then a quirk in the gameplay basically makes you go bankrupt.  I wanted to be in the beta to make suggestions because I really do like these types of games. However, I was rejected for it. I think I could have brought a lot of useful suggestions forward. Until this game gets some serious patches and interface overhauls, I can't recommend buying it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Poor late game performance really ruin a good game. Im not even at 1950 and my FPS is down to an average of 25.  Trying to construct stuff like a rail station late game gives you 1-5fps.  This is with an i5 3570 and a GTX970.  Its pretty much the same as the previous game they made. So they have basically done nothing to fix performance.  The performace patch on 20 December did nothing. If anything it made the performance worse for me. Trying to build anything will now slow the game to one frame every two seconds at most.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't get what the negative reviews are about. Game works perfectly at 60fps on GNU / Linux and seems really fun so far. Few minor things to polish, but I can't find all of these horrible issues people are complaining about.  If you like Tycoon Games and you like Transport then this is the game for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Missing a lot of basic features. No undo button after you accicently forget to deselect the demolish button and destroy a station. Not even a confirmation for destroying it, poof gone. No double tracks, at least not in the period I strarted, trains keep sitting there on idle not delivering their goods and putting parallel tracks at the stations don't work. Frustrating placement functions and maps are only available in 1:1, 1:2, 1:3 formats. I was really hoping to have a good transportation tycoon game to play, this isn't it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a great game with nice gfx. It has a bit of the Railroad Tycoon II feeling with mutch better gfx. The game runs mutch better on Linux here, on Windows its still lacking some performance. To me its fun :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So far I've played huge map on US with the biggest hills possible on Medium difficulty and 4x slower mod. Really excellent. I never got into Train Fever yet Transport Fever has me hooked. V atmospheric trundling amongst the big scenery and economically addictive. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is basically very good. Especially in hard mode it's very challenging and you need to constantly micro manage in order to 'survive'. In Normal mode you'll probbly struggle for the first 4 to 10 hours until you understand the basics, but then you'll be able to turn some nice profit which is quiet rewarding. But it all boils down to hard mode really. Only 0.2% of all the Transport Fever have managed to get the 'important' achievements in that mode. Being one of them let me tell you that it's taken me quiet a while to do so and i experienced that challange as very unique, BUT there is one big flaw in my opinion. Now this will be more of a Wake up call to the Creators than a Review. Sorry bout that but i dont really know where else to place this comment. When i connect very many resources and cities i totally loose control over what is happening and when why where and in which quantity my goods are beeing transported. Transporters start only picking up e.g. 3 of 300 possibly accessible goods of one kind in one spot and bringing them across the intire map while more of the same good is need elsewhere much closer. Also i experience a shortage of a good in one place while there is loads of that exact good just a stonethrow away and transporters are travelling form that one place straight to the other not picking up anything. CONCLUSION: GREAT GAME BUT! Either give us the possibilities to control what is beeing transported where in which amaount (if available) or dont take away that control from us and mess it all up. If i have a farm and oil plus oil procession available in an area give me the chance to tell the 'plastic factory' that i want it to use processed oil and oil only instead of sucking up all my crops while the population in town is not recevieng any food etc.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played Train Fever before and I think that Transport Fever is a beautiful step forward. It is graphically very nice, the sound is great and the campaigns are interesting and challenging. It's not (technically) balanced yet and there are glitches but it has all ingredients to become a great game with plenty of possibilities for modifications from the community. The support is good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not worth the money, it is a bad upgrade from TrainFever",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "**Update review**  Ok... So had issues with 'black blobs'... game seems to run fine untill I start to zoom in then game crashes... drivers have been updated... any body have any idea how to fix this???....I WANT to be able to give this game a good review... but its hard at this time... on the verge of requesting a refund...works 'ok' on my other desktop.. (im using a laptop).. .but is very choppy when i have lots on the screen on the desktop...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Damn this game to hell, need more sleep.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game really 'scratched an itch' for me. It's challenging and addictive - once you have a nice network set up it is really satisfying just to sit back and watch it run for a while. It is one of those games that when you're not playing it, you are thinking in your head of changes and improvements you can make when you start the game up again.  I got the game on launch day, and there were some issues then (main one being an issue with the menu text). However, this was fixed after a couple of days.  For me, the performance is still an issue, the game chugs along at 20FPS (i5-4670, R9 290) however when monitoring the usage, the game doesn't seem to make the most of the available processing power. I find the game playable at this FPS, but it is something I hope the developers improve soon.  Anyway, if you are into transport games, particuraly ones with a lot of depth, I definitely recommend this. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't normally write reviews but I feel this game is getting some unjust criticism. Currently at 32 hours in and I have not had a single crash with highest graphics setting and I by no means have a super computer. The only lag I seem to get is during the yearly auto save and that only last a few seconds.   The game play is fun if you like transport tycoon style games. I also really enjoy just watching my trains and trucks just run their routes. The early game progression can be a little slow but picks up by the 1900's and has enough change to keep you interested. The graphics are not amazing but are still solid, I have no complaints.   The game does have some bugs (like all new releases these day) but nothing game breaking for me. Mostly terrain glitches near and around tunnels.  This game was really an impulse buy for me so I did very little research on it prior. But some things I wish I did know before buying.  1. There currently is no map editor.  2. The free play mode scenario allows you to pick your region (Europe or America); Terrain type (Flat, medium, hilly); and Start year (you can pick any 10 year from 1850-1990)  3. The game does come with a mod you can have in free play that make every thing in the game free. 4. The UI is a little confusing when you first start the game. (There is a tutorial that helps a little) 5. Building track can be a little clumsy, especially when building long stretches of track/road.  6. There are no AI competitor. 7. There are no Vehicle or train collisions.  Some of these things future updates will fix as well as the modding community.  If these have you on the fence still, wait for a few updates or a sale. I bought this game at full price and have no regrets.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Transport Fever is just the game I was waiting for since Transport Tycoon went, well obsolete. Awesome simulation, very nice AI for good routes, everything is working smoothly and looks really nice.   Yes, this game is maybe not for kids. There is a learning curve and its a game where you take a bit of time off and think about your investments, instead of randomly just building stuff and still creating a virtual profit.  Im in my mid thirties and i really find this an absolute blast. Lost a whole night yesterday, pondering how to get goods distributed and a plastic industry running. Simply put - I like the 'not killing but building stuff' genre a lot. Its good relaxation after a day of work and evening with kids.   In conclusion. If you still remember Transport Tycoon, if you do enjoy titles like Cityes Skylines, Simcity series, Banished, etc - its for you. If you seeks simple klick and profit and do not know what is a tape recorder, stick to your own, but also please keep the negativity to your self. Game too hard? Maybe your simply not used to thinking.  For me its a 10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Actually, it is the same old Train Fever game as it was 2 years ago. Devs are just trying to get paid twice. Really, there's no improvement at all, game is still buggy and unoptimized as it was. New features are limited to aircrafts and boats which are useless compared to trains. UI was 'improved' so it looks modern but still lacks usability. The only thing which really got some love is production chains and cargo generations, but these are the things which must have been in old train fever game, not in the new one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You can sink an unreal amount of time in this game. Its alot of fun and has great Graphics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perhaps it's just me but I feel Transport Fever is biased towards trains. They're much easier to make money from than an airport for example. Simple things like airports having such a small population catchment area while taking up so much space and only allowing for one entrance. The planes themselves - while looking awesome- carry a very limited number of passengers decreasing the realism somewhat. Also being limited to one runway has proven stressfull. I had a poor DC-3 stuck in a holding pattern forever.   My every attempt at running a successful shipping passenger liner failed too. Essentially the same issues as airports coupled with being very, very slow.  But if you're in it for the trains then you'll be happy. Easy to set up, quite addaptable stations, great looking trains, and essentially they make money.  Overall I do recommend this game, particularly to train enthusiasts. I personally would like to see other means of transport get some love in an update ... then I'll be very happy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perhaps it's just me but I feel Transport Fever is biased towards trains. They're much easier to make money from than an airport for example. Simple things like airports having such a small population catchment area while taking up so much space and only allowing for one entrance. The planes themselves - while looking awesome- carry a very limited number of passengers decreasing the realism somewhat. Also being limited to one runway has proven stressfull. I had a poor DC-3 stuck in a holding pattern forever.   My every attempt at running a successful shipping passenger liner failed too. Essentially the same issues as airports coupled with being very, very slow.  But if you're in it for the trains then you'll be happy. Easy to set up, quite addaptable stations, great looking trains, and essentially they make money.  Overall I do recommend this game, particularly to train enthusiasts. I personally would like to see other means of transport get some love in an update ... then I'll be very happy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Edit after 48 hours in:  Still can't recommend and quite deeply disappointed now after reaching the later game.  1) Industries are behaving strangely. You are supposed to use long trains as the production can be up to at least 6400 units per year and when you best wagon carries 18 units, you see there is lot of wagon loads there. However, if the input buffers run empty, production ramps down very quickly. And when that happens, demand (industry is demand driven) at your raw material source goes down and it also starts reducing output. Net effect is that these 2 feed each others until your production hits 0 and you start again.  2) When a production plant, let's say for example tool factory upgrades, it resets the supply chain. So steel mill will gradually go to 0 and remain 0 until the end of that month. Naturally this damages your coal and iron supply and you are screwed.  3) One artic/semi trailer truck costs 305k and upkeep for a year is 54k. One train wagon costs 1.1 million (or was it 1.3) and costs 200k upkeep per year and carries only 18 units when truck carries 19. Also of course you need an engine for few million and with 800k upkeep per year. How are train supposed to be used other than in heavy duty long train - long distance haulage? Oh, but that doesn't give you the frequency needed which then feeds to the industry problem number 1, input buffers running dry.   4) To have frequent enough deliveries you need to bring something in all the time and then trucks are far better than trains. Except that cargo station are awful for a large amount of trucks and everythig slows down again with long ques around your cargo stations.  5) Stations have catchment area and cargo is automatically transferred to other station within catchment area if there is demand. But catchment area itself is not expanded accordingly. So, you can have train bringing goods in to a station, and part of it is transferred to truck station. Now, you need to truck it around the corner to feed those shops and industries in that catchment area. Effectively you'll end up with lot of cargo stations around the city to be able to distribute everything nicely. Which means more lorries, which means lot of problems with ques at your cargo stations.   All in all, game is not balanced and well thought at all and in these 5 samples you see the main frustration points and funnily old Train Fever was better balanced in many senses compared to this.   Also performance takes a nose dive when cities get big and you get about 5 FPS on average over big cities with GTX760Ti. There is lot of unnecessary high detail graphic content in this game which contribute to that. Nice, but i'd rather have well balanced enjoyable game with good performance than nice looking graphics on a game which is boring and frustrating to play.  --------- Old review after 2 hours of play under here ------- If you bought Train Fever, you know what to expect. Just like that, this game is poorly tested and is full of all kind of issues from crashing to lot of bugs and bad behaviour of the track laying tool. For example railway creates quite sharp uphill/downhill sections on both sides of the road to align the railway into road, and not otherway round.   New flexibility is great, but it also allows end buffers to be created in the middle of a station or anywhere else in the track and then trains run happily through them. Not game breaking, but shouldn't be possible either. Just a little sample of so called 'finesse' this game has.  Give it 5-6 months and check again when it is on sale.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Still plagued by AI issues which is a real shame! Come on guys sort out deliveries, a two platform goods station with one empty platform and one with 50 goods, guess which one gets serviced? Could be such a great game from a developer worth supporting if the little things get some attention to detail.  Frustration levels mean I can't recommend it, although I would dearly love to",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Love this game, use to play Train Fever was okay, but this is 1000% better and cant wait to play meany more hours of this game, keep on the road of good games :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Let me first say I think the game has the potential to be great, but due to the lagging its not fit for purpose. I have a modest pc spec, windows 10 64 bit, 8gb ram, fx6300 and a gtx750ti card though all the games I own run perectly well.  The developers should never have put this game out for sale in its current condition. They must have been fully aware of the problems before release and despite this they decided to cash in. Don't buy until all the issues are resolved. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is powerful yet simple, with extremely versatile tools with minimum elements. You can create complex road, rail, sea and air transportation networks with ease. The visuals are brilliant and the audio adds an extra layer of detail. Historial campaigns are an awesome addition, which serve as great tutorials and can be very challenging if you want to win all the medals. Modding support is awesome, and the community is really helpful.   Yes, there are some elements that could be improved or changed, but the devs listen to the community and try as hard as they can to implement changes when possible, with regular patches fixing bugs and improving gameplay. If you come from another game (e.g. OpenTTD) you might find the mechanics challenging at first as they work somewhat differently. Overall, I think this is a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The maps are way to randomly generated and often you find yourself reloading to get a better map, so you do not have to crosss the entire map twice to get a freight line up and running.   Also I am not a big fan of the way the tracklaying works, the tracks curve way to much if you try and build a long segment from a station, so you have to do it in small increments. You can get it to be in a straight line, if you do not start from a track or a station, but if you do it in small increments, it is still much cheaper, not sure why the thhe price is so much higher when building a long track?  I have spend hours, if not days playing Transport Tycoon, this game makes me miss that game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun but very Buggy. Game crashes so often it is almost unplayable. It's too bad, I really want to like this game.  Do not buy this game unless you have read the community forums and see that the bugs have been fixed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Overall a massive improvement to Train Fever.  A few bugs and minor balance issues, hopefully soon to be dealt with.  The Developer has a good history of improving and supporting their titles over several years.  Well worth the buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I want to play it. However, when I fire it up the whole map is covered in black making it nearly impossible to tell what anything is. Also, the cargo loading is confusing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "AI some why doesnt act smart at all, but hopefully this will be fixed soon.   But game matched all expectation. LOVE THIS! Buy, buy buy buy buy :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Shows potential but unfortunatley is held back by confusing design and performance issues. Maybe wait a few months for the devs to fix it and perhaps buy it on sale but for now, I do not reccommend it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I absolutely LOVE this game!! It's pretty awesome! Yes there are a few bugs but seriously what game out there doesn't have a bug now and again? I would highly recommend this game if you love management and tycoon city type games. While you can't really 'build' a city you can however help it expand which helps you expand. I've played it a handful of times and its a favorite of mine!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome so far, few bugs that I hope they sort out soon",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, it's not a Sid Meier's but it does the trick very well.  Well polished, graphics look nice and tons of mods to come.  Only downside is that there is no opponent AI/Multiplayer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its crashing too much",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Worthy successor for transport tycoon and simutrans. Its not perfect but best transportation game out there. That's huge archieviement for Urban Games. I played Transport Tycoon as a child and Simutrans not so long ago and this game captures that something.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! Watching trainnetwork work like a train is very mesmerising, enjoying and fulfillling to see. Runs like a charm!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "6/10  Pros:  Tycoon Game; Hardcore if you play without saves and want to get all the medals; Up to date Graphics; Voices are cool; Can keep you busy for a long time if you like Tycoon games; Large maps for endless games; Between 1 or 3 bugs.  Con: Not a single enemy No multiplayer Time goes really fast, it's absurd, carriages take 17 days to go round' the corner.  I would give a 10/10 or 9/10 but without AI or multiplayer this is a failure, idk if i can complete the campaing, but will keep me busy for a while.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I do not understand people complaining about how the train lines get the wrong path etc. All those complains sounds more like they haven't fully understood how to play the game. All the tools to make your network work as intented are there. It took me some tutorial videos on youtube to fully understand them but once it's done, you enjoy that 'complexity' (not really complex though).  I have a low-end laptop and didn't have any bug.  To me, this game is a better version of Cities in Motion 2 which I already enjoyed. Seeing your towns grow and become more modern (from pedestrians on paved street to modern cars usage on wide street) is an exciting feature. The goods production chain is excitingly challenging, having you wisely laying down highways to connect your industry and make sure the whole chain doesn't break.  I love the fact that the game doesn't force you toward one way of playing, you can choose to exclusively transport goods or to exclusively focus on passenger transport if you want to. You can only develop a boat (or planes or rail or bus) network and totally ignore the others. That freedom allows you to play many games that feel like complete difference experiences. And once you are familiar with what transport will be soon be unlocked, it helps you better plan your network and adds more depth. And if you want new challenges, simply switch to the other type of map (either European or American) and the transports will be different.  Anyway, endless fun for my coming months (years?)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'll be blunt and as brief is my rambling tendencies will allow: If you liked Train Fever, you'll like this game. If you enjoy managing infrastructure, you'll most likely enjoy this game. However, it's not an easy game by any means. It'll take some trial and error to find out what's most efficient, and making a profit isn't always as simple as 'use the newest vehicles'. You'll have to be a little savvy and rather patient if you want to have success in Transport Fever.  If that sort of thing is up your alley, I strongly recommend the game. If you're the type who'd rather simply relax and enjoy looking at a beautifully connected transport network without having to worry about your bottom line... Well, I still recommend it, there's an option to play the game with all costs set to $0.  But in terms of playing the game 'legitimately', there's no real 'easy mode' to count on. With every bit of knowledge you gain about the game's workings, and every lucky spawn you get in a game, you'll find it easier to make money... but there's a bit of a learning curve, so be ready!  My personal ratings?  Presentation: 9/10 Gameplay: 8/10 Content: 9/10 (by 'content' here I mean replayability and the sheer amount of vehicles in the game) Difficulty Score: 8.5 Enjoyment Score: 9",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Compared to Train Fever, A much better game especially when it used to completely lag out at the start of each month. Plus the fact that you can start in any year when previously you could only start in 1850 till you reached 1900 then 1950 ect.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Train Fever 2.0 - greatly expanded industry, better graphics, new planes and ships, a campaign. If you liked Train Fever, you'll love this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok with 70+ hours in-game time for my review, overall this game is pretty awesome this is my first time playing a transportation management game like this and I'm thoroughly enjoying it, I haven't really noticed any gamebreaking bugs that others in the forum have experienced only some minor ones but they minor enough that I dont really notice them and they don't bother me, as far as performance especially late game i only get minor fps drops and lag spikes and i have a medium spec gaming rig, Devils Canyon i7 quad core 4.0 Ghz 16 Gb RAM Dual Radeon R7 4 Gb Crossfire, and these issues only occur when i zoom in on a city or following a vehicle late game other than that its just fine not bad enough in my opinion to warrant a negative review so I recommend this game 100% especially since the Devs from UG are working with the community to address other known issues with the game and working to fix the problems other players have experienced so thumbs up for them and keep up the good work UG!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok so first off if your looking for challenge or complixity this may not be your game. However if you want to remember what it was like to build train line when you where a little kid with a train set than this game is probably what your looking for. The game is really simple and you'll spend most of your time connecting resources around the map with factories and stores in order to make money. You'll probably start off small but, once you pay off your loan you'll start expanding into trains and air lines. I find the game fun because I love trains, trucks, and air planes and it's neat watching them move around and transport all the goods from around the map. Also the modles are vary well detailed and the graphic are awesome. If you played transportation tycoon back in the day this game is a lot like it. However they took out some of the competition aspect of the game and I really hope they'll add it in later and hopefully more weather effects and a day night cycle. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Though the name changed, this game clearly is the successor of 'Train Fever' by the same studio. The game is based on the same engine and game mechanic and players of Train Fever will find themselves in a familiar situation. However, this game has improved and expanded upon its predecessor in many ways.  There are more vehicles, better graphics, more details, more modding capabilities, more types of transportation, more flexible track and street building, better GUI, Workshop Support, two campaigns complete with modding support for own scenarios, etc... Of course, some of the old problems are not gone completely. Sometimes, strange things may happen that are not always easily explained.  The game offers great capabilities for users to play it the way they like to play it. Starting from hard-on economic decisions down to a 'train set' replacement on PC, every player should be able to find their sweet spot. Modding allows a vast majority of new vehicles, buildings an asset to arrive on the simulated world of every player and leave almost no wish open. Of course, the devs cannot be praised directly for all the modded content. However, the game was developed to be modable right from the start, with many features only implemented to allow modification by the player. This also takes time and is better invested there instead of the devs creating more vehicles for the base game. So, I'm totally happy with the current situation here.  One of the big issues seems to be the performance. I personally do not have bigger problems with bad performance but I can confirm, that Transport Fever is definitely not the smoothest-running game there is ;) I can however see a good improvement of performance compared to Train Fever and I can also confirm first hand, that the devs are continuously improving the performance. Let's see, what the future will bring.   It is hard to write every aspect of the game and my personal pros and cons here in this text. People that now my videos on Youtube now, that I both love and hate this game. I am definitely no 'all-forgiving fanboy' and are well aware of the &gt;not so good&lt; parts of the game. However, when I look at the overall picture, I recommend this game and therefore, I give a 'thumbs up'.  To sum it up: every player that is into transportation games should at least take a look at this title. Transport Fever may not be perfect but it covers a lot and receives constant updates and patches from the devs and features an increasing number of mods in the workshop.     Buy  if you are into transportation games, or just trains, if your want to build your own transportation empire in sweet 3D graphics, are willing to learn to handle the game mechanics and invest time in understanding why things work the way they do (or just use the sandbox mode and be happy with it, which is also possible of course).  Don't buy  if you expect a perfect game without bugs and are expecting everything to be self-explanatory.   One last word: I received this game for free due to attending the closed Beta. In order to support the devs, I bought a second copy on GOG.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pro(+)  -Many Transport unit  -Nice texture   -Dynamic City  -Good Chain of production  -I can wasp while playing this game!  Con(-)  -Need a lot more of optimization ( FPS drop a lot while I drawing a rail line!)  -some annoy bug ( Like I can't upgrade or destroy station because it say ' Collision ' -*- )",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow! What a great game! For those of you who know transport tycoon and Open TTD you will know the core fundimentals of this game reflect the originals. If youre expecting the same amount of AI and the huge number of tools at your disposal you will be misslead. This indeed is a fantastic transport game and it has a much needed new gen look to it than the originals. If you like to build railways and watch your profits grow or manage your own trucking line or even own a multi million dollar air line then this is the game for you!  A list of pros and cons will help i think.  Pros:   The Cargo and demand tree is great. I love how it works. Just like in real life you need to have consumers first before a product can be sold. Very much dependant on the consumers in this game. Make em happy? Make Money! Make em sad... and not so much.  Very nice vehicle models for a 3d game and a good amount of them. In fact i think more than the original transport tycoon and Open.  Good landscape for realistic route planning and tools to modify it. Makes it feel real.   A good game pace for learning the area and how things work early game and a fantastic pace for micromanaging even late game if you feel up to it.  A CAMPAIGN!!!! Not MIssions... A CAMPAIGN! With great voice acting to boot!   The ability for people to mod!!! This game will be great with the amount of content surely to be created!  Train routing (love snap route tracking for multi lines/roads) and signals are so much easier now!!! Its great. Try it.  The Cons:  No overlay for where people are going such as simcity 4 or cities skylines. Would be nice for rout planning.  No option for a depot drop off only. So as to move the goods or people (moreso the goods) to another form of transportation... was bummed about that. Will be testing tho for further insight if it does that automaticly tho.  Pop ups for stats are a bit hodge podge on the screen but managable through manual window snapping.  A bit slow early game but theres always a fast forward button... just saying people... use it.  A lack of Computer AI Opponents. But could be solved by MP or a patch that introduces some age old contenders from throughout the ages.  No gradient tracking aside from ground height realative to the cursor. (easy fix tho im sure)  Ill conclude there for now but overall i see this as a really good successor to many of the other transport games and it is worth a look or play. Everything they had set out to do for it was done! They didnt lie to us (as other recent developing studios have... hello games cough* cough*) and they did deliver.  There is always room for improvement on any game youll play. Thats a given. And based on their community involvment and their game portfolio, im sure they will love to expand on this game. Especially when theres other games that they can learn from and the passionate players that play them. You guys... So be nice, give some slack, a little feedback and most of all thank a game developer for a game that does what its intended to do! No supprises.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great when it doesn't crash. Maybe you should wait for patches if you're on a Mac.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is an amazing game albeit with some release bugs. If you loved any of the other transportation tycoon game like TTD or Simutrans you'll definitely love this. The level of detail is staggering, the reflection of the trains, sounds like the brake squealing from trains will make you like this game.  Pros - Good graphics something rare in this genre - Attention to detail - Making profits is hard and thus challenging - Mod support already looks good - Love the way you can model the terrain while making tracks (If you disagree then you are using the build tool incorrectly, just connecting things end to end is not how to use it) - FUN  Cons - Some bugs during release (Black terrain, crashes etc issues which have workarounds if you look at the discussion page) - Few industry chains to work with - UI can be improved (I hate the window boxes opening at places hiding their close button) - Make stations more flexible/better - Needs more complex signalling for tracks - FPS drops while construction/destruction - Update the model for Airport - Don't like the freight docks and the way they work  Overall I would still recommend this game because the cons are mostly small issue which will eventually be patched up or modded. Definitely buy for people who like Tycoon genre of games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "first thing first this game is extreamly dificult, but is extreamly fun. before you mash the buy button please be warned this game has glitches/ bugs that need to be fixed , also the loading times are long and the game prone to crashing durring loading screens at least it was for me . personaly even with the bugs i whould give this game a 8/10 defintly worth a buy if you like games like train fever or city skylines.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has so much potential, but in its current state I would call it early access at best. So many bugs I really don't know where to start, the game is not stable at all one minute everything is flying along the next it takes 2 minutes to get your cursor from one side of the screen to the other and this is random not just when you do a certain thing.  My advice would be to save your money untill the game is fixed, I wanted to recommend this game as when it does work it is fun, but £20+ for a game that doesn't work properly is not worth it. If the game gets fixed I will change this to a recommend.  Edit. Changed this to a recommend now that the majority of crashes and bugs have been sorted out, well done Dev's.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In the 90s I spent hundreds of hous playing Transport Tycoon, it is probably the game I spent the most amount of time with. Ever. Now, here comes along Transport Fever (I never player Train Fever) and upen viewing the first trailer it immediately felt familiar. Playing this for three days now feels like a time capsule. Only with (of course) far better graphics and sound. They really nailed the feeling of the classic transport simulator. Yes, you can complain a bit about the performance and there are some areas with the UI that could use some polish and optimization but these are minor complaints. But take your time with it and learn how it works before you turn away.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is addicting. After some early frustration with the supply chain system I was ready to toss this one back to the void, but once everything clicked it was awesome. Tutorial doesnt really tell you about much so you are on your own to figure a lot of it out. Really enjoyable, just dont start at 1850...   11/10 would steam engine again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, can be as simple or as complex as you choose to make it. It's quite challenging, and sadly some reviewers are giving it a thumbs down because they don't understand the underlying concepts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An absolute PEACH of a game!  It's telling that I replayed the first level several times just to try out different strategies ... barely scratched the surface and I'm loving it!  This is SURELY the spiritual successor to Railroad Tycoon 3 (with a lot of Transport Tycoon too): Take that game, bring the graphics up to date and add other modes of transport and you have 'Transport Fever'. It even has huge helpings of humour!  RT3 was one of my favourite all time games. There may be elements that TF is missing (I believe there was a company shares dynamic? Perhaps the dev will add this later?) but that's made up for by a huge range of transport options as per Transport Tycoon of old.  The difficulty level is just about right and its quite easy to get carried away and go bankrupt if you extend yourself too much.  Just like TT, once you have got to a certain level of complexity in your network you feel a real sense of creative achievement.  Oh, and I LOVE the TT-esque multiple window interface with fully rendered real time 3D cameras of each unit, brilliant!!  Oh and the voice naration is perfect!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like trains, just get this game. There's calm soothing satisfaction that comes with setting up and watching your rail network just do its thing. Still has the most realistic track building I've seen in a game. You can't just build tracks straight up a mountain, you have to pay attention to slope and turn radius all of which impact the speed of your trains.  To be fair this is more of a refinement of Train Fever, which I spent way too much time playing, rather then an innovative sequel. Transport Fever fixes most of my gripes with its predecessor, while introducing a few new modes of transport. The graphics really look the same, and I suspect theres some optimizations still needed.  My only real gripe is the American Campaign. It doesn't seem like the devs have spent much time in america, as the entire west is protrayed as a giant desert full of outdated, somewhat racist indian jokes and other western stereotypes. The whole connect east and west scenario has already been done to death by earlier railraoding games like Railrood Tycoon anyway.  Euro campaign is off to a great start however and I am Enjoying it.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really fun game with a lot of management working.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would write a review but it is currently being shipped by Air, then land, and finally by sea!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finally a true follow up to Transport Tycoon Deluxe(TTD)! While no game is perfect, I found this experience to be very polished, only some minor performance issues due to the sheer size of the transportation network in the late game era - and this is promised to be adressed in a upcoming performance patch.  The cities has 'npc' cars, people etc to make the cities feel alive, unlike in the old TTD where your trucks where the only vehicles on the roads. I can see myself pouring countless of hours to this game during the years, specially with the steam workshop support!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game i love it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mindless train drivers that won't use other line and instead sit staring at each other coming out of station despite point system and 2 lines between 2 stations for use of only 2 trains. Not to mention Multiple places where they could change line.. shouldnt be to hard to do you would think?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Cities In Motion 3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Picked up game in sale after having it on wishlist for some time. After opening game, it never made it passed any loading screeen. Dont waste money buying a game which crashes on the first screen.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is not fun. It is poorly optimized, and overal just bad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you are looking for a modern take on the likes of TTD/OTTD - then this is what you came for. After some bugs and a few adjustments to balance/UI - this will be the new standard. As Cities Skylines is to Simcity 4.   I have no problem with the price. If you are into this sort of logistics tycoon genre or otherwise enjoy making big train-sets and establishing industry - you'll wring every cents worth out of it no matter what you got it for.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "6/10  -Game is time consuming to get anywhere as you wait years to get money to keep expanding. -Industry resources delivery is less satisfying and IndustryGiant was 10 years ago or RT2. -Boats dont work properly.  With some SteamWorkshop you can expand game time and fun a little, but without major improvement you always get stuck to simple oil routes/food or passenger for cash. Doing the more complex steel-&gt;goods seems useless since city expension doesnt really care or give out bonus for proper supply.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The script for the US campaign uses some language that is probably historically accurate, but is a bit hard on modern ears. I think you can make a game that deals with the uglier things in history, but the player has to be ready for it and it has to have a certain sensibility around it. I think this reflects a style from hollywood movies that may have come out in the 50s or 60s which are now considered pretty cringeworthy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great gameplay, stunning models, and overall just a good game. haven't had any issues except low framerate at times. Overall I recommend to anyone into management/tycoon games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Is more than Train Fever upgrade. Still has some flaws but in general is a good game worth to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't let my steam game hours fool you. I have played this all through the week at any given time i had to test the game out free, my way. I found out by the end of the week I couldn't let go of the game and that was enough proof for me to buy it.  Transport Fever is what I was waiting for ever since I played transport tycoon when I was in primary/grade school wishing for a sequel....it never came, until I stumble upon this release and decided to give it a try.  My conclusion, is that it is not only the best but the most endearing to the first modern revolution of indie gaming that started with transport tycoon, and because of that, it is today's benchmark for indie gaming.  The criteria for indie gaming lies in this game's pros: - Best music (Most people don't know but the secret to profound and impactful indie gaming lies in its ambient sound) - Best interface (Indies or indie gamers play for that casual kickback awesome feel, you do not want to be hampered down by having to learn the interface before you actually make progress in the game) - Best tycoon gameplay mechanics having largely borrowing and owing to transport tycoon's concept and pushing it even further: a) The maintainence cost for your transport assets are now gonna tear a hole in your shallow credit pockets. Oh no, im sure you will definitely end up borrowing a loan...don't take it personally, thats what a tycoon should be made to feel, especially when they are new, not the way transport tycoon did, a linear profit gain that is rigid and uninteresting b) The growing cities and evolving landmarks are finally brought back into an indie tycoon game...why were they never included in any other modern tycoon games to date is beyond my comprehension. Every business decision you make in the game will have an impact on the targeted localities but they are time sensitive, which means precarious building of transport systems are ill advised, they have to not only be gradual but also have to be precise. THAT is what a tycoon should be made to feel to achieve c) Not learning how actual transport system works, like railway lines WILL BE PUNISHING! However, fixing them is not rocket science...its simply high school logic. You'd have to use everything the developers have provided for you in the game buttons and construction options to make your railway lines work the way you want it to without endangering the lives of your employees d) Instead of cardboard papermache graphics, I can actually appreciate my worker for once sitting idly driving the ♥♥♥♥ I ask him to do to gain profit for both of us. Not only that, I can ask him to put on VR cam for me to see through his eyes even when its 1850. Not only that, I can even see the dumb asses who pay me the dough wait for years for a single bus on a single bus stop in a million acre radius. In essence, they pushed the boundary of what transport tycoon gave us in terms of graphics to include a little bit of personality into your tycoonians e) The line manager is a much needed interface add on to the transport tycoon based concept games. It fills a nice cosy tertiary role of keeping your ♥♥♥♥ together or clearing it off quick before it burns your budget - Best Sandbox Every tycoon game should have this...its retardish not to. What makes it the best is the inclusion of all the pros above with the freedom to do whatever you want and POV or follow cam even. Don't expect roller coaster tycoon of course...you want that, go get RCT 3 or something but its nice to have an indie feel in an indie game where you watch your ♥♥♥♥ do stuff whilst you admire the view and let the game progress.  Cons: - It did not offer those neat subcription offer missions in sandbox or free game mode that sort of act like missions in transport tycoon...that's too bad. I would have loved playing free game mode infinitely if I had random missions pop up like, ' Help transport us to that city, we pay you good for a year!' - No multiplayer?!! I mean its transport tycoon! Why would you not want to transport your friends silly side headed passengers and creepy goods?! Just ask your friend to pay up or side track their trains for good! Bahahaha  The cons weren't really a necessity for an indie tycoon game however they were those prestige hallmarks that would have made the game, wait for it.....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It has trains!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "AMAZING, all the developers promised and more!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Having played just over an hour so far I am quite impressed with it, great improvement on Train Fever. Lots more goods to transport.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Extremely addictive, I can't stop playing! Has not crashed once, the only bad point for me is the UI can be a bit annoying with windows popping up all over the place when you click on them and usually off the screen.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great challenging game, Very fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After watching ConflictNerd's gameplay of this game, I was quick to pre-order this. It seems like a Railroad Tycoon-esque game in terms of mechanics such as Produce &gt; Industry &gt; City Supply, which is simple yet rewarding once you manage to set up your first sucessful trade lines.  It does feel from a novice point of view a little confusing at first, with the tutorials being more 'read and do' rather than the game 100% locking you out of features and adding them 1 by 1, kind of like taking your hand, which I feel would of helped me figuring out its mechanics at first, but after a good 10 hours of trial and error and plenty of lets plays on YouTube, i think I have just about figured most of it out.  I have a i kind of beefy computer, which surprised me as I encounter quite heavy FPS drops from time to time, mainly when laying rails. I also however encounter a permenant below 1FPS after a solid 3-4 hours gameplay, but for now thats nothing a quick save and game reload can't fix, so I'm not too worried about this.  So far, I am enjoying the game considerably. Other than the obvious performance issues, I would quite like to see some Cities Skyline type of addition, where you can freely place cosmetic assets to fill an otherwise empty landscape. An extensive map editor would also be an amazing feature.  I love these types of creative games more for the creative aspect rather than the management side of things, so any feature that would make this a possibility would be greatly received.  For now however, a decent 8/10. Awesome work!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game isn't finished yet. It tries to be OpenTTD (Or equivalent) but it just misses some features which degrades the gameplay.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "BUYER BEWARE! I am not one to review games but I had to review this one to try to prevent more people from getting ripped off.  Transport Fever is basically Train Fever that changed its name and started selling again for full price. Seriously play both games side by side and the only difference you will notice is a million times more bugs in the renamed Transport Fever. At best you can say Transport Fever is a a DLC package that cost $35 and only adds airplanes, not counting the 1,000,000 bugs.   About every 10 minutes I encounter a 100% game breaking bug that takes me 20 minutes to find a work around to only repeat the process and that is not an exaggeration. Even alt-tabbing for more than 30 seconds causes the game to slow below 1 FPS until you relaunch. Also the game freezes for about 10 seconds every minute due to a poor autosave mechanic.  I would not recommend anyone to get this game at all or any game made by this developer as repackaging the orginal game with a new name and selling it for more is one of the shadiest things I have seen on steam and you will spend more time trying to get the game to work properly than you will spend playing it.  Looking at how almost every positive review for this game is directly defending another negative review, I would say all the positive reviews are likely paid for.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is so cool, and I extremely excited to play, but I have an issue, can someone explain why I always got crash? I have asus rog GL552VX i7-6700HQ with 4gb rams and GeForce GTX 950M its so smooth in the early game but then always get crash. maximum 5 minutes playing then it crashes pls fix it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Transport Tycoon in 3D, what more could I ask for?  I had a lot of fun with Train Fever but there were some issues and it didn't have as many things to do as transport tycoon or OpenTTD do. Now with Transport Fever there are more industries, planes, ships and even a couple of full campaigns!  Haven't encountered any issues yet and am having the time of my life :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "runs great havent had a crash looks great very fun game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Build a train to deport illegal immigrants with and MAKE MEXICO PAY FOR IT!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good game is there mods",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is really fun but it keeps on going ot low quality when I play. Even when I turn up the quality it stays the same. I don't know if it's a bug but it's very annoying",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "OTTD is better. and free.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you liked Train Fever, you'll like this and vice versa.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The first time i start the game, the language is in Russian. Not a good start, but i'm really a fan of these kind of games and it was easily fixed (steam language of the game).  However after trying to play the game for a while, i continued to have some kind of graphic flickering... it's hard to explain, sometimes just for a millisecond i see a flickering of some kind of object (different each time). It's really annoying, i tried all kind of things with the settings - AA off, HDR off, etc. No effect.  While trying to solve this problem i remember also having the same problem with Train Fever, which i bought some years ago. I don't know anymore if it's still in that game, but it seems like this game has the same problems for me.  Besides that, it really feels unoptimized. You click a button to start a game in the menu, you don't get immediately to the load screen - it just hangs for a while.   Don't get me wrong, this game has a lot of potential. However i fear the problem i described above will never be fixed, and i just can't play it while having all kinds of flickering on the screen.  First time i asked a refund for a game, it's a shame really.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love this game, and I don't even know why. I'll post a better review when I figure it out...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Seems like a game that might be really fun to play but i can't get even 10fps out of this game. Literally unplayable as it stands. Will have to ask for refund. Hopefully they fix this mess and i can try again in the future.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Program not responding is as far as I can get after trying to launch game. If I can't get it going soon I may have to apply for a refund and maybe try again after a few more patches. No recommendations either way.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Love this game. Exelent - even support tripple screens - looks great in 1st person 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It allows you to kill time however I would say it is only worth maybe $9.99 not $35 that they charge for it. This would be one that I would refund if possible.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Trains are fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First minute in game:   -mouse scroll on right side of the screen doesn't work  Close game in order not to waste game time for refund.  Refund pending.    If this bug passed release version then I can only imagine the number of bugs in game...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game worth buying",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not TTD. Plenty of major bugs. Play if you can handle it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is so cool it has time travel. No, seriously. I sat down to play for a few minutes and was teleported many hours into the middle of the night. I figured I'd just finish setting up this last line then go to bed, but noooooo. This game telported me to early morning and I was late for work!  If you loved Train Fever, you're going to have a blast with Transport Fever. If you've played other transport games in the genre, be ready for a different but enjoyable experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Following the path of Train Fever, Transport Fever fixes some of the pain that TF had. If you like games like OpenTTD, Transport Tycoon,Railroads,Cities, etc... you should at least enjoy this latest installment transport games.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  As of Nov. 23, 2016    Transport Fever is an addictive game just like it's predecessor, Train Fever. I lose track of time just about every time I play. BUT, even though it's addictive, it still has a lot of kinks to work out. Let's just get into it shall we....   Pros    LOD has improved from Train Fever   BIGGER MAPS!   customization of vehicles   a more complex industry model   campaigns and tutorials   powerful track/road laying tools   better line management    Cons    clipping issues with planes and ships, and minor clipping in first person   low frame-rate going into late game   some missing textures   (kinda funny) spinning tailfin on the Dornier Do-B Merkur (bug)   stability issues   some campaign maps are buggy   I will edit those bullets as updates come out.  The missions are very unique with real-life history backgrounds, but with a little twist to change it up. Altough I fairly enjoyed the missions, some of them were a little confusing getting past some barriers. Europe Missions 5 &amp; 6 just to name a few. I had to 'cheat' my way through those by means that the devs did not intend. And some of them are also fairly laggy and unstable, but I did not experience any game crashes. Just some stuttering here and there mainly in Europe Mission 6. And mind you, I have a GTX 970 card, AMD FX-6300 (quad core) cpu, and 8gb RAM, so this game should run almost flawlessly.  They really beefed up the prices including the maintenance costs on the trains. You have to be very careful of how you use them. It is not hard to lose a lot of money in this game. (Tip: Passenger service will almost certainly earn you money, that is if you know how to properly set it up)  It will take some experience to get used to the game. Just give it some time and have an open mind when you play. Every game is different, and this one sure is from all the other transport games. If you can't seem to make money, just look up tutorials on YouTube, there are a lot of experienced players out there willing to share their ideas. Colonel Failure to name one of them, has a nice tutorial of how to be successful early on.  It is a true successor to Train Fever, which lacked some features that I'm not going to get into at the moment, you can just read the reviews there to find out more. I would definitely recommend this game, even to new players. The devs will be working out the crashes and stability issues over time. Have patience my friends!   Summary:   Rating: 7.5/10  Despite the clipping and some missing textures and minor stability issues, you can experiene a nice gaming experience which can get you lost in time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Definitely having fun with this game. It has a few rough edges, but overall it's a fun Railroad Tycoon, classic A-Train like management sim. I'd give it an 8/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much better then the First",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love the fact that this game has some historical accuracy, and provides a good challenge to make a decent profit to expand your transportation network. If I were to suggest a way to make things nicer, it would be to allow you to earn different medals on different playthroughs while keeping the old ones. Its extremely difficult to get all the medals in one run. But asides from that, I would gladly recommend this game to people who enjoy transportation and management games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you loved the old Railroad Tycoon games, or SimCity, Cities Skylines or Cities XL, this is the game for you! Take control of your own diverse transport empire, building trains, trucks, busses, trams, planes, pretty much any vehicle to haul cargo or passengers around the map and make your fortune. THis is one of those games you can sink hours and hours into, and the attention to detail and realism blows the mind! One of my favorite things about this game is that it is a transport simulator, not a city builder, so you aren't in control of placing residential and commercial units, but rather in charge of optimizing the transport of passengers and freight. As long as you lay roads in the towns, and do a good job of increasing goods coming into them, they will grow on their own, and it makes for an organic experience that you're involved in, but not totally in control of. This takes away some of the micromanagement aspects of games like Cities Skylines, but gives you tons of freedom to build things the way you want, and influence the growth of towns ina different way. I recommend this game highly to anyone who is a fan of this genre of game, and I feel like the devs are responsive to feedback as well, which is a big bonus. The tutorial could stand to be a bit more in depth, but everything makes sense once you understand it. There are loads of Youtubers making excellent videos on this game, so if you're stuck, that's a resource to take advantage of.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is beautiful and amazing. Certain things in this game are lacking but its still a magnificent piece of work and anyone looking for a good strat/sim game should choose this one! Happily transferred from OPENTTD to this!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome! A bit buggy, but it is getting better with every patch.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An Unpolished Gem.  Transport Fever is an excellent transportation tycoon game but it suffers from a lack of polish and refinement. The User Interface is a prime example. During the campaign - which is a fabulously fun series of missions based on well known historical events and figures - the objectives are listed in a panel on the left hand side of your screen. When you click on a vehicle, its information panel will very often open behind your objectives forcing you to grab the corner of the hidden window and drag it to where you can see what you needed to. Small oversights like this are an irritation but not enough to ruin what is otherwise a very enjoyable tycoon game.   Many of the issues that have been mentioned already have a corresponding mod to fix the problem. Don't like the time-scaling? There's a mod for that. Wish your oil well and oil refinery weren't so very far apart? There's a mod for that too. On top of the dedicated modding community the developers have also pledged themselves to supporting and further refining Transport Fever as time moves on.   Some people have compared this game to Transport Tycoon Deluxe (TTD) but in my experience it has more in common with Sid Meier's Trains (which I rather liked). Some people have also complained that you have to complete supply chains or production will stop; i.e. You can't endlessly deliver logs to a sawmill without shipping the lumber. I find this complaint utterly ridiculous! How many planks will a sawmill pile up in the real world before they say 'We should really sell some of these before we buy another train full of logs...' !?   In summation, I truely believe Transport Fever is an unpolished gem. It is a very enjoyable game in its current state for those willing to put in the work and it holds immense promise for the future due to the continued support of the developer.   If you like tycoon games, trains, transport or struggling through crushing debt until you have your very own $75million to bore a tunnel clear through a mountain to connect the bustling metropolis YOU fueled with industry to the final tiny hamlet nestled high in the mountains...then this game is for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i like alot play 3 days straight only con is the fps drops for me",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A Game for someone: - who loved Train Fever/ wanted a better Train Fever - who loved OpenTTD - who wants to have a Transport Tycoon with a challenge  - who wants to have a Transport Tycoon that looks nice - who wants to have a Transport Tycoon with mods and Steam Workshop  It has its faults and bugs but is overall a very nice and pleasing to look at Game. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Seems a lot like a remake of an old transport tycoon game from years back. But so far, overall I'd have to give it a thumbs up. Smooth graphics and game play. Especially like that it can be modded!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game 13.5 hours ago and have played it 13.5 hours. (Where did that time go?) I actually do know where it went; it was spent completely engrossed on getting the most out of one train line, just one line, consiting of six trains, moving wood to planks to tools to a merchant district. I don't have a lot of experience with transport, farm, or city management games, but I did play City Skylines and I enjoy this game way more. Lastly, I did not run into issues mentioned in other reviews but I'm playing post-'robustness'-patch (Build 12070, November 23).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly recommend this game, I played OpenTTD few years back and this one reminds me of that game. If you liked OpenTTD then you should think about giving this one a change",
+            "review_score": "1"
+        },
+        {
+            "review_text": "We all have played Transport Tycoon. Now we play this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been enjoying this, I love management games and it hits on most of the major points here but I am disappointed with the map generation. Much like Sid Meiers Trains, it just seems to randomely generate resources across the map in ways that don't make sense. Two lumber mills spawn right next to each other and the only forest that spawns on the map is on the other side of the world. It doesn't make sense. I would have also liked the resource assets to blend into the map instead of being visualized as a square plot that is just sort of slapped down at weird angles. The maps just look too random and unrealistic in an otherwise very well visualized game. It kind of kills free mode for me. My only other complaint visually is the quality of the smoke.     ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It took a while to get used to different cargo chain handling than in OpenTTD.  Beautiful graphics, steep learning curve (esp. on higher difficulties).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game, is basicly train fever, but if it was more polished and had more vehicles.   Pros -  New Trains  New Boats New Planes New Trams/Buses Looks nice Better track building  Cons - Trains accelerate too slowely, and they rarely ever reach top speed if its a high top speed.  Trains just flip direction instantly. Theres no stations that are both cargo and passenger. ( even if its not realistic, they mentioned it was possible to make passenger and cargo stations, but yet no one has managed to do it. ) There were curved stations shown in a trailer, but thats only made from mods, and no one has done that yet. even though for some people it would be helpful to have it.  I think that the new update made the game alot better, and its more optimized too!  ( especially the memory leaks, its WAY better now! ) ( Also i can use 12k x 12k maps from this update! )",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't get it to work! Purchased this game and it won't even start up says I need to update graphics when it is fully updated and I can run games such as Arma 3 well that are extremely demanding on PC performance. Do not understand why a game such as this cannot even start up.",
+            "review_score": "-1"
+        }
+    ]
+}

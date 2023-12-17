@@ -1,0 +1,42 @@
+{
+    "app_id": 595960,
+    "name": "Pinball Wicked",
+    "release_date": "2017-10-12",
+    "developer": [
+        "Formslingers"
+    ],
+    "publisher": [
+        "Formslingers"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 53,
+    "negative_ratings": 9,
+    "price": 7.99,
+    "description": "One of the world's most advanced virtual pinball simulations featuring original table #1: Black Flaggers - a pirate’s journey of plundering loot, swashbuckling adventures and cannon wielding foes. Wicked pinball mechanics on a cutting edge engine: the high fidelity pinball experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595960/header.jpg?t=1529577384",
+    "minimum_requirements": "OS: Windows 7 64-bit, Service Pack 1 Processor: Intel CPU Core i3 2100 or equivalent Memory: 4 GB RAM Graphics: Nvidia GTX 460 or equivalent DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX 11 sound device Additional Notes: Medium Settings, 60 FPS @ 1080p",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel CPU Core i5 2500k or equivalent Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970/1060 or equivalent DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX 11 sound device Additional Notes: Wicked / Epic Settings, 60 FPS @ 1080p",
+    "reviews": []
+}

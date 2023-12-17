@@ -1,0 +1,69 @@
+{
+    "app_id": 371010,
+    "name": "Nomad Fleet",
+    "release_date": "2016-04-19",
+    "developer": [
+        "Autarca"
+    ],
+    "publisher": [
+        "Autarca"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 15,
+    "positive_ratings": 102,
+    "negative_ratings": 51,
+    "price": 3.99,
+    "description": "Nomad Fleet is a RTS game where you must lead the last remnants of Mankind to safety after a mysterious alien race has hunted them near extinction. Lead a fully armed fleet of battleships, carriers and fighters through a series of randomized scenarios and encounters where they must fight for their survival while scavenging for resources,...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/371010/header.jpg?t=1510611252",
+    "minimum_requirements": "OS: Windows Vista Processor: Core 2 Duo Processor or equivalent Memory: 4 GB RAM Graphics: 256 MB DX11 Compliant DirectX: Version 11 Storage: 2 GB available space Additional Notes: Provisional specs, feel free to leave me some feedback.",
+    "recommended_requirements": "OS: Windows 7 or 8 64bit Processor: Core i5/i7 or equivalent Memory: 8 GB RAM Graphics: 1 GB DX11 Compliant with PS 3.0 support DirectX: Version 11 Storage: 2 GB available space Additional Notes: Provisional specs, feel free to leave me some feedback.",
+    "reviews": [
+        {
+            "review_text": "Wait for a decent sale. 10 hours tops of game time waiting for you. There are a few gripes: cancelling commands is wonky, slow paced for normal speed and trying to speed up the game in the later parts with the number of units you can make is laggy. Not a bad game but not at 15 bucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Truly a great game. Nomad Fleet is similar to Homeworld, but it is NOT a clone. The best part, is each playthrough is different. There are way too many nuances to mention them here.  So i'll say this: It is FUN and has a high replayability. If you want to know more ask me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid real time strategy game by a single developer. Which is amazing given the quality of the game. A mix between light Homeworld and FTL progression through a map you have to get to the 'other side' of. Sure, it's an indie title, is missing a few things (formations, multiplayer) but if you take it for what it is, and what it's priced at I'm fairly certain you'll enjoy yourself with it. I haven't spent much time with it but not because of the game but because of life and other game releases I've been waiting for for year(s). Support quality indie developers who take feedback into consideration and aren't out to make a quick buck but deliver an experience they'd want to play. You'll get that here. There are a few annoying things though: having to wait for all your ships to come in from far flung corners of map to jump out of system, slow movement around map etc. But nothing major.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A little bit sad really; I was excited given the game's looks and ideas - Homeworld with roguelike elements, of all things!  Unfortunately the game is desperately in need of some more polishing. While it seems stable so far, the interface and gameplay are rough around the edges and lack features I'd personally consider important, like the ability to order craft to escort or guard. Controls and camera could do with reviewing, often feeling sluggish despite fiddling with settings, and doing counterintuitive things. At one stage for instance, I was instructed to switch from the established right clicking to issue a particular order, to using the left mouse button under particular circumstances - minor I know but the sort of peculiar decision can lead to scuppering a set of commands. As for the UI. the most immediate example is a lack of ways to organise selected craft or even a default logic - whatever you select is simply in a long list of icons with no grouping or attempt to order them in any way I could divine.  Further the audio feels rather flat across the board, albeit unoffensive. Except perhaps for response voices, which felt silly and overacted, and became grating rather fast.  Finally the written elements - both narrative and dialogue - could desperately do with going over by an editor. While I didn't see any outright mistakes, the phrasing was often peculiar and clumsy, explanations obtuse, and all around 'People don't talk like that!'  In the end I would call Nomad Fleet a Homeworld clone right down to the UI design - which is no bad thing in and of itself! - with some really nice ideas but lacking many of the features that Homeworld did brilliantly /despite being the first game of its kind/. There's no escort functionality, no formations, let alone the ability to designate wings. Yes, there are control groups, but a game like this - and again, a feature Homeworld had - benefits enormously from the ability to have craft form wings within those control groups rather than operating as a single blob.  So again, a little sad - moreso for feeling I should give a negative to recommending. The game is obviously trying and I almost want to recommend it simply for that but.. well.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Built up my fleet, Humanity loves me as I cross the vast stellar ocean. 2 hours later Xenos ambush me, I take heavy losses but make it out, End up in an asteroid belt with some pirates. I rekt them and build my force up to half of original strength. Next jump Xenos ambush again and rek me. 7/10 Love this game Adama would not be proud of me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Boring and repretetive. Controls are very basic.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was really looking forward to this game as FTL + RTS elements of Homeworld, and the reviews were great. However I was left (quickly) dissapointed.  Pros - controls are fine once yiyu get used ot them - the variety of ships is good as well as the missions that you encounter - rogue type uncertainty is there  Cons - I beat it the first time through after going through the tutorial. Not an issue if there was multiple layers of difficulty but there isn't. - Unlocking of new fleets is interesting but not enough to keep me replaying it. - increasing of the difficulty of the challenges needs better management. When trying to play it with the Hybrid fleet, which I unlocked in my first game, the first couple of missions were brutally difficult, Whereas the first time i played they were a cake walk. Where FTL increases the difficulty as you progress, this does as well but not that well.  Generally couldn't recommend this game.",
+            "review_score": "-1"
+        }
+    ]
+}

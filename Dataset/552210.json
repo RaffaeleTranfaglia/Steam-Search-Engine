@@ -1,0 +1,41 @@
+{
+    "app_id": 552210,
+    "name": "peakvox Route Candle for Steam",
+    "release_date": "2016-12-15",
+    "developer": [
+        "peakvox",
+        "O-TWO inc."
+    ],
+    "publisher": [
+        "peakvox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 9,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.99,
+    "description": "Let's light a candle... it's the beginning of Sparky's great adventure! The Sparky's battlefield is the only 6 x 12 square lattices. Make an efficient route for Sparky in this new challenging puzzle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/552210/header.jpg?t=1496312436",
+    "minimum_requirements": "OS: Windows7 / Windows8 / Windows10 Processor: Core 2 Duo or higher. Athlon 64 or higher Memory: 1 GB RAM Graphics: 128 MB video memory DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

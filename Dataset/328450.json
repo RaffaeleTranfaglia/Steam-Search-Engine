@@ -1,0 +1,46 @@
+{
+    "app_id": 328450,
+    "name": "Deadlock II: Shrine Wars",
+    "release_date": "2014-10-23",
+    "developer": [
+        "Cyberlore Studios, Inc.",
+        "Accolade"
+    ],
+    "publisher": [
+        "Retroism",
+        "Nightdive Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 27,
+    "negative_ratings": 11,
+    "price": 4.99,
+    "description": "Build your empire upon the bodies of others! Deadlock II: Shrine wars is an exciting game of strategy, resource management and military conquest. Take control of one of seven races as you search for the secret power an ancient civilization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/328450/header.jpg?t=1466812344",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 (This product will NOT work in Windows 8) Processor: 1.0 GHz Processor Graphics: 100% DirectX compatible graphics DirectX: Version 7.0 Storage: 800 MB available space Sound Card: 100% DirectX compatible card or onboard sound",
+    "recommended_requirements": "OS: Windows 7 (This product will NOT work in Windows 8) Processor: 1.8 GHz Processor Graphics: 100% DirectX compatible graphics DirectX: Version 7.0 Storage: 800 MB available space Sound Card: 100% DirectX compatible card or onboard sound",
+    "reviews": [
+        {
+            "review_text": "Played the crap out of this game when I was a kid. Really good 4x strategy game. Battles (which are usually the most tedious part of these types of games) are auto-battled, so don't expect dexterity or battle tactics to matter at all, it's mostly about resource management, base building, diplomacy, espionage and tech trees. I still like the tech tree more in this game than in any other I've played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Remember playing this game when I was a kid and was stoked to see it went on sale for a $1.49. Bought and installed, loaded and got a 'Direct Draw Init FAILURE' notification.   To bypass this, simply go to the source folder and locate the Deadlock.exe file. Right-click and under the compatibility tab you will check the box to run it in compatibility mode and set it for a verson of Windows that itsn't Win8 or Win95. All others are okay. Once this is set, run as administrator and it'll work. Now the only problem to get past is the black screen which has to do with the refresh rate.  At this time, I do not recommend buying the game.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 955790,
+    "name": "Breakout",
+    "release_date": "2018-11-09",
+    "developer": [
+        "FinalBit"
+    ],
+    "publisher": [
+        "FinalBit"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Breakout is the low poly, First-Person &quot;the floor is lava&quot; platformer that will prove how good your reflexes really are.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/955790/header.jpg?t=1546875955",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: 2.00 GHz Memory: 4 GB RAM Graphics: Dedicated GPU recommended DirectX: Version 10 Network: Broadband Internet connection Storage: 850 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Memory: 8 GB RAM",
+    "reviews": []
+}

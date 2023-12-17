@@ -1,0 +1,42 @@
+{
+    "app_id": 958320,
+    "name": "A Front Too Far: Normandy",
+    "release_date": "2018-12-20",
+    "developer": [
+        "Marco Amadei"
+    ],
+    "publisher": [
+        "Corvostudio di Amadei Marco"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Violent"
+    ],
+    "achievements": 13,
+    "positive_ratings": 49,
+    "negative_ratings": 23,
+    "price": 4.99,
+    "description": "A World War 2 Game in a Open World RPG Style!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/958320/header.jpg?t=1556458982",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium Memory: 512 MB RAM Graphics: Nvidia gt 730 DirectX: Version 9.0 Storage: 750 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i3 Memory: 1024 MB RAM Graphics: Nvidia gtx 1050 ti DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

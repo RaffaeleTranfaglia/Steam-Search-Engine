@@ -1,0 +1,46 @@
+{
+    "app_id": 524650,
+    "name": "DANGEROUS DUELS",
+    "release_date": "2016-10-26",
+    "developer": [
+        "Sophie Houlden"
+    ],
+    "publisher": [
+        "Sophie Houlden"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "A local multiplayer game for 2-4 players. Only the fastest guns and the fastest on their feet can win!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/524650/header.jpg?t=1547478175",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Additional Notes: Whilst one player can use a keyboard and mouse, gamepads are recommended for all players.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "They didn't even put any movement/aim keys for keyboard. i tryed finding way to aim or look in a differnt direction. it turns out you can't on keyboard this game is useless and unplayable if you have a keyboard only. I really hate when games i find like this saysay full controller support but says no ♥♥♥♥ing thing about if it has functional keyboard usage. Like i said before if you only have keyboard don't buy it.",
+            "review_score": "-1"
+        }
+    ]
+}

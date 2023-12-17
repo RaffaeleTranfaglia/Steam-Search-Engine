@@ -1,0 +1,40 @@
+{
+    "app_id": 448730,
+    "name": "Imhotep, Pyramid Builder",
+    "release_date": "2016-05-06",
+    "developer": [
+        "Game Studio Abraham Stolk Inc."
+    ],
+    "publisher": [
+        "Game Studio Abraham Stolk Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 7,
+    "positive_ratings": 8,
+    "negative_ratings": 4,
+    "price": 5.59,
+    "description": "Do you like watching others do all the work?Cats do!In this unique game (AVX req'd) you plan, direct and oversee the construction of a Pyramid in Ancient Egypt.Organize agriculture, plan the village, direct the building and watch thousands of workers on screen, in real time.Build it, stone by stone!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448730/header.jpg?t=1478239471",
+    "minimum_requirements": "OS: Windows7, 64 Bit only! Processor: Intel Sandy Bridge or newer, AMD Bulldozer or newer (2011+) Memory: 4 GB RAM Graphics: Discrete GPU with OpenGL 3.2 support. Storage: 100 MB available space Sound Card: OpenAL compatible",
+    "recommended_requirements": "OS: Windows7, 64 Bit Processor: Intel Haswell Memory: 8 GB RAM Graphics: nVidia GTX750Ti or faster Storage: 100 MB available space Sound Card: OpenAL compatible",
+    "reviews": []
+}

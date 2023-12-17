@@ -1,0 +1,39 @@
+{
+    "app_id": 499520,
+    "name": "The Turing Test",
+    "release_date": "2016-08-30",
+    "developer": [
+        "Bulkhead Interactive"
+    ],
+    "publisher": [
+        "Square Enix"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Puzzle",
+        "First-Person",
+        "Space"
+    ],
+    "achievements": 15,
+    "positive_ratings": 3012,
+    "negative_ratings": 486,
+    "price": 14.99,
+    "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/499520/header.jpg?t=1550058651",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Core i3 / Athlon 64 X2 6400 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 / ATI Radeon HD 5770 DirectX: Version 11 Storage: 10 GB available space",
+    "recommended_requirements": "OS: Win 7 64bit / Win 8.1 64-bit / Windows 10 Processor: Core i7-920 / A8-3870K or above Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 / ATI Radeon R9 280 or above DirectX: Version 11 Storage: 10 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 790130,
+    "name": "ORE",
+    "release_date": "2018-05-01",
+    "developer": [
+        "Couch Cosmonauts LLC"
+    ],
+    "publisher": [
+        "Couch Cosmonauts LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 27,
+    "positive_ratings": 9,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "ORE is a couch-cooperative twin stick shooter where you and up to three friends must fight through a handful of levels and navigate the planet's varied, alien surface to collect as much ORE as possible before the planet implodes. Defeat the planet’s corrupted Core Wurm, save the planet, and get rich before time runs out!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/790130/header.jpg?t=1525191287",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 8 GB RAM Graphics: Radeon RX 480 Storage: 6 GB available space Additional Notes: Specs recommended based on audience testing.",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 3.4GHz Memory: 16 GB RAM Graphics: NVidia GeForce 1070 Storage: 12 GB available space Additional Notes: Specs recommended for &gt;60 FPS Early Access gameplay",
+    "reviews": []
+}

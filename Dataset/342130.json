@@ -1,0 +1,50 @@
+{
+    "app_id": 342130,
+    "name": "Hashtag Dungeon",
+    "release_date": "2016-06-01",
+    "developer": [
+        "Hitpoint Games Ltd."
+    ],
+    "publisher": [
+        "Hitpoint Games Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 20,
+    "negative_ratings": 10,
+    "price": 1.99,
+    "description": "Hashtag Dungeon is a dungeon crawler with roguelike elements that uses Twitter as its method of dungeon generation! Create dungeons yourself using our built-in dungeon editor and tweet your levels to the world, or venture through levels created by other players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/342130/header.jpg?t=1464867044",
+    "minimum_requirements": "Mínimos: SO: Windows XP Processador: 1.2Ghz+ Memória: 1024 MB de RAM Placa de vídeo: 256MB Armazenamento: 200 MB de espaço disponível Outras observações: This game is locked to 30 frames per second.",
+    "recommended_requirements": "Recomendados: SO: Windows 10 Processador: 2GHz Memória: 2048 MB de RAM Placa de vídeo: 1GB Armazenamento: 500 MB de espaço disponível Outras observações: This game is locked to 30 frames per second.",
+    "reviews": [
+        {
+            "review_text": "  A great little game with huge potential. This retro-style dungeon crawler uses twitter as a medium to create and share game levels. I personally belive this game has a huge amount of playablitly although it can become a little bit grindey whilst you\\'re saving for a new character. Pros .Great sound track and art .endless .innovative  Cons . requires twitter . can become a grind fest",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very interesting concept. Having played the game I like the advancement that is possible. On the negative side though, I dislike that I am able to get stuck on rocks in the middle of the screen (and gold despawning). But overall the game is quite enjoyable. Would love to see an update or two though.",
+            "review_score": "1"
+        }
+    ]
+}

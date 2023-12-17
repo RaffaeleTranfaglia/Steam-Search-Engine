@@ -1,0 +1,40 @@
+{
+    "app_id": 822550,
+    "name": "2DGameManias Taken",
+    "release_date": "2018-05-04",
+    "developer": [
+        "2DGameMania"
+    ],
+    "publisher": [
+        "2DGameMania"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "2DGameManias Taken is a 2.5D retro platform game in which you have been Taken by the unknown and you need to fight your way to freedom.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/822550/header.jpg?t=1528998361",
+    "minimum_requirements": "OS: Windows 7 / Windows 8 / Windows 10 64-bit Only Processor: 3.0 Ghz processor Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 670 or AMD Equivalent DirectX: Version 9.0c Storage: 1300 MB available space",
+    "recommended_requirements": "OS: Windows 7 / Windows 8 / Windows 10 64-bit Only Processor: 3.5Ghz processor Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 1060 with 3GB VRAM DirectX: Version 11 Storage: 1300 MB available space",
+    "reviews": []
+}

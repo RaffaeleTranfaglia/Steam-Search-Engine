@@ -1,0 +1,43 @@
+{
+    "app_id": 586240,
+    "name": "Soul Searching",
+    "release_date": "2017-02-15",
+    "developer": [
+        "Kayabros"
+    ],
+    "publisher": [
+        "Kayabros"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Survival",
+        "Adventure"
+    ],
+    "achievements": 8,
+    "positive_ratings": 163,
+    "negative_ratings": 16,
+    "price": 6.99,
+    "description": "Soul Searching is a narrative survival game about sailing away from your homeland.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586240/header.jpg?t=1518264417",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: CPU: SSE2 instruction set support Memory: 1 GB RAM Graphics: Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: CPU: SSE2 instruction set support Memory: 4 GB RAM Graphics: Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 250 MB available space",
+    "reviews": []
+}

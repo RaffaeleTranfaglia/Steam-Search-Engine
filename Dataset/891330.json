@@ -1,0 +1,42 @@
+{
+    "app_id": 891330,
+    "name": "Fast Dust",
+    "release_date": "2018-08-22",
+    "developer": [
+        "Binary Giants"
+    ],
+    "publisher": [
+        "Binary Giants"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Racing",
+        "Driving"
+    ],
+    "achievements": 16,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 15.49,
+    "description": "Fast Dust is a racing game, cars with character, heavily battered but still have some power under the hood. You have 70 racetracks and drive through the forest, canyon and in the old factory town. Get ready for rain, snow, fog and night drive. Discover shortcuts on the road and win!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/891330/header.jpg?t=1554896209",
+    "minimum_requirements": "OS: Windows 7 (32 or 64bit) Processor: Intel® Core™2 Quad Q9550 or AMD equivalent Memory: 8 GB RAM Graphics: Geforce GTX 460 DirectX: Version 11 Network: Broadband Internet connection Storage: 8 GB available space",
+    "recommended_requirements": "OS: Windows 7 (32 or 64bit), Windows 8, Windows 10 Processor: Intel®  Core™i7 2600 or AMD equivalent Memory: 8 GB RAM Graphics: Geforce GTX 770 DirectX: Version 11 Network: Broadband Internet connection Storage: 8 GB available space",
+    "reviews": []
+}

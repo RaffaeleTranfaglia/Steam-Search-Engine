@@ -1,0 +1,41 @@
+{
+    "app_id": 359420,
+    "name": "The Journeyman Project 1: Pegasus Prime",
+    "release_date": "2017-02-20",
+    "developer": [
+        "Presto Studios"
+    ],
+    "publisher": [
+        "Presto Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 30,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "The Epic Time Travel Adventure Begins! The origin of the acclaimed Journeyman Project series.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/359420/header.jpg?t=1541609132",
+    "minimum_requirements": "OS: Windows XP or later Processor: 1.5 GHz Processor Memory: 512 MB RAM Graphics: 128 MB OpenGL-compatible card Storage: 3 GB available space Additional Notes: Full controller support requires Windows Vista or later.",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 1.8 GHz processor Memory: 1 GB RAM Graphics: 256 MB OpenGL-compatible card Storage: 5 GB available space Additional Notes: May be necessary to disable desktop composition (aka. Aero) for some video cards.",
+    "reviews": []
+}

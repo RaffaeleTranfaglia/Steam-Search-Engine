@@ -1,0 +1,40 @@
+{
+    "app_id": 669660,
+    "name": "Debris",
+    "release_date": "2017-10-23",
+    "developer": [
+        "Moonray Studios"
+    ],
+    "publisher": [
+        "Moonray Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Walking Simulator"
+    ],
+    "achievements": 21,
+    "positive_ratings": 59,
+    "negative_ratings": 26,
+    "price": 15.49,
+    "description": "An atmospheric first-person narrative adventure set in a surreal seascape locked between ice and rock. Following an incident, you and a friend must find power, defeat strange and deadly creatures, and decipher what mysterious forces are attempting to prevent your escape. Escape together or die alone.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/669660/header.jpg?t=1526666368",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 2.3GHz or better Memory: 8 GB RAM Graphics: GTX 760 or higher and AMD R9 270X or higher DirectX: Version 11 Storage: 13 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 665630,
+    "name": "Marble Masters: The Pit",
+    "release_date": "2017-07-18",
+    "developer": [
+        "Polyart Inc."
+    ],
+    "publisher": [
+        "Polyart Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 3,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Do you have what it takes to become a marble master? Destroy the enemy marbles through 50 levels in this challenging physics based action puzzler.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665630/header.jpg?t=1515888007",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 1.8 GHz Processor Memory: 1 GB RAM Graphics: Video card with 512MB of VRAM Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

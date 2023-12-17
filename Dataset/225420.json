@@ -1,0 +1,465 @@
+{
+    "app_id": 225420,
+    "name": "Cities in Motion 2",
+    "release_date": "2013-04-02",
+    "developer": [
+        "Colossal Order Ltd."
+    ],
+    "publisher": [
+        "Paradox Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Management"
+    ],
+    "achievements": 51,
+    "positive_ratings": 1130,
+    "negative_ratings": 873,
+    "price": 14.99,
+    "description": "Cities in Motion 2 is the sequel to the popular mass transit simulation game Cities in Motion. Build, manage and lead your transportation network to provide cities with their ever changing needs. CIM2 introduces new features including multiplayer game modes, day and night cycles, timetables and dynamic cities.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/225420/header.jpg?t=1545338245",
+    "minimum_requirements": "OS:Microsoft Windows XP/Vista/7/8  Processor:2 GHz Dual core Memory:3 GB RAM Graphics:nVIDIA GeForce 8800, 512 MB RAM or ATI Radeon HD 3850, 512 MB RAM DirectX®:9.0 Hard Drive:2 GB HD space Other Requirements:Broadband Internet connection",
+    "recommended_requirements": "OS:: Microsoft Windows 7/8 Processor:3 GHz Quad core Memory:4 GB RAM Graphics:nVIDIA GeForce GTX460, 1 GB RAM or AMD Radeon HD 6850, 1 GB RAM DirectX®:9.0 Hard Drive:2 GB HD space Other Requirements:Broadband Internet connection",
+    "reviews": [
+        {
+            "review_text": "This game is awesome! It has a few quirks, and is artificially difficult in 'normal' mode, but it is still playable, once you learn how to use the Metros.  I tend to play it with my own rule set in sandbox mode, and I use that same ruleset in multiplayer mode with a close friend. As a result, a 'day' lasts six hours! o.O  We enjoy the game for it's challenge, and yet the relaxed atmosphere and pace.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great graphics. It's surprising how much you can zoom and watch the little details in the city. Amazing ideas in this game but the execution is very poor in some areas.  The average speed of a bus is 1.7km/h (in game hours). That means that timetables are practically useless since your night buses will get back to the depot at 3pm since some 9km lines will take 15 hours to finish. I don't understand what the developers were thinking. Is this supposed to be a simulator or not? Why would anyone use a bus that needs 4 hours to take him from his house to his work? What's the purpose of 'rush hour' when buses take 1 hour to reach the first stop and then spend another 3 hours picking up people in the morning that want to go to work. I don't know, time in this game makes NO sense at all. It's an insane oversight that simply ruins the game.  If you use the custom rules you can set the time to run at 3%-4% of the normal rate which brings it to a real time simulation with buses driving around the city as they would in real life, taking the proper amount of time to reach places, and timetables become again useful. But that way, when you run out of money good luck waiting 5+ hours on your computer (with the high speed setting ON in-game) for an in-game week or so to pass so that you can buy a few more kilometers of metro rail. If we had more levels to the 'high speed' buttons this 'custom rules' scheme could actually work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "for reference i also have over 300 hours logged in CiM1  CiM2 is a very different feeling game than the original despite an identical premise. It definitely took me a lot longer to get into.  Cons:  - Steep learning curve. You'll probably fail a few games before you get the hang of identifying profitable routes.  - The default game mechanics make it ultimately almost impossible to fully serve a densely populated city. If you expand too quickly you'll start losing reputation *very* quickly as your vehicles get stuck in traffic jams and your stops fill up with unhappy passengers. Buses and trolleys are difficult to use for mass transit; you'll find yourself forced to use trams a lot, or else build your own bus-only roads.  - More demanding on hardware even on the lowest settings. I had a fairly decent older computer before this one and the game would overheat the cpu on a regular basis.  - Less user friendly in some respects. There's no confirmation before construction or most demolition. Constructed depots and roads take up more space than you would expect and it's easy to cut into the space mapped for city buildings without realizing it, which will cause them to pop out of existence immediately. Save before any renovation projects.  - Some of the randomized tasks are either worded very unclearly or programmed in a buggy way. A lot of the connections need to go both ways; unfortunately, Some won't be recognized even if you do that and I can't figure out what's going on.   Pros:  - CiM 1 was locked to a two-dimensional grid with some canned elevation differences. This game is 100% freeform 3D, with actual hills and valleys and streets curving all over the place. It feels natural, realistic, and alive.   - Higher level of transport simulation. With all your vehicles coming from and returning to depots it feels a lot more realistic.  - Individual and monthly ticket pricing, transit zones, etc. lets you control rider customer experience to an unparallelled degree. Vehicles can return to the same stop multiple times in a route or even loop back around the same route if you so choose. The freedom is yours to design exactly the transit system you want.  - The financial system is easier to track. Loans are simple to understand and repay; the game quickly informs you if your tickets are far too expensive or cheap in real time; there are graphs for every possible purpose you might want to look at. You can tailor your strategy to the situation seamlessly.  - The ability to build your own roads and tramways is *not* to be underestimated. You're not limited by the routes the scenario designer thought you might need. You can bypass high-traffic areas entirely by building a detour.  - Campaigns with a more free-form structure than the original. You can very much choose your own path to success.  - Game mechanics can be adjusted freely, tailoring the experience to what you want. But it only works for sandbox and custom games, not the built-in campaigns.  - That same feeling of almost zen-like relaxation you can get from the first game is definitely present here.   Conclusion: More to wrap your head around than the first game. This one definitely demands more from your mind and your hardware, but it does start to pay dividends eventually. What you'll find here is a very enticing game which offers the freedom to design the transit system you want to run. It's probably not for everyone, but it can definitely be a very enjoyable experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Background: I love city builders and have wanted to try this twist on the genre for quite some time.. and then Humble Bundle comes to the rescue. Have played the base game with none of the expansions.  Impressions: This is such a hard game to give a fair review too.. and it's not that it's a bad game... it just has a frustrating element to seemingly balance out every good one.   The biggest issues are with the tutorial poorly describes the two systems it covers and does very little to prepare you for the deep-end when it finishes. To really play with any degree of success it's essential to watch some tutorials videos online and read some fan sites to get information on just how the transport systems work.   There's so much game play and it's fun to build thriving economies but so frustrating when you cant see why your city is failing or when one poor choice has you scurrying back to the last save you made till you save before placing every single building.  The Good: *Decent graphics and sound, not amazing but more than adequate. *Nice touches like seeing individual people travelling around the network. *A range of transport options that are nicely animated. *Pre-order bonuses are now free in the inbuilt store. *Intelligently connecting lines gives satisfying results. *Growing a city really feels like you are making a difference. *Creating routes requires some thought and the campaign makes you think more as you progress. *Campaign is really fun, if disjointed, as you town hop back-n-fore.  The Bad: *Steep learning curve and terribly inadequate tutorial. *Graphics and sound don't wow you but aren't irritating either. *Despite a range of transport several systems feel too much alike. *Campaign missions are repetitive, boring and lack vital info. *Ticket pricing and wages are lacking depth. *Despite dozens of information windows some feedback just isn't available. *Setting timetables is a chore, even with the copy function. *Building/Stop upgrading is initially confusing. *Very limited modding options, which could have been really fun.  Recommended for: City builders and god game people. Certainly for teenagers as there's little to wow a younger audience.  Conclusion. 7/10. I so badly want to give this an 8/10 but the problems in the base game stop it being as fun as it so nearly was.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros: • Transportation zones • How easily the road network can be modified (Actually even easier than Cities: Skylines, unfortunately it is why I also purchased Cities: Skylines) • Everything transit related can be adjusted and a very real transit simulator  Cons: • Not a full fledged city simulator, however that's not the point of the game  Similar games: OpenTTD, Transport Tycoon Deluxe, SimCity 4, CitiesXL",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you want a game to burn some time? Do you want a game where the point is to ship people from point A to B and back? Do you want a unmoddable, unexpandable(as of now 12/1/13, there are no known expansions other than the monorail.), and generally generic game?   Well, here you go, a city transport game in full 3D with a handful of vehicles to haul people and NO goods or other transport-worthy stuff. However since this game is a people transport game I suppose I can ignore that fact. However I cannot ignore the fact that after you plop the stations and watch the buses go... there is nothing else to do... I have played OTTD (Open Transport Tycoon Deluxe) and I can be on it for hours, mainly due to the fact you have TRAINS. In CiM2 I play with some metros which oversimplify the game generally. Also, you'd have to pay at least $5 more to get a decent amount of trains or verierity, since the regular game has just 2.   This puts me into the main problem of the game, the game lacks a worthwhile amount of content. You get about 11 vehicles in total (14 or so if you preordered like me) and probably 150 props and buildings. Thats it. The devs are working to cram more vehicles, but only if you pay $5 for 5 vehicles. It is unknown if the devs want to make a building pack as well.  Something I can give it credit is its road system, it has a really flexible road system which includes from roads, expressways, and one way roads  Graphics: Odd, the graphics/color sceme might not be for everyone, I had mod it in order to suit my tastes. Modeling and texturing are fair but not world-class.  6/10  Content: As I said before, there isn't much beyond the 150 buildings and props, and the handful of 11 vehicles in the regular version, the DLC adds some 20 more but the cost of that alone can buy the game probably twice.  4/10  Gameplay: Gameplay is well, like it is, you place a line from point A to B, and hope to make as many stops as possible to make more money. It generally thereafter is just making sure you have sufficient vehicles and depots to store them. Making grids with the roads is a hazzard, since the roads don't snap with each other in order to make crossings, thus resulting in you making grids road by road until you have a grid. After all is done and said, there is pretty much nothing else to do.  5/10   Rating:  5/10    My Final Opinion:  Don't buy this at full price, or better yet, buy CiM1, you'd have more fun than this dead end game. Maybe if you wait a year or two maybe the game gets better. Right now, its not worth the $20 (+ $27 DLC).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I never played CiM1, and I only have an hour and a half on this game, but bear with me. This is not a good game in my eyes. It simply isn't. Coming from a guy that is obsessed with Cities: Skylines, this might sound strange, but the game has a terrible tutorial. And I mean a TERRIBLE one. The first time I played the game, I quit in the first 15 minutes out of pure frustration. I suppose setting up bus lines isn't all that bad, but making train tracks or changing timetables is pure torture in this game. Unfortunately, that's all you do in this game.  Combined with the terrible tutorial and thus the severely steep learning curve, this game is not worth buying unless you know EXACTLY what you are doing and enjoy such things. I would give this game a 4.5/10, and would recommend not buying it, even on a sale, unless you are something like a train dispatcher or a road builder. (But check out Cities: Skylines. THAT game is good). Thanks for reading this review. I hope that it helps you save money and spare you from the insanity of timetables.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good fun but fairly limited in scope (obviously I suppose), once you've built a few transport networks one is much the same as the next.  However, there's no autosave and it freezes every couple of hours which means it's actually pretty frustrating to play (other steam games such as KSP, Civ, the GTA series, etc. have no issues on this machine).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Terrible game. If you liked the first part, stick to it. The second part emphazises the simulation, but seems to forget that it is still supposed to be a game that's supposed to be fun. This one is not.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Finally I can make the transit network that I always wanted. As a child I wanted to be a bus driver. My grandfather was a bus driver and I looked up to him. I wanted to be just like him. But one day, my family was taking the bus home. It was being driven by none other than my grandfather. Suddenly, one the wheels bursted into flames. We crashed into an orphanage. Everyone died, including the orphans. I vowed to never to enter a bus again. But now with Cities in Motion 2 I don't have to. -Train Conductor Bruce Willis",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was a surprise ! Honestly, I tried demo version some time ago, but... well, it was a demo, and it lacks a lot of things. So I was not satisfied and banned the game. But then one of my mates from school told me, that this game has actually pretty deep and sofisticated level of simulation, and boy, he convinced me to buy :) And I am GLAD that i bought this one !   My mate was totallt right - this game has madning simulation abstraction ! Everything int the city is an object and everything is in computers memory - I mean really, can you believe that ? Now I am playing in a city with 60 thounsand people, an ALL of them all there ! Even theyr cars are there, everything is alive ! You can track one person and watch his every move in the city ! It is amazing ! And not to mention building actual travel lines. There are buses, troleybuses, trams, subeays and omnibuses, which are something like a bus on the water.   There is not much what I can take as a bad thing in game. Souns are 8/10, soundtrack is 8.5/10 - very fitting and adictive, but quite repetiting, so you mayne will end up with turning it off and playing your onw music instead, althougt I must say that combo of soft techno and soft electro is very fitting and I enjoy it a lot - the core simulation 10/10, putting lines 10/10, well... ok, maybe not for subway. I just CAN NOT figure out how to place subway lines ! Honestly, this is a nightmare for me, and I hope I will figure it out, because my city is crying for these :-)   Well as a result, I will give it 9.5/10, and that 0.5 point down is for subway :-) But it is my fault I guess. Mechanics are smooth, simulation works great, and game can even solve some sorts of glitches that may appear, or when I suddenly delete a station with busses already there :-D I testet it a lot and I am trully satisfied. This game will entertain me for months.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The tutorial in this game is useless, since there's a ton of little annoying things that are not intuitive. But once you know, it works:   You have to delete and rebuild roads to get bus lanes. Trams can have tracks on medians and pedestrian paths, and you have to build the tram station appropriately (in the median or on the side of the road). Metros can be built elevated or underground with the page up/page down key (minimum clearance is 8m, which is two page ups/page downs). Building metro track at elevation zero (0 m) will enable your cursor to snap to metro track stubs. Building a metro track/road curve is like using the pen tool in photoshop: you drop a vertex with left click and you undo the last vertex with right click. Waterbuses cannot navigate through/around terrain, so you have to manually waypoint around those. The metro passenger entry point is that tiny 'teleportation box' that appears on the nearest roadway when you build the station. Tram tracks/Trolley Wires need to be connected through intersections by clicking on the tracks/wires on one side, then clicking on the side you want to connect to. If there's no routable path to the next station, zoom in and inspect the roads for one-way streets and missing intersections. When you delete intersecting roads/metro tracks, the remaining road can still have remnants of an 'intersection' that makes it count as two roads. That 'intersection' can be deleted again to turn the road back into a single piece of road/track.  If you do play multiplayer, PAUSE THE GAME OR SLOW IT DOWN BEFORE DEMOLISHING ANYTHING, and try not to demolish a lot of things in rapid succession. Don't play it on the fastest speed. If you do desync, have one person share their save file with everyone else and overwrite their local saves, then try to rehost the game.  You can adjust the rulesets to do things like make the game speed slower (helpful for big, lagtacular maps) and increase depot size (recommended).  Hopefully reading this makes the game playable, since it's pretty fun once you know all the little things. But then again, I was determined to make it work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game. It has an easy interface and good graphics. What a shame that they did not include the railway station and airports from the original game. Still, it is very much more playable than its older sibling, because there are many add-on, all of which have worked very well for me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Note: This is a review intended for people with the disability called age. Particularly Hyperopia, near-sightedness, the need for reading glasses (almost everyone over the age of 40)  This game is unplayable. Period. I can't finish the tutorial because the font is not scalable and is by default extremely tiny and really ugly. The developers seem to be aware of the problem and there are a lot of people complaining about it on various forums, but they have as yet failed to fix the problem. There has been DLC, there have been patches. And still the game is unplayable. It really is a shame because the first installment was a joy to play. The publishers are missing out because I am a DLC completion idiot. Come on, Paradox, get your whip out and get these developers to fix their game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Cities in Motion 2 from my perspective:  I haven't played the first one, only found out about this game late 2012-early 2013 from youtube! Looked up some videos and found it to be quite fun. Basically all you do is enter a city and make a public transportation system in the city so it could expand and make you even more money. To any person that likes or has liked tycoon games this is for you, it is simple and it will keep you entertained for hours of your time. Also it's easy to learn how to play it, but if you want to master all the tricks you might need quite a few hours in the game!  Definitely recommend it to everyone still thinking about buying it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is great my dog played it and then ran out into traffic 3/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "CIM2 is a fantastic game in which you can create an entire transit system, either following scenarios or in sandbox mode. The game itself is fantastic, and boasts excellent and lively graphics. The game runs very smoothly for me and has never crashed on me, nor has it lagged badly. (Although, don't try this on an under-par computer. It WILL crash then, but it's a high graphic game. What did you expect?)  All in all, I truly enjoy this game. It offers a plethora of playing time, as there is no definite end to the game. I would definitely recommend grabbing it from the store if you have a chance. It's worth it! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It takes a longer time to get used to this than to the original, but after the UI and building is under control the game is overall way better. Well worth it for the people who enjoy manager/building simulations",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, a vast improvement on previous game. You can build ferry, metro, tram, trooley bus and bus lines to connect your city while managing your transport system to cater for rush hours (eg: put on more trains or larger capacity veichals per route) also as it is workshop connected you get loads of great free cities. One other point is that you can build your own cities and download cities with railways etc already built so you just have to put in stops and routes and just manage your system. The only problem is sometimes you have to load it a couple of times for the water to load",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I spent two hours trying to make a trolley line near the end of the tutorial. My roommate came by and made me aware of what I'd missed during all of this time. At this point I had to give up and uninstall the game; if something so fundamental to the gameplay is so glitchy and broken then I'd hate to see everything else.  It does look really nice, though! If they ever fix the game I'd be down to give it another try!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "CIM 1 is good, but this game ruined it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great strategy game one of my favorite games. The game works really smooth never crashed. Make some tram/buslines then build a metro line if you have extra time build the waterbus totally worth buying. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game. As a fan of past games such as the Cities XL series and going as far back as Sim City 4, this game finally delivers the level of road customization I'd expect from a city sim. Although more oriented towards transportation networks, that is more what I have been interested in anyways. I am hoping the next generation fo this game includes more building models and also solve some of the few querks this game has.   Overall, I give this game an 8.5/10.0",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cities in Motion 2 is a great instalment in transportation simulators. The game is very simple and is, though sometimes tedious, very fun. Once you set your transportation empire going the sky is the limit. You can make routes for several public transport vehicles. You can make a bus line (good for short distances). You can make a trolley (looks cool). You can also, my favourite, make a tram line (very simple and fun). There are also metro and waterbus lines, these are very complicated and take a lot of logistics to maintain and plot. Great game and I highly recommend it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a sweet and sour. CiM was somewhat a fun game but lacking a lot in comparisson to Sim City 4 which is the holy grail for this genre. However a lot of these aspects have been improved in the second version of the game. Unfortunately a lot of the aspects have gotten far worse. Lets start with the city size. What is this? Cities counting 50.000 residents with full on highrise downtown? And of course you have to downgrade the people to this size. So we have mainlines with doubledecker busses carrying 30 people every hour? This is a simulation. And the year is 2014. How is it possible that no one has come as far as SC4 with it's regional play? I mean we have games now as vast and complex as GTA 5. A city sim with that kind of size shouldn't be such a big deal. The next thing is the DLC. This is the bigggest crime comitted in the world of gaming right now. You pay 20€ for a notreallyalotmorethanashity game like this. Which includes 5 different vehicles. And then you have to buy each new vehicle? for like 1€ each? That's 20€ easily just to get to a diversity of a city with 30 bus lines and a couple of suburban rail lines. And don't even let me get started on the depots! The busses should not go back to depot after each and every run. Not even trains or trams do that! This concept should be changed! Oh! Let's also not forget the bugs and bad simulator engine which causes flooding of vehicles on lines and sudenly causes a standstill in your city. Why did I even buy this?  People should really start fighting for their right to a good quality games!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really liked the idea of this game when I started playing it: you're responsible for building a public transportation system for a metropolis that'd already created for you (cool-looking cities too). There's an incredible amount of detail for the obsessive and careful, but something as basic and essential as building a bus line is cumbersome, and building a functioning fixed track transport like tram lines is frustrating and overly complicated. I simply gave up after spending an hour trying to set up one tram line. The track was always in the wrong place, you can't really drag the cursor to set up a long track line, meaning you have to build them piece by piece. And then track connections are unreliable, particularly at intersections. I take for granted in games like this that there's a learning curve and there's tricks you need to learn by trial and error to figure out how to do things, but considering the entire game is building a public transportation system, it should have been made easier. Not less complex, but easier to execute.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Avoid this game like the plague i bought this game under the impression it was like TTD it is not, instead it is a lackluster game of routing a bus through a city... and thats if the game registers your routes which most of the time it doesnt  1/10 the worst game ive ever played",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun game until you hit the bug and force you to replay, since reload or selling vehicles wont work.  Most of the time when I play the game, there are always some buses that stuck on the track, even if u were to sell the one that's stuck the next one will stuck at the same place. If you are lucky and doesn't encounter that bug, there's another bug, apparently after a while the station refuses to send out the vehicles,  I really like this game but as it's now the bug just make it frustrating, because if you want to report those bugs you have to register at paradox forum, and my experience with them aren't great either as it takes forever to just register due to the fact that after hitting the send botton it just keep loading and nothing happens....  All in all, untill the bug is fixed, I do not recommended the game to anyone.  Edit: Apparently it's a well known bug 'Hi, this is a known issue and unfortunately there's nothing we can do about it.'. They could atleast have put it up in the description so people are aware before buying it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I LOVE the game.  I have been playing for hours, and hours, but this is the best simulation game ever!  DO YOU like transportation business simulation games?  GET THIS GAME! Its worth the money!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "PIck it up if it is on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very interesting and good-looking game. You will create your own transport company. Very flexible line creation system. Various social groups prefer different types of transport. All people have where to live and where to work. Expert mode could be very challenging.  Map editor is another very interesting part of game. You could create your own city and share it in workshop. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not for newbies and as such I wouldn't recomend it, but if you have experience and enjoy this kind of game it might be for you,  I got this as part of a bundle and decided to try it out since it sounded pretty interesting, but it's turtorial/tips just gave me information without telling me how to use it. It would be nice if the learning curve was more gradual and not something that resembles a reminder for veteran players.  So for the moment I'm gonna leave it and play something else.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Cities in Motion but motionless, nothing really change in a way that I was expected. The tutorial is confusing and repetitive, could have been better. A boring eye candy game. Supposed to be great. What a shame.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "....................../´¯/)  ....................,/¯../  .................../..../  ............./´¯/'...'/´¯¯`·¸  ........../'/.../..../......./¨¯\\  ........('(...´...´.... ¯~/'...')  .........\\.................'...../  ..........''...\\.......... _.·´  ............\\..............(  ..............\\.............\\... Bad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I build a trillion different transit options for my city and tourists hate my guts. So basically it's accurate to real life public transit.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cities in Motion 2 Collection+7 DLC cost me £1.99 fantastic price",
+            "review_score": "1"
+        },
+        {
+            "review_text": "low graphics, poor design, not worth the money",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is somewhat difficult to understand. But i supose if you like games like that with sub-par graphics you should get this",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its a halfway good game, got it as part of a bundle and played it for anough time to come to the conclusion of 6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game however it just doesnt give such a great experience as the first one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "To me Cities in motion 2 presented itself to be competitor to the Sim City series, yet upon playing I realised the core, and only aspect of the game, revolves around public transit management, presented in confusing, bland, repetitive and shortlived gameplay. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great game with some minor bugs, but definitely worth the 20€ mark. If you have interesst in this game, just buy it, you wont regret.  9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is one of the few things a Public Transit Lover like my humble self needs. With a great community and nice city design, it gave me fun for years. Note that it doesn't fit office machines at all. Something from 2013 or later would be the sweet spot in performance for me, I guess. Staying on the technical side, I did get a few softlocks on Windows that could only be resolved by doing CTRL+ALT+DEL and logging out. Everything has its quirks, but if you were ever interested in Public Transit or are looking for an inexpensive metropolis sim, it might just be for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Multiplayer doesn't work",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got it with a humble bundle. Why do they torture me?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "My bridges are much bigger than yours",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What the heck why are you angry for waiting JUST 40 min?  2 days later, the public trans system in my cities got a problem and I waited for a bus for nearly 30 min. I called the major's office.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not a bad game, but not the best one either.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "played for 15mins was annoyingly bad. Just save 20 dollars and don't buy this game  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "WARNING: FAILED THE STEAM INSTALLATION!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "the game is great but it lag way to much you guys have to fix it",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Built a bus stop system throught the town... it gives me a beautiful rating... where are my busses.  Unless you are going to be creating the motion plans for a city I would not recommend this game. Its like Sim City... minus the city building part, and then you just place alot of bus stops and buses to run them. Not that exciting.  4/10  If you want to learn how much work goes into planning the bus schedual for New York city get this game, otherwise not worth the time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "After attempting to play this game for several hours, the game still continues to crash on me without warning or error message. I am on Windows 10 32bit. This is the second time this ocurred for me from Steam and these developers. The first time was with Train Fever where I found I could get nowehre and they had asked me to turn off my AVG which I wasn't prepared to do. Sorry, but I amn over these guys. They have good ideas, but system compataibility and adds such as anti-virus management does not work well.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "very good with some lag ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Performance is not good. Even with settings turned down to give me 60fps, any movement or zooming in/out drops it down to 10-20 until movement ends. Also the interface is very clunky imo. It makes setting up any transit lines a chore, and editing is VERY tedious.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Terrible game. Play the original if you want this type of game. This is basically the original, all your lines are automatic, but for some screwed up reason, ticket prices aren't. So you just spend your whole time getting a big load at the start, building a full map right at the start, then adjusting ticket prices for no real reason.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's like Cities:Skylines, But approximately 1/10th the quality.  If you're considering this game... Go buy cities skylines instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "beautiful. in general it is pretty good,the city size has improved a lot. the in-game editor is nice as well.but i feel it may lose something,which buildings and objects are much fewer than cim1 so that it seems there's fewer details to be real.only thing the game brought to us is a huge city. i hope the cities skyline can fix it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like simulation game, and I love mass transit, then this game is really in my interest. On an urbanistic level, the social class division are nice, and there is lots of detail in this game. I would be the perfect game is the dev had give some attention to the UI and the UX.   For the UI, this game is terrible! It's soo annoying. Every menu, a new pop-up window appear, if closed, the remaing window doesn't reorder. I can seam picky,. but that's just on detail almong many bug. Because they are bug, they are really bad behavior and Colossal didn't fix it because it was too much money, not enought profit.   And then the UX, It's quite nice to do line, and I must admit that I got pleasure planning my line. The road creation is nice, really advanced. But they miss completly the relation between time and vehicule speed. 11km can take 8 hour for tram, without traffic. What's the point? I is faster to walk. This can be ok because it's a simulation. But they included timetable. How to you want to manage 'real time' with vehicule take a whole day to do a circuit. They is a limit to say 'it's a simulation'. Even a simulation need to be coherent.  Then I think this game got really good base, and the principle is nice, but there is an evident lack of caring about the gamer. That's an unfinished game, and they offer no update. That's bad to pay for that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not my cup of tea",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not a great city builder game - compared to the likes of SimCity 300 or the latests Sim City, it feels quite lacking.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you really want more, just buy Cities: Skylines.   Overall, this game is ok, but Cities: Skylines outdoes this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Once you get the controls down it is a very addicting game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game made me ♥♥♥ 2 times in 5 minutes!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So looking for a good sim city type game? NOPE MORE TRANSPORTATION",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  *Got this game for free. Well, management games are just not my style, not to mention its all about transporting stuff (i only did the tutorial) Yea building bus stops in a wasteland jungle, wasted 1hr of my precious laifu. To those who are figuring to buy this game or not :- 1. You love management games? 50/50 since the review on this game isn't really positive. 2. Those who never played/doesnt play management games (like me), its a no go bruh.   After posting this review, Right clicks on this game ---&gt; le uninstalls ---&gt; back to dota and csgo     ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Well, I finally got this working and I can see where it was going, but there are a few things that hampered the dream. The controls are a bit tedious, but it is a excellent game otherwise. Thanks for reading, now buy the thing! Pika.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i think its boring. more for old people.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I recently purchased this game, clicked 'Play' and it will not load, I can play almost any game from steam and it will play but this game just gives me a white box and crashes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I want to recommend this game, I really do, but sadly I can't! :-(  The concept is good, the basic implementation is promising, the framework is good, but the overall product just falls short of what it should be. Worse than that, it falls short in incredibly frustrating and game-breaking ways. There are fundamental problems with the AI which cause your transport networks to grind to a halt in highly unrealistic ways. Basically, there's a variety of bugs in it, some subtle, others less subtle, and the net result just stops it being fun to play.  The above wouldn't be so much of an issue, if Colossal Order (the developers) had not basically given up on CIM2 and moved on to their next project. There seems to be very little hope of the problems being addressed.  Reluctantly, DO NOT BUY!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "City simulator, ibne melih gökçek should play this",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I once recommended this game, but I no longer do. Why because the publisher has yet to fix some game breaking problems. Untill they do, which I doubt they will, I suggest giving it a miss. You'll invest quite a number of hours and then find out your painted into a corner by game design and can't get out.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "After playing CIM2 for several hours, i have to say it‘s a game that brings a lot of fun. I like the the beautiful cities, fine texture, it looks pretty cool. I have‘t tried the multiplayer mode yet. I really wish there could be computer-players in single-player mode for those who can't play online mode.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lurning curve is harder then cim 1 but overall a great game if you like mass transit games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this one of the best simulation games if you play it on a large map from the editor and then in sandbox. I have never played the missions but if you can design your own city from the first building it is a really addictiing experience, because the simulation , especially of the traffic system is so realistic , and the scenery is awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was entirely incomprehensible to me. I couldn't work out how to place anything, even with the tutorial.  If you want a game with good transport, just get Cities: Skylines.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Maybe I'm just weird, but I've gotten hours upon hours of delight from this game. The ONLY thing I would change is to add the ability to upgrade roads without having to destroy and rebuild them, and the option to choose which lane is your bus-only lane (painting tool, developers?)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cities in Motion 2 is a worthy successor in all regards. The city is now 3D and can be tilted in any direction. Most importantly the city development is now dynamic so less easy to predict and it also doesn't get quickly too boring unlike the first part where you basically repeated the same steps over and over again for the same result. The interface has been improved immensely and it's quite a lot of fun to develop the transit system. On top of that CiM2 was quite cheap, compared to the first part, however it comes with its downsides.  Yes, CiM2 is much cheaper (about half the price of its predecessor) however time is now being calculated in weeks and not in years anymore. As a result period vehicles have been abandoned and you are stuck with the vehicles you get from the beginning (3 busses, 2 trams, 3 trolleys, 2 waterbusses and 1 metro, as far as I remember). Everything else is DLC content, though quite surprisingly not all as expensive as with CiM1 (I probably was just lucky as everything but the bus/tram pack was on offer).  CiM2 obviously - who would have expected - comes with quite some bugs (as the first one did), most importanly, it has a multiplayer, but we couldn't get it to work. We had to bypass the multiplayer problems by using Hamachi. Obviously not a solution. Many tiny but annoying issues with the interface, i.e. going underground still shows the overground streets, as a result a metro track under a street is basically unclickable. The usability suffers a bit, however has still greatly improved. Another issue seems to be the dynamic growth of the city, as sometimes three or more buildings of the same type are put right next to each other, which doesn't necessarily make sense (3 opera houses in the middle of the industrial zone).   A massive improvement is the fact, that streets can be built, especially streets with bus lanes and many many more options which greatly improves the way you can build your tracks. This includes bridges and tunnels, metro now looks like the CiM1 train tracks and can be build over- and underground by simply using PAGE UP and PAGE DOWN, entrances for the stations are build automaticaly and off you go watching the people walking around like crazy popping out from one stop into the next one.   Everyone who liked CiM1 should definitely get CiM2, despite the hickups and bugs and little annoyances - it's a great game. And though you might say 'damn DLC' - the game can be played without the DLCs. Yes it's nice to have a choice of 2 metros instead of one, but in the end, you don't need it. Tell the game to send out a subway every 10mins instead of every 30min and you can compensate for the heavy usage. If you still would like to have the DLCs, check Steam for sales (only Bus DLC at the moment) or currently the other vehicles (Tram DLC, Waterbus and Trolley DLC) are cheaper in the Paradox store (however, you need to use Steam Wallet for that, which ones more makes nore sense, but they promised to make the rest of the DLCs available in Steam asap as well).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Must have item from Paradox Publisher,, You'll know how to manage transportation.. Play it and you'll become the Minister of Transportation.. :))  4.3/5",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like it for the city building options (which is the only reason this gets a YES recommendation), the running a transit line gets boring after a while as the options they give you are limiting. It would be nice to have options like better buses, trams. You cannot even download this stuff for a cost and there have been very few updates that are worth while in buying over the last bit. A shame as it is a good game, and to be honest, I like the sandbox mode where you can build your own city, if they have a drive in your own city like Sim City 4 Rushhour did would make it a good city building game (well besides the fact that many of the buildings look the same). Either way a great city building game (yes I know it is a transportation game, that part needs work, simple work if you ask me, just give us a DLC option to invest in bus/tram options like better buses/trams etc...)  7.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've played many tycoon games. I like this game and finished the campaign for it. It's not difficult to win once you get a feel for what the different transport types can support and how to space them out to give good service(hint: try following a grid, &lt;5 minutes round trip for any one line). It can be very relaxing, even when you're doing poorly, and there are plenty of options for setting up a complex network even without the DLC additions.  I have two issues with the game:  The first is that track and stop placement can be tedious and error-prone, depending on which type of transit you're working with. Although the majority of the time, you want your tram and trolley lines(which are built at street level) to either continue straight ahead or take a 90-degree bend, you have to carefully click each road segment and scroll each time, which, combined with the low visibility of these constructions, almost guarantees that you mess up and fail to link one of the segments and then have to go back and debug it when the game tells you the route can't reach a stop. There is no tool to simplify this construction phase, even though the game can adequately plan the entire route for you when you use buses on existing roads - so you may spend a LOT of time squinting and clicking. Similarly, when building underground roads or metro lines, there is no way to view through the roads, which means that when you go to add stops, you have to either work extremely hard to position the camera to see through a road, build around the road, or tear up the road and add it again.   A lazy player is going to want to build only buses, watertaxis and underground metros that consciously avoid overlapping the road.  The second problem is with the city growth model. To induce growth, all a player has to do is build new roads with sidewalks, and improve overall transit service. The player doesn't get any control over what types of zones appear, even though they're relevant to decisions about transit scheduling and peak service. This makes city growth feel very 'one size fits all' - the growth is generic so you have to build generically - and since you can add roads anywhere that the terrain will fit, the simplest growth strategy is rinse-and-repeat: build a new metro line, and build roads on top of it. When I discovered this it detracted from any sense of individual character amongst cities. Growth can be turned off, at the expense of making the game feel more like a static 'fill in the blanks' exercise.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much more options to build buildings/roads/transportation than the original Cities in Motion! While I still believe there's much more to improve/change in the game controls, most of the issues/limitations I had in the original CiM has been addressed in 2. I don't really have much more to say other than the fact that I LOVE this game and 2 is a HUGE improvement over the original in almost every aspect.  My score: 9/10   (Note that this is a personal score, and it is not based on some strict analysis or a formula. Depending on the player, you may find managing public transportation as a game to be very boring or frustrating.)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I guess it's a fun game if you're into the genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Many hours of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not what i was expecting.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you got a lot of time, and like planning, ths is the game for you!  This game prowides you with hard tasks where lots of thinking is requierd.   Try making your city streetcar intertwine wiht the allredy ful streets with gridlock and what more?  Try it out yourself, and you'll see how hard and fun it can be!  gl hf ! ;D ;D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game. Running on linux like a charm.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even if you're not a fan of the transport simulation subgenre, CiM2 will keep you entertained for hours with its city builder aspect. I've never found any game in which you can create such detailed road and rail networks (including highways). If you like creating cities, well this one is a must have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would not reccomend this game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not all that much fun",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The UI is not user friendly at all. After spending half an hour in the tutorial which failed to work I was able to start a campaign only to be disappointed by the lacking UI and ability to make the transit systems work correctly. Even on guided quests the game would path incorrectly making it nearly impossible to finish quests. Overall I would probably play it again to try to fight with the game but I would not tell others to spend money on this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "not exactly what i was looking for but i guess thats my fault but still dont know how it would be enjoyable",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Kinda fun. Protip: don't delete the bridges in an effort to get people stuck on islands. It's REALLYYYYYYYYYY expensive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would NOT RECOMMEND THIS GAME AT ALL. As a huge fan of the original Cities in Motion (600+ hours played), the gameplay on CIM2 is absolutely awful, it is so annoying moving around the map using the keyboard, the cities are boring - just clusters of development with nothing in between, plus they are named 'Central City', 'East City' (where is the imagination??). There are some good new features - timetabling, depots, building roads etc. - but they spent so much time on those that they forgot about the core of the game. The game feels very arcade like. VERY disappointed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game isnt that bad but its my fault I didnt read the description of the game 'TRANSIT SIMULATIOR' Unlike the last game you cant build cities. :(",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I cannot recommend this game in its current state (July 2014). There are too few vehicles in the base game and it crashes all the time. Also I get bugs showing campaign conditions haven't been met even when they have. I love this game when it actually works properly, but it doesn't most of the time :(",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This can be a Extremely fun game somehow. 1/4 of my play time is spent crashing however",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game and i so fun to download complex maps on the workshop and try to build a stable transport system. Its also really good to make your own maps but what people expect this game to be is a game like sim city when its nothing like it. Its purely a game to make your own transport system and cope with he increasing population of the city.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have spent 600+ Hours on this game and I think that speaks for itself.   The Game is bloody brilliant ... Anyway must go I have passengers to transport !!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This isn't a city builder game. You can expand your city but other than that it is just about creating tram/bus/boat lines. It is fun if you have nothing else to do. This game has nice maps, atmosphere and it is very interesting and good looking.  Cities: Skylines... now that is something to check out if you are into city builder games, it is made by the same developers.   Hehe... the people in my city don't like that everything (tram lines etc) is a mess. Everything is all over the place. By hearing that I know I am doing something right.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this in a bundle a long time ago I'm pretty sure and I just played it for the first time. I went through the entire tutorial and all you do is find where tracks and routes can fit and take out loans on loans to build them.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice transport simulator with beautiful graphics and deep enviroment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great game with a massive variety of ways to play. One of the best map creators and a great in game experience. Takes time to get used to but great once you get it.",
+            "review_score": "1"
+        }
+    ]
+}

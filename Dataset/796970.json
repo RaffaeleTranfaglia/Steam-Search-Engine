@@ -1,0 +1,37 @@
+{
+    "app_id": 796970,
+    "name": "VR Soccer Training",
+    "release_date": "2018-03-20",
+    "developer": [
+        "Digitalzone"
+    ],
+    "publisher": [
+        "Digitalzone"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "Must be connect Kinect and Oculus and play. When you are ready to play, please enjoy the VR Soccer Training!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/796970/header.jpg?t=1522655564",
+    "minimum_requirements": "OS: Windows 8 Processor: Intel i5-4590 Memory: 16 GB RAM Graphics: GeForce GTX 970 DirectX: Version 11 Additional Notes: Connect Kinect and Oculus",
+    "recommended_requirements": null,
+    "reviews": []
+}

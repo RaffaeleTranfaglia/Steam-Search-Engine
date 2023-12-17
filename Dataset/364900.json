@@ -1,0 +1,48 @@
+{
+    "app_id": 364900,
+    "name": "Red Bit Ninja",
+    "release_date": "2015-04-30",
+    "developer": [
+        "Seven Sails Games"
+    ],
+    "publisher": [
+        "Seven Sails Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Platformer"
+    ],
+    "achievements": 14,
+    "positive_ratings": 7,
+    "negative_ratings": 21,
+    "price": 3.99,
+    "description": "Red Bit Ninja is an old school platformer with a rope climbing physic and difficulty of the good old times. It features classic pixel art, hair pulling levels and five mean bosses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364900/header.jpg?t=1509367859",
+    "minimum_requirements": "OS: XP Processor: 1Ghz Memory: 512 MB RAM DirectX: Version 9.0 Storage: 256 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "TL:DR, it's going in my uninstalled forever category  first off, it is locked to about 640x480 full screen. you can go into the options menu and change it to windowed, but that requires a restart. so i did that. open it and i can barely see the game on my 2560x1440 monitor. click on how to play in the menu, you'd think it's a tutorial. all it says in this mini level is collect the coins. you have to press buttons until you figure out what does what. (space to jump, space again to shoot grappling hook, arrows for movement) then it opens a portal, again figure out how to go through it, because the game doesn't say.  oh and i forgot to mention, it went full screen again as soon as you play, so windowed mode only means for the menu i guess?  so i go to play the first level. fairly basic platforming style level. i died abut 6 times on level 1. hidden surprise traps, and the sprite for your character and the sprites for the traps are actually larger than the pixels of those things. so you have to have quite a buffer away from the dangers or you'll instantly die, restart level. after restarting level 1 6 times, i got through it. level 2. i died...i don't know how many times, until I gave up.  it's not that the levels are designed in such a way as to be entirely unfair, except sometimes it's clearly made to be particularly difficult, but the controls are so wonky. and combine that with the buffer zone i mentioned, makes it more difficult than it needs to be.  the artwork is mediocre. not horrible, i've seen worse. same can be said for the music. meh.  about the only thing I had fun with was getting a good circular spin going with the grappling hook. you can really get going fast!  if I were to rate all the games i've played (I have over 550 and played around 25% of them to some degree), this one is...at least better than GearCrank Arena. But I don't think ive played one worse than this otherwise.  EDIT: I played some more and realized that you can go up and down on the grappling hook, so glad i didn't learn that in the non-tutorial. ♥♥♥♥ you level 4. I ended up giving up and realizing my time was worth more than this game on level 6. Saw other reviews say that if you die on the first boss you go all the way back to 1-1, so again, ♥♥♥♥ the devs on that. stupid ♥♥♥♥♥♥♥t.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A lot of the previous reviewers' gripes have been addressed. The windowed mode thing and the tutorial thing. My xbox 360 controller works fine with the game.   Unfortunately that leaves me to gripe about the actual gameplay. Not feeling it. Sorry, but it's floaty garbage. It is what I imagine homemade soap would be like if you never made soap before. Not really enjoyable.",
+            "review_score": "-1"
+        }
+    ]
+}

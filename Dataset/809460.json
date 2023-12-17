@@ -1,0 +1,37 @@
+{
+    "app_id": 809460,
+    "name": "Earth Muncher",
+    "release_date": "2018-04-20",
+    "developer": [
+        "Odd Ocelot Games"
+    ],
+    "publisher": [
+        "Odd Ocelot Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Equal parts Arcade and brain-teaser, play as Norm the Earthworm and collect as much treasure as you can without getting taken out by baddies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809460/header.jpg?t=1538970675",
+    "minimum_requirements": "OS: Windows 7 Memory: 1 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

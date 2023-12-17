@@ -1,0 +1,40 @@
+{
+    "app_id": 886520,
+    "name": "HopeLine",
+    "release_date": "2019-03-28",
+    "developer": [
+        "DHH Game"
+    ],
+    "publisher": [
+        "DHH Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op"
+    ],
+    "genres": [
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Massively Multiplayer",
+        "Survival"
+    ],
+    "achievements": 0,
+    "positive_ratings": 62,
+    "negative_ratings": 34,
+    "price": 5.34,
+    "description": "HopeLine is a classic theme of survival games. you need to overcome struggles such as hunger, thirst and cold,And encounter beasts and zombies. Make a fire,Build shelters. Kill animals for meat, Or you need to kill other players to protect yourself. Do everything possible to survive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/886520/header.jpg?t=1553937492",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel i3-4170 Memory: 4 GB RAM Graphics: GTX750ti DirectX: Version 9.0 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel i5-7500 Memory: 8 GB RAM Graphics: GTX1060 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

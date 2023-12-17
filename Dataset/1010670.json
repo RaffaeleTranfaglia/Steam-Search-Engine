@@ -1,0 +1,36 @@
+{
+    "app_id": 1010670,
+    "name": "Dungeon Dreams",
+    "release_date": "2019-02-20",
+    "developer": [
+        "DDreams Games"
+    ],
+    "publisher": [
+        "DDreams Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Anime",
+        "Fantasy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 50,
+    "negative_ratings": 2,
+    "price": 8.29,
+    "description": "Roguelike Romance JRPG. Customize your characters, take open-ended quests and write your own story in the town of Ecallia. A game with town building, dating and life sim elements, but also a randomly generated Dungeon with lots of companions and loot!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1010670/header.jpg?t=1554965795",
+    "minimum_requirements": "OS: Microsoft® Windows® 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 4 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+    "reviews": []
+}

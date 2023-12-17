@@ -1,0 +1,52 @@
+{
+    "app_id": 381130,
+    "name": "Karma",
+    "release_date": "2015-07-14",
+    "developer": [
+        "WnMStudio"
+    ],
+    "publisher": [
+        "WnMStudio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 15,
+    "positive_ratings": 11,
+    "negative_ratings": 29,
+    "price": 0.79,
+    "description": "A life-sim game with a story which is difficult to understand. Live and find the truth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/381130/header.jpg?t=1447376732",
+    "minimum_requirements": "OS: Windows XP Processor: 1.6 Ghz Memory: 512 MB RAM Graphics: 128MB graphic memory DirectX: Version 9.0c Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.1 Ghz Memory: 1 GB RAM Graphics: 512MB graphic memory DirectX: Version 11 Storage: 512 MB available space",
+    "reviews": [
+        {
+            "review_text": "I emphatically advise you to avoid this game. Even if you get it for free, it is a waste of your time.  This review contains minor spoilers, but nothing you can't rapidly discover yourself.  Here is a breakdown.  There are nine pieces of art in this game. One animated main game screen. One hacking image. Seven ending images.  You will spend 99% of the game on a single screen, which has a few menus. You will spend most of that time staring at a progress bar at the bottom of the screen, which indicates work or chat progress. Occasionally you will look at studying progress instead, or at the studying tree when you need to pick a new project. You will look at your money and stress counters.  There are no instructions. There are plenty of typos, but you will quickly learn to overlook them because they are the least of the game's problems.  There is an unlockable hacking option, which merely tells you if you succeed or fail. There is a chat option which involves staring at a progress bar while being treated to incoherent and looping dialogue. There are rewards for chatting, which include increased living expenses and additional alimony payments for your mother (a bug reported on the forums but not fixed). One of the more common ones is a money reward that vastly eclipses anything you can earn yourself (at least until endgame). There is a shop that does not tell you how much things cost until you can afford them.  Pursuing one branch of study, with long research times even with every available speed bonus, will progress the main story by giving you brief pieces of text. When you reach the end, you will be treated to a likewise brief, predictable ending which contains most of the artwork in the game.  Once you have grasped/unlocked the basic systems early on, there is nothing left to do but perform research and unlock new options which are like old options but with better numbers.  The overall feel is that of an idle game, except that it cannot be played as one. At the end of every day it is paused by a summary screen, and activities must be selected anew every time. Some are only available in the afternoon or evening, and must be clicked on before the timer (pausable only by entering certain menus) scrolls you past them.  I finished the game in three hours. I regret it.  If this review sounds dry and lifeless, then I have succeded in conveying the overall feel of the game.  Avoid unless you are a compulsive achievement hunter. Even then, bring a book or be prepared to alt-tab out into something more interesting on a regular basis.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I've got this trash as part of bundle so i'm completely unbiased. All i can say is that steam needs a quality control.  PS. The game dumps achievements all at once when you quit the game. This will be a reason to ban you on astats :)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  A really badly designed idle game with no redeeming features. Not worth $0. You can play many better idle games on Kongregate for $0, and you shouldn't play those either.",
+            "review_score": "-1"
+        }
+    ]
+}

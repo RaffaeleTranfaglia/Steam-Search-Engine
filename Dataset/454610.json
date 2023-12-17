@@ -1,0 +1,46 @@
+{
+    "app_id": 454610,
+    "name": "Demon's Crystals",
+    "release_date": "2016-04-21",
+    "developer": [
+        "Byte4Games",
+        "Byte4games SL."
+    ],
+    "publisher": [
+        "BadLand Publishing"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 28,
+    "positive_ratings": 35,
+    "negative_ratings": 16,
+    "price": 3.99,
+    "description": "Demon's Crystals is a frenetic twin stick shooter where you guide the Urican demons through countless hazards in order to restore peace to the world. A variety of weapons and power-ups will help you defeat the massive enemy hordes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/454610/header.jpg?t=1528794242",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 1.5GHz processor Memory: 1 GB RAM Graphics: DX9 - 256MB VRAM DirectX: Version 9.0 Storage: 410 MB available space",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2GHz processor dual core Memory: 2 GB RAM Graphics: DX9 - 512MB VRAM DirectX: Version 9.0 Storage: 410 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,60 @@
+{
+    "app_id": 428800,
+    "name": "liteCam Game 5:  120 FPS Game Capture + Streamer",
+    "release_date": "2015-12-18",
+    "developer": [
+        "Rsupport Inc."
+    ],
+    "publisher": [
+        "Rsupport Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Captions available"
+    ],
+    "genres": [
+        "Audio Production",
+        "Education",
+        "Software Training",
+        "Video Production",
+        "Web Publishing"
+    ],
+    "tags": [
+        "Video Production",
+        "Audio Production",
+        "Education"
+    ],
+    "achievements": 0,
+    "positive_ratings": 41,
+    "negative_ratings": 53,
+    "price": 14.99,
+    "description": "‘liteCam Game: 120 FPS Game Capture’ is a next-gen game recorder and Live Streaming software for Steam users. liteCam Game 5.0 has a minimal impact on game performance while recording at up to 120 FPS and Live Streaming directly to Twitch or Youtube!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/428800/header.jpg?t=1450463406",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 and 10 Processor: 2GHz Dual-Core CPU or Better Memory: 2 GB RAM Graphics: 512MB video memory with DirectX 9/WDDM Driver Support Storage: 5 GB available space Sound Card: Support for full-duplexing required Additional Notes: Windows 2000 is not supported.",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8 and 10 Processor: 2GHz Dual-Core CPU or Better Memory: 4 GB RAM Graphics: 1GB video memory with DirectX 9/WDDM Driver Support Storage: 25 GB available space Sound Card: Support for full-duplexing required Additional Notes: Windows 2000 is not supported.",
+    "reviews": [
+        {
+            "review_text": "Buying this app you will actually buy support(but it doesn't work, spoilers, sorry) for previous app, because there are not many changes between them -- devs added some useless fancy UI. Reduce lagging on game is still in beta and they increased cap for framerate that anyway noone will use. Will test further with games I was not able to record or reported bugs for previous version of this software and add here if anything changed.  Its just frustrating.  Edit: 1. it seems they fixed double-cursor problem. Previously when recording an area in some games you may see two cursors recorded. I found this fixed when trying Galcon Fusion game. 2. Big fix comparingly to previous version(it would not exist if previous version was done properly) is that in case of game crash video file will not be broken and liteCam 5 usually properly stops recording.  PS.: Some time ago I've bought D3DGear and it completely satisfies me except it sometimes cannot record old games -- I must admit, liteCam might be handy with such games(tried to record Legacy of Kain series). Also recently I've tried their streaming capabilities with livecoding.tv(desktop recording) and it didn't work at all. Also there are not much of streaming configuration options if compare to other, even free tools.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Really? It sucks ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I've used this program a few times and while recording I noticed in the playback that the audio was off by half a minute to a full minute and the frames dropped so many times that I've stopped using it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "i love it thank u ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How do i get my micrphone to work with this software?",
+            "review_score": "1"
+        }
+    ]
+}

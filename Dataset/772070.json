@@ -1,0 +1,43 @@
+{
+    "app_id": 772070,
+    "name": "Harvest Seasons",
+    "release_date": "2018-02-23",
+    "developer": [
+        "Bearded Bunnies"
+    ],
+    "publisher": [
+        "Bearded Bunnies"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 428,
+    "positive_ratings": 169,
+    "negative_ratings": 75,
+    "price": 0.0,
+    "description": "Part farming game, party city building game, part idle/clicker game, Harvest Seasons is all about harvesting and growth. Gather up resources from your farmland and spend them on buildings and upgrading your city. And then upgrade your resources to get more. It's the circle of harvest!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/772070/header.jpg?t=1519400480",
+    "minimum_requirements": "OS: Windows XP, Vista, 7 or later Processor: 64bit Intel compatible Dual Core CPU Memory: 32 MB RAM Graphics: VIDEO CARD: DX9 compliant graphics card DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

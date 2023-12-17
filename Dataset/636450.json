@@ -1,0 +1,44 @@
+{
+    "app_id": 636450,
+    "name": "Rez Infinite",
+    "release_date": "2017-08-09",
+    "developer": [
+        "Monstars Inc.",
+        "Resonair"
+    ],
+    "publisher": [
+        "Enhance"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "SteamVR Collectibles",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 585,
+    "negative_ratings": 54,
+    "price": 19.99,
+    "description": "The legendary action-shooter finally comes to PC, and in style! Blast your way through mind-melting visuals and amazing beats, all in your quest through cyberspace to save a world on the verge of collapse. Playable on your desktop or in fully immersive VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/636450/header.jpg?t=1530295947",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-bit) Processor: Intel i3-3220 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 750 equivalent or greater DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 11 Compatible Additional Notes: Minimum specs for non-VR mode",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 (64-bit) Processor: Intel i5-4590 (required for VR) Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 equivalent or greater (required for VR) DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 11 Compatible Additional Notes: 8 GB RAM and DirectX 11 required for VR. GTX 1070 or greater recommended for VR.",
+    "reviews": []
+}

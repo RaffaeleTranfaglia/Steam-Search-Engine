@@ -1,0 +1,43 @@
+{
+    "app_id": 718730,
+    "name": "One Strike",
+    "release_date": "2017-11-03",
+    "developer": [
+        "Retro Reactor"
+    ],
+    "publisher": [
+        "Retro Reactor"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 72,
+    "positive_ratings": 41,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "One Strike is a 2d fighting game with fast and furious gameplay, memorable characters, and a retro pixelart aesthetic! Choose between one of six unique fighters, travel to medieval Japan’s beautiful pixelated landscapes and fight to become the greatest warrior in history.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/718730/header.jpg?t=1540258019",
+    "minimum_requirements": "OS: Windows XP (sp2) or later Processor: 1.66 GHz Dual Core Processor or equivalent Memory: 2 GB RAM Graphics: NVIDIA since 2006 (GeForce 8), AMD since 2006 (Radeon HD 2000), Intel since 2012 (HD 4000 / IvyBridge) DirectX: Version 9.0c Storage: 200 MB available space Additional Notes: Controller highly recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

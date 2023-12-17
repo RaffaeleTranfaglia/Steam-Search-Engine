@@ -1,0 +1,56 @@
+{
+    "app_id": 485120,
+    "name": "Frog Climbers",
+    "release_date": "2016-10-06",
+    "developer": [
+        "TeamCrew"
+    ],
+    "publisher": [
+        "Dear Villagers"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Local Multiplayer",
+        "Funny"
+    ],
+    "achievements": 0,
+    "positive_ratings": 101,
+    "negative_ratings": 20,
+    "price": 4.99,
+    "description": "Climb mountains. Beat your friends. Be a douchefrog!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/485120/header.jpg?t=1551360505",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel(R) Core(TM) i3 Memory: 1 GB RAM DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Very fun local multiplayer game. Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hard is not hard enough give us an extreme. good game though, especially with more people.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "absolultly terrible",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Boring to play alone, but blast with some friends by your side.  Played with xbox 360, china xbox 360, logitech controllers, all works great.  downside, max 3 rounds per day, until it's enough for me, but come back after some time, and do all again.",
+            "review_score": "1"
+        }
+    ]
+}

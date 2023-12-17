@@ -1,0 +1,44 @@
+{
+    "app_id": 913600,
+    "name": "Galactic Lander",
+    "release_date": "2018-10-04",
+    "developer": [
+        "ZeroByter Games"
+    ],
+    "publisher": [
+        "ZeroByter Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Co-op",
+        "Space"
+    ],
+    "achievements": 20,
+    "positive_ratings": 55,
+    "negative_ratings": 4,
+    "price": 0.0,
+    "description": "Inspired by the classic arcade Lunar Lander game, in Galactic Lander you control a delicate scientific spaceship which you must deliver from point A to point B, either alone, or with a friend in a co-op level, potentially made by the game's own Steam Workshop community!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/913600/header.jpg?t=1556444071",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core2 Quad Q6600 Memory: 4 GB RAM Graphics: Nvidia GTX 560 TI DirectX: Version 9.0 Storage: 80 MB available space",
+    "recommended_requirements": "Memory: 6 GB RAM Graphics: Nvidia GTX 670 DirectX: Version 11 Network: Broadband Internet connection",
+    "reviews": []
+}

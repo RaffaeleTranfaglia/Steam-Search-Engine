@@ -1,0 +1,44 @@
+{
+    "app_id": 948350,
+    "name": "Royal Booty Quest",
+    "release_date": "2018-11-22",
+    "developer": [
+        "Badim"
+    ],
+    "publisher": [
+        "Badim"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 38,
+    "negative_ratings": 15,
+    "price": 0.0,
+    "description": "Craft a unique deck, encounter bizarre creatures, discover relics of immense power, slay monsters, conquer the Spire, descent into Deep Quest, while the Wandering Night is not here yet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/948350/header.jpg?t=1543343058",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7, Vista, or XP Service Pack 3 Processor: 1 GHz Memory: 1 GB RAM Graphics: OpenGL 2.1 or higher Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

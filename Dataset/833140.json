@@ -1,0 +1,42 @@
+{
+    "app_id": 833140,
+    "name": "Supaplex",
+    "release_date": "2018-05-09",
+    "developer": [
+        "InArcade"
+    ],
+    "publisher": [
+        "InArcade"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 27,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "The legendary game. One of the best action-puzzle games in the world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/833140/header.jpg?t=1556124964",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2 Ghz Memory: 1024 MB RAM Graphics: OpenGL 2.0 or higher Storage: 70 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 445980,
+    "name": "Wizard of Legend",
+    "release_date": "2018-05-15",
+    "developer": [
+        "Contingent99"
+    ],
+    "publisher": [
+        "Contingent99"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Pixel Graphics",
+        "Rogue-like"
+    ],
+    "achievements": 19,
+    "positive_ratings": 3990,
+    "negative_ratings": 535,
+    "price": 12.39,
+    "description": "Wizard of Legend is a no-nonsense, action-packed take on wizardry that emphasizes precise movements and smart comboing of spells in a rogue-like dungeon crawler that features over a hundred unique spells and relics!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/445980/header.jpg?t=1553069460",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 Memory: 4 GB RAM DirectX: Version 9.0c Storage: 1 GB available space Additional Notes: Gamepad support for XInput devices",
+    "recommended_requirements": null,
+    "reviews": []
+}

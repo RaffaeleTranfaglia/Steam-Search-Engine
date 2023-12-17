@@ -1,0 +1,42 @@
+{
+    "app_id": 415590,
+    "name": "Earthfall",
+    "release_date": "2018-07-12",
+    "developer": [
+        "Holospark"
+    ],
+    "publisher": [
+        "Holospark"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Co-op",
+        "FPS"
+    ],
+    "achievements": 86,
+    "positive_ratings": 1171,
+    "negative_ratings": 592,
+    "price": 23.79,
+    "description": "NOW AVAILABLE! When the Earth falls to an extra-terrestrial invasion, humanity becomes an endangered species. Earthfall is a four-player cooperative shooter that challenges players to survive hordes of ruthless alien drones and their inscrutable masters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/415590/header.jpg?t=1542219242",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5-4430 Memory: 8 GB RAM Graphics: NVIDIA GTX 750 2GB DirectX: Version 11 Network: Broadband Internet connection Storage: 20 GB available space Additional Notes: SSD Recommended",
+    "recommended_requirements": "OS: Windows 10 Processor: i7-4770 Memory: 16 GB RAM Graphics: NVIDIA GTX 970 4GB DirectX: Version 11 Network: Broadband Internet connection Storage: 20 GB available space Additional Notes: SSD",
+    "reviews": []
+}

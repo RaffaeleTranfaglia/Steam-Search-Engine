@@ -1,0 +1,46 @@
+{
+    "app_id": 574120,
+    "name": "Sausage Sports Club",
+    "release_date": "2018-07-19",
+    "developer": [
+        "Chris Wade"
+    ],
+    "publisher": [
+        "Chris Wade"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 18,
+    "positive_ratings": 16,
+    "negative_ratings": 3,
+    "price": 10.99,
+    "description": "Sausage Sports Club is a physics game about floppy animals playing sports!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/574120/header.jpg?t=1549942077",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 2.8Ghz or equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce 450, AMD Radeon HD 5670 or better DirectX: Version 9.0 Storage: 2 GB available space Sound Card: DirectX 9.0 compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

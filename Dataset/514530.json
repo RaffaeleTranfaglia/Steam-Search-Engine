@@ -1,0 +1,44 @@
+{
+    "app_id": 514530,
+    "name": "Rally Racers",
+    "release_date": "2017-12-21",
+    "developer": [
+        "West Coast Games Ltd"
+    ],
+    "publisher": [
+        "West Coast Games Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "In-App Purchases",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Racing",
+        "Strategy"
+    ],
+    "achievements": 50,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "Rally Racers is a cartoon based Family Fun Car Racing Game with &quot;Wacky Racer Rees&quot; and his gang battling with his evil brother, &quot;Droog and his henchmen&quot;.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514530/header.jpg?t=1535550248",
+    "minimum_requirements": "OS: 7+ Processor: Intel 4th Generation i3 2.4GHz Memory: 8 GB RAM Graphics: GTX300+ DirectX: Version 9.0 Network: Broadband Internet connection Storage: 800 MB available space Sound Card: any",
+    "recommended_requirements": null,
+    "reviews": []
+}

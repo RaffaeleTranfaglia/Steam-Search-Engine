@@ -1,0 +1,44 @@
+{
+    "app_id": 552140,
+    "name": "CAGE",
+    "release_date": "2016-11-14",
+    "developer": [
+        "KorteGames"
+    ],
+    "publisher": [
+        "KorteGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 70,
+    "negative_ratings": 11,
+    "price": 0.0,
+    "description": "With lightning-fast gameplay fully exploiting all three dimensions of motion, CAGE is a shooter unlike any other. The &quot;tether&quot; allows for unprecedented freedom and agility of movement, creating explosive action.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/552140/header.jpg?t=1479211545",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 GHz Memory: 1024 MB RAM Graphics: 1 GB or higher DirectX: Version 9.0 Storage: 300 MB available space Sound Card: DirectX® 9.0c compatible 16-bit sound card and latest drivers",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is SUPER fun to play. Flinging yourself around the map without a care in the world- except for killing your friends. The many weapons add diversity and strategy, and overall the game is a blast. I load it up sometimes just to fly around on my own. It's got a good feeling to it, something many games today lack.",
+            "review_score": "1"
+        }
+    ]
+}

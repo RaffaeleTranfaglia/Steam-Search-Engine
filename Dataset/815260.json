@@ -1,0 +1,44 @@
+{
+    "app_id": 815260,
+    "name": "Lords of Kingdoms",
+    "release_date": "2018-06-15",
+    "developer": [
+        "ThankGame.com"
+    ],
+    "publisher": [
+        "ThankGame.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Massively Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 20,
+    "price": 0.0,
+    "description": "Lords of Kingdoms is a multiplayer online war game. Turn your small castle into a mighty fortress and become ruler of the greatest realm.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815260/header.jpg?t=1550581877",
+    "minimum_requirements": "DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

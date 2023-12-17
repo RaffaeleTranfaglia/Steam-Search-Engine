@@ -1,0 +1,38 @@
+{
+    "app_id": 509850,
+    "name": "Bumper",
+    "release_date": "2016-09-12",
+    "developer": [
+        "Artur Rezende"
+    ],
+    "publisher": [
+        "Artur Rezende"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 18,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "BUMPER is a casual game made on Blender Game Engine where the player must to destroy the vehicles as much as possible, trying not to get caught by the police, reach the checkpoints to get time and improve your weapons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509850/header.jpg?t=1510661607",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 64bits Processor: Dual core Memory: 2 GB RAM Graphics: 512mb dedicated, Compatible with Open GL 2.1 DirectX: Version 9.0c Storage: 400 MB available space Sound Card: any",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bits Processor: i5 Memory: 4 GB RAM Graphics: Geforce 2G dedicated, Compatible with Open GL 2.1 DirectX: Version 11 Storage: 400 MB available space Sound Card: any",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 878580,
+    "name": "GARAGE: Bad Trip",
+    "release_date": "2018-07-06",
+    "developer": [
+        "Zombie Dynamics"
+    ],
+    "publisher": [
+        "tinyBuild"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Gore",
+        "Action",
+        "Violent"
+    ],
+    "achievements": 21,
+    "positive_ratings": 93,
+    "negative_ratings": 18,
+    "price": 11.39,
+    "description": "Drug dealer Butch slays hordes of living dead to save a girl. Garage is a bloody topdown shooter inspired by VHS era B-movies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/878580/header.jpg?t=1534438245",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo 2.8Ghz or equivalent Memory: 4 GB RAM Graphics: GeForce 8800GT / ATI Radeon HD 4850 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel Core i5 Memory: 6 GB RAM Graphics: GeForce GTX 660 Storage: 1 GB available space",
+    "reviews": []
+}

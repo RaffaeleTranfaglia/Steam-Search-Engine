@@ -1,0 +1,43 @@
+{
+    "app_id": 872110,
+    "name": "Burden of Proof",
+    "release_date": "2018-07-26",
+    "developer": [
+        "RobProductions"
+    ],
+    "publisher": [
+        "RobProductions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 11.4,
+    "description": "Inspired by works such as Ace Attorney and Danganronpa, Burden of Proof brings a new 3D courtroom adventure to PC, Mac, and Linux! Investigate the crime scene, interrogate witnesses, gather evidence, and solve puzzles in the courtroom to present your case and uncover the mysteries.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/872110/header.jpg?t=1532624533",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core i3/AMD A10-8700P or Equivolent Memory: 2 GB RAM DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: Older processors are supported, but you may need to lower the graphical settings.",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5/AMD Ryzen 3 or Equivolent Memory: 4 GB RAM DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

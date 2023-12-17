@@ -1,0 +1,43 @@
+{
+    "app_id": 367520,
+    "name": "Hollow Knight",
+    "release_date": "2017-02-24",
+    "developer": [
+        "Team Cherry"
+    ],
+    "publisher": [
+        "Team Cherry"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Metroidvania",
+        "Difficult",
+        "Great Soundtrack"
+    ],
+    "achievements": 63,
+    "positive_ratings": 40167,
+    "negative_ratings": 1927,
+    "price": 10.99,
+    "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/367520/header.jpg?t=1551301401",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E5200 Memory: 4 GB RAM Graphics: GeForce 9800GTX+ (1GB) DirectX: Version 10 Storage: 9 GB available space Additional Notes: 1080p, 16:9 recommended",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 Memory: 8 GB RAM Graphics: GeForce GTX 560 DirectX: Version 11 Storage: 9 GB available space Additional Notes: 1080p, 16:9 recommended",
+    "reviews": []
+}

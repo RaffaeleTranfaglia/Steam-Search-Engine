@@ -1,0 +1,44 @@
+{
+    "app_id": 964100,
+    "name": "A meadow Piece",
+    "release_date": "2019-03-07",
+    "developer": [
+        "Genlivpat"
+    ],
+    "publisher": [
+        "Genlivpat"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 19,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 10.99,
+    "description": "This is a meadow simulator with slightly different flowers. Either just watch the flowers grow. Or defend yourself against strange aliens. Actively intervene in the development of the meadow. Play with your friends, either as a team or against each other.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/964100/header.jpg?t=1553971497",
+    "minimum_requirements": "OS: Windows 7 Processor: 3.0 GHz Quad core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 DirectX: Version 11 Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 - 10 Processor: 3.0+ GHz Quad core Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 or AMD Radeon R9 290 DirectX: Version 11 Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": []
+}

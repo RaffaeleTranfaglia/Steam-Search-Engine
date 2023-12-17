@@ -1,0 +1,50 @@
+{
+    "app_id": 367080,
+    "name": "Songbringer",
+    "release_date": "2017-09-01",
+    "developer": [
+        "Wizard Fu"
+    ],
+    "publisher": [
+        "Wizard Fu",
+        "Double Eleven"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 37,
+    "positive_ratings": 163,
+    "negative_ratings": 36,
+    "price": 15.99,
+    "description": "Darkness sleeps just beneath the cracks on the ever-changing planet. The curious will uncover powerful artifacts and forge them anew. The strong will take the nanosword and crush galactic giants.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/367080/header.jpg?t=1528911826",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.0 Ghz or faster Memory: 1 GB RAM Graphics: OpenGL 2.0+ Compatible Card Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0 Ghz or faster Memory: 2 GB RAM Graphics: OpenGL 3.0+ Compatible Card Storage: 4 GB available space",
+    "reviews": []
+}

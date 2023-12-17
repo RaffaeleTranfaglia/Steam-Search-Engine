@@ -1,0 +1,42 @@
+{
+    "app_id": 549700,
+    "name": "Orphan",
+    "release_date": "2018-10-30",
+    "developer": [
+        "Windy Hill"
+    ],
+    "publisher": [
+        "2Dimensions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 24,
+    "negative_ratings": 4,
+    "price": 11.39,
+    "description": "A 2D sci-fi platformer about a young boy who may be the last survivor of an alien invasion. Under the cover of night, he ventures out in search of other life and to seek revenge against the machines that have taken over the Earth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/549700/header.jpg?t=1548291921",
+    "minimum_requirements": "OS: Windows XP Processor: 2.5 GHz Memory: 2 GB RAM Graphics: AMD 7760 or Equivalent DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: 1920x1080 Display. Gamepad is strongly recommended. Orphan requires quick movements and precise aiming. Mouse aiming is supported.",
+    "recommended_requirements": "OS: Windows 10 Processor: 3.0 GHz Memory: 4 GB RAM Graphics: Nvidia GTX680 or Equivalent DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: 1920x1080 Display. Gamepad is strongly recommended. Orphan requires quick movements and precise aiming. Mouse aiming is supported.",
+    "reviews": []
+}

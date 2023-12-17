@@ -1,0 +1,38 @@
+{
+    "app_id": 657260,
+    "name": "救う(SHE SAVE)",
+    "release_date": "2017-07-14",
+    "developer": [
+        "いくちおすてご"
+    ],
+    "publisher": [
+        "いくちおすてご"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Female Protagonist",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 33,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "&quot;SHE SAVE&quot; is a short action game that a girl with horns fights to save something. It's necessary to fight dragons that have big power in her mission. She can not jump over an attack of dragon, but she can attack by a sword, and can protects by a shield, can heal by magic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/657260/header.jpg?t=1500044784",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

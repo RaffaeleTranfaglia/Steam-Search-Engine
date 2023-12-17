@@ -1,0 +1,37 @@
+{
+    "app_id": 894010,
+    "name": "Battle Of Worldviews",
+    "release_date": "2018-07-26",
+    "developer": [
+        "ARGames"
+    ],
+    "publisher": [
+        "Metal Fox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 2,
+    "positive_ratings": 6,
+    "negative_ratings": 7,
+    "price": 1.69,
+    "description": "Battle Of Worldviews - &quot;real time strategy&quot; in which you have to fight with friends or AI, while watching the resources, weather conditions and their development.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/894010/header.jpg?t=1532697611",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8/10 Processor: 1.6 GHz Memory: 3 GB RAM Graphics: Intel HD Graphics DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Memory: 6 GB RAM Graphics: nVidia GeForce 780 or better, AMD Radeon RX 580 or better DirectX: Version 11",
+    "reviews": []
+}

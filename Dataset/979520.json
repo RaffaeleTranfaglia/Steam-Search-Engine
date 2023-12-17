@@ -1,0 +1,39 @@
+{
+    "app_id": 979520,
+    "name": "Starblazer",
+    "release_date": "2018-12-21",
+    "developer": [
+        "PRO2131"
+    ],
+    "publisher": [
+        "PRO2131 LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 15.49,
+    "description": "Starblazer is a real-time strategy VR game, where players can engage in strategic aerial battles. Build up your fleet, devise a winning strategy, and conquer the galaxy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/979520/header.jpg?t=1550987201",
+    "minimum_requirements": "OS: Windows 10 Processor: i5 or equivalent Memory: 8 GB RAM Graphics: GTX 1060 or equivalent Storage: 10 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i7 or equivalent Memory: 16 GB RAM Graphics: GTX 1080 or equivalent Storage: 10 GB available space",
+    "reviews": []
+}

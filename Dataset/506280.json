@@ -1,0 +1,47 @@
+{
+    "app_id": 506280,
+    "name": "My Lil' Donut",
+    "release_date": "2016-08-31",
+    "developer": [
+        "Isaac Cohen"
+    ],
+    "publisher": [
+        "Tool of North America"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 31,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "Before you lies your Donut. You can pull and twist it, snap and swish it. You have a whole arsenal of settings, presets and tools to play with. You can freeze it, relax it, save any contortion to be viewed later. You can even rip it apart so it returns to the void from which it came.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/506280/header.jpg?t=1472656183",
+    "minimum_requirements": "OS: Windows 8.1 Processor: Intel Core i5 4590 Memory: 8 MB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I have only spent a short time with my lil' donut, yet I am already convinced of the power of such a VR companion. The throbbing toroid has found a special place in my heart, and I am certain that I will continue to cherish my time with the shape in, where ever we are.   And that UI mechanic is fantastic.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Highly recommend this game! I keep coming back to Cabbibo's games and they are always such wonderful experiences. This one is free, so you have no excuse not to!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Thumbs up if you have Nvidia Card. really cool.  Thumbs down if you have AMD. Donut does not render on AMD for some reason.",
+            "review_score": "-1"
+        }
+    ]
+}

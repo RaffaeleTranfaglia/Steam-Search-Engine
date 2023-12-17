@@ -1,0 +1,43 @@
+{
+    "app_id": 345990,
+    "name": "ABRACA - Imagic Games",
+    "release_date": "2016-03-31",
+    "developer": [
+        "Ankama Studio"
+    ],
+    "publisher": [
+        "Ankama Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "4 Player Local",
+        "Local Multiplayer"
+    ],
+    "achievements": 30,
+    "positive_ratings": 31,
+    "negative_ratings": 10,
+    "price": 10.99,
+    "description": "Imagi is the country where fairy tale characters live, with its bad guys and damsels in distress. So much so that becoming prince charming is a treacherous path where the gloves really come off! Two, three or four players all pretend to be princes who must survive a series of challenges!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/345990/header.jpg?t=1460120278",
+    "minimum_requirements": "OS: Windows Vista or 7 Processor: Intel Core 2 Duo Memory: 3 GB RAM Graphics: SM3 512MB VRAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: SM4 1GB VRAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "reviews": [
+        {
+            "review_text": "Is a fun party game, but bit unbalanced, is has awesome graphics and cool characters ..",
+            "review_score": "1"
+        }
+    ]
+}

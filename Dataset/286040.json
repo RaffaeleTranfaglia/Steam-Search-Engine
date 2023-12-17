@@ -1,0 +1,480 @@
+{
+    "app_id": 286040,
+    "name": "Dead Effect",
+    "release_date": "2014-12-17",
+    "developer": [
+        "BadFly Interactive, a.s."
+    ],
+    "publisher": [
+        "BadFly Interactive, a.s."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Zombies",
+        "FPS"
+    ],
+    "achievements": 61,
+    "positive_ratings": 2177,
+    "negative_ratings": 862,
+    "price": 3.99,
+    "description": "Fight for your life in the INDIE SCI-FI FPS game fit for both casual and hard-core gamers with a passion for hunting down hordes of zombies. Prepare yourselves for the incoming nightmare!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/286040/header.jpg?t=1539842663",
+    "minimum_requirements": "OS: WindowsXP (Service Pack 3) Processor: 2.4 Ghz Dual Core CPU Memory: 2 GB RAM Graphics: Nvidia 8800 GTX | Radeon HD 4770 DirectX: Version 9.0c Storage: 3 GB available space Sound Card: DirectX compatible sound card Additional Notes: Install size will gradually increase with future updates.",
+    "recommended_requirements": "OS: Windows 7 Processor: 3.0 Ghz Quad Core CPU or faster Memory: 4 GB RAM Graphics: Nvidia GTX 460 | Radeon HD 5850 DirectX: Version 9.0c Storage: 3 GB available space Sound Card: DirectX compatible sound card Additional Notes: Install size will gradually increase with future updates.",
+    "reviews": [
+        {
+            "review_text": "Don't let the low price, the simple visuals and the fact that it's a tablet port fool you.  I would have never imagined myself playing a shooter ported from tablets on PC and having so much fun. First of all, it's miles ahead of the portable version, almost a different game. The fact that there are no microtransactions help you enjoy this as a wholesome product, albeit with a little bit of fair grinding.  A good zombie game needs 2 things: good zombies and good weapons. While this is far from many AAA titles, the weapons in Dead Effect look and sound meaty enough to feel the punch of every shot, but don't expect spectecular quality of animations and sounds. The zombies however are a whole other dimension, and are at the core of what makes Dead Effect so fun, as they should be. Despite the small scope of the game, it features quite a few types of enemies, each of which in its turn has its preset of behaviors, some of which are randomnly generated depending on difficulty. In other words: zombies are dangerous and unpredictable, and demand the best of your attention, reaction and situational awareness. The dodge funcion is in this game for a damn good reason. This, combined with the very much Doom3-inspired leveldesign, make up for a great immersive atmosphere of an ever-so-popular contaminated spaceship setting. There's even a small cheesy story that works well enough to glue the events together and give the player a sense of purpose in addition to a sense of place.  If I had to complain about Dead Effect, which would be stupid considering the price, I'd say some will find the grinding tiresome (althought there's not THAT much of it compared to other games of this type), and not much variety beyond the campaign and the survival modes. While admittedly true, these problems didn't stop me from finishing the game twice, and I'm sure I'll be going in for a third time on Hell difficulty where almost every zombie hit is deadly.  In conclusion, Dead Effect is easliy one of my best surprise purchases on Steam. It's like Doom 3 and Killing Floor had a baby that doesn't know much yet but already shows great potential for being its own thing. Big thing, hopefully.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great horror-space game for gamers. i wish they would add maybe network support  My Rating 10 of 10 stars  ( Well Worth buying &amp; playing )",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's not the next AAA horror space adventure and that might be a good thing. A perfect combination of shooter, RPG, and horror with enough jumpiness, firepower, and progression to appeal to many different audiences.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It just feels bland and uninspired.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was surprised at how many bad reviews there were for this game. I personally liked it. The graphics, gameplay, and actiing, in my opinion, were pretty good.   Even though the game is classified as 'Indie', I would say that it is better than most 'Indie' type games that I have played..   The one thing that I didn't like, as others pointed out, is the inability to jump.   Other than that, the game is worth checking out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this super cheap in a bundle somewhere, and thank gosh.  Pros: Looks decent enough, I guess? No microtransactions  Cons: Very Grindy No Checkpoints - you have to spend credits to revive on the spot, or restart the entire level over INSTANT KILL LITTLE TO NO WARNING GRENADE ZOMBIES.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "great game worth paying the £5.59 , even though it is still early access and has a few bugs the game is still great, the story is amazing so far. i cant wait to see it finshed with new player options and hopefully they will put in a multipley feature . so with each new update you get new missions and weapons new maos and more so if your looking for a good sci-fi shooter survival style game with a great background story then this is for you :D hopefully when they finsh it they may even make a second :D.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Is this game worth $1? If you consider that money a donation to the team doing development, sure, it's worth it, but the game here is really rather raw. Technically it's a shooter. Technically it works. Everything in here is like 'Baby's First FPS' which is to say there's potential, but it's almost entirely unrealized.  I hope someone enjoys this and the team finds some success, but this game, as-is, has little to offer. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great FPS. Lots of upgrades, awards people who search every corner, and lots of playablity with a new game plus, biohazard, and survival modes after the campaign. Also has the potential for great graphics on higher performance computers, yet also has the flexibility to run on crappy ones like mine. With a multiplayer mode on the way, this game is more than worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great fps shoot-em-up game with sweet weaponry, good graphics and fun gameplay. I would deffinately recomend this game if you like gory games based on killing everything, and then some. There is a variety of weapons for almost every role, with upgradable weapons and no pay-to-win features as both in-game currencies can be got by playing the game and killing stuff.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Things you can do that are more fun than playing 'Dead Effect'...  - not playing Dead Effect - banging your head against a wall - doing laundry - watching paint dry  Honestly, this game is not even mediocre, it's just bad. I can't say anything against the graphics, they are nothing special, but not bad either, but that's pretty much the only good thing I can say about this game.  The game mechanics are sub-par. You can't even jump, aiming is a game of luck; at least with some weapons and some enemies simply refuse to die even after 5 or more headshots. Oh, and you WILL get swarmed by zombies all the time, since your tools are simply not effective enough to kill them fast enough.   And this is actually the worst part of the game. You can't just progress from level to level like in most FPS. No, the game wants you to play every level again and again and again, because every single piece of equipment and every upgrade costs in-game money and you WILL have to upgrade them. Healing? Pay with points. Better shotgun? Pay with points. Ammo? Pay with points. And of course a single grenade alone costs so much points that you will have to replay a previous level in case you don't use it in a super effective way. Which, of course, will not work, because sometimes explosions will just drip off from enemies.  As I get it the devs promised to put more work into the game, but that never happened.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I've paid $60 for games with a fraction of the content.  9/10 -Devs That Respect Gaming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is by no means a masterpiece, but I am finding it to be surprisingly fun.   Most of the level design and combat are unimaginative, but can be fun despite that. If the game frustrates you, try sticking with it just a little longer (the start of level I think 5 is pretty obnoxious and cheap, but not impossible). Everything upgrades, and you can continue for cash. That mechanic is silly, annoying, and another (add it to the list) of painful reminders that this was a phone game. But at least you can continue.   Looks pretty good, like Doom 3 with holiday lighting (Game in general is very derivative of Doom 3, with some Killing Floor in there too). The art assets are solid. The animations and weapons are satisfying. If only they would have spent more care and effort on story, level design, and making the transactions less obvious, this could be decidedly better. That said, it does function as both a fun shooter and as some wonderfully campy kitsch. The actor who voices the German scientist delivers his lines like a bad Ahnald impersonation meets 'Und now is dee time un Sprockets ven vee dahnce'. It cuts into the dread that the game does manage to create, and I can't help but laugh. It's like The Tower of Deadly Monsters or Far Cry Blood Dragon, but, you know, with less intent.  The extra modes are good for earning cash for weapons and upgrades and extending the play. If this had been a mod for doom 3 it would probably be considered a classic. A pretty fun shooter that mostly works and looks pretty good, you could do worse. Worth it on sale or in a bundle.   edit: Finished main game, not a surprising or great ending, but satisfying enough. Why am I not in a rush to uninstall? Because the Survival and Biohazard modes are solid zombie invasion fun, and there's a bonus rainy industrial area map in biohazard after you finish the story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Horrendous.   Annoying controls, awkward movement, Horrid graphics, VERY boring, horrible gameplay, and more complaints that I probably couldn't fit in this one review.  Do not waste your money on this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I am shocked that I am giving this a posotive review. I recieved ths as part of a bundle and thought cool it has cards and maybe get some achievements but since this is ported from a tablet game, its gonna be awful... mostly I was wrong.  the survival and achievement hunting the story are not bad and the graphics were unusually sharp. The voice acting is AMAZING.... well at least one of the two voices i heard. the controls are a little rough and the grenade zombie almost ruined the game for me. in a bad way....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First of all, let's start with my astonishment that the game equivalent of a C-movie allows mouse acceleration and smoothing be turned off while a couple of A-games can't. Hey big publishers, that trash dev is smarter, than you! Next, the game is actually less linear than Call of Duty while being significantly cheaper and the story isn't that much worse either. That out of the way, the game is still a C-movie. Voice acting so bad it hurts, shooting space zombies, that's pretty much it. Visuals aren't bad, surely not top notch, but not bad. And an FoV-slider (hey big publishers, this trash dev is still smarter than you). I know I'm repeating myself, but I'm still astonished that something that looks like a mobile port is a better port than A-titles. Anyway, it's an FPS about zombies in space, what's there to expect? Pop heads, in slow motion if you want and enjoy feeling brainless yourself doing so. The lack of a jump button is irritating though. Hey, at least the story is better than the voice acting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very similar to doom 3  CONS: very repetitive doesnt seem to be a story, at all  PROS: good graphics runs perfectly, no stuttering jaggedness zombies, lots and lots of zombies  gameplay consists of walking into a room, kill everything, walk into next room, kill everything, next room, kill everything, next room, kill everything. i have not fully finished the game yet so it may or may not get better than that.  i do recommend this game because i am a huge zombie fan and i enjoy killing zombies....this game offers that!!!  overall 6 out of 10, so far (may change as i progress through the game in the future)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good classic first person shooter, nothing fancy just some guns and a whole lot of zombies to shoot at. The zombies are animated very well, and there's a good amount of variety to them without getting too crazy. The gameplay borders between action-horror and survival-horror - you have to make your shots count but it's still pretty fast paced. The game can be pretty tough on some parts, but with plenty of mowing down hordes in between the tense parts. The game doesn't make you run around and search a lot, which I like - it gets to the action and stays there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Somehow I recieved a couple of keys for this game in my e-mail (if any of you suckers want it, send me a message, I still have one left). They invited me to review this game, and I'm sad to say I will, and they probably WON'T send me any more keys.  I tried to like this game, it was awesome, my first ever reveiw copy keys. Sadly the game left a horrible taste in my mouth. Based on their mobile game, it still feels as though it should be being played on my andoid, not my PC. Controls (specifically look sensitivity) were extremely sluggish, and the maps were barely 3 dimensional. I felt like I was playing a slightly more attractive version of Wolfenstine 3D.  The theme is ripped straight out of dead space, your in some sort of spacecraft and their are zombie-like creatures trying to kill you (original right?). Their is absolutely no exploration feel to the game, as it leads you along with locked doors and overly obvious waypoints (like I need an arrow filling 90% of my screen to tell me to go thrugh this door, it's the only one unlocked).  Being the chicken ♥♥♥♥ that I am (I still won't play amnesia or slender) I was nervous about playing a horror game. Was I ever wrong, I get more nervous playing minecraft this this poor game.  If this review feels harsh, so be it, the game feels like a cash grab, and a poorly ported mobile game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fairly decent game, though I did think that the difficulty scaling needed some work. The game scales the difficulty by the number of zombies, and on medium/normal difficulty, i was just getting swarmed by zombies. I would have rathered them be harder to kill with less zombies than easy to kill with so many zombies that you have no reaction time. That said, the game makes a fairly decent atmosphere where you can dive in fairly well. All in all, it was a fairly good game that I enjoyed playing. Will probably be playing more of it given that it has some replay value and I want to see if the female charactor gameplay is different with her seperate 'weapon specialties'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice visuals, gameplay and controls for it´s price, it´s too short, but it´s common since is a android game.  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "actually good game for 1e on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oldschool FPS, worth the 5€ (i got it on Sale for 1,99€ i think) Dead Effect is 4 Free on Android so i tried it, later i saw it suddenly on Steam when Searching for some good load of Games in Shop. If you can´t or don´t ant to afford it now, try googleplay first (its almost the same but PC is Improved with more level´s etc.) The Story is a Typical zombie like one, but it has Voiceacting and also well made PC Version for a mobil game! On PC i did love to use Mouse&amp;Keyboard since the Android Controls could be harsh and annyoing and needed auto Shooting while walking to have a good Experience on my sgs3.  Here is now a small list how i would give points for the game in each categorie:  Gameplay: 9/10 (classic Controls for PC and you feel the comfort of PC´s!)  Graphics: 8/10 (Improved on PC, also the Android already had amazing Settings when set to Ultra on my sgs3)  Support: ?/10 (never used on Pc but on Android, since on android the was a Error occouring in a Checkpoint where it did crashed. The Team never responced personally but they did improve the Android for my Suggestions and now it also works fine on Android! I´ll leave it out of Impression for Rating)  Price: 8/10 (I can´t believe when i saw it was that cheap for such a well made game that want´s you to bring the Retro gameplay with new Zombie Style)  Story: 8/10 (great but short! I do not want to tell what there happen hehe)  Sound: 8/10 (As on Android it´s also great on PC and on my 5.1 Surround-System it just Sound´s so awesome!)  Performance: 8/10 (Has a Stable FPS Rate, but feel´s sometimes not Optimized when i look @ how much this is actually using of my High End 2014 System on CPU, RAM and GPU)  FAZIT: 8.1/10 (Well made Version for PC´s and is improved and worth the Price!)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Needed 30minutes of Fun, paid $1.50, got the fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun game. has its problems but overall enjoyable to play. simple and to the point. no multiplayer is its main problem. glad i purchased Dead Effect",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dead Effect is an extremely fun sci-fi zombie FPS. It has awesome graphics, controls great, decent sound effects and great atmosphere. There is plenty of ammo to be found, several weapons, grenades, gold, and currency that can be used to buy upgrades for your weapons. Its short, kind of generic, but it's the first FPS I've been able to play without getting incredibly nauseated and a horrible headache, so I like it. Is it perfect? No, but I would pick it up on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "top game at a top price, its not hard nor easy and i think its very well balanced for the price and content. if you cant survive the first few levels then sooters are not for you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun, short though. Beat it in about 5 hours of on and off playing. Play's like a mix between doom3 and killing floor. Definitely worth what I paid. (it was only a $1.50)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At first i thought that the game didnt worth a penny, how wrong i was, if you like old school shooters dont hesitate to buy this one, the price is also good  the good -scary for a shooter -weapons weapons and more weapons -upgrade system, good! -its a cheap game -i remeber the old days playing this -dialogs are funny(i am not sure this is bad or good) -good replay value  now the bad -the game needs more polishing -some weapons are way way operpowered -dialogs are funny(i am not sure this is bad or good) -getting money is easy so game becomes too easy at later stages -UI needs improvments in 2K resolution and up(text too small) -no real ending.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game that is desperately missing co-op. This was fixed for Dead Effect 2, but a late patch for this would be much appreciated. I backed these guys before Early Access and got it for $5, and I have no regrets. Imagine Dead Space in first person, with early Halo game graphics and Doom's very slow movement. Not an action title, but an excellent, casual gaming experience with some horror/suspense. You'll have a fun time. The price is right. For modern games, I would not have paid $60, but considering it is an Indie masterpiece brought together by 5 developers from various companies that came together for the love of video games, I give this game an A.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "funny silly game for quickly wasting time and enjoying it whenever you're free",
+            "review_score": "1"
+        },
+        {
+            "review_text": "overly a nice little game with good graphics and smooth gameplay but the voice acting is really horrible but still fun to kill some time and finally drop some good cards :3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "bought for a buck fifty and had 3 hours of entertainment, worth it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For $1.00 ? f u ck yea",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dead Effect. What do we have here, I wondered, when I saw it at a discount in the store. Generic zombie shooter in space #9001, as it turns out, but entertaining enough for a rainy day or such. Also, blatant DOOM rip-off, but personally, I can forgive them that.  Story? Nearly non-existent and very predictable, cheesy as can be. Then again, with a game like this? Don't expect too much story. Has some interesting bits to it, though. Gameplay? Iffy in places, but fairly smooth for an Android/iOS port. Voice acting? Mweh, average, but there's some funny bits here and there. And of course the good Doctor's a German. Graphics? Mobile device port, so don't expect anything special. Sound? Fairly decent, weapons feel properly powerful too, especially the iconical shotgun.  Overall, fun to play once or twice, wait for a discount and pick up this funny little game when you can.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would give this a 50/100 but cannot it is a okay game but the graphics arent that good and and the voice acting is terrible still it is fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "don't you dare sell this game on pc! oh w8 is pc game!  godamn!!  이 게임을 피시용으로 팔 생각하지 마라! 어 잠깐 이거 피시 게임이잖아!!  젠장!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad: - Grenade throwing zombies will make you swear. Instant death - okay, so we are spec ops, but get TOTALLY exhausted after 10meter run. No kidding - Laggy turn around - no checkpoints. To not have to start each map again, you can reborn for money. Which can be used for upgrades. No upgrades = weak stuff = instant death = rather replay from the start. Seriously? - You can find tablets, with info about the world. But you wont read them. Cos you dont care a ♥♥♥♥.   Good: - Killing zombies - cards, achievements  Summary: Buy for a few coins. Max 3€",
+            "review_score": "1"
+        },
+        {
+            "review_text": "DEAD EFFECT should be one of the benchmarks for all other indie zombie shooter titles out there. This game is FUN despite flaws in its story, mechanics, level design, upgrade system, or voice overs. Dead Effect was basically all I wanted out of Doom 3: a blood-soaked zombie shooter, NUFF SAID. No epic story, no tedious crafting, just BOOM BOOM SPLAT.  Once you finish the campaign mode there is replay value in starting a New Game + or trying the Survival/Biohazard modes. I wish there were ways to customize your experience or set custom parameters for Survival/Biohazard but they were still fun when I wanted a quick zombie fix. I enjoyed gathering up credits/gold bars so that I could unlock all the weapons.  The weapons are interesting enough and designed to be very satisfying to use on the zombies. The undead have enough variety to keep the game exciting and on Hell difficulty combat can get pretty intense. I also thought the music was entertaining, kind of a new-Hollywood spin on zombie horror.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It wont let me go window mode and any time i click the screen it takes me to my desktop and i cant get back in the game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "evil guys did bad stuff u are good kill him",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game isn't long but it was enjoyable. It has bullet time, upgrading weapons, character upgrades later in the game and a special area attack. A male and female character to play but it doesn't change the story one bit as far as I can tell. Story didn't have any surprises but still fun enough to follow along. Survival missions, replying finished levels and more upgrades than you can afford to do just through one play through gives some replayability for those looking for it. There are better guns than the 4 you gets during the game, my guess is they are for the increased difficulty on the new game plus and to keep interest beyond the short single player storyline.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a great FPS Zombie game and i would recomend it to almost anyone. The only problem i had with it was i couldnt really get involved with the story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's not bad. Just go into it remembering that it's a port of an indie iOS/Android FPS and that it 100% shows. Other than that it's an overall servicable Doom 3 clone with nice weapons and somewhat impressive graphics (For a port of a mobile title)  It's worth your $5 if you liked Doom 3. If you didn't, wait for a sale. Or don't buy it. You're not missing out on anything revolutionary here, just a very run of the mill space FPS.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Such a fun game 9 out of 9 (Cause its just not a 10 game). I love zombies and I love Sci-Fi. So what else do you need?  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "for an indie zombie app game i recommend this, its a good game but its not excelent ether however there are worse app indie games then dead efect out there and this one is decent anyways lets start whats good.   what i like:  - a weapon shop. you can purchase zombie slaying weapons with credits or gold bars the shop contains weapons from pistols to machineguns to ravage the undead aswel as upgrades purchases to improve your guns, not enough? wel why dont you take the chainsaw and slice yourself trough the horde, still not enough? well dont be disappointed because you can instead take out the big guy (and yes im refering to the f'ing minigun) and mow the horde down.  - different varieties of the undead. there is a variety of zombies in this game not so much as any other zombie game but enough that will try to feast on you. from regular zombies to minigun wielding zombies.  -suit upgrades there are certain levels that has suit upgrade stations wich gives your character upgrades such as: more health or stamina.  -random drops random drops happens rarely when you kill a zombie sometimes they give you gold bars or sometimes they give you a weapon or an weapon upgrade. (a weapon or a weapon upgrade drop is very handy)  - survival and biohazard gamemodes in survival mode you take on an endless horde of zombies, your goal is to get a highest combo possile and to survive till the timer runs out, youl be rewarded with credits (amount based on difficulty) biohazard is pretty much the same as survival exept its wave based and without timer that can run out, you win the game by surviving all waves, and just like survival mode youl be rewarded with credits with addition to gold bars (amount based on difficulty and length of the gamemode) before you start a match you can choose the length of the gamemode and the difficulty   - new game plus there is new game plus wich you can take all of your unlocks to a higher difficulty if your tired of the difficulty your on.  whats decent:  -12 levels campaign the campaign was fun to play but it isnt that special compared to other zombie games but its not bad ether for a 5 euro indie app game it was decent enough, for those who wants to play there fav campaign level again you can do so by choosing level select there you can replay the levels while still keeping your unlocks such as your weapons and its upgrades.  now lets talk about the bad things in this game:  -low amount of gold bars drops the gold bars that are getting dropped by zombies are very low on amount youl get only 1-2 each campaign level while you can get 8 if you play biohazard and if you set the game mode length to long and difficulty to medium grinding that is just way easier of getting golden bars then just doing the campaign all over again if your saving for a gun that cost allot of gold bars.  -OP kamikaze grenade zombies these guys are tough, armored and anoying as hell one of the most dangerous zombie types in the game, these guys are gona make you swear allot in this game because they can instant kill you with ether trowing a grenade at you with a frontal hit or suiciding near you they are hard to kill since they wear a body armor there only weak spot is their head but its hard to aim at if hes accompanied by a bunch of zombies so focusing only on them isnt easy their damage realy needs to get nerfed because they where the main cause of my deaths in the game.  -paying credits to get revived this is defindly one of the bad things this game has when you die you dont get to spawn near a checkpoint like most shooters do, instead it gives you the option to pay with your credits (and the costs vary) and be revived to continue where you left of or to restart the entire level, yes there are no checkpoints in the levels so more reason to hate those OP kamikaze grenade zombies.  -cramped rooms theres allot of times that theres to much zombies in small rooms or hallways wich youl get anxious, and its hard to combat them that way as you will get easy cornered and ganged with no escape.  low stamina and batterys: your stamina and baterys run out way to fast and its reloading takes way to long long enough for a zombie horde to corner you or to suprise you in dark areas.  wel that was it, like i said above its a decent game for 5 bucks youl gona enjoy it for what it is but i prefer to wait till its on sale then youl get a good deal out of it i personaly enjoyed and liked this game and im looking forward what the developer is planing to add in the sequel dead effect 2 wich i have sadly heard that it will be free to play unlike the first game wich is unfortunate. have a good day all thx for reading  oow yeah almost forgot developer if you read this for the love of god nerf those anoying OP kamikaze grenade zombies if your planing to bring them back in dead effect 2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'll start by listing the pros and cons.  Pros + Works well enough maintaing 60fps and above + Cheap + No microtransactions  Cons + Doesn't feel right on PC you can still tell its a mobile game + Poor audio quality + Slow movement + Poor graphics + Tends to repetative  I expected a better port than this to be honest, however given its pretty low price its hard to resist getting the game. If you really want a game where you have to shoot zombies then there are much better options out there. There's also a severe lack of options for the game.  If you want this game by all means get it, but I recommend you play it on a tablet first as its free on Android.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Terrible, just terrible. Very boring. Its just a ♥♥♥♥♥♥ mobile port. Everything about the game sucks. Nothing makes sense the gameplay sucks, its ugly etc.  Dont give them any money please. I dont even care what happenes to this review I just cant have my selp associated with such a peice of ♥♥♥♥. Dont reward them.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Not bad gameplay wise, but the graphics are let down by poorly textured maps.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "great game to just sit back and kill things can be hard at times but overall its an easy game to sit back and beat 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When looking around it would be to sensitive or not sensitive enough",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Derivative gameplay, terrible voice-acting, mediocre/nonsensical plot and almost non-existent replay value do not a quality game make. The game is pretty short, and is probably one of the first shooters since the original DOOM that for some inexplicable reason (aka lazy level design) does not feature a 'jump' command. Sure, you can shoot some zombies, but there's far more entertaining games that let you do just that, plus most of those let you play with your friends.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Loved the setting of the game and a different experiece",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't know. For $5 and for being a mobile port I really feel this game is pretty good. I don't know or remember if it was more than $5 when it was first released on Steam but its current price is pretty damn reasonable for this game. Its main campaign is about 4 hours long on Medium difficulty and it has quite a few extra game modes and difficulties to play on afterwards. It has something like 10 or 12 weapons, mostly guns, and has a pretty good upgrade system. You have 2 special abilities which both work well in the game and on harder difficulties it is pretty challenging. Its graphics are well done all things considered and plays quite well. When I first started playing it had some nast mouse acceleration but once I turned that off it was fine. There's no Jumping in the game but thats only a problem if you get swarmed by enemies and the enemies themselves have a little bit of variety. Theres your average zombies and about 5 or 6 variations of zombies. Theres only 1 type that is REALLY annoying but the rest are fine but you kill them all in basically the same way so theres not much variety to the game play itself from the zombies.  Its hard to describe but the game is fun and if you just want to play a mindless shooter that is enjoyable, nice to look at and not overly difficult then this is a fun little gem for $5. I did enjoy my playthrough, i'll probably come back to it at some point and most of the guns are unique and varied. The weapons themselves control well and are fun to use and as said before are all upgradeable. The sound effects and animations on the guns are very well done and give the game a pretty visceral feel. The story of the game is pretty bland and uninteresting but it is kind of silly at times which is enjoyable. Theres only a few boss fights in the game and they're nothing to write home about.   Pros - - It costs $5. - Decent graphics and fidelity. - Nice sound design. - Good amount of weapons that are mostly distinct. - Animation quality is good. - Voice acting isn't as bad as I'd expected. - Upgrade system for weapons and skills. - Extra game modes and difficulties. - Decent visual settings menu. - Deliberate combat - No microtransactions. Its good to see mobile ports that recognize the difference between platforms.  Cons - - Repetative gameplay. - Anticlimactic boss fights. - Weak story and weak ending. - One very annoying type of zombie. - Female character has a clearly male breathing sound effect when out of breath from sprinting. - Mediocre level design. - Annoying respawn mechanic. You can restart a level for free but respawning in the level from where you died from costs in game currency.  All in all for what this game costs its worth the investment to me. The combat feels good and is deliberate, you have to make your shots count! The zombies can pose quite a challenge at times but not too challenging if you don't want it to be. And like I said this game has some pretty good replay value and potential. Dead Effect has a lot of ups and downs but I feel its positives definitely outweigh its negatives and is worth asking price.  Numbers don't mean everything, and I don't like giving a score but if I had to give it one i'd say Dead Effect is a.....  6.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game feels very cheap. It actually feels like a mobile game someone thought would be fine on the big screen. I got it with a bundle so I cannot complain too much, but its still drek. I suppose I better at least say what it is I guess, for someone unable to see this turd for what it is.  Its a space ship game, with zombies, you kill them. That's it. Oh you can use keycards, what innovation. Weapon selection is exactly what anyone who has played a FPS game will know (junk, then pistol, then shotty, etc etc). It feels very sluggish, nothing seems smooth with this game. That's part of its cheapness, it feels like one of those budget games in the supermarket than you have never heard of before, often come in a “ACTION TIME” series full of cheap rubbish and the odd old time classic that clearly just ran out of copyright and is considered abandon ware.   Its not a game you will hate mind, I do not want to give that impression. Its so utterly generic and dull that I doubt anyone could be too annoyed with it. Personally I consider that the worst thing a game could ever be, boring. The sluggish feeling really starts to grate though, the “zombies” react the same to your shots, so even what little it offers is marred by a poorly put together cash grab.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Okay I guess, pretty short though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not bad, worth with that price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "not a good game, got a bug at level 2 where my screen cannot see anything like freeze something and cannot play at all not recommended dont buy waste your money",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Funniest horror game I've ever played!!! The graphic is nice, the sounds are cool and the controls are excellent.  But the voiceActing is so bad, that I'm not really sure if it's intended to be so ... ?cheesy?.  It felt more like a big happy halloween-party with your friends who want to spook the crap out of you, then a deep horror atmosphere.  Nice game though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IT doesn't feel like a AAA but its very close to Doom atmosphere and gameplay. The things that makes it not so good are some animations, the menus and some sounds.  I would recommend it on a sale. It's not worth the retail price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Piece of ♥♥♥♥.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Eeehhh... It's not really good... But when I bought it, it was on sale for about 29 cents, so I though 'what the hell' and bought it with some extra money. It immediately struck me as some really ♥♥♥♥ing stupid ♥♥♥♥ that some kid made after he played Dead Space (which it basically is) and it really doesn't have many redeeming qualities at all. Bad story, awful voice acting, lots of bugs, and even the hardest difficulty is too damn easy. What I'm trying to say is, this is basically a time-killer. If you've got like an 8 hour flight, this will make the time go by faster. At least, that's what I used it for. Otherwise, I suggest you save your money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Is this game good? Surprisingly, the answer is kinda. This game is NOT worth full price, but I feel a 'Mixed' review is harsh. The combat, while repetitive, is passable, and the graphics are nice. The AI has the IQ of a gay rattlesnake 6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is horrible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "terrible shooting controls and gun feel (as expected from a moblie game) and buggy (crashes a lot)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Devs need to work on this game, and i mean a lot. I owned this on the tablet and it was indeed entertaining, on mobile, however it seems to run worse on PC, controls are still, even with gamepad enabled (which doesnt seem to control menus and still ties you down to having to switch to the mouse often)  Overall still feels beta. It also feels like the devs gave up and decided it was 'good enuff' and ready to call full release. Needs stability improvements, visual improvments, gameplay improvements, etc,",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "/",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Dead Effect is the best shooter ever i have played. Most of the zombie games is pretty bored. This game is making you feel smooth and good graphic. It looks similar Killing Floor 2.  Pro: Graphic Smooth No bug or blitch  Cons  None   I recommended this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not even worth the 99c.   This sad excuse of a game is a one trick pony that tries to immitate DOOM 3 - and fails. Miserably. The zombies are boring. The environments are generic and copy/pasted all over. They even managed to screw up the classic clear-the-level/buy-upgrades/repeat.   And to top all off, this POS managed to freeze my Win10 64bit PC. I had not used the reset button for years.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good game, xbox controller works, nice graphics, solid gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wouldn't really recommend it. It's really hard to control the camera. Reload time is crap. Can't jump, can barely run. Zombies start lunging at you and there's really nothing you can do especially when you're stuck reloading basically always.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of the worst shooters I have ever played. It shoves unfair amounts of horridly designed zombies at you in the hopes that you will not realize that it is a horrible game in terms of both aesthetic (overused ♥♥♥♥♥) and gameplay (buggy, unfair). It isn't survival against the odds, it's bad design I'm mad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Amateur voice acting, pedestrian plot, kinda goofy that without weapons your character stands with their arms out, static viewmodels for guns that do nothing interesting whilst idling, kinda shonky animations and models for characters and enemies...  but god there are so many things RIGHT with this game. The weapon progression and upgrade system is great, the gameplay is rock solid and challenging, the zombies shuffle around in somewhat unpredictable fashion which makes them way more interesting than they would otherwise be, your one-shot-kill melee weapon has a very long cooldown meaning it's actually well balanced, where you shoot actually matters, and honestly it's a great fun FPS! Even the environments look great!  Honestly if you want a nice, good, fun, cheap scifi zombie FPS game, give this one a shot, it's really excellent and well worth the money. I got it on sale at basically £1. It's worth so much more than that though, easily!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Has a Dead Space vibe with Hard Reset graphics minus the colorful explosions. Great game since I paid $1.49 for it. The only thing that I dont like is using the keyboard at certain points but its minor inconvience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "if you are a fan of cod zombies then you well like this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "To start off its not too bad of a game. That being said, it's cheaply made and you can tell it was once an app store game. The game itself isn't too hard. Like as soon as you start doing the biohazard for extra cash and gold the game loses it's diffaculty. If you want a challenge play as the girl, the shotguns in this game are worthless. However, it is a time killer and sorta fun. It's like doom and dead space but they kept the bads from both. The grey interror and lack of horror. this could have been good if more work was put into it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Other than this games absolutely abrupt ending, it is awesome. The pacing is right on, your upgrades feel substantial and you wanna keep going to keep upgrading.   I enjoyed the crap out of it is what I'm saying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'You are needing to kill ze zombies...' Okay, poor attempt at making fun of the German scientist in the game but that is what you need to do to survive, and man is it fun! Sure, it may look a little oldschool and some of the enemy animations are a tad twitchy, but for $5 one can't complain. Seriously, for that price there's a whole lot of gaming to be had with this one.   In addition to the story mode, there is a survival mode (simply survive until time runs out) and also a biohazard mode (wave-based, like Killing Floor and other similar games). On top of that there is also a large selection of weapons to unlock by means of gold bars and credits (yes, everyone knows that in the future, or at least in space, all currency is in the form of credits........and gold!!). The weapons can also be upgraded.  Lots of fun and easily one of the better games available on Steam for the price, so grab a copy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Makes a startlingly good first impression, and it's pretty good value for your money. If your value your time more than your money, though, I can't recommend Dead Effect. Everything about it is perfectly serviceable, and kind of impressive for what appears to be a budget game, but it doesn't do anything particularly well. There's a lot to it - a story mode (complete with some of the most endearingly bad voice-acting I've ever heard), different survival modes, and a decent variety of weapons/equipment you can unlock with in-game currency that you grind out in the various modes.  Basically, for everything that Dead Effect does, there's another game that does that thing better. Dead Space, Killing Floor, maybe Doom? All of those are going to be more rewarding. Dead Effect is mediocre in the purest sense of the word - it's not bad, but it's not good, either.  SUMMARY: Good value for your money, but your time would be better spent elsewhere.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game offers come cheap fun if you're in the mind for a shameless Doom/Dead Space knockoff, but the appeal of zombies in space wears off quickly. By the time the one-shot kill, grenade chucking zombies are introduced, that appeal is gone entirely.  Throw in the many weird/bad design choices (no jump, no melee, no meaningful/fun gun upgrades), and it becomes clear this is one zombie-infested ship that you should let fly on its merry way, without you on board.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a pretty good game, worth the 5 bucks if not a bit more.  Well optimized, excellent graphics, oddball storyline, a good selection of weapons, etc.  Shouldn't be classified as a horror game, its basically a zombie sci fi shooter done well without trying to mash other game genres into it.  Only major complaint is the garbage QTE event on one of the bosses, but its only upon being hit so thats fine. Game feels a little too easy after getting auto heal (Tough to enjoy game without it) and semi upgraded weapons, ran it on 2nd to hardest mode.  Its honestly a stea lat 5 bucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "better than you think",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game because ıt's cheap and wonderful",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The 'Dead Effect'... well... what to say. Graphics look like a wash down Doom III clone. I´m pretty sure you can run this on a Voodoo 2 GFX (like the Doom mod). In game music is so loud that you cant hear, the main characters voice (turn down in game menu) Mouse acceleration is to high, and it feels like ice. Voice acting is so bad, that you will want to play 'House of the Dead 2' for just the voice acting.   Is it all bad? YES! ouuu YES it is.... this game will give you cancer...  Will I play it again soon? YES, SIR!  But why? One reason: '... get to the chopper!!!' ... sorry I mean: 'get to the elevator!' (you will get it then you play the game)   Buy it for the bad game play, crappy voice acting and enjoy a B game, there don´t over promise!  Enjoy! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good for passing time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It was only a buck-fiddy and playing for about 1/2hour provided enough to emphasize this game is not worth the 99cent club. It would make a good game if player movement and melee allowed for it. Zombies come out faster than the firing rate of the guns and no way to jump over the floor crawlers nor fight the walkers with your limbs, which just dangle straight out. They could have at least made them functional. Short review, I know, but just leave it at that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For £1 (sale price), and for an iPad game ported to PC, this game is pretty good.  A simple yet effective game you sink an hour or two at a time in. Buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the game is well thought out, didnt seem to have any glitches in it, played flawlessly on my box. the game devs did an awsome job with the game play good graphics . would highly recommend giving this a shot. have recommended to others also. cant wait for the next one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I just bought this game on sale and I want to say I really like this game. It's a Space Zombie game. It is very simple but it looks great and the guns are good. Sometimes I get tried of playing a game after getting killed over and over and I want to play something simple where I don't have to do a lot of thinking. This game is perfect for that. This game is a lot like Killing Floor but I like it a lot better!  This game has one major flaw for me. It remimnds me of Just Cause 2. I finally just gave up on that game and I will never buy 3. The problem is that you have a little timed puzzle every once in a while you have to solve to get past it. I'm 66 years old and my mind is not as fast as it used to be. I had to go back and start over on easy. Despite starting 3 times it topk me 16 to finish it. I would call this a $20 game. If Dead Effect 2 comes out I won't spend much more than that for it.  This is still one of the more enjoyble games I have played!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played three 'maps' and uninstalled it. Maybe i'm so bored, I'll install it again.  Pros:  zombies crawling zombies modifications on weapons  cons: first three maps are very linear. controls are feeling a bit clumsy - like being in a slight sedative state. Even applies to nade throwing. no jumping option (sedative state) running feels weird (sedative state) reloading at the speed of someone looking for change (sedati...aahh f. it.).  At least the name fits: Its a real dead effect.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It was fairly entertaining. For a total of the 4 hours I spent playing this game. Once you've played Biohazard and Survival, the story is irrelevant and pointless to play. Pros and Cons time. Pros: -Good graphics -Nice weapon design -Fairly decent soundtrack Cons: -Very limited amount of weapons in your loadout. 2. -Could have way better voice acting -Has WAY too many enemies in one room. There's like a hundred in a small room, and a thousand in slightly bigger rooms. -Often repetitive gameplay, such as rushing into a room with enemies in it. Read the previous con for details. -Has enemies in literally every room you enter, which makes no sense in any way. -Stolen sounds, an example is the SPAS-12 (forgot the name of this in the game) sounds. They're stolen from the shotgun from Halo. -Complicated weapon names. This is bad because you forget the names, and you get these random upgrades and you have no idea whether to be happy or disappointed. -Promises a lot of gore. Which it lacks.  The Cons list goes on for a while so I'll stop it here. But their tactic for sales was a cheap one. Not too long before this game came out, the Doom reboot was confirmed. This got people excited for getting a game that you go around and destroy everything in. But they had to wait so long, so what these guys did was ripped off the old ones and mixed a bit of Doom 3 in there, and added new graphics. Therefore people would buy it constantly because they would need something to fill the Doom gap. Little did they know, it was not entertaining after a while. Short storyline compared to the one of Doom, especially in terms of time. Think about it, this game doesnt even have a 5 hour campaign, and Doom has a 13 hour one. This game has no multiplayer which makes it even less playable. Doom's got one where you can even create modes rather than be restricted to certain ones. And enemy creativity? Doom passes this by thousands of miles. Just think, it just so happens that theres chainsaw wielding zombies like in Doom 3, and shirtless fat zombies which are, again, from Doom 3.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "wow fun and cool game story could be longer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really... what did I just put all that time into?  The holes i put into the unexplained mutated zombies are nothing in comparison to the plot holes in the story, mechanics were alright, other than the fact that as a strong killing machine you can't jump. not even hop. But I will say, blowing up zombies is fun, as it is in nearly every other zombie killing game. It's like someone put killing floor in space and tried to give it a story. Would not recomend spending full price on.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Way way too slow paced.. casual gamers ONLY. even on the hardest difficulty zombie speed is not effected.  your character is slow your guns feel clunky and underpowered. headshots are overpowered.. way too easy and way too boring. the level designers and coders are the only ones not at fault.. the levels look good the game feels stable and lagless , the events feel well played.. everything else is ♥♥♥♥♥♥♥t. again not for NON-CASUAL players",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got this today in the steam sale. Dont be put off by the cheap price... £1.79 !! thats rediculous !! Played for 7hrs non stop and loved it, great atmosphere and the girlfriend made me jump when she got in i was so engrossed :)  Stopped playing to pop out and get a burger.. that cost me more than the game lol.  Ive spent a lot more on other games and not had so much fun.   It reminded me of a Doom / Aliens fest. Just played on Medium setting and the zombies arnt so bad.. lots of em but thats good and there is plenty of ammo for ya splatter fest !! Gonna do a play through with the basic weapons cos they are just a lot of fun and then try some of the other weapons. Just wanted something to pass the evening with but ive a feeling i'll be playing this a lot more.  Simple fun &amp; crazy value in the sale, 9/10 I would shoot the zombies again :)  Edit: Finnished the story line on Medium.. swapped up to Hard &amp; Still loving it. Going to bed at 12.. $h*t its 12 already.. gonna go at 1.. God dammit its 2 already.. must get sleep! Just one more go at this lvl as I need more cash to Upgrade weapons lol &lt;rinse and repeat each night&gt;.. Great game to play in the dark!! Simplle atmospheric zombie blood bath shoot em up.. cheap as chips and great fun :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dead Effect has potential with a major overhaul and alot of rework it could be something more entertaining as it stands it only held my attention for 90 or so minutes before it became redundant and overly boring. I give this title a reluctant thumbs down!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Installed game on my ssd, rebooted pc. The video never fails to freeze about a minute and a half in, but audio continues. There's absolutely no info about this problem on the web. Good thing it was only $1.70. A hundred thumbs down for stealing my money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "is this game even multiplayer???? False advertising much. But it is a nice game .-.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dis ♥♥♥♥ Scarry af",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really fun :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game to have fun with, a awesome game for achievement hunters to grab some achievemnets and have some fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't buy this game for anything, but the gameplay and you'll have yourself a good romp. The story is ♥♥♥♥ and plays second-fiddle to the gameplay which is good fun. Lots of blood and gore. Powerful feeling weapons that bring just the right amount of punch. Scoring headshots is great fun and as satisfying as one would expect. The infinite melee weapon is also cool, zapping zombies and making their heads explode is awesome. Game has a simple upgrade system between levels that does the job of making you feel like you're making progress with your arms, even if it doesn't bring anything new to the table. Thumbs up from me!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its alright seems like a mobile game looked it up and it is lel",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't expect an triple A title for this price: it's a cheap fps but for it's price relatively good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Summary: Casual Dead Space, but with bullet time instead of horror.  The Good:  - No bugs (at least, not for me). These devs know what they are doing from a programming standpoint. - Nice graphics. - Weapon upgrades are fun. - Secrets to find in the game (Orbs, tablets, money) keep the player exploring - very Metroid, nice touch. - Short. Doesn't outstay it's welcome (the reason I stopped playing Dead Island, it just draaaaaaagggged...) - WAGNER. IT'S PARTY TIME! - Gameplay. Those grenade zombies made me think about room positioning and you can use them against the other zombies if you are smart about it - definitely a bit of depth that kept me interested there. Bullet time isn't a get out of jail free card but rather an aid to aiming, which is all it should be.  The Bad: - It looks like Dead Space, but it doesn't feel like it. No horror, no claustrophobia, no near-death experiences. This is only 'bad' if that's what the developers were going for, but it's clear that the aesthetic is definitely 'heavily inspired by' that game. - More Plot? It plays like a casual zombie shooter and so lacks long term engagement, but then there's WAGNER and the lore tablets dotted around the place. I feel like the developer could have done a little more with the plot and made it more interesting. Compare it to, say, Dead Space 1 with the whole Marker thing and the gradual revelation of the source of the zombies, and there you have much better engagement  I think £3.99 is a fair price considering the enjoyment I got from it. Definitely worth it if it's on sale, you won't be dissapointed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For 0.99 on sale this game farts rainbows.  Due to the blatant errors in calling something the 'D' Effect, I propose renaming this game Kamikazi Zombie Peek-a-boo. It is possible to get all the guns and upgrades in a reasonable amount of time if you increase carry capacity, sell all your amunition(which is everywhere because science), and farm some missions by selecting the individual missions under 'missions' in the main menu. The storyline is classical if not comedically pitiful. However, they seem aware of this and make no discernable attempt to lie about it. Try to skim through the lore tablets as they explain some things.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Basically a worse version of DOOM that has been ported from mobile. Do not buy unless it is heavily discounted.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "the graphics are pretty good for an indie game but there are a few other important things they left out. the controls are kinda hard to get used to at first. the looting systerm would be 7/10 for me. story 4/10 combat 8/10 if it was' int for the wonky controls the games okay theres just a few things they need to fix up thats all. but when its on sale its a pretty good deal only cost like 1 dollor for me when i buyed it. but the bad guys kinda ugly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're a fan of zombie games, this game is well worth it for it's price. A fairly short but interesting storyline, and the other gameplay modes are quite fun. Definately recommend this.",
+            "review_score": "1"
+        }
+    ]
+}

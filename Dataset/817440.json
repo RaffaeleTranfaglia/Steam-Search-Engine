@@ -1,0 +1,38 @@
+{
+    "app_id": 817440,
+    "name": "AngelShooter",
+    "release_date": "2018-05-04",
+    "developer": [
+        "DeepChensGames"
+    ],
+    "publisher": [
+        "DeepChensGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "《AngelShooter》 is a high difficulty bitmap horizontal-scroll shooting game. There are 6 different levels in the game. You will control the angels to pursue the witch's footprint who destroyed the world, all the way to defeat all kinds of enemies and finally the witch.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/817440/header.jpg?t=1525426125",
+    "minimum_requirements": "OS: Windows XP+ Memory: 2 GB RAM Graphics: Open GL 3.2+ Compliant Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

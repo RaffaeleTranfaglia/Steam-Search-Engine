@@ -1,0 +1,44 @@
+{
+    "app_id": 657180,
+    "name": "The Adliberum Engine (ADLENGINE)",
+    "release_date": "2017-06-23",
+    "developer": [
+        "Liam Twose"
+    ],
+    "publisher": [
+        "Liam Twose"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Co-op",
+        "Online Co-op",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Massively Multiplayer",
+        "RPG",
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Massively Multiplayer",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "A homage to Text Adventures and Multi-User Dungeons of old... The Adliberum Engine allows you to create text adventures, muds and text-powered roleplaying games. Complete with world editing commands; create worlds, games and puzzles that you can share or play with others all in real-time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/657180/header.jpg?t=1545951612",
+    "minimum_requirements": "OS: Windows XP Processor: 1ghz 32 Bit Memory: 1 GB RAM Graphics: Dedicated Graphics Card / Laptop Graphics DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: 3ghz 64 Bit Memory: 4 GB RAM Graphics: Dedicated Graphics Card DirectX: Version 10 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

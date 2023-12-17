@@ -1,0 +1,40 @@
+{
+    "app_id": 597900,
+    "name": "Eternum EX",
+    "release_date": "2018-10-25",
+    "developer": [
+        "Radin Games",
+        "Flynn's Arcade"
+    ],
+    "publisher": [
+        "Zerouno Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 55,
+    "positive_ratings": 24,
+    "negative_ratings": 1,
+    "price": 7.99,
+    "description": "Sir Arthur has gotten old... too old. He has lost everything he had and loved, and with nothing more to lose he leaves for Samarnath, an evil subterranean kingdom in search of treasures, adventures and the most important: five magical orbs that together provide: the Eternal youth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/597900/header.jpg?t=1545125429",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 1.5 GHz Core2Duo Memory: 2 MB RAM Graphics: NVIDIA GTX 470 de 1 GB/AMD HD 7870 de 2 GB Storage: 400 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows 8, 10 Processor: Intel Core i3 Memory: 4 MB RAM Graphics: NVIDIA GTX 780 de 3 GB/AMD R9 290 de 4 GB Storage: 400 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 740040,
+    "name": "Play with Gilbert",
+    "release_date": "2017-11-15",
+    "developer": [
+        "Joure Visser"
+    ],
+    "publisher": [
+        "Joure Visser"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Cats",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 47,
+    "negative_ratings": 8,
+    "price": 7.0,
+    "description": "Meet Gilbert. A very curious cat who loves to go on adventures. Play with Gilbert is a sandbox game aimed at young children (Ages 3+) in order to help them get familiarized with 3D games and gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/740040/header.jpg?t=1541078124",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, Windows 8 (8.1), Windows 10 Processor: Intel Core2 Duo 3.00 GHz / AMD CPU 3 GHZ Memory: 4 GB RAM Graphics: 1GB (AMD Radeon HD 7970 or Nvidia GeForce 1060) DirectX: Version 11 Storage: 9 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, Windows 8 (8.1), Windows 10 Processor: Intel CPU Core i7 2.5 GHz / AMD CPU 3,5 GHz Memory: 6 GB RAM Graphics: 2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce 1080) DirectX: Version 12 Storage: 9 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 878570,
+    "name": "Cryptochain",
+    "release_date": "2018-06-22",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 64,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "An exciting puzzle game about mining cryptocurrency. Connect chains of the same currencies and get a new, more valuable, until you reach the top.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/878570/header.jpg?t=1529682821",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space",
+    "reviews": []
+}

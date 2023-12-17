@@ -1,0 +1,44 @@
+{
+    "app_id": 526290,
+    "name": "MY FIGHT",
+    "release_date": "2018-05-22",
+    "developer": [
+        "TrisPix Studio"
+    ],
+    "publisher": [
+        "TrisPix Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Fighting"
+    ],
+    "achievements": 13,
+    "positive_ratings": 36,
+    "negative_ratings": 20,
+    "price": 2.79,
+    "description": "MY FIGHT - a computer game in the fighting game genre , performed in the best traditions of the genre . It allows players to fight for their favorite bloggers and show everyone how much he is cool , but the game , meanwhile , will record the results and compare them with other players !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526290/header.jpg?t=1528225518",
+    "minimum_requirements": "OS: Windows Vista, Windows 7, Windows 8 Processor: Intel Core Duo, 2.4 GHz / AMD Athlon X2, 2.8 GHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 8800 GTS / AMD Radeon 3850 DirectX: Version 10 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows Vista, Windows 7, Windows 8 Processor: Intel Core i5 750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 / AMD Radeon HD 6950 DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

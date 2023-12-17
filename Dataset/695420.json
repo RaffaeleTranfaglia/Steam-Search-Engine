@@ -1,0 +1,43 @@
+{
+    "app_id": 695420,
+    "name": "Hex: Origins",
+    "release_date": "2017-09-23",
+    "developer": [
+        "Pretty Bat Games"
+    ],
+    "publisher": [
+        "Pretty Bat Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 19,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Hex: Origins is a casual puzzle game based on a complete hexagon themed colorful experience. Enjoy a refreshing, calming and original experience, which is extremely easy to pick up but hard to master as you progress in the game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/695420/header.jpg?t=1506349129",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 500 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 500 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

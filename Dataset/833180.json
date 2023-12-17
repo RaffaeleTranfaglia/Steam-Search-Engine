@@ -1,0 +1,40 @@
+{
+    "app_id": 833180,
+    "name": "Spaceship Commander",
+    "release_date": "2018-05-23",
+    "developer": [
+        "Sokolov Yaroslav Vladimirovich"
+    ],
+    "publisher": [
+        "Sokolov Yaroslav Vladimirovich"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 2,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "Spaceship commander is a multiplayer/singleplayer game in which you take control of a detailed ship and a squad of the crew. Сustomize your ship and crew to different combat situations and develop winning tactics: smash the enemy with torpedoes, sabotage reactor, or boarding enemy ship? You decide!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/833180/header.jpg?t=1535041960",
+    "minimum_requirements": "OS: Windows 7, Windows 10 Processor: Intel Pentium CPU G870, 3.10 GHz Memory: 1 GB RAM Graphics: NVIDIA GeForce GTX 560, ATI Radeon HD 6870 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

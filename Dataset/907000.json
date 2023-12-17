@@ -1,0 +1,39 @@
+{
+    "app_id": 907000,
+    "name": "The Navigator",
+    "release_date": "2018-08-03",
+    "developer": [
+        "Team Navigator"
+    ],
+    "publisher": [
+        "Team Navigator"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 128,
+    "negative_ratings": 2,
+    "price": 0.0,
+    "description": "The Navigator is a 2D puzzle-platformer where the player assumes control of a young boy travelling the high seas. The mysterious world around him is filled with floating rocks that have various celestial properties, and the player must help the boy align these celestial rocks to lead him on his journey.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/907000/header.jpg?t=1533282103",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: Intel Core 2 Quad Q6600 (2.4 GHz) or AMD equivalent Memory: 4 MB RAM Graphics: GeForce GT 430 (1024 MB)/ Radeon HD 6850 (1024 MB) DirectX: Version 10 Storage: 1 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

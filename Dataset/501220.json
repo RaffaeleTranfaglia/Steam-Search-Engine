@@ -1,0 +1,48 @@
+{
+    "app_id": 501220,
+    "name": "Space Ribbon",
+    "release_date": "2019-01-04",
+    "developer": [
+        "Onteca Ltd"
+    ],
+    "publisher": [
+        "Applaud Productions",
+        "Onteca Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 34,
+    "negative_ratings": 25,
+    "price": 6.99,
+    "description": "Experience psychedelic space racing on an infinite variety of procedurally generated tracks. This is a true test of driver skill.Race your friends with in 4 player split-screen or complete the single player championship.Amazing immersive space VR mode, has to be seen to be believed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501220/header.jpg?t=1549320412",
+    "minimum_requirements": "OS: Windows 7 x86 Processor: 2.0Ghz Dual Core, or better Memory: 2 GB RAM Graphics: Any DirectX: Version 9.0 Storage: 666 MB available space Sound Card: Stereo Additional Notes: Mouse, Keyboard",
+    "recommended_requirements": "OS: Windows 10 x64 Processor: 2.1Ghz Quad Core, or better Memory: 4 GB RAM Graphics: Nvidia GeForce GT 640, AMD Radeon HD 6670 DirectX: Version 11 Network: Broadband Internet connection Storage: 666 MB available space Sound Card: Stereo Additional Notes: Steam/Xbox/PS4 Controller",
+    "reviews": []
+}

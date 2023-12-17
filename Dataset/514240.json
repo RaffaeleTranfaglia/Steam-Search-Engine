@@ -1,0 +1,52 @@
+{
+    "app_id": 514240,
+    "name": "ALONE?",
+    "release_date": "2016-10-10",
+    "developer": [
+        "Deceptive Games"
+    ],
+    "publisher": [
+        "Deceptive Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 56,
+    "negative_ratings": 67,
+    "price": 2.49,
+    "description": "Explore and experience this horror story, as you embark on an ghostly adventure unlike anything you have played before. Come face-to-face with terror itself as you look for your missing sister.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514240/header.jpg?t=1540540803",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core2 Quad Q8400 Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 560 1GB / Radeon R7 250X 1GB DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  This is no where near a horror game. The entire game is 'wander around and open up doors'. You will slowly unravel a story in which is not even horror at all. The horror is the game itself on how bad it is ! 3 bucks for this?? This should be free or 50cents",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Runs at a solid -2 FPS.",
+            "review_score": "-1"
+        }
+    ]
+}

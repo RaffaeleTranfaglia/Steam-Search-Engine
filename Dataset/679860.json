@@ -1,0 +1,40 @@
+{
+    "app_id": 679860,
+    "name": "ZAP Master",
+    "release_date": "2017-09-01",
+    "developer": [
+        "Antonio Renna"
+    ],
+    "publisher": [
+        "Antonio Renna"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 1,
+    "positive_ratings": 20,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "ZAP Master is a 2D, abstract art, base defense game where players click to zap incoming enemies. Enemies spawn in and travel down radial lanes, and if one reaches the end of the lane, it's game over!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/679860/header.jpg?t=1540408068",
+    "minimum_requirements": "OS: Windows XP, 7, Windows 8, Windows 10 Processor: Intel Core 2 Duo or better Memory: 256 MB RAM Graphics: Graphic card with at least 500Mb Storage: 40 MB available space",
+    "recommended_requirements": "OS: Windows XP, 7, Windows 8, Windows 10 Processor: Intel Core 2 Duo or better Memory: 500 MB RAM Graphics: Graphic card with at least 500Mb Storage: 50 MB available space",
+    "reviews": []
+}

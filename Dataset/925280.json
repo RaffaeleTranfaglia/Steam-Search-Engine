@@ -1,0 +1,41 @@
+{
+    "app_id": 925280,
+    "name": "Lot'zAmonsters",
+    "release_date": "2018-09-04",
+    "developer": [
+        "T_T Games"
+    ],
+    "publisher": [
+        "T_T Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "An arcade wave game, shoot, kick upgrade and eat watermelons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/925280/header.jpg?t=1536068258",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: 2ghz+ Memory: 2 GB RAM Graphics: 256MB Storage: 120 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

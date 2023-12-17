@@ -1,0 +1,60 @@
+{
+    "app_id": 332330,
+    "name": "PixelJunk™ Shooter Ultimate",
+    "release_date": "2015-10-21",
+    "developer": [
+        "Q-Games Ltd.",
+        "Double Eleven"
+    ],
+    "publisher": [
+        "Double Eleven"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Twin Stick Shooter",
+        "Co-op"
+    ],
+    "achievements": 27,
+    "positive_ratings": 71,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "CAN YOU SAVE THE SCIENTISTS ON APOXUS PRIME?PixelJunk™ Shooter Ultimate is a twin-stick shooter with equal elements of action and puzzle solving.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/332330/header.jpg?t=1484561813",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 32 bit Processor: Intel Core i5 CPU 760 @ 2.80GHz / AMD Phenom II X6 1035T Processor @ 2.6GHz Memory: 2 GB RAM Graphics: GeForce GTX 470 / AMD Radeon HD 6770 DirectX: Version 10 Storage: 475 MB available space Sound Card: XAudio 2-Compatible Sound Card Additional Notes: Recommended Graphical Settings: Low / Classic Art Style - Only XInput Controllers are supported --- Please Note: A DirectX 10.1 compatible Graphics Card is required! ---",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 64 bit Processor: Intel Core i5 CPU 760 @ 2.80GHz / AMD Phenom II X6 1035T Processor @ 2.6GHz Memory: 2 GB RAM Graphics: GeForce GTX 650 / Radeon HD 7850 DirectX: Version 11 Storage: 475 MB available space Sound Card: XAudio 2-Compatible Sound Card Additional Notes: Recommended Graphical Settings: High / Ultimate Art Style - Only XInput Controllers are supported",
+    "reviews": [
+        {
+            "review_text": "Finally! PixelJunk Shooter Ultimate is the best game from PixelJunk IMO. I've been hoping this would come to PC eventually. If you like side scrolling shooters you'll love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably the nicest surprise of this year's sales. I got PixelJunk Shooter first, and liked it so much I had to get this edition too.  The Ultimate edition was well worth getting as well. Much improved graphics (to they extent that I can only play the new version on my PC; too much work for the GTX870M in my laptop) extra-decent sound track, and the same great gameplay as the original with more levels.  The excellent physics for fluids/gasses are used effectively and interestingly.  This game is 30% twin-stick shooter, 30% puzzle, 30% exploration/collecting, 30% speed runner and 20% indication that maths graduates really  can't  add up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Jan '16: Devs are putting in more work ++rep  There's not much competition in the junk-shooting genre - maybe What's Under Your Blanket - so if you've seen a few seconds of gameplay you'll know if this suits you and whomever is on your couch, or not.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Come on... Netcode but no online Co-Op? Ill change this when we can play online Campaign",
+            "review_score": "-1"
+        }
+    ]
+}

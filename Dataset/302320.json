@@ -1,0 +1,48 @@
+{
+    "app_id": 302320,
+    "name": "Storm over the Pacific",
+    "release_date": "2014-06-13",
+    "developer": [
+        "Wastelands Interactive"
+    ],
+    "publisher": [
+        "Wastelands Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "World War II"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "Storm over the Pacific is a game that takes place during 1937-1945. It depicts the conflict between the Japanese Empire, the USA and other allies during World War II.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/302320/header.jpg?t=1540989015",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2 Memory: 1024 MB RAM Graphics: 256 MB DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: 1.8 Dual Core Memory: 2048 MB RAM Graphics: 512 MB DirectX: Version 9.0c Storage: 800 MB available space",
+    "reviews": [
+        {
+            "review_text": "A decent strategy game, quite low class. Luckily that I got this game from bundle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "esoteric combat metrics will make you lose all your 'strength' points when attacking troops dismounting from landing craft. Do yourself a favor and stick to Heart of Iron, Squad battles, HPS games, or Matrix Games.",
+            "review_score": "-1"
+        }
+    ]
+}

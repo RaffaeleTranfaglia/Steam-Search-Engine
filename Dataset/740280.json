@@ -1,0 +1,40 @@
+{
+    "app_id": 740280,
+    "name": "Preventive Strike",
+    "release_date": "2018-06-15",
+    "developer": [
+        "TocanaDev"
+    ],
+    "publisher": [
+        "TocanaDev"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 11,
+    "negative_ratings": 8,
+    "price": 1.69,
+    "description": "Preventive Strike is a dynamic arcade scroll-shooter created by a single developer. You control an overpowered attack helicopter with the objective to drive the enemy out of your land and make your way to the enemy base and eliminate the threat. They don't know what's coming, but neither do you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/740280/header.jpg?t=1542360245",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ x64 Processor: Intel Core 2 Duo E6550 2.33Ghz or equivalent Memory: 2 GB RAM Graphics: Nvidia Geforce 8800GT 512 MB or equivalent DirectX: Version 10 Storage: 600 MB available space Sound Card: Realtek HD Audio or better",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ x64 Processor: AMD FX-6300 3.5GHz/Intel equivalent or better Memory: 4 GB RAM Graphics: AMD Radeon R9 270 2GB VRAM/Nvidia equivalent or better DirectX: Version 11 Storage: 600 MB available space Sound Card: Realtek HD Audio or better",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 389260,
+    "name": "Lucid Trips",
+    "release_date": "2017-01-12",
+    "developer": [
+        "Nico Uthe, Sara Lisa Vogl, Julian Heinken",
+        "VR Nerds"
+    ],
+    "publisher": [
+        "Sara Lisa Vogl",
+        "VR Nerds"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "VR Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 60,
+    "negative_ratings": 9,
+    "price": 5.59,
+    "description": "Lucid Trips is a Virtual Reality experience which takes places in planetary dream worlds. You explore an artistically designed surrounding with a completely new concept, defining and navigating your avatar in a distinctive way, using hand motion controllers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/389260/header.jpg?t=1512637568",
+    "minimum_requirements": "OS: Windows 7 Processor: i5 4690 @ 3,5 Ghz Memory: 8 GB RAM Graphics: GTX 970 Storage: 1 GB available space",
+    "recommended_requirements": "Graphics: GTX 970",
+    "reviews": []
+}

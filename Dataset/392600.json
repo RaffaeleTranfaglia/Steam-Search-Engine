@@ -1,0 +1,50 @@
+{
+    "app_id": 392600,
+    "name": "Volvox",
+    "release_date": "2015-12-07",
+    "developer": [
+        "Neotenia"
+    ],
+    "publisher": [
+        "Neotenia"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Difficult"
+    ],
+    "achievements": 25,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "The Trimoebas are unicellular rolling animals that populate the primordial soup. Their dream is to build the first multicellular creatures. To succeed they will have to dig tunnels, build towers, and construct bridges, having no tools but their triangular bodies and their special abilities!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/392600/header.jpg?t=1482391954",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: 2GHz Dual Core Memory: 2 GB RAM Graphics: ATI or NVidia card w/ 512 MB RAM Storage: 200 MB available space Additional Notes: On some computers the Steam Overlay interferes with the game in windowed, mode causing crash (or plain color screen). In this cases, please try the fullscreen mode or disable the Steam Overlay.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " This review recommends Neotenia's puzzle game  Volvox  for its excellent, challenging gameplay and puzzle design, despite some rough aesthetics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "🌟🌟🌟🌟🌟",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 719740,
+    "name": "Pi",
+    "release_date": "2017-10-16",
+    "developer": [
+        "Sylvain Seccia"
+    ],
+    "publisher": [
+        "Petite Fleur Productions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Pi is based on an original game concept because it is both a 3D racing arcade game, a platform game, a puzzle game and a first-person shooting game in one for Windows. The player can go through eras such as ancient Egypt, medieval and sci-fi worlds to unlock the mysteries of the Pi number.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/719740/header.jpg?t=1519382234",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows Vista Processor: 2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: ATI Radeon, Geforce with at least 512 MB VRAM DirectX: Version 9.0c Storage: 200 MB available space Sound Card: DirectX compatible sound card with latest drivers Additional Notes: Keyboard, Gamepad",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

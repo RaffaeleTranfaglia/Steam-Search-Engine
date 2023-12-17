@@ -1,0 +1,37 @@
+{
+    "app_id": 667210,
+    "name": "Stability",
+    "release_date": "2017-08-04",
+    "developer": [
+        "Brzezinski"
+    ],
+    "publisher": [
+        "SIFAKA DIGITAL"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 49,
+    "positive_ratings": 15,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "Stability is a puzzle game where you should safely land a rocket overcoming different obstacles. Be aware of lazers, solve puzzles, take care of fuel level and your speed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667210/header.jpg?t=1511390813",
+    "minimum_requirements": "OS: Windows Vista, 7, 10 Processor: Intel Core 2 CPU Memory: 1024 MB RAM Graphics: NVIDIA GT/s 4xx or Equivalent DirectX: Version 9.0 Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

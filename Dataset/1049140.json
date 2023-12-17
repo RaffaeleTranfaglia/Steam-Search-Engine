@@ -1,0 +1,33 @@
+{
+    "app_id": 1049140,
+    "name": "The Cinema Rosa",
+    "release_date": "2019-04-08",
+    "developer": [
+        "Atreyu Games Pty. Ltd."
+    ],
+    "publisher": [
+        "Atreyu Games Pty. Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 9.99,
+    "description": "A classic adventure game set in a haunted cinema, inspired by The Stanley Parable, The Vanishing Of Ethan Carter and Dear Esther.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1049140/header.jpg?t=1554725472",
+    "minimum_requirements": "OS: Windows 7 or above (64-bit Operating System Required) Processor: Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz) Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB DirectX: Version 11 Storage: 13 GB available space Additional Notes: Please note that 32-bit operating systems will not be supported",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz) Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB DirectX: Version 11 Storage: 13 GB available space Additional Notes: Please note that 32-bit operating systems will not be supported",
+    "reviews": []
+}

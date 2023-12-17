@@ -1,0 +1,43 @@
+{
+    "app_id": 545040,
+    "name": "Feather",
+    "release_date": "2019-04-05",
+    "developer": [
+        "Samurai Punk"
+    ],
+    "publisher": [
+        "Samurai Punk"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 1,
+    "positive_ratings": 67,
+    "negative_ratings": 9,
+    "price": 7.19,
+    "description": "Feather is a serene game about exploration and immersion in a beautiful landscape. Become a bird, fly around and lose yourself in zen-like flow whilst listening to the soothing ambient soundtrack.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/545040/header.jpg?t=1554783837",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 64-bit Processor: 2.8GHz CPU Quad Core Memory: 8 GB RAM Graphics: Geforce GTX 860 or equivalent DirectX: Version 10 Storage: 1 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 64-bit Processor: 3.2GHz CPU Quad Core Memory: 8 GB RAM Graphics: Geforce GTX 960 or equivalent DirectX: Version 11 Storage: 1 GB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 757860,
+    "name": "Elbub",
+    "release_date": "2017-12-08",
+    "developer": [
+        "Mykhail Konokh"
+    ],
+    "publisher": [
+        "Mykhail Konokh"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Relaxing"
+    ],
+    "achievements": 28,
+    "positive_ratings": 17,
+    "negative_ratings": 9,
+    "price": 1.59,
+    "description": "You are a bubble, flying among other bubbles. Relax and go on a journey!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/757860/header.jpg?t=1525093145",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Dual Core 3.2 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 (1 GB Memory) or equivalent discrete card (integrated cards may not work) DirectX: Version 11 Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Quad Core 3.4 GHz or more Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 660 (2 GB Memory) or equivalent discrete card (integrated cards may not work) DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

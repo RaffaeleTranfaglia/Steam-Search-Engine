@@ -1,0 +1,44 @@
+{
+    "app_id": 364700,
+    "name": "Dawn of the Plow",
+    "release_date": "2015-11-02",
+    "developer": [
+        "Dan FitzGerald",
+        "Trichotomy"
+    ],
+    "publisher": [
+        "Dan FitzGerald",
+        "Trichotomy"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "You are the new plow on the block, and today is your day. How many cars can you shepherd home before achieving grounds for termination?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364700/header.jpg?t=1447372969",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 2.0 GHz Dual Core Memory: 1 GB RAM Graphics: OpenGL 2.0 Compatible Sound Card: OpenAL Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

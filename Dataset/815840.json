@@ -1,0 +1,49 @@
+{
+    "app_id": 815840,
+    "name": "Sword Mans",
+    "release_date": "2018-03-30",
+    "developer": [
+        "Bypass Game Studios"
+    ],
+    "publisher": [
+        "Bypass Game Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 17,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Sword Mans is a physics based sword fighting brawler where you control the sword instead of the swordsman.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815840/header_alt_assets_0.jpg?t=1554255428",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 Memory: 1 GB RAM Graphics: DX9 Storage: 300 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows 10 Processor: Core I5 Memory: 4 GB RAM Graphics: Geforce GTX 670M Storage: 200 MB available space Sound Card: Any",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 856650,
+    "name": "Pylon Racer",
+    "release_date": "2019-02-21",
+    "developer": [
+        "Johan Hammes"
+    ],
+    "publisher": [
+        "Johan Hammes"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Experience the thrills of racing high power planes meters off the ground and join the elite ranks of daredevil pylon racers. Master the course, conserve energy in the turns and flip through the chicanes in the ultimate race against time.Pylon Racer - puts you back in the pilot’s seat.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/856650/header.jpg?t=1556487332",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: i5 Memory: 8 MB RAM Graphics: Geforce 770 DirectX: Version 12 Storage: 500 MB available space Additional Notes: Joystick or gamepad required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: i7 Memory: 16 MB RAM Graphics: GeForce 970 DirectX: Version 12 Storage: 500 MB available space Sound Card: Yes Additional Notes: Joystick or gamepad required",
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 564900,
+    "name": "Space Hotel",
+    "release_date": "2017-01-04",
+    "developer": [
+        "NHLislive"
+    ],
+    "publisher": [
+        "Man Hockey"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Horror",
+        "Stealth"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 32,
+    "price": 1.59,
+    "description": "One of your ship's engines breaks down while on a trade route. You are forced to make a landing in the nearest star system Merope, constellation Pleiades. Your task is to find a way to the main hangar and escape on the ship of those who remained there forever.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564900/header.jpg?t=1483537236",
+    "minimum_requirements": "OS: Windows 7 Processor: Core i3 2 Ghz Memory: 8 GB RAM Graphics: AMD Radeon 6850 1Gb VRAM DirectX: Version 11 Storage: 860 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Core i5 3 Ghz Memory: 8 MB RAM Graphics: AMD Radeon 6850 1Gb VRAM DirectX: Version 11 Storage: 860 MB available space",
+    "reviews": []
+}

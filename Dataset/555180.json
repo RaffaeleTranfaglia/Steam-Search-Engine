@@ -1,0 +1,44 @@
+{
+    "app_id": 555180,
+    "name": "InfinitasDM",
+    "release_date": "2016-11-28",
+    "developer": [
+        "Atom Switch, Inc."
+    ],
+    "publisher": [
+        "Atom Switch, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Software"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 19,
+    "price": 6.99,
+    "description": "Infinitas DM - Dungeon Mastery. A platform to create, organize, and play campaigns for Pen and Paper RPGs.InfinitasDM is an Atlas, Lorebook, Battle Map, digital RPG tabletop all in one. All completely game-system agnostic for any genre and any RPG system.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555180/header.jpg?t=1500581508",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 4 GB RAM Graphics: Integrated Graphics Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad Core Memory: 8 GB RAM Graphics: Dedicated Graphics Card Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "Its a good tool, however, a very basic one i don't think, in the actual stage, it worths what is pledged on Steam now.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 379210,
+    "name": "Wayward",
+    "release_date": "2016-04-22",
+    "developer": [
+        "Unlok"
+    ],
+    "publisher": [
+        "Unlok"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Pixel Graphics"
+    ],
+    "achievements": 0,
+    "positive_ratings": 455,
+    "negative_ratings": 84,
+    "price": 5.59,
+    "description": "You awake to discover yourself no longer in the company of good men or a fine seafaring vessel. Treasure... you remember something about treasure. Wayward is a challenging turn-based, top-down, wilderness survival roguelike. Explore, build, and most importantly survive in these unforgiving lands.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/379210/header.jpg?t=1549063045",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: 2.2 GHz dual core or better Memory: 2 GB RAM Graphics: GPU with WebGL support, 512MB of video memory, and at least 128 GFLOPS. Storage: 1 GB available space Additional Notes: View hardware compatibility issue list: <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.waywardgame.com/compatibility\" target=\"_blank\" rel=\"noopener\"  >http://www.waywardgame.com/compatibility",
+    "recommended_requirements": "OS: Windows 10 Memory: 4 GB RAM Graphics: GPU with WebGL support, 1GB of video memory, and at least 512 GFLOPS.",
+    "reviews": []
+}

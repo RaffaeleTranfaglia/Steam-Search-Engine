@@ -1,0 +1,43 @@
+{
+    "app_id": 471200,
+    "name": "Melody",
+    "release_date": "2017-10-05",
+    "developer": [
+        "Verge of Brilliance LLC",
+        "Evie Powell",
+        "Michael Fewkes",
+        "Nickolas Forsten",
+        "David Whitlock",
+        "Mike Chokran",
+        "Andrew Luck"
+    ],
+    "publisher": [
+        "Verge of Brilliance LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 14,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Melody currently features one of the most expressive instruments in VR. From resonance sensitivity to 4 track audio recording, this experience pushes the boundaries on what we expect from performance / composition in VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/471200/header.jpg?t=1521831400",
+    "minimum_requirements": "OS: 10 Processor: CPU: Intel Core i5- 4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA: GTX 1070 / GTX 980 or greater DirectX: Version 11 Storage: 600 MB available space",
+    "recommended_requirements": "OS: 10 Processor: CPU: Intel Core i5- 4590 equivalent or greater Graphics: NVIDIA GeForce GTX 1060 or greater DirectX: Version 11 Storage: 600 MB available space Additional Notes: Works best with headphones attached to HTC Vive headset.",
+    "reviews": []
+}

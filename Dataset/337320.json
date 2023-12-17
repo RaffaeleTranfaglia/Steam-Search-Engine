@@ -1,0 +1,48 @@
+{
+    "app_id": 337320,
+    "name": "Paint the Town Red",
+    "release_date": "2015-10-13",
+    "developer": [
+        "South East Games"
+    ],
+    "publisher": [
+        "South East Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Full controller support",
+        "Steam Workshop",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Gore"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4752,
+    "negative_ratings": 489,
+    "price": 11.39,
+    "description": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods. The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/337320/header.jpg?t=1485832592",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Intel Dual-Core 2 GHz (or AMD equivalent) Memory: 2 GB RAM Graphics: DirectX 9c, Shader Model 3 GPU with 512MB Video RAM DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: If you are on or around the min spec then you may need to run with Low graphics options and at a lower resolution.",
+    "recommended_requirements": "OS: Windows 7 or later, 64 Bit Processor: Intel Quad Core i5 @ 2.5 GHz (or AMD equivalent) Memory: 3 GB RAM Graphics: NVIDIA GeForce GTX 670+ DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

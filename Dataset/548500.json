@@ -1,0 +1,43 @@
+{
+    "app_id": 548500,
+    "name": "Payroll",
+    "release_date": "2017-04-03",
+    "developer": [
+        "GZ Storm",
+        "Astrojone"
+    ],
+    "publisher": [
+        "Astrojone"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Commentary available"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 28,
+    "positive_ratings": 34,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "This is what a game would be like if it was a 20-minute office simulator in Windows 95.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/548500/header.jpg?t=1491337878",
+    "minimum_requirements": "OS: Windows XP or better Processor: Pentium 4 with 3 GHz or better Memory: 2 GB RAM Graphics: DirectX 9-compatible video card and a 1024x768px resolution monitor or better DirectX: Version 9.0 Storage: 100 MB available space Sound Card: Windows-compatible Additional Notes: Keyboard+mouse or gamepad",
+    "recommended_requirements": null,
+    "reviews": []
+}

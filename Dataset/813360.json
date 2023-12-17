@@ -1,0 +1,35 @@
+{
+    "app_id": 813360,
+    "name": "Space Duty",
+    "release_date": "2018-03-21",
+    "developer": [
+        "cybercritics"
+    ],
+    "publisher": [
+        "cybercritics"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A short and comical sci-fi story that takes place aboard a small space station in a somewhat strange universe. You have been drafted and shipped to a system on the fringe of colonized space, to make things worse, you have had an AI chip implanted into your head and your memory has failed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/813360/header.jpg?t=1521699446",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 1024 MB RAM Graphics: DX11 with feature level 9.3 capabilities. DirectX: Version 11 Storage: 250 MB available space Sound Card: Any windows supported sound card.",
+    "recommended_requirements": "OS: Windows 10 Processor: SSE2 instruction set support. Memory: 2048 MB RAM Graphics: DX11 with feature level 9.3 capabilities. DirectX: Version 11 Storage: 250 MB available space Sound Card: Any windows supported sound card.",
+    "reviews": []
+}

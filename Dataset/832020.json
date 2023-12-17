@@ -1,0 +1,39 @@
+{
+    "app_id": 832020,
+    "name": "Questery",
+    "release_date": "2018-04-30",
+    "developer": [
+        "Stequer"
+    ],
+    "publisher": [
+        "Stequer"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Early Access"
+    ],
+    "achievements": 5,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Immerse yourself in a beautiful world that will hold you with interesting tasks, an exciting storyline that will not let you go for a second. This can only exist in Questery!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/832020/header.jpg?t=1525114124",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/8.1/10 x64 Processor: Quad-core Intel or AMD 2.5 GHz Memory: 2 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8/8.1/10 x64 Processor: (4 * 2500) or AMD A10-5Intel Core2 Quad Q9300 800K APU (4*3800) or equivalent Memory: 4 GB RAM Graphics: GeForce GTX 460 (1024 MB) or Radeon HD 7770 (1024 MB) DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

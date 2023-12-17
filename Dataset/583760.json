@@ -1,0 +1,42 @@
+{
+    "app_id": 583760,
+    "name": "Slash It 2",
+    "release_date": "2017-01-24",
+    "developer": [
+        "Just1337 Studio"
+    ],
+    "publisher": [
+        "Just1337 Publisher"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 303,
+    "positive_ratings": 798,
+    "negative_ratings": 60,
+    "price": 4.99,
+    "description": "Slash It 2 is a 2D colorful arcade game. The goal is to press letters, numbers and type words in the right time and direction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/583760/header.jpg?t=1488292891",
+    "minimum_requirements": "OS: Windows XP or Later Processor: 1.5GHZ + Memory: 1 GB RAM Graphics: 256 MB or Higher DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

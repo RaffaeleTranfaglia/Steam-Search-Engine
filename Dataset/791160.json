@@ -1,0 +1,40 @@
+{
+    "app_id": 791160,
+    "name": "Icky",
+    "release_date": "2018-02-06",
+    "developer": [
+        "Steedie"
+    ],
+    "publisher": [
+        "Steedie"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 13,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Icky is a very addictive platform game where the main objective is to obtain as high a score as you can. You can level up your character thus upgrading your weapons as you go along. There are tons of different character unlocks to keep the game really exciting!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/791160/header.jpg?t=1519148726",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 91 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

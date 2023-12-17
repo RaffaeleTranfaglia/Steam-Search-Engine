@@ -1,0 +1,43 @@
+{
+    "app_id": 551690,
+    "name": "Counter Fight",
+    "release_date": "2016-11-14",
+    "developer": [
+        "Tricol Co., Ltd."
+    ],
+    "publisher": [
+        "Tricol Co., Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 106,
+    "negative_ratings": 19,
+    "price": 5.59,
+    "description": "Counter Fight is a VR game. You can enjoy the ramen shop . You offer a variety of dishes to eccentric customers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/551690/header.jpg?t=1539759302",
+    "minimum_requirements": "OS: Windows 7 Processor: i5-4950 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "There are some minor problems with the frying pan clipping and the beer bottles not sitting still in the fridge, but other than that the game is really fun and i enjoyed playing it.",
+            "review_score": "1"
+        }
+    ]
+}

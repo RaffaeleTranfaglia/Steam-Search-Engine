@@ -1,0 +1,47 @@
+{
+    "app_id": 436850,
+    "name": "Stellar Stars",
+    "release_date": "2016-11-10",
+    "developer": [
+        "WhiteSponge"
+    ],
+    "publisher": [
+        "WhiteSponge"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 19,
+    "positive_ratings": 3,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Reach for the stars in the world's 1st ever Multiplayer Online Roguelite Arena! Challenge other players (up to 4) in the fast-paced, competitive and procedurally generated arenas! Climb your way up the multiplayer leagues by grabbing trophies from winning matches!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/436850/header.jpg?t=1488510907",
+    "minimum_requirements": "OS: Windows XP, Vista, Windows 7, Windows 8, or Windows 10 Processor: Any processor with 2 Cores Memory: 2 GB RAM Graphics: ATI or Nvidia Videocard with at least 256MB, or Intel GMA 950 or newer Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 7, Windows 8, or Windows 10 Processor: Any processor with 2 Cores Memory: 4 GB RAM Graphics: ATI or Nvidia Videocard with at least 512MB Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

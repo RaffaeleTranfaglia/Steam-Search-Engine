@@ -1,0 +1,43 @@
+{
+    "app_id": 652230,
+    "name": "CrazyCar",
+    "release_date": "2017-07-27",
+    "developer": [
+        "Apillo"
+    ],
+    "publisher": [
+        "Apillo"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Racing",
+        "Indie"
+    ],
+    "achievements": 4,
+    "positive_ratings": 19,
+    "negative_ratings": 43,
+    "price": 4.79,
+    "description": "What is it? Four colours, four scenes, four cars. It's a game, it's an art.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652230/header.jpg?t=1523094870",
+    "minimum_requirements": "OS: Windows 7 / Windows 8 / Windows 10 Processor: Intel Core i3 Memory: 2048 MB RAM Graphics: Intel HD Graphics 4400 Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

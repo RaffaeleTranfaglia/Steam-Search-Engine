@@ -1,0 +1,38 @@
+{
+    "app_id": 776440,
+    "name": "PROJECT VELOCITY",
+    "release_date": "2018-02-22",
+    "developer": [
+        "Omnirift"
+    ],
+    "publisher": [
+        "Omnirift"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "PROJECT VELOCITY is a Bullet Hell and Endless Runner where the speed never stops rising, and the obstacles never stop coming. Fight and cruise your way through obstructions and bosses with ever-increasing difficulty!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/776440/header.jpg?t=1543763944",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support. Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

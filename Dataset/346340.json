@@ -1,0 +1,55 @@
+{
+    "app_id": 346340,
+    "name": "Gran Vitreous",
+    "release_date": "2015-05-20",
+    "developer": [
+        "Heliocentric Studios"
+    ],
+    "publisher": [
+        "Heliocentric Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 40,
+    "positive_ratings": 24,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Gran Vitreous is a PC shmup that combines classic arena shooter gameplay with the mechanics of a loot driven action RPG. Upgrade your ships equipment and level up as you battle through a galaxy filled with randomly generated encounters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346340/header.jpg?t=1447368126",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.2 GHz processor Memory: 300 MB RAM Graphics: Graphics Card that supports Pixel Shader 2.0 and Vertex Shader 2.0 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Gran Vitreous is a fast paced rogue-like shoot em up with a range of unique enemy types, a diverse weapon set, ship customization and a loot/crafting system that keeps you wanting to playing.   Gran Vitreous has loot/crafting mechanics reminiscent of any modern ARPG. This adds a lot of replayability in the form of a galaxy to progress through while you upgrade your ship, grind for new gear and aspire for geometric domination. The shop allows you to sell un-wanted loot, and a store that allows you to re-roll stats on gear that you wish to improve.   The game play is a well balanced set of enemies of various speeds and abilities, the zones are also randomized to include environmental factors such as asteroids, black holes, and debris fields but also adjust have randomized attributes modifiers to them such as item rarity, item count, enemy count, zone size, credit amount, enemy health, enemy damage, to name a few I can remember. This makes every zone a unique encounter as it impacts the way you fight each enemy type. Mix this with the different weapon types and it forces you to craft your own strategy as how to engage enemies in each zone.   Having played this on controller as well as Mouse/Keyboard I can say the developer has done a great job of making the gameplay work well no matter which you are using. My preference for this type of game is to use a controller, however I have played it using mouse/keyboard when my batteries died and I felt I did just as well.   Overall Gran Vitreous is a blast, it looks great has a unique soundtrack and affords you a considerable amount of fun in each level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gran Vitreous -- it's a rather odd name for what's very much a fun manic shmup!  it starts out horribly hard, but once you perservere and get some upgrades, it gets way more fun...and even more and more so, the bigger and badder your l'il ship gets!  I'm up into the late-30s in levels and I totally don't feel OP when attacking even-level zones.  I highly recommend GV for crazy madcap shmup action, with persistent upgrades in a rogue-lite sort of manner.  (edit: the developers made asteroids and debris two-hit kills on my recommendation. thanks!)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "not as good as geometry wars",
+            "review_score": "-1"
+        }
+    ]
+}

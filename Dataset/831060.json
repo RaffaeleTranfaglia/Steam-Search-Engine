@@ -1,0 +1,40 @@
+{
+    "app_id": 831060,
+    "name": "Black Jack Story",
+    "release_date": "2018-04-25",
+    "developer": [
+        "Angry games"
+    ],
+    "publisher": [
+        "Angry games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 52,
+    "positive_ratings": 13,
+    "negative_ratings": 5,
+    "price": 0.79,
+    "description": "In the game, you act as a participant in a large card tournament &quot;Golden Skull&quot;, held among the best players from all over the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/831060/header.jpg?t=1551954886",
+    "minimum_requirements": "OS: Windows Vista/Win 7/Win 8/Win 10 Processor: 1.2 GHz Memory: 1024 MB RAM Graphics: Intel HD Graphics Storage: 900 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows Vista/Win 7/Win 8/Win 10 Processor: 2.4 GHz Memory: 2048 MB RAM Graphics: Better then Intel HD Graphics Storage: 1200 MB available space Sound Card: any",
+    "reviews": []
+}

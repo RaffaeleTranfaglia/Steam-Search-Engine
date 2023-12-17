@@ -1,0 +1,42 @@
+{
+    "app_id": 1024430,
+    "name": "Super Arcade Soccer",
+    "release_date": "2019-02-26",
+    "developer": [
+        "Ruben Alcañiz",
+        "Ruben Alcañiz"
+    ],
+    "publisher": [
+        "Ruben Alcañiz"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "Classic Football is back with Super Arcade Soccer. Super Arcade Soccer is a fun soccer game with arcade playability; direct, accessible control; and a wide range of actions, such as passing, centering, skill...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1024430/header.jpg?t=1556050949",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 Memory: 2048 MB RAM DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

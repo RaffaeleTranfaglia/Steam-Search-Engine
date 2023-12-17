@@ -1,0 +1,56 @@
+{
+    "app_id": 334410,
+    "name": "JUMP",
+    "release_date": "2015-07-30",
+    "developer": [
+        "Endeavor One Inc."
+    ],
+    "publisher": [
+        "Endeavor One Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "VR Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 27,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "JUMP, developed by Endeavor One Inc., enjoy the first large scale virtual reality jumping puzzle to utilize the awesome power of SteamVR! JUMP is a VR Only experience!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/334410/header.jpg?t=1460025780",
+    "minimum_requirements": "OS: Windows 7 SP1 64-Bit Processor: Intel Core i5-2500K @ 3.30GHz Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 780 DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Sound Card: DirectX Compatible Additional Notes: Oculus Rift DK2, Oculus 0.8 Runtime, SteamVR Tool/Internet Connection, Windows Compatible Gamepad",
+    "recommended_requirements": "OS: Windows 10 64-Bit Processor: Intel Core i5-4590K @ 3.30GHz  Memory: 8 GB RAM Graphics: NVIDIA® GeForce® GTX 970 DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Sound Card: DirectX Compatible Additional Notes: HTC Vive, SteamVR Tool/Internet Connection, Windows Compatible Gamepad",
+    "reviews": [
+        {
+            "review_text": "JUMP gives me the same feeling about VR platforming that Super Mario 64 did about 3D platforming almost 20 years ago: there are some kinks to work out, but overall, we're figuring it out.  Let's be honest, 99% of gamers who have put on a VR headset (Oculus Rift, Samsung Gear VR, HTC Vive) agree that this technology is going to change the future of entertainment as a whole (not just gaming). It's the ones who haven't tried it out that remain skeptics.  Due to the potential motion sickness that it might induce, JUMP may not be the right game to introduce those skeptics to the power of virtual reality, but for those of us who have our VR-legs and don't get sick easily, this game is a great challenge and fun to play. You're tasked with reaching the tallest point in each of five major U.S. cities, and you have to achieve that goal in the fewest number of jumps possible. Replaying levels to minimize your jump count becomes addictive, and the awesome soundtrack keeps you moving.  Locomotion controls need to be a little bit more sensitive, and you'll notice it most when jumping to small platforms that require you to quickly slow down after sticking the landing. But that's my only real gripe.  This is the first game from Endeavor One, a studio comprised of ex-Halo and Destiny developers, and if it's any indication as to the direction they will be taking with their virtual reality games, count me excited for the future of this stuff.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great VR experience! It is thrilling to jump from between buildings. Jump's visual style is very clean and effective for this type of gameplay. The control scheme is smooth and intuitive. The music is dope! I would listen to it outside of the game. The game mechanics are easy to pick up and challenging to master. I will be playing these levels over and over in order to get the best jump score possible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very solid VR experience, worth checking out. Clean Visuals, nice menus, audio, controls, ect. Very easy to get into the game, without having to setup any weird settings or move windows around. The screenshots/videos don't do it justice. You really have to experience it in VR to understand the scale/depth it brings. Very cool!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is inplayable with DK2... ton of judder... lost 10 dollars in this ♥♥♥♥",
+            "review_score": "-1"
+        }
+    ]
+}

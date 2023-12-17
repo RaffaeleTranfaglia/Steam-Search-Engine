@@ -1,0 +1,40 @@
+{
+    "app_id": 781110,
+    "name": "Later On",
+    "release_date": "2018-01-26",
+    "developer": [
+        "Penumbra Games"
+    ],
+    "publisher": [
+        "Penumbra Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Gore"
+    ],
+    "achievements": 10,
+    "positive_ratings": 25,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "David lives an ordinary life in a small town called Later On. When his only friend disappears, he seeks after him, and starts to question the reality of the situation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/781110/header.jpg?t=1522258744",
+    "minimum_requirements": "OS: Windows 7 or Greater Processor: Intel Core 2 1.06Ghz Memory: 1 GB RAM Graphics: Integrated graphics DirectX: Version 9.0 Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

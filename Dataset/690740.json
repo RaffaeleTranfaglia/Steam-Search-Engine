@@ -1,0 +1,38 @@
+{
+    "app_id": 690740,
+    "name": "BOOKS",
+    "release_date": "2017-08-23",
+    "developer": [
+        "UNIOCS"
+    ],
+    "publisher": [
+        "UNIOCS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 4564,
+    "positive_ratings": 50,
+    "negative_ratings": 27,
+    "price": 0.79,
+    "description": "Test your knowledge of the animal world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690740/header.jpg?t=1509173441",
+    "minimum_requirements": "OS: Microsoft® Windows® 7 / 8 / 10 Processor: 2.2 GHz processor Memory: 1 GB RAM Graphics: NVIDIA GeForce 450 DirectX: Version 9.0 Storage: 500 MB available space Sound Card: Default",
+    "recommended_requirements": null,
+    "reviews": []
+}

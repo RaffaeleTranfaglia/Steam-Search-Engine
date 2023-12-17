@@ -1,0 +1,42 @@
+{
+    "app_id": 734490,
+    "name": "Minimancer",
+    "release_date": "2017-11-17",
+    "developer": [
+        "James Flannery"
+    ],
+    "publisher": [
+        "James Flannery"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Build your team, fight your way through the land, unlock minions and become the ultimate Minimancer!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/734490/header.jpg?t=1511541143",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7+ (64-bit ONLY) Processor: 2GHz Dual-Core CPU Memory: 2 GB RAM Graphics: Integrated graphics Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

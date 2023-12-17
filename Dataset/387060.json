@@ -1,0 +1,52 @@
+{
+    "app_id": 387060,
+    "name": "Earth Overclocked",
+    "release_date": "2015-12-04",
+    "developer": [
+        "Chronicle Bench"
+    ],
+    "publisher": [
+        "Chronicle Bench"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 63,
+    "positive_ratings": 107,
+    "negative_ratings": 21,
+    "price": 7.19,
+    "description": "Earth Overclocked is a frantic rogue-lite adventure starring a scientist who is terrible at making time machines, but great at blasting bad guys. Use a diverse selection of weapons to fight off monsters while searching for pieces of your time machine in randomly generated environments.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/387060/header.jpg?t=1492972393",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8 GHz Memory: 1 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 192 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "OS: Windows 8.1 or above Processor: AMD A6-5400K APU @ 3.6 GHz, Intel Core 2 Duo E8400 @ 3.00GHz Memory: 2 GB RAM Graphics: Intel HD Graphics 4000 and higher, AMD Radeon R7 240 and up, Nvidia GeForce GT 720 and up DirectX: Version 9.0c Storage: 192 MB available space Sound Card: DirectX Compatible",
+    "reviews": [
+        {
+            "review_text": "EDIT: Developer jumped on all of the bugs I mentioned within 5 hours and pushed fixes for them, and asked for more. Original review still listed for completeness sake, but this is definitely a developer worth supporting. Major usability bugs are gone.  ----------  This needs to be listed as Early Access. Unless there's a bug on the review page, it is not.   Even at full price, I can't see this game going for a fair price of $7.99.   Right now the game has several experience-destroying bugs, and even when it's working the content is pretty bland. It's clear the developer is putting in hard work, but comparing this game to early RotMG is a joke. There is no player-player interaction(arguably the crux of rotmg)  Pros:   - Sounds are good  - Weapons all feel different and have a different use  - Feels satisfying to hit things  - Controls are tight enough  Cons:   - EDIT: FIXED - If at any point you click off the screen, you're done. Your character will keep moving and your key will get locked. This is compounded by a hard to see cursor.  - Enemies all feel similar. They either rush you down or spam you with projectiles.  - Dungeons take forever and all feel the same.   - Entire game hinges on which bosses you roll. Some of them take forever and keep you at bay, while others just stand still and die for you. You definitely want the latter of the two.  - Chests never feel useful. It's much more effective to just get the shark cannon and go win.   - Every playthrough feels the same. I beat the first campaign so I could say I gave it a fair shot, in four tries. The second campaign is the exact same thing except bosses/elites spawn everywhere, instead of just at boss spots or elite spots. The bosses don't feel like they were designed to have synergy.   I want to like this game, as Realm holds a place in my heart, but it just feels like a paid version of a free game that does everything better.   It would be worth in its current state IF:   - It was at the $2.50 level. There are just so many other things out there for $8 or even $5 that are *better*.   - It was marked Early Access. This does not feel like a finished product.  - It did something new. Adding a timer to the game lies directly at odds with any strategy besides 'rush', and rushing doesn't feel fun in this game.   - It had online multiplayer. Playing by myself is boring, but I could see this being okay with a friend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game isn't fun at all. if you're lucky to get the right weapons, you're good. but if you don't. you're screwed.  and on top of that, if you get a good weapon, it has a much too low durability. so most of the game depends on your luck. and on top of all that, you also have a time limit and the enemies are way too strong. there is also no possibility, to upgrade your character to make him stronger, run faster and so on.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 411600,
+    "name": "The Sentient",
+    "release_date": "2016-02-29",
+    "developer": [
+        "Uncaged Studios"
+    ],
+    "publisher": [
+        "Uncaged Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 16,
+    "positive_ratings": 37,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "Play as an A.I tasked with helping mankind explore the vastness of space. Customize your ship, recruit a crew, battle alien vessels, research new technology and explore randomly generated universes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/411600/header.jpg?t=1529466202",
+    "minimum_requirements": "OS: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10 Processor: 1.2 GHz Memory: 1024 MB RAM Graphics: OpenGL 3.0 compatible video card DirectX: Version 10 Storage: 800 MB available space",
+    "recommended_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: 2 GHz Memory: 2048 MB RAM Graphics: OpenGL 3.0 compatible video card DirectX: Version 10 Storage: 800 MB available space",
+    "reviews": []
+}

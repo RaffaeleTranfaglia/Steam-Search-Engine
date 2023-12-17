@@ -1,0 +1,106 @@
+{
+    "app_id": 372690,
+    "name": "Chiptune Champion",
+    "release_date": "2016-01-08",
+    "developer": [
+        "Blake Garner"
+    ],
+    "publisher": [
+        "Blake Garner"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Rhythm",
+        "Music",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 167,
+    "negative_ratings": 35,
+    "price": 6.99,
+    "description": "Transform your keyboard into an instrument and play along to the melody of catchy chiptunes in this challenging rhythm game. Now with tap mode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/372690/header.jpg?t=1454731795",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2Ghz+ Memory: 1 GB RAM Graphics: 512 MB Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Note: The developer updated the game to address the two biggest complaints I had with this game. I have updated this review to reflect this.  I'll start off with the negative. Often when I read reviews about a game, I want to know what's wrong with it first and foremost, so that's what i'll provide.  This game has a few technical problems. There is only one lag compensation setting, forcing you to synch the game to line up visually or line up audibly, just like the original Guitar Hero game on the PS2. Guitar Hero 2, a game released in 2006, had a separate compensation value for the video and audio to account for each device having separate latencies. It's frustrating that a rhythm game released this year has overlooked a problem that its influences have already solved. Additionally, on Windows 10, closing the game crashes it. Some process related to the game remains open, causing steam to track additional playtime for it. If you're on the fence about keeping this game and are a part of the 30%+ people on Steam that use Windows 10, be aware that this bug may cause you to run over the 2 hour window for returns.  The interface isn't perfect. Many rhythm games will give you a preview of the song you've selected when you highlight it in the track list, but this game keeps playing the menu music for you. It can make it a little harder to find the songs you like.  On to what's good!  The developers read my review and took into consideration my feedback, as well as the feedback of others. A patch came out addressing some major issues within 36 hours of this review, which buys them a lot of respect in my book. It's a sign that they care and weren't just looking to dump a game on Steam and never touch it again, as some other Indie devs often do. To be perfectly honest, I am waiting for another patch or two before I personally re-invest in this title. But the soundtrack is quite nice (i've listened to it outside of the game), and reports from other users suggest that the changes to note timing have made the game much more fun to play. I think this warrants a purchase and would recommend this title if you like rhythm games and chiptunes.  I fully anticipate that i'll have to continue to update this review to reflect changes made by the developer. When I re-invest in the title myself, i'll be able to talk more objectively about what I enjoy in the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Chiptune Champion is a great game, I'm glad I bought it on release. I feel there's a lack of Guitar Hero/Rock Band-like games on Steam and this one delivers. All the official songs are chiptune music as you would imagine, but you can find some 'normal' songs on the workshop. I feel the game still lacks a few relevant features, like a countdown timer after you unpause and controller support (you can use Xpadder for that, though), but overall it's a pretty fun experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really great game if you are into top-down rhythm games and chiptunes. I'd recommend it to anyone wanting a quick and easy to get into alternative to GH for steam.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good idea, poor execution.  There is no actual fullscreen. You can only scale it up 2 or 3 times and then there is a giant black border around the entire game.  There is no automatic sound/monitor syncing, you have to exit out to the main menu, go into settings, and manually enter a number between -100 and 100, then go back into a level and try again.  The game uses prerecorded audio tracks rather than playing the notes live as they are pressed. Better for low-end computers, but it causes the gameplay to suffer. If you miss a note, the music continues to play, you just hear an annoying sound that the note was missed. It should not play the music if you miss the note.  Worse yet , the music and the notes occasionally desync, because the notes were just placed there by someone who thinks that is where the music plays at, not EXACTLY where the music plays at.  There does not seem to be any progression, not even a tutorial. You can pick any song and the difficulty does not go up as you play the next song available. The next song is sometimes MUCH easier than the previous.  There probably should be 4 difficulty levels, not 3.   Difficulty level 1 would be 3 notes playable and few notes of the song show up. Difficulty level 2 would be 4 notes playable. Difficulty level 3 would be 5 notes playable. Difficulty level 4 would be 5 notes playable and all the notes of the song show up.   That would be better for personal progression of getting better at the game. Those who have never played a music rythm game like this will most likely be overwhelmed by 4 notes at the current easiest difficulty.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love this game! I really liked 'Frets on Fire' and this is kind of like it but better!  and if you like Chiptunes and guitar hero this is the game for you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "timing difficulty is almost impossible, either that or poor input detection  consistently not being able to hit notes even when I should have  could become playable if this issue is fixed  edit:  dev added tap mode, sick",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Now this is what I call 'KEYTAR'!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a pretty fun game  thats it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple guitar hero/ rockband type game.   If you're looking for a fun cut down no fancy BS rhythm this is the game to get. song creator is great, made a demo of an uploaded track works flawlessly!   Get this game if you like rhythm games. First time in a long time a game has caught my interest in the first 5 minutes",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Your vision will start to warp, your fingers will get blistered, and you'll be grinning the whole time. 5/5.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "review in progrss, but so far i'm loving everything about this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is not a champion.  Chiptune Champion has great chiptune music. It presents a five button rhythm game, and unfortunately kneecaps itself immediately, by having easy mode be only a four button game.  Rhythm games are always too easy on easy mod. As an experienced rythm gamer, I naturally want to double tap, and that's not a part of easy mode. Like in all rhythm games, easy mode is just too easy: it's not any fun! And when you can't even practice using five buttons, it means that there's no enty point into the real game.  Medium difficulty level, is just that. There is no 'easy' song, to practice five notes on. With no way to turn off the life meter--that I can see--there is literally no way to practice five button mode. You actually have to go into, frankly a pretty difficult song, everytime, and grind out 45 second practice sessions until you make it through a whole song.   In my view, that is a critical mistake. Only a hardcore player will do that, and I expect that a hundred previous reviews of this game, are by hardcore players.   Yes, if you can play an entire five button song: it is fun!!! The visuals are great, and the music is fantastic! And there's a great number of songs, too! But unless you're already a hardcore rhythm game fanatic, then this game does not offer a learning curve that lets you have fun on the way to reaching that level.      Easy mode is too easy! And without some genuine 'beginner five button stages,' the experience is not fun, unless you're willing to put in the practice.     The music is really great. That works against this game, because being unable to hear -&gt;any song&lt;- to completion, is just unsatisfying. Yes, it's fun, if you can get there: and I believe a lot of players will not be willing to make that journey. And until they do, the game is not fun. I have a pretty good amount of practice, so I can learn this game and make it through a five button song, but it wasn't fun to reach that level. Without 'fun' being easily reachable by many players, I do not think this is a game I can recommend for most players. I like the difficulty of these songs--as an experienced rhythm game player--but there needs to be some easier points of entry for new players; otherwise I'm recommending many people have a not-fun experience.  Can I recommend it to hardcore rhythm game fans: yes, absolutely, and I encourage you to play it.  Can I recommend it to beginner players -&gt; or to intermediary players, of any type!! &lt;- No. I can't. Easy mode is not well enough made to be fun. And there is no way to practice five button mode, so players can become better by practicing a song in a relaxed way. It's not a fun game for these players.  Can I recommend this game? No.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Guitar-hero like game for the PC.  I miss JAMLEGEND :[ This game is tons of fun though. It's hard with a heavy mechanical keyboard like mine, but it's really fun. 10/10 game for what it's worth. And it supports custom tracks as well, though you have to place the notes yourself, etc.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's exactly what it looks like - Guitar Hero for chiptunes.  The only real downside I can see is the lack of an attempt at ordering the songs by difficulty. The difficulty levels are relatively even across songs, so it's not really much of a problem, but it would have been nice.  There's also one staple elements of Guitar Hero missing here - double stops. Oddly, there's exactly one song that has them. It's not clear why none of the others do since there are places where it would clearly make sense for them to be.  The music is absolutely great - a wonderful selection of chiptunes you'll be walking around humming for days.  Beyond that, the game is an absolute joy and the included track editor and Workshop support make it even more fun. Highly recommended and well worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "for some reason i cant load in, but its probably my stupid ♥♥♥ computer so im not worried. i have played quite a bit of it and i absolutely love the music and clean gameplay. doesnt get much better when it comes to original music games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IT'S SO ADDICTING  one thing I would like to be changed is so you can strum at the hammer-ons as it doesn't let you do that currently and it's quite frustrating",
+            "review_score": "1"
+        }
+    ]
+}

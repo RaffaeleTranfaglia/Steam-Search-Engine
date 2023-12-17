@@ -1,0 +1,36 @@
+{
+    "app_id": 773170,
+    "name": "Close the Window!",
+    "release_date": "2018-01-02",
+    "developer": [
+        "Victor Corradi"
+    ],
+    "publisher": [
+        "Corradi Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 49,
+    "positive_ratings": 11,
+    "negative_ratings": 19,
+    "price": 0.79,
+    "description": "Close the Window You just installed the new OS, called Ruindows. It worked well for a week but suddenly some erros related to this version started to popping up on screen, you need to close these errors before it's too late! Every time you click on 'start' there's a slight chance to invoke the farm mode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/773170/header.jpg?t=1522109254",
+    "minimum_requirements": "OS: Windows 7, 10 Processor: Any Memory: 1 GB RAM Graphics: Any Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

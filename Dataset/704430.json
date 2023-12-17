@@ -1,0 +1,42 @@
+{
+    "app_id": 704430,
+    "name": "Space Survivors Shooter",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Maurice Fernitz",
+        "Felix Gillmann",
+        "Enrico Przibilla",
+        "Robert Schuricht"
+    ],
+    "publisher": [
+        "Maurice Fernitz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Hello Space Survivors, this is little shooter game. Which is now most about shooting zombies put pvp will hopefully follow.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704430/header.jpg?t=1556385190",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64bit Processor: Intel Pentium G860 3GHz Memory: 4 GB RAM Graphics: GTX 970 DirectX: Version 11 Network: Broadband Internet connection Storage: 8 GB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64bit Processor: Intel Core I3 2nd gen Memory: 8 GB RAM Graphics: RX480 DirectX: Version 11 Network: Broadband Internet connection Storage: 16 GB available space Sound Card: DirectX compatible",
+    "reviews": []
+}

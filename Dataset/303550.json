@@ -1,0 +1,40 @@
+{
+    "app_id": 303550,
+    "name": "Adventures of Pip",
+    "release_date": "2015-06-04",
+    "developer": [
+        "TicToc Games"
+    ],
+    "publisher": [
+        "TicToc Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 20,
+    "positive_ratings": 176,
+    "negative_ratings": 20,
+    "price": 10.99,
+    "description": "Play as the ultimate digital underdog in the Adventures of Pip,an action-platformer with a fresh gameplay twist inside a retro 32-bit world. Alas, Pip is an unlikely 1-pixel hero yet has the unique ability to absorb the pixels of his defeated enemies to evolve into three different forms.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/303550/header.jpg?t=1447361994",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Intel Dual Core 2.1 or higher Memory: 2 GB RAM Graphics: Intel video graphics card 2000/3000 256MB Storage: 550 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

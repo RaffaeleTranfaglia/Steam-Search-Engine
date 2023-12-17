@@ -1,0 +1,41 @@
+{
+    "app_id": 666570,
+    "name": "Infectonator 3: Apocalypse",
+    "release_date": "2018-05-10",
+    "developer": [
+        "Toge Productions"
+    ],
+    "publisher": [
+        "Armor Games Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Simulation"
+    ],
+    "achievements": 41,
+    "positive_ratings": 234,
+    "negative_ratings": 84,
+    "price": 10.29,
+    "description": "A campy, crazy pixelart zombie apocalypse arcade sim where you're the bad guy. Drop your virus and spread it across the globe while you unlock a whole horde of bizarre undead to do your bidding.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/666570/header.jpg?t=1547487819",
+    "minimum_requirements": "OS: Windows 7 Service Pack 1 Processor: 2.4 GHz or faster processor Memory: 1 GB RAM Graphics: 512 MB VRAM, support Pixel Shader version 2.x or above DirectX: Version 10 Storage: 500 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.8 GHz or faster processor Memory: 1 GB RAM Graphics: 1 GB VRAM, support Pixel Shader version 2.x or above DirectX: Version 10 Storage: 500 MB available space Sound Card: Any",
+    "reviews": []
+}

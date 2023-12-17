@@ -1,0 +1,42 @@
+{
+    "app_id": 606190,
+    "name": "Nighthaw-X3000",
+    "release_date": "2017-04-13",
+    "developer": [
+        "N94Games"
+    ],
+    "publisher": [
+        "AAG Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 18,
+    "positive_ratings": 18,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Nighthaw-X3000 is a classic, arcade shoot'em up. Shoot everything on sight and don't get killed. Do it by yourself or in local, couch co-op.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/606190/header.jpg?t=1494403990",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Processor: 2.0GHz processor Memory: 512 MB RAM Graphics: DirectX 9-Compatible with at least 32MB of video memory DirectX: Version 9.0c Storage: 50 MB available space Additional Notes: Xbox 360 controller compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

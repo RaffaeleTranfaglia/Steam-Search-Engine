@@ -1,0 +1,53 @@
+{
+    "app_id": 338810,
+    "name": "Demise of Nations",
+    "release_date": "2017-08-08",
+    "developer": [
+        "Noble Master LLC"
+    ],
+    "publisher": [
+        "Noble Master LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 229,
+    "negative_ratings": 65,
+    "price": 0.0,
+    "description": "Demise of Nations is a 4X turn-based grand strategy wargame covering the rise of Rome till the fall of modern civilization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/338810/header.jpg?t=1552971062",
+    "minimum_requirements": "OS: Windows XP or later Processor: 1.8GHz single core Memory: 512 MB RAM Graphics: OpenGL 2.1+ Storage: 256 MB available space",
+    "recommended_requirements": "Memory: 1024 MB RAM Storage: 1024 MB available space",
+    "reviews": []
+}

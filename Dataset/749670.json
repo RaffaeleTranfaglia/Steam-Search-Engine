@@ -1,0 +1,42 @@
+{
+    "app_id": 749670,
+    "name": "Spinning Around",
+    "release_date": "2017-11-24",
+    "developer": [
+        "XiNFiNiTY Games"
+    ],
+    "publisher": [
+        "OtakuMaker SARL"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 23,
+    "negative_ratings": 3,
+    "price": 0.99,
+    "description": "Are you up for the challenge? Spinning around is an arcade game that will test your reflexes in the simplest form. Guide your spaceship through the gates,be fast!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/749670/header.jpg?t=1511545078",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 1 GB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 55 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

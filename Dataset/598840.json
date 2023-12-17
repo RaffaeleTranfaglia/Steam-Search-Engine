@@ -1,0 +1,45 @@
+{
+    "app_id": 598840,
+    "name": "Ninja Shodown",
+    "release_date": "2017-09-26",
+    "developer": [
+        "Bitmap Bureau"
+    ],
+    "publisher": [
+        "Rising Star Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Ninja",
+        "2D"
+    ],
+    "achievements": 24,
+    "positive_ratings": 11,
+    "negative_ratings": 1,
+    "price": 9.99,
+    "description": "It’s every ninja for themselves in the ultimate battle for the Jade Katana! Fight alone, team up or take on friends in brutal arena-based combat where the mighty prevail and the weak pay the ultimate price: death and dishonour!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/598840/header.jpg?t=1506432528",
+    "minimum_requirements": "OS: Windows 7/8.x/10 Processor: Intel Core i5 Memory: 1 GB RAM Graphics: 512Mb VRAM DirectX: Version 9.0 Storage: 250 MB available space Sound Card: Any compatible soundcard",
+    "recommended_requirements": null,
+    "reviews": []
+}

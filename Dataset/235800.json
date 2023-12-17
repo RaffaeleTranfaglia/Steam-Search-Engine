@@ -1,0 +1,745 @@
+{
+    "app_id": 235800,
+    "name": "Audiosurf 2",
+    "release_date": "2015-05-26",
+    "developer": [
+        "Dylan Fitterer"
+    ],
+    "publisher": [
+        "Dylan Fitterer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Music",
+        "Indie",
+        "Rhythm"
+    ],
+    "achievements": 14,
+    "positive_ratings": 3785,
+    "negative_ratings": 882,
+    "price": 10.99,
+    "description": "Ride your music in more ways than ever before. Audiosurf 2 is the music game for your entire music collection. Hundreds of mods/skins on Workshop. Free demo available.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/235800/header.jpg?t=1530123082",
+    "minimum_requirements": "最低配置: 操作系统: Windows Vista/7/8 处理器: 32 or 64-bit Dual Core or better 内存: 2 GB RAM 图形: Intel HD3000 DirectX 版本: 9.0c 存储空间: 需要 400 MB 可用空间",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "If you enjoyed the original audiosurf, get this, it's basically audiosurf, but opened up to the max, with fantastic modding support and every mode you could wish for. If a mode you want isn't there, chances are you can find it on the workshop already, and the game has only just left early access. If you haven't played the original, also get this. It's a brilliant rhythm game where you can play with any song you like on a multitude of game modes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "       Feature   Details   Score      Gameplay   Engaging while also very fun. The huge variety of gamemodes help. You'll keep playing just to beat a leaderboard score.   5/5      Graphics   Stunning, nostalgic or rainbow vomit. You decide with the massive amount of  skins.    5/5     Settings   There is room for improvement, with just one screen with all settings thrown on it.   3/5     Music Sync   Probably the best you can get, without creating specific timings like osu or stepmania. You will see the shortcomings in some gamemodes, such as audiosprint.   4/5     Steam Workshop   Gamemodes can be created with lua, skins with textures and some 3d modelling. There is a decent collection that continues to grow.   4/5     Online Connectivity   Native SoundCloud support means this game has a huge community. The value of being able to use SoundCloud to play songs or send challenges to friends cannot be overstated.   5/5      Songs tested:  Gorillaz - Feel Good Inc [audiosprint][daylight] Fiver T.J. Fox - Who you gonna call? [wakeboard][greenhill] Hatsune Miku - Bad Apple [casual][SimpleN1randomspace] Andrade 'Cien' Almas - Making A Difference [mono][spektrum] Chase &amp; Status - International (VIP Vs Skrillex) [vegas][as-portal] JAM - the Festival of Ghost 2 [wakeboard][sergalicious shiny] Zea - The Ghost of Wind [ninja][spektrum]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf was a fantastic time waster before the most recent update. It useded to use Soundcloud integration to allow users to search for nearly any song and it would pull the audio straight from Soundcload with no disruptions or hassels. After the most recent update, the Audiosurf 2 dev team have swapped out the problem-free Soundcloud integration for a clunky, slow, and buggy Youtube integration.  When the game worked with Soundcloud a user could just search a song name, and if a soundcloud user had uploaded it, they could play it immediatly.  Now when the player searches a song they have to go through Youtube to find it, this allows the user to find pretty much any song they'd ever want. The downside is that upon playing a song for the first time, Audiosurf has to take 5 minutes, somtimes more converting the video over to an MP3 format.  Previouslly when loading a song from Soundcloud it would just play immediatlly upon entering the actual game, now users need to play the Youtube video in a small box, distracting box in the lower right corner.  I would've recomended this game if they had not swapped out the Soundcloud itegration, or heck even allowed users to switch between the two platforms. But in it's current state, Audiosurf 2 is simply too much of a pain in my butt to enjoy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Seems like you peeps really like Anime music and Monstercat",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Makes listening to music less of a passive experience and that's good enough for me.   Some of the modes/skins available in-game and in the workshop are a lot of fun too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf 2 had something good going but shot themselves in the foot.  I've played 100 hrs of this game.   I loved this game it WAS good then instead of running the music through soundcloud like they originally had, 'Audiosurf 2' decided to change to youtube as their music player source... What a mistake to make. This has made me HATE the game. This resulted in a huge drop of qaulity &amp; variety of songs that you could play to.  Something great now rubbish. I can no longer recommend this game to a friend unless it was free.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I was lukewarm to the idea of playing another 'music surf' game, since I had exhausted the first audiosurf and fellow peers did not recommend the new one being supposedly early access, but the game at this point in my reviewing works pretty flawlessly and fantastically. A million times more variation to the original, with a steam workshop dedicated to new game modes, soundcloud support which is fantastic for me since I haven't been able to transfer my old music from the computer on to the new one, and plenty of visual skins to keep the presentation and aesthetic of surfing very fresh. It will always come down to one thing; Audiosurf doesn't have many flaws to point out in the first place, and the same applies here.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Just like the previous one but better",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The combination of completely unpredictable dead ends, the removal of color chain bonuses, the removal of any real penalty for hitting spikes in mono, the very poor feedback of whether or not you're actually in line to hit something, and the ridiculously loud visual effects that make being able to identify how many blocks are in your grid in any situation other than the absolute slowest rides impossible to do at a glance, have resulted in a very disappointing sequel to one of the best games ever made.  Audiosurf 1 is vastly better than this, go buy that instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Love this game!! You can race to the beat of your own song!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Who needs costly LSD when you can surf on audio for couple of bucks?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played 2 hours worth of my iTunes library on this game before I realized it's more than just riding the soundwaves of your favorite songs, but it's also an arcade style strategy-puzzle game with an extensive global leaderboard.  And I suck at it.  But I did very much enjoy my first 2 hours of innocence before feeling like an absolute loser. 10/10 would cry again.  All in all, really cool game, would definitely recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros: - Better at reading audio and matching it to the track than the original - Prettier - Can download custom skins and modes for even more prettiness and variation  Cons: - Song length is limited to 40 minutes :( - Searching for songs in your own library could use a lot of improvement  Those are only niche gripes though and basically this game is amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am big fan of Audiosurf way before joined Steam. Its been 20 hours into Audiosurf 2 and it totally rocks.  First of all, visuals and game feel seems amazing. Without any problems pllaying this game with old potato. Many updates and new features. Really cool songs of the day within different genres, search tool, few random songs from your library option and SoundCloud streaming is awesome. Somehow music browsing through huge libraries isnt as smooth as you wish, therefor there is windows explorer as a backu-up option. Some kind of advanced music browsing would be nice - albums, playlists, non-stop ride-through and stuff... Maybe something like Last.fm plug-in is missing too, but in Steam guides you can easly find manual solution. Up to 4 players local multiplayer mod is great additional aswell. And Steam workshop for mods and skins is just brilliant.  Some updates here and there, but this game is so cool. Great time killer, perfect for relaxing and chill. Leaderboards and some hard ones achievements for dedication.   11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "what. the. hell.   This game used to be good!  So now after some months not playing Audiosurf 2, I was shocked what happened. No soundcloud anymore? Every song is played in slow motion? what is this?  Like i said, I used to love this game. But the devs ruined it. Farewell Audiosurf.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "[Early Acces Review] You can ride your music. Says anough. Buy it. Dont hesitate.  [New review]  Well. There isn't much to say about the game beside's that it's better then the first Audiosurf, although that as also an amazing game. In my opinion i like Audiosurf 2 alot more then 1, Reasons for that is that there's ''alot more to do'' then in the first game.  - Mods? Yes Please! probably one of the better things that has happened to the game, And let's people who play the game get more interactive with the game itself.  -One thing i always ''struggled'' with in the first game was the camera angle, or the zoom of the camera in the first game. This one dosn't have that problem!   -The graphics are better... Defenetly since the release of the DirectX11 it's a been a great improvement for this game.  -The UI is also different, better in a way. I've been playing since really Early Acces, And i have to admit at first i had to get used to the new UI since it's got out of Early Acces. After a while i started liking it. But i'm still used to the old UI :P.  -Audiosurf 2 has a better way of ''writing/riding'' the songs then Audiosurf, It picks everything up way better with Drums, Bass, Vocals etc. Also it's sometimes possible to ride songs that last 2hours! woo!  Overall in my opinion, Again. This is a great game! I'm glad this game excists, It helps you ''do something'' while your listening to music, Defently for some people, like me, This is very usefull and a great way to still spend time. 11/10.  Now. There's your serious review. Now let me play the game.  Don't forget to buy it before you leave the page! Thanks for the time and reading this ''serious'' review. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game on drugs is insane, 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would recommend Audiosurf2 to every fan of music games.  It is a work in progress and everything is not better than AS1 in some ways.  Get both or get what your friends play for more leaderboards.  +Improved visuals +Integrated soundcloud +Leaderboards no longer require separate account login +Mods +Achievements +Workshop integration +Linux version +Community active developer   (Good to know: The controls do not switch seamless between keyboard and mouse anymore (it does in AS1 which i liked bc it allowed using both simultaneously or switch without interuption) The game engine is heavier than AS1, switching between resolutions and window mode the game screen and menu screen uses different resolutions. Which interupts a recording session. Linux version didnt recognize mp3 format, only flac, tested on steamos. I tried all sorts of packages. I read it works on other linux distros.)  9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "play escape from midwich valley by carpenter brut    trust me",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine Megarace, GuitarHero and Tetris having a wild party together with the winamp visualizer.  Got it? This game is exactly what happens 9 months after that night.  This game is: - Casual - Relaxing  - Hard - Extremely hard - Addictive like hell (yes, ALL of the mentioned above)  The only things that limit you are the size of your 'MUSIC' folder and your love to listen to it.  Have in mind, however, that you're not likely to find a highscore competitor for somethig rare and\\or local. The real world-wide highscore challange only happens with hits and widely popular tracks (or random 'song of the day'). Some modes are much more popular than the others.  It's a good idea to clean up your tags before playing. Cyrillic characters work well (if saved with a proper encoding options).  Workshop skins are nice, plenty of those to choose from (so far I loved 'aurora' the most).   NOTE! There IS a built-in Last.FM scrobbler. It works, but for some totally unexplainable reason the only way to turn it on is to tweak the .xml config file, it's not avaliable from the in-game menu.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice time waster and I actually found some incredible music through song of the day.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(Me,totally not trying to get stupid badge atm) Audiosurf 1 was a pioneer. It was a rhytm games age, and it was held on consoles, be a Guitar Hero in your Rock Band. Audiosurf brought to PC a piece of this, with good concept behind - every song can be played. I bought Audiosurf 2 back at early access, tbh not because i was expecting much, but out of respect to first game and in hope that my money will help devs a bit. To my suprise i recievied a well-done game, with same concept,but revised and more smoothly working. Game was working with Soundcloud, each song from hard drive also could work, everything were fine. But next, a YouTube update came, all peace and balance in this little game died. IMO, the update was just not ready, and Still after weeks of its release not working steadly. Yup, on paper its brilliant and should do fine - play every song from youtube, and i do admit the technology itself is amazing, but right after its release a question came. Question is, why devs held this idea? The indie market could have waited for Audiosurf 2 for half, year more nad if it was released right with YouTube technology, steadly working game would have had good player base and would not be 'dead' in half year. Do i recommend it? Ye, get it on sales, but dont expect the innovation that Surf 1 brought, or sometimes even smooth work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best game to play .... on clouds?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Think of Audiosurf franchise the same of most movie franchises: Should had stayed on the First only. I got this game on Early Access, and now it is fully released, still not good as the first one, idk if it is the engine they choose, or what, the game is not even the sadow of Audiosurf 1 is.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This ♥♥♥♥♥ game is so cool but it hurts my head sometimes",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoy the game alot because I love music and honestly its really addictive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is indeed an improved Audiosurf 1. It has better graphics, skin etc; and most importantly better sync with the songs.   However I do find myself disliking some part of the game that I feel worth noting here.  First, the absence of difficulty is awful; like I loved playing Eraser Pro for relaxed rides, and now I am forced to play what was called elite.  Second, the spinny track for mono is a bit too much; especially when it's unfortunately placed in the climax, which pretty much guarantees a spike.  Third, white block simulator and dead eraser. You'll get the idea.   But to be fair here I still like this game and it is still an enjoyable game over all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got bored and decided to play a song by snoop dogg Glad to say that the color for the stage was almost entirely green.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Basically if you ever wanted to literally ride a guitar rif, this is the game for you, simple gameplay is fun and advance gameplay is very very challenging, and the mod community is making new game modes and skins all the time. Absolute blast to play when you find that new song youve been groovin to or an old favorite. Highly recommend to all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you haven't play the original you probably should consider getting this one. UNLESS, get this right UNLESS! You want the online streaming, then this one sucks at that, it stutters and it's slow and ♥♥♥♥.  But if you are going to play with your own local music collection it's really fine. I recommend, ON SALE  So, buy if you are going to use your local music, wich I do, and it's really fine and a enjoyable experience. Get the first one if you want the online streaming feature thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Play Audiosurf 2 with some Hardcore music and your life take a better way istantly.  If you don't listen Hardcore try this:  Thorax - Dark Angel Miss K8 - Metropolis of massacre Angerfist - Megamix 2011 Korsakoff - Voices ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been playing this game since before its release and it still feels fresh because of workshop and option to choose any song you like or even a youtube video.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Removed the fantastic Soundcloud support and added the buggy, weird, annoying and slow youtube support.  When Soundcloud changed their API and ToS it kicked out Audiosurf-support. Since Music Streaming is the only reason why people bought the game in the first place, Dylan (the one man developer) was forced to add an alternative.  And this alternative was the support of Youtube-Streaming. Heh, you cant really call it support.   I mean, yeah it works somehow - but there are a few problems:  First Problem:  Youtubes ToS does not allow the separation of Audio-Track and Video. So now you have this annoying huge Video in the game all the damn time.  It does a pretty nice job in A) destroying the fun  B) destroying the nice visuals with costume skins  C) destroying your concentration  Second Problem:  The performance. Stutters, laggs, freezes and crashes all the time. You can feel that the game was never supposed to support playback of Audio and Video at the same time.  If you have your music library saved locally on your gaming-pc, give it a try. But if you dont and thought the promised 'Music streaming' would work: Stay far away from this piece of software.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Such an awesome game with so many cool modded tracks. It has one glaring issue and that's no Spotify compatibility!!!!!!!!!! This is only an issue because I listen to all my music digitally and don't have them stored on my pc, and also SoundCloud has much too small of a selection. I listen to lots of Metal! This doesn't have enough. With what it does have and at 5 bucks it's a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was barely holding itself together even before the 'Youtube Update'.  If it wasn't for slight improvements in gameplay rules, visuals and Soundcloud integration, this wouldn't qualify as a worthy game at all. The interface, menus, options and basically all UI elements looked like a split from the dog's throat. Navigation through the music collection was a nightmare. Getting any helpful information about the song was fruitless. Search options did not work half of the time. Overall presentation and functionality was a disgrace to the fanbase of the original game and all the new players interested in getting a proper product that wasn't duct-taped. All the new modes introduced in the sequel are laughable and joyless, without any spark of gameplay fidelity or enjoyment.  Even with all of those problems and inconveniences, I was still on the positive side of the spectrum. The gameplay was still a good, old Audiosurf, with good improvements on the details of scoring system. In game proper the graphics were really nice and the Soundcloud integration was a great idea that allowed you to try out more music, about which you wouldn't know otherwise.  And then they screwed up Soundcloud integration. And then they added Youtube integration which barely works, is horribly implemented in the game's UI with performance issues for the good measure. The game is back in the alpha state, figuratively speaking. Broken, ugly and distasteful state which would warrant a removal from sale for any respectable developer, but those responsible for the game are nowhere to be seen.  Avoid.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "it works with any song on YOUTUBE now get it damn it!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf 2 visualizes your music, and lets you ride to the beat. It's very fast-paced, yet visually stunning. Custom music is playable with a rhythmically accurate map-layout too! A number of playable modes, tons of high-quality workshop skins, and an infinite amount of songs and fascination.  11/9 Gave me epilepsy while riding my mixtape like a d.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine playing this if someone was high. Just think about it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Outer Heaven for music lovers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is super cool and I love it. That's pretty much it. 10/10 Best game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf is back! Improved track generation algorithm alone makes this a worthy upgrade. SoundCloud integrated, now you can ride podcasts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun if you love music, and fast paced games! I love having my music infused and be a part of my game rather than just listening while playing something totally un-related (\\^~^/)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's really not that fun. I played a song or two and tried a mod and it was... ok... but I can't recommend it to anybody. It doesn't feel like a rhythm game or even a game that needs music. If I looked at the game with no song, I couldn't tell what song is playing ingame. It doesn't really make me feel the music, it just makes me move around a track that vaguely resembles what the track would be if it was physical.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's really not that fun. I played a song or two and tried a mod and it was... ok... but I can't recommend it to anybody. It doesn't feel like a rhythm game or even a game that needs music. If I looked at the game with no song, I couldn't tell what song is playing ingame. It doesn't really make me feel the music, it just makes me move around a track that vaguely resembles what the track would be if it was physical.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Good game to kill some time but for the life of me I can't figure out how the actual gameplay (the obstacles and things) actually adapt to the song. The lights/colors/track definitely do in obvious ways, but the obstacles don't seem to.  I don't actually have anything bad to say besides that, but I also can't really think of anything good to say beyond 'good time-killer' so...  I'd buy it on sale, but I wouldn't pay more than 5 dollars for it unless you're really into rhythmn games that may or may not adapt to rhythmn.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "...Why is this game so ugly and disorienting? This looks like an unfinished beta product.. Also, the first audiosurf is far more enjoyable than this.  Wat.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "sick game might give you epilepsy tho",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The original was great and this somehow surpassed it by miles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's pretty okay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fantastic game, but only when the song doesn't load to halfway and stop.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is really bad",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "you do the swoosh and get the thing and kylie minogue is there",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I never played Audiosurf One so I guess I went into this game somewhat blind. I was thinking it would be another Guitar Hero/Rock Band rythum game. Instead I got a bland game. Game is very dull and does not have alot of replayability. Not a game that captivates me and makes me play for hours. Maybe I just need more time on the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "i spent 17 bucks on this and it wont even work WHAT THE ♥♥♥♥. i am ♥♥♥♥♥♥ off someone please tell me how to fix this because whenever i pick a song the game freezes",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Sick visualizer with interactivity, would be nice if full support was implemented",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The type of game that would be really interesting and fun in VR",
+            "review_score": "1"
+        },
+        {
+            "review_text": "first rhythm game i actually understand and can do okay at  plus it looks bootyful",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This one sucks, the first one was way better and cheeper. 0/10 please try again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't forget to blink because this game will make your eyes dry.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Want to assassinate your epileptic friend who loves music? this is the game for you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very similar to the first in terms of gameplay, but has new game modes as well as workshop and soundlcoud support so it's better. Go get it if you're a fan.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Builds on everything which made the first game so good. At the end of teh day this is what a good sequel should be, expanding current ideas and new content.  If you like the music genre then you will like this, simple as that. One word of warning thourgh it really is down to your own music.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I liked the first, and the second is still like the first, just better graphics more modes, funner. They are both great chilling games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Music. That is all.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its cool. looks more modern and pretty than the original imo.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You surf audio with better graphics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At first I was like 'I have Audiosurf 1, why do I need 2?'  Then I was like 'Holy ♥♥♥♥, how could I ever live without Audiosurf 2?'  But seriously. The best thing about this is the steam workshop support. Workshop makes any game better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "REALLy fun game, i didnt expected enjoy it that much. Give it a try, 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "remixes of your favorite songs finally have good use in this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can hardly play more than one song without it bugging out. It's great when it works, but this is unacceptable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I heard some great things about audiosurf when I was searching for music games. I really wanted to like this game but it just has very few redeeming qualities compared to other music games out there (some of which are completely free...). That being said, it's probably the best music game on steam currently, but it's not a great achievement since I have found every single music game out on steam to be less than 3/10 at best. Just play Osu! or something.  A game with no substance as of current. 2/10 and worth about £3 - not £11.  Lacks in gameplay. Notes (and the main tempo) are usually completely off time, not present or just spammed when nothing is happening - ruining basically any shred of capability this game had of being a decent music game. It's just a badly timed game with music on the top. If the game isn't in time with the actual music in your  MUSIC GAME  then I could just play any other game and listen to my personal playlist to get the same effect. This renders this game  absolutely pointless . I only enjoy the game when it actually picks up contrast of a silent part to a chorus. That's not enjoyment, that's just me thinking 'wow they didn't actually mess up this game that badly!' which is the only thing that came from this game that amused me. So it's not a rhythm game, it's a chill game? We got plenty of those and they are all just as bad, so this just fits into the pseudo music chill game genre. Whatever you want to call it: I call it the  boredom  genre. The one pro? It looks pretty nice. Then again, if I wanted a visual spectacle music game I'd watch videos of Sound Voltex III. So yeah, this game has no spice in the music game genre, or any deserving place in my library. I think this game is basically worthless and I regret buying it. I'm sure that some people will find something good about this game. I can't. I rate it 2 broken metronomes out of 10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is fun when you inject heroin and smoke crack-cocain.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, let's just say I stopped giving a ♥♥♥♥ over this game. It has so many annoying issues that I can't help but cringe and stay away. I can mentions the two biggest ones:  - RNG on Official Mono and plenty other modes. In the game's description, you tell us to 'strategize', but placing the RNG factor and randomly generating blocks positions. Random always ruins strategy. - Half-baked anti cheat attempt. There was a 10-pages long thread, which has been deleted, discussing about how to deal with cheaters in Audiosurf 2. I really wonder why the thread gone disappeared without a note. Dylan pushed an update which has cheater flagging and separate scoreboard for low-bitrate songs. It doesn't work, because, flags can be abused to takedown a legit score. And 2, songs can be tweaked to make blocks on silent and important points at song, connecting chains at moment it should not happens if you played from a source that has clean song (aka Soundcloud).  Just yeah. Goodbye Audiosurf. It was nice to play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great Game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like OSU and the Audiosurf 1 hand a baby!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If the developer doesn't care about this game, why should I? Smd Dylan.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Extremely dull and boring.  People online would hype about playing this game while you're blazed, but it's very horrible. I would rather listen to my own jam and kill ♥♥♥♥.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice game with music",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've tried this game since a friend has given me family sharing. And I only played it for a minute or so. I tought it would be awesome but it's still like the old and boring Audiosurf. Drive Any Track is a million times better than this game and is way cheaper and more worth the price. If I'd have to choose between those 2 games I'd go for Drive Any Track as it's 6€ right now on Steam. It's more fun to play than this thing that's the same as the first one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Horrible controls, when using arrow keys or mouse. Game is best played with a gamepad.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "more surf than audio change name to surfaudio or i will give you negative revaiew. u have been warned",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the 'choose any song' thing is a big fat farse. it is not worth the 15 dollars (i got it in a sale) because the music selection is absolutley horrendous, it get's boring very quickly even if you can find a few songs you like (which is tough).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of the best music-based games out there. The selection of tracks and the leader boards offer a variety of challenge. Only drawback is there is no way to 'bookmark' your music selections (that I can find).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For the past few months I was debating on whether this game is worth $15 or not. Recently I found it for a decent price on humble bundle and got it for $11 thinking I probably wasted a good 11 bucks on it, that I could've spent on Taco Bell instead. I thought it was a waste just because it didn't really seem like a game to me (at first) and just looked kind of boring. It wasn't until I found out that I could customize the music and visuals and so much more that it made the game just so much more enjoyable. The graphics are stunning and with that said, with all the colors popping in your face it makes everything so much prettier! Also the 'Browse Music' concept is just phenominal. You can choose any, and I mean ANY song you want straight from the internet or on your file explorer.  Something that I had to make a new paragraph about is to just talk about how quickly this game can change your mood. If you ever have a bad day or need to take your mind off something; then this game is a quick fix for it. It's very relaxing for your brain and helps you concentrate (of course it depends on the difficulty of the song/stage you play.)  Notes: -Play with headphones/earbuds for best quality -Not recommended if you have seizure problems -Singleplayer -Favorite game on Steam",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is god-d*mn awesome. Get it. That is all.  cheers! -Camolot",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great deal of improvment when compared to the first game in this series, although currently the Mac OSX version seems to be a little bit buggy other than that it plays like a dream!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like music, and I like games. It's great if you like both of those things like me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So glad i got this right at the start...just to lose myself in after work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An absolute step up from the first one in everyway, higly recommend. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you enjoyed Audiosurf 1, you will love this one too. If you are new to audio surf, you basically pick a song from your own collection or a few songs they provide, the game will create a track based on the song's characteristics and you ride the track avoiding obstacles. Audiosurf 2 has quite a few different modes and skins and a leaderboard to keep things competitive. Overal an awesome way to enjoy your music and kill some time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "both the first one and this one are amazing games they each have a feature that the other one doesnt so if you want the full experience then you have to download both of its an amazing games for music lovers and very easy to play its like guitar hero but better i strongly reccomend this 10/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Grab some music and the game will do it's magic with it. No mp3 music? Try soundcloud. Bored already? Try the workshop. Think you can twist it further? Mod it with Lua (it's basic) (no, not BASIC, not even the visual one) (eww).  10/10 would play another 250+ hours again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazing interactive way to enjoy your music collection! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game all the songs i want but sadly i don't know how to play co-op someone can help me :P thanks alot really good game worth those 15$ :D .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best Music playing game ever!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun addictive game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "better in all ways than the first....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game decided to scan entire computer for music on first launch without asking permission. Game glitches during play, very distracting. First game could easily handle 60 minute tracks, this one can barely achieve 20 minutes. Crashed at end of game. Avoid until fixed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It works now, yay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game, I went in expecting a guitar hero type game but was pleasntly surprised to get something differnt. Great community and good devs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's better than Audiosurf, but Double Vision's movement should be back to the original one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "(Not a professional review writer!)  Audiosurf.. Ride your music.  Its that one niche genre we can all learn to love and not have many arguments about. Audiosurf 2 has alot more content. + Steam Workshop support! And is recieving many updates on a frequent basis. Its great! No seriously. Coming from someone who has tried to play Guitar Hero/ Rockband ETC. Those games aren't easy and do require a learning curve. (Or good hand to eye co-ordination.. That being the learning curve.)  But with Audiosurf. It's different. Pick it up &amp; play. Whether that be from your Mouse, Keyboard, [Name brand controller here]. Its that simple and not at all offputting. Play with music from the world wide world of the web. Or your music at home. I don't really have much else to say then give it a go. You would be suprised how addicting it is!   10/10 would attempt reviewing again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well at the first place i played the first game and it was awesome i glad to see the second game too tho but some things i wanna say its got no big diffrence from the first one because if they wanted to they can add some pretty badass modes into the game but i like the old mods as the first game:)   I like this game and i prefer everbody wanna buy this game,its not a challening game but its a nice relaxing game for the music lovers:)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome.   I never played the original Audiosurf, but I had always heard about it. This is an awesome game. Play any song you like (epic ones are the best) and be in the music.   The only drawback is that it doesn't store high scores locally. If the Internet drops out during play, ir doesn't matter how many points you get. That would be a good improvement. *hint*",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a better version of Audiosurf. The song selection now allows for SoundCloud songs to be played directly from the client, along with anything you have on your computer. Unlike the original Audiosurf, it is cross-platform friendly and runs well on Linux, even on slower integrated cards like Intel HD Graphics 4000.   The gameplay is nearly identical, except now the track can do barrel rolls. There is also extensive support for leaderboards and user-generated content.  Worth picking up for newcomers or fans of the original that want a fresh coat of paint.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really good game, entertaining and a change from the norm.  Unfortunately its not worth playing competitvely as the online scores are marred by blatant cheaters, who re-write metadata and use fake songs to get obscenely high scores.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very fun game and a very addicting game! i recommand it to everyone who liked to play guitar hero or playing osu! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nice fun music game. Strangely addicting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Alright,but i think the Gameplay isn't as good as the first.Its still a GREAT game,but it could be inproved.Its still a cool and colourfull game,but for some reason the gameplay dosen't match the first game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "UI issues in Linux, game is basically unplayable. Wish I could get my money back.  *EDIT 1* UI is properly interactable when run in windowed mode; fullscreen mode does not work. Now that I can actually load and attempt to play a song, I've realized that the sound doesn't work. Game remains unplayable; not recommended for purchase by Linux users.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Edit (MUCH BETTER!) : Seems to be fixed now, I can fully recommend the game at this point. Classic as it always will be. It can use some smoothing out, but for now, I am reliving one of my favorite games as a teenager, thanks!   I loved the first audiosurf. It was fun, it had sweet graphics and, because I ran a bootlegged mac version, it was a little buggy. Yet, I made it work. I figured out the kinks and moved on. That was 5 or 6 years ago on a worse computer. Now, with a newer macbook, I was ecstatic to see Audisurf 2 was officially released with a mac port. I bought it immediately, and to my disappointment, the game is broken. The menus are a mess, the song selection is even worse and it doesn't even play! It took me 30 min of trying to see if I could load one of my own songs, but it just crashes. After that I gave up and played the songs everyone else was playing, it crashed 2 or 3 times before finally letting me play the game at all. I made it about 1/4 of the way through a song and the game froze and crashed. I started to get messages from friends asking why I was kept rebooting the game. I gave up after that.  I love the idea of a reboot for this game, but by no means is it ready for any kind of real release. It's really disappointing that a game so much older than this can run better and look better. That said, I am hopeful in the next few weeks or months, a lot of these bugs will be sorted through and the game will work. Until then, I wouldn't waste your time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, calming, sometimes intense, really fun to have.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Spectacular update to the original Audiosurf!  If you had fun with the first one, this one is a fantastic update with Wrokshop support and better menus.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "mdma enchancer 11/10 ! been playing mono mode since audiosurf 1, never got bored. this game really makes you feel the waves of music as you imagined while listening. I dunno, its a bit hard to explain -some sorcery ♥♥♥♥!-. From Mozart to Pink Floyd, Daft Punk to Nicky Romero, Justice to Gesaffelstein, Knife Party to the damn Trentemoller this damn game renders music perfectly i really dunno how yet it ♥♥♥♥ing does.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is extremely good at what it does! It also uses songs from soundcloud so you can search from an incredibly large library of songs. If it exists, it'll be there!  I geniuenly cannot stop playing this game! It's so much fun and I definitely reccomend it. Especially if you're competitive!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow, this game is cool. The basic premice is that you enter in some music and it builds a coustom track that is sync'd with it. You dodge spikes and collect points. Infinite replayability, as there is no story. My only problem is that is it doesn't have a hook/ gimmic that makes you want to play it. I don't think there are any achievements, just a leaderboard. On a scale of 1-10 I would rate this a 6. the graphics and menus are really pretty and the ability to choose the mode you play in is cool. Overall, a good, high tech game. I reccomend to buy it on sale, as it is not worth $15. I bought it on the Christmas sale for $6.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent music game. Stays true to (and improves upon) the original and adds easy access to hundreds of workshop visual mods and various modes of play. SoundCloud integration makes finding any song a cinch, even if it is not in your music library.  Gameplay is straightforward. You pick a song from your music library or SoundCloud and ride along the generated track, collecting little balls of color that appear in time with the music, similar to Guitar Hero, but this time with your mouse.  PROS: - SoundCloud integration vastly, vastly expands your music selection - Live leaderboards can be displayed as you play, showing global rank - Many play modes and visual styles to choose - Smooth camera and ride generation - Beautifully rendered visuals - Improves upon the original  CONS: - Will not play m4p files (DRM-protected music) (includes Apple Music)  tl;dr Ride your music and experience it in a cool new way. A must-try for rhythm gamers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't play the game at all due to a 'Steam not found' error right after it loads, even though I've already done all that I can to try to fix this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Integration of soundcloud isn't great, but having music streaming at all is a nice improvement over the first. Not a fan of some of the stock skins, but having the workshop available gives many good options. Certainly worth buying when it's on a steep discount.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You should stop reading reviews and just buy it. Seriously.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of those games that you can absolutely suck at and still love to play. I used to think I was good when I was beating people on the tracks I liked but didn't have many people playing them; now I consistently make the casual leaderboards on the Song of The Day and still love the game just as much.  There are a bunch of problems that need fixing (*cough* better keyboard support *cough*), but the pros far outweigh the cons.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing, too amazing with the right song.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Better version of the old one, may be too good loking for some older PCs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This one made my eyes puke rainbows.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love Audisurf 1 and played it alot back in the days, but with time so did I delete my local music collection and went 100% over to streaming my music from programs/sites like Spotify or Soundcloud. Therefor I had no real way of playing my music anymore which was a shame. Fast forward to the day Audiosurf 2 came out off Early Acess (Note: I didn't even know it was a thing until then), I was browsing for games and this came up in my recommended list, I checked it out and saw that it had Soundcloud implemented. I was all over it and bought it just trough reading that sentence.  Now I've rounded out 80 hours of gametime and I can honestly say that I love the changes and new features that has been included. Updated graphics, different skins, many modes, workshop is implemented so many user mods excist. But the best thing for me must be the Soundcloud implemention as it allows me to play most of the music I listen to, without having to have it stored on my hdd.  However there is one thing that bugs me about AS2, and that is the UI. It just feels restricted and buggy. If you search for a song there is only 20 songs which will show up and that is it, only 20 songs for each search term, no pages with more or possible to scroll down for more songs. The soundcloud log in feature is also badly implemented or atleast bugged to hell. I am hopefull that Dylan will give that some work in the near future since the game is all in all a great package.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'It's a great game. You can download different songs you like and play them to the beat of the car.' This is my nephew's review. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf 2 continues to build on the success of Audiosurf. It includes full Workshop support for modes (different ways to play), and skins (different looks for the playfield). 'Surf' your music, as the track goes from slow, to fast in accordance with your songs. A great way to continue the Audiosurf legacy!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Youtube streaming ruined it",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice to play with friends on a big screen",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Has now an annoying video in the right corner which you cant hide.  0/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I enjoyed it a lot more before the Youtube update. Lost all my scores because of it, so that's a bummer. Still playable, but not what it once was...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf 2 = best own Music Game with Mouse",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Using a mouse makes it easier to play that the keyboard. Didnt expect that. Good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Any song you listen to will be great in this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is somewhat frustrating that the song of the day no longer updates - hopefully something is in the works to rectify that - but it's nice to have a game of this style that isn't limited to a pre-determined musical catalog (unless you count your own). The first game was fantastic and I was hesitant to get on board with this one, but I like the changes made to the scoring system - grays no longer keep you from getting a bonus at the end) and overall this is just a solid game building off of the original incarnation",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great game if you have music saved onto your computer to play with. The community created gamemodes and skins is the reason I would recommend this over the first game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like to do dis on duck tales intro theme.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really love it! It's kinda like a alternative way to listen to your music. Trying as hard as you can to get your spot on the top of the leaderboards on your favorite song can be fun. The 'song of the day' feature is really a great way to find new artists and bands to get in to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its like a magical journey of intense fresh glitteral tingling extasy. &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the Game and is a good way to pass time when you're bored!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing! There are mutiple songs and skins you can choose from, including skins from the Workshop. There are also different modes you can play with, depending on your skill. But, there are lots of flashing lights, so epilepsy warning. Other than that, this game is great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game delivers on every aspect, it's fun as all hell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&lt;3 Great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i do not recommend this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Downloaded Audiosurf and booted it up. Just on the opening load I got two achievements. Being stuck at the title screen, only being able to see modes was very uninteresting, as well as having ♥♥♥♥ music outside of my own to choose from. All in All, Assassin's Creed Unity plays better than this game, as it gives the option to try and play a nd not having you stuck at the title screen.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I do really like and enjoy the game... but heres the problem, playing it the first time was amazing, I was able to browse my own music, check out all the different modes, pretty much do everything on the game. But the second time I played, I couldnt browse my music and i still cant. this game is all about being able to play to your own music on your computer but mow I only have a few choses of songs I want to play due to the songs uploded by the creators of Audiosurf, and its a scant few. until this problem is fixed I have to give it a thumbs down.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I got ♥♥♥♥ing rocked hard right up the ♥♥♥ playing this game. I just got the damn thing too and suddenly I’m hurled right into chaos.   And apparently others can join you if you decide to use your own songs. I picked the most obnoxious one and got my ♥♥♥ handed to me. A++++ game right there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is infinitely challenging, relaxing, and infinitely replayable. I love playing with my own music, and have discovered some great new additions to my library through the game's song of the day feature. I love grabbing a beer after a long day and flying through a few songs in corkscrew crash mode to unwind. The modding community really shines as well for Audiosurf 2, and there are countless ways to experience the game through the workshop. If you like music, get this game. You won't be dissapointed, and I'll bet you get more play time out of it than you did your last $60 game purchase!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'll be honest and blunt: this game is not what I expected it to be. Audiosurf 2 is a game where its more visibly appealing than to actually play the game itself, much like a game where you watch others play but not play the game yourself.   IF YOU ARE CONSIDERING TO BUY THIS GAME wait for it to go on sale.   Pros: -Nice system to create a map from songs from youtube, soundcloud, and etc. -Visually Appealing -You get the listen to music you enjoy while playing some type of game  Cons: - Some modes are quite buggy, like the wakeboard mode (My experience is that the character you control twists and turns constantly like getting stuck on a wall and flipping out crazy.) -Not challenging for some certain modes (My opinion)  Overall, my verdict for this game: 6.5/10  This game can HOOK YOU IN when playing the first time or NOT, and if you enjoy your first round playing this game, this game is for you. If not, don't bother to continue playing this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Let me start off by saying I LOVED Audiosurf. It was my pride and joy of music games (until it died down a little and I switched to Beat Hazard.) I am vastly addicted to competitive beat matching games. I would probably love DDR if my feet cordination was anything above utter crap. I am always constantly looking for new Tap Tap games on my phone and can waste hours upon hours of my day perfecting one song in my favorites folder.  And that is why I cannot recommend this game to anyone who feels the same sort of passion for competitve beat games.  Because this game literally changes per run. Per. Run. As in when I start up a ninja session of some random song, hit a spike, and then restart, the course I literally had just been on will have changed.  To some this may be a minor issue, but to me, its a giant plastered '**** you' to the genre I love so much. I mean, how can you truthfully expect to rate a person's ability within a song if it changes for that individual every time they run that song? Much else compare the score to other persons online, who probably had a different course altogether than from the one you were running? This makes practice of songs utterely impossible, and practice of the game a luck and grinding method, learning common themes and patterns in the CODE, not within an individual song. I don't want to learn an indepth analysis of the game and how it works, I want to analyse the song, and adapt to that. I want to hit a spike in one spot, try again, and then avoid that spike. Sure it makes it 'more intense' and makes running a single song 'harder to perfect' but you know how other games do the same thing? They make the course   harder   like any other logical person would do. Within this, the only difficulty I find is the speed is faster, the clutter is more random ( and honestly, harder to see ) and the strange method of forcing either a full control mouse ( an imperfect method in any game where there are designated lanes ) or the strange middle focused keyboard thing they have going on ( it makes it to where instead of moving left and right within all lanes, you move left, then when you let go, it automatically repostions the character to the middle lane again. )  This really breaks my heart, seeing a series I previously loved fail to recreate the same joy in its sequal. I don't know if there are mods that may make the game more my style but given that I would have to search out features that should have been the main components of the game, I don't feel it deserves the satisfaction.  My refund is pending 3/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Basically Rockband without friends. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absoloutley amazing piece of software, this puzzle like audio rider game puts you in the zone with the music you are listening to. Highly reccomended!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great upgrade from audiosurf love it to bits score system is vastly better and the game works well with soundcloud and my large musci libary (8002 tracks and counting)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+ Looks nice, and it's possible to re-skin the game to look different + Proper SoundCloud support, so you can search up songs from the internet + In-game dethrone notifications  - Swapping out the grey blocks for 'spikes' makes the game too easy, as you can simply remove a block from your grid and replace it to further sustain it until you can get a full grid; it doesn't feel skillful at all - No difficulty settings for the Puzzle League modes: you're stuck with Normal difficulty, so you can't go easier or harder - Double Vision was swapped out for a far worse co-op gamemode that doesn't even feel proper - Half of the default (yes, default) skins don't even work on my AMD card, and cause the game to crash  From a casual standpoint it's okay, but if you're looking for a competitive (or even a casual co-op) rhythm game, you'd be better off buying the first one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Audio Surf 2 is just a fun game to play if you love upbeat music and fast paced gameplay.  What I really like about this game is it lets you play songs from your hard drive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've been looking for a game that not only engages me in my music but lets me visualize it too and I found it. I absolutely love this game. Get it while its 5 dollars!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Music to my ears",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great game for when ever you looking for some time to relax with your music. I really enjoy using that muscle car skin while playing some old school jams.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like music based games. This does it for me.  Pros: - Great music mapping algorithm. - Several modes to play on. - New song every day. - Can play your own music. - Modable  Cons: - Cheating ♥♥♥ hackers. - Skipperzip is unbeatable unless you are one of those hackers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "surfing with your favorite songs is very intimidating , for somebody the game is addictive, well not for me:) at first it was so hard because i used keyborad and the default skin) it feels like another game when you swing your wrist with your mouse and change into dusty mode ( that road and moving car one) (it would be muuuuuuch easier) I guess it is for someone who wants to do something during a 5-10 minutes break. 6.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its Audiosurf with better graphics, mod support, additional game modes, and soundcloud support. For me it was totally worth the upgrade.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What are you looking at this review? BUY IT NOW  IT'S THE BEST MUSIC GAME I EVER PLAYED",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've had this game for months on my wishlist before I finally decided to get it and I regret nothing, except waiting so long to get it maybe.  It's an old-school fun racing game where the track changes to the beat of your own music.  In case you don't wanna play your own music (why wouldn't you though?) you can also select from a list of available tracks online within the game. There are different modes to play, which offer various visual styles and difficulties. Plus for all modes there is a huge online community that has many brilliant designs to play with.  Also there is a leaderboard for the songs played within the different modes and it's fun finding other people who also listen and play some more obscure tracks. Who know, MC Lars had so many fans on steam? :-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game. Had a lot of fun in the hours I've played. Soundcloud songs aren't currently working though so It'd be nice if we could get a fix on this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it's fun but be warned it's more addictive than cocaine",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Everything that was nice about Audiosurf 1 has received serious upgrades. The track itself and appearance of blocks clearly correspond with musical cues. There are new and fun modes and there's a ton of workshop content which is a lot of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dopest thing on Steam. Although, I would advise to use your own music from your computer, and not from YouTube. For me, the YouTube songs always made the game freeze. Otherwise, 10/10 would review again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazing game to play whenever you feel like taking a break from it all and view the visuals: both stock and mods.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best time sink. I can play this game for hours. It's always fresh because you can use your own music to play, so there's literally hours of content. The original Audiosurf holds a dear place in my heart but Audiosurf 2 took a great game and made it better.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The absolute best music experience on the market. Put in your own tunes, sit back, wiggle the mouse to the beat, and enjoy. Also the custom skins people put on the workshop are always fun to look at. Definitely a must buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game, just let the music ride you",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game to relax on a night.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Audiosurf 2 is great, but if you already have the first game I'd recommend skipping it, it brings barely anything new to the table except updated graphics. I'm going to refund mine since there are games I  haven't  played I could get with the $5 I spent.  Also, I had some performance hiccups where the game would freeze for about half a second, which in a game like this is enough to ruin a high score run attempt. I don't think it's a common problem, but I looked into it online and couldn't find anything helpful so it's also a factor in refunding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a fan of several console music/rhythm games who has 90 gigs of music who does mostly solo gaming, I found Audiosurf 2 to be disappointing for several reasons:  -Pregame options: There are so many mode &amp; visualization mods, but you can't pick/download a subset of modes or even color schemes and have the game pick a random one.  -Song Navigation UI: The number of most popular or recommended songs are no more than a few dozen each. That's important to me since most of those songs I'm not interested in, and the songs I personally listen to has little to no leaderboards - Global or regional. Navigating between folders on your own PC isn't pretty, nor can a playlist be built with any sort of shuffle mechanic. SO many music games have playlist &amp; shuffle features. Recent Songs list and search feature is nice though, but search does 'exact word' logic search and not 'contains' logic.  -Youtube integration: Its not pretty to just have the video stuck in the lower right corner of the screen, and for it to have an banner ad or recommended video covering the bottom one-fourth of the video for a good chunk of the song. I'd rather have only the audio - No wonder some people are so ♥♥♥♥♥♥ about the Soundcloud integration getting cut! The color matching of the environment with the video is neat for the 'stadium' color scheme though.  -Sometimes unsatisfying gameplay: This varies by mode, but most puzzles are meh, and most modes don't engage me in wanting to play again aside from trying to beat another leaderboard score.  So I would recommend this game to someone who all of this applies to: Listeners of popular music, wants two player split screen, is good with simple puzzles.  If the devs fix 3 of these issues above in the current or a new release of the game, then I'd likely recommend it to a wider audience.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game after I literally cried while playing the demo. I lsitened to Susanne Sundfør's   White Foxes   and I felt a connection to the music that I'd never felt before. It's fun to drop some epic tunes into the game and get pumped up, and it's fun play this to chill out and relax after a stressful day. I usually use my own iTunes music, so the youtube change is not affecting me too much. Great buy on sale. I wouldn't get it at full price unless you really, really want it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its good if you like music and playing games.",
+            "review_score": "1"
+        }
+    ]
+}

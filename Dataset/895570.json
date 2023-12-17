@@ -1,0 +1,38 @@
+{
+    "app_id": 895570,
+    "name": "Fairy Rescue",
+    "release_date": "2018-08-03",
+    "developer": [
+        "For Kids"
+    ],
+    "publisher": [
+        "For Kids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 42,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "A simple arcade game in which you have to save the poor animals from death. Fly on the level, pick up animals and try to avoid collisions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/895570/header.jpg?t=1533288412",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space",
+    "reviews": []
+}

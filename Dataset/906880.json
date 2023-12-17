@@ -1,0 +1,38 @@
+{
+    "app_id": 906880,
+    "name": "goto",
+    "release_date": "2018-08-17",
+    "developer": [
+        "Alien Jellyfish"
+    ],
+    "publisher": [
+        "Alien Jellyfish"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Relaxing"
+    ],
+    "achievements": 100,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "goto is a minimalistic maze game which leads you to finish each level by moving in 4 directions, avoiding obstacles and clearing the path.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/906880/header.jpg?t=1534522166",
+    "minimum_requirements": "OS: Windows 7 64 bit or higher Processor: 64bit Intel compatible Dual Core CPU Memory: 512 MB RAM Graphics: Сompatible with DirectX 9.0c DirectX: Version 9.0c Storage: 50 MB available space Additional Notes: Latest DirectX drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

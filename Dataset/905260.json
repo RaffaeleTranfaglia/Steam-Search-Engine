@@ -1,0 +1,37 @@
+{
+    "app_id": 905260,
+    "name": "Hags Castle",
+    "release_date": "2018-08-02",
+    "developer": [
+        "Switchpilot"
+    ],
+    "publisher": [
+        "Switchpilot"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 2.99,
+    "description": "‘Hag’s Castle’ is a real-time 3D combat exploration game set in the age of Scottish myth and legend.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/905260/header.jpg?t=1533200050",
+    "minimum_requirements": "OS: Windows 7 SP1+,8,10 Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: Graphics Card DirectX: Version 10 Storage: 368 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 737980,
+    "name": "The Grimsworth Reports: Woodfall",
+    "release_date": "2017-11-01",
+    "developer": [
+        "Jenito"
+    ],
+    "publisher": [
+        "Jenito"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Chuck Grimsworth receives a frantic call from the sheriff of a small town called Woodfall. There he discovers an eccentric community with skeletons hiding in every closet. Only Chuck can solve and unearth the ancient conflict which plagues Woodfall!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/737980/header.jpg?t=1509558651",
+    "minimum_requirements": "OS: Windows XP SP 3 Processor: 1 GHz Memory: 1 GB RAM Graphics: WebGL Compatible with latest drivers Storage: 350 MB available space Sound Card: Direct X Compatible Additional Notes: Woodfall runs via NW.js and HTML5",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2 GHz dual-core Memory: 4 GB RAM Graphics: nVidia or AMD with latest drivers Storage: 350 MB available space Sound Card: Direct X Compatible Additional Notes: Woodfall runs via NW.js and HTML5",
+    "reviews": []
+}

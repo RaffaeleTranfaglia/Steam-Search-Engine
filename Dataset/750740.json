@@ -1,0 +1,41 @@
+{
+    "app_id": 750740,
+    "name": "Slice the Ice",
+    "release_date": "2017-12-07",
+    "developer": [
+        "Fancy Factory"
+    ],
+    "publisher": [
+        "Fancy Factory"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "Just SLICE THE ICE in this adorable physics-heavy puzzle adventure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/750740/header.jpg?t=1512827300",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 1 Ghz or faster processor Memory: 2048 MB RAM Graphics: Direct3D 9 or better DirectX: Version 9.0 Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 3 Ghz processor Memory: 4096 MB RAM Graphics: Direct3D 11 DirectX: Version 11",
+    "reviews": []
+}

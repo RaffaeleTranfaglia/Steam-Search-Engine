@@ -1,0 +1,42 @@
+{
+    "app_id": 1003400,
+    "name": "The Lord of the Rings: Journeys in Middle-earth",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Fantasy Flight Games"
+    ],
+    "publisher": [
+        "Fantasy Flight Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "A companion app for The Lord of the Rings: Journeys in Middle-earth board game from Fantasy Flight Games, a fully-cooperative board game for one to five players! This companion app dictates the setup of each encounter, tracks your party’s inventory and skills, and resolves combat while you brave the looming forests, quiet clearings, and...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1003400/header.jpg?t=1555616667",
+    "minimum_requirements": "OS: Windows XP Processor: 1.5 Memory: 1 GB RAM DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7 or above Processor: 1.5 Memory: 1 GB RAM DirectX: Version 9.0 Storage: 400 MB available space",
+    "reviews": []
+}

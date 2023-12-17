@@ -1,0 +1,41 @@
+{
+    "app_id": 333730,
+    "name": "Dark Gates",
+    "release_date": "2015-01-26",
+    "developer": [
+        "DFour Games"
+    ],
+    "publisher": [
+        "DFour Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Perma Death"
+    ],
+    "achievements": 20,
+    "positive_ratings": 17,
+    "negative_ratings": 22,
+    "price": 2.79,
+    "description": "Dark Gates is a game which tries to capture classic tabletop RPG experience. As a player you need to assemble a party of six heroes, select spells for them and send them on the quest to the labyrinth. Somewhere in that maze an evil mage created Dark Gates and now gates are open.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333730/header.jpg?t=1447365140",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1.6 GHz Memory: 1 GB RAM Storage: 40 MB available space Additional Notes: minimum resolution of 800x600",
+    "recommended_requirements": "OS: Windows 7/8/8.1 Memory: 2 GB RAM Storage: 40 MB available space",
+    "reviews": []
+}

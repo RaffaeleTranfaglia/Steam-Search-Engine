@@ -1,0 +1,50 @@
+{
+    "app_id": 361040,
+    "name": "Doom & Destiny Advanced",
+    "release_date": "2016-11-15",
+    "developer": [
+        "Heartbit Interactive"
+    ],
+    "publisher": [
+        "Heartbit Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "RPGMaker"
+    ],
+    "achievements": 65,
+    "positive_ratings": 248,
+    "negative_ratings": 16,
+    "price": 6.99,
+    "description": "Four nerds walk into a dungeon. It’s not a joke, it’s Doom &amp; Destiny Advanced.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/361040/header.jpg?t=1522843218",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.3 GHz Intel Core 2 Duo or better Memory: 1000 MB RAM Graphics: DirectX10 compatible GPU with at least 256MB of VRAM Network: Broadband Internet connection",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Fun and very silly. Has a bit of a complex battle system however.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It reminds me of the old school Rpg's i used to play on the playstation 1 its pretty funny to, if you got the pateince for it give it a try.",
+            "review_score": "1"
+        }
+    ]
+}

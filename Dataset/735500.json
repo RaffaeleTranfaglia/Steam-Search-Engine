@@ -1,0 +1,41 @@
+{
+    "app_id": 735500,
+    "name": "Creepy Road",
+    "release_date": "2018-05-18",
+    "developer": [
+        "Groovy Milk"
+    ],
+    "publisher": [
+        "Groovy Milk",
+        "GrabTheGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Singleplayer"
+    ],
+    "achievements": 18,
+    "positive_ratings": 76,
+    "negative_ratings": 33,
+    "price": 9.99,
+    "description": "The world has gone mad and Flint Trucker must go down a long, creepy road to get back home and save his beloved Angelina. Blast your guns across different scenarios to fight hordes of ravenous beasts and bloodthirsty enemies.Will you survive?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/735500/header.jpg?t=1527799060",
+    "minimum_requirements": "OS: Windows XP, Vista, Windows 7 , Windows 8, Windows 10 Processor: Intel i3 or AMD equivalent Memory: 4 GB RAM Graphics: ATI or Nvidia Videocard with at least 256MB, or Intel GMA 950 or newer DirectX: Version 9.0 Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, Windows 7 , Windows 8, Windows 10 Processor: Intel i5 or AMD equivalent Memory: 8 GB RAM Graphics: GeForce GTX 550 Ti or Radeon HD 6770 DirectX: Version 11 Storage: 5 GB available space",
+    "reviews": []
+}

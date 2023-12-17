@@ -1,0 +1,40 @@
+{
+    "app_id": 868470,
+    "name": "Heroes Arena",
+    "release_date": "2018-07-27",
+    "developer": [
+        "Victor Corradi"
+    ],
+    "publisher": [
+        "Corradi Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 630,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Welcome to Heroes Arena! Explore the Endless Arena, level up, buy new weapons, upgrade them, get a lot of loot on Loot Corridor, unlock player skins!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868470/header.jpg?t=1532707153",
+    "minimum_requirements": "OS: XP, Vista, 7, 10 Processor: 2.0 Ghz Memory: 4 GB RAM Graphics: Intel HD Graphics 6000 DirectX: Version 10 Network: Broadband Internet connection Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

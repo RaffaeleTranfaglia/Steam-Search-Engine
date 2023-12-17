@@ -1,0 +1,37 @@
+{
+    "app_id": 370560,
+    "name": "Geek Resort",
+    "release_date": "2016-01-20",
+    "developer": [
+        "Shinypix"
+    ],
+    "publisher": [
+        "Shinypix"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "The first tycoon game based on the geek universe!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370560/header.jpg?t=1453390388",
+    "minimum_requirements": "OS: Windows XP/7/8/10 Processor: Intel 2.0 GHz Memory: 1 GB RAM Graphics: Intel HD 3000 or better DirectX: Version 9.0 Storage: 256 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

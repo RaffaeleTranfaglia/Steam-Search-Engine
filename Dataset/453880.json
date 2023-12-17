@@ -1,0 +1,40 @@
+{
+    "app_id": 453880,
+    "name": "Ninja Outbreak",
+    "release_date": "2016-03-30",
+    "developer": [
+        "Renegade Sector Games"
+    ],
+    "publisher": [
+        "Renegade Sector Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Survive in an off-world research station that has been overrun by a contagion that turns its victims into bloodthirsty Ninja.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/453880/header.jpg?t=1556138667",
+    "minimum_requirements": "OS: Windows XP Processor: 2.33GHz x86-compatible processor Memory: 1 GB RAM Graphics: Any Storage: 100 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows XP or Better Processor: 2.33GHz x86-compatible processor or better Memory: 2 GB RAM Graphics: Any Storage: 100 MB available space Sound Card: Any",
+    "reviews": []
+}

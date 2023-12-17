@@ -1,0 +1,44 @@
+{
+    "app_id": 691540,
+    "name": "Space Fighter",
+    "release_date": "2017-09-14",
+    "developer": [
+        "Roger Barton"
+    ],
+    "publisher": [
+        "Roger Barton"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Space"
+    ],
+    "achievements": 21,
+    "positive_ratings": 53,
+    "negative_ratings": 34,
+    "price": 0.0,
+    "description": "A mini-game designed for split screen experiences with up to 8 players. Pilot your spaceship through an anti-gravity suspended asteroid field to destroy enemy targets. Summon wingmen to coordinate your team, unlock upgrades to increase your spaceship’s efficiency, all in objective or deathmatch modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/691540/header.jpg?t=1509040179",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.2 GHz Dual Core Memory: 4 GB RAM Graphics: 1 GB VRAM, Dedicated Graphics Card* DirectX: Version 9.0c Storage: 500 MB available space Additional Notes: *Approx. Nvidia GT735M or better",
+    "recommended_requirements": "OS: Windows 7+ Processor: 2.8+ GHz Dual Core Memory: 6 GB RAM Graphics: 2+ GB VRAM, Nvidia GTX Graphics Card or equivalent DirectX: Version 11 Storage: 500 MB available space",
+    "reviews": []
+}

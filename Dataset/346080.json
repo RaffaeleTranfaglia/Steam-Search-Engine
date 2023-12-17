@@ -1,0 +1,57 @@
+{
+    "app_id": 346080,
+    "name": "Astro Emporia",
+    "release_date": "2015-02-02",
+    "developer": [
+        "Squirrelbot Games"
+    ],
+    "publisher": [
+        "Squirrelbot Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 26,
+    "negative_ratings": 33,
+    "price": 0.79,
+    "description": "Astro Emporia is a CASUAL turn based randomised trading game where your objective is to make as much money in a limited amount of turns.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/346080/header.jpg?t=1447368054",
+    "minimum_requirements": "OS: Windows XP Memory: 512 MB RAM DirectX: Version 9.0c Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 1024 MB RAM DirectX: Version 9.0c Storage: 150 MB available space",
+    "reviews": [
+        {
+            "review_text": "This game reminded me the good old classic that I am missing a lot these days: Dope Wars. Because I was longing for the original DW game, this title made my day, and I spent some very nice time.  Though the assets are not drugs, the idea sounds similar. May be some similar events might be added, like being mugged by space pirates, or price of an asset increasing suddenly due to a catastrophe etc. Even though the game does not have those features, or it won't have them, it got my attention, and I will be spending a lot of time on it!  There's one slightly negative side to the game: it should be optimized. My Macbook Pro's reballed graphics card handles a lot of games easily but with this one it just started heating and spinning the fans crazily. Other than that, it will be a good spent &lt;INSERT YOUR AMOUNT OF CURRENCY HERE&gt;.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is pretty 'meh'. Nothing really stood out about this game to make me want to play it again in the future.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ducks in the wind.  All we are is ducks in the wind.  Game sucks ducks.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'm pretty upset I bought this game instead of a box of crackers",
+            "review_score": "-1"
+        }
+    ]
+}

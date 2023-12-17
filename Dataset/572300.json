@@ -1,0 +1,40 @@
+{
+    "app_id": 572300,
+    "name": "Nyheim",
+    "release_date": "2017-01-31",
+    "developer": [
+        "Happy Hobgoblin"
+    ],
+    "publisher": [
+        "Happy Hobgoblin"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Survival",
+        "Board Game"
+    ],
+    "achievements": 12,
+    "positive_ratings": 44,
+    "negative_ratings": 18,
+    "price": 2.79,
+    "description": "Nyheim is a single-player digital boardgame about rebuilding the titular city of Nyheim after a lethal pandemic. As survivors of the disease, your party must explore the districts of Nyheim, face mutated rats, gather supplies and lead the efforts towards a new society!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/572300/header.jpg?t=1485889983",
+    "minimum_requirements": "OS: Windows 7 Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 10 Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) DirectX: Version 9.0c Storage: 300 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 497430,
+    "name": "G Prime",
+    "release_date": "2016-08-19",
+    "developer": [
+        "Soma Games"
+    ],
+    "publisher": [
+        "Code-Monkeys"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Puzzle"
+    ],
+    "achievements": 27,
+    "positive_ratings": 8,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "A gravity gripping, steampunk-styled, moody-beautiful, slingshot simulating puzzle pleaser. If you like Gravity Sling, Blast Off or Gears of Gravity, you’ll love this game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/497430/header.jpg?t=1472070133",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 3rd Gen I-processor Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

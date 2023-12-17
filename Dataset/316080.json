@@ -1,0 +1,71 @@
+{
+    "app_id": 316080,
+    "name": "Parcel",
+    "release_date": "2015-04-22",
+    "developer": [
+        "Polar Bunny Ltd"
+    ],
+    "publisher": [
+        "Polar Bunny Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Sci-fi"
+    ],
+    "achievements": 27,
+    "positive_ratings": 106,
+    "negative_ratings": 14,
+    "price": 3.99,
+    "description": "Parcel is an atmospheric block-pushing puzzle game where your goal is to solve interlocking laser puzzles by using the unique abilities of different characters. Switch between members of your team of postpeople and make your way through mind benders in a charming, ridiculous cyberpunk future!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/316080/header.jpg?t=1447362871",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core 2 Duo 2.0Ghz or equivalent Memory: 2 GB RAM Graphics: Intel Core HD Graphics 4000, NVIDIA 8800 GT, ATI Radeon HD 4850 or better Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Parcel is good. The graphics and animations are nice. The music is enjoyable but some of the effects are a little annoying when repeated for a while, for example, when you are stuck on a tough level. The puzzles start off easy and progressively get more difficult. This game delivers what I expected, no complaints. 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Parcel is... barely on par. Great graphics, cool characters, neat concept &amp; gimmicks, but the gameplay falls very short. My main complaint about this game is how easy it is to get WAY off track when solving a puzzle. Now keep in mind, you are able to make a 'save state' and reload with the backspace key to where you left off if you make a mistake, but the questionable level design allows the player to make a lengthy set of moves, only for it to fail completely when they realize one wrong action completely ruined their meticulous strategy, and they have to start from the beginning anyway. It's not a good feeling, and it severely demotivates the player from wanting to continue. One thing I would suggest instead of having this faulty save state option is to simply take back one move every time the player hits the backspace key (or alternatively press and hold backspace to rewind the play field back to where you want it); that alone could save a ton of headaches and frustration.  I still enjoy the core concept this game brought. I like the idea of having all of these characters each with unique abilities that the others don't have, I just wish there was more flexibility with the solutions. In a good puzzle game like Portal 2 there are more often then not multiple solutions and/or routes to approaching a solution. But for this game you are expected to make a very specific and meticulous set of moves from start to finish that would not be too far off from trying to split an atom. I've always hated puzzle games that go this route, and it is NOT good game design.  The ending is also complete nothingness, by the way. All that happens is that you head into a poorly designed room and destroy what I believe was supposed to be the 'boss,' but it was just one of the two random enemies that you've already seen placed throughout the main levels. The boss couldn't even get his own unique character model, which is extremely lazy. What's also lazy is that this final level doesn't even utilize all 6 heroes. All you use is Block and Magna to crush a few random enemies, and then do the exact same thing to the 'boss.' And after that the screen goes black and plays the credits. I've seen lazy endings before, but this is right on par with Super Pitfall where after you land on a random platform the screen flickers to black and shows just a paragraph of plain white text. Some of these daunting levels took me hours to complete and when this is the payoff I get for the ending then I am convinced that my time has been wasted.  Overall barely an okay game, though it is ambitious for what it tried to do. I cannot recommend a puzzle game that does not allow for some amount of experimentation and creativity.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Amazingly challenging but still doable and fun.The whole aesthetic is intersting and dynamic. Highly recommended if you like racking your brain over a puzzle for an hour or so a day.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "BLINK BLINK  Fit for BRAIN BOOSTER :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Challenging, great atmosphere, 9.5/10 (Y)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall: Very good Difficulty: High  Likes: - Every set of puzzles introduces a new character with a new game mechanic, which keeps the game interesting - Very challenging, especially the later levels - Pretty satisfying when you complete a puzzle - Can quick save - Supports player-created levels  Dislikes: - Some of the later, more complicated puzzles feel less tightly designed because there are a lot of possible moves that look like they might lead to the solution. It often ends up being guess-and-check since it is hard to tell if you are headed in the right direction. - There is a loading screen every time you start or restart a level. It isn't too long, but it's still annoying, and not something I would expect in a puzzle game. - I wish there were an undo option (but at least there is a quick save). - The UI is a bit clunky, particularly switching between characters. - Sometimes the optional goals are not all achievable in a single attempt, and you will have to replay the level to do them. For example, sometimes if you go get the glowing orb, then a character or block will end up stuck. This seems like an odd design decision.",
+            "review_score": "1"
+        }
+    ]
+}

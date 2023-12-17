@@ -1,0 +1,43 @@
+{
+    "app_id": 610670,
+    "name": "Alchemyland",
+    "release_date": "2017-08-02",
+    "developer": [
+        "azimut team"
+    ],
+    "publisher": [
+        "azimut team"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 44,
+    "negative_ratings": 57,
+    "price": 0.79,
+    "description": "What happens if you mix the root of the mandrake with the bear's claw? And the foot of the stalk with the crown of the royal mushroom? What hides the Orc in the trunk and why does not the Elf want to see the guests? Alchemland is a magical country in which everything is possible.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/610670/header.jpg?t=1508608373",
+    "minimum_requirements": "OS: windows 7 Processor: 1.2 GHz Memory: 1 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 500 MB available space Sound Card: any",
+    "recommended_requirements": "OS: windows 7 8 8.1 10 Processor: 2.4 GHz Memory: 2 GB RAM Graphics: Better then Intel HD Graphics DirectX: Version 9.0c Storage: 1000 MB available space Sound Card: any",
+    "reviews": []
+}

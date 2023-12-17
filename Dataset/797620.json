@@ -1,0 +1,41 @@
+{
+    "app_id": 797620,
+    "name": "Dissembler",
+    "release_date": "2018-02-21",
+    "developer": [
+        "Ian MacLarty"
+    ],
+    "publisher": [
+        "Ian MacLarty"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 4,
+    "positive_ratings": 25,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Dissembler is a subtle puzzle game about unraveling playful, abstract designs one color at a time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/797620/header.jpg?t=1536035282",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows 7+ Processeur : 2 GHz Dual Core Mémoire vive : 2 GB de mémoire Graphiques : OpenGL 2.1 Espace disque : 50 MB d'espace disque disponible Carte son : Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

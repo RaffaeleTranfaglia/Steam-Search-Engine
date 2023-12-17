@@ -1,0 +1,44 @@
+{
+    "app_id": 618630,
+    "name": "Astral Traveler",
+    "release_date": "2017-09-13",
+    "developer": [
+        "Dragon Slumber",
+        "Brainoid"
+    ],
+    "publisher": [
+        "Dragon Slumber"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 15,
+    "positive_ratings": 9,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Blaze your way through 47 challenging tracks as you dodge obstacles at breakneck speeds, shooting down the enemy raiders blocking your path and phasing through pulsars for an extra burst of speed. Your astral core is fading, but the warp gate to the next track is just up ahead, if your skills are tight enough to reach it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/618630/header.jpg?t=1505314765",
+    "minimum_requirements": "OS: Windows 7 or greater Processor: i5-5200 2.20Ghz Memory: 3 GB RAM Graphics: 1280x720 or better video resolution in High Color mode Storage: 1500 MB available space Sound Card: Standard onboard sound card",
+    "recommended_requirements": "OS: Windows 7 or greater Processor: i7-950 Quad Core 4.16GHz Memory: 8 GB RAM Graphics: R290X MSI lightning 4096MB Storage: 1500 MB available space Sound Card: Standard onboard sound card",
+    "reviews": []
+}

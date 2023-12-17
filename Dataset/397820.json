@@ -1,0 +1,47 @@
+{
+    "app_id": 397820,
+    "name": "Let's Sing 2016",
+    "release_date": "2016-01-21",
+    "developer": [
+        "Voxler Games"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Music"
+    ],
+    "achievements": 37,
+    "positive_ratings": 24,
+    "negative_ratings": 20,
+    "price": 18.99,
+    "description": "Let's Sing 2016 brings a brand new generation of karaoke to your PC!Whether you're an experienced vocalist or a bathroom crooner, grab a mic and give it all you've got with the 35 available hits, including Bruno Mars, Meghan Trainor, Calvin Harris, Sam Smith, Avicii, Maroon 5, John Legend...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/397820/header.jpg?t=1499179738",
+    "minimum_requirements": "OS: Windows® 7 Processor: AMD Phenom™ II X4 840 Processor 3.2 GHz AM3 Memory: 4 GB RAM Graphics: NVidia GeForce GT 520 1GB DirectX: Version 9.0c Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows® 7 Processor: Intel® Core™ i5-2500 CPU @ 3.30GHz Memory: 4 GB RAM Graphics: NVidia GeForce GTX 550Ti 1,5GB / ATI Radeon HD 6570 1GB DirectX: Version 9.0c Storage: 5 GB available space",
+    "reviews": [
+        {
+            "review_text": "I really wanted a game of this type, but for me this game is unusable. I was unable to find a configuration that made it accurately score performance.  The first configuration I tried was to use Logitech wired USB microphone that I had used for Rock Band and put the sound output through my LED TV in game mode. This produced seemingly sort of ok results, but I decided to test the setup. I chose some songs with decent range in pitch and just made a constant tone into the microphone. It scored me pretty well and showed my pitch going up, down, and all over the place. The variation was despite me just producing a monotone sound. When I tried singing along, the feedback is often very delayed such that it is hard to use the feedback. The feedback for singing along and for just producing a completely monotone sound were hard to even distinguish visually. I'm not a great singer, but I'm not nearly as bad as a monotone sound.  The second configuration I tried was to use a wireless headset. I used a Logitech G930 headset which is a wireless headset which is designed to keep latency down. My theory was maybe the scoring would be better if I removed the sound from the TV getting to the microphone. The scoring was much, much better in this configuration. I could see the effect of changing my pitch on the scoring, although it was still very delayed. The feedback was very hard to do anything with though. All I could really get out of it was on pitch, off pitch, or so far off it didn't recognize it as an attempt. It at least didn't score a monotone sound highly. The feedback was still very delayed a lot of the time. The feedback seemed to be several words behind a fair amount of the time. I found the feedback to be almost, but not quite useless. This was a small improvement over the first configuration. Another killer problem in this mode is that there is basically no feedback from the microphone to the speakers. It is really hard to sing when you can't hear yourself (at least for me). I also tried a variation of this where I had 1 ear pad off on the headset so I could hear myself. This was the best configuration for me as I could hear the music in 1 ear and hear myself in the other. It is sad that the game reduced me to this level to try to save it. Even with this, the feedback wasn't good enough to make me ever want to play the game again. I feel like I get better feedback just by listening to myself as I sing along to things.  Beyond failing at its primary function of providing feedback on your singing, the game has a bunch of other limitations. I don't consider these other limitations to be game killers, but they do make the game feel like an alpha release. The only imnput to the game is keyboard and it only uses 7 keys (4 arrows, enter, space, escape). This is a very clunky interface for a PC. It does map extremely well to a steam controller however, so once I set up the input mapping and used the controller it was pretty good. There are very few options or controls inside the game. You can switch which microphone you are using in the game, but sound output is controlled by Windows. I also didn't see any volume controls inside the game. At one point I had my headset USB dongle plugged in with the headset off and the USB mic plugged in. This made the game switch to the duet display even though the headset was turned off and I was playing in what would normally be the single player mode. It didn't seem to let me select how many players I wanted just assuming that number of players = number of mics. The controls in the game are basically limited to select song, quit, and select from a few different game modes which are pretty similar.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Best game in steam !!!, Its cheap and fun to play, what else you would need?",
+            "review_score": "1"
+        }
+    ]
+}

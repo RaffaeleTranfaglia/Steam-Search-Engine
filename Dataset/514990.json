@@ -1,0 +1,50 @@
+{
+    "app_id": 514990,
+    "name": "Outbreak",
+    "release_date": "2017-01-17",
+    "developer": [
+        "Dead Drop Studios LLC"
+    ],
+    "publisher": [
+        "Dead Drop Studios LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 39,
+    "positive_ratings": 53,
+    "negative_ratings": 40,
+    "price": 6.99,
+    "description": "Race against the clock and battle the undead in this co-op survival horror nightmare.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514990/header.jpg?t=1523490090",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows (7/8/10) 64-bit Processor: Core i3 Memory: 2 GB RAM Graphics: Intel HD 4400 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1000 MB available space Sound Card: Integrated Additional Notes: Xbox One, Xbox 360 or PS4 gamepad recommended",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows (7/8/10) 64-bit Processor: Core i5 Memory: 2 GB RAM Graphics: NVIDIA Geforce 750 Ti / AMD Radeon R7 370 DirectX: Version 11 Network: Broadband Internet connection Storage: 1000 MB available space Sound Card: Hardware Additional Notes: Xbox One, Xbox 360 or PS4 gamepad recommended",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 462590,
+    "name": "Taekwondo Grand Prix",
+    "release_date": "2018-10-09",
+    "developer": [
+        "Hello There Games"
+    ],
+    "publisher": [
+        "Hello There Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Action",
+        "Multiplayer"
+    ],
+    "achievements": 12,
+    "positive_ratings": 28,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Experience authentic Martial Arts like never before in a game. Tactical action mixed with realism as you move like true professional fighters, thanks to motion-capture technology. Focus your mind, hone your skills and calibrate your reflexes. It’s time to fight.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462590/header.jpg?t=1545138256",
+    "minimum_requirements": "OS: Windows® 8 (32/64-bit)/Windows 7/Vista/XP Processor: 3 GHz Processor or better Memory: 8 GB RAM Graphics: Direct X 11 compatible video card with minimum 512 MB RAM DirectX: Version 11 Network: Broadband Internet connection Storage: 1300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

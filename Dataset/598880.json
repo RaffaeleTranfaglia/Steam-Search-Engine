@@ -1,0 +1,44 @@
+{
+    "app_id": 598880,
+    "name": "Domiverse",
+    "release_date": "2018-03-07",
+    "developer": [
+        "Haunted Tie"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "2D Fighter"
+    ],
+    "achievements": 33,
+    "positive_ratings": 43,
+    "negative_ratings": 2,
+    "price": 10.29,
+    "description": "You are an overpowered gladiator with the skills to destroy all who stand before you. The only problem is, so is everyone else! Enter the Domiverse for fast and frantic fun in this party brawler made for up to four players in local play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/598880/header.jpg?t=1551881324",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E5200 Memory: 2 GB RAM Graphics: GeForce 9800GTX+ (1GB) DirectX: Version 10 Storage: 700 MB available space Additional Notes: 720p or 1080p, 16:9 recommended",
+    "recommended_requirements": null,
+    "reviews": []
+}

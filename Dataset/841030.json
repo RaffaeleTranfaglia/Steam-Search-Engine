@@ -1,0 +1,41 @@
+{
+    "app_id": 841030,
+    "name": "Fairy Escape",
+    "release_date": "2018-04-27",
+    "developer": [
+        "For Kids"
+    ],
+    "publisher": [
+        "For Kids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 44,
+    "positive_ratings": 20,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "Exciting arcade-runner in which you have to help the magical fairy to break forward, dodging obstacles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/841030/header.jpg?t=1524930074",
+    "minimum_requirements": "Минимальные: ОС: Windows XP Процессор: Core2Duo Оперативная память: 512 MB ОЗУ Видеокарта: Intel HD2000 Место на диске: 200 MB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 10 Процессор: QuadCore Оперативная память: 2048 MB ОЗУ Видеокарта: Intel HD2000 or better Место на диске: 300 MB",
+    "reviews": []
+}

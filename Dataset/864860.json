@@ -1,0 +1,41 @@
+{
+    "app_id": 864860,
+    "name": "HellCat",
+    "release_date": "2018-06-14",
+    "developer": [
+        "Verbal Chambers"
+    ],
+    "publisher": [
+        "Verbal Chambers"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 96,
+    "negative_ratings": 15,
+    "price": 1.69,
+    "description": "The protagonist is a cat. To whom nothing remains but to arm himself in the fight against the army of devilish creatures and become a HellCat.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/864860/header.jpg?t=1553698443",
+    "minimum_requirements": "OS: Windows 7-10 Processor: Dual Core CPU Memory: 512 MB RAM Graphics: 128mb Storage: 45 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 496620,
+    "name": "Monster Slayers",
+    "release_date": "2017-03-23",
+    "developer": [
+        "Nerdook Productions"
+    ],
+    "publisher": [
+        "Digerati Distribution"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Card Game",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 560,
+    "negative_ratings": 127,
+    "price": 5.99,
+    "description": "Monster Slayers is a rogue-like deck-building RPG adventure. Create a hero and choose your path through the perilous Northern Valley as you battle to become a true Monster Slayer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/496620/header.jpg?t=1533784859",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: Processor 2 GHz (Dual Core) Memory: 256 MB RAM Graphics: OpenGL 2.1 compatible 3D graphics card with 256 MB VRAM DirectX: Version 9.0 Storage: 40 MB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

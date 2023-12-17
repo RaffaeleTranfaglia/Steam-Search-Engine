@@ -1,0 +1,42 @@
+{
+    "app_id": 1011630,
+    "name": "Border Force",
+    "release_date": "2019-02-07",
+    "developer": [
+        "Spire Interactive"
+    ],
+    "publisher": [
+        "Spire Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Political"
+    ],
+    "achievements": 17,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "It is 10:59PM on March 29th 2019. With one minute to go until Britain's exit from the European Union is formalised, you are ready to get to work. The UK's safety is in your hands. You are Border Force.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1011630/header.jpg?t=1549555241",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 or newer Процессор: Intel i3 3.20GHz / AMD Phenom II X4 3.2GHz Оперативная память: 4 GB ОЗУ Видеокарта: GeForce GTX 750 DirectX: Версии 10 Место на диске: 2 GB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 10 Процессор: Intel i5 7700 / AMD Ryzen 1600 Оперативная память: 8 GB ОЗУ Видеокарта: GeForce GTX 970 / AMD Radeon RX 580 DirectX: Версии 10 Сеть: Широкополосное подключение к интернету Место на диске: 2 GB",
+    "reviews": []
+}

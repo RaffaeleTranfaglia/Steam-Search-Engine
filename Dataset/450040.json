@@ -1,0 +1,47 @@
+{
+    "app_id": 450040,
+    "name": "Stealth Labyrinth",
+    "release_date": "2016-04-29",
+    "developer": [
+        "Reddoll Srl"
+    ],
+    "publisher": [
+        "IV Production"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Stealth"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 13,
+    "price": 1.99,
+    "description": "Stealth Labyrinth is a first-person shooter game based on stealth mechanics. In a sci-fi labyrinth, the player must proceed, room after room, finding the right way until the end, before the time is out and everything explodes and avoiding all guard robot.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/450040/header.jpg?t=1486678576",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 4460 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 430 (no VR) or GTX 960 (VR) DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is the worst game I've ever played, although I have not played E.T. the Extraterrestrial on the Atari 2600. The video gets extremely fuzzy off and on, the way a bad signal looked back in the day when you had an antenna, back when tvs were analog. There was even a function that was listed as the wrong button. The worst thing of all, was that the game kept thinking I was in one spot, when I was in a different spot, so it wouldn't let me do anything when I got to a certain room. If you like mediocrity, you'll love this game!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is not a game, it's an atrocity. Avoid at all cost.",
+            "review_score": "-1"
+        }
+    ]
+}

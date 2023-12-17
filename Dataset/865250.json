@@ -1,0 +1,48 @@
+{
+    "app_id": 865250,
+    "name": "Phase Shift",
+    "release_date": "2019-04-25",
+    "developer": [
+        "DWSK Ltd"
+    ],
+    "publisher": [
+        "DWSK Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Rhythm",
+        "Music"
+    ],
+    "achievements": 9,
+    "positive_ratings": 36,
+    "negative_ratings": 14,
+    "price": 11.99,
+    "description": "A multi-mode instrument focused rhythm game, built to work with most popular PC compatible instruments. Use the native Midi support to play with real Drum or Keyboard modes. Every mode can play together in any combination in online or local multiplayer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/865250/header.jpg?t=1556210730",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Core 2 Duo or equivalent Memory: 4 GB RAM Graphics: Nvidia Geforce GTX 460 or equivalent DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

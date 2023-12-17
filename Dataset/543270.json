@@ -1,0 +1,43 @@
+{
+    "app_id": 543270,
+    "name": "Mr. Shadow",
+    "release_date": "2016-11-17",
+    "developer": [
+        "bycomb"
+    ],
+    "publisher": [
+        "bycomb"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 33,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Mr. Shadow is a 2D graphic adventure game. The player uses a simple point and click interface to solve diverse puzzles. Enter a surreal and dark world inhabited by shadows.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/543270/header.jpg?t=1510939147",
+    "minimum_requirements": "OS: Microsoft® Windows® XP Processor: 1.8GHz x86-compatible processor Memory: 1 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is a delightful-looking point-and-click puzzle-adventure with clever puzzles and good music, and I'm still not recommending it. Short version: Awesome appearance, poor implementation: too many hit-this-pixel and timed coordinated actions to be pleasant.   Pros:  Adorable art Good thematic music Innovative puzzles   Cons:  Frustrating puzzles that make no sense Intro screens take too long to load, esp when returning to game Moving around is slow Some puzzles require exact pixel hits Timing is difficult in spots Save is by 'scene,' and some of the scenes are annoyingly long to get through No hint function  The big 'no' feature for me: In several puzzles, I couldn't tell what I was doing. I clicked on things; I could see something happening... but I couldn't tell if it was doing anything useful. Click, click, click... hey, that thing over there is turning purple; is that good? or a an irrelevant bit of 'mood lighting?' Ok, it moves something, which is almost certainly a puzzly thing, but is that 'what to do next' or just 'something I'll need at some point during this scene?'   Combine that with the need to slowly go back and forth across the screen (hoping that you're moving to the next step and not just moving around because you can, which takes an annoying amount of time), and... by the time I figured out the Next Thing to move the scene to the Next Stage, it wasn't a moment of 'aha! so  that's  how it works!' but rather, 'oh. finally. good thing I clicked on that little bit over there,' or even, 'huh. I guess one of those clicks was the right thing to do?'  It involves a lot of random clicking around in space, hoping you'll find something that reacts. Some parts are much easier to do if you zoom in with the mouse wheel (read: almost impossible to do at the default zoom). Some parts require precise timing - which means you have to keep trying with everything, because you can't tell if this is something that will be different if you move That Other Little Piece first.  If you don't mind taking a long time to work through things, this is enjoyable. If, however, the best part for you (like me) is figuring out the puzzles, not timing your actions and hitting the right spot at the righ moment, Mr. Shadow is likely to be more frustrating than fun.  It's pretty enough that the nuisance is almost worth it. I picked it up on sale; I don't think my money is wasted - but I won't be replaying it to see the storyline play out smoothly as I do with most puzzle-adventures; the slow movement and back-and-forth requirements are just too much.  Even the movement isn't fun - it's often not clear when and where you can move, because the click zone for moving is too small; if you mouse over it, you won't realize you can walk. (You'll figure it out eventually because you can't do anything else.) Still, though... this is just barely a thumbs-down review, not recommended because of the frustration factor. The setting is charming, and puzzles themselves would great if there some kind of in-game clue for figuring out what to do next, whether a 'give you a hint' system that many games have, or a 'talk to NPC' system where they nudge you at the next puzzle bit.",
+            "review_score": "-1"
+        }
+    ]
+}

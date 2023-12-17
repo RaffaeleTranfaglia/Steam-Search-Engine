@@ -1,0 +1,34 @@
+{
+    "app_id": 962610,
+    "name": "IScream",
+    "release_date": "2018-11-06",
+    "developer": [
+        "Vanhees Dean"
+    ],
+    "publisher": [
+        "Vanhees Dean"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "IScream is an arcady driving game where you play as an ice cream truck driver who gets recruited by the Clowntown gang. Complete missions for the clown gang to defeat the other gangs, while the kids in the streets try to stop you by any means.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/962610/header.jpg?t=1541639909",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Graphics: Graphics card with DX10 (shader model 4.0) capabilities",
+    "recommended_requirements": null,
+    "reviews": []
+}

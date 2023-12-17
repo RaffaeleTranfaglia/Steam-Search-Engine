@@ -1,0 +1,876 @@
+{
+    "app_id": 406150,
+    "name": "Refunct",
+    "release_date": "2015-10-16",
+    "developer": [
+        "Dominique Grieshofer"
+    ],
+    "publisher": [
+        "Dominique Grieshofer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Parkour",
+        "Relaxing",
+        "3D Platformer"
+    ],
+    "achievements": 10,
+    "positive_ratings": 11930,
+    "negative_ratings": 583,
+    "price": 1.99,
+    "description": "Refunct is a peaceful, short first-person platformer about restoring a vibrant world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/406150/header.jpg?t=1554726441",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel Core i3 / AMD A6 @ 2.4GHz Memory: 1 GB RAM Graphics: Nvidia GeForce GT 240 / AMD Radeon HD 4670 / Intel HD Graphics 4000 DirectX: Version 10 Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 / AMD FX @ 2.4GHz Memory: 2 GB RAM Graphics: Nvidia GeForce GTX 470 / AMD Radeon HD 6870 DirectX: Version 11 Storage: 250 MB available space",
+    "reviews": [
+        {
+            "review_text": "You know what? For $3 this game really put me in a happy place. That made it a worthwhile purchase in spite of it's incredibly short playtime. If it had an endless mode I'd never stop playing it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Refunct had caught my attention some weeks before the summer sale, and it came as a great surprise when I got it gifted by a great friend of mine, thank you once again Danii!  This is the prime example of simplicity. The game's simple aesthetic with day/night cycles makes it a beautiful looking experience to screenshot dozens of times. it's definitely not a game for everyone, by reading the game's description you know exactly what you're going to play. Refunct has no story, and barely any sort of context as well, but is it good? Yes it is.  To put it simply, all you do is press red buttons in order to restore this island that's lost in the middle of a never ending ocean and every platform you walk onto turns green, so in a way you're restoring this island back to life. You also have these little cube collectibles scattered throughout the island to collect. All of these elements are required to reach a 100% completion on the game. There's gameplay mechanics that reminded me of games like Mirror's Edge, like sliding and wall jumping so you can reach certain platforms more easily. Beware that the game lasts only about half an hour, although it's definitely not a game that should had been longer.  One of the highest positive aspects in this game is it's soundtrack. Composed by Kristofferson, the album entitled Connections plays while you're restoring the island. It is definitely a very relaxing set of music, that improves the gameplay experience a lot.  It is hard to write much about a game so simple and so short, but all I can tell you is that if you're a fan of the so called Walking Simulator genre, which I am a big fan of, if you want to play something very relaxing and if you love a really good looking game, then you're in for a treat! Again I do say, Refunct is not a game for everyone, some might not even call it a game for some reason, but for me it's an amazing one.  What makes you, you?  9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I avoid platformers like the plague. I have two left hands, my coordination skills are zero, and I've been forced to stop playing many games in the past because of a tricky sequence in the middle of a gameplay advertised as casual-friendly. I know about double jumps and wall jumping, I'm just bad at it, period.  This game is the greatest experience I've ever had in a platformer, because it manages to speak both to hardened speedrunners and beginners. It's short, it's beautiful, and it's not TOO hard. You can finish it carefully in an hour or so, or speedrun it in a few minutes by taking tricky jumps. I ran a first playthrough where I couldn't get to a platform because of wall jumping, and on the second playthrough I made it on my first try. The game silently encourages you to try and try again. Failure simply means trying again immediately. And in the end I finished 100% a platforming game for the first time in my life, without cheating, and feeling satisfied about myself. Thank you, guys. The world needs more relaxing platformers like this.  Note: unlike what guides tell you, the 'make everything green' achievement also requires getting all cubes. I know you normally should have all cubes by that time, but I'd missed one on a platform I'd already greenified. Also, the lack of tutorial is okay, but they really should tell you about the Shift key to crouch or jump into water.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great example of movement mechanics done right. Clearly worth 3 dollars just to slide around and see how momentum done well can really feel amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was very short but it felt so free playing through it, However if you don't like short games don't buy this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TLDR: Another great time killer!   Very peaceful and beautiful game. The objectives are pretty straightforward. As advertised there's even no way to die or fail... it could get a bit challenging to collect all achievements though. Recommend to buy on a sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "tl;dr Its a good game, 3 bucks, good music, good visuals, fun gameplay  I'm really suprised I've never heard about this game before, as I'm generally a fan of first person platforming. While this didn't really hit the hardcore part of me like other games do, it certainly was an enjoyable experience and is well worth it for the price.  The pastel colors are well used and remain vibrant even without the use of neon bright flashy graphics of many other indie games.   If the developers of this game would like to continue working on the game and add new content, then I would love to give some suggestions (these arn't going to be the best descriptions) :  -Add more diffuculty -Add randomly generated worlds  That's actually about it. I would love if these were added, even in paid dlc (as long as the price is fair.)  Either way, it's a good game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Didn't even realize it was a parkour game until I was halfway done with it  10/10, never saw that ending coming",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I...need...more...!!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful, fun, relaxing and please for the love of all that is holy give this a workshop it desurves it so bad, just an editor mode or something!  moving blocks and cool platforms lend it so well to this and its simplicity of sort of being a collectathon with the % captured aspect makes it all the more interesting. so please if a dev reads this ADD an editor mode my god this game would be a 10/10 easy with it no questions asked but at the moment purely because it was only (an amazing) 20 minutes all I can really give it is a 7.5/10 even though every bone in my body says it desurves more, this could easily change if the game adds and editor so PLEASE.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is filled with love.  10/10.   How can one not purchase a parkour game with more than 90% positive reviews on steam? Short, cheap, beautiful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sad it's already over, was a fun little game though very short. A couple challenges but mostly just a vibrant and colorful stress free game. Hope to see more levels and play time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game thinking 'Atleast theirs cards to repay if the games bad.' I was wrong, Refunct is an mesmorising first person parkour game. It has stunning visuals, fluid movement and a sweet ending. All in all, Refunct might not be worth it, but hey, give it a shot if it's on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although short this is a very interesting concept and the execution delivers a feel good atmosphere. The game's purpose is to step on different blocks and raise them from the sea by stepping on a red button. There's a couple of collectibles around for achievements and some of the blocks require a little bit of finesse but nothing too hard. The soundtrack fits perfectly and is quite lovely and the overall message of the game will certainly lift your spirits. Like mentioned above, the game is extremelly short, you could finish it in 30 minutes but that's doesn't mean you want enjoy it.  If want something to relax, take the edge off, unwind after a long day, this game will surely help you, even if it is for a short time. Definitely recommended for its price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game thinking 'Atleast theirs cards to repay if the games bad.' I was wrong, Refunct is an mesmorising first person parkour game. It has stunning visuals, fluid movement and a sweet ending. All in all, Refunct might not be worth it, but hey, give it a shot if it's on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. I fully recomened buying the game. BEST £3 i have ever speant. really.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Made Me Cry At The End...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nice short litle game. Had some weird music.  6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "*SPOILERS*  Some sound effects sound very 'cheap' and generic, yet the music has an enormous production value for such a small game, though a couple of tracks are big EDM sounding and while still lowtempo, they are just our of place. Grass texture seems to be a generic free seamless grass texture I've seen somewhere on the internet before (and a desaturated version of it). Platforming is slippery and threw me off a couple of times. In the beginning of the game mechanics convinced me I have a 'double jump' ability (not an actual 'bouncing off walls' ability). Controls were not explained. Achievements seem to try to make you think, but I felt nothing, sorry.  Buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even though your average game time would be less than a few hours; in such a small time this game makes you go through a small, but growing world that is getting more and more colorful and beautiful with each bountiful leap.  If I could give this game a numerical score it would most likely be something close to 8/10.  I only wish there was more to go through although for what the price was I'd say this was great and I'm sure if you'll enjoy it if you are fond of a good and sometimes puzzling platformer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The happiest game I've ever played. Love it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very beautiful and satisfying game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "rarely does a non violent game make me smile. refunct is a great, cheap and short game to break the bordom on a sunday beautiful looking game, fun and easy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "sure there is only 30-60mins of game play. but i enjoyed it and was glad i bought it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What can I say that hasn't already been said? Refunct is a FPS game where you parkour across platforms, activate buttons, and collect cubes. It's a very simple game that can be completed in twenty minutes and 100%ed in an hour. The mindless, running around is so fluid and addictive and the soundtrack perfectly matches the sense of serenity and euphoria you feel while you blissfully climb across platforms. For the price point, I absolutely recommend this game to anyone who just wants some straight-up fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good game to relax with. I usually play this game through once or twice after a particularly tilting experience in ds3 or overwatch. 10/10 would reccomend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An asthetically pleasing 30 minutes of minimalist Mirror's Edge. While simple the gameplay expands at a comfortable rate and I'd definitely pick up a v2.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I had a great time for the ~20 minutes this game lasted. Went in blind as a bat and it was awesome. Level design was top notch, easing you into the mechanics rather quickly and painlessly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is quite simple. Your Main goal is to jump on every block turning it green. The Soundtrack is soothing and fits this game perfectly. I would recomend this game if you want to relax and take your mind off things.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A short but awesome first person platformer, I would reccomend it to anyone that wants an enjoyable relaxing 15-25 minutes!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Charming and lovely. A relaxing and pleasant experience that will take you no longer than 20-30 minutes to get through. I don't want to spoil the experience given how short it is, but this one is a solid recommendation.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like Mirror's Edge but worth of money",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was a amazing game!!! With the wall jumping and the chanlage of getting all of the extra collectable achievement it was altogether AMAZING game, and i believe it was worth every cent i spent on it!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Made Me Cry At The End...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "OVERVIEW Refunct is a calm, peaceful first-person platformer about restoring a bland world into a grass wonderland. It was developed and published by Dominique Grieshofer. This world has a dynamic day-night cycle, vibrant colors and a casual experience. With many different platforming structures such as lifts, springs, pipes and wall jumps, the game is easy to learn and fun to play.  PROS + Immersive + Stunning Visuals + Casual + Easy To Pickup + Achievements + Controller Support + Steam Trading Cards + Cheap + Beautiful Soundtrack  CONS - Short (Estimated Time: 40 minutes to 1 hour) - No User Created Levels - Not Much To Do After You Finish  CONCLUSION With a calming atmosphere and stunning visuals, the whole concept is just soothing. Most people would assume that a game that you could finish in less than an hour is a lack luster game is completely wrong, it is an immersive world with a wonderful soundtrack and an easy to learn game. With no tutorial slowing the game down, you get pushed in head first into this world. That may sound scary to some, but you are eased into the different platforming abilities that it's easy to pick up on.  8.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful looking game with beautiful music and interesting puzzle mechanics. I often feel dissapointed by puzzle games but this one has grabbed me.  It is truly enjoyable and extremely cheap. Absolutely more than worth it's price tag.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For $0.99, you can't get much better of a game to kill 20 minutes with. Whilst this game will only take you that long to complete, it's well worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutly beautiful only problem is its too short.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The current torrent of AAA releases makes for an overwhelming selection for a reviewer like myself. There are titles that we’re simply expected to play, like one I shall not mention until this time next week, and others which only appeal to a very certain demographic. Indeed that’s exactly why all these games can all launch at the same time and still find the financial success they were looking for. However most of these games are incredible time sinks and my one review a week schedule simply can’t accomodate them. Thus I look to the poor indies who found themselves in the mix with the giants of the industry to fill the gap with their shorter, more concise experiences. Refunct certainly fills the first requirement aptly clocking in as probably the quickest game I’ve ever fully completed.  Refunct Review Screenshot Wallpaper Opening Scene  Refunct is a first person platforming game, something which I’m sure strikes fear into the hearts of all gamers. You see platforming in first person has always been somewhat of a hit and miss affair, both in the literal and figurative sense. Judging distances in first person mode is a flawed endeavour as there’s no real way (apart from trial and error) to figure out how far your character can move or whether or not you jumped too early. Refunct however has billed itself as a game that everyone can play, meaning that the developer must think they’ve addressed the first person platforming problems. To an extent they have, but not because of any new or clever mechanics.  Instead Refunct is incredibly generous with its hit detection when it comes to near misses on ledges and the height that you character can jump. For the first few jumps I was expecting the normal platforming behaviour, you don’t make it you fall flat on your face, however if you’re within a certain tolerance your character will pull themselves up. Later on, when its revealed that you can push yourself off walls, you can exploit this somewhat as even full misses can result in a successful jump if you bounce yourself off the wall. For new players this means that jumping puzzles, which typically rely on pinpoint precision, are much more forgiving. For power players like myself though it’s an easily exploitable system that significantly reduces the play time of Refunct.  Refunct uses the Unreal engine and, judging by the world effects it makes generous use of, must be running on the latest version of said engine. Whilst it’s one of the most basic games you’re ever likely to come across, pretty much everything is a block or cylinder, it does look incredibly nice. The subtle day/night cycles, clouds gently passing by in the background and the accompanying soundtrack do make for a rather pleasant experience. That being said in terms of graphics it’s not much more than a demonstration of Unreal’s inbuilt capabilities. I guess where I’m going this is: I like the way Refunct looks but it feels like a low amount of effort went into making it look that way.  From a game play perspective Refunct is pretty seamless with the generous platforming mechanic smoothing over what could have been many frustrating moments. At the same time however this means that for any kind of regular gamer Refunct is likely to be little more than a curious distraction as I was able to complete the whole thing, to 100%, in no less than 22 minutes. For some this might be a problem, especially in the age of numerous other $2 games that give many more hours of play time, so it’s something to bear in mind if a simplistic first person platformer is sounding like something you’d like to play.  Refunct is a succinct first person platformer that is far more forgiving than its genre would lead you to believe. The generous platforming mechanics means that a wide variety of players would be able to play it start to finish without the frustration that accompanies nearly every other title that incorporates such mechanics. It simple and clean aesthetic does make for a kind of zen experience which is only heightened by it’s great soundtrack. However it is a brutally short experience, almost shorter than the time it will take many to download it. Overall I’d recommend it but only if you’re looking for an after-AAA mint to clean your pallet before you set yourself up for your next meal.  Rating: 7.5/10  Refunct is available on PC right now for $2.99. Total play time was 22 minutes with 100% of the achievements unlocked.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Took 26 minutes to hit 100% completion. A pleasant experience. Nice ending. No bugs whatsoever. Quite happy to have paid the 99p for it. Look forward to more from this dev.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short but sweet.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great fluid gameplay and a really nice soundtrack kept me playing from start to finish. It might only take less than half an hour to complete the game but I really enjoyed it and I'll be letting my kids have a go this week too as I think they'll enjoy it too (though I suspect them taking much longer to complete the game).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It looked really good, watching the trailer. It got me curious. After buying the game I didn't really have that much of an expectation but it wowed me multiple times, that such a simple game has such good gameplay without even telling you how it works and what it's goal is. Just get to the marker.  I would most definitely pay more to receive more levels like this I'd recommend it to anyone. Play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Fantastic puzzle game, great looking and all around satisfying when you finish the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perfect game to help you chill out. Just jump on the platforms, press the red button and collect all the boxes. It can be completed in less than 30 minutes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super chilled and relaxing  10/10 would buy again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Make the planet greener simulator    with nice soundtrack and smooth running mechanics.     GO GREEN! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was unsure about this game since I saw it was really only 30 min of gameplay so I was putting it off for a while. However, once I finally picked it up and finished, I absoltely loved it. Once you hit all the tiles the sounds and visuals are just so satifying. To anyone deciding whether or not this is worth it for the $3 it is, as long as you don't hate platformers, you'll love it. Now some may still be thinking '30 min of gameplay, meh not worth' then it's your loss or just wait until it goes on sale or something, because it's definitely worth it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the kind of game which would greatly benefit from the addition of the steam workshop",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The essense of flying through an obstacle course (like TF2 rocket jumping maps) made into a beautiful stand-alone experience. A bit short, but here's hoping that the community will expand on this geat concept.  Gameplay 9/10 Music 9/10 Controls 8/10 Sound fx: 6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful visuals + great audio + smooth controls = a fun, relaxing game.  For the price it's absolutely worth it.  My only complaint is the length, I would gladly pay more for a larger version with more to do.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perfectly priced, this game was an absolute joy to play. If meditation was a game, this would be it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This has to be the calmest, and shortest game ever..~",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Half hour of gameplay, but so worth it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quick, Fun, Simple. Challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is highly replayable, visually appealing, and puts you in a trance of relaxation the whole time you're playing it. I recommend this game because, as far as first-person platformers go, this game is perfect. I have played through it five times, and even though it's only the one level every time, I played it differently each time. It was just as satisfying the fifth time as it was the first.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's short, but sweet. The first first person platformer I've played that felt right.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Relaxing timewaster. Just what I needed in the midst of a bout of gaming burnout.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a simply charming little game. It's a pleasingly simple and smooth game with a relentlessly up-beat attitude. I totally enjoyed it and look forward to wall-jumping my way through it's course again soon:-)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Was on sale, reviews were rave, so yeah I downloaded it. So yeah I nearly cried at the end. Something about this game just hits you, its simplicity is its greatness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a slick as it looks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game should be the absolute standard that AAA games use for their movement mechanics. It's fluid, and the jump/crouch system works perfectly. Conservation of momentum lets you crouchslide under short obstacles and the wall-jumping makes me long for an Assassin's Creed/Tomb Raider remake that uses the same physics. It's short, yes but for the £1.00 I paid for this (on sale) it's one of the best experiences you'll have in a long time. The colours are vibrant and the music fits the ambience correctly. My only wish is that the game lasted for hours!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I Absolutely LOVED The Floor Is Jelly, And This Is Basically That, But With A Twist! IT'S IN 3D!.. And The Floor Is Not Jelly...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "We need more developers like this. Who cares if it's a short game. It was well done and it was fun to play. The music is great, which is always a plus. OH, and the price is fair. So many good things going for this game. Great Job!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun and easy to play and worth replaying for speed running  Story N/A Graphics 9/10 Gameplay 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is GREAT. It only needs to be in VR and i'd be 100% happy, also GREAT soundtrack",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a neat, 20 minute game. It's worth buying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  cute, short and sweet game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gorgeous game and the gameplay makes you feel smart after every puzzle, just like Portal. More like this pls.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple, but addicting. Tight controls, fun gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game, despite its length, is something special and is definitely worth experiencing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is absolutly amazing, its just a great game ok? the movment is amazing and each action flows together nicely assuming you don't run into a wall.  theres a couple collectables which you get acheivments for collecting certain ammounts and the entire games is full of grey barren blocks that grow grass when you touch them, i personally had the natural urge to touch every single one and collect everything, so yea i 100%ed the game which brings me to its biggest and only con  its fairly short, i definetely wouldn't mind paying more for a longer sequal and i found myself saying 'i hope this isn't the last part' a couple of times because the game is just really good and even though it was short it's definetely worth the buy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was a lot of fun and the best $3 I ever spent! When you first get into the game, there is no tutorial, no guide... you just play. Movement in the game is incredibly fluid with great controls. The soundtrack is amazing. Definitely recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice game but very short (0,5h)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun but short. I got everything in 30 minutes. Get it on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is really REALLY short but it is SO good! The visuals, the music, and the gameplay are good. This game is FAR from amazing but is an experience. 100% worth getting for 3 bucks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Refunct is a rather polished, short, zen experience. The visuals and music are really satisfying. Recommended for those who like stress-free exploration.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun concept, real platforming elements and a beautiful look! A+ Game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wonderful Game! I enjoyed playing this game and I have played through it many times. If you are at all interested in learning to speedrun a game this might be a fun game to try out. I am now able to do an any% run under 3:15. Really cool game to practice and to try and improve your times on. If you like playing a game once and then putting it on your shelf, I personally would not recommend this game because it is too short for a single play through. If you like playing games more than a few times to try and master I cannot recommend this game enough. Also if you are a fan of Mirror's Edge I think you would appreciate a game like this, it is one of few game that I have found that successfully recreates that experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 - IGN Would play again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "PERFECT!!! This is by far in my top 3 of games on steam!!! But I do for sure wish it was longer!!! I completed it in around 30 mins but it was so fun and awesome! Worth 2.99 for sure!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an absolutely gorgeous little game. It took me about twenty minutes to 100%, but it was time incredibly well spent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sweet little platformer. Excellent graphics overall for what it does.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty Good. For a game that's just like 3 dollars, I'd say it's okay. A little short though, at least shorter than I'd thought it would be. If I had to say anything negative about the game it'd be the water noise quality. I might just be nitpicking but the water noise quality really bugged me just because it sounded like somebody just crudely waving their hand around in the water. Music was good, but I'd thought for some reason that the trailer music would be in-game music but that was probably just stupid on my part, it's mostly just piano kinda music but it's still objectively good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Terrific game. Too bad it's only 20 minutes long, I would have loved to explore other worlds with different designs.  Is it worth the price? If you think going to the movies is worth the money then yes. Otherwise add it to your wishlist and pick it up while it's on sale, it's really a treat,",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't know what to say. The game is beautiful. It has a good soundtrack. It may be short, but that doesn't mean it isn't fun. This game is just amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was super fun! Just running and jumping, yet somehow you feel really skillful at it without needing to be. It's fast, it's simple, it's polished, and it leaves you with a warm fuzzy feeling.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you want a quick, chill, parkour platformer, then this is for you. Simple as that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is masterpiece , the most beautiful game ive ever played. This game leaves me breathless everytime i am playing it. Great graficks and brilliant music , this game is worth more than a 30 mins of my time to cemplete it and 3 euro to buy it ...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "short, almost too short. i want more. very well done.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So I suppose it was a good game. Fun movement. Generally pretty and atmospheric. The biggest thing is that I got 100% in 22 minutes. It's very much a short jaunt of a game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very short game but the best game i have layed in a long time. 10/10 would buy aain and pla over and over",
+            "review_score": "1"
+        },
+        {
+            "review_text": "That was really short, beat it in half an hour, but the movement was fun. I just wish there was more of it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Quick and pleasant game. Easy to navigate and nice to explore. If you have a few dollars to spend then go for it. Not much replay value though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing; it is pure art. I loved playing through the game, I've finished it already, and I would highly suggest you play it.  Pros:  - Amazing aesthetics.  - Amazing game design.  - Amazing level design.  - Amazing soundtrack.  - Very relaxing.  Cons:  - Less than 3 hours of gameplay.  - For Windows only.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The movement, music, visuals, and overall feel fantasic. The game is fairly cheap and doesn't last that long, but the time while you're playing it you will be absolutely amazed by how good the movement feels. Great game, highly recommend it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Easy acheivements and a fun little parkour game. Nice atmosphere, pretty beautiful, and has a cute little message at the end. Honestly beatable in like 10 minutes if youre just moving at a slow pace but worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pleasant simple game but takes less than 1 hour to complete.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice first person jumping game you can finish in 25 minutes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have to say, for such a small game with a single map, this game is oddly satisfying. I took a gamble on it cause it looked interesting and I'm glad i did. This game is relaxing and fun, I just hope to see more maps in the future! Definitely recommended for a quick relazxing game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best puzzle platformers i've ever played, so much fun! I just wish they added a level editor mode in the future, so people could create more levels for the game, because the art and music are astoundingly beautiful, and much better than some AAA releases in terms of overall polish, and fun factor!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You would only really understand this game after you complete it. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun cute and wish it was longer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most beautiful and relaxing games I've ever played, I can't wait to see what the future holds for not just the game but the creators as well",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely little game. Short but worth it.  It has better graphics and gameplay than Mirror's Edge Catalyst and this runs at 270 fps on my GTX 980.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game doesn't contain ropes but it can make you feel like an acrobat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a work of art in itself. This game is kind of like Mirror's Edge but without everything of Mirror's Edge. I love this game and it's probably the best $3 I've spent in a long time. 10/10 Best game, PLUS: the music is perfect for the game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would recommend it, BUT!!! only on sale. It barely took me 0,6h to get trough it. I liked it a lot it is a fun little game, wish there was more. But doesn't have enough to be worth 3 euros in my opinion. If you love and are addicted to games like these, I would still recommend buying it.   Still a 10/10  I would love to see more of this!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good game but far too short at most maybe a half hour of total play time. Although for 3$ the game is amazing compared to the other games in that range. If the game was expanded and more levels were created that would make this game even better than it already is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for the price. Very short but easy and good for relaxing. Definitely worth trying it out!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun platformer. The controls felt good, after some trial and error in figuring out what they were. The gentle music, pretty visuals and forgiving movement made for an enjoyable time. Recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very calming game, definitly worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a very short game where you jump from column to column to color them all.  Pros: -The music is nice and peaceful. -Visuals are very pretty and performance-wise it ran very good on my pc. 60 FPS constantly on Ultra.  Cons: -Very short, not much gameplay.  Get it when it's on a sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I loved this game. I really did. Only it was too short. It took me around fifteen minutes to complete the whole game, and once you play it once it is the same each time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not much can really be said about it without 'spoiling' too much.  Just know that it's short (can be completed in less than 30min), and it's good.   I bought it on sale, but it's also well worth the full price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "not bad but too short...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is really REALLY short but it is SO good! The visuals, the music, and the gameplay are good. This game is FAR from amazing but is an experience. 100% worth getting for 3 bucks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Now, Dont get me wrong, I loved this game! I plan on playing a few times over, but the issue is, the lack of content. Its a very visualy appeling game, and its fun! But like I said, I just want more of it! I finshied it in about 30 minutes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  The funny thing is that it's better than Mirror's Edge Catalyst; as well as being a fraction of the cost. The parkour is really fluid and once you soon get a hold of the controls you'll be jumping from grassy towers to concrete ones in no time. Truly an original gem. I know I shouldn't ask; but I really, really want more. I won't hesitate to pay full price for a extra half an hour. Five stars!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A relaxing and fun platform game, short but definitly worth it.  10/10 would jump",
+            "review_score": "1"
+        },
+        {
+            "review_text": "All you do is jump around and cover ground tiles. There's no story.  Awesome game that has a few fun surprises at the end.  It's only 3 dollars and has good replay value.   Go buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of those titles that makes a good cause for video games being art. A lot of fun to play and very atmospheric. Just like the other reviews I strongly agree with the term 'put me in a good place'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a nice and very relaxing game, but way too short. It took me less than an hour and a half to finish it(all achievements included). And then there's nothing to do other than start over. So if you like relaxing, atmospheric games, try it, as long as it's on sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "73% completion in 15 minutes (game completed and some collectibles collected). But I must remove at least 5 of those minutes because I had to poop whilst I was playing. The game controls well and has fun wall jumping mechanics. None of the puzzles or platforming are that difficult though. If you can get it for cheap enough, you might as well try it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm in two minds as to whether I actually recommend this game or not. Very frustrating.  Pros:  Very comfortable, minimal 3D platformer. I don't usually like first-person platformers but this game was (like Portal and Portal 2) very comfortable to jump around in.  Lovely atmosphere - the game is minimal but still has a feel of its own. I enjoyed the ending (which was also minimal).  Cons:  This game has huge unrealised potential. It is cheap and it is worth the price, but it is so frustrating to see a successful concept that doesn't realise its full potential. What would it take to do that? A few more levels and a couple more gizmos in addition to the elevators/pipes(under-ulitised)/bounce plates. Maybe a few weeks of development time and this game would be 10x better. I completed the game in 50 minutes - this game could easily supply four or five times that length with minimal investment.  Bottom line: Worth the cost, but you might be left frustrated by what this game could have been, but isn't.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very well done, very shory, very chill game. This game is perfect. Easy worth 3 bucks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is hard to explain, because talking too much about it might affect the experience of playing it. Basically, it's a platform puzzle game where you do standard platform puzzle game problem solving, except it doesn't feel that way. It never feels like there's obstacles or challenges, just things to do because they're there, and I mean that in a good way. The game design is fenomenal, right from the start you're in the game, no long-♥♥♥ intro, just the game. Everything is explained in a really organic way; you do a thing, you see the result. Step on the ground, it turns green, step on a button, something happens. It's all immediate and obvious. I really hope whoever made this gets some work for this, because this is some of the best level design I've seen in a long time.  The graphics are simple, but still nice. The light, shading and day/night cycle combined with the music makes for a really nice presentation. It's short, but not too short.  To sum up; if you're looking for a good, solid gaming experience where game play is the only thing that matters, this is a game for you. This is a game every gamer should play at least once.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game !! its reeeeeaaaly short but i enjoyed it allot! i cant wait for a longer version with many more levels?? thanks alot for a fantastic game !!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very relaxing and uplifting. It's only half an hour long but it's still a nice experience. The soundtrack is enjoyable and the visuals are pleasingly simple. After a rough day this game made me feel good, and that's worth a recommendation.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get this game. It is so simple and so brilliant. Please add more content to this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm in two minds as to whether I actually recommend this game or not. Very frustrating.  Pros:  Very comfortable, minimal 3D platformer. I don't usually like first-person platformers but this game was (like Portal and Portal 2) very comfortable to jump around in.  Lovely atmosphere - the game is minimal but still has a feel of its own. I enjoyed the ending (which was also minimal).  Cons:  This game has huge unrealised potential. It is cheap and it is worth the price, but it is so frustrating to see a successful concept that doesn't realise its full potential. What would it take to do that? A few more levels and a couple more gizmos in addition to the elevators/pipes(under-ulitised)/bounce plates. Maybe a few weeks of development time and this game would be 10x better. I completed the game in 50 minutes - this game could easily supply four or five times that length with minimal investment.  Bottom line: Worth the cost, but you might be left frustrated by what this game could have been, but isn't.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the best games I have played!! Although it is short, it is a grand experience to play. When I finished the game I felt nothing but happiness. I can't wait to see what Dominique Grieshofer makes next!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game, but very short",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. Blew my mind. The music and sound is beautiful, the graphics are super-light and also very good, and you can have massive amounts of fun with parkour. It can get a tiny bit confusing, and you'll need to do some quick thinking along the way, but it's mostly noob-friendly. Definitely recommending.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Buying this game was a great idea. You will not regret getting it. It has pleasing simplistic graphics, simple gameplay, nice puzzles, it's totally worth it. It really surprised me, it was so much more interesting than I expected.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun Short game with great graphics and a good soundtrack.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wait a few seconds after you beat the game, and you won't be dissapointed...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a game about jumping on buttons that will leave a smile on your face.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fluent parkour style game loved every second of it even if it was very short game. Would love to see more. &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Most fun I had in 20 min. Sometimes I wish all the games were so satisfying.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game only clocks in at about 30 minutes; but it is really nice experience. The music, platforming, and overall aesthetics make for an overall tight game. I'd recommend it for the price; but beware that there is zero replay value.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, simple, and beautiful.  The graphics are goood, controls are easy to use, and it runs well. the only complaint I can think of is I wish there were more levels, but I highly recommend this game. There is no real objective or story and it's just fun and relaxing.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "24min playtime and I accomplished 100%, this is a simplistic game that I really enjoyed! I'm going to playthrough it again, just because it gives me a peacefullness inside.  Also great work on the design!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun creative game. Deffinately buy this if you want a fun chilled out time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The gameplay had great visual aspects and really good music. It was simple!   10/10 great way to end my depression",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Refunct is a first person platformer puzzle game set in the middle of the ocean. You find ways to reach a red button and press it, revealing the next area to solve one at a time.  This game was very short but you definitely get your money's worth for $2.99 (price when I bought it). Even after you finish the game you can still replay it and get the similar calming value out of it. This is definitely a game to play when you want to calm down or just relax. The ambience, setting, and music (by Kristofferson) are all very subdued yet complex.  Overall this game is super enjoyable and you can tell it's kind of an experiment or unfinished in a sense- I could be wrong- but it definitely has a cool charm and I look forward to seeing what this developer makes next!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10- This game gave me so much joy. It brought me back to days when minecraft was in beta and I was th eonly one discovering a whole world for myself. The gameplau is easy but fun, the graphics are gorgeous and the music is phenominal. Turning up your speakers is suggested:)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A rather nice first-person platformer that offers about half an hour of relaxing exploration and playing around with well-executed parkour mechanics. Definitley worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like if you mashed up a soothing walk with a platformer game. The music is pleasant and the aesthetics are simplistic but pretty in their own right. The jumping is satisfying, and so is the gradual completion of the game. It must be said that this is a short game, I completed it in an hour. The hour however, was quite pleasant, and I was never upset or frustrated. This short duration might put some people off, but the game is priced low to match. I would love a longer game in this style.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Was on sale, reviews were rave, so yeah I downloaded it. So yeah I nearly cried at the end. Something about this game just hits you, its simplicity is its greatness.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Refunct is a rather polished, short, zen experience. The visuals and music are really satisfying. Recommended for those who like stress-free exploration.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very simple, short and sweet. I really enjoyed it. I found myself very relaxed even when I messed up. I would love if they added more levels, I would play them all repeatedly. I played this level many times over to see how fast I could get 100%. Overall, a well spent $3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome way to spend half an hour",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short but sweet game. More of a stress relief type. Soundtrack fits perfectly. Shorter than i would like but for the price i can't complain. Definitely recommend!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best 20 minute game 2 dollars can buy. I tell ya",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game relaxing and fun but I completed it on 30mins but it's worth the current price of 99p",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 -IGN  A little short-lived however  Great visuals, great time filler",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Picked this up in the sale for under £1, but even at it's full price of £2 it's more than worth it. Only took 20min to 100% it, but it was a really enjoyable and satisfying 20min. There are no cheap mechanics to annoy and frustrate you. The parkour is smooth and satisfying. I really hope we see more from this dev along the same lines, because this was really great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun and fast. For the price of $1.49 I'm happy. Feels great to move around. Nice sound and music. Some cleverness required to get 100% without a single clue.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a short, minimalistic, beautiful first-person parkour game where the aim is to reach every platform. As long as you're ok with this, I would recommend you to buy it cheap and play it once, as it is currently a very unique experience.  The game took me about 40 minutes to complete (guess I'm not as good as the other reviewers claiming 20-30 minutes). It was mildly challenging to me, and I had to look at a guide once or twice to make sure that the challenge was solvable, and that I was not merely unaware of some parkour mechanic. (There isn't a comprehensive tutorial; a bit of game sense is needed.)  As someone who gets motion sickness from some FPS games, and could not endure Mirror's Edge at all, I had a few brief moments of motion sickness when I first encountered wall jumps, but after that I was fine.  All in all, the game is beautiful, short, and sweet, and doesn't overstay its welcome. As a bonus, all achievements are obtainable and non-missable as you complete the game, without any tedious backtracking or grinding involved.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful visuals + great audio + smooth controls = a fun, relaxing game.  For the price it's absolutely worth it.  My only complaint is the length, I would gladly pay more for a larger version with more to do.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I reccomend this game to everyone after I beat it wich took like 15mins I almost cried its just overall a really good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is exactly as advertised: a peaceful, short first-person platformer about restoring a vibrant world. With smooth background music, tuned to the changing day/night cycle of the game, and only a handful of mechanics, all you're trying to do is jump on platforms you have not yet jumped on. The game does not pretend to be more than that either.  It's short, but it was entertaining, and I'd say it's worth the modest investment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The only shame is that this isn't a more complete game with additional content. For $1.49 (Normally $2.99) it's a neat little self contained platformer with a nice visual style and pleasant music.  Honestly this game is begging for additional content, many people have suggested workshop support and I could easily agree.   You do need to be aware the game is extraordinarily short, I 'beat' the game in 13 minutes and 100%ed (literally everything you can do in game) in 15 minutes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful, minimalist, incredibly short game that made me smile.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beautiful game, fantastic controls, intuitive movement. A++",
+            "review_score": "1"
+        },
+        {
+            "review_text": "SImple concept, great execution! Fun puzzle game with replayability. Art and music are great. Well worth the money. Thanks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "20 minutes of stress-free fun! Brilliant visuals and audio. I only wish there were more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very atmospheric! The music did wonders for the enjoyability for the game. It was an excellent balance between a slight challenge and relaxed gaming. I could definitely see a game in a style like this doing well on a larger scale-- all it needs is a tiny plotline. Robot love or something. Worth the price!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was pretty short, and can easily be completed in 15 minutes if you're quick. But its a nice time killer if you've got nothing else to do, and for $3, that's $0.20 a minute. Also the cubes are nice :3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "REALLY GOOD! yeah nah, great game, great price, does not over stay its welcome, does not get old. great thing to buy if you have half an hour to spare and 2 dollars",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Them gem is perf like a lot want more c: well made",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice and cute lil game. Its real short and sweet. A good game :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of funerino-burgers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I literally bought and 100% completed this game within the last 35 minutes.   Refunct is a simple game - if you want to kill time to experience a very decent game, I highly suggest you check this out. It's a very warm game. It looks surprisingly nice too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very short and sweet Parkour game that creates a serene atmosphere, it also combines several platforming elements like hoisting yourself up a ledge via jump command, which is kind of a first in my oppinion. However, I wished the game wasn't as short as it is and didn't have this 'gimmicky' ending as an excuse for the lack of a story. I did need less than half an hour for completion and at least with making it last longer than 2 hours people wouldn't be able to demand a refund for what is at it's core a fun and innovative experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short game, but worth playing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A friendly and relaxing platformer. Although short, but with a lovely soundtrack and an overall positive vibe. If you're having a bad day and need some cheering up, then Refunct is just right for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game on a whim after watching some Mirror's Edge: Catalyst gameplay and I do not regret that at all.  This is a small game, but a beautiful game filled with much joy. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Definately one of the best plat formers I have played all year. This game is beautiful, quick and super fun. This is the kind of game that you jump into while waiting for something or just want to waste time. I had a lot of fun completing and looking forward to playing more :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Refunct is a great short game. There is no story to speak of, there's not guns or puzzles, and there's only one level. However, it doesn't matter. The game isn't about that. It has a nice relaxing sound track, and you can jump around a simplistic but visually pleasing environment. It's a short game, in that I completed the game 100% (Jump on all the tiles, hit all the 'checkpoints' and collect all the orbs) in under half an hour. I enjoyed it, you probably will too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just one of those games where you get that feeling. You know it if you play any sort of puzzle based game, just so damn good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So simple, yet so satisfying. 100% worth my time and money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just one of those games where you get that feeling. You know it if you play any sort of puzzle based game, just so damn good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I picked this game up on a steam sale because it was pretty cheap and the level design looked pretty decent. Beat it in about 30 min 100% but enjoyed every minute. I still open it up and run around the level, just trying to get around to the jump pads as fast as I can and just generally messing around in the level design. Great music and a blast to play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short, but super fun. The Mirror's Edge-esque platform feels really good. And as someone who is bad a platformers, I adapted quickly and found it not particularly difficult. Buy it. Enjoy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just one of those games where you get that feeling. You know it if you play any sort of puzzle based game, just so damn good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Waiting another game from Dominique-san :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would parkour again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will only take about 30 minutes to complete but it's still worth buying even if you're paying the full $3 price. Refunct is a clever first-person platformer where you, as the player, find yourself stranded on a group of blocks in the middle of the ocean. You will need to parkour across these blocks to reach a visible destination point; upon doing so, more blocks will rise out of the ocean to join the existing landmass and a new destination point will be set for you. Repeat this process until you've finished the game.  It's fun for what it's worth. I'm generally skeptical when it comes to the idea of first-person platformers but the platforming mechanics on this one are solid and the level design is very thoughtful. Buy it if you're bored and looking to kill half an hour.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bounce, bounce, bounce. Really nice ending :) Also: colouring grey prisms is another form of crack. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excellent, albeit short, puzzle game with a beautiful aesthetic and relaxing music. I highly recommend it if you need a short game to help you decompress after a tough day.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wonderful little game. The last question answered itself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably one of the greatest indie games I have ever played. It is very relaxing and fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lovely little game somewhere between mario and mirrors edge, worth the pricetag and the experiance.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very short and fun game :) What do you do? You jump around coloring plataforms until you hit a button. Then a new set of plataforms and buttons appear. You repeat the process for about 20 min, and that is it! Worth it? Yeah! Something in the way the game flows + the music + the simple colors make it relaxing and really enjoyable!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very short and fun game :) What do you do? You jump around coloring plataforms until you hit a button. Then a new set of plataforms and buttons appear. You repeat the process for about 20 min, and that is it! Worth it? Yeah! Something in the way the game flows + the music + the simple colors make it relaxing and really enjoyable!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I do recommend this. This is a hidden gem, the physics and style of the game are great, the music especially is what brings everything all together. It's easy to get a learn of without any tips or tutorials, but it's also seems to appeal to speed runners and all. The only draw back I do find is that some of the basic sounds like walking/swimming are generic, but those are minor things to the game, it's wonderful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're looking for a first-person platformer that just lets you chill, sure, get Refunct. The game's just not my cup of tea. What most reviews here call 'peaceful' and 'relaxing', I call unengaging. It didn't add anything to my gaming experience.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's too short play time I played 20 minute and i think i never play this game again it's not valuable",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Extremely short. I played through the whole game in 25 minutes! But I liked it. I don't think it's worth 3 euro though.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "refunct was fun until resolution got funct up by pressing a funcing key.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One level. Pretentious names for the 'percentage complete' achievements. The parkour-ish controls are nice, but they'd be better served in a longer game in which failure is an option. Just watch someone do a let's play of it. It couldn't take more then 20 minutes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is not bad...but it didnt take long to finish, took me 16mins.... Couldve added more levels or something",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Extremely short took me 27 minutes to beat and I don't think the game is bad it has good gameplay but it is surely not worth $3.00 there was not enough conent I'd prefer to spend my money on games that I can spend hundreds of hours on not just half an hour.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "got it on sale...i dont know what people liked about it but its just too short and bland gameplay for my taste.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's not a bad game but for me there was something missing. It's short (about 1/2 hour for me), but that's fine for a game of that price point. However despite how short it is I was starting to get a bit bored in the last few minutes and waiting for the game to finish. It's a great relaxing little first person platformer, but lacks anything particularly meaningful to resonate with you after you've finished, and lacks a reason to come back again.",
+            "review_score": "-1"
+        }
+    ]
+}

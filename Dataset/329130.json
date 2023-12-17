@@ -1,0 +1,582 @@
+{
+    "app_id": 329130,
+    "name": "Reassembly",
+    "release_date": "2015-02-19",
+    "developer": [
+        "Anisoptera Games"
+    ],
+    "publisher": [
+        "Indie Voyage"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Building",
+        "Space",
+        "Sandbox"
+    ],
+    "achievements": 24,
+    "positive_ratings": 2258,
+    "negative_ratings": 173,
+    "price": 11.39,
+    "description": "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/329130/header.jpg?t=1478809453",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Dual Core Memory: 2 GB RAM Graphics: OpenGL 2.1 Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.3 GHz+, Quad Core Memory: 2 GB RAM Graphics: OpenGL 3.3+, 256MB+ Storage: 250 MB available space",
+    "reviews": [
+        {
+            "review_text": "Upon trying this out, I really did not know what to expect. At first, however, I found myself a little lost in this strangely organic world that is somewhere in the far reaches of space.          YouTube™ Video:  Reassembly - Let's Play - Episode 1 - Getting started in this bizarre but fascinating world!&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like Battleships Forever or Captain Forever, this game is for you. (They're both freeware so go try them if you're interested in this.) It takes the concepts of both, and throws in a bit of Starsector (namely the fleet mechanics) for good measure to make a game I've poured hours into already. (As of writing, I've played it for 10.8 hours. I bought it yesterday.)  While some have also compared it to Gimbal, I'd say only at the very start. The comparison starts losing ground once you get the bigger ships.  Where this stands out is the.. well, game. BF and CF are both fun for a short play, but don't have many backing gameplay mechanics. Reassembly gives you economies, waring fations, fleet control and quite a bit of variety (Though I'd like to see mod support in the future for even more pieces/factions). Each faction also plays differently in various ways, for example, one can plant and grow their own resources, but seem to be lacking in firepower, another has literal nukes, but no shields, and so on, it forces a change in tactics when it comes to ship design that keeps things fresh. With all that in mind, it's still a sandbox, outside of the tutorial, what you do is purely up to you with zero guidance, I personally like that, some might not.  It should also be noted it seems to run superbly. I have a fairly powerful machine, but any game with 1000s of ships/particles will slow it down some. This doesn't, I've had fleets of hundreds of ships facing off against each other, and it has stayed at a stable 60fps.   All in all, one of the best games I've purchased in a very long time.  EDIT: Apparently mod support is already somewhat in the game. I got ahead of myself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a great game, wich I reccomend.  Pros  -You can make fully costomizable ships -You can have giant fleets of ships -The lag on the game doesnt seem like lag. It make it slow motion -Very fun -Allies wander around the Multi-Verse  Cons  -You havent bought it yet",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game! You can build ships to your liking and adept your fleet to the situations at hand. It is very satisfying to equip a horde of drone minions and take them into battle against ships designed by other players that appear as agents in the game.  9.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game, all of the people here can simply explain how great this game is but a few things I must point out just to help you: -Don't go into the wormhole until you are powerful enough; the first world is designed to have agents (player made fleets) to be weak power levels, stronger than you from the start but still relatively weak in general. The moment you leave to the next world, you'll be fighting random power varieties of fleets so be warned -Objectives don't need to be done right away, take your time, agents don't need to die immediately and if you lose, go somewhere else, gather and build and become stronger -To make REALLY GOOD SHIPS requires a lot of time building, to where I spend 50% of the time building and fine tuning and 50% of the time playing. Not all good ships are required to be blocky and ugly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is both awesome, and not. If you enjoy ship builder games this game has a decent amount of options to do so. However, if you like in depth ship builders, Reassembly isn't a complex ship building simulator.  Essentially the game amounts to getting resources, selling resources, and building bigger ships. There is an 'Agent' mechanic which spawns other player made groups into your galaxy. Many of these squadrons will crush you until you can get to the very end game. These squadrons are really the only threat when you're powerful enough, so you either can leave them on and be demolished repeatedly until the end game, or turn them off and have a very boring end game.  It doesn't take long to get to the end game, and it's easy to run out of stuff to do. The best way to fight is to stack on piles of armor (it has no point value, so you can have as much as you'd like depending on how slow you don't mind your ship to be) and piling on a ton of a single effective weapon (most races have one or two weapons that are extremely effective, and a pile of flavor weapons which are functional against the standard ships, but not overly so against agents).  All in all it's a strangely balanced game, but I've had fun playing it. I'd say it's worth the price tag attached to it. If you need a ship builder simulator which has a lot of action but not a lot of depth, try Reassembly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Designing ships is real cool, and destroying other people's ships with those ships is also real cool.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its like that classic asteroid ship game with the triangle and the asteroids, but instead you can design your own triangle into a capital triangle and fight other triangles with giant triangle fleets while trying not to accidently smack into asteroids with your face.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a giant sandbox top down builder/shooter. You design your ships and stations then head out to conquer the galaxy. I'm not sure how each race works, two of them seem useless, and another two seem endgame only.. Maybe I'm missing something when trying to figure out what they are for.  If you love topdown sandbox shooters where you build your fleet and have amazing lightshows... I mean lazer fights! Then grab the game, I've got my money's worth already and am still enjoying it.  Build ships that look like things (beatles, scorpions, star destroyer, etc. Blow stuff up and enjoy the lightshow, at this price how can you say no?!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I LOVE this game. Considering it says very positive reviews im guessing there is one negative review in a different language. This game is truly amazing. I love the graphics even though they are just colored polygons. I love how the game works and the way you can build ships. The soundtrack is really nice and doesn't get old easy. There are already a variety of parts you can use to build your ship with. The controls are easy and simple. Considering its still early access, I would say it is quite complete. I can't wait to see what comes out in the future. Right now in it's stage, I would reccomend to a friend with a 10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is pretty much spore's cell stage, the reason why i bought the game.  create whatever comes to your mind, test it out in a 2D environment and optimize your ship.  Another reason why I bought it was because i wanted a simple (looking) space simulator, my wishes are totally fullfilled.  Multiplayer would indeed be a nice thing to have, currently it's like spore: the game imports other player's creations and puts them in your game.  Bought it full price, no regrets...  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a surprisingly fun game. But, although there is a tutorial, it needs to be more explicit. That is, at least for me, when I started playing and I was exhausted and sleepy and mostly dead to the world I needed the tutorial to really drill into my head the basics of the game. How do you repair your ship? It repairs itself. How do you gather materials? I'm still not quite sure. . . maybe add a 'Gatherer' to your ship, shoot lots of enemies and absorb space debris by tractor field.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "actually making effort of typing words because this game deserves a full recommendation. do not hesitate, buy now",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of those addictive games that take hours of fun, and the modding community makes this crazy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is for creative people who likes to build huge, gigantic, and complicated ships. Its time consuming and it pays off once you built your ship because then you get to DESTROY THINGS!!! WOOOOOO!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is for creative people who likes to build huge, gigantic, and complicated ships. Its time consuming and it pays off once you built your ship because then you get to DESTROY THINGS!!! WOOOOOO!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun so far.  -Creating ships is easy to understand and enjoyable to do. -The combat and gameplay is fun, love the sound in this game. -Lots of replay value with muiltiple factions and the ability to start a new world without reseting your progress.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best space game I've personally played, the best and easiest to pick up in game editor, and an organic and lively atmosphere given by the fantastic AI making you feel like you really are in a galactic conquest. One of the best games on Steam, highly recommended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have a new idea for a ship. Build it. Make it better. Test it. Make it better. Fly it around, shoot stuff, build a fleet and commit genocide.  It's now 5:00 am and I'm not sure what day it is. .... but I have a new idea for a ship",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gets pretty dull after a few hours when you are pretty high up, but those hours before that are highly fun. Much of the territory control/claiming is obtuse and not easy to plan. But if you like creative builders and space fights then this is a good game.  I generally count a game as being worth the price if I get 1 hour's fun per £1. I got this on sale, so got plenty of enjoyment out of it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is a decent sandbox shooter that has a relaxed atmosphere. The best part, obviously, is building your own ships and experimenting with designs. As you gather resources you can purchase better parts. Each of the factions have a unique theme and require different strategies to design. The ship building interface is very intuitive and easy to use, which is a big plus.   It's a nice, chill single player game but I think overall it lacks depth, which I will describe below. There's really no need for specialization against any particular foe. With such flexibility in ship design I was hoping this game could push this concept more. Once you have a decent ship it works against all factions almost universally. You can fiddle with designs for a while, but in the end, more expensive parts will make you better. With many factions it's quickest to destroy enemy ships for resources, so that becomes your sole focus. Once you max out your ship, basically nothing stands in your way. Unless you tried to get all the Steam achievements, like I did, there's not much of an end game to keep you playing. I spent most of my time on this game grinding out achievements.   In conclusion, it was fun but lack of depth put me on the fence on this one. After getting all of the achievements, I feel like I tapped out all of my reasons to keep playing. I would have liked to see the ship building aspect developed further. I'm leaning on the fence to recommend this game, but it was still fun for the time being. If you feel like this game might be something you'll be interested in then you'll probably enjoy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game. Just about everything you could possibly want in a ship building game.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Crazy delicious. One hit off this pipe and you're hooked.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't often post reviews for games.   You're doing yourself a disservice by not having this jewel in your library.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Must have!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing Fun! Building Starships is a blast and super easy in this game! I very much like the idea to fight creations of other players.  My only gripe with Reassembly is in the differences between the factions. Some factions have extensive tech trees while others hav only a few options.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "crazy fun game with supprising depth, worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely great fun. This game reminds me of 'From the Depths' and 'Running with Rifles,' both of which I also recommend.  The 'vector' graphics are easy on the eyes, and the in-game universe really feels like a warzone, with various factions vying for territory. In it, you are like a general and engineer at the same time. You start as a weakling, a small ship of your faction trying to seize victory whenever possible, and through your efforts, you rise in power; become wealthy, with a mothership capable of constructing an entire fleet. A rags-to-riches story, but in space. I love it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is horribly addictive. The basics: build your ship out of a set of parts and unlock new parts and weapons. This works so well that it got me playing 3 days straight without even touching another game. Players unlock new factions by killing capital ship from the latter and there are plenty of mods extending existing factions or adding new ones.  The gameplay is simple, weapons can be bound to mouse buttons or auto-fire, every faction has its specialities and different blocks with different stats and forms, the game seems quite balanced at the moment, I played 6 factions to max and did not yet encounter problems with balancing.  Graphics are simplistic but beautiful, the soundtrack is hypnotic and does not get annoying and there is a lots of physics involved, the game may slow down a bit during heavy battles.  This game gets a whopping 9.5 out of 10 for making everything it wants right.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Creativity and action! So fun designing your own ship. Spend as much time designing ships as you do playing. You can have a factory on your ship and make a fleet of your own creations!  No useless diplomicy. Just kill whatever is not you and take their resourses to build more.  Physics! Put engines all over your ship if you want to turn or break well. Mass means something so be careful how much hull you use.   10/10 Living starships that regrow.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is the game I never knew I wanted, but man, did I want it badly.  A 2D top-down shooter not unlike space invaders or asteroids in the sense that you fly around and shoot stuff. Reassembly takes it to a whole new level, allowing you complete customization of your ship. You can connect various parts, which snap together at points like legos, to create whatever your mind can come up with. At the beginning of a playthrough, your ships will be small and fairly weak, but as you advance you will be able to fly massive frigates followed by your very own custom fleet.  One of my favorite parts of ship creation is the physics of thruster placement. Where you put your thrusters actually matters a lot; your ship won't be able to turn very well if you only place them on the back. This also lets you build some funny creations such as ships that travel by spinning. It also means that if you are having trouble progressing, you can completely change the feel of your vehicle by moving or adding a thruster.  Creation aside, the game revolves around the aquisition of currency (called 'C') and resource (called 'R'). You get both of these basically by blowing up your enemies, the other ship factions. You use your C to buy upgrades and new parts for your fleet, allowing you to take on bigger enemies. If you manage to conquer your whole galaxy, no big deal, the game allows you to jump into a wormhole to enter a new galaxy with your fleet. You can also unlock new factions to play as; all of them utilize different base shapes for their ships, meaning you can create entirely new ideas playing one faction that you couldn't with another.  If you feel like you've peaked, you can upload your fleet, sending it to other players' games as a powerful opponent called an Agent. This is a really great part of the game, it keeps things challenging and fresh.  Overall, I put this game in the same circle as Spore. You create cool things and share it with others. The game is fun to look at, very colorful, and it has an awesome soundtrack. If you like building things, if you like space, or you like shooting the hell out of ships, just go buy Reassembly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is a game that has grown on me.   I helped back it in it's early alpha days, giving its kickstarter my $30 donation. I liked the look of it. Sandboxish, procedural generation, top-down arcade feel. I played the very early alpha version and was entertained for a few hours. I soon lost interest, and the game became stale to me.  Since then I've come back to the game again and again. It's one of those games you'll get pumped about and think about all day only to come home from work and play it till you drop. It's enjoyment for me comes in short bursts.  Recently I've made a discovery. The game does not play itself. People complain about how tedious it is to capture systems and hold them. They say something along the lines of 'Once you capture it there is no point. Your ships don't spawn there and you get no resources.' Now listen here, that is where you are wrong.  You can build space stations that bristle with defenses and hold their own agains enemy capital ships. Alternatively, that space station can be covered in solar arrays to slowly farm you resources. Recently one of my favorite things to do is populate enemy territory with little 'Outpost' stations via a factory on one of my ships. I then spend time fighting on the front line with my fleet to push the enemy out. This game is all about how you play it.  In summary, Reassembly is a great game. It's hard to find anything else out there even close to it (I think of S.P.A.Z. as the only other game that resembles it, another great by the way). Keep giving it a chance and you'll get a lot of replayability out of it. If you enter with a closed mind you'll get a closed off experiance. I highly recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is, in a nutshell, spaceship editing and combat done right. The editor is a snap to do just about whatever you want to do. For example, you can copy your ship and stick the new one on the front of your original ship in less than 5 seconds if you're even halfway decent at using the keybindings. Another good thing is that you can change reassembly from a miminalistic game to a Tron-esque visual style, allowing you to run Reassembly on an old or new computer and use whatever RAM you have. And if you're STILL not convinced, it has mods. Overall, Reassembly gets a 19/20. If you're on the fence about it, buy it on sale for the price of three chocolate bars.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "*Full disclosure key given by developer*   This game is an absolute blast to play! I would most definitely recommend to any gamer! And not to mention this game will support mods which will take this game to the next level! Very excited to see what this game will become in the near future! Pick it up! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like good old 'Asteroids', but with lego SPACESHIPS you've designed yourself. Except there are half a dozen different building sets, each with a completely different meta. Long vs short range guns, one fraction can grow it's own space plants for resources, another has no shields and hulls you must build from Penrose tiles!  Progress up from piloting nifty little fighters, through hardy brawlers, up to god-like monster ships with 100 strong halos of LASER drones, chewing up enemies to birth a fleet of self-(re)assembling ships out your rear end, all of your own design! Deep emergent game play that's immensely gratifying and dusted with sci-fi references to movies, TV and space opera novels. The most perfectly suited geekery I've ever experienced. :o)  The 'tournament' feature is basically Gratuitous Space Battles, with easier controls, where you can pit anyone's designs against each other in a space arena. The over-all experience of the main game is basically what Spore should have been; expanding out smoothly from the tidal pool stages. One of the few things that sometimes irked me is when friendly ships zip in and nab your loot from under your nose. I would have been tempted to make this game entirely RTS oriented, with truly conserved resources (shared within your faction). But the design is definitely spot-on as it is: putting you in the action and keeping the simulation scale (almost) within the capabilities of (my) PC hardware. It's interface is minimalisticly simple and pieces snap together in an impressively accurate anticipation of what you intend. It all lubricates that design, test, refine loop, preserving a perfect mental 'flow' state until all hours of the morning...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Marvelously fun game. The AI is solid and there are hours of fun to be had.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Marvelously fun game. The AI is solid and there are hours of fun to be had.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great and all, unless you either A. Hate uneven ships (You know what im talking about *cough cough the damned triangles cough cough* B. Have OCD, or just like to keep things even. C. Have no creative ability (The game is still fun, you just have terrible ships.)  Other than that, from a person with no creative ability who also hates uneven ships, I love this game, until i used the triangle blocks, damn you!  But all jokes aside, this game is one of the only games I can truly spend hours on without knowing, I get so engrossed with the ship building and testing that hours go by... And the combat is even worse, I could probably spend a few years just fighting if someone didn't snap me out of the game...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Needs more of a organic feel to it. GIVE SPACE SHIPS JAWS N ♥♥♥♥ TO KILL STUFF!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There is about 15 hours of gameplay here that involves nothing more than shooting stuff. Recommended for what it is, a space shooter, though it could be a lot more if it involved some objectives or quests or loot or ANYTHING more than just shooting. The ship builder is very cool at the beginning, but eventually gets quite stale when you realize that all designs are armor on the outside and everything else on the inside. X of this, Y of that, etc. Would be better if there were some proximity bonuses to make the designs require more thought. Mods help flesh the game out a bit more, but none offer what is most needed: more stuff to do.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hangs occassionally and you may need to restart the game, but if you look beyond that you'll see a great space shooter concept that's shaping up to be something awesome. Fortunately the devs are hard at work to fix and optimize the game. Reassembly features simple yet wicked vector style space combat, inclusive of the ability to build and upgrade your own ships with a beautiful, galaxy-inspired soundtrack. 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow, where to even start. Amazing game, great expandability/modability. Piloting is pretty standard for top-down space games (good options for control schemes though), but game expands into fleet control where you can spawn or commandeer other ships around you, bring them all into battle. Best of all, every ship is customizable, and there are different factions with unique ship styles and looks, and once again, everything is added to by modders. Amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While I already know it from the kickstarter, I didn't think much of it. It looked like a fun little arcade shooter. Something to keep you busy for a while, nothing more, nothing less.    I was COMPLETELY WRONG.   Reassembly is much deeper than you'd suspect, offering many hours of gameplay due to its well-executed procedural generation, plenty of weapons and a dozen factions. Although the game lets you roam free immediately after the short but very good tutorial (it teaches you all the basics while still letting you free to do as you please, and you'll have to learn the rest by playing), there is more than enough to do. You can build a sizeable fleet, design perfect ships, take over all space stations, wipe a faction off the map, destroy asteroid fortresses, take down strong fleets created by other players, or warp to an entire new map with your fleet.  Combine the simple, yet deep and very addictive gameplay with the amazing, trance electro music and the colourful, pleasing graphics, and you've got a great game for a great price.  I absolutely recommend it as long as you like top down / twin stick shooters and constantly tweaking your ship designs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "much more addictive than weed 42/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awsome + Minecraft + SPAZ = Reassembly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got really addicted to this for a while. 2D open-world space exploration game where you can build you own ships. Really good for people who like creative games and building stuff. Nice soundtrack too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is grate fun with many hours of entertainment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I play games, I am all about customisation (APB:Reloaded, Need for Speed Underground 1 and 2). The closer it is to infinite, the better. This game has yet to put me at a dead end on ideas for ships. I still cant believe I put 8 hours in as soon as I bought it. Lego step aside.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ive played a good 6 hours on this, love it, but still have ♥♥♥♥ all idea what's going on most of the time lol  the concept is fantastic, the music gave me cancer but that can be forgiven. My teeth start to itch when I can't get some good old fashioned blast the ♥♥♥♥ out of everything",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Space graph paper battles, very cool.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Arcade-style graphics.  Design your own ships. The part shapes are just occasionally odd enough that getting things to line up becomes part of the fun.  Test designs by letting them autopilot versus random other designs. Center of gravity and healing rate are important. Some ships are practically a huge gun with a seat and thrusters strapped onto it!  I spent hours not even playing - just designing a ship and watching it play against other designs in the test phase.  Once you are happy with a design (or just want to shoot something yourself) go in and harvest resources where the bad guys are, which also allows building up a fleet to team up against opponents. Building a fleet is pretty cool - although they are something like a herd of cows... not too smart and they get stuck in the weeds sometimes. Playing the fleet dynamics is a whole game by itself!  The flight is very space-like where you have to oppose thrust to slow down, which makes it feel very swimmy (I think why they say welcome to the tide-pool). In that regard it feels a little like Spore's bacterial stage, only flying takes much more concentration.  Replay value is sky-high, as optimizing ship designs at all size allowances allows starting over and trying new ideas.  Also, the game feels very different than other games because you have complete control how your ship handles (although once it's damaged and your engines have fallen off it will handle very differently until it heals again over several seconds, relatively fast). Trying to control a damaged ship reminds me of Robocraft, though this game is much more twitchy.   TLDR:  If I had to pick a favorite game so far in 2015, this might be it. The gameplay is straightforward. There are always more things to want to try out, which takes time to get there and try them. And Space feels alive. This is more of a tadpole simulator than a space game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Despite anything in the game that feels familiar, I have never played anything quite like Reassembly.  You might describe it as a mish-mash of SPAZ, Spore, and some other top-down space shooters, but the similarity ends there. The procedurally generated 'galaxy' is full of varied enemies and dangers, and if you run out of baddies, you can dive into a wormhole for a fresh world. Wormholes have another use, more on that below.  The main draw of the game though is the ability to build your own ships. The ship editor is easy to learn, and has enough geometric shapes to allow you to produce anything you want. The playable factions have different available hull and weapon choices, making each one it's own playstyle. There is a progression curve, you must spend money earned in the world to unlock new weapons and increase the power cap limiting how much goes on your ship. It doesn't take too long to max it out though, allowing for huge many-beweaponed designs. You can also build space stations, it's as simple as building something with no thrusters and at least one factory.  Once you have some custom ships you like, hit up a wormhole. Instead of following it to a new world, you can choose to upload a copy of your fleet roster while staying in your own world. This uploaded fleet will then start randomly appearing in other players worlds. These are called Agent fleets, and fighting other people's creations that appear in your world can be challenging and exciting. I've encountered ships that were nearly unbeatable, forcing me to change my ships and tactics in order to prevail.  You needn't fly solo in your world either, you can equip a factory block and spend resources you collect to spawn AI controlled ships from your collection. I'm not sure if there's a limit to how many ships you can have at once, I've gotten up to about 15 or so, plus a hundred or so drones if I'm in my Galactica carrier. Tearing around space with a dozen ships blasting anything you target is super effective.  A caveat to mention is that there isn't any actual multiplayer, which would be great if it were possible, I can see why it would be difficult with all the physics objects that can occur. Maybe a sequel could pull it off. Also there are situations that cause the game to slow down significantly, particularly in Spikey Plant sectors once they start firing projectiles all over the place.  Many games out there let you build things, which is fine, but this is one of the few that lets you use and enjoy the fruits of your labor in actual gameplay. The vector-style graphics are used to good effect and really get my nostalgia going. I've only owned the game a couple weeks and have dumped almost 50 hours into it. It's got good music too.  Grade A most excellent game 8000/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is simpily amazing. 420,000/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game. Only problem. Too addictive.  :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A big old box of toys to play with in a huge, endless sandbox. A hell of a lot of game here if you like building and blowing spaceships up. Looks simple on the outside, but there's plenty of experimentation and customization at your fingertips. Exceptional title, I bought it on a whim and have been hooked since. The 'agent' system just adds to the fun, as players can upload their ships to spawn in other players' games, and it's these agent fleets that will give you the most trouble, and possibly the most inspiration in designing your fleet, which you will undoubtedly send into a wormhole to bring hot death to others. Fun stuff.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game rocks. It sucked me in completely for a couple of weeks. I'd look up at the clock and think omg it's been 6 hours! I'd go to work the next day on 5 hours sleep. It stirred my gamer blood! The ship building freedom is top notch. You build any kind of ship you want particle by particle and there are lots of smart, handy features in the ship building editor to save time. You can hold down the mouse and drag it across an area to select multiple components or you can just double click one piece and everything attached to it will be selected.   A quick ship building tip is to just build one side of the ship, say a wing, select all the pieces then hit c to copy. Move the cursor to a blank part of the screen and hit v to paste, then hit m to mirror (to invert the selection). Now you can just attach that perfectly mirrored section onto the opposite side of the ship if you need symmetry like for wings. Symmetry is also important in placing your thrusters. You are in space so your ship isn't going to stop moving unless it crashes into something...or you put thrusters pointed in the opposite direction to the direction you're traveling in so you can break! Also each different playable faction has some unique pieces to build with. Sometimes the minor differences aren't obvious, like where pieces don't have as much mass as other factions or they have slightly higher armor, but when you stack all those pieces together into a ship then the net values really make a difference in speed, toughness, or resource carrying capacity. You'll want to look at the stats on the ship pieces closely if you're into ship building. If you're not into ship building there are premade ships available with each faction that you can use and just modify to your taste.  The game is beautiful to look at and very organic. To me it looks more like the world under a microscope filled with living, evolving organisms than it does a space frontier. Much like organisms, the ships actually create children. You can set a creation queue for yourself once you have a factory as part of your design. But you can also go into command mode by hitting tab and click on an allied vessel that has a factory and drag child designs into their queue so you begin to shape the future of your factions expansion without actually managing the execution. Just hit tab again to go back into pilot mode and go on your way. The allied ship you just programmed will now create what you set for it via the AI.   Once you've got your perfect fleet together you can find then fly into a wormhole. You will be given an option to follow it or stay. If you stay a parallel version of your fleet will upload to infect another player's galaxy through one of their wormholes while you remain where you're at with your original fleet. I just really wish there was some way of knowing how successful these invasions were, like a scoring system players could access to get some sense of how good your designs were.  The tournament mode doesn't pit you against other players. It just lets you test your own ships against your own designs and a small selection of premade designs. I would love to see a true tournament mode where you download player agents and test your ship against theirs with scoring. The game lacks true player interaction in real time but atleast we can see other player's creations as they come into our own galaxy as enemy agents controlled by the AI.  Unfortunately I do think there is a balance issue that needs to be addressed with faction 4. You will eventually find certain enemy agents that are typically oblong, travel at high speed, and shoot enormously long particle rays at you at range even from off of the screen! That's faction 4. They almost made me rage quit because they really get too many advantages, but I perservered and went back to the design editor. Their weakness is maneuverability. Their big bad weapon of choice is not turreted so the whole ship has to turn to target you with the death ray. This is not a huge disadvantage because their ships are inordinately fast but if you build a ship that can quickly side step their line of fire and either swarm them or ram them so that they can't turn into you then you can take them down...if you can catch them. Trapping them against asteroids is a typical ploy. Really though, no other faction gives nearly so much trouble...  The only other criticism I have is lag. No it's not really just a hardware issue. I play many other games where it's not an issue. The devs themselves have stated that they've worked really hard on the optimization but the fact is there comes a point where there are so many collisions going on in the galaxy that it can be taxing. I have an i5-4670, 8G ram, nvidia GTX 780 so my hardware is good. But I like faction 2 whose strength is cultivating resources and building up a fleet really quickly. Once I push out a bunch of ships that then create their own AI controlled child ships, the game has alot to track. The devs said to go into options and lower the physics updates per second value so I'll try tweaking that more. But it kind of makes me want to put the game aside now and come back later, maybe playing a different faction and not use a swarming strategy. If you get lag you can also follow a wormhole to a fresh universe, but that too can start to get repetitive.  The fresh content is really about fighting other player designs as enemy agents enter your galaxy. I hope the devs continue to work on the lag issue (maybe instancing parts of the playing field to lower the amount of AI activity needed as the game progresses). I'd also like to see them expand on player interaction by scoring invasions, and maybe add some simple tiered goals with rewards for flipping sections of your galaxy to your faction. I think those things would add alot to the game's longevity for me. Regardless, this is a really creative game. I love looking at it and playing it. It was worth every cent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "love the building and different factions any chance we can get a multiplayer option or unlock all factions to be playable once you smash one of there capital ships would especailly like to try the plant faction that speads bye seeds",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good game but sandbox is not working for me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super fun! Haven't even had it for 3 days and it already ate two of them!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm thinking of deleting this game just because it's so good that it's distracting me from everything else. 10/10 probably one of the best designed games ever",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was gifted this game Installed it Launched it Went through a two second tutorial Steered my ship around and was destroyed in 2 seconds by a rail gun Respawned and had no idea what to do  10/10 most realistic FPS ever",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Build a ship test the ship cheer the ship as it fights a bot be sad when it blows up build a better ship cheer as it fights a bot be happy when it wins take your ship out into the galaxy be sad when it blows up and i wouldn't have it any other way",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is my suprise gem of a buy from the Summer Sale. I would even pay full price for it and consider it a steal. Absolutely sucked me in from the start. A lot of trial and error learning what ship designs work and how to advance my fleet. Definately a fun game to just jump right into.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sort of a steep learning curve at the very beginning (the tutorial hints help a lot so make sure to read them all), but the gameplay becomes surprisingly fun and addicting even after just under a week.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the most addicting games I've ever played. No matter how much you do, there's always another idea for a ship that pops into your head.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun little game. I liked the idea, the gameplay and the possibilities.  If you are looking for something to play this weekend, you might consider buying Reassambly. But don't expect this game to be addictive as hell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hell yes, I recommend this game. It is a complete product with a very simple gameplay formula that enables you hors and hours of fun.   Wish the developers added some way to track your fleets once they go to other player worlds, but destroying random fleets accross the galaxy is very fun.   You can binge for hours on end or just play few minutes - its rewarding either way.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For all enthusiasts of lego or/and subspace this will bring back memories. Create your own perfect space fleet and send them to other people. It was much fun when i had to defeat player agents. The music is also great if your a bit into electronic music and the graphics are refreshing.   Controls are difficult to learn/master and had to tweak spaceships a lot to be usable (adding engines).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun highly addicting game that its gamplay for its price. i have told my friends about this game and that hate me for it XD 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a game where you build 2D space ships, to put it simply i, for one, love thi game, and the recent addition (at time of this post) of the steam workshop has added so much more content to the game if you enjoy putting together large massive space ships and fleets, you will love this game if you do not like to build ships, i would not reccomend it as it is half the game overall i rate it 8.5/10 for most people 9.9/10 for me",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pros: Beautiful graphics Great soundtrack  Very relaxing Easy too run And very addicting Cons: Does'nt have multyplayer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I just have 3 words to describe this madness of a game: fun, addictive, openworld  It even goes as far as taking over one's thoughts and dreams, literally. (at least for me)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What an amazingly brilliant game. I have to applaud the creators, I am nothing short of blown away.  Its intuitive, incredibly original, and has a ton of content. The physics engine is phe-nom-i-nal.   BUY IT. BUY IT NOW.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have loved this game since I got it.  The game is a simple and fun top-down space shooter with the ability to design and fly your own space ships, and even design an entire fleet with ships ranging from small shuttles and fighters to large destroyers and frigates.  There are several different races (some of which you can't play) that unlock while playing (and destroying stations from a race you haven't unlocked before), each with their own technological pro's and con's, but they are all (reasonably) evenly matched, and where one race falls short in say shield technology, it makes up for armor or speed.  The universe is generated in sectors each controlled by the majority of whatever ships are in that sector, so it can at times be hard to claim a sector completely when there is just 1 little core still floating about. The universe is limited in size, but thats alright since flying over one edge of the map puts you at the opposite side without a teleport or cheap backend trick. Watch out for pirate fleets though; These are, from what I gather, uploaded by other players and are randomly selected, which means that in one universe you may find ships you won't encounter in the next. This uploading is done through anomalies called wormholes that allow you to upload your fleet (designs) or fly to another universe. The latter will generate a new universe for you while you keep your resources, credits and ships.  The only downside I experienced so far is not being able to destroy core blocks from certain stations. Usually this happens after a few hours of playing and may be memory related, but other than that it plays like a dream. The thing about player created content worries me a bit though, but we'll see how well balanced the game is over time.  A definate recommendation and big thumbs up for this gem.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Found myself sinking time into it, you do get to the point where it becomes rather stale. You have built an amazing ship with a great flee, and just unstopable. Still fun but losses its enjoyment at that point for me. I hihgly reccomend this if like the idea of building own space ship/fleet and fighting others.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My Little Spaceship Lego sets. Go wild.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a very creative and fun game. There are many mods out there to add in new factions, such as star wars galaxies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love the game, but one small issue, when synching the game with the cloud after playing, Steam will not allow you to play other games until this is done, but other than that it is a great and addictive game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Have you ever played a game with spaceships and wanted to tweak the design a little? 'Why did they build it THAT way?' you wonder. Well, now you can find out if you have what it takes to be a (fictional) spaceship designer. You've got to grow your faction to control the galaxy, and you do it by building up a fleet of custom designed ships of every conceivable size. Seven playable factions use different components and combat styles. Another interesting twist is that there are 'agents,' special ships that are player-designed that get shared over the net when you go through a wormhole. Beware the agents, for they are deadly!  Reassembly is a fascinating mix of cerebral ship design and combat strategy, mixed with arcade shooter action as you put those designs to work. I recommend you read one of the game guides to get a feel for the game and get started on the right foot.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is infinity fun and unstoppable with the creativity",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun highly addicting game that its gamplay for its price. i have told my friends about this game and that hate me for it XD 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i have somehow made it so i dont need thrusters just lazers thanks physics (good job on the physics my flagship which is really heavy constantly crashes into asteroids)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "[positive review]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good game but sandbox is not working for me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good game that has a classic styly of gameplay. It has the added bonus of allowing you to build your own ships and perfect them.   The worlds you play in are procedurally created, but I wish there were more of a variaty of obstacles and hazards in the game.  I like the various factions you can fight and play, but I long for more varied ship designs.  No story mode, but it really doesn't need one.  No multipleyer, but the single player game work just fine.  The keyboard layout ssems a bit spread out, but I use and older Nostromo N52 speed pad and it makes this game play nearly perfect.  The AI for both your own faction and the enemy factions could use improvements.  There are mods that fix things, and sometime ruin them.  In conclusion: The game is not perfect, but it's still a fun time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very innovative and I like its almost abstract graphics (which run great even on older hardware). The tutorial is not very good but once you get into the game, you get many hours of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played this game so much that I dream in Penrose tilings and made a font for a console command that has no practical application in the game itself.  Please send help.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "well you have free variant of reassembly now and its multiplayer its called istrolid, no need to instal reassembly or buy it anymore. this has better pve gameplay, but istrolid is free...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game, no questions. Infinite ship possibilities, very few limits, so much creativity.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing! If you like designing spaceships, creating fleets, and taking over the universe I would recommend you give this game a fair shake!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is an awesome starship building/destroying sandbox. It is open ended, there are no goals. You build a ship, kill ships, gather resources, unlock parts, raise your ship size limit, build bigger ship, kill bigger ships, build something insane, die, try egain :-D Killing an enemy capital ship unlocks that faction for you and you can use it in your next save.  Graphic style is simple but looks very good. It is colourful and trippy. I would describe it as a space Lego on acid.  Sound design is ok. Nothing mindblowing, nothing bad - it works and doesn't pull your attention too much.  Music is great. It helps you to immerse yourself into this space madness. It will get you into some kind of trance and then you realize, that this game managed to devour your whole evening :-D  If you need story and goals, this is not a game for you. But if you like to build crazy things and test them in combat + you like 2D space combat games, you will love this thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I greatly enjoyed the old freeware game Battleships Forever, and this seems to be a spiritual successor. I have spent an unhealthy amount of time playing this game the past couple of days! Amateur shipwrighting in space has never been more compelling- especially since your creations, like in Spore, can show up in other players' worlds! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": ":)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing! Would recomend getting the game and much of the workshop content. (The workshop provides over double the content that the game has to offer) Pretty sure my friends will get it as well. A multiplayer option, even if it was just local would put this game over the edge of perfection.  This game is for you if you enjoy hours on end of constructing and fighting unique 2D spacecraft, with many choices of weaponry, armor types, maneuverability options and shapes haha. Judging by the time I have spent on this game you should understand that it can be addicting to play. (125.2 Hours at the time of this post) Anyway, I Love the game! 9/10 would recommend. Keep up the fantastic work Anisoptera Games, as well as all of the workshop developers that want everyone to have a better experience!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a great game with so much potential to be so much more! Dev seems to be either working on something else or very slow. No indication that he's still working on the game. \\  Hope dev continues his work.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reassembly is a very simple game, you are a ship for a faction and all other factions are enemies; that doesnt sound too different to most games; although the real point of the game is the fact that you can build and design your own ships. This mechanic is very well implemented and the game is really fun, flying round space blowing stuff up really never gets old. The building ship feature is very, very good (it could do with some fixs and some more variations), everything on the ship is down to you if it is too slow thats your faut (add more thrusters) or its just getting smashed against flagships and agents (add hull and shields) you can change it and upgrade it to fix these problems. Everytime you die there is something you can do to imporve the ship, you learn from every mistake and can adapt to it. There is something about this game that just brings me back to being a 5 year old playing with Lego and trying make HUGE planes and space ships. Really great little gem of a game. TL;DR Great little gem, lots of replayability, buy if you have ever played with Lego.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Half top-down space shooter, half min-max ship design RTS-lite. Getting to run into other player's fleet design is a neat mechanic, though the first few times you see 'Agent X has destroyed 1 of your stations' you might not think so.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'd had this game in my wishlist for a while, was one of those games i intended to pick up on a sale or something.  By Odins beard, i should of got it sooner.  Its truly amazing, the sheer addictiveness of it is astounding, and creating newer and better ships is such a fun aspect. Its essentially a game where you just constantly grind either mining or fighting, but thats the best bit. The grind is so good.  Everytime i go to close it and stop, i just think, ill get a little more, then upgrade.   But its a never ending cycle.  IT NEVER ENDS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I came expecting Spore microbiology phase. I left with a space opera.  I made a line of cannons with a cockpit that I couldnt fly worth a crap and the AI used it to make semi stationary defensive barges. This game is fresher than a piece of lettuce. Finer than fine china, bring out the good plates. 10/10 would adapt again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is Suberb. That is all. GET IT NOW!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An excelent open-ended game to pass a lot of time. Although I think it could do with a few more features (and possibly a little more detail in the way of a tutorial) I am quite pleased to play this game.  Offering unlimited design possibilities, the only limit is your time and imagination. Different factions offer different tools and weapons, as well as entire ship-structuring features. The open-ended gameplay means that once you've got a ship that works, you can make other ships that make more ships. build stations to protect areas of space you have cleared and hunt down other players' designs that are loaded into your world throguh wormholes (and allow you to send your ships off as AI enemies to terrorise other players in their games)  I strongly recomend this game, but because of a few gameplay features I feel are vitally missing, i would recomend waiting for a sale",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very fun to play but it can get hard when you just created a new ship and want to claim a station and get swarmed by high lvl ships created by other players. This is my first review ever, I dont know how to do this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like Asteroid, it's like Subspace, it's like Homeworld... it's a pretty damn good concept, well executed and addictive. You basically are thrown in the middle of space with a small ship and you have to gather ressources to make your ship bigger, and build more space ships that will themselves build other ships on their own. It is a living game, where the environement changes and where enemy factions fight for control of the ressources. Get ready for intense action: sometimes more than 500 ships fighting at the same time!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is relaxing yet intense. Overall, you just need to build ships, but at the same time, you don't. It takes some figuring out, but the game becomes more fun as you play. It'll never be fun unless you do play, so what are you waiting for? Get it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game that makes you build a ship that can rule an empire, without a fast strong ship anytime you explore you take a chance of getting annihilated by any random factions gunships. Never start a fight when you don't have backup, because the probably do. The game can have you playing for days if you let it, the need to build a strong empire and the calming music will make you lose track of time. 10/10 for the cool ships.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "April 25, 2016  this is the most fun ive had in a long long time  very original, creative, great graphics, much replayability  1 thing lacking... no multiplayer... great fun though",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game to death, but the only suggestion is to add some multiplayer to the game. I love this game none the less though :D.   GR8 B8 M8 I'D R8 8/8",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I greatly enjoyed the old freeware game Battleships Forever, and this seems to be a spiritual successor. I have spent an unhealthy amount of time playing this game the past couple of days! Amateur shipwrighting in space has never been more compelling- especially since your creations, like in Spore, can show up in other players' worlds! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The build process feels like playing with lego, amazingly free! Loved hand crafting a fleet that could easily replicate itself across the dynamically generated galaxies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "WOOOOOOOOOOOOOOOOOOOWWWWWWWWWWW Best game i played this year. Thank you!! So addictive... This year i have hough over 80 games including two consoles (xbox1 &amp; ps4) but this is amazing, If you have PC this is a must buy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! :)))))  Basically you create your own spaceship and faction. All the other factions are bad. What makes this interesting is that you play agains real/uploaded ships. This is addictive bcoz you keep upgeading your ship and trying to take over. Since I intalled it today i havent stopped playing it until this review as it crashed for reasons unknown but im glad it did as in one go i spend 9 hours omg. i never done this in a game for awhile.   Thank you :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Most people will have grandoise ideas of the ships they can build and they are probably possible. But! you won't be making those ship right out of the gate or even soon after. There is a pacing to the game and it's done rather well. Depending on how content you are with the status-quo you can rush to make bigger ships or not. A very fun game that you'll probably get your money's worth before it possibly out stays it's welcome in unlocking different races.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game. Just wish it had multiplayer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Spent a lot of my childhood playing flash games like Bubbletanks and Flashtrek Broken Mirror. This is like those but fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a solid and fun game that combines space shooter elements with a sand box and ship design. The fact that you can both upload your designs to appear in other players' universes and encounter theirs as roaming and often deadly 'agents' along with the game's 7 inherent playable factions (there are some non-playable ones as well) plus workshop support make this game a lot of fun.  You start with a simple small ship but you can unlock both more systems to build with and larger ships via combat and resource gathering and can unlock the other factions via battle so you can try their unique playstyles in future games. The best part of the game's factions is that while they all have some similiarities, they are quite diverse and not simply reskins of each other. Playing the starting Terran faction is quite different from the Reds which are different from the Sentinels and so on.  You eventually get to build ships from your ship and can keep them with you or release them and they'll defend areas as your control expands. Your AI allies will even build copies of your ship and you can use the interface to affect their production queues.  You also have a lot of control options and can even set how your weapons are keyed so you can fire every weapon via the LMB or put even big cumbersome weapons on point defense duty if you like. There's a lot to love here.  Heartfelt recommendation from me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-Controls were wonky at first, but after about 4 hours I found how to change them. -The space feels big at first, then you're trying to cram a 50+ ship armada through an asteroid field. -I wish the more 'powerful' races had some more variety. The first 3 are very multi-functional.  Farmers are the most powerful faction. Get an environment and you will dominate. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very fun game with simple graphics.  Features an easy to use ship editor, everything snaps into place easily and editing your ship works as you would hope.  This game feels like a mix between Besiege and Space Pirates and Zombies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game. It has a good amount of polish.Soundtrack fits this game seamlesssly and sets the tone. This game doesnt try to be anything other then itself, sure this game has smiliraties with games like asteroids and the like, but it ISN'T asteroids. It provides a sandbox feel when you feel like killing time, or the ability to prep for war and attempt to take over other universes. (which I am not very good at) I would recommend this to anyone that enjoys crafting games, space games, or exploration games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really fun little game to build ships, unlock the factions and just mess around in general.  What to expect: Tonnes of fun, simple yet addictive gameplay in colorful, neat 'geometry-graphics', a super fast download (the gamefiles are incredibly small. I guess they must have built the engine and all from scratch. + the game has pretty much no textures that need to be saved apart from the background. not much more than 100 mb to download, not mmuch more than 200 mb drive space required).   What not to expect(&gt;as of right now&lt;,28th March 2016): Story, real-world orientated content, real multiplayer, Crispy shaderengine-graphics.  The soundtrack really does sound nice, but of course it gets old after some time. Thrusters behave mostly newtownian but are aoutomatically used in a blanced way (an asymmetric ship is possible, but if you don't have thrusters to break and turn, your kinda screwed.) The current multiplayer is just that it let's you meet ships designed by other players (they come in strong fleets that have a main ship, they're called agents. The main ship is not the strongest ship but the one he player used at the time of upload.)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An awesome multi-player needing game to enjoy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is by far one of the best games that I've ever played. Reassembly is amazing; you have to get it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's really a blast to play, whether it be for 10 minutes or 5 hours. Jump in and goof off or set off on your campaign of galactic domination, both are good fun.  Every aspect of the game controls in a way that I can only describe as dead-on. All of the control scemes not only work, but work very well. The shipbuilding editor works fantastically well, somehow managing to correctly interpret my frenzied cursor at least 99% of the time, and comes with a full suite of hotkeys (yay!). Even the friendly AI settings function very close to perfect.  My only recommended mod, after you've gotten good at the game, is the one that gives you 100 hostile players per world instead of 6.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "No matter how much I play this game I will alawys come back for more! The music is AMAZING, the graphics are good, the machanics are great and the whole consept it perfect. Being able to make my own ship how I want it and fly it around destroying other factions is so much fun. There are so many parts to build with and use so there is no lack of things to make. I give the game a 10/10. Would recommend to anyone.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great game. tons of replay value and an endless amount of way to build ships. still have trouble walking away from this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun to mess around in, and there is plenty of cool workshop content if you get bored with the base game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like this game, but it gets stale very quickly and the developer didn't deliver on the promises made during early access. The game is exactly the same as it was when it came out on Steam, with the only major addition being a 'tournament' mode where you plop a couple ships into a ladder to see which one wins out.  The aesthetic is interesting, but ultimately the actual game is shallow. Most of the gameplay comes from designing your ship and seeing how it fares in combat, but the combat is doesn't have strategic depth other than ramming or kiting. Your design slowly moves away from what you'd call an actual spaceship and more towards a geometric shape with internal engines. A basic square filled with as many weapons and shields as possible is simply better than trying to create anything that's actually interesting. Ship combat, therefore, devolves into a blob of shields mounted on a square careening through space and slamming into other blobs of shields in an orgy of lasers and missiles. It looks nice, but carefully designing a ship isn't worth the effort.  The design system is simple and easy to understand, but in practice it just falls flat.  The 'living world' is also not really what you'd expect. Capturing territory across the galaxy becomes an exercise in Exterminatus from Warhammer 40,000. You bring as many ships as possible and cleanse every single enemy ship from an area of the map, which then switches colour to your faction. That's it. You don't get any resources, your own ships don't start to spawn there, not even a message appears on screen. A part of the map changes colour, and you move on to the next area. Eventually this devolves into chasing one tiny little gnat of a ship that can't even hurt you across your territory because it keeps reclaiming tiles. It's tedious.  Don't get me wrong, I liked this game, but it is very shallow and the replayability just isn't there.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I tried to play this game but the controls were just miserable. My ship wildly careened off or couldn't turn reasonably or couldn't move at all or fell apart. Unless you really want to buckle down and figure out how the physics work here so you can design a ship that's at all enjoyable to fly I can't recommend it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pros: Fun game Fun ship design Interesting economy and the like Unique world Great factions, 2 more over powered than the others (favourite being sentinals)  Cons: CONSTANT CRASHES  Yes I enjoy the entirety of the game. It's very unique and very enjoyable. But still I give it a negative rating. Reason: This game is over a year old. It has mod support and a good healthy community. YET it crashes so often it is frustrating. There is no pattern to the crashes, the game isnt intensive in anyway. Nothing beats the frustration of spending a good 30mins on a ship only to the game crash on you. Or even worse, finally kill that stupid enemy that spawned in and destroyed most of your economy, only to have the game crash and have to do it all over again. If you can stick through the crashes, then yes get it. But if not just avoid the game. Been 2 months since and update too... just saying",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game gets a zero for the abomidable sin of level scaling. You will never be strong enough to wipe out all of the other ships in the solar system because this horrible game automatically scales enemies to your strength. As far as I'm concerned this is the worst sin a game can commit.   Otherwise a good game. Level scaling is annoying as hell though.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game expecting an empire building game. But it turns out to be Spore cell stage with some improvements.  It's still a fun game, but I would wait for a deep discount before buying.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Suuuuper annoying bug: progress of ship building is sometimes impossible to save and you lose your newly build ship. Otherwise pretty fun game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It reminds me of Spore. You start with very small amounts of building points with which to design your ship. You also haven't unlocked the better tech. It's a cool game but you run out of content pretty quickly and it starts to feel predictable and grindy. Then you kind of max out your ship and that's pretty much it I suppose.   There seems to be a 'multiplayer' mode where you can see the ships of other people on your friends list with the game and automate cpu vs cpu fights in those ships to see who will come out on top. The ship AI is basically to fly directly and as quickly at the opponent as possible so if you have close range weapons you could do pretty well here.  Not that any of it matters. There's not much else to the game. No interesting easter eggs. No special fun ways of being creative. It's pretty bland. A game like this really needs someone to write a story and make some interesting and unique characters to play parts in that story. Like it is now (and undoubtably forever) this game feels kind of not worth it. If you can get it for a dollar or two maybe...  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is fun and addictive, but it crashed twice during a mere 5 hours of gameplay.  Steam refused to refund since I played more than two hours. I will try to get my money's worth out of it, I wasted 13$ or so, I will play 13 hours and update this rerview as I go.  Current verdict: DO NOT BUY, crashes frequently.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Poor instruction. Poor UI and poor gameplay.  Every ship drags out and drifts so much that thrusters are really only to propel and fling you in one direction while you wait to crash into something constantly. Simply put, the inertia is very poor.  Haven't played much, and I'll have to play some more to justify blowing 15$ on this mediocre game.  Game feels heavily like an early-access (ie bad) than something that is classified as complete and released.  You bascially throw together some ship with thrusters and weapons on it and fly around and shoot stuff. The end. Every ship looks the same (a chunk of material together with random projectiles coming out of it)  Certainly a regrettable purchase. Legitimate buyer's remorse. Don't let the trolls saying it's good and downvoting anyone saying otherwise tricking you into buying this poorly made and hollow game.",
+            "review_score": "-1"
+        }
+    ]
+}

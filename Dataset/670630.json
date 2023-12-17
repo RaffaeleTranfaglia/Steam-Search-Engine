@@ -1,0 +1,36 @@
+{
+    "app_id": 670630,
+    "name": "Slingshot Puzzle",
+    "release_date": "2017-06-30",
+    "developer": [
+        "DreamDale"
+    ],
+    "publisher": [
+        "DreamDale"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 13,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "This game is a kind of golf and billiards fusion, just cooler.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670630/header.jpg?t=1498872283",
+    "minimum_requirements": "OS: Windows XP Processor: Core Duo Memory: 4 MB RAM Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i3 Memory: 8 MB RAM Storage: 200 MB available space",
+    "reviews": []
+}

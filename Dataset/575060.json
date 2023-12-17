@@ -1,0 +1,42 @@
+{
+    "app_id": 575060,
+    "name": "Nemo_D.O",
+    "release_date": "2017-09-14",
+    "developer": [
+        "GGHF"
+    ],
+    "publisher": [
+        "GGHF"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Nemo_D.O is a puzzle action game. Player should control the two robots simultaneously to achieve the goal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/575060/header.jpg?t=1514714368",
+    "minimum_requirements": "OS: Windows 7 64-Bit Processor: Intel® Core™ i5-4200U CPU @ 2.30GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTS 250 DirectX: Version 9.0 Storage: 250 MB available space Sound Card: DirectX-compatible sound card",
+    "recommended_requirements": "OS: Windows 10 64-Bit Processor: Intel® Core™ i7-3770 CPU @ 3.40GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 570 DirectX: Version 9.0 Storage: 300 MB available space Sound Card: DirectX-compatible sound card",
+    "reviews": []
+}

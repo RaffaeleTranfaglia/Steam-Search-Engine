@@ -1,0 +1,45 @@
+{
+    "app_id": 370170,
+    "name": "Dale Hardshovel HD",
+    "release_date": "2015-09-22",
+    "developer": [
+        "phime studio LLC"
+    ],
+    "publisher": [
+        "phime studio LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 9,
+    "positive_ratings": 15,
+    "negative_ratings": 11,
+    "price": 0.79,
+    "description": "Do you love puzzles with dropping, pushing and connecting artifacts ? Then welcome to our matching artifacts game with brains ( brain not included, you’ll have to use yours...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370170/header.jpg?t=1450875078",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Dual core 2.3 GHz Memory: 1 GB RAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: Core i3 @3.2 GHz Memory: 2 GB RAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "reviews": [
+        {
+            "review_text": "Dale Hardshovel HD is a good puzzle game. The controls are simple: you move the artifacts horizontaly with the mouse. You need to match the artifacts, in pairs of 2 or 3 artifacts, in the given time to be able to complete the level.   A little more info about matching: for the matching to count they have to be next to each other in a 'stay' position...if you swipe an artifact over more artifacts and there is one of same model under it won't count as a match. Also if an artifact is on the moving platform and another of same time on the ledge near the moving platform when they will be next to each other it won't count as match.   The complexity of levels differ based on the things you'll find in them: from movable blocks that will help you to get over holes, spikes that will destroy your artifacts, blocks which dissapear after you passed them a number of times to teleporters, moving platforms(which can't keep more than one artifact at a time), magnets and switches.  As a side note, for long play sessions the soundtrack may become a bit annoying because it gets repetitive.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 868240,
+    "name": "FINSummerVR",
+    "release_date": "2018-06-27",
+    "developer": [
+        "Team Möns"
+    ],
+    "publisher": [
+        "Kajak Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 8,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Experience the Finnish midsummer in Virtual Reality! Play as a grumpy old man from the village of Perälä in the middle of northern wilderness. Play summer games, heat up your sauna and build up a bonfire in this humorous parody of the Finnish lifestyle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868240/header.jpg?t=1530118833",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: intel i5-4560 / AMD FX 8350 Memory: 8 GB RAM Graphics: GTX970 / AMD 290 DirectX: Version 11 Storage: 300 MB available space Additional Notes: HDMI 1.3",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 6500k equivalent or greater Memory: 16 GB RAM Graphics: GTX1060 / AMD Radeon RX 480 DirectX: Version 11 Storage: 1 GB available space Additional Notes: HDMI 1.3",
+    "reviews": []
+}

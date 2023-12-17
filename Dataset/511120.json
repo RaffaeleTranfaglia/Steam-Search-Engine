@@ -1,0 +1,43 @@
+{
+    "app_id": 511120,
+    "name": "ikenie",
+    "release_date": "2016-08-09",
+    "developer": [
+        "Akumu Games"
+    ],
+    "publisher": [
+        "Akumu Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Embark on a journey into the unknown. ikenie is a 2D action-adventure/puzzle game for PC featuring challenging and unique mechanics, multiple paths, and original soundtrack in a dark themed world. Can you change your fate?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/511120/header.jpg?t=1538510043",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor. Memory: 512 MB RAM Graphics: Intel GMA series or better. Storage: 200 MB available space Sound Card: DirectSound-compatible sound card.",
+    "recommended_requirements": null,
+    "reviews": []
+}

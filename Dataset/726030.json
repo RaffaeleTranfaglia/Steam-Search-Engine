@@ -1,0 +1,40 @@
+{
+    "app_id": 726030,
+    "name": "MinSweeper",
+    "release_date": "2017-10-30",
+    "developer": [
+        "LinQ"
+    ],
+    "publisher": [
+        "LinQ"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 9,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/726030/header.jpg?t=1509398949",
+    "minimum_requirements": "OS: Windows Vista/7/8/8.1/10 Processor: 2 Ghz Memory: 2 GB RAM Graphics: Graphics card with DX9 (shader model 2.0) capabilities. DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

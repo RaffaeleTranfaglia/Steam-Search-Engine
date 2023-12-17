@@ -1,0 +1,48 @@
+{
+    "app_id": 333650,
+    "name": "Pahelika: Revelations HD",
+    "release_date": "2015-03-02",
+    "developer": [
+        "Ironcode Gaming"
+    ],
+    "publisher": [
+        "Ironcode Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 18,
+    "positive_ratings": 25,
+    "negative_ratings": 33,
+    "price": 6.99,
+    "description": "Pahelika: Revelations is the quintessential Fantasy Adventure, focussing on Exploration &amp; Puzzle solving. Set in an alternate reality where magic co-exists with science, Pahelika: Revelations takes you on the fantastical quest undertaken by Sudesh Budkoti, the protagonist of the Pahelika series.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333650/header.jpg?t=1447365124",
+    "minimum_requirements": "OS: Windows XP Processor: 1.6 Ghz Memory: 1 GB RAM Graphics: 512 MB VRAM DirectX: Version 9.0 Storage: 512 MB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows 7 Processor: 2 Ghz Memory: 2 GB RAM Graphics: 1GB VRAM DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Any",
+    "reviews": [
+        {
+            "review_text": "It was nice in the beginning but the story is boring and the clicking is buggy most of the time especially on the portal.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "played it much longer than most point and click games. ",
+            "review_score": "1"
+        }
+    ]
+}

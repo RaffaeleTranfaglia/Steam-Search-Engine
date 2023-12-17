@@ -1,0 +1,46 @@
+{
+    "app_id": 732810,
+    "name": "Slipstream",
+    "release_date": "2018-05-21",
+    "developer": [
+        "ansdor"
+    ],
+    "publisher": [
+        "ansdor"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Retro"
+    ],
+    "achievements": 29,
+    "positive_ratings": 495,
+    "negative_ratings": 71,
+    "price": 7.19,
+    "description": "Arcade-style racing game inspired by the spirit of the early 90s, with drifting mechanics and exotic tracks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/732810/header.jpg?t=1548102483",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Memory: 2 GB RAM Graphics: Intel HD Graphics 5000 Storage: 500 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

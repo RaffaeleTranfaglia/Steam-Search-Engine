@@ -1,0 +1,37 @@
+{
+    "app_id": 884160,
+    "name": "HyperZen Training",
+    "release_date": "2018-07-16",
+    "developer": [
+        "Guillaume Thiolliere"
+    ],
+    "publisher": [
+        "Guillaume Thiolliere"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "Experimental minimalist game with a special graphical mecanic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/884160/header.jpg?t=1546898549",
+    "minimum_requirements": "OS: Windows 7, 8 or 10 Processor: dual core Memory: 2 GB RAM Graphics: Vulkan 1.0 compatible Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

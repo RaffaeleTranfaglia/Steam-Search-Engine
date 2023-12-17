@@ -1,0 +1,40 @@
+{
+    "app_id": 520540,
+    "name": "Tribloos 3",
+    "release_date": "2018-07-16",
+    "developer": [
+        "BumpkinBrothers"
+    ],
+    "publisher": [
+        "BumpkinBrothers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 40,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "The Birds Are Coming! They're after the Tribloos and only Trey and the gang can stop them. Return to the world of the Tribloos and join them on a new adventure, chasing their captured friend across the seas, mountains and deserts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/520540/header.jpg?t=1531782221",
+    "minimum_requirements": "OS: Windows XP Processor: 2ghz Memory: 2 GB RAM Graphics: 3D Accelerated GFX card DirectX: Version 7.0 Storage: 512 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 3ghz Memory: 16 GB RAM Graphics: 3D Accelerated GFX card DirectX: Version 9.0 Storage: 1 GB available space",
+    "reviews": []
+}

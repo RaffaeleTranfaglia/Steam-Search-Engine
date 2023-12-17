@@ -1,0 +1,40 @@
+{
+    "app_id": 880830,
+    "name": "Cavesweeper",
+    "release_date": "2018-07-04",
+    "developer": [
+        "Stylus Software"
+    ],
+    "publisher": [
+        "Stylus Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 41,
+    "positive_ratings": 14,
+    "negative_ratings": 0,
+    "price": 1.99,
+    "description": "Cavesweeper is a unique roguelike puzzle game that is easy to play but difficult to master. Battle deadly monsters and get powerful loot in this addictive, replayable RPG puzzler!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/880830/header.jpg?t=1530702897",
+    "minimum_requirements": "OS: Windows XP SP3 or later Processor: 200 Mhz Pentium processor or higher Memory: 256 MB RAM Storage: 15 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

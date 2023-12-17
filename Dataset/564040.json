@@ -1,0 +1,42 @@
+{
+    "app_id": 564040,
+    "name": "ZANGEKI WARP",
+    "release_date": "2017-02-15",
+    "developer": [
+        "ASTRO PORT"
+    ],
+    "publisher": [
+        "Nyu Media"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 53,
+    "positive_ratings": 16,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "Take control of the hyperdimensional fighter craft ‘ZanFighter’ and use its advanced warp functions to defeat an army of space beasts controlled by an evil scientist!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564040/header.jpg?t=1487167608",
+    "minimum_requirements": "OS: Microsoft Windows 2000/XP/7 Processor: Intel Pentium3 1GHz or better Graphics: DirectX 8.1 or above and Direct3D with 64MB or more of VRAM DirectX: Version 9.0c Storage: 100 MB available space Sound Card: DirectSound-compatible Sound Card",
+    "recommended_requirements": null,
+    "reviews": []
+}

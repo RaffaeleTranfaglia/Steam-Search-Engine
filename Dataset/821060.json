@@ -1,0 +1,40 @@
+{
+    "app_id": 821060,
+    "name": "Desktop Mascot Engine",
+    "release_date": "2018-05-09",
+    "developer": [
+        "GamerzDan"
+    ],
+    "publisher": [
+        "GamerzDan"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Software Training",
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Utilities",
+        "Animation & Modeling"
+    ],
+    "achievements": 0,
+    "positive_ratings": 121,
+    "negative_ratings": 54,
+    "price": 2.09,
+    "description": "Have your favorite character live as a real-time mascot on your Desktop. Interact with it or have it interact with you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/821060/header.jpg?t=1544403964",
+    "minimum_requirements": "OS: Windows 10 Processor: Core 2 Duo Memory: 1 GB RAM Graphics: Intel HD 520 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 or AMD Ryzen Memory: 4 GB RAM Graphics: GTX 980",
+    "reviews": []
+}

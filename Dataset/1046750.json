@@ -1,0 +1,40 @@
+{
+    "app_id": 1046750,
+    "name": "Extinction: Alien Invasion",
+    "release_date": "2019-03-29",
+    "developer": [
+        "Henrique Lima"
+    ],
+    "publisher": [
+        "KZ GAMES"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Violent"
+    ],
+    "achievements": 23,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Annihilate waves of aliens, build your base, improve your mercenary, do it all with a sound track bathed in rock. Extinction Alien Invasion is an arcade shooter with elements of RPG, inspired by games like: Dead nation, Shadowgrounds, Alien Breed and Alien Swarm.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1046750/header.jpg?t=1553866877",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: Core i3 Оперативная память: 4 GB ОЗУ Видеокарта: Geforce GT 640 DirectX: Версии 11 Место на диске: 2 GB",
+    "recommended_requirements": null,
+    "reviews": []
+}

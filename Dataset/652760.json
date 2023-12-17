@@ -1,0 +1,45 @@
+{
+    "app_id": 652760,
+    "name": "Watchlist",
+    "release_date": "2017-07-06",
+    "developer": [
+        "Fletcher's Games"
+    ],
+    "publisher": [
+        "Fletcher's Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 12,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "Accused of committing a crime affecting the nation's security, you are now tasked with tracking down various undesirables in order to redeem yourself in the eyes of the powers that be. Blast through procedurally generated levels and complete the Watchlist in this retro arcade shooter!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652760/header.jpg?t=1499370617",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1.7 GHz Core 2 Duo Memory: 512 MB RAM Graphics: 256 MB VRAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

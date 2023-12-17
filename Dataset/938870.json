@@ -1,0 +1,37 @@
+{
+    "app_id": 938870,
+    "name": "Chronon",
+    "release_date": "2018-10-02",
+    "developer": [
+        "HronosGame"
+    ],
+    "publisher": [
+        "HronosGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 8.29,
+    "description": "Chronon is a puzzle game in the first person.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/938870/header.jpg?t=1538492228",
+    "minimum_requirements": "OS: Windows 32-bit Processor: Dual-core 2.0 GHz Memory: 4 GB RAM Graphics: DirectX 10 class GPU with 512MB VRAM (nVidia GeForce 8600 series, AMD Radeon HD 3600 series, Intel HD 4000 series) DirectX: Version 9.0 Storage: 2 GB available space Sound Card: DirectX9.0c Compatible Sound Card",
+    "recommended_requirements": null,
+    "reviews": []
+}

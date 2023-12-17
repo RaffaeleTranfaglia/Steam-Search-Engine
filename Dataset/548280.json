@@ -1,0 +1,41 @@
+{
+    "app_id": 548280,
+    "name": "NeonBall",
+    "release_date": "2018-02-23",
+    "developer": [
+        "Nelium Games"
+    ],
+    "publisher": [
+        "Nelium Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Family Friendly"
+    ],
+    "achievements": 12,
+    "positive_ratings": 14,
+    "negative_ratings": 2,
+    "price": 0.0,
+    "description": "¡Roll! ¡Jump! ¡Survive! NeonBall is an exciting maze-like game in a gorgeous neon-like environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/548280/header.jpg?t=1519441218",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: FX-4100 or Intel Equivalent Memory: 4 GB RAM Graphics: AMD HD7850 or Nvidia Equivalent Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: AMD FX-6100 or Intel Equivalent Memory: 4 GB RAM Graphics: AMD 380X or Nvidia Equivalent Storage: 2 GB available space",
+    "reviews": []
+}

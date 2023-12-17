@@ -1,0 +1,1621 @@
+{
+    "app_id": 2400,
+    "name": "The Ship: Murder Party",
+    "release_date": "2006-07-11",
+    "developer": [
+        "Outerlight Ltd."
+    ],
+    "publisher": [
+        "Blazing Griffin Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Trading Cards",
+        "Valve Anti-Cheat enabled"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Multiplayer",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4819,
+    "negative_ratings": 792,
+    "price": 0.0,
+    "description": "The Ship is a murder mystery multiplayer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/2400/header.jpg?t=1521044912",
+    "minimum_requirements": "1.8 GHz Processor, 512MB RAM, DirectX 8 level graphics card (1024x768), Windows 2000/XP/ME/98, Mouse, Keyboard, Internet Connection, DirectX 9.0c Recommended: 2.8 GHz Processor, 1024MB RAM, DirectX 9 capable Graphics Card (1024x768), Windows 2000/XP/ME/98, Mouse, Keyboard, Internet Connection, DirectX 9.0c",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Friendships will be tested in this game...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun with a group of friends, but servers are pretty empty so I don't think it's worth the price of $20. Wait until it goes on sale for &lt; $5.   Pros:    first-person suits it well   you can interact with pretty much everything   health meters   funny and sudden events   good animations    Cons:    few times it is unclear how you were caught  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Summed up as Assassin's Creed meets The Sims, The Ship is a very original game that has the ability to make you paranoid as you walk down the corridors, wondering if that person about to pass you in the hall is your hunter, ready to stab you in the chest.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was in TeamSpeak with a couple of my friends and one of them was my quarry.  My quarry went and hid inside one of the toilets. After a while he wanted to leave, but there was a random guy blocking his exit.  So I looked over the shoulder of the random guy and shot my friend in the face with the Blunderbuss.  I shot him straight back onto the toilet, and the random guy walked in and p*ssed on his corpse.    10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun at all. It is challenging when your rival is disguise himself so you can't find him easily and it is more difficult when you have to avoid witnesses or police officers.  Totally worth my money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't remember buying this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Told my friend I would teach him how to play, the only thing I taught him was never to trust me while playing this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is a unique blend of hilarity and tension, especially when played online with friends. It's a small install size, it has low system requirements, it can be found for cheap and buying a copy actually nets you five copies to share. Start murdering now and you won't regret it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I pushed a guy into piranha infested water, The guy survived and started to attack me. I then pulled out my syringe and stabbed him until he lost control and fell into the water again, He was also my hunter.  10/10 would defend off hunter again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a fantastic group experience for anyone wanting to spend an evening stabbing your friends in the back. The Offline part is garbage, and playing the online multiplayer is decent fun, but the game truly shines when you have a large group of friends (4+) on a private server taunting eachother over voice chat and screaming in panic when you pull the shotgun. If you're flying solo, then keep on browsing, but if you've got friends to VC with, this game earns a flawless 10/10.  The only downside is that, rather than fix the server issues (There are no dedicated servers, you have to find publicly run servers to play on or make one yourself.) They instead released a worse version of the game under the pretense of it being a 'remastering.' The new version straight up removes some of the game elements and changes others, while adding little, if any to compensate.  Worst of all, in my opinion, is that with the release of a re-mastering, they've removed the ability to buy a 5 pack of the Ship for 20 dollars. 5 friends tossing 4$ in the hat was the single greatest purchase I've ever made on steam, but asking each person to pony up 10$, especially when the game's most fun with friends? They properly shot themselves in the foot with that.  TL;DR This old version is better than the remastered one, and the game is best experienced with friends, voice chat, and perhaps just a little alcohol.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brad: Dude, I thought you said you would help me find my quarry! Night: ... and you said you would help me find mine. Brad: I know but you didn't help me! YOU SHOT ME! Night: Well you helped me. You were my quarry.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got banned from a server for having -1600 in-game dollars 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant game with friends (or on your own!) The Ship is a great mixture of game types. It's FPS, but you also havie to keep a tab on your stats. The art work is nice and the maps are varied. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wonderful game, i just wish i had gotten to it when the multiplayer was still booming",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is absolutely brilliant xD Never had laughs quite like the ones i've had... played at 3am though don't think my neighbours are as happy as i am.. oopsie",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fantastic multiplayer experience as The Sims meets Hitman. You have a specifc person to kill every round and must do so without being detected by security. Your choice of weapon will affect the bounty you get. Weapons that have been commonly used give less money, so finding a rarer weapon might net you LOADSADOSHHHH.  Mix in the mind games on trying to stalk your prey whilst keeping yourself safe. Shame the servers arent as full as they should be.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the ship is fun game, and if you play lan style it can be more fun with fun game. i think it real good, but you need to have fun so that the fun game is fun, or else it not fun, but then you fun can have fun game fun.  luv from drveerda",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Take a tommy gun and personally murder Osama.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "YOU CAN MURDER PEOPLE WITH SAUNAS 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A rather unique take on shooters. Commit a murder without being caught and without getting hunted down yourself. Sounds simple, right? Hardly.  While this is on sale for $5, it's ridiculous NOT to pick it up if you have any interest in a more strategic shooting game. It also comes with numerous extra copies to hand out, so you'll be able to invite your friends to their own executions!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good graphics and nice gamemodes. Similar Idea as Ac Multiplayer. it' fun to play with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A solid yes from me! I'm always looking for people to get together and play this! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game that makes you wanna kill your friends even IRL",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i dont really have an opinion of this game because the CLOWN that gifted it to me FAILED to realize that steam doesn't host le servers anymore. moreover, the game was made in 2006 thus ergo be it a BAD game!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Killing Kim Jong-Il was a little akward. 9.99/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Anyone who loves murder party games will find this to quickly enter their list of the most hilarious and addictive out there. Bludgeon, stab, slash, shoot and explode your foes to victory and prepare to never stop laughing. A true, hidden gem on the Source Engine that you'll keep coming back to. Do yourself a much-deserved favour and treat yourself; plus, your pack will allow you to bring your best four friends along too!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This might be fun if you could find people playing it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Based on Source Engine, 10/10. Would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a good game to play on multiplayer though it can be quite frustrating when trying to get past other people.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is the greatest thing ever. After I just installed it, I got a girlfriend, a promotion, and won the lottery. satisfied/10 would purchase again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is a surprisingly good low budgit game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A big black man came after me and beat me to death with an umbrella.     11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "11/10 Shanked my quary in prison.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The entire idea of the ship makes for countless hours of fun, which I would be having if there were any existing servers. The problem being that if you plan to play the game much, you have to have friends that will play it with you, or be fine with single player. The incredible variety of ways in which you can hunt down and kill your target was easily enough to keep me interested.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am able to kill people with a dild- oh i mean a truncheon... 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would bang",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like to kill my friends. Fun to play with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun even if your playing with 30 computer players!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Knocked some people into the water and watched them getting destroyed by piranhas.  10/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Would be great if people still played it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The ship is a mystery game set in the 1930s. You play a passenger on a ship who is tasked with killing one other passenger. However, since each person has this goal, someone will also come to kill you. Each round you must eliminate your target whilst avoiding your own hunter. The game also comes with two extra copies and those compies in turn come with one extra copy. So buy it and give copies to your friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game, Only gripe is that you have to look up how to join games given that the in-game master server went down long ago and there is no official answer that I could find. (You go to view-&gt; Servers in Steam and find a server that way) Once in however, prepare for paranoia, addiction, and some of the most comical murders ever (wanna smack somebody overboard with a manaquin arm?) Done.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Makes only fun with friends :). But anyway one of my favourite games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a surprisingly fun game. It's best when playing with your friends but playing against bots is fun too. The story mode isn't very good but it doesn't matter because you'll just play the multiplayer instead.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, kill your friends for no reason, get killed for no reason, read a book and talk to people and be social. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Murdered someone with a croquet mallet, only to be shivved while taking a dump in prison. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why play Monopoly or Mario Party with your friends, when this game gives you the same results with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is way more better with the political party skins. hands down a really fun game to play with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was more afraid of dying from lack of reading a book than I was afraid of being shot by my murderer.  0/10 Best game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "was an asian woman killed a black man 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The ship is not your normal game. It involves you searching to kill the person asined to you but also someone is trying to kill you at the same time. Their are 2 games for the ship, a multiplayer and single player. Also their is a tutorial for the ship in case anyone needs halp for it which is pretty neat because it's free. I don't care for the graphics of a game that much but they are not the best, but that kind of brings a funny side to the game which I enjoy. The single palyer is intersting to say the least and since the game can basically run on any computer playing with you friends can be fun and by everyone. The story line isn't amazing and without a doubt is kind of dumb. The game is okay but I would give it a 6.5.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fun. Well, it WAS fun. They took the servers down, if you can get someone to host a private server and a bunch of people to play it will be fun. That is of course assuming that it doesn't devolve into a bunch of people hiding in front of a single security camera, which happens eventually.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Atleast for me: Still one of the most funniest games out there. Rather old, but still enough players online to have some fun. Graphics are decent considering it's from 2006 or something. Gameplay is awesome though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun, murder mystery, great with friends.  A little dated, but still a blast.  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun concept. no servers online though.  edit: ingame server browser is broken. here's a quick fix.  &gt;launch game &gt;alt tab &gt;go to 'view' on steam  &gt;server browser  &gt;filter 'the ship' &gt;profit",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Stab your buddies in the back, try not to die.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i can't quickscope in this game 2/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good pretty good with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like Assasins Creed and the Sims then this game is for you. It is much more fun playing with 3+ friends. Graphics are good and the gameplay is hilariously fantastic. Love this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Attempted to run away from my hunter and ended up ♥♥♥♥♥♥♥ myself 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Steps to play the best game ever. 1. go to sick bay grab tommy and poop packets. 2.find quarry 3. shoot quarry 4.use poop packets and smell like a rotting giraffe.  11/10 will poop in pants again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "awsome game like ac multiplayer but better you have to hunt someone and be hunted with randomly generated weapons that give differnt ammounts of money. Fun easy to pick up and still has live servers but the in-game server browser is broken so you have to click view severs and filter for the ship :). Many maps. Many weapons. Interesting singleplayer. Tutorial and world leaders mode (play ad tony blair, margret thatcher, Bin laded, kim jong, and many more so grab youre friends and play the game cheap on steam and has a fair price on other sites.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the very best games you could ever play with friends. Grab 7 friends, get in a skype call and get cruisin'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "5/10: one of the few games that doesn't make me angry when I die.  Pros: -Like I said, even when I die, i laugh it off. -Doesn't get old too fast. -A lot of maps. -Books. A lot of books.  Cons: -Sometimes you can get arrested in an area with no cameras or NPCs around to see. -I can imagine some people would get angry at it easily. -Books. A lot of books. -A lot of maps other than the original are pretty bad.   I would reccomend it, but only with friends, it makes it alot more fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ahhh... Being out on the open ocean, nothing around you for miles. It's the perfect time to just... Murder everyone!  This game is tons of fun to play with friends, especially when you don't tell them who you are, and where you are. It can either be quick and fast paced, or slower and much more strategic.   Either way, if you have a raging blood lust, and love cruise ships. This is definately a great game to play. Just make sure to have a few friends, but don't fret since this game comes with 6 full games if you just buy one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game! It;s like GMOD Murder but with more weapons!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ha! this game is a lot of fun, change clothes to be harder to identify, trick your oponents to reveal themself to guards and get caught, all while trying to find your target to kill with the weapon of your choise, kind of, you need to check what weapons used gets the most money from mr x.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun, silly multiplayer game that is a blast when playing with a group of friends. Nothing like bashing in your best friend's face with a disembodied mannequin's arm and then lighting your pursuer on fire with a flare gun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Realy funy game :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Better on a train",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my favs your goal is to gain either the money goal in the server or to have the most money in the server you do so bye murderering your quarry stated at the bottom right of the screen killing your target gets you money but killing those that are not your quarry will result in money loss the money you get is dependent on the money the object used is worth calculated by the last time it was used so for example you kill someone with a blunderbuss the next time you kill someone instead of getting lets say $2000 you get $100 but if you leave something alone for a long time you will see that the money from $2000 will be something higher like $8000 if you buy it youll probably ask WHERE ARE THE SERVERS which you actually have to go to steam client - view - servers - the ship and in short GET THIS GAME",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10  Would beat a random quarry to death with a cane again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is amazing I have been playing single player though, no matter what it always says I cant find any servers and I have checked my wifi works fine, someone please help.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is BOAT load of fun, literly! Art deco 20s cruise liners, murder,multiplayer and hours fun. what more could you want? i picked this game up at bundle stars for 3$ thinking eh what the hell. i fell in love with it just a few mins in this is by far one of the best games to play with a group of friends its challenging yet highly rewarding every time you manage to snag that hard to get kill.  pros: ship is what this game is all a boat great for playing with friends challenging and rewarding TF2 mixed with counterstrike with a dash of asassians creed  cons: buggy mess does not work very pretty with alot of computers  no longer a multiplayer list all servers must be found by IP and joined via the command console some kills are rather fustrating the game is no longer being worked on so the bugs will never be fixed",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Personal Rating: 7/10  This game is fun, however what would be more fun is if people actually played the game still. I mean, trading cards were added which is great for me as I like to craft the badges, but how many players did that honestly SHIP in. There are a variety of weapons, outfits and items to choose from that can kill and maim your shipmates, from Frying Pan to Flare Gun, you can pretty much use anything to your advantage.  If you have a few friends that would like to play this game, then you can get it pretty cheap in the sales now-a-days and set up your own server. I did it a while back and we had hours of fun. Of course, to stick a twist on the endless murders, you need to keep yourself alive and cater to your basic needs such as sleeping, showering, eating and talking to people. The simplest of tasks become so tense as anyone can just sneak up on you while you shower and blow your face off with a shotgun.  So, should you buy this game? If you can get it on the sale, sure, but if you're buying it for full price then be prepared to be dissapointed at the lack of players. You could always play the single-player though which is fun...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun game but not alot of people play it sooooo GG",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'The Ship' is a thrilling mystery murder game. Passengers are on a boat, and paid assassins but use what they can find around them to eliminate their target. If desperate, even a mannequin arm can be used to take out the assassin's target. Players can play as a hunter or a passenger. As a passenger, you can aid in security by performing a citizen's arrest on those you find to be suspicious. All in all, this is a fantastic game of wit and skill, similar to source mod, trouble in terrorist town.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like TTT The Game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not very well known, but definently a hidden gem amongst games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its good fun 4 people who like quirky games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I am Fidel Castro and i will cut off your balls with my umbrella",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you like murder? No duh.  Do you like sims? Most likely.  THIS IS THE GAME FOR YOU...  That is, If you like taking care of your person every second of every day while you have to avoid being killed and killing  someone so you can get money to take care of your person more...  Oh, And you have no room to mess up... You go too long without one thing, Its gonna beep and beep till you are just ♥♥♥♥ed cause YOU COULDN'T FIND THAT TOILET... :c",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i sold 8 cards to get this and played it 3 times  ♥♥♥♥ you paolo",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get arrested with wallet in your hand. 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 when you kill woman and steal her clothes you will understand how cool is this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Old, but still good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for a group of top kekkers to play together",
+            "review_score": "1"
+        },
+        {
+            "review_text": "super duper fun small fps action packed with a whole lotta americana",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great if you are playing with friends, otherwise not worth",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Single player sucks. 2/10  Multiplayer is the best 9.5/10 if you wanna kill your friends. Be warned, you might lose them as well D:",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Shanked a lady in the shower. 10/10 Would shank again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Dis game is enjoyable,there's alot of modes though.. Hunt, Elmination, team vip.. etc But u will ragequit alot haha :P nah jk but u get really mad sometimes ... u will know what I mean when u play it. The master server in-game is down, although u can join a server but hitting the 'View' button in steam, and then Servers, Change Filter, Game .. Choose The Ship.  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't rock it till you try it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The gameplay alone is amazing. The entire concept of having to be on board a ship full of murderers including yourself makes this rich, as well as having it very well balanced. the fact that it adds many variables that you need to keep in check on top of killing adds difficulty and immersion to the game, and there's many opportunities for you to kill people as well as get killed. It's splendid and I'd recommend it if you can play LAN with a couple friends.   My only gripe is the fact that there are no more dedicated servers to host multiplayer matches. I hate this because playing with real people makes it more intense as you need to think who may be a real person or an AI, and it's a lot more fun to kill someone knowing they'll have a reaction. On top of that; the games AI isn't very smart either. They'll hardly ever attack you, or sometimes it's easy to know that they're hunting you. Still it's a great game and with how cheap it is with sales it's worth it for the experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "MAKE FOR MAC!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so fun and fantastic on multiplayer. It takes a bit to figure out how to get multiplayer to work but once you do it's a blast to play with your friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "tHIS GAM SHUD B CALLED DA ♥♥♥♥ AHAHAHAHHA",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I killed everyone except the one i was suppose to. 5 Chip bags / 6 Sodas Only get it if you have the patients to kill",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great if you like to stab yourself in the eyes as you play. As in you will love it so much that you will hate it because you love it so much. You get me?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get to kill world leaders, who doesnt want to do that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "No One To Play With!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was playing with a friend.  As soon as the game started, I ignored my own objective completely, and helped him hunt down his quarry.  We stalked through the ship's corridoors, watching each others' backs in case we met our Hunter and/or an RDMer.  We found his quarry, and set up a coordinated ambush in which i doorblocked her, while he slashed her to death with a cleaver.  As she lay bleeding on the floor, we celebrated our victory with two cans of soda.  As he thanked me in the last few moments of the match, I calmly took out my blunderbuss, blew his face off, stole his posessions and wandered off to find my next target.  9/10 - destroys friendships faster than Mario Party",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a black lady was taking a dump and i killed her with an umbrella 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game concept, but the AI really let this game down, when it comes to multiplayer.  Heard they are re-making the game for a 2016 release, id suggest waiting for the remake.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game made me eaty da poopoo",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Literally the most fun game to play with friends to date.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Apparently umbrellas are illegal to carry on ships.  why you ask?  'Illegal weapon'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i got my friend jailed and he told me to go ♥♥♥♥ myself",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like a mod for Half Life 2. This mod is quite fun, but only on multiplayer. In my opinion, SP is complete garbage and is super slow and boring.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice game, you only need friends to play with...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like Skyrim with ships 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How can you sell a game when you dont sup its multi player...  Alot of bugs and carshing, dont buy it.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's very fun for a few hours if you have friends to LAN with. The gameplay is very repetitive and gets stale quickly. The bots are terrible and it's not fun to play against bots anyway. I'd say it's worth $2 as a throwaway game for a LAN party",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I received a low-threat prisoner, so I didn't pay much attention to him.  How wrong I was..  It was a normal, average day. The prisoners were eating their lunch.. then it happened.  He attacked from the shadows. Prisoner 'Leeroy jenkins' viciously started stabbing my guards with his plastic fork. It was 5 against one. He'll never win, I thought. He'll never escape, I thought. He'll never survive, I thought.  I thought wrong.  He managed to start a full-scale riot, him and his army of offenders. They broke all 7 of my steel doors with their bare fists, escaping into the yard. They were almost out. I quickly hired God-knows-how-many dog handlers, in a valiant effort to hold them back until the authorities get here. I managed to keep the tsunami of prisoners back, put the prison on lockdown and finally the armed police got here.  I did it, I stopped the riot.  But then I saw that one particular cell was empty. Then I realized..   LEEEEEEEEEEEEEEEROOOOOOOOOOOY JEEEENKINS!  54/11 would plastic fork again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Does get very addictive ! A great laugh, does got me jumpy on some parts lol",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You can read a book? 12/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is okay - the multiplayer MASTER SERVER is no longer available and you have to use a different way in order to play multiplayer -   Multiplayer can be fun but also frusting on the same time - you have to find items - weapons, disguise, food, stuff like that - most annoyingpart is probaly the blocking by other characters in the game -   You have to find your target which is randomly given and you have to kill him. You get money ( which is points and u can buy some food with it) from the kill and the weapon will have effect on how much u get. Usually a weaker weapon grants you more money, but the money keep changing overtime.  You have to becareful, you will be a target for someone else too.  You can't kill a target if security sees you, or else you will be send in jail. If you are familiar wth THE SIMS, like 'peeing, sleeping,fun' everything in THE SIMS si also in this game,   The idea is nice but its just sad there are no MASTER SERVERS anymore. Graphics is ok for this game. not too HIGH quality  ill give this a 6/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "if you want to ruin friendships then buy this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is quite a fascinating game... well, if brutally murdering people with umbrellas and having a heart attack when someone snipes you is your thing. If you like all these things, then take a ride on The Ship! There is some definite comedy, strategy, and horror within this beauty of game design. You may say, 'well, it's quite outdated, don't you think?' Why HELL NO! It's a bit old, but that doesn't mean it isn't fun to murder someone with an axe... &gt;:)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun and unique game. You don't have to mindlessly kill everyone but stalk one prey instead (while trying not to get killed).  Simply awesome in LAN with friends: everyone gets paranoid as ♥♥♥♥ :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its a game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is quite a fascinating game... well, if brutally murdering people with umbrellas and having a heart attack when someone snipes you is your thing. If you like all these things, then take a ride on The Ship! There is some definite comedy, strategy, and horror within this beauty of game design. You may say, 'well, it's quite outdated, don't you think?' Why HELL NO! It's a bit old, but that doesn't mean it isn't fun to murder someone with an axe... &gt;:)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IT IS THE BEST HUNTING SIMULATER OF ALL TIME!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Died laughing after blowing everyone up with a wallet bomb.   11/10 would go insane again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wouldn't say it's a great game, but neither will I say it's a bad one",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  very fun must buy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A cool murder game with a load of weapons to kill with. This game reminds me of the Hunger Games, but its on a ship. This is a very good game, I really enjoy this game, it is AMAZING!!! There are about twelve different shipsfor the game to take place on, and they are all AWESOME!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get spawncamped after coming out of jail. . . 8/8 its gr8 m8",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its a game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The concept of this game is really unique, and it is quite fun. I enjoy playing it quite a bit. However, some issues like massive lag and bugging through walls and stuff do exist.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very boring. Dated graphics. Slow.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "An assload of fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun, but it could use more gimmicks and a lot more players.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun, but it could use more gimmicks and a lot more players.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hours on end playing with friends or alone. Fun :D! The makers should consider updating the game again :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's ok, bit dated now though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game for free in a giveaway and this is just amazing    Having fun in multiplayer,great work creators :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damn I just wish more people played this game its pretty funny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Killed so many people that I got banned from the server for an hour. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "20/10 sitting infront of a door with a shotgun, still die. He was also trying to hunt me....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its ok",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "like killing people, like killing people on a ship, then this is the game for you. There is not much to the story but the killing of the passangers and the gameplay is just amazing",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games i have ever played! Highly recommended. More fun with friends. But awesome alone to! In one word this game is........AMAZE!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bought it ages ago for 14c look now 9.99$ now my friends will think I'm rich :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Victim 1: Foun a manniquin arm and bashed his skull.  Victim 2: Got a Tommy Gun and unloaded a clip to the back of his skull.  Victim 3: Got a Katana and stabbed her in the bathroom.  Victim 4: Hit him in the back of the head with an umbrella.  10/10 Would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a delightful game for those type of people who just love being an Undercover bounty hunter attempting to kill your prey without the guards knowing you can also steal and find guns/melee weapons in the game too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun. Friends required, servers are empty. Single player is alright, but with friends is the best option",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool game, although i can't find any online servers. But except for that it's a fun game to play if you're bored.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh yes, this is great fun if you have people to play with, even the bots are fun for while! Murder in the name of money! Too bad Master server is dead or down. There is a work around to join servers, but if you're in Australia, there are no servers alive and unless you have killer net connection or don't mind playing with 300+ ping, then there are overseas servers you can join.  ============================= Played on: Dell Insprion 15 3521 Windows 10 Home Edition x64, 8GB RAM, every other specs are stock.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unlike any other multiplayer game, very fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "well not recomended for the orignal version  my suggestion, i like this game but since remastered came out i got to pay for that   which is fu*king ret@rded because why cant you just use the orginal version to get remastered for free otherwise whats the fu*king point of the orignal version  GG community   f*ck off.   dont mess with tony's turfs",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game does not have dedicated servers to play. This means the average person cannot play with their friends over the internet.  EDIT: Thank you Tiveran. In order to access the servers you must find them OUTSIDE the game. Please see Tiveran's directions. This game seems like fun with friends, I have not had a chance to test ti much.   I will leave this review as negative for other people with the same problem.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "my password is fish123",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not a happy bunny. This is used to be a fantastic multiplayer game, however the servers have been abandoned for what feels like years now. Of course you can still use the singleplayer and coop feature, but its false advertising. Whats even worse is that the only alternative is a buggy remastered version with donald trump in it, who the f** wants to see donald trump in a game? The developers have been really cheeky and offered this alternative for a hefty price, with no discount or compensation for current owners of the ship:murder party!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Really fun game.   Shame they don't tell you that there's only one playable server and the master server supporting the server list is offline.   They should release an updated version or re-support this one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I wish I could do this in real life.  Wait, I can.  Brb.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game if you have over 5 people",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The water looks bad so I refuse to play it. You can be the best president though, so it is a 10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have been playing Tiger Woods '08 PC on a regular basis since it came out back in 2007. No modern game has come close. That is until this game was released.   The graphics are top notch and very realistic. The addition of trees and bushes since last year improved the visuals a great deal. The graphic improvements will no doubt continue in the future with the possible addition of 3D blades of grass using Nvidia’s graphics technology.  Online play is great with turn based multiplayer and the ability to play with up to 8 players. You can stop and resume your round at a later time. There are loads of different play modes available. If tournaments are your thing you can participate in many online. The game also has a cool replay feature that allows you to watch the last round from a number of different angles. Your opponent(s) can see the replays as well.  Another big plus for the game is the freecam mode. Take a virtual tour of the entire game from every conceivable angle and soak in the wonderful immersion that this game provides.  This game has lived up to its potential. Every update over the last year has shown improvement, especially the most recent update from last month. This community driven game will only get better in the months and years to come. Be sure to give it a try and you won't be disappointed.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Multiplayer does not work, dont buy!!!!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Online murder game - Hillside 2014 - Lxtricky 2014 - Carypto 2014",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really bad dont buy this game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is good, but the fact that it is only Windows in this day and age is beyond stupid. We cannot even play with our friends due to the limiations of this fun, yet outdated game.   I would not suggest buying this game if you want to have fun with your friends, the only case that I would ever buy this game again is if I was some YouTuber that would make thousands off of suffering through the painstakingly awful GUI and finally managing to get into a game with people that won't talk or play the game incorrectly and just become a mad case of the hash shalsh slinger.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got in, went on a server, killed bunch of people, got kicked out of the server....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "░░░░░▄█▌▀▄▓▓▄▄▄▄▀▀▀▄▓▓▓▓▓▌█  ░░░▄█▀▀▄▓█▓▓▓▓▓▓▓▓▓▓▓▓▀░▓▌█  ░░█▀▄▓▓▓███▓▓▓███▓▓▓▄░░▄▓▐█▌  ░█▌▓▓▓▀▀▓▓▓▓███▓▓▓▓▓▓▓▄▀▓▓▐█  ▐█▐██has ▓▓▓▓▓▀▄░▀▓▓▓▓▓▓▓▓▓▌█▌  █▌███▓▓▓▓▓▓▓▓cards ▓▓███▓▓▓▄▀▐█  █▐█▓▀░░▀▓▓▓▓▓▓▓▓▓██████▓▓▓▓▐█  ▌▓▄▌▀░▀░▐▀█▄▓▓██████████▓▓▓▌█▌  ▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█▌  █▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Buy the ship on sale for 69p for me and 2 friends as i was told it was not worth £6.99... how wrong they were.    &gt; be me &gt; 3 player game with ♥♥♥♥ tons of AI &gt; killed my target &gt; hiding in shower till round end &gt; AI walks in &gt; try to leave &gt; no♥♥♥♥ingway.jpg &gt; Ai blocks me in shower and uses shower &gt; Ai walks to the toilet &gt; mustbeabigone.jpg &gt; pull out umberella to end this madness &gt; AI shoots me in the face  11/10 would watch crazy man in top hat use the toilet and shoot me in the face for seeing too much again. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is a relatively entertaining game, but is plagued by many flaws.  It came out a while ago - 2006, in fact, and it does show its age, unfortunately. It's 'old-school', but not in a nice way. It all feels just a little bit clunky and laboured while playing it, and that just wouldn't be tolerated if it came out today.  Onto the game itself. I'll address the singleplayer first and foremost - it's pretty short and only lasts about an hour or two. It is intended to prepare you for the multiplayer, the main part of the game, but it's rather ineffective in doing so. You're never placed into a situation you would actually face in the multiplayer - mostly it's a case of go here, talk to this person, kill this guy, rinse and repeat (leaving out the occassional other trivial act). It doesn't help that the singleplayer is very frustrating at points and feels lazily done. To be honest, there's no real point in playing it.  Now, the multiplayer. If you're reading this, I assume you understand the whole concept of the game. The concept does seem extremely entertaining. However, it's not executed as well as you would like. The maps are all too small for 24-32 players like the very few servers remaining are and you often find yourself cramped in rooms, getting blocked in corridors etc. The inclusion of security is poorly done - guards, cameras and witnesses seem to be just about everywhere meaning you rarely ever find a good opportunity to take out your quarry. You look to take out your target, only to realise there's a camera watching and you're arrested for pulling out your weapon. The needs system becomes tedious quickly - I can't be bothered going to the toilet or sleeping when I'm avoiding my hunter and searching for my quarry. You also only have 90 seconds for each round to kill your quarry, which is nowhere nearly enough time. The jail system is another major flaw in the game also - if you kill your quarry, you can deliberately get yourself arrested so as to be protected from the person hunting you. This can then also be undermined by your hunter deliberately putting themselves into jail and seeing if they can get the shank to take you out. There are plenty of other examples of things like this that just make you think 'That could have been done so much better'.  It doesn't help that quite a number of people who play the game run around like headless chickens killing on sight as they are suspicious of anyone around them. Your enjoyment of this game is almost entirely based around other people and how they act - and when they act like they often do, it ruins it.  And I still haven't mentioned the obvious yet - the game is pretty much dead. Servers are mainly filled with bots rather than players. The developers, Outerlight, don't even exist anymore so hopes of changes are nonexistent. However, there's a sequel on Greenlight that looks like it could be very good.   Perhaps I'm not giving the game enough credit - it is relatively fun...for 15 to 20 minute periods. Then the same old flaws appear again and again and you just want to go and play something else. It's a real shame, because if this game had been much, much more polished and it had an active community these days I would have tons of fun with it. I got it for 70p on Bundlestars, and I don't really mind at that price. Let's hope for more in the sequel.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Enjoyable... with a disclaimer.  This game is very enjoyable, with a great art style and a fun concept: a bunch of people on a cruise-ship together must get weapons and battle each other to the death for a huge cash-prize. Sadly this game is not all roses and tommy-guns. One of the biggest flaws with this game is the 'mood' system, which feels like it was copy-pasted from 'The Sims', and shoehorned horribly into this game. The problem with it is that you must constantly maintain numerous personal issues like hunger, thirst, bladder, tiredness, etc... or else you will fall over dead. The big problem with this though is that it's so easy to cause these issues to spike, like how killing people makes you nervous and you need to talk to people to feel better, which is smart... but if you're in the middle of a cluster♥♥♥♥ of gunfire, and you kill too many people, your anxiety will skyrocket, you'll be frozen in place while your character has themselves a little crying break, leaving you open to any and all attacks for at least ten seconds. Overall the game is enjoyable, but it certainly has problems, and I mean MAJOR problems. I wouldn't recommend this to anyone on the basis that it takes a specific kind of person to enjoy it, so be sure you don't waste money on this game and instead find a friend who has it, and play their copy for a while.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Regardless of gameplay, there's just something about games with broken multiplayer server lists that leave a bitter taste in my mouth. For a €20 product, I shouldn't have to rely on external server lists. Or in fact, any other tool which enables gameplay.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great game if it wasn't for the random crashes, missing textues, and models that can't be loaded because the game dosen't even have the actual models that the game requires. But it is really fun when It wants to work. Otherwise fun and a great game. It's just broken",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "-sees videos -Thinks the games good -plays -Requests Refund",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's boring and not really fun.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is fun itself but I keep getting bored of it too quickly.  Also, there are no multiplayer servers on the list, so the game devs decided to just forget about the list and make you go on websites to get server IP addresses to play. I'm not saying it's hard to do so, but still it would be a lot more convenient if we could use the server list that they put in the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun, but hard to play with friends, very much not reccomended.  Rating: 4/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Broke all the rules (BTW my sister is a big loser)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting concept; poor execution. Not to say that it isn't fun, but it hasn't found it's niche. Multiplayer is pretty much impossible to get working. Nails in the coffin, people. The singleplayer included is worth playing, with some interesting characters and funny things sprinkled about, but it gets frusterating and becomes a grind to play through. Might just be worth spending your hard earned cash on, but if you spend more than 5 minutes debating it, it's probably not for you.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "gmod TTT but dead",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its the worst game ever made, dont buy this ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I think this game may be dead...  Can't find a single god damn server.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Have fun joining servers and then getting auto-kicked for defending yourself from people not assigned to hunt you.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Ship,  This game is the greatest piece of ♥♥♥♥, since ET on the NES. Never before, have i ever witnessed so much ♥♥♥♥♥♥♥t in the midst of such an overintense competitive arena.  While surrounded by emotionless hellspawn, all of whom have stronger weapons than your innocent plebian ♥♥♥, you are in a desperate scramble to make the most money. Little do you know, that this pursuit is hopeless. You can never win. Your 5 star damage rating, is actually .5 stars, your friends and dearest companions, are really massive ♥♥♥♥♥.   All time that you spend on this makeshit raft of doggy doodoo that OuterLight Ltd. likes to call 'The Ship,' could be better spent liking your own ♥♥♥♥♥♥♥, at least you could make real money from that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I played this game only for H2O Delirious ^_^ Killed all the people on the server at once with an exploding purse, got kicked instantly - 11/10 &lt;(￣︶￣)&gt;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't let the hours I have spent on this game fool you. My account freaked out and no matter what I did, it just said I was in game for 60 hours straight. I really only spent about an hour in single player mode in this game, mostly because my multiplayer won't work for this game, which is a bummer. Multiplayer might be quite fun for this game, but this isn't multiplayer.  This is single player.It's not that interesting. Kill people on a boat, and try to not get killed by someone else that's going after you. It'd be great for 10 bucks, but for 20?! That's just too much for this game.  Again, the multiplayer seems like it would work, but if you're playing with NPC's while the story limps around while passing out from alchohol poisoning every couple minutes, then it's simply not worth it. The music gets repetitive, and the characters are cardboard cutouts of a vauge stereotype, or typical character. 'The Bad Guy', 'The Bartender', and 'That French Guy' are all you really get from these people. Don't buy this game, unless your friend want's to play it against you on multiplayer, because like I've said so many times already in this review: I can see the concept and gameplay being very entertaining when playing it against your friends.  I wish I could delete it from my hours played, but now people now think I'm an expert at 'The Ship', when I really don't like it.  Don't buy it if you have no other friends that have it is my final choice. If it was 10, then I'd say go for it, the multiplyer seems fun from videos i've seen online, and it might be worth it! But, there are so many other great games for 20 on Steam. Go buy Portal 2, or get a fancy hat in TF2 or something instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Total Meme Game. Won't Let Me Trul The Refund Button. TBH, 9/11. Would Bomb The Towers Again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "crashes after launching, devs have no fix that actually works.- windows 10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "                                                                                                    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Honestly, there's no reason to play the ship over a game like TTT for Gary's mod. It's ridiculously boring, has almost no players, and there's not even voice communication. Not even worth the discounted price of $7.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'But its cheap.'",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "it was fun while it lasted... but sadly it does get boring pretty fast :(",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this game today. Game will not launch. It states I need a graphics card that can run +1024 width. But I am already running in 1080p!!! It should work... it doesn't. I can't bypass this error. No help on steam forums nor the internet.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "THIS IS THE GREATEST SHIP OF ALL TIME!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ugly piece of trash game. Poor sound quality. Literally ZERO settings or options. Unplayable. Cannot create or join servers. I could have gotten 2 reese's peanut butter cups instead of this abomination. The positive reviews are either fake or gay.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game sucks, a waste of time and money especially on the multiplayer one (murder party the servers don't even work). I feel bad for recommending this game to my friend&nbsp;I feel even more bad because my friend actually bought the game thinking it was good. If I knew that this game wasn't even going to work I would've never bought it let alone recommend it. If I could I would&nbsp;ask for a refund but sadly steam doesn't allow refunds(which really sucks a$$).  ~Sincerely a gamer who wasted money on this game and a YouTuber who will never be able to do gameplays on it with friends.  P.S buy this game at your own risk, you've been warned.   (I know that this is a very harsh and brutal review on it, but I honestly think this game needs some brutal honesty and criticism, like come on now, everyone needs that every now and then...)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great game. Fun to play with friends all day.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "one of the most fun games ive played, not many people left playing online unfortunately...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Now, Tony Abbott says 'stop the boat people'... and normally I'd tell him to get rooted. But if having them here is as fun as this game, go right ahead! Also, no racism is intended by this review. Anyway, the game manages to use Source in such a way that the tension/hilarity factor in each moment is palpable... You're just as like to scream out and jump a foot off your chair as you are to lierally ROFL. I highly recommend this game, especially as since its a game to play with friends, they give you all the friend of a friend bonuses! Worth the $10, I almost feel bad because i got it gifted to me...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My account got glitched and it said the game was open for 52 hours. The 0.1 was legit.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this game is so flippin awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "''TheShip.exe has stopped working''. Appears when I try to enter a game, every time, whenever the game doesn't load. Also the community is dead. You'll feel similar to when the ''Mary Celeste'' was discovered",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It is a murder game: You have a limited amount of time to hunt down your target and eliminate him or her; remember that someone will also be hunting YOU.  It is The Sims: It's true! Basic needs such as your hunger, boredom and incontinence are shown in the side bar, depending on how much you've drunk recently and how often you sprint around.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's hilarious if you have friends to play online with. One person buy the game, give the 4 other copies to your friends. Enjoy stabbing each other with umbrellas.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really fun game lots of cool weapons and maps.I really recomend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I killed 33 people and took their cloths. Was poisoned and hit with umbrellas until i died. 100/10 would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't really recommendate it because it's dead community wise. But the concept they built back in HL1 as a mod really shines in the source version",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sad to say, but this game is dead. Nonetheless, it's not going to stop me from praising it in hopes that some of you will buy it and we can do some in-house games.  The Ship is primarily a multiplayer game with the single player portion serving only as a tutorial. The plot might as well be absent, but for those who are curious, you are a passenger on a luxurious cruise ship tasked with killing other shipmates for your survival. Every round, you are assigned a target and you must hunt them. While you go about your business, someone has you as their target. For those who are familiar with the multiplayer component of Assassin's Creed: Brotherhood, that gameplay is derived from The Ship. Scoring is based on the amount of money you make per kill which is determined by the weapons you use. The more common a weapon is used, the less value a kill from it will yield.  All in all, it's definitely a unique take on the FPS genre and it certainly deserves another chance.  Grade: B+",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I stabbed a guy with a syringe, he puked, started to retaliate, was arrested for retaliating and died in jail through my syringe. I won the round. 10/10 would give AIDS again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best multiplayer game that is fun to play with friends.  Happily played it with my sis.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played with 2 of my friends. The first one died from pooping his pants the other one died by me bribing the security guard 250 dollars and I brutally murdered him with an Umbrella 2 dead friends out of 2 dead friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game with a bunch of friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Extremely fun with a group of people and 30 bots on the smallest map",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great games to play with friends, killing them is just so much fun, and ♥♥♥♥♥♥♥ them off in the process",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun stealthy murder game. It gets really monotonous if played for long periods of time, which would explain why it never got that popular, but in short sessions - or combined with alcohol - this is actually a lot of fun. I mean, don't you want to stalk your friend into a cabin, block the door and mash his face in with a frying pan?  I know I do! The graphics are very appealing and the music's good too. Now, if the game cost a lot it wouldn't be worth it but this is cheap and you get two copies to send to friends - and those friends get one extra copy each to send to THEIR friends, so that's an instant four dudes to play with. Dude.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like being tricked by your own friends and getting killed a few seconds later by them, then this game is for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun elimination game, especially with friends. If you buy it you get 2 more copies to send to friends. Those friends then get 2 more copies to send! So basically, you get 5 copies, which means you'll have ~5 friends to play with!  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "No man should have to endure the torture that is playing The Ship.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got gifted this by my friend and had a short game session with him (a bit of a ♥♥♥♥♥ to get the multiplayer working tbh but we got it sorted). The goal is to kill your targets and make the most money, while avoiding being killed yourself.  I threw a purse bomb at him while he was taking a dump, got shot while I thought I was in a safe zone (my friend was just outside the safe zone, behind the guards) and we ended up throwing fire axes at each other across the bow of the ship.  Pros: It's hilarious There's a massive selection of weapons The needs system keeps you moving around the ship so nobody can just camp in the toilets You essentially get 5 copies for £15 (one for you +2 gift copies, then the two friends that receive those gifts get another gift copy each) so it works out to £3 each which is pretty cheap for the fun that can be had  Cons: Creating a server can be annoying You can't find a server to play on unless you know the IP to connect to",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for all silent assassins, who are willing to assasinate their shipmates with a large variety of different weapons, without being detected! You must also take a good care of your own character, since he/she needs to sleep, take a shower, eat, drink, take a pee, and every other elements that are common from The Sims -games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it fells like im playing Bloody good time but even better =D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love it! I wish you didn't have to wait a loooooong time after you get hunted, but other than that the game is awesome. I also LOVE the single player mode. I don't understand why some people say it doesn't play properly. I haven't had any problems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its a very fun game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First off why is their so many positive reveiws? This game is really ♥♥♥♥♥♥♥♥ I tried it I never saw anyone for an entire hour then I saw a guard and he killed me for to absalute reason.So then I got off and never played it since.(how could anyone play this crap)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Super fun game to play with friends. Dead otherwise.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "''TheShip.exe has stopped working''. Appears when I try to enter a game, every time, whenever the game doesn't load. Also the community is dead. You'll feel similar to when the ''Mary Celeste'' was discovered",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I see you Over there Wants some candy I got lots of candy I'm not gonna kill you Come to the bathroom  I want to show you my BRAND NEW PAN......     I like pans",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun to play especially with friends. 3-5 friends plus bots is enough to enjoy the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its only 10 bucks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "will be fun for anout 3 days then wou will never play it again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Plays. Learns basics. Gets amazing. Rages from getting killed. Rages from going to jail. Kills everyone. Suicide(not in real life.) 21/10 It is the next cod- ign ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship: 'Hey there!, what are you doing with that cane?' *dead* The Ship Single Player: 'hey, follow this dude into the bathroom, kill him, and take his wallet too. Very important'. The Ship Tutorial: I'm a newb simulator 2019.  I'm just playing around. This game is great!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is way too much fun. I even bought extra copies to give away.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like being in the old days where killing someone was a slap on the wrist",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is great, but nobody plays online. The servers are empty. *sadface*",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The ship is a nice and fun multiplayer game pros: -nice weapons, maps, character skins and gamemodes -a ton of fun with friends (i played this game with 4 other friends on a LAN party) -fun and very easy cons: -this game is pretty boring if you play it alone  so you need friends with this game to have some fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I beat a women to death with a frying pan then a man with an axe came in the room and tried to kill me, then another man burst into the room with a musket and shot the axe man, then a woman with a tommy gun burst into the room and gunned me down..  11/10 would be prepared next time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Better than single player 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A weird but fun one. Spy, Murder, Spy or Murder, Spy, Murder. This neat little gem offers plenty of fun in a neat little package.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not a bad multiplayer game, its actually quite fun.  What is it missing? Achivements to be honest. How can I challenge myself to be the most extravagant murdered ever to sail the seven seas without a challenge to inspire me?  Also the bug where you cannot connnect to the master server makes server browsing annoying, not to mention it seems not to many people do play it.  It's gameplay is great fun, it just needs a graphic polish and maybe a few traps or even 'finishing' moves (depending on the weapon you used to kill your victim) and it could be re-released as a hit multiplayer game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the SHIP",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very nice game. Play it when you don't have anything to do. It will kill the boredom for sure!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, very similar to garrys mod.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "killed the guy who laughed at me for peeing myself   revenge is sweet 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game to play with a group of friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love to play this game with friends, it ruins relationships, friendships, all sorts of ships. anyways, this game is great for playing together with friends. i would definitly reccomend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a multiplayer game (with bots if you would like) in which you are assigned a target to kill without being caught. The less effective the weapon the more money you get. The more money you get the higher score you get. It's really, really fun. Plus, you can make it so all of the players are world leaders (nothing like killing George W. Bush as Raul Castro). It's almost like the one gamemode from Assassin's Creed where you try to hunt your target while being targeted at the same time. A SAW puzzle, if you will, with a lot of humor, fun, and addicting, great gameplay.  Score: 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Creepy game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun and great to play with close friends. you gotta have a great time together",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very fun game to play with friends but I would otherwise not recommend it if not for the fact you can stab George W. Bush in the face!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "fun mystery murder game if i loved it you will love it.it good and stuff so yes do get it:)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An AMAZING game! It's a shame they took down the master server list, but at least the connect command still works! If the sequel ever comes out, I am definitely buying it. It's the perfect hunt and be hunted game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got to try this!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Extremely fun with a group of people and 30 bots on the smallest map",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I find it very fun to kill a person with a croquet mallet.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really interesting concept. It probably would have been a bit better and more convenient if it were just a gmod mode, and if it had voice chat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I threw an umbrella at Fidel Castro and he died.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First day played this game,takes me almost half of the day 😂",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game, especially if you have friends to play with.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great games to play with friends, killing them is just so much fun, and ♥♥♥♥♥♥♥ them off in the process",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tired of everyday life? The same routine over and over? Go to work, do the chores, play with the kids, clean the dishes, etc etc? Well maybe it's time to take a cruise.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "IN A WORLD where every one is a murderer and has a murderer features ultimate suspence ultimate betrayel and last but not least good game play",
+            "review_score": "1"
+        },
+        {
+            "review_text": "playing this:now about as cool as playing 'lets put the fork in the garbage disposal' everything is completly dead and single player sucks",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I regret wasting my 3 euros on this...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is one of my all time favourites. The ship is about you and other passangers being captured in a ship and petted against eachother. but there are rules like dont get caught infront of a camera or a guard when killing your designated target. you also have to keep your eyes on your needs to eat,sleep,keep your hygene and go to the bathroom all the while watching out for the one chasing you. frankly i dont think this game has gotten the attension it deserves probably because its name is 'the ship' ( i actually thought it was some kind of ship simulator or something the first time i heard of it) and because of that the multiplayer is sadly dead. so i recommend this for players that like to play with their friends as a group or those who just want to play a fun singleplayer game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Me and my friends played as passengers and bullied people until they left the server. Would play again 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much underrated, very fun with friends. Get's boring fast, but take it for what it's worth.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The repetetiveness with this game is strong, but it is still a lot of fun. The player base is waning and you will most likely get put in a room with a lot of bots, but the creative way the game was designed still makes it fun to play with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "majorly fun game but i do wish there would be public servers most people get the game and cant join any servers because it says the game cant connect to the servers or whatever i feel like if that was fixeed it would get alot more poeple online to play it otherwise great game, well built and i enjoy every second.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 deep plot, great character development, beatiful graphics and a major plot twist that will leave you in tears also hello",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just yes...Get THIS GAME SO ADDICTIVE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a very old game, but its fun to play. I enjoy it with my friends, we murder eachother and its just fun. I recommend getting it if you have friends. LOL",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing and funny as hell",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fun but it makes me very confused at times &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Why are you following me? Oh, you're not. You're just murdering my colleague. Welp - I didn't see anything unusual: Keep walking - must kill my prey.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game don't know why people don't think this game good. It's really fun and new way to learn some tracking skills. Only reason why most people think game dead is because they never learn to check the forum and find out that only way to find servers is to do it from Steam &gt; View &gt; Servers and filter to the ship. The problem may not get fix at all because Dev that made this game are gone and only way get to any server is from the filter. But over Great game I can recommend to anyone that into hide and seek to be hunter and/or hunted.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is extremely fun, Singleplayer and Multiplayer, I definitely recommend it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I reccommend this for people with... well, more patience than me. The sound of the same looping vintage music track drove me a little insane, so you may want to be careful when listening to my advice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game about three days ago, but due to issues both on Blazing Griffin's end and Valve's end, I have been unable to connect to any servers to play this game. Blazing Griffin apparantly only has publishing rights to the game, and unless Valve updates it (which won't be likely), we all have to go without playing the ship as a multiplayer game, which is how it was intended to be. In my honest opinion, this game has sacrificed its integrity in that manner. I would recommend it, because I'm sure that it would be insanely fun, but I can't because I've never even been able to begin to play it. So therefore, I cannot recommend this game. As far as I am concerned, however, this issue has been going on for over two years, and the fact that I had to do such extensive research to figure out that the game cannot be easily played is ludacris. I do not recommend this game for those reasons. The only game that is under The Ship's name that you CAN play is the single player version, which is very good, but short (only about ten missions to accomplish; it can easily be completed in under a day). It is a shame, it really is, that a game that is beginning to get a surge of popularity from YouTube is unable to be played by people who want to play the game without monetary gain.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Ship is assassin creed muityolayer meets the sims in 1st person. it a great game. find wepons and kill other player btw muityplayer for this game you have to join a game from a website.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game. It is extremely slow, you walk around collecting weapons and keeping up with bodily functions, while trying to kill someone (and hopefully not get killed yourself). Worth 5$",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is incredibly fun with friends, but the master server is down so only small groups can play at a time. If you have a group of four to six friends absolutly pick this up. Additonaly, you get free copies with purchase.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is the most fun you'll ever have playing with your friends.  A bold statement?  Yup.  It's also a true one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of fun. More Players would be great =) ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sadly this game is broken by age, and you no longer able to browse multi player games. I belive this can be worked around by using console commands to directly connect to a game server.   This is sad, because this was a great game back in the 'day' :)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I adore this game, go buy it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a friend turning game, you trust your best friend just to be shot by him and that is why I adore it, the thrill of knowing that someone is after you trying to plot your death. It's simply magnificent.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would play",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If there is any way I can reccomend this game more I would. It is one of the most fun survival action games I've played in a long time. For the current sale price, I would buy it in a heart beat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Had it had more online players, this would have been a long term game for me. I had a 'Bloody Good Time'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Kill people in cold blood, and get paid for it! Gun people down, stab them in the back, or just beat them over the head with a candlestick; the choice is yours (provided you don't get caught). The Ship is a hilarious murder-fest where you and your friends go to extreme lengths to kill each other and make the most money, all while enjoying a luxury cruise!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is actually a fairly good game for 20$ Mainly because if you get one copy you are actually getting 5 all together 20$ for 5 games that is a really good deal   But its only good if you have friends to play with",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game. Got some fun out of it, but i bought it a bit late so I never got to enjoy the full efect you could say but uh I would reccomend it to someone who is friend with a few Ship fans. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A unique and fun multiplayer experience.  Truly a shame no one plays it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 to play with friends. Server browsing is a bit tedious, since the master server is down permanently. Great game though",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun when you have a bunch of friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship: Combine Hitman with the Hunger Games, on a boat. What do you get? THE SCARIEST EXPERIENCE EVER. Forget Amnesia, forget Slender, forget Ao Oni, forget all of that, this is scary. It's that subtle kind of scary, because you never know who's coming to kill you, or when it will happen. Maybe you get a bite to eat, and some guy stabs you with a knife, or you're just having a nice nap, and someone blows your brains out with a Winchester lever-action. In the end, SCARIEST GAME EVER.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a pretty good game. Gets intense a lot of the time, but a lot of the time, the lag is kind of... iffy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Killing people with manacin(hope I spelt it right.) arms is pretty awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Each player is assigned a quarry, and the object is to murder him or her with nobody watching, while at the same time watching out for, and defending themselves against their own hunter.'  Hitman meets The Sims needs. A lot of fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If a friend has it, then you can play with them easilly, but other than that no multiplayer. However, still quite good with the bots and I find it quite fun. Many secrets and many ships to play on!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game. Great 20s cruise liner environments and addictive stealth-based multi-player assassination gameplay. Single player campaign is enjoyable but no replay value, just an elaborate tutorial really to prepare you to go online or you can keep improving with the arcade mode (bot matches). Got a couple of spare copies if you want to trade...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Source mod gone full retail. The Ship is a great premise: Find your target among the people on a cruise ship and take them out, while someone else is doing the same to hunt you down. Throw in a Sims style needs system so players can't camp, a weapon bounty system so players need to try out new weapons, and a lovely 1920's style atmosphere, and you *should* have a great game.   However, The Ship does show many problems, mostly when compared to it's mod predecessor. In the mod, there would be many civilians to confuse and work around to get to your target. In The Ship, you rarely see more than one or two civilians in total on these large cruise ships. Because of this, many games just turn into a deathmatch rather than a complex game of stalking and decieving. You can turn up the amount of civvies, but there's still a very small limit on that, and rarely multiplayer servers turn this config on.  The Ship is also very dated. The game hasn't been updated in many years, and the controls show it. Even once you get past that, there's still some very strange workarounds you can find on the levels. It just feels old, rather than classic or 'old school'. What's worse, the previous devs have been absorbed into Ubisoft, and the current publisher for The Ship, Blazing Griffin, can't secure the rights to modifiy the game's code (even after a failed Kickstarter campaign), so it's stuck like this for the forseeable future.  If you can gather together a group of friends who all understand the little things and problems with The Ship, you can enjoy it for a while, but it won't last forever. Grab it if it's on sale. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For a game as old as Steam itself, The Ship is still surprisingly good fun. The perfect mix of hide 'n' seek, cluedo, poker and the Sims. As it stands you technically get 5 copies upon purchase too, making it easy to pass this among friends as Christmas approaches and then murderize each other, for fun and profit. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Buy this game! This game should be on every system, computer, AND console in the world. Just simply fun. It reminds me of how much fun the old N64 games used to be only with online multiplayer",
+            "review_score": "1"
+        },
+        {
+            "review_text": "recommened getting this game its really fun, the only problem is in multiplayer it cant find servers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If there is any way I can reccomend this game more I would. It is one of the most fun survival action games I've played in a long time. For the current sale price, I would buy it in a heart beat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A mix of The Sims, and real-life, if your life concludes of murder, deceit, and endless turmoil",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I drew my katana in public so i could follow my victim to the jail and kill her with the shank hidden in a drawer with a book.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I think that this game has a wonderful IDEA behind it, but all multiplayer servers are down, and the AI is terrible, don't buy this game on or off sale, It's not worth your money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a really fun game. The Single player is also fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's like a game of clue Except not.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game would be awesome if people actually played it. The concept is very cool, but it's a multiplayer game that nobody plays. :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Smashing a 'ma'am' head with nails - 20/10 !  Btw selling 2 copies, 2$ each.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This Game is Amazing",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great and fun game to play with ur friends !!! :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Possibly one of the greatest open world games I have ever played, highly addictive with great storyline, would definitely reccomend 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun game to play with a group of friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i locked a guy in a room with an explosive wallet and nuked the room. another lady then shanked me in the back. next round i found her and pushed her off the boat!   8.5 outta 10 only cause multiplayer isent very active",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well servers don't show up.  It seems the Steam forums about it have no clue and just give up.  you can play arcade mode by yourself which is so boring.  Not happy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "what a crappy game, this isnt a mystery game at all... thanks madhaxor!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun game. I saw Chilled Nanners and Diction play it. and best of all it comes with 2 free copies to give to your friends. so you wont be lonely on the ship",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun for a little while",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i love this game i bought it for the comeplete pack and it was so worth it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "yes and no. If you dont have many friends with the game. or who would get the game. Dont buy it. The signle player is crappy and not fun. HOWEVER, playing this game with a few friends or with a ton of friends is amazing. This game can be annoying, ragey, COD like (360 noscope bruh :D), and most importantly fun. I recommend this game to casual gamers to hardcore gamers. Play well, play fair, have fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good game but i cant play multiplayer it keeps saying could not connect to server mainframe i dont know if the game is dead or there is somthing wrong please help BUT GOOD GAME BUY IT",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥ Tommy Guns. And Blunderbuses. Amazing Game Tho.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "0/10 would never play again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The repetetiveness with this game is strong, but it is still a lot of fun. The player base is waning and you will most likely get put in a room with a lot of bots, but the creative way the game was designed still makes it fun to play with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Sims + Hitman + multiplayer fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very(and I mean very ) worth it.  The single player is nice when you want to enjoy a simple plot line. The game explains very well what you need to do and how you need to do it. In the beginning of the game you will probably feel invincible because it seems that no one is hunting you. You don't need to watch your back and you can actually enjoy doing some activities. As the game progresses, the npcs start hunting you. Now eating, peeing, and bathing starts to get a bit difficult and you become paranoid. Luckily, the single player campaign(or mode) is a short game, therefore, there is no need to worry. The multiplayer is very fun. In the multiplayer you can't be as relaxed as in the singleplayer. You got to get the supplies you need quickly or it may be to late, depending on who you are player with.  So in the end, I think you should just get the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun game, and even more fun playing with friends. Did not find any servers when searching manually, so I tried googling to realise that there were only 3 servers up worldwide. 1 american and 2 from the netherlands.  Basicly what goes on, is that you are a passenger/hunter in a variety of levels. The point of the game is to murder a person at the ship, and you will receive money for this. The player with most money at the end of the round wins. If you get caught killing someone, you get arrested. Graphic is totally all right, and the music is awesome and fun.  Try it, and see for yourself!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very good games if u like Brutally Murdering Your Friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Fun With Friends  (Dont Trust Any One)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a game about stabbing the second class, enough said",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Want a game where you can go on a ship to cruise. You can sleep You can go on the toilet You can eat You can drink You can talk to people You can buy clothes You can collect You can walk You can sit You can take a shower      Oh i guess you can kill some people two",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good enough game for the $1 i paid. Graphics suck but had interesting gameplay. music and sound effects are boring. Multiplayer was pretty dead and single player lacks story and was very short. The tutorial covered the basics but was incriedbly annoying. Otherwise i enjoyed single player and the few multiplayer matchs I played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best game about murdering people with kitchen knives and umbrellas and syringes of poison ever.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game, but has performance problems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love The Ship, always fun to play with friends. I don't know why it says i have less than 5 hours played, I've played at least 20+ hours of it. Anyway, it might be glitched for you when you try to find a server, but if you look online theres always a place that has the IP's listed for you.  Killing your target is always satisfying, even if you only get 100$ for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would kill people with an arm again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a fun game full of all the things to get your murder thrills with untill you forget right this is also like the sims to where i have to make my person happy but then you also remeber when you go to kill your quarry oh right camera's and cops probably should've waited to kill my quarry untill he/she wasn't balls deep in shopping for a new hat. all in all fun game a lot of cool unique elements, and it also helps that it takes place in pesudo 1920's because the music, uniforms and wepons all make the game seriously diffrent from anything made on source. also prison shanking chased down with reading the kama sutra good times a plenty. 8/10 P.S. there is also a mode where you get to kill world leaders so if you ever wanted to squash the beef between bush and bin laden you can do it here.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "PLEASE READ. Watch YouTube videos to help you understand the game mechanics of this game, it is a party game, meaning, if you play with friends it is a hell of a lot more fun.  I have to say, not many games out there give me as many screams and laughs as this game does, its not for everyone , but those whos its for its a oportunity thats worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like a fun twist on Trouble in Terrorist Town gamemode, it gives the game even more strategy and the singleplayer is amazing as well, leaving you to solve problems in your own conveluted way.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Ship is a lovely game from 2006; I still find it great to the day. It is always fun to go on and murder your- sorry, I mean it is nice to play with your friends on there! The choice of weapons is great and the variety of game modes. Overall, I would rate The Ship at 8/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is very simple and entertaining.  More fun when playing multiplayer with others also fun when playing alone.  I get the problem of many that you cannot access servers from the main game. I know many people have already found solutions to this and it is very simple but a bit annoying. When switching between tabs and all.  All in all the game is fun, everybody gets a query to kill one another and you can find weapons all around the ship from cupbaords, drawers, on the wall etc.. You are not allowed to kill your query in front of guards or staff personnel and you should try to remain non suspicious the whole time or else others can kill you. At the same time you have things to keep updating yourself through out the game such as your food intake, bladder, sleep, shower, reading a book etc...  Maybe the bad part I would say or not very bad but it kinda finishes the game quickly is one thing. You can know where your query is, it will say on the right hand side where your query was the last time which makes the game finish quickly.  All in all ITS FUN, it is a calmer version of Gary's Mod murder where everybody is a killer to another.   I totally recommend it specially it is very cheap.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome! Single Player 11/10 BEST ENDING EVER MADED(And yeah,dog is alive)Multiplayer:10/10 You can fun with your friends(Or kill your friends)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "As funny as watching someone ♥♥♥♥ in public. Very Very Funny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is actually pretty fun in multiplayer, once you find some servers to play on, which isn't hard at all. Great concept.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;Needed to take a ♥♥♥♥ &gt;No toilet near by &gt;♥♥♥♥ myself &gt;Died  10/10 would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unbelievably fun game! I'd like to be able to spring a little longer though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its gr8  Gameplay - fun af with friends  Multiplayer - a little dead but still able to find other people on servers (game-&gt;servers-&gt;the ship  Graphics - it can run on a toaster  Other - when you buy the game you also get a gift of it so thats gr8",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i shipped my pants 10/14",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great game everyone needs to get it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like if you took jelly and peanutbutter and shot it with a 50. cal",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My first imprestion: How can my freind recomend this its old as crap this cant be good    Well i was wrong this is amazing. imagine sims meets murder. I love the needs part it adds such a twist.   i Highly recemond this game  *8.7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game gets very boring very fast and the in-game multiplayer server browser does not work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "PLEASE READ. Watch YouTube videos to help you understand the game mechanics of this game, it is a party game, meaning, if you play with friends it is a hell of a lot more fun.  I have to say, not many games out there give me as many screams and laughs as this game does, its not for everyone , but those whos its for its a oportunity thats worth every penny.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing. Lack of players. But if you can find some buddies to play with - it's really good ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "seemed quite bad at first but got really enjoyable after a while, highly recommend this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Source engine be damned.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game deserves so much more then it gets. It is honestly so stress relieving. It is funny as hell, I have gone to the point of crying of laughter with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very, very fun game if you play with friends. Highly recomend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played an 8 person game where we were political leaders and got killed by Senator Hilary Rodham Clinton as Fidel Castro.  10/10 would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the best gam ever you have to buy this, I promise you this is worth your money, I really enjoy this game and I hope you will too. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I reallly really like this. I really, really 'The Ship'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun gam to play with friends! I heard there was the ship remasted coming soon. They forgot to also add 'funny' there are some random moments where you just start losing your ♥♥♥♥ and you just laugh hard as ♥♥♥♥. Question... How do you laugh hard as ♥♥♥♥ when you lost your ♥♥♥♥?! Who knows...   I swear I love this game so much I bought this for 7 of my friends. Good thing it was on sale for $1.09 :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game for creative murderers and blowing off steam.  10/10 would kill my friend again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Was taking a poop in Jail and was shanked. What a way to go. 10/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really fun game, the only thing i must say is that it's only fun if you have some (3+) friends to play with. but if you have friends definitely a fun game with a lot of potential game time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game Is F*&amp;@^%g AWESOME I LOVE IT SO MUCH AND I PLAY IT. BUY AND PLAY IT FOR THIS GAME YOU'LL PAY NOT LOT BUT WILL PLAY LOT",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good party game, but broken servers and need to manually use dev console to connect to a server kind of sucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-Buys game on steam sale -Plays single-player -Gets beaten to death with a paddle -finds a scalpel -Murders and eldery lady with a rifle -gets rifle -shoots a black man -gets arrested for a hate crime -sees many black men in jail -non happy black men -drops soap in shower -cleans self with nothing but water -cries self to sleep in cell as a man named Tyrone is licking my ear -gets released from jail -Quits game -Uninstalls Game -Goes to therapy -Has nightmares of naked black men in showers  11/10 Would go to jail again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best murder mystery game i have ever played.  10/10 would hunt someone down again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting single player. Funny multiplayer with freinds. Buy it i guess ;D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very Funny game that you can play with with friends or other people in days ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How to lose friends 101",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Kill your friends and pretend you're not trying to kill your friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very old very fun with friends would buy if had friends :( XD 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love to play this game with friends, it ruins relationships, friendships, all sorts of ships. anyways, this game is great for playing together with friends. i would definitly reccomend",
+            "review_score": "1"
+        },
+        {
+            "review_text": "simple and awesome   that's the 2 words that describe the game, big thumbs up !  GG ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is to fun lol",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun in arcade. I like all of the gamemodes all the weapons the maps everything about this game is good sadly no one plays it anymore and best of all if comes with two steam gifts of The Ship: Murder Party and The Ship: Singleplayer. Go in the fourms if you want this for free because everyone is giving it away. I recommend it very fun on multiplayer (with attual people not bots) i give this a 9/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The only thing I did in this game was go into the bathroom and take a ♥♥♥♥. It made legit noises and made me feel like I was doing the real thing.   10/10 would ♥♥♥♥ again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "something",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just like Disney Cruise Line, but without having to worry about other people seeing you walk around naked.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty fun, easy enough to get into and it's fun with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hr's of fun. One of those games where you don't need much skill if you know how to bluff. I really dig the anachronistic setting, the boats and the music.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm pretty sure I bought this game purely because it was cheap and came with some extra copies, but it turned out to be much more fun than I expected. You get a target and have to find them before your hunter finds you, and while the graphics are nothing much, the gameplay is a lot of fun, especially when you play with your friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't trust anyone.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Servers no longer supported - not playable without workarounds!",
+            "review_score": "-1"
+        }
+    ]
+}

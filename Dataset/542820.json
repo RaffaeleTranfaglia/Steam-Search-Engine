@@ -1,0 +1,37 @@
+{
+    "app_id": 542820,
+    "name": "DemonicGuestVR",
+    "release_date": "2016-10-17",
+    "developer": [
+        "Mgsstudio"
+    ],
+    "publisher": [
+        "Mgsstudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 4,
+    "price": 0.79,
+    "description": "A small VR Horror Experience for VR",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/542820/header.jpg?t=1479607585",
+    "minimum_requirements": "OS: Windows 7 Processor: i5 - 4590 Memory: 8 GB RAM Graphics: GTX970 / AMD R9 290x Storage: 2 GB available space Additional Notes: AMD cards need a higher spec than Nvidia",
+    "recommended_requirements": "OS: Win 10 Processor: i7-4790 Memory: 8 GB RAM Graphics: GTX 980 / AMD R9 390 Storage: 2 GB available space",
+    "reviews": []
+}

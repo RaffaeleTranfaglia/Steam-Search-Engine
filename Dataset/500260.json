@@ -1,0 +1,50 @@
+{
+    "app_id": 500260,
+    "name": "Ben and Ed - Blood Party",
+    "release_date": "2018-02-13",
+    "developer": [
+        "Sluggerfly"
+    ],
+    "publisher": [
+        "Sluggerfly"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Multiplayer",
+        "Gore",
+        "Action"
+    ],
+    "achievements": 23,
+    "positive_ratings": 589,
+    "negative_ratings": 109,
+    "price": 10.99,
+    "description": "Welcome to the Blood Party! Play together with up to 3 people and compete in deadly game shows. Customize your zombie, build your own levels, share them via Steam Workshop and die a lot.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/500260/header.jpg?t=1518538043",
+    "minimum_requirements": "OS: Windows 7, 64-bit, 32-bit Processor: Intel CPU Core i3 Memory: 4 GB RAM Graphics: Nvidia GTX 460 DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7, 64-bit, 32-bit Processor: Intel CPU Core i7 Memory: 8 GB RAM Graphics: Nvidia GPU GeForce GTX 660 DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 726170,
+    "name": "Hardy Only One",
+    "release_date": "2017-11-17",
+    "developer": [
+        "LeshaWhite Studio"
+    ],
+    "publisher": [
+        "LeshaWhite Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 42,
+    "negative_ratings": 30,
+    "price": 0.79,
+    "description": "Classic rogue like action shooter. Make your way through the mazes and destroy the hordes of enemies. Choose ammunition, without them you will not survive. First aid kits will allow you to have more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/726170/header.jpg?t=1527705398",
+    "minimum_requirements": "OS: Windows above 7 Processor: 1 GHz or High Memory: 2 GB RAM Graphics: Intel HD 4000 or High Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows above 7 Processor: 1 GHz or High Memory: 4 GB RAM Storage: 500 MB available space",
+    "reviews": []
+}

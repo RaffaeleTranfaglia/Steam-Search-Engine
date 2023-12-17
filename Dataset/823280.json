@@ -1,0 +1,42 @@
+{
+    "app_id": 823280,
+    "name": "STE : Save The Earth",
+    "release_date": "2018-04-02",
+    "developer": [
+        "KZ42"
+    ],
+    "publisher": [
+        "KZ42"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 112,
+    "positive_ratings": 8,
+    "negative_ratings": 7,
+    "price": 2.09,
+    "description": "An alien invasion has come! As the supreme general of the armed forces of the earth, your mission will be to gather an army and put an end to the threat. Make your way through one of the most complex clicker games out there and crown yourself as The Supreme Defender!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/823280/header.jpg?t=1522692287",
+    "minimum_requirements": "OS: Windows Vista Processor: 2 GHz dual core Memory: 1024 MB RAM Graphics: Hardware-accelerated OpenGL or OpenGL ES Network: Broadband Internet connection Storage: 52 MB available space Additional Notes: Minimum resolution of 940x600",
+    "recommended_requirements": "OS: Windows 7+ Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware-accelerated OpenGL or OpenGL ES Network: Broadband Internet connection Storage: 52 MB available space Additional Notes: Minimum resolution of 940x600",
+    "reviews": []
+}

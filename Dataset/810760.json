@@ -1,0 +1,38 @@
+{
+    "app_id": 810760,
+    "name": "Starman's VR Experience",
+    "release_date": "2018-03-20",
+    "developer": [
+        "Playful Armadillo"
+    ],
+    "publisher": [
+        "Playful Armadillo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 7,
+    "positive_ratings": 16,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Experience Starman's amazing journey through our solar system in Virtual Reality. See a 'live' view from the cherry red sports car or move in time to see future events.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/810760/header.jpg?t=1530564823",
+    "minimum_requirements": "OS: Win 7, 8, 10 Memory: 8192 MB RAM Graphics: GTX 970 +",
+    "recommended_requirements": "OS: Win 7, 8, 10 Memory: 16384 MB RAM Graphics: GTX 1060 +",
+    "reviews": []
+}

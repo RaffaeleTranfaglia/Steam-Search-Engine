@@ -1,0 +1,37 @@
+{
+    "app_id": 777870,
+    "name": "While I Sleep I am Debug",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Joyjoymoto"
+    ],
+    "publisher": [
+        "Joyjoymoto"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "A room. A lab. A simple test. Nothing unusual. Nothing lurks. If you stay in the room too long, you may experience periodic instability. This is normal. Nothing to worry about.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777870/header.jpg?t=1519775217",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8GHz Dual-Core CPU Memory: 4 GB RAM Graphics: Integrated Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 8/10 Processor: 2.7GHz Dual-Core CPU Memory: 8 GB RAM Graphics: AMD Radeon HD 512mb Storage: 600 MB available space",
+    "reviews": []
+}

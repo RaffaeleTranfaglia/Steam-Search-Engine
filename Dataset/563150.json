@@ -1,0 +1,44 @@
+{
+    "app_id": 563150,
+    "name": "interLOGIC",
+    "release_date": "2017-02-07",
+    "developer": [
+        "phime studio LLC"
+    ],
+    "publisher": [
+        "phime studio LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 5,
+    "positive_ratings": 30,
+    "negative_ratings": 8,
+    "price": 1.59,
+    "description": "interLOGIC is a simple and atmospheric matching blocks puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/563150/header.jpg?t=1515770915",
+    "minimum_requirements": "OS: Windows 7 Processor: Pentium 4 Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Core i3 Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "reviews": []
+}

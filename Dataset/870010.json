@@ -1,0 +1,36 @@
+{
+    "app_id": 870010,
+    "name": "Mazes and Mages",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Juan Jose Garrido Gomez"
+    ],
+    "publisher": [
+        "Juan Jose Garrido Gomez"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Card Game"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Play card duels. Explore random mazes. Single player game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/870010/header.jpg?t=1546801700",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-core or similar Memory: 1 GB RAM Graphics: OpenGL 2.0 compatible video card Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

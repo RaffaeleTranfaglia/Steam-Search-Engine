@@ -1,0 +1,39 @@
+{
+    "app_id": 977270,
+    "name": "RCRacer VR",
+    "release_date": "2018-11-30",
+    "developer": [
+        "games.Sharbit"
+    ],
+    "publisher": [
+        "games.Sharbit"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 2,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "RCRacer VR is an action packed radio controlled toy car simulator. Be in the middle of the action as you control your car to victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/977270/header.jpg?t=1544210279",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, or Windows 10 Processor: Intel® i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970 equivalent or greater DirectX: Version 11 Storage: 1 GB available space Additional Notes: Requires VR headset",
+    "recommended_requirements": null,
+    "reviews": []
+}

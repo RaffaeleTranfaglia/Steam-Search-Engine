@@ -1,0 +1,41 @@
+{
+    "app_id": 848780,
+    "name": "Star Tower",
+    "release_date": "2018-05-25",
+    "developer": [
+        "FuzzyCube"
+    ],
+    "publisher": [
+        "FuzzyCube"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 8,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Star Tower is a tower-defense game in three dimensions. Play begins in 2D, but you may also navigate forward and backward, revealing the path to reach greater challenges. Features include nebula obstacles, game-wide upgrades, increasingly difficult bosses, and special one-use powers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/848780/header.jpg?t=1528976577",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 64-bit Processor: Dual core 3Ghz+ Memory: 4 GB RAM Graphics: 512MB Video Memory Storage: 100 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 819220,
+    "name": "Yuso",
+    "release_date": "2018-07-05",
+    "developer": [
+        "Vertical Reach"
+    ],
+    "publisher": [
+        "Vertical Reach"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 25,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 5.99,
+    "description": "Yuso is a puzzle game where you have to clear the screen of Yuso! The game gets harder as you progress, introducing new colours and gadgets to help or harm you along the way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/819220/header.jpg?t=1530811908",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 2 Ghz Dual Core Memory: 2 GB RAM Graphics: Graphics Card supporting DirectX 11 DirectX: Version 11 Storage: 157 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

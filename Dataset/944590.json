@@ -1,0 +1,38 @@
+{
+    "app_id": 944590,
+    "name": "Thunder Kid",
+    "release_date": "2018-10-22",
+    "developer": [
+        "Renegade Sector Games"
+    ],
+    "publisher": [
+        "Renegade Sector Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Sci-fi"
+    ],
+    "achievements": 8,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "Take on the forces of the Robot Empire in this Low-Poly 3D Run 'n' Gun Action Game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/944590/header.jpg?t=1556138652",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

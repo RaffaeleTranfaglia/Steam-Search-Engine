@@ -1,0 +1,36 @@
+{
+    "app_id": 854160,
+    "name": "Dino Dawn",
+    "release_date": "2018-05-11",
+    "developer": [
+        "neonboxgames"
+    ],
+    "publisher": [
+        "neonboxgames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 4,
+    "positive_ratings": 5,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Dino Dawn is a platformer game about adventure of the Dinosaur in which it needs to rescue eggs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/854160/header.jpg?t=1526022856",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel i3 or higher Memory: 512 MB RAM Storage: 180 MB available space Sound Card: compatible",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel i3 or higher Memory: 512 MB RAM Storage: 200 MB available space Sound Card: compatible",
+    "reviews": []
+}

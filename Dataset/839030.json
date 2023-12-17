@@ -1,0 +1,39 @@
+{
+    "app_id": 839030,
+    "name": "Mad Frost",
+    "release_date": "2018-05-14",
+    "developer": [
+        "EyesbergGame"
+    ],
+    "publisher": [
+        "EyesbergGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Design & Illustration"
+    ],
+    "achievements": 21,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Welcome to the world sketched on squared paper. The world full of adventures and unexpected meetings. Holidays are just around the corner! And our hero is waiting for them so much. But everything is not as simple as it seems...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/839030/header.jpg?t=1548450854",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: 1.7 GHz Dual Core Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 260 DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: OpenGL 3 with GLSL version 1.3",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo at 2.2 GHz Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 460 DirectX: Version 11 Storage: 3 GB available space Additional Notes: OpenGL 3 with GLSL version 1.3",
+    "reviews": []
+}

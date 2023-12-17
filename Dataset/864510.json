@@ -1,0 +1,39 @@
+{
+    "app_id": 864510,
+    "name": "Scud Frenzy",
+    "release_date": "2018-06-08",
+    "developer": [
+        "Windybeard"
+    ],
+    "publisher": [
+        "Windybeard"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 19,
+    "positive_ratings": 24,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Scud Frenzy, the Biggest Game Show in the Cosmos, brings you a fast paced eight-directional shooter about destruction, chaos, rewards and high-scores.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/864510/header.jpg?t=1528750333",
+    "minimum_requirements": "OS: Windows 7 (or Higher) Processor: Dual-core from Intel or AMD at 2.0 GHz Memory: 4 GB RAM Graphics: Videocard with at least 512MB DirectX: Version 11 Storage: 150 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

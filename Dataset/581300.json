@@ -1,0 +1,41 @@
+{
+    "app_id": 581300,
+    "name": "Black Mirror",
+    "release_date": "2017-11-28",
+    "developer": [
+        "KING Art"
+    ],
+    "publisher": [
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Violent",
+        "Horror"
+    ],
+    "achievements": 21,
+    "positive_ratings": 113,
+    "negative_ratings": 130,
+    "price": 24.99,
+    "description": "Scotland, 1926. Following the death of his father, David Gordon visits his ancestral home for the first time in his life. A life that is soon threatened by the dark secrets that claimed the sanity of many Gordons before him. Black Mirror Castle demands an offering.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/581300/header.jpg?t=1534404742",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Window 7, 8, 8.1, 10 (64bit) Processor: Intel Q9650 / AMD Phenom II X4 940 Memory: 8 GB RAM Graphics: GeForce GTX660 / Radeon 7870 - 2GB VRAM DirectX: Version 11 Storage: 11 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Window 7, 8, 8.1, 10 (64bit) Processor: Intel Core i7 3770 3,9 Ghz / AMD FX-8350 4 GHz Memory: 8 GB RAM Graphics: GeForce GTX960 / Radeon R9 290 - 4GB VRAM DirectX: Version 11 Storage: 11 GB available space",
+    "reviews": []
+}

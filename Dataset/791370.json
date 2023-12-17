@@ -1,0 +1,38 @@
+{
+    "app_id": 791370,
+    "name": "Xploquest 2",
+    "release_date": "2018-02-20",
+    "developer": [
+        "Jean-Sébastien Nouveau"
+    ],
+    "publisher": [
+        "33 Production"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Xploquest 2 is a tiled based role-playing game based on the exploration and management of your character, which takes place in an open world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/791370/header.jpg?t=1519566584",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Memory: 2 GB RAM Storage: 20 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

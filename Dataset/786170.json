@@ -1,0 +1,42 @@
+{
+    "app_id": 786170,
+    "name": "Bomb Bay",
+    "release_date": "2018-02-11",
+    "developer": [
+        "Jake Waggoner"
+    ],
+    "publisher": [
+        "Jake Waggoner"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Bomb Bay is a new single player game that takes the player into many different and unique settings with the task of arming explosive devices on enemy payloads. You are all alone, with nothing but your mind, your weaponry, and your mission.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786170/header.jpg?t=1518376724",
+    "minimum_requirements": "OS: Windows 7 or Higher Processor: Intel Celeron CPU N3050 1.60Hz Memory: 4 GB RAM Graphics: Intel HD Graphics Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7 or Higher Processor: Intel i5 7200U Memory: 8 GB RAM Graphics: NVIDIA GeForce 940MX Storage: 3 GB available space",
+    "reviews": []
+}

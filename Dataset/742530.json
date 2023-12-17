@@ -1,0 +1,40 @@
+{
+    "app_id": 742530,
+    "name": "Roguemance",
+    "release_date": "2018-02-14",
+    "developer": [
+        "Lucas Molina"
+    ],
+    "publisher": [
+        "Lucas Molina"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 30,
+    "negative_ratings": 7,
+    "price": 4.99,
+    "description": "Roguemance is a roguelite with romance. Each battle is a date! Meet love interests, fight relationship problems and make heart-breaking decisions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/742530/header.jpg?t=1519564762",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 2 GHz Memory: 1 GB RAM Graphics: 1280x720 minimum resolution, OpenGL 2.0 Support, and recommended dedicated graphics card with 128 MB of RAM Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

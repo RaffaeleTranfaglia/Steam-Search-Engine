@@ -1,0 +1,46 @@
+{
+    "app_id": 680360,
+    "name": "Regions Of Ruin",
+    "release_date": "2018-02-05",
+    "developer": [
+        "Vox Games"
+    ],
+    "publisher": [
+        "Poysky Productions"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 1090,
+    "negative_ratings": 175,
+    "price": 10.99,
+    "description": "Regions of Ruin is a 2D pixel side-scrolling RPG with town-building, where you explore, fight and build into an open world that progressively challenges you and your settlement, and threatens the extinction of the dwarven race.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/680360/header.jpg?t=1554382176",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: 1 GHZ intel core I5 Оперативная память: 512 MB ОЗУ Видеокарта: Nvidia or Amd above 512 MB dedicated DirectX: Версии 9.0c Место на диске: 900 MB Звуковая карта: Anything that works",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 777400,
+    "name": "Ultimate Spider Hero",
+    "release_date": "2018-01-26",
+    "developer": [
+        "For Kids"
+    ],
+    "publisher": [
+        "For Kids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 3600,
+    "positive_ratings": 29,
+    "negative_ratings": 14,
+    "price": 1.69,
+    "description": "Ultimate Spider Hero is a unique arcade game in which you have to move around the Metropolis in the role of super Spider hero!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777400/header.jpg?t=1516982077",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space Sound Card: any",
+    "reviews": []
+}

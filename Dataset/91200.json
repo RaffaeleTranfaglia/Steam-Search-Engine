@@ -1,0 +1,565 @@
+{
+    "app_id": 91200,
+    "name": "Anomaly: Warzone Earth",
+    "release_date": "2011-04-08",
+    "developer": [
+        "11 bit studios"
+    ],
+    "publisher": [
+        "11 bit studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Tower Defense"
+    ],
+    "achievements": 42,
+    "positive_ratings": 3300,
+    "negative_ratings": 481,
+    "price": 7.99,
+    "description": "Lead an armored squad through the perils of this reversed tower defense action-strategy game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/91200/header.jpg?t=1549526729",
+    "minimum_requirements": "OS: Microsoft Windows XP SP2/Microsoft Windows Vista/Microsoft Windows 7 Processor: Intel Pentium 4 2.4GHz or AMD Athlon 64 +2800 Memory: 1 GB RAM Graphics: NVIDIA GeForce 7600 / ATI Radeon X1800 or equivalent DirectX®: 9.0c Hard Drive: 1 GB Sound: DirectX 9.0c compliant soundcard",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Blending fast-paced, explosive action with а tactical battlefield command, Anomaly puts players in charge of a military convoy tasked with fighting back against the mysterious alien war machines that have begun to spring up in many of the world's largest cities. Players take part in battles personally to support and assist a hand-picked armor squad, utilizing their top-down tactical view to plot each and every turn of the convoy. As they progress through the story campaign and challenge modes, players will unlock upgrades and new units to build their ultimate destruction squad. I had no idea this would actually be all that entertaining. I'm a big fan of tower defense games, and this is a pretty good example of it flipped over. The graphics are very nice, the only other TD game. The game is beautifully voiced. Has a typical, yet working storyline. The mechanics are very dynamic, fast-paced, yet easy to learn. The game is just pure fun, it is unique in its approach to tower defense, and intermixing strategy allowing you to determine the step you think is best suited for the situation at hand, great action. Really worth the time!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  “Strategy requires thought, tactics require observation.”    Anomaly: Warzone Earth (A:WE) is a hybrid reversed tower defense simulation crossed with a real-time strategy game developed by the company 11 bit studios with emphasis on combat and tactics.    Atmosphere &amp; presentation:    + Creative gameplay concept, where the player leads his attacking units through static towers. + Impressive balance between strategy and action keeps up the motivation.  + Well-done art direction and particle effects.  o Solid background music. o Alien design is rather playful.    Combat &amp; gameplay:    + Player escorts his convoy with an on-foot commander, who can collect and deploy tactical power-ups. + Coordination of the units, scouting out positions and deploying resources create a dynamic gameplay. + Strategic elements in form of route planning, convoy make-up and order of units. + Units can be upgraded up to three times increasing their effectiveness. + Additional spawning of enemy towers keeps the player on edge. + Challenging end boss fight.   o Column of vehicles is limited to six units. o Game speed can be adjusted.   - Only six different models of enemy towers.    Characters &amp; story:    + Original background story.  o Solid voice work.  - Limited identification of the player with the protagonist.    Summary:    11 bit studios succeeds in reinterpreting the traditional concept of tower defense games. A:WE offers a lot of fun in trying to make the most efficient routes, that could cause greatest amount of devastation while minimizing both exposure and travel time.    Achievements:    Estimated time for 100 % completion: +20 hours  Singleplayer achievements: 42 Multiplayer achievements: none    Chronology:    Anomaly Defenders (PC) Tower defense simulation + real-time strategy (Action + Science-Fiction) - 2014  Anomaly 2 (PC) Reversed tower defense simulation + real-time strategy  (Action + Science-Fiction) - 2013  Anomaly Korea (PC)  Reversed tower defense simulation + real-time strategy  (Action + Science-Fiction) - 2012  Anomaly: Warzone Earth (PC)  Reversed tower defense simulation + real-time strategy  (Action + Science-Fiction) - 2011",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When I got the game I had some doubts about its general quality. Graphics are really good for what I was expecting. Storyline could be a bit more engaging, but even if you skip the scenes you still get an idea on what's going on. There's a good variety of vehicles and each one has its own purpose and speciality.  Unlike others are saying, the game is not boring. If you feel like you want to speed it up a bit you can just press  shift  and let it flow.   10/10    It's a fresh and great looking game on the scene. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't really explain how well this game play. To me it's a classic.   Go spend a few hours in the campaign. It's up to you to find out if the style is right... Im still giving this one a spin from time to time mostly playing 'Tokyo Raid' with different setups. Sadly the replayability is non-present in Anomy 2 since multiplayer sucks... Would still buy Anomaly 2 just for the campaign (it just don't have equal replayabilty ratio for the $).   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't really have a lot to say about this game. It's not that bad for a strategy game yet pretty entertaining at times.   Rating: 7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best tower defence games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game years ago at Gamers gate, but the bundle on Steam of all of the ANOMALY series was so cool, I bought this game again, and I'm glad I did!  Replaying this game is just as exciting as it was years ago! Thumbs up! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got it free so what. xD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't play many indie games but this one is just awesome, lots of micromanagement skills are needed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is really cool! It reminds me of a TD, but instead of placing the towers you control the attackers!! Very polished and awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great inversed tower-defense",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game likes to crash. Atleast 1 time on each misson so it gets a bit annoying to restart the computer and start over the misson",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "so i imediatly started out on hardcore you know cause im billy badass at strategy games and i have to say i love how you control your units along with the map overlay and the healing specs its pretty damn fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Failed to start in Linux Mint 18 (Sarah).  Able to start the splash screen, after that it takes ages to load the game with a spinner on screen. Never try it in Windows environment yet.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pros; +Good graphics +somewhat okay upgrades for your little army +meh story  Cons;  -something is missing which i can't say what...  if you have time and if you want to try something different, give it a go.!  5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like warfare, SF and some commandling mixed into one game, its purely made for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game! Free at GamesRepublic",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Anomaly takes a different approach on the tower defense genre, swapping the roles so the player is the attacking party and the CPU controls the towers. The game is well-balanced and can be very challeging from beginning to end so you need to plan your strategy carefully using the various units and abilities at your disposal. It's a solid and fun experience, great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my favourite games, never liked platform games but this one is different.!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm sure most of you guys are familiar with the term 'tower defense'. It's a game where you build and upgrade towers to defeat waves of enemies and, later on, bosses trying to destroy your [insert something random here like a base or village]. If you've seen one of them you've seen pretty much all of them. Not this one though. This one is different. It's a reverse-tower defense title, meaning you have to run with an actual character and guide your tanks across a city. Along the way alien towers spawn on the sides of the road and it's up to you to change your formation, help them out yourself with dropping small nukes and smoke bombs and create a safe path using a virtual map of the city. It's actually quite refreshing and I suggest to anyone who loves TD games (like I do) to buy and try.  [Rating: 85/100]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting game :) but not from very funniest.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "123456",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a birds eye view strategy game, not too fond of this but it was free! 4/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My first Contact with this amazing Series was on Android while i got the game for Free. The PC version is not like the mobil Version but there is also both Version´s Aviable for PC! The Story of The game is great and it always give you a bit of the Story and don´t let you wait for more of the Plot. The Performance is great and i never had any problems with my High End System! This game was given by some Website 4 Free so i wanted to Check out the PC Version, if you can´t get it for Free it worth the Money!   Here is now a small list how i would give points for the game in each categorie:  Gameplay: 9/10 (Runs so fine but can be harsh if you do wrong things)  Graphics: 8/10 (Looks Beautiful)  Support: 0/10 (Never needed so leave it out of Rating)  Price: 7/10 (10€ are to much wait for a Sale)  Story: 8/10 (The Story will drive you to complete it and there are Bonus Levels you Unlock with Campain!)  Sound: 8/10 (Great Effect, Music.)  Performance: 10/10 (Never had any Problem)  FAZIT: 8.3/10 (A great yet short Game!)",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Anomaly - Warzone Earth",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the RTS game where you must control and watched your team every move.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First game of it's kind I've every played. It starts off slow in my opinion, but later on it shows its strength. A very fun game to learn and play, I recommend it for sure.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a tower defense, where you destroy towers instead of making them (reverse tower defense ? maybe)  babysitting slow moving armored machines -slow game-  Anomaly warzone sound like a bad Jason Statham movie (its not really him).  Anyway ,dont buy this game , you can still recomend it to fat people with no interest in speed  yes it have card !,   and yes you will be bored !  and no you wont have your money back !",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Inverse tower defense game. You control the attackers. The first few missions are a slog.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A reverse tower defense game. Your goal is to navigate a convoy of vehicles which help you fight off enemy turrets. You're also given abilities to defend and attack. Not especially memorable, but still a decent game.  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I encountered a glitch in the first level and couldn't continue. I'm not paying for games to be a beta tester. Controls are also irritating.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice twist on the typical tower defense game where the AI controls the towers.   Aliens have invaded and your job, as an army commander, is to lead your troops to destroy the alien's towers. Along the way you rescue people, unlock new weapons and upgrade your troops.   There is so much to do in this game after the main storyline. Definitely a must buy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  97 mins of pure fun. Recommended to all TD fanbois. &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game offers a good challenge and keeps entertaining trough all the gameplay.  I played much more hours on android than on steam. I may have more than 10 hours of game.  The android version is better, in my opinion. It doesn't have the 'commander', who seems to be unnecessary for me.  Anyway, I love the way the game switched sides of the classic tower defense games.  The only thing I didn't liked (but that isn't much of a deal) is the fact that I found a squad formation that managed to beat all levels on the hardest difficulty. What I mean is that the game doesn't make you find new ways to play. You may play always the same way and still get trough. This doesn't mean the game gets boring, although.  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game. It is short but it has enough for the price. It has some shortcomings like the controls and mission brief, but it is enjoyable and has a variety of levels and modes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a very nice game, it is a reversed tower defense and it is fun and challenging!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's tower defendan... BUT IN REVERSE! WHOOOOOAAAAAAAAAAAAAAAAAA",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it looks like a port from games made for tablet. nothing much to do. frankly it is not motivating me to go back ot it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Awesome top down strategy game and I don't normally like startegy games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, to be honnest i have played it a bit therefore it would be worth it on a sale, unfourntly i didn't get it on sale.   Pros.  Good idea, fun to play but gets reptivitve like all tower defence games.  Cons.  Quite challangeing and hard to get into once you have played it once.  Sorry for my speeling, also if its on sale get it, also check out videos before you buy!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got This Game For Free. It is pretty decent, nice graphic, a inversed tower defense. Upgrades, lives, diferent missions, you must pe a good player to beat some levels. Preety decent game 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice one &lt;3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very fun. I think it's contrary to the tower-defense game style. I like it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reverse tower defense. Meh. Got incredibly boring in less than 2 hours.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "★ ★ ★ ☆ ☆",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would pay money for this game to not show up in my game list.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "anomaly what?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'd never heard of this game before the Steam sale, and it was well worth buying. Quite fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, i never played any game remotely closed to this but i can say that the developers did an awesome job.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  DISCLAIMER: This is a first impressions review, and NOT a full review, if you want a full review, then please read better reviews then mine",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very nice game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nicely done game from a technical standpoint, but a few long standing bugs exist on the linux port. Being a linux only play for the past year or so this is a big disappointment. It is a new take on tower defense games, and fun at first, but I am seeing what others have said after only a few hours, it can get tedious and old quickly.  No major complaints, but overall I can't see my way to recommending this one unless you're getting a great deal on it. Not worth full price to me (currently $9.99 USD)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Really nice analog of Tower Defense. 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It has cards",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun game, nice futuristic war fps, very nic3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great new concept for tower defence games - you're the attacker instead of the defender. I'd like to see more games like this (not just anomaly games - anti tower defence games). The game itself is fairly good, but the concept is awesome. Definately worth playing if you like tower defence - see what it's like from the other side. Well worth the money as it's hours of fun, especially on long trips without a good computer. ;) It's also available for android. I'd much prefer it on a tablet than a computer, as it's very much a travel game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Your are the creeps in this reverse tower defense game, bougth it a couple of days from release and i played until the end of the campaign. if you cant get enough of this, the 2 assualt mode will surely test your tower defense strategies",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In tower defense you defend against enemies using tower based weapons. Here you take the role of the 'enemy' as the enemy towers try to stop you from reaching your goals.  1. Use your one and only hero unit to collect scattered goodies for more points. 2. Spend points to purchase vehicles. Vehicles are upgradeable. 3. Repair, heal and shield your units on the fly using up to 4 power ups. These power ups can be picked up from battle zone. 4. Reach your objective using proper control and timing of movement of your units using fluid guiding system.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A different take on the tower defence genre. This time YOU are the convoy and have to make it through the tower defences. Nice idea, decent story, difficulty ramps up well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is nice, and it's a fun thing to play when you're bored or waiting for some other game to download or whatever. It's kinda like a tower defense game, except this time it's YOU who is attacking the towers. The storyline is not very well designed and I don't feel like I'm playing a campaign. It does become hard at points, but if you like a challenge you'll like Anomaly: Warzone Earth.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good but it's no Xcom. It's fun and the graphics are nice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good and polished game. Worth its price. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I don't like tower defense games and a friend said I should try this one, because it's a reverse tower defense - you're trying to get through the enemies defense instead of setting it up. You have to protect your convoy as you navigate through an alien invaded world by tactically aligning your vehicles/survivors and using your special abilities and reinforcements to survive. It's a neat idea, but not my thing. If you like tower defense games, and/or are burning out on them then give this a try, it also has more story than most TD games. If you don't like TD style games then this won't make you a convert.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a good game.I recommend you buy and play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "super game....... highly recomended for the fans of strategy and tower defense games.... good invesment...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game does not work on Linux (Ubuntu 15.04) at all. Launches but never loads. Others have had this issue for a while with no fix.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "85/100",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really boring and dull",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game itself is good. but it does not works on Linux.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably one of a kind game. You'll never find any tower offense game like anomaly series. It's really fun yet challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good sci-fi tower defence , give it a try",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got the game for next to nothing. If you can to then you'll get a couple of hours play from it. Can't argue with that",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tower offense is a novel idea, but ultimately it just doesn't work well. Go play Defense Grid instead.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Really great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fairly boring and mundane reverse tower defense game. Pass on it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of the best Steam deals I have ever bought! If you ever wanted to be in the receiving end in a tower defense game, then this is the one to buy. Its concept and challenge drove me to accomplish many of it's in-game achievements without frustrations.  I enjoyed every defeat and I savored every victory. It is a very rewarding game and surprisingly well polished. Hey, there's even superb voice-acting!  Its execution in its game-play is to be admired. I've played for over 15 hours and I still want more! Anomaly 2, here I come!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i bought this game expecting an animal warzone. like pigs and stuff   not anomaly",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game provides quite a piece of action. But, in the same way, it's not so hard to play. Moderate reaction is all what you need.  I approve!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like Tower Defense-esque games, try it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Anomaly: Warzone Earth is a reverse tower defense game. What does that mean? Well, you aren't defending, but you play as attacker. You can build a squad with up to 6 vehicles. Later in the game you also have 6 different types of vehicles you can choose from. The defender also have different towers (normal, aoe etc.) and you can set different routes so that you can avoid certain areas (with many towers). You can also control a commander and he's incredible important as he can repair you vehicles, throw smoke or decoy grenades and even nuke towers. Even after the story mode (4-5 hours long) you can still play some challenging levels. tl,dr: I can recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very original, interesting gameplay, well balanced. I've spend a really good time playing this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My computer fullfils the requirements (3.2 GHz Core i3, GTX 660, 4&nbsp;GB of RAM) but the game does not even launch. If you check the forums you’ll see that people have been complaining about that since march 2013! This seems to be only a problem under Linux but some people also have troubles with other operating systems. And not a word from the developers/publishers.  To be able to write this review I had to replace the game executable with a bash script that waits 5 minutes. I wonder how many more negative reviews there would be if Steam didn’t have this 5 minutes of play time requirement to write reviews…",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun take on classic TD, except now your on the receiving end of the towers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very addictive strategy-tower OFFENSE game, it's short but with a lot of replayability and a few game modes. The visuals and effects are fantastic and gameplay very easy to pick up. You command a line of vehicle units along a path you manipulate through a maze of enemy towers with varying abilities. Could be a bit longer, and occasionally difficult, there are a variety of difficulty settings to get through and enjoy it for any skill level. 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unexpectedly awesome reverse Tower Defense. I also like how there are extra missions/modes and also a big thumbs up for how the Android version differentiates itself from the PC version through interface and missions.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great strategy game - like a reverse tower defence",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's possible to renew a gameplay that it has been used to the death like Tower Defense? Anomaly says yes.  Not only it puts you at the attacking side, but also it gives you the chance to select the paths that your units will move, and four special skills which their wise use are decisive in order to beat the mission. And even if this changes looks enough, it also brings to you a decent story that, although uses the classic topic of Aliens Vs Humans, it doesn't have any flaws.  If you are searching a good strategy game, you should get this. In fact, I feel bad, because I got it as a free game for liking a Facebook page, and I thought it was just a 'meh game', until I tested it a week ago.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great TD.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a fun and well made twist on the TD genre. There's an android spinoff too that I really enjoyed, check it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Anomaly: Warzone Earth is a decent escort mission based game. An alien invasion has taken over the planet and this select British team is here to save the world. The player controls a commander who is on foot and escorts a squad of up to six vehicles and helps defend them while taking out the enemy. The vehicles are the primary offense against the horde of alien turrets blocking their path. The commander can utilize four different abilities which include a decoy, smokescreen, healing, and an air strike, however you must collect tokens to enable those abilities and are typically given a small stash before each mission begins. The abilities are stackable so you can place as many as you want provided you have enough tokens. He can also purchase additional vehicles using money collected by destroying turrets or shooting crystals. Vehicle position and route planning are vital and can be managed while the action is paused. Each vehicle also has three upgrade points that cost money which give it more offensive punch plus additional armor.  It is a short game of about 4-5 hours. It offers two primary campaigns and a final boss battle. There are also a couple extra missions beyond the story mode. It is a solid game that doesn't offer a whole lot of depth, but it's simplicity is one of it's major strengths. It's a nice spin on the traditional tower defense genre that could open the door for better games of this type in the future.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reverse tower defense. One of the best TD based games I recently played. You can buy units, upgrade them, heal them and the best of all, you have a hero that controls most of the things. Set your path and dodge towers. Anomaly: Warzone Earth, a must have in the collection of every tower-defense fan.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A cool, original take on the tower defense genre. Their isn't really another game like it. Instead of building towers, you build a small convoy and support them while they break through the enemy tower defense. Every level adds something new and objectives are varied keeping it interesting. Two thumbs up for a nice little indie game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I liked Anomaly although I got stuck too early in the game xD 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Surprisingly good &amp; polished take on the tower defense genre.  Hoping for a sequel!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting alternate take on tower defense. I've been meaning to spend more time on this since I picked it up during the steam sale awhile back.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Definitly an alternative to take into account for the lovers of tower defense. The twist on the genre makes it a great purchase",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is awesome.. very beautiful gameplay for me ^_^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting and unique take on the 'tower defense' genre. Definately worth a few hours here and there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Prima game. Anomaly tells a good story, augmented by its smart sense of place. I have god fun. Lots of satisfying explosions when you destroy alien defenses.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "not the best game in the world but still worth playing ^^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good game! And really wish the story to be longer! Nice idea, grapnics and extraordinary gameplay!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a tad grindy at times but fun enough to warrant a play through",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Versy nice gaem, Gaben approves, ya!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Anomaly tells a good story, augmented by its smart sense of place. The use of color is visually arresting, making already good-looking graphics pop. Map view is clean and easy-to-use. The dialog could use a little tuning, but the soundtrack is quite good. Lots of satisfying explosions when you destroy alien defenses.  Anomaly is a smart twist of tower defense, giving it enough action so you never feel like you can coast through a wave of aliens. Great balancing on each difficulty level.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "nice game, good back sound make me feels the difference",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great tower defense game where you play for the side which is destroying the towers, could be a bit more complex and longer though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An interesting idea. Has some frustrating points, but nothing that a little persistence can't overcome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "like this game... have this on my iphone too",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its good!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a very original spin on the reverse tower defense sub-genre, buy, support and plan routes for your vehicles to safely complete the given objectives.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reverse tower defense is more fun than 'regular' tower defense, got this game for free to farm the cards but it's actually an addictive game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid game and intuitive twist to tower defence. Tower offense has proven to be a nice way to play with the same 'feel-good' rush you get when you upgrade a new unit and then take down an enemy with it. If you like tower defense or Defense Grid: Awakening, you have to download the demo of this and then buy it. The music adds punch to each map and is used to create tension rather than annoy. It's well-composed enough to even be easily ignored so you can concentrate on keeping that shield generator up. The unit variance is perfectly balanced so that you don't have too many, and the resource acquisition is paced well enough so you never feel like your being short-changed (on casual). There are three modes; casual, advanced and hardcore. I'm not sure what they do to scale the difficulty, but it could be anything from tapering the resupplies to raising the damage done by enemy towers. It's a great title that you can just pick up and play for 10 minutes and have a good time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good Free game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i dont know who is the soldier encounter, i thinks is alien, or its just a monkey. good game, and good graphic. you right for wasting yours money for this game (LOL). ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "11/10 IGN -  Not enough Anomalies.  Too much earth.  'Over use of the A button'",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "10/10 one of my most favorite game ever",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The reverse tower defense genre may strike you as odd, but it WORKS. I love this game! Wish they made more of them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing tower defense game with interesting and cool backgrounds but not sure if worth $10. I only recommend this game if you can get a discount on it don't buy it while it's $10 because it's not really worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Reverse Tower defence. You set the path for your convoy and drive to kill towers. This game is well polished and it seems that the devs had enaugh time to make this game as good as possible.   8,8/10  Pro -good gameplay -surprisingly good story (for a tower defence game) -good atmosphere -suitable for hardcore players and casuals  -many small ways to min/max/tweak for hardcore players -good music and voiceover -online ranking system ( I made it to the top 1000 players, beat that) -2x speed button -good learning curve -replayable mission with good design (allways something new in every mission) -skirmish modes  Cons -only 6 different units -no expensive cgi cutscenes",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i gave it a negative way back but i have got more interest in strat games now so i would say 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great tower-defense game with some decent graphics. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Crashes on Bootup Sometimes. Feels like a job, not a game. Maybe that's a good thing to a lot of players ?  Interesting and different, but not for everyone. Watch the youtubes before you purchase.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun slow-paced reverse tower defense style game. Extremely intuitive interface and controls. Dialoge is a little cheesy, but the gameplay makes up for that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Eh, it's ok.",
+            "review_score": "1"
+        }
+    ]
+}

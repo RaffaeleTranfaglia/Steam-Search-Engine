@@ -1,0 +1,47 @@
+{
+    "app_id": 682180,
+    "name": "Tile Battle",
+    "release_date": "2018-04-04",
+    "developer": [
+        "Masterstrike",
+        "LadrikDev"
+    ],
+    "publisher": [
+        "Masterstrike"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 5.79,
+    "description": "A local multiplayer mix inspired by Warcraft III and Lemmings. Play with factions, spells and tiles to outwit your friends in this chaotic new take on the RTS genre.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/682180/header.jpg?t=1522830109",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core™ Duo or faster Memory: 4 GB RAM Graphics: OpenGL 3.0 compliant video card Storage: 1 GB available space Additional Notes: A gamepad is required for each player. One player can use mouse and keyboard.",
+    "recommended_requirements": null,
+    "reviews": []
+}

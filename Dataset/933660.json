@@ -1,0 +1,36 @@
+{
+    "app_id": 933660,
+    "name": "In Memory",
+    "release_date": "2018-10-11",
+    "developer": [
+        "BLAV"
+    ],
+    "publisher": [
+        "BLAV"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "VR",
+        "Story Rich"
+    ],
+    "achievements": 1,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "Step into the memories of a prisoner of war and let the story unfold.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/933660/header.jpg?t=1550743105",
+    "minimum_requirements": "OS: Windows™ 7 SP1, Windows™ 8.1 or later or Windows™ 10 Processor: Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce™ GTX 1060 or AMD Radeon™ RX 480, equivalent or better DirectX: Version 12 Storage: 1200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

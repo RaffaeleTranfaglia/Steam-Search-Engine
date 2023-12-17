@@ -1,0 +1,38 @@
+{
+    "app_id": 764390,
+    "name": "Synced Warriors",
+    "release_date": "2018-01-17",
+    "developer": [
+        "Zack Garrett"
+    ],
+    "publisher": [
+        "TallShrimp"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Synced Warriors is a puzzle game where each button press controls all of the characters on the screen at the same time. You must navigate them to different locations while killing off the extra warriors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/764390/header.jpg?t=1516196249",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities",
+    "recommended_requirements": null,
+    "reviews": []
+}

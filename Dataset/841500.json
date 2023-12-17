@@ -1,0 +1,43 @@
+{
+    "app_id": 841500,
+    "name": "Sheep Game",
+    "release_date": "2018-04-27",
+    "developer": [
+        "David Lewis"
+    ],
+    "publisher": [
+        "David Lewis"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 21,
+    "negative_ratings": 8,
+    "price": 0.0,
+    "description": "Sheep Game is a couch based multiplayer game best played with two or more people. Go grab your friends and challenge them to some fast and frenzied sheep herding.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/841500/header.jpg?t=1525864781",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: 2.7 GHz Processor Memory: 4 GB RAM Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

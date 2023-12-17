@@ -1,0 +1,42 @@
+{
+    "app_id": 436260,
+    "name": "Ultimate Arena",
+    "release_date": "2016-09-05",
+    "developer": [
+        "Kenneth Caselli",
+        "Gianmarco Rocco"
+    ],
+    "publisher": [
+        "AceGamer Network"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "FPS"
+    ],
+    "achievements": 1,
+    "positive_ratings": 123,
+    "negative_ratings": 100,
+    "price": 13.99,
+    "description": "Ultimate Arena is a competitive first person shooter arena game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/436260/header.jpg?t=1531764626",
+    "minimum_requirements": "OS: Windows 7/8/10 64-bit Processor: Dual-core Intel or AMD processor, 2.5 GHz or faster Memory: 4 GB RAM Graphics: DirectX 10 compatible GPU DirectX: Version 10 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 64-bit Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA GeForce 660 GTX DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

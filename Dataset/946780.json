@@ -1,0 +1,41 @@
+{
+    "app_id": 946780,
+    "name": "MOMO.EXE 2",
+    "release_date": "2018-10-05",
+    "developer": [
+        "Dymchick1"
+    ],
+    "publisher": [
+        "Dymchick1"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 28,
+    "positive_ratings": 36,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "You have to make a deal with Momo to do the work for the boss. What will Momo ask in return?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946780/header.jpg?t=1540027274",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (x64) Processor: Dual core from Intel or AMD at 2.0 GHz Memory: 4 GB RAM Graphics: nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 Storage: 600 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

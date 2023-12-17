@@ -1,0 +1,40 @@
+{
+    "app_id": 798790,
+    "name": "PolyCube",
+    "release_date": "2018-11-19",
+    "developer": [
+        "{COMPANY_NAME_GOES_HERE}"
+    ],
+    "publisher": [
+        "{COMPANY_NAME_GOES_HERE}"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 23,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "PolyCube is a block-stacking puzzle game in full 3D, with optional VR support. Move and spin your block pieces in all directions to place them in the puzzle before time is up and the piece drops.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/798790/header.jpg?t=1556251072",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64-bit) Processor: Intel Atom 1.33Ghz or better Memory: 2 GB RAM Graphics: Intel HD Graphics or better DirectX: Version 9.0 Storage: 250 MB available space Additional Notes: VR mode requires that your system meet the minimum requirements for your VR headset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (64-bit) Processor: Intel Core i3 or better Memory: 4 GB RAM Graphics: GeForce GTS 450 or better DirectX: Version 11 Storage: 250 MB available space",
+    "reviews": []
+}

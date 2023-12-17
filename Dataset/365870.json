@@ -1,0 +1,47 @@
+{
+    "app_id": 365870,
+    "name": "Below Kryll",
+    "release_date": "2015-09-07",
+    "developer": [
+        "Team Kryll"
+    ],
+    "publisher": [
+        "Team Kryll"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 34,
+    "positive_ratings": 81,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "Be a true explorer! Explore hundreds of hours of hand crafted content while getting constantly stronger and learning new abilities on the way. Features one truly immense world that is constantly expanded by players and developers alike. What gem of a creation you will uncover just around the corner?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/365870/header.jpg?t=1447373239",
+    "minimum_requirements": "OS: Windows XP Memory: 1 GB RAM Network: Broadband Internet connection Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 1 GB RAM Network: Broadband Internet connection Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "TL;DR  - A shovelknight-esque pixel action RPG.  - Community created levels and artistic content like music / art. - Fun progression (so far)  This game has huge potential, I'm excited to see how it grows.",
+            "review_score": "1"
+        }
+    ]
+}

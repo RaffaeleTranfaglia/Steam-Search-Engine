@@ -1,0 +1,39 @@
+{
+    "app_id": 1048040,
+    "name": "Exosphere",
+    "release_date": "2019-04-06",
+    "developer": [
+        "Velikan"
+    ],
+    "publisher": [
+        "Velikan"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "Shoot, jump &amp; bounce your way into the outer layer of the atmosphere!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1048040/header.jpg?t=1554564885",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Graphics: Graphics card with DX10 (shader model 4.0) capabilities DirectX: Version 10 Storage: 201 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

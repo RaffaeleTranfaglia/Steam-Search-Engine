@@ -1,0 +1,35 @@
+{
+    "app_id": 656910,
+    "name": "Space Hit",
+    "release_date": "2017-06-30",
+    "developer": [
+        "Artur Rezende"
+    ],
+    "publisher": [
+        "Artur Rezende"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "On SPACE HIT you finished your space mission, and it's just time to come back home, but your journey will not be so easy as you think...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656910/header.jpg?t=1500346234",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 64 bits Processor: Dual core Memory: 2 GB RAM Graphics: 512mb dedicated, Compatible with Open GL 2.1 DirectX: Version 9.0c Storage: 250 MB available space Sound Card: any",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bits Processor: i5 Memory: 4 GB RAM DirectX: Version 11 Storage: 250 MB available space Sound Card: any",
+    "reviews": []
+}

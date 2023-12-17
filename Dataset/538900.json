@@ -1,0 +1,38 @@
+{
+    "app_id": 538900,
+    "name": "ZIQ",
+    "release_date": "2018-08-01",
+    "developer": [
+        "Midnight Sea Studios"
+    ],
+    "publisher": [
+        "3D Realms"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie"
+    ],
+    "achievements": 31,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 7.99,
+    "description": "Run, dodge, jump, pull pickups, switch polarity and die constantly! You get to do all this while being heckled for your constant mistakes! &quot;ZIQ&quot; is an arcade runner that features polarity-switching gameplay. Switch ZIQ's polarity to make it safely past obstacles or in some cases destroy them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/538900/header.jpg?t=1533130516",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 or equivalent Memory: 4 GB RAM Graphics: Radeon RX 480 DirectX: Version 9.0c Storage: 1 GB available space Sound Card: Any sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5 or equivalent Memory: 6 GB RAM Graphics: GTX 570 DirectX: Version 10 Storage: 1 GB available space Sound Card: Any sound card",
+    "reviews": []
+}

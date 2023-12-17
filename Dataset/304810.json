@@ -1,0 +1,36 @@
+{
+    "app_id": 304810,
+    "name": "TesserAct",
+    "release_date": "2014-10-24",
+    "developer": [
+        "Propelled Bird Software"
+    ],
+    "publisher": [
+        "Propelled Bird Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Female Protagonist"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 9,
+    "price": 10.99,
+    "description": "Sam Tanner finds herself inside a strange facility, where she discovers a device that can bend physics: the Catalyst. With the Catalyst, she must navigate the ruins of the facility, and hopefully find a way back home.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/304810/header.jpg?t=1447362081",
+    "minimum_requirements": "OS: Windows XP (SP3), Windows Vista (SP2), or Windows 7 Processor: Intel Core 2 Duo, AMD Athlon X2, or equivalent, running at 1.6 GHz or greater Memory: 1.5 GB RAM Graphics: DirectX 9.0c compatible, 256 MB of VRAM; NVIDIA GeForce 7600 GS, ATI Radeon HD 2400 Pro 256 MB, or greater DirectX: Version 9.0c Storage: 2 GB available space Sound Card: DirectX 9.0c compatible, 16-bit",
+    "recommended_requirements": "OS: Windows Vista (SP2), or Windows 7 Processor: QuadCore 2.0 GHz Memory: 2 GB RAM Graphics: DirectX 9.0c compatible, 512MB of VRAM; NVIDIA GeForce GTX260, or ATI Radeon 4870",
+    "reviews": []
+}

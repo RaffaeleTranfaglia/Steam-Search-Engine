@@ -1,0 +1,41 @@
+{
+    "app_id": 718330,
+    "name": "Cubic",
+    "release_date": "2017-10-09",
+    "developer": [
+        "Mikhail Melnikov"
+    ],
+    "publisher": [
+        "Mikhail Melnikov"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 22,
+    "positive_ratings": 167,
+    "negative_ratings": 29,
+    "price": 0.79,
+    "description": "Cubic is a 3D puzzle where you need to destroy tiles of the same color, connecting them in pairs. In this case you need to stay within a certain number of steps. For the successful completion of the level logic and skill to calculate your actions a few steps forward are required .",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/718330/header.jpg?t=1511976689",
+    "minimum_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 1.2 Ghz or faster processor Memory: 512 MB RAM Graphics: 256 MB Storage: 200 MB available space Additional Notes: Keyboard and Mouse",
+    "recommended_requirements": "OS: Windows XP/7/8/8.1/10 Processor: 2 Ghz Memory: 1024 MB RAM Graphics: 1024 MB Storage: 300 MB available space Additional Notes: Keyboard and Mouse",
+    "reviews": []
+}

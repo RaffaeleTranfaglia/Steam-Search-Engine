@@ -1,0 +1,69 @@
+{
+    "app_id": 268360,
+    "name": "Krautscape",
+    "release_date": "2016-02-24",
+    "developer": [
+        "Mario von Rickenbach",
+        "Playables"
+    ],
+    "publisher": [
+        "Midnight City",
+        "Majesco Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Multiplayer"
+    ],
+    "achievements": 23,
+    "positive_ratings": 162,
+    "negative_ratings": 72,
+    "price": 5.19,
+    "description": "Krautscape is an action-packed racing game with bird-like flying cars and procedurally built racetracks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/268360/header.jpg?t=1457709430",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8 Processor: 2.0 GHz Core 2 Duo Memory: 2 GB RAM Graphics: 512 MB Graphics Card comparable to Radeon X1600 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space Additional Notes: Supported Controllers: XInput compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  This game looked kind of cooler in the previews. It delievered everything it shows but... That's about it, I guess! It wasn't very fun and I found it lacking. The tracks, 'wacky' as they are, are fairly limited in what they can do, and while the game touches on some interesting concepts here and there, such as the flying car, I didn't find myself going back to play it almost at all, and when I feel like trying out some wacky racing games, there's other ones I can think of that I'd prefer.  Buy this if it's on sale and you really think you'd like what you see based on the previews. The game isn't faulty, it delivered everything it showed, it's just pretty plain and doesn't have much beyond that.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very gut game, we need to make youtubers to play it, to grow it, so we can play multiplayer arleady.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Car mode Handles like ♥♥♥. Airplane Mode Handles like.... ♥♥♥. tested with x360 controller and Xb-one controller. Very fun concept. This seems more of an arcade style game but when flying you cannot bank then try to fly down by pressing forward. Like a real plane banking left then pressing forward you suddenly turn right instead of the expected behavior of diving. overall the car at speed tumbles crashes. front end lifts and other sorts of NOT fun behavior.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "While this game has a compelling hook and a uniquely interesting presentation, the core experience of driving is too vanilla to recommend. As a car, the physics are lacking, and the handling felt uninspired. I also felt I was battling the controls (keyboard and mouse), either turning too much or too little, or diving when I should have been climbing in the air. THe latter is due to the unfortunate fact that the same up key that causes you to accelerate as a car sends you into a dive when you transform.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great to play with friends. I wish people played online more though. One thing the dev could add is while you are queing for online play you can play with a bot in different gamemodes.  Btw the best gamemode is ping pong, the others are kind of broken.",
+            "review_score": "1"
+        }
+    ]
+}

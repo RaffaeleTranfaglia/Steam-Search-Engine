@@ -1,0 +1,41 @@
+{
+    "app_id": 847630,
+    "name": "Commanager Tycoon",
+    "release_date": "2018-05-01",
+    "developer": [
+        "Skyjaz Games"
+    ],
+    "publisher": [
+        "Skyjaz Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 14,
+    "negative_ratings": 7,
+    "price": 8.29,
+    "description": "Grow up your business in Commanager. With a whole new way for managing, Commanager bring for player the experience of having their own stores, hire, fire , replenish stock and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/847630/header.jpg?t=1525184296",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 2.5 GHz Dual Core Memory: 1 GB RAM Graphics: OpenGL 1.4 or better DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

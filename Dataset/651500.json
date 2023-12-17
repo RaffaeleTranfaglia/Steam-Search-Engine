@@ -1,0 +1,41 @@
+{
+    "app_id": 651500,
+    "name": "My Memory of Us",
+    "release_date": "2018-10-09",
+    "developer": [
+        "Juggler Games"
+    ],
+    "publisher": [
+        "IMGN.PRO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 23,
+    "positive_ratings": 133,
+    "negative_ratings": 2,
+    "price": 12.99,
+    "description": "My Memory of Us is a moving fairy tale about friendship and hope in the darkest moments of our times. Enter hand-crafted, gorgeously animated 2D world full of adventure, exploration, stealth and puzzles. Meet the kids brought up in different worlds and help them survive during times of occupation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/651500/header.jpg?t=1546557080",
+    "minimum_requirements": "OS: Windows 7, 8.1 and 10 Processor: 2.5 GHz Dual Core Processor Memory: 4096 MB RAM Graphics: Intel HD 4400 or equivalent Sound Card: Integrated or dedicated DirectX 9 compatible soundcard",
+    "recommended_requirements": "OS: Windows 7, 8.1 and 10 Processor: 3.0 GHz Quad Core Processor Memory: 8192 MB RAM Graphics: Radeon HD 7870/NVIDIA GeForce GTX 650 or equivalent Sound Card: Integrated or dedicated DirectX 9 compatible soundcard",
+    "reviews": []
+}

@@ -1,0 +1,54 @@
+{
+    "app_id": 406220,
+    "name": "Gnomes Vs. Fairies: Greckel's Quest",
+    "release_date": "2016-07-01",
+    "developer": [
+        "Prismic Studios LLC"
+    ],
+    "publisher": [
+        "Prismic Studios LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 16,
+    "positive_ratings": 47,
+    "negative_ratings": 10,
+    "price": 7.19,
+    "description": "Gnomes vs. Fairies is a PS1/N64 style Hack 'n' slash-Action RPG platformer. Upgrade your gnome's abilities with dozens of items and master the 5 elements of sword magic, it's a totally unique retro fantasy platformer blending all the best elements of classic 3D titles such as Mario 64, Zelda OoT, Spyro the Dragon, and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/406220/header.jpg?t=1485830856",
+    "minimum_requirements": "OS: Windows® 10/8/7/Vista/XP Processor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better Memory: 2 GB RAM Graphics: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0 DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  A really great classic-style platformer, but with WAY more content and features than most. I especially love the new VR functionality! It really makes the beautiful environments come alive. I know the VR implementation is still a little bit of a work in progress, with a little more to be done for things like cutscenes and UI, but it's already really great, and definitely worth enabling and playing the game in this mode. There aren't enough VR platformers out there yet, if you ask me (Luckey's Tale being one of the only ones), and this is a great addition.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 943590,
+    "name": "BlitzKeep Unleashed",
+    "release_date": "2018-10-14",
+    "developer": [
+        "Flint Games"
+    ],
+    "publisher": [
+        "Flint Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 6.19,
+    "description": "BlitzKeep Unleashed, where billiards meets a roguelite RPG! Or maybe pinball meets an RPG? Something like that! Level up, defeat enemies and bosses, buy permanent upgrades and new classes, play local coop, and more in procedurally-generated dungeons across 10 realms and 40 levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/943590/header.jpg?t=1539586276",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core 2 Duo E6320 (2*1866) or equivalent Memory: 2 GB RAM Graphics: GeForce 7600 GS (512 MB) or equivalent Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

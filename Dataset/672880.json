@@ -1,0 +1,41 @@
+{
+    "app_id": 672880,
+    "name": "SuperWurfels",
+    "release_date": "2017-09-09",
+    "developer": [
+        "AfroDieter"
+    ],
+    "publisher": [
+        "myself"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "Ever feel like just challenging up to 3 of your friends to one or more matches of some action packed reflex game playable on one keyboard? Then SuperWurfels is the game you are looking for! Destroy dice after dice and create massive combos to defeat your competitors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672880/header.jpg?t=1515363335",
+    "minimum_requirements": "OS: 7 up Processor: 2000Mhz Memory: 200 MB RAM Graphics: onboard DirectX: Version 10 Storage: 256 MB available space Sound Card: onboard Additional Notes: Probably runs on a calculator if background is disabled.",
+    "recommended_requirements": null,
+    "reviews": []
+}

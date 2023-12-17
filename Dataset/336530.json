@@ -1,0 +1,46 @@
+{
+    "app_id": 336530,
+    "name": "PD Howler 9.6 Digital Painter and Visual FX box",
+    "release_date": "2015-03-11",
+    "developer": [
+        "Daniel Ritchie - Squirreldome.com",
+        "Philip Staiger - TheBest3D.com"
+    ],
+    "publisher": [
+        "KISS ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Includes Source SDK"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Photo Editing",
+        "Software Training",
+        "Utilities",
+        "Video Production"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Photo Editing",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 9,
+    "price": 22.99,
+    "description": "Available on Steam for the first time, PD Howler 9.6 is THE ultimate graphics and animation tool for all micro indie development studios.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/336530/header.jpg?t=1447365684",
+    "minimum_requirements": "OS: Windows Vista/7/8 Processor: New enough to support GDI+ Memory: 2 GB RAM Graphics: GPU access for some modules Storage: 150 MB available space Additional Notes: Please note that upon the first-time installation, you may see two instances of PD Howler launched. This is normal and only occurs during the first time use after installation: both the installer itself as well as Steam are launching an instance.",
+    "recommended_requirements": "OS: Windows Vista/7/8 Processor: Quad core or higher will help Memory: 4 GB RAM Graphics: GPU access for some modules Storage: 200 MB available space Additional Notes: Please note that upon the first-time installation, you may see two instances of PD Howler launched. This is normal and only occurs during the first time use after installation: both the installer itself as well as Steam are launching an instance.",
+    "reviews": [
+        {
+            "review_text": "Really handy to work with curves and gradients!",
+            "review_score": "1"
+        }
+    ]
+}

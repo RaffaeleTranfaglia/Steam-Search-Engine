@@ -1,0 +1,53 @@
+{
+    "app_id": 392120,
+    "name": "City Z",
+    "release_date": "2016-04-29",
+    "developer": [
+        "Little Cloud Games"
+    ],
+    "publisher": [
+        "Little Cloud Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "VR Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Zombies"
+    ],
+    "achievements": 21,
+    "positive_ratings": 12,
+    "negative_ratings": 13,
+    "price": 2.79,
+    "description": "The virus appeared just six months ago and has already devastated humanity as we knew it. Governments fell one after another. Only a few decimated and isolated groups remain, trying to survive and free their regions from the poison.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/392120/header.jpg?t=1478623600",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Multi Core Processor Memory: 4 GB RAM Graphics: Nvidia GTX 480 or better DirectX: Version 11",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: Intel Multi Core Processor Memory: 8 GB RAM Graphics: Nvidia GTX 680 or better DirectX: Version 11",
+    "reviews": [
+        {
+            "review_text": "City z is not very well done for vr. really needs to be looked at in a 2d way, not really one to get motion sick but i was nearly vomiting with this one. sadly would not recomend to anyone.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Great indie game. Very funny Survival mode and pretty good campaign. Working great on HTC Vive in seated position and running at 90fps without problems. Nobody can beat me on Survival mode!",
+            "review_score": "1"
+        }
+    ]
+}

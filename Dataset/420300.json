@@ -1,0 +1,39 @@
+{
+    "app_id": 420300,
+    "name": "The Admin",
+    "release_date": "2016-11-01",
+    "developer": [
+        "Willpowaproject"
+    ],
+    "publisher": [
+        "Willpowaproject"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 14,
+    "price": 1.69,
+    "description": "In the distant future, there are rumors of a mysterious cyborg running an abandoned hidden research facility on a planet far from the center of human civilizations.His mysterious origin attracts the Star System Governments to investigate the truth of this cyborg called The Admin and reclaim the facility with all its researches inside.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/420300/header.jpg?t=1496416430",
+    "minimum_requirements": "OS: Windows 7 Processor: intel G640 / AMD A6-6400 or equivalent Memory: 2 GB RAM Graphics: NVidia Geforce GT530 / AMD HD 5570 or equivalent DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i3 3220 / AMD A8-7670K Memory: 4 GB RAM Graphics: NVidia Geforce GTX750 / AMD R7 250 or equivalent DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

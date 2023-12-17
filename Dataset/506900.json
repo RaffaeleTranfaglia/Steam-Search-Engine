@@ -1,0 +1,41 @@
+{
+    "app_id": 506900,
+    "name": "Downward",
+    "release_date": "2017-07-13",
+    "developer": [
+        "Caracal Games"
+    ],
+    "publisher": [
+        "IndieGala"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Parkour",
+        "First-Person",
+        "Adventure"
+    ],
+    "achievements": 30,
+    "positive_ratings": 251,
+    "negative_ratings": 72,
+    "price": 6.99,
+    "description": "Downward is a first-person open-world parkour based platform adventure set in the medieval ruins of a post-apocalyptic planet Earth. Make your way through breath-taking landscapes, face ancient guardians and unravel the deep mystery that lies behind the disappearance of humanity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/506900/header.jpg?t=1510209521",
+    "minimum_requirements": "OS: Windows 7 64 Bit and newer Processor: Intel i3 3220 or AMD A10 5800K Memory: 4 GB RAM Graphics: Geforce GTX 750 or AMD R9 270 DirectX: Version 10 Storage: 7 GB available space Sound Card: Any Windows compatible card Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "recommended_requirements": "OS: Windows 7 64 Bit and newer Processor: Intel i3 6300 or AMD FX 8350 Memory: 8 GB RAM Graphics: GeForce GTX 960 or AMD R9 380 DirectX: Version 11 Storage: 7 GB available space Sound Card: Any Windows compatible card Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.",
+    "reviews": []
+}

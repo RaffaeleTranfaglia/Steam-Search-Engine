@@ -1,0 +1,41 @@
+{
+    "app_id": 693440,
+    "name": "CRYLINE",
+    "release_date": "2017-08-31",
+    "developer": [
+        "Riviysky"
+    ],
+    "publisher": [
+        "Riviysky"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Logical Arcade in which you have to destroy colored crystals and pass many levels with traps",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/693440/header.jpg?t=1536361589",
+    "minimum_requirements": "OS: Windows  7/8/10 Processor: 1.2GHz or faster processor Memory: 1 GB RAM Graphics: Video card must be 512 MB or more and should be a DirectX 9 Storage: 100 MB available space Additional Notes: Mouse and Keyboard",
+    "recommended_requirements": "DirectX: Version 9.0",
+    "reviews": []
+}

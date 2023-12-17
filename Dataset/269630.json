@@ -1,0 +1,50 @@
+{
+    "app_id": 269630,
+    "name": "A Mass of Dead",
+    "release_date": "2015-07-15",
+    "developer": [
+        "Dev Arc"
+    ],
+    "publisher": [
+        "Dev Arc"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Zombies"
+    ],
+    "achievements": 22,
+    "positive_ratings": 20,
+    "negative_ratings": 20,
+    "price": 3.99,
+    "description": "Massacre of zombies! Survive the zombies. Buy and upgrade weapons and equipment to massacre zombies. Kill special zombies like zombie dogs, get unique weapons and equipment that you can’t buy from the shop. Be unbeatable using power boost and massacre zombies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/269630/header.jpg?t=1551230301",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Processor: 1.4GHz or faster processor Memory: 2 GB RAM Graphics: Intel HD2000 Storage: 500 MB available space Additional Notes: Resolution 640X480",
+    "recommended_requirements": "Additional Notes: Resolution 1920X1080, aspect ratio 16:9",
+    "reviews": [
+        {
+            "review_text": "A Woefully boring attempt at a dual stick shooter. There are better free to play games out there, let alone paid games. Skip this one because you're not missing anything.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 727570,
+    "name": "After the Collapse",
+    "release_date": "2018-10-08",
+    "developer": [
+        "Anarkis Gaming"
+    ],
+    "publisher": [
+        "Anarkis Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 13,
+    "positive_ratings": 11,
+    "negative_ratings": 7,
+    "price": 7.19,
+    "description": "After The Collapse is a 2D base building game set in a post-apocalyptic world featuring urban environments. Your task is to manage a band of survivors and protect them against raiders, mutants and other environmental threats while keeping them fed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/727570/header.jpg?t=1554146603",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 2Ghz Memory: 3 GB RAM Graphics: DirectX 9 compatible GPU with 512MB VRAM DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or over (x64) Processor: Quad Core 3Ghz Memory: 8 GB RAM Graphics: DirectX 10 compatible GPU with 1GB VRAM DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

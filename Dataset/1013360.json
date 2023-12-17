@@ -1,0 +1,38 @@
+{
+    "app_id": 1013360,
+    "name": "Feditor",
+    "release_date": "2019-02-04",
+    "developer": [
+        "Mark Craigie"
+    ],
+    "publisher": [
+        "Mark Craigie"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 4,
+    "price": 0.0,
+    "description": "Fast-paced mouse clicker simulator of the daily life of a Twitch and Youtube streamer. Inspired by the content creator Fedmyster, feel the stress of editing, interact with your stream viewers and see how long you can keep them entertained while also maintaining your life and keeping up with your work.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1013360/header.jpg?t=1549816866",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Xeon E3-1231 v3 Memory: 4 MB RAM Graphics: NVIDIA GTX 660 Storage: 130 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

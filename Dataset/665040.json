@@ -1,0 +1,42 @@
+{
+    "app_id": 665040,
+    "name": "Visual Novel Engine",
+    "release_date": "2017-07-07",
+    "developer": [
+        "qberty"
+    ],
+    "publisher": [
+        "The Local Group"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Captions available",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Design & Illustration",
+        "Utilities",
+        "Web Publishing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Utilities",
+        "Web Publishing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 45,
+    "negative_ratings": 18,
+    "price": 0.0,
+    "description": "Create, share, and play visual novels without needing ANY programming skills!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/665040/header.jpg?t=1540729208",
+    "minimum_requirements": "OS: Windows XP or Greater Processor: Dual Core 1.0 GHz Memory: 50 MB RAM Graphics: Integrated / Dedicated Graphics Network: Broadband Internet connection Storage: 204 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

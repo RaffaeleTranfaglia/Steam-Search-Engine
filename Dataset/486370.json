@@ -1,0 +1,39 @@
+{
+    "app_id": 486370,
+    "name": "Pinball Evolution VR",
+    "release_date": "2017-04-29",
+    "developer": [
+        "Pinball Evolution VR"
+    ],
+    "publisher": [
+        "Pinball Evolution VR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 24,
+    "negative_ratings": 5,
+    "price": 5.99,
+    "description": "Experience the immersion of Virtual Reality Pinball with The Summoning. Designed from the ground up for Virtual Reality the game features cutting edge physics, detailed physically based rendered graphics, full motion controller support and all the features you’d expect from a real Pinball table.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486370/header.jpg?t=1527119012",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 Processor: Intel Core i5- 4590  or AMD equivalent Memory: 8 GB RAM Graphics: Nvidia GTX 670 or AMD equivalent Storage: 2 GB available space Additional Notes: The Summoning has full scalability settings to suit a broad range of PC configurations. Please note this min spec requires the in-game resolution to be lowered via the scalability settings. The game is still playable at 90fps, however. This is not the premium way to experience The Summoning!",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 Processor: Intel Core i7 4790 or AMD equivalent Memory: 8 GB RAM Graphics: AMD R9 290 or Nvidia equivalent Storage: 2 GB available space Additional Notes: The Summoning has full scalability settings to suit a broad range of PC configurations.",
+    "reviews": []
+}

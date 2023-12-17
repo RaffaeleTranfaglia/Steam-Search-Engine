@@ -1,0 +1,41 @@
+{
+    "app_id": 937050,
+    "name": "JackQuest: The Tale of The Sword",
+    "release_date": "2019-01-24",
+    "developer": [
+        "NX Games"
+    ],
+    "publisher": [
+        "Crescent Moon Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 13,
+    "positive_ratings": 13,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "A fast-paced fantasy action platformer, JackQuest wastes no time with its quick combat and steady progression, guiding players through a single-interconnected world full of secrets, collectable gems, and hidden challenges that are sure to keep completionists engaged for hours on end.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/937050/header.jpg?t=1553795978",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, or later Graphics: DirectX 9 (or later) compatible graphics card with at least 32MB of memory DirectX: Version 9.0 Sound Card: DirectX 9 compatible sound card",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, or later Graphics: DirectX 10 (or later) compatible graphics card with at least 64MB of memory Sound Card: DirectX 10 compatible sound card",
+    "reviews": []
+}

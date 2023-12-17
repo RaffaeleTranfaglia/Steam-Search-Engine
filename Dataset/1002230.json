@@ -1,0 +1,39 @@
+{
+    "app_id": 1002230,
+    "name": "War of Three Kingdoms",
+    "release_date": "2019-04-08",
+    "developer": [
+        "le8 stdio"
+    ],
+    "publisher": [
+        "le8 stdio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 6,
+    "price": 2.09,
+    "description": "This is a strategy type game, players can capture the city, the final one continent, in this process, players can collect hundreds of heroes, different heroes have different skills and abilities, you can also train the hero, build a strong army.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1002230/header.jpg?t=1554709515",
+    "minimum_requirements": "OS: window 7 Processor: x86 Memory: 512 MB RAM Graphics: none DirectX: Version 9.0 Storage: 300 MB available space Sound Card: none",
+    "recommended_requirements": "OS: window 10 Processor: x86 Memory: 512 MB RAM Graphics: none DirectX: Version 11 Storage: 300 MB available space Sound Card: none",
+    "reviews": []
+}

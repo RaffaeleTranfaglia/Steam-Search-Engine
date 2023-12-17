@@ -1,0 +1,61 @@
+{
+    "app_id": 411540,
+    "name": "Hybrid Wars",
+    "release_date": "2016-09-29",
+    "developer": [
+        "Extreme Developers"
+    ],
+    "publisher": [
+        "Wargaming Labs"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Mechs",
+        "Co-op"
+    ],
+    "achievements": 32,
+    "positive_ratings": 112,
+    "negative_ratings": 58,
+    "price": 5.19,
+    "description": "Hybrid Wars: A futuristic top-down mech shooter. Command and upgrade an arsenal of futuristic mechs to take on hordes of enemies across giant levels in this breakneck, challenging shooter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/411540/header.jpg?t=1531848009",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 Processor: Core i3 3.2GHz or equal Memory: 4 GB RAM Graphics: nVidia GTX 275 or AMD Radeon HD-7770 DirectX: Version 9.0 Storage: 12 GB available space Sound Card: DirectX 9 Compatible Additional Notes: Keyboard and mouse or gamepad",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/8.1/10 Processor: Core i7 or equal Memory: 8 GB RAM Graphics: nVidia GTX 770 or equal DirectX: Version 9.0 Storage: 12 GB available space Sound Card: DirectX 9 Compatible Additional Notes: Keyboard and mouse or gamepad",
+    "reviews": [
+        {
+            "review_text": "Overall, Hybrid Wars is a decent game for its decent price. If you enjoy mechs, tanks, helos and explosions, this game has it.   Pros: - Pleasant graphics at High settings, nice particle effects for explosions - Fluid combat, relatively easy controls - Mech combat is reminisent of Mech Warrior, one I enjoyed - Skill-Tree progression for Heroes, Vehicles - Heroes have somewhat unique abilities, each with different mechs with different weapons  Cons: - Story is meh, you're a mercenary working for some tech company. Narrator voice acting is mediocre at best, I can't stand his voice.  - A few graphical quirks here and there, could definitely use some polish.  - The vehicles you unlock are constantly available and respawn throughout the maps, making the use of your Hero pointless at times.  - Campaign is kinda short, been playing for a few hours and already 50% complete.    There are many things that could make this game better and increase its replay value, in my humble opinion. As it stands though, its an enjoyable game. Give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "stomp on everything with your mech simulator.  16€, it's worth that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In a word... Janky! Controls dont feel right. Sounds flat. Explosions are crap. Renegade Ops looks 10 years ahead of this. This is more like something you would put together yourself while messing about with unity. Really surprised  wargaming.net  have associated themselves with this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  Unable to launch this game in win10 insider preview 10.0.14986  ",
+            "review_score": "-1"
+        }
+    ]
+}

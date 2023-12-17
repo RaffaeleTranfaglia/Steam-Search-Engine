@@ -1,0 +1,40 @@
+{
+    "app_id": 670950,
+    "name": "Band of Outlaws",
+    "release_date": "2017-08-22",
+    "developer": [
+        "Indy Lion Studios"
+    ],
+    "publisher": [
+        "Indy Lion Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 13,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Play as Robin Hood and his Merry Men in this 2D Action Platformer. Help take back England from the diabolical Prince John. Battle your friends in a Local Multiplayer Deathmatch gamemode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670950/header.jpg?t=1503413309",
+    "minimum_requirements": "OS: Windows 8 or 10 Processor: Intel i3 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

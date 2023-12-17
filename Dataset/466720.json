@@ -1,0 +1,45 @@
+{
+    "app_id": 466720,
+    "name": "Vintage VR",
+    "release_date": "2016-05-02",
+    "developer": [
+        "Dunderware"
+    ],
+    "publisher": [
+        "MuseumSyndicate.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 7,
+    "positive_ratings": 59,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "In the 19th century, when people had no HTC Vives to play with, they resorted to using primitive stereoscopes to see stereoscopic images in 3D! This free VR experience allows you to view a collection of over 700 such images from that era and enjoy them as people saw them over a century ago.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/466720/header.jpg?t=1462238843",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: intel i5 Memory: 4 GB RAM Graphics: Nvidia GTX 970 or Equivalent DirectX: Version 10 Storage: 600 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: intel i7 Memory: 8 GB RAM Graphics: Nvidia GTX 970 or Equivalent DirectX: Version 11 Storage: 600 MB available space Sound Card: Integrated",
+    "reviews": [
+        {
+            "review_text": "Ran great on my old radeon 7800 card. I like the music and the pictures are great. I thought i was going to get to hold the viewer using a vive wand. Putting 3d pictures on the wall is neat too!  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very interesting concept. It also acts as a alagory, looking into the past with the most advanced virtual reality technology currently available. I wish there were more experiences like this with the same amount of context to deepen the experience.",
+            "review_score": "1"
+        }
+    ]
+}

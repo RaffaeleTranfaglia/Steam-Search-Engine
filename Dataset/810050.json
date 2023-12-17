@@ -1,0 +1,43 @@
+{
+    "app_id": 810050,
+    "name": "Starbucket",
+    "release_date": "2018-03-20",
+    "developer": [
+        "ReedGames"
+    ],
+    "publisher": [
+        "ReedGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 5.79,
+    "description": "Build both simple and complex spaceships, and engage in combat against other players using your creations!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/810050/header.jpg?t=1532480971",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 bit Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 8.1, 10 Processor: Intel Core i5 3210m and up (or equivalent) Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 and up (or equivalent) [DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities] DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

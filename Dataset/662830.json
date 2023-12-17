@@ -1,0 +1,46 @@
+{
+    "app_id": 662830,
+    "name": "Bombix",
+    "release_date": "2018-03-02",
+    "developer": [
+        "Pragmatix Ltd"
+    ],
+    "publisher": [
+        "Pragmatix Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 567,
+    "negative_ratings": 263,
+    "price": 0.0,
+    "description": "Do you like shooting? Then arm yourself - the world of Bombix awaits you! You will find yourself in the shoes of a small but VERY dangerous fighter, gather together a team of thugs and show 'em all how to fight!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/662830/header.jpg?t=1527664184",
+    "minimum_requirements": "OS: Microsoft® Windows Server 2008, Windows 7, Windows 8.1 Classic or Windows 10 Processor: 2.33GHz or Intel Atom™ 1.6GHz for netbook class devices Memory: 512 MB RAM",
+    "recommended_requirements": null,
+    "reviews": []
+}

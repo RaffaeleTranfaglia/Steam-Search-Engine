@@ -1,0 +1,45 @@
+{
+    "app_id": 900370,
+    "name": "Stockpile",
+    "release_date": "2018-09-21",
+    "developer": [
+        "DIGIDICED"
+    ],
+    "publisher": [
+        "DIGIDICED"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "Stockpile is an economic, stock-market themed game that's all about insider trading!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/900370/header.jpg?t=1537513361",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1 Ghz Graphics: DX9 (shader model 3.0) DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 941600,
+    "name": "RoboBunnies In Space!",
+    "release_date": "2019-02-14",
+    "developer": [
+        "Giant Fox Studios"
+    ],
+    "publisher": [
+        "Giant Fox Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Two robobunnies team up to transport a magic crystal safely through 50 action-packed levels, protecting it from danger lurking in the shadows. With hours of gameplay that is perfect to binge alone, with a friend, or 5 minutes at a time. How deep into space can you go?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/941600/header.jpg?t=1550157174",
+    "minimum_requirements": "OS: Windows XP SP2 or higher Processor: 1.80GHz Processor Memory: 6 GB RAM Graphics: Video card with 512MB of VRAM DirectX: Version 11 Storage: 160 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

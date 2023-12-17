@@ -1,0 +1,40 @@
+{
+    "app_id": 656020,
+    "name": "Beta Runner",
+    "release_date": "2017-07-25",
+    "developer": [
+        "Lightsoutgames"
+    ],
+    "publisher": [
+        "Lightsoutgames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 12,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 0.0,
+    "description": "Prepare yourself for the ultimate, &quot;run till you die&quot; game, which pits you against a maniacal programmer - a smart AI that intuitively adapts to your level of gameplay. Prove you're not just another one of his &quot;guinea pigs&quot; as he throws ever increasingly complex challenges at you. His goal is your frustration.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656020/header.jpg?t=1541187046",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.2GHz processor Memory: 512 MB RAM Graphics: DirectX 8-compatible graphics card with at least 32MB of video memory Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

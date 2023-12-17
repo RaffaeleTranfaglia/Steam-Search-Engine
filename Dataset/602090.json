@@ -1,0 +1,42 @@
+{
+    "app_id": 602090,
+    "name": "Janus VR",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Janus VR, Inc."
+    ],
+    "publisher": [
+        "Janus VR, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Web Publishing"
+    ],
+    "tags": [
+        "Web Publishing",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 35,
+    "negative_ratings": 22,
+    "price": 0.0,
+    "description": "Janus VR - Virtual Reality Internet Browser Build, browse and socialize in the Immersive Internet - Janus VR is the internet like you've never seen it before.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/602090/header.jpg?t=1531425096",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or newer Processor: Quad-core processor Memory: 4 GB RAM Graphics: OpenGL 3.3 compatible Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 280 equivalent or better Network: Broadband Internet connection",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 1001860,
+    "name": "Casual Desktop Game",
+    "release_date": "2019-01-11",
+    "developer": [
+        "dny.coder"
+    ],
+    "publisher": [
+        "dny.coder"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 49,
+    "negative_ratings": 5,
+    "price": 0.0,
+    "description": "Casual Desktop Game is a fanmade revival of the old Desktop Destroyer game featuring community content.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1001860/header.jpg?t=1548138520",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or above Processor: 1.5 GHz or more Memory: 1024 MB RAM Graphics: Intel HD chipcard or better DirectX: Version 9.0 Storage: 17 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

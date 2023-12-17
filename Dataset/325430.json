@@ -1,0 +1,45 @@
+{
+    "app_id": 325430,
+    "name": "Metaverse",
+    "release_date": "2016-04-05",
+    "developer": [
+        "Metaware Limited, LLC"
+    ],
+    "publisher": [
+        "Metaware Limited, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Workshop",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Experimental"
+    ],
+    "achievements": 0,
+    "positive_ratings": 38,
+    "negative_ratings": 43,
+    "price": 15.49,
+    "description": "In Metaverse you will dig, discover, design, deploy, and defend. Explore, build upon, or tear apart your own procedurally generated voxel planet. And now in the early stages of our multiplayer implementation, help conquer or build the planets of others.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/325430/header.jpg?t=1459465109",
+    "minimum_requirements": "OS: Windows Vista (SP2), Windows 7, Windows 8 Processor: Intel Core 2 Duo, AMD Athlon X2, or equal at 2.0 GHz Memory: 2 GB RAM Graphics: DirectX 9.0c-compatible, SM 3.0-compatible, 256MB VRAM DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX 9.0c-compatible, 16-bit",
+    "recommended_requirements": "OS: Windows 7 or Windows 8 Processor: QuadCore 2.0 GHz + Memory: 4 GB RAM Graphics: DirectX 9.0c-compatible, SM 3.0-compatible, 512MB VRAM+; NVIDIA GeForce 8800 GTS or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 8 GB available space Sound Card: DirectX 9.0c-compatible, 16-bit",
+    "reviews": []
+}

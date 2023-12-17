@@ -1,0 +1,41 @@
+{
+    "app_id": 534000,
+    "name": "Fast Action Hero",
+    "release_date": "2016-10-03",
+    "developer": [
+        "Sirius Sam"
+    ],
+    "publisher": [
+        "RL Agency"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Stats"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 83,
+    "negative_ratings": 11,
+    "price": 8.99,
+    "description": "Dive into your favorite action movie : a smoking gun in your hand, bullets whizzing past your ears while the walls start to crumble around you !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/534000/header.jpg?t=1509753243",
+    "minimum_requirements": "OS: Win 7 or higher Processor: intel i5 Memory: 8 GB RAM Graphics: GTX 960 DirectX: Version 10 Storage: 2 GB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Win 7 or higher Processor: intel i7 Memory: 16 GB RAM Graphics: GTX 980 or better DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

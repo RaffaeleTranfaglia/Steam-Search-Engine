@@ -1,0 +1,49 @@
+{
+    "app_id": 454520,
+    "name": "MilitAnt",
+    "release_date": "2016-07-12",
+    "developer": [
+        "Xibalba Studios"
+    ],
+    "publisher": [
+        "Xibalba Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shooter"
+    ],
+    "achievements": 13,
+    "positive_ratings": 24,
+    "negative_ratings": 10,
+    "price": 6.99,
+    "description": "MilitAnt™ blends old school action with a 2.5D shooter gameplay for an epic platforming experience. Jump to the battlefield for a completely original experience of “Epic-tiny proportions”.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/454520/header.jpg?t=1478798172",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2GHz processor Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 9.0c Storage: 6 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Very fun what I have played so far. Can't wait to get further into it. It seems pretty challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Great and funny game 9/10",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 694070,
+    "name": "BadLands RoadTrip",
+    "release_date": "2018-04-05",
+    "developer": [
+        "Obsessive Science Games"
+    ],
+    "publisher": [
+        "Obsessive Science Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "BadLands RoadTrip is a physics-based shooter, open world RPG where you build your own weapons to fight against the robot apocalypse! Assemble your gun to fit your own playstyle. Go at it alone or join your friends via LAN multiplayer. Go on quests, or just fiddle around with gun setups all day!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/694070/header.jpg?t=1524146120",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 8 Processor: Dual Core 2.5 Ghz Memory: 2048 MB RAM Graphics: AMD HD5000 series, NVidia GTX 200 series, equivalent or higher DirectX: Version 11 Storage: 800 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 8 Processor: Quad Core 3 Ghz Memory: 4 GB RAM Graphics: AMD HD6800, NVidia GTX 400 series, equivalent or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 800 MB available space",
+    "reviews": []
+}

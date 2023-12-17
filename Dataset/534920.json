@@ -1,0 +1,39 @@
+{
+    "app_id": 534920,
+    "name": "Relaxing VR Games: Mahjong",
+    "release_date": "2017-03-02",
+    "developer": [
+        "CrazyBunch"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 20,
+    "positive_ratings": 3,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "Are you ready for the most virtually realistic Mahjong experience of all times? Solve a total of 162 boards with photo-realistic 360° backgrounds and breathe in the unique atmosphere of this popular game in an interactive, virtual environment!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/534920/header.jpg?t=1524053343",
+    "minimum_requirements": "Requires a 64-bit processor and operating system Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD R9 290 equivalent or greater Storage: 250 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

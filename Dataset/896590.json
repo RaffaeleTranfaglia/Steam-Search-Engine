@@ -1,0 +1,42 @@
+{
+    "app_id": 896590,
+    "name": "MilMo",
+    "release_date": "2018-08-02",
+    "developer": [
+        "Dohi Sweden AB"
+    ],
+    "publisher": [
+        "Dohi Sweden AB"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "MMO",
+        "Steam Achievements",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "achievements": 96,
+    "positive_ratings": 177,
+    "negative_ratings": 55,
+    "price": 0.0,
+    "description": "Create a hero and join your friends in an amazing world of action and adventure!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/896590/header.jpg?t=1555063351",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: Dual-core Memory: 4 GB RAM Graphics: 2009 Network: Broadband Internet connection Storage: 1500 MB available space Sound Card: On Board",
+    "recommended_requirements": null,
+    "reviews": []
+}

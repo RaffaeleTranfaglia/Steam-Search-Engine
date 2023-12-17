@@ -1,0 +1,41 @@
+{
+    "app_id": 535750,
+    "name": "VR Fun World",
+    "release_date": "2016-11-21",
+    "developer": [
+        "toxicbrain"
+    ],
+    "publisher": [
+        "toxicbrain"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 120,
+    "positive_ratings": 8,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "VR Fun World includes 16 mini-games. Some of which are about shooting targets, others require physical interactions e.g throwing, hitting or collecting items. Besides the Steam leaderboard, a local highscore for each game keeps the competition fierce at your next game night.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535750/header.jpg?t=1552323246",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 64bit or newer Processor: Intel i5-4590, AMD FX 8350 or better Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 or better Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

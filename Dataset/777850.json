@@ -1,0 +1,44 @@
+{
+    "app_id": 777850,
+    "name": "Cannon Crew",
+    "release_date": "2018-02-01",
+    "developer": [
+        "WoksOnStudios"
+    ],
+    "publisher": [
+        "WoksOnStudios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 34,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Cannon Crew is a multiplayer co-op castle defence party game. Work as a team to defend your castle from incoming enemy attacks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777850/header.jpg?t=1517851615",
+    "minimum_requirements": "OS: Windows 7, 8/8.1, 10 Processor: 2.0 Ghz Memory: 2.5 GB RAM Graphics: 128mb Video Memory DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

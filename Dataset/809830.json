@@ -1,0 +1,37 @@
+{
+    "app_id": 809830,
+    "name": "China VS Roman",
+    "release_date": "2018-03-20",
+    "developer": [
+        "happyking"
+    ],
+    "publisher": [
+        "happyking"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "This is a war strategy game with the mouse control.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809830/header.jpg?t=1534812379",
+    "minimum_requirements": "OS: Windows XP up Processor: 1GHz Memory: 512 MB RAM Graphics:  DirectX: Version 9.0 Storage: 30 MB available space Sound Card:",
+    "recommended_requirements": null,
+    "reviews": []
+}

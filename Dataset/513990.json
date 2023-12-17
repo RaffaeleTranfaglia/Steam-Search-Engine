@@ -1,0 +1,49 @@
+{
+    "app_id": 513990,
+    "name": "Happy Empire",
+    "release_date": "2016-08-19",
+    "developer": [
+        "AEL Entertainment"
+    ],
+    "publisher": [
+        "AEL Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 31,
+    "positive_ratings": 30,
+    "negative_ratings": 22,
+    "price": 1.99,
+    "description": "Help the princess overcome difficulties, banish the evil wizard and restore the empire!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/513990/header.jpg?t=1552463319",
+    "minimum_requirements": "OS: XP/Vista/7/8/10 Processor: 1.6 Ghz Memory: 512 MB RAM Graphics: 128 Mb DirectX: Version 9.0 Storage: 307 MB available space",
+    "recommended_requirements": "OS: XP/Vista/7/8/10 Processor: 2.5 Ghz Memory: 512 MB RAM Graphics: 128 Mb DirectX: Version 9.0 Storage: 315 MB available space",
+    "reviews": [
+        {
+            "review_text": "Joyfull graphics and gameplay. This game is nearly perfect! Hope to see more like this one!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ugly level layout, buggy performance, and broken achievements. Trees kept disappearing and reappearing on me, and in one level I couldn't tell how many workers I had available because one was still standing in place while his doppelgangers ran around. The game lets you queue tasks sometimes, but doesn't always mark what's queued. I gave up after I accidentally clicked on the same task twice, the game sent two workers to do it, and one of them got permanently stuck building the farm (or rather, banging his hammer on the farmer's head, because that's what the animation actually looks like). There are plenty of more technically sound time management games on Steam that you could play instead of this.",
+            "review_score": "-1"
+        }
+    ]
+}

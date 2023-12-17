@@ -1,0 +1,47 @@
+{
+    "app_id": 263200,
+    "name": "Signs of Life",
+    "release_date": "2014-01-27",
+    "developer": [
+        "Sweet Dog Studios"
+    ],
+    "publisher": [
+        "Sweet Dog Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Sandbox",
+        "Survival"
+    ],
+    "achievements": 14,
+    "positive_ratings": 489,
+    "negative_ratings": 135,
+    "price": 6.99,
+    "description": "Signs of Life is a sci-fi survival sandbox platformer with a combination of procedurally generated and hand-crafted content. You'll explore mysterious locations, Mine blocks for resources, and meet strange (and some familiar) creatures, some of which don't even want to kill you and eat your corpse.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/263200/header.jpg?t=1545276296",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-Core 2 GHz Memory: 2 GB RAM Graphics: OpenGL 3.0 Compatible Graphics Device Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Dual-Core 2+ GHz Memory: 4 GB RAM Graphics: OpenGL 3.0 Compatible Graphics Device Storage: 1 GB available space",
+    "reviews": []
+}

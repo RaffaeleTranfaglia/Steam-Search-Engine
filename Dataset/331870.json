@@ -1,0 +1,42 @@
+{
+    "app_id": 331870,
+    "name": "AER Memories of Old",
+    "release_date": "2017-10-25",
+    "developer": [
+        "Forgotten Key"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Exploration"
+    ],
+    "achievements": 20,
+    "positive_ratings": 1473,
+    "negative_ratings": 284,
+    "price": 13.49,
+    "description": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/331870/header.jpg?t=1524052147",
+    "minimum_requirements": "OS: Win 7, 8, 10, 64bit Processor: 3 GHz Dual Core CPU Memory: 4 GB RAM Graphics: GeForce GTX 560, AMD HD 6870 DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "recommended_requirements": "OS: Win 7, 8, 10, 64bit Processor: 3GHz Quad Core CPU Memory: 4 GB RAM Graphics: GeForce GTX 660TI, AMD HD 7800 series DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers",
+    "reviews": []
+}

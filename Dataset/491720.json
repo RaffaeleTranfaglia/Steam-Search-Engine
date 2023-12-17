@@ -1,0 +1,48 @@
+{
+    "app_id": 491720,
+    "name": "Nary: The Undead Edition",
+    "release_date": "2016-08-02",
+    "developer": [
+        "Khud0"
+    ],
+    "publisher": [
+        "Khud0"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Runner"
+    ],
+    "achievements": 37,
+    "positive_ratings": 30,
+    "negative_ratings": 5,
+    "price": 1.55,
+    "description": "Nary is a pseudo-endless runner about chasing two Rabbits at once. Dodge the obstacles AND Mash the button sequences if you want to survive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/491720/header.jpg?t=1543613682",
+    "minimum_requirements": "Storage: 25 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I really like the idea of Nary and think it could really be a fun game, however when I tried to play the game, the button layout was very crowded and unnartural. I found myself paying too much attention to my hands and their positioning and less time enjoying myself. I think that implementing controller support would really benefit Nary, in which case you could either change the z, x, c promps to display , for example, as X, Y, B for xbox controllers, or Square, Triangle, and Circle for Playstation controllers.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "10/10 would get my easy 100% completion again!",
+            "review_score": "1"
+        }
+    ]
+}

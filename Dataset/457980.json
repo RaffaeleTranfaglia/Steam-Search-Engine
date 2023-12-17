@@ -1,0 +1,51 @@
+{
+    "app_id": 457980,
+    "name": "Adele: Following the Signs",
+    "release_date": "2016-06-02",
+    "developer": [
+        "Unosquare"
+    ],
+    "publisher": [
+        "Unosquare"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 28,
+    "positive_ratings": 15,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "The year is 2029. It is the end of the world. Take on the role of Mike; who is in the woods with his daughter, fleeing from a wave of zombies. During the escape, Mike falls and loses consciousness. He awakes to find that Adele is nowhere to be found. He'll need to follow the signs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/457980/header.jpg?t=1464896298",
+    "minimum_requirements": "OS: Windows 7 (32-bit) Processor: intel i5 (or equivalent) Memory: 4 GB RAM Graphics: 1GB NVIDIA or AMD graphics card DirectX: Version 9.0 Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10 (64-bit system) Processor: intel i5 (or equivalent) Memory: 4 GB RAM Graphics: Modern NVIDIA GeForce 900 Series graphics card DirectX: Version 10 Storage: 5 GB available space",
+    "reviews": [
+        {
+            "review_text": "It takes alot of processor power for not a lot of payout. Its a very frustrating platformer with a zombie theme. There is some good puzzle potential but at 80 minutes of play I uninstalled and wish I hadnt paid for this.   If you like frustration and doing the same thing over and over again then this is the game for you. Still a neat take on zombie games and for that I applaud it. Now off to uninstall and play something else.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "What Adele Lacks in polish is compensated by a nice visual design, and atmosphere.",
+            "review_score": "1"
+        }
+    ]
+}

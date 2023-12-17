@@ -1,0 +1,39 @@
+{
+    "app_id": 564010,
+    "name": "Stern Pinball Arcade",
+    "release_date": "2016-12-23",
+    "developer": [
+        "FarSight Studios, Inc."
+    ],
+    "publisher": [
+        "FarSight Studios, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Pinball"
+    ],
+    "achievements": 33,
+    "positive_ratings": 64,
+    "negative_ratings": 123,
+    "price": 0.0,
+    "description": "Real pinball machines created by the world's most experienced producer of arcade-quality pinball machines can now be played on your PC. Over 10 tables including modern classics like Star Trek™, AC/DC®, and Mustang™ are available as DLC with two FREE tables to play every month!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564010/header.jpg?t=1510186781",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 1.6 ghz or better. Memory: 8 GB RAM Graphics: Graphics card supporting DirectX 11.0 and Shader Model 5.0 DirectX: Version 11 Storage: 4 GB available space Sound Card: Direct Sound capable card.",
+    "recommended_requirements": "OS: Windows 10 Processor: Dual Core 2.0 ghz or better. Memory: 8 GB RAM Graphics: nVidia GTX 660 or higher.  AMD R9-270X or higher. DirectX: Version 11 Storage: 4 GB available space Sound Card: Direct Sound capable card.",
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 741650,
+    "name": "Holy Towers",
+    "release_date": "2018-05-28",
+    "developer": [
+        "PlayFlock"
+    ],
+    "publisher": [
+        "PlayFlock"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Tower Defense"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Defeat hordes of imps in the very first Tower Defence game about the order of monks! All this to defend humankind from hordes of demons!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/741650/header.jpg?t=1527504720",
+    "minimum_requirements": "OS: Microsoft® Windows Server 2008, Windows XP, Windows 7, or Windows 8 Classic Processor: 2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices Memory: 512 MB RAM Graphics: Intel HD graphics 4000 or above Storage: 1 GB available space Sound Card: Integrated sound card",
+    "recommended_requirements": "OS: Microsoft® Windows Server 2008, Windows XP, Windows 7, or Windows 8 Classic Processor: Intel i3 or faster processor for netbook class devices or above Memory: 1024 MB RAM Graphics: Intel HD graphics 4000 or above Storage: 1 GB available space Sound Card: Integrated sound card",
+    "reviews": []
+}

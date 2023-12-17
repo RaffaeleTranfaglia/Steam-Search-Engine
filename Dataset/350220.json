@@ -1,0 +1,45 @@
+{
+    "app_id": 350220,
+    "name": "Dead Sea",
+    "release_date": "2015-03-25",
+    "developer": [
+        "Phoenix Studio"
+    ],
+    "publisher": [
+        "KISS ltd",
+        "Phoenix Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 86,
+    "negative_ratings": 211,
+    "price": 3.99,
+    "description": "Dead Sea is an open-world, first-person survival game. It contains elements of horror, adventure, and puzzle solving that creates a hardcore gaming experience. The game is difficult but not overkill; surviving isn’t supposed to be easy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350220/header.jpg?t=1447369101",
+    "minimum_requirements": "OS: Windows Vista SP1, Windows 7, Windows 8 Processor: CPU: Intel Core 2 Duo 2GHz, AMD Athlon 64 X2 2GHz or better (multi-core processor is strongly recommended) Memory: 4 GB RAM Graphics: NVIDIA series 400, Radeon HD 6000 Series or better (DirectX 11 minimum) DirectX: Version 9.0c Storage: 6 GB available space Sound Card: DirectX®-compatible",
+    "recommended_requirements": "OS: Windows 7, Windows 8 Processor: Intel Core i5-2300 or AMD Phenom II X4 940 or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 560 or AMD Radeon HD 7750 with 1 GB VRAM or better DirectX: Version 11 Storage: 15 GB available space Sound Card: DirectX®-compatible",
+    "reviews": []
+}

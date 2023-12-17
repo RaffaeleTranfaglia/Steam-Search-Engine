@@ -1,0 +1,45 @@
+{
+    "app_id": 461860,
+    "name": "Tower Dwellers",
+    "release_date": "2016-08-23",
+    "developer": [
+        "ECC GAMES SP. Z O.O."
+    ],
+    "publisher": [
+        "ECC GAMES SP. Z O.O."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 43,
+    "positive_ratings": 16,
+    "negative_ratings": 14,
+    "price": 4.99,
+    "description": "Tower Dwellers is a unit crafting tower defence that features lots of micromanagement and keeps the player engaged in the battle throughout the entire game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/461860/header.jpg?t=1471986315",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: Dual Core CPU Memory: 1 GB RAM Graphics: OpenGL 3.0 compliant with 512MB of video RAM. Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows XP Service Pack 3 Processor: Dual Core CPU Memory: 2 GB RAM Graphics: OpenGL 3.0 compliant with 1.0GB of video RAM. Storage: 500 MB available space",
+    "reviews": [
+        {
+            "review_text": "Obviously 'inspired' by the Kingdom Rush series, but very well produced. I enjoyed playing it, and would recommend it to those who like Tower Defense games.  Pros: Nice animations and art style, voice acting and quirky humor. Contains fresh elements in the tower defense genre, even though it is similar in appearance to Kingdom Rush.  Cons: Some bugs here and there (textual, or support buildings connecting to the wrong towers). Some of the upgrades you can purchase have very little use.",
+            "review_score": "1"
+        }
+    ]
+}

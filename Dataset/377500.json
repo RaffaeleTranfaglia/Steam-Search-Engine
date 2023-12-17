@@ -1,0 +1,47 @@
+{
+    "app_id": 377500,
+    "name": "Prismatica",
+    "release_date": "2015-07-01",
+    "developer": [
+        "Loomus Games"
+    ],
+    "publisher": [
+        "Loomus Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 30,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Prismatica is a colorful puzzle game with a brand new twist inspired by Rubik’s Cubes, Sudoku, Dodecahedrons and way too much caffeine.Prismatica's simple gameplay and deceptively challenging puzzles will tickle the brains of both beginners and veterans alike.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/377500/header.jpg?t=1447397276",
+    "minimum_requirements": "OS: Windows XP or later Processor: 2.0 GHz Memory: 1 GB RAM Graphics: 256 MB Graphics Card DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "a cute lil puzzle game thats provides interesting challenges without being needlessly complicated, so one can enjoy the experience of playing and solving without being weighted down with tedious mechanics. would recommend, the colors are pretty (but not intense enough to hurt your head). haven't spent too much time playing so far, but it was well worth the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It’s like clicking through a Powerpoint really fast! Totally recommend this game if you like a good challenge",
+            "review_score": "1"
+        }
+    ]
+}

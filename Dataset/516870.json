@@ -1,0 +1,39 @@
+{
+    "app_id": 516870,
+    "name": "Isomorph",
+    "release_date": "2016-09-02",
+    "developer": [
+        "Buce Studios LLC"
+    ],
+    "publisher": [
+        "Buce Studios LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 11,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Isomorph is an atmospheric 3D puzzle-platformer. Solve dozens of challenging puzzles by changing the direction of gravity and manipulating physics, while being immersed in a calming ambient environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/516870/header.jpg?t=1543786430",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: 2 GHz Memory: 512 MB RAM Graphics: DirectX 9.0 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX 9.0 DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

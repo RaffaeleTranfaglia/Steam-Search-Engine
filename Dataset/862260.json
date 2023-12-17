@@ -1,0 +1,44 @@
+{
+    "app_id": 862260,
+    "name": "Miami Cruise",
+    "release_date": "2018-12-20",
+    "developer": [
+        "MK Games"
+    ],
+    "publisher": [
+        "MK Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Racing"
+    ],
+    "achievements": 10,
+    "positive_ratings": 14,
+    "negative_ratings": 2,
+    "price": 4.79,
+    "description": "Miami Cruise is a game inspired by retrowave aesthetics. Take a ride, and chill out.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/862260/header.jpg?t=1548350892",
+    "minimum_requirements": "OS: Windows Vista SP1+ Processor: i3 1.8 ghz Memory: 4 GB RAM Graphics: GeForce GT 720 / Intel HD 520 or equivalent DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i5 2.6Ghz Memory: 8 GB RAM Graphics: Nvidia GTX 960 or equivalent DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

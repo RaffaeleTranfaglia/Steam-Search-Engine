@@ -1,0 +1,39 @@
+{
+    "app_id": 706130,
+    "name": "Far from Noise",
+    "release_date": "2017-11-14",
+    "developer": [
+        "George Batchelor"
+    ],
+    "publisher": [
+        "George Batchelor"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Conversation"
+    ],
+    "achievements": 9,
+    "positive_ratings": 88,
+    "negative_ratings": 9,
+    "price": 5.99,
+    "description": "Far from Noise is a narrative set on the edge of a cliff, where two characters discuss what it means to balance between life and death.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/706130/header.jpg?t=1510661252",
+    "minimum_requirements": "OS: WindowsXP SP2 or higher Processor: 1.80GHz Processor Memory: 2 GB RAM Graphics: Video card with 512MB of VRAM Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

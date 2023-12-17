@@ -1,0 +1,50 @@
+{
+    "app_id": 2330,
+    "name": "QUAKE II Mission Pack: The Reckoning",
+    "release_date": "2007-08-03",
+    "developer": [
+        "Xatrix Entertainment"
+    ],
+    "publisher": [
+        "id Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "FPS",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 65,
+    "negative_ratings": 12,
+    "price": 2.49,
+    "description": "You are part of an elite commando force that must infiltrate a hostile alien cite. Once inside, you must scour industrial landscapes, crawl through waterways and air ducts, navigate treacherous canyons teeming with vicious mutants, stow away on an alien spacecraft, and destroy the enemy's secret moon base.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/2330/header.jpg?t=1543499328",
+    "minimum_requirements": "A 100% Windows XP/Vista-compatible computer system",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Quake 2 Mission Pack: The Reckoning is the first official mission pack made for Quake 2, being made by Xatrix and released in 1998. Comes with whole new single-player campaign, new weapons, items and enemies.  And yes, this Steam release is completely screwed up. Just like expected from id software games. This game will not even launch properly without some work. The simplest way is to open game's folder and edit 'reckoning.bat' to delete '+set cddir D:\\data\\max' line from it. Then launch this .bat file. Steam will count you as launching Quake 2, by the way. Or you can use source port if you don't care about Vanilla experience.  The music once again was not included. You will have to track it down in some way or another. Or find retail copy. Unless you use source port, Quake 2 reads Redbook music from the first disc drive. You also will have to find and learn neat _inmm program to make music loop correctly.  And then there is lack of widescreen support by default, albeit I heard it can easily be edited in config or with source port. Oh, and it would stutter for me a lot. Unless I would go into Video options in game's menu and then exit, as it got fixed by itself. Strange. It also doesn't seem to save configuration so you have to redo in-game options tweaks everytime you launch it.  Multiplayer community, well, I didn't check personally. But I think that it uses same stuff as Quake 2 and no one uses expansions packs.  The plot of this game is that you are the 'joker' and you don't make a single joke. Now that's a bloody dissapointment! Oh, and you are also a soldier who has to blow up another Strogg base solo so they can't attack Earth once again.  Main campaign of the game is similar to Quake 2 one, which is a fine thing. You once again will have to rock in linear way, sometimes backtracking for sake of linear progress of finding the key and you will shoot new weapons at new modifications of enemies while listening to new music track which are in same style as Q2 and thus are cool, man. Levels are fairly well done as well. The last ones even have low gravity which is fairly neat. However it also means that the setting is same: boring grey-red tech stuff of generic-ness. But we can blame Q2 itself for that. It also doesn't help that every second room is warehouse, filled with crates, enemies behind crates and crates.  The new arsenal given to player is pretty good. There are two new weapons: Ion Ripper and Phalanx. Ion Ripper uses same cells as Hyperblaster and BFG9000 and shoots arrow-like energy projectiles that ricochet off the walls. It doesn't kill as fast as Hyperblaster, but the projectiles are more damaging and in the end you will save more ammo. Plus, it really feels good to shoot it, with sound and damage that they can do to enemy. Phalanx on another hand is strange: uses unique ammo and shoots two rocket-like projectiles one after another. No idea what it's good for as Rocket Launcher seems to have bigger DPS and Phalanx can't kill anyobdy with two projectiles where RL does the job with two rockets. The only thing that saves it is that it uses unique ammo, but at that point you will be swimming in it.  You also get to find two new items: Trap and Quad Fire Damage. Trap is just a fancy rare thing that you can throw at the ground and watch it pack the gibs of enemy that got sucked in to be packed into yummy tech-meatball that you can nom for health. Dual Fire Damage quads up fire speed of your weapon so you can not only kill two times faster, but waste ammo two times faster too. So you can combine it with Quad Damage and beat the reused final boss in 15 seconds instead of 30. Yay.  As for enemies, well, he we go. The only truly new enemy is a new kind of mutant, who has shiny yellow parts and more monkey-like. He is slower than Q2 mutants, but jumps pretty nicely, can swim and shoot at you as well. Also seems to be animated very well. There are two levels where you fight nothing but them, yep. As for Stroggs it's a bit more lazy than that. It just modified them to be more threatening. Light Guards were given many new weapons, with one of them being some instant accurate laser that really annoyes. The slow surgery robots with shielf in front were changed from pathetic to overkill, as they can now shoot instant hook at you which will throw you at them and they can shoot accurate instant laser at you too. And for some reason developers decided that it would be just plain fantastic to give even more health to already tough enemy by putting force-shield over them which sucks a lot of damage, at which points it takes a whole minute to destroy them and is just plain boring. And final boss is reused.  Also, being forced to sometimes jump down because lift below isn't nice enough to raise up to carry you, forcing you to take small damage. Really?  Yea. As you see, The Reckoning is fairly decent for expansion pack, but it does have some flaws in that it annoyes you more or being more tedius. Still fun overall.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THE ONLY THING YOUR GONNA WRECKON IS EARTHQUAKES",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good expansion pack, but nowhere as good as the original, way to many cheap areas, and not to mention at the end enemies that can nearly oneshot you and take more than 20 rockets to kill.  But those are minor gripes, every quake is a must play for fps fans ^^",
+            "review_score": "1"
+        }
+    ]
+}

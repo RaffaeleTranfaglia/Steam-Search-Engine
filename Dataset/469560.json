@@ -1,0 +1,46 @@
+{
+    "app_id": 469560,
+    "name": "Hyper Bowling VR",
+    "release_date": "2016-05-11",
+    "developer": [
+        "Blaze Forward Games"
+    ],
+    "publisher": [
+        "Blaze Forward Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Sports",
+        "VR"
+    ],
+    "achievements": 13,
+    "positive_ratings": 7,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Can't make it to the bowling alley? No problem! Try your hand at Hyper Bowling VR. Play in stunning and breathtaking bowling alleys as you try to achieve the perfect game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/469560/header.jpg?t=1478238765",
+    "minimum_requirements": "OS: Windows 8, Windows 8.1, Windows 10 Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I've been working on a free demo with more polish than this.... come on guys. $20 bucks? This might be acceptable at $.99",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's kinda fun, it's alot better than that other Vive bowling game. If you don't mind paying the high price tag for single player bowling then go for it. Since choices are slim on Vive games atm. I may keep it but I sure hope the Developer plans to improve it. I wish it atleast claim to be early access because it needs a lot more polish. Graphics are rather ugly, multiplayer is not included, and in my opinion is a requirment. It appears to be using a $30 Unity Assets pack with a few added stock images. Balls just stick anywhere on the controller when grabbed which is strange not being in a standard location. For now I'll keep it as a thumbs up but only because it's the best bowling on Vive.",
+            "review_score": "1"
+        }
+    ]
+}

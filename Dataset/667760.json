@@ -1,0 +1,44 @@
+{
+    "app_id": 667760,
+    "name": "Super Lumi Live",
+    "release_date": "2017-09-05",
+    "developer": [
+        "Gemi Games"
+    ],
+    "publisher": [
+        "Discovermypath"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "2D"
+    ],
+    "achievements": 26,
+    "positive_ratings": 17,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "A brutally frustrating and rewarding classical platformer with pure and fluid movement. This game will never waste your time but it might make you break your controller... or your keyboard... or both.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/667760/header.jpg?t=1543370858",
+    "minimum_requirements": "OS: Windows XP or higher Processor: Intel Core 2 Duo 2.4GHz or AMD Athlon X2 2.3GHz Memory: 1 GB RAM Graphics: 512 MB SM 3.0 (GeForce GTX 300+, Radeon HD 4000+ or Intel 4500+) DirectX: Version 9.0 Storage: 700 MB available space Sound Card: DirectX 9.0 compatible card Additional Notes: Controller strongly recommended",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel Core 2 Quad 3.0GHz or AMD Athlon X4 2.4GHz Memory: 2 GB RAM Graphics: 1024 MB SM 3.0 (GeForce GTX 600+, Radeon R9 200+ or Intel HD 4000+) DirectX: Version 9.0 Network: Broadband Internet connection Storage: 700 MB available space Sound Card: DirectX 9.0 compatible card Additional Notes: Controller strongly recommended",
+    "reviews": []
+}

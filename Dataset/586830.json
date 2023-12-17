@@ -1,0 +1,43 @@
+{
+    "app_id": 586830,
+    "name": "Mighty Monster Mayhem",
+    "release_date": "2017-04-20",
+    "developer": [
+        "Rank17"
+    ],
+    "publisher": [
+        "Rank17"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 127,
+    "positive_ratings": 15,
+    "negative_ratings": 5,
+    "price": 10.99,
+    "description": "Destroy entire cities, disturb the population, and watch the world crumble as a terrifying monster in Mighty Monster Mayhem!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586830/header.jpg?t=1493884067",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 4 GB RAM Graphics: NVIDIA GTX 980 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i7 Memory: 16 GB RAM Graphics: NVIDIA GTX 1070 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

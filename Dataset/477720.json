@@ -1,0 +1,44 @@
+{
+    "app_id": 477720,
+    "name": "Toricky",
+    "release_date": "2017-01-13",
+    "developer": [
+        "Atelier Melon-Kissa"
+    ],
+    "publisher": [
+        "Atelier Melon-Kissa"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 66,
+    "positive_ratings": 7,
+    "negative_ratings": 6,
+    "price": 10.99,
+    "description": "Toricky is an old-school Action-Adventure game featuring unique mechanics based on fast-flying and physics. Explore immense 2D Zones, and defeat gigantic Bosses, to save the Crystar Palace!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/477720/header.jpg?t=1542824193",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 2 GB RAM Graphics: DirectX or OpenGL Compatible Video card DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "OS: WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: AMD A10 5745M @ 2.1GHz / Intel(R) Core(TM) i7-4700MQ CPU @ 2.4GHz or higher Memory: 4 GB RAM Graphics: AMD Radeon HD 7800 Series / NVIDIA GeForce GTX 460 or higher DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

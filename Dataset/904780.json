@@ -1,0 +1,38 @@
+{
+    "app_id": 904780,
+    "name": "DeepWeb",
+    "release_date": "2018-09-20",
+    "developer": [
+        "ImageCode"
+    ],
+    "publisher": [
+        "ImageCode"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "First-Person"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 6,
+    "price": 2.09,
+    "description": "DeepWeb is a retrofuturistic platformer with a unique retrowave soundtrack where you’re trapped in a TRON-like virtual reality created by an artificial intellegence in the future. Your goal is to reach central facility of the DeepWeb network, disable it and escape the virtual world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/904780/header.jpg?t=1539957075",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-core Intel/AMD Processor at 2.5GHz Memory: 2048 MB RAM Graphics: GeForce 9600GT or AMD Radeon HD3850 DirectX: Version 10 Storage: 800 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad-core Intel/AMD Processor at 2.7Ghz Memory: 4096 MB RAM Graphics: GeForce GTX1050Ti or AMD Radeon RX 560 DirectX: Version 10 Storage: 800 MB available space",
+    "reviews": []
+}

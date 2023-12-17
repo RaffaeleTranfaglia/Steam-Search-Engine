@@ -1,0 +1,43 @@
+{
+    "app_id": 514640,
+    "name": "TankYou!",
+    "release_date": "2016-09-16",
+    "developer": [
+        "Virgil Tuser"
+    ],
+    "publisher": [
+        "Scorpius Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 22,
+    "positive_ratings": 11,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "TankYou! offers the most destructive twin-stick arena-shooting action that a game should even consider. It centers on easy-to-learn but hard-to-master mechanics and allows up to 4 players couch-coop on any game mode!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/514640/header.jpg?t=1474102353",
+    "minimum_requirements": "OS: Windows 7 Processor: Quad Core CPU 2.5Ghz Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 660 or AMD Radeon R9 200 series DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Quad Core CPU 3.5Ghz Memory: 4 GB RAM Graphics: Nvidia GeForce GTX970 or equivalent DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

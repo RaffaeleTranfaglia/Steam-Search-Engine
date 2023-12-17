@@ -1,0 +1,43 @@
+{
+    "app_id": 656040,
+    "name": "The Wolf's Bite",
+    "release_date": "2017-08-28",
+    "developer": [
+        "ericmbernier",
+        "bitmOO",
+        "davecoughlin76"
+    ],
+    "publisher": [
+        "ericmbernier"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 22,
+    "positive_ratings": 30,
+    "negative_ratings": 4,
+    "price": 2.89,
+    "description": "The Wolf's Bite is a one-versus-one choose-your-own-adventure game with an entrepreneur fairy tale twist. Inspired by stories such as &quot;The Three Little Pigs&quot; and &quot;The Stinky Cheeseman and Other Fairly Stupid Tales&quot;, the game revolves around thwarting the other player while ensuring your business thrives.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656040/header.jpg?t=1503926862",
+    "minimum_requirements": "OS: Windows XP Memory: 2 GB RAM DirectX: Version 9.0 Storage: 125 MB available space Additional Notes: Minimum resolution of 960 x 540",
+    "recommended_requirements": null,
+    "reviews": []
+}

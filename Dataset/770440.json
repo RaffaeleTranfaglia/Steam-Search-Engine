@@ -1,0 +1,40 @@
+{
+    "app_id": 770440,
+    "name": "Hangover",
+    "release_date": "2018-01-09",
+    "developer": [
+        "Divertic"
+    ],
+    "publisher": [
+        "Garage Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 56,
+    "negative_ratings": 39,
+    "price": 1.69,
+    "description": "Hangover is a story rich adventure with multiple endings. You wake up after a party in a mess and realize that you need to get to work in an hour!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770440/header.jpg?t=1553584811",
+    "minimum_requirements": "OS: Windows 98 Processor: Any CPU Memory: 128 MB RAM Graphics: Intel HD2000 Storage: 100 MB available space Sound Card: Any Additional Notes: Works almost on anything",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo Memory: 512 MB RAM Graphics: Intel HD2000 or better DirectX: Version 9.0 Storage: 150 MB available space Sound Card: Any",
+    "reviews": []
+}

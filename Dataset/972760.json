@@ -1,0 +1,43 @@
+{
+    "app_id": 972760,
+    "name": "Hidden Saga: Xamadeon Stone",
+    "release_date": "2019-02-28",
+    "developer": [
+        "Halit Büyükyılmaz",
+        "Kaan Kurtuluş"
+    ],
+    "publisher": [
+        "Halit Büyükyılmaz"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 11,
+    "negative_ratings": 5,
+    "price": 5.39,
+    "description": "Are you good at finding things and enjoy interactive levels? You are at the right place! You need to dig for artifacts, look inside a lion's mouth, beep-boop the cars and much more in Hidden Saga!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/972760/header.jpg?t=1553778875",
+    "minimum_requirements": "OS: Windows 7+ Processor: SSE2 instruction set support DirectX: Version 9.0 Storage: 320 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

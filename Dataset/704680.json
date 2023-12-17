@@ -1,0 +1,42 @@
+{
+    "app_id": 704680,
+    "name": "AMPLITUDE: A Visual Novel",
+    "release_date": "2017-09-05",
+    "developer": [
+        "Ceylon Entertainment"
+    ],
+    "publisher": [
+        "Ceylon Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Gore",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Visual Novel",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 25,
+    "negative_ratings": 5,
+    "price": 7.99,
+    "description": "Amplitude is a story-centric visual novel. You play as either Adam or Eve, a murder victim who made a dubious deal to seek revenge. With the help of your new vessel, Katy or Jon, will you uncover the mystery or will you take more than you bargained for?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704680/header.jpg?t=1504791445",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP SP1 and up Processor: 1.7 Ghz Pentium 4  64 bit Memory: 1 GB RAM Graphics: 1280 x 720 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

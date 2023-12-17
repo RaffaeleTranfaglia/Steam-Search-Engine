@@ -1,0 +1,43 @@
+{
+    "app_id": 502480,
+    "name": "VoxVR",
+    "release_date": "2017-10-20",
+    "developer": [
+        "Broken Vector",
+        "Michael Lohr",
+        "Jack Dähn",
+        "Lars Grevsmühl",
+        "Nico Thomas",
+        "Robin Quint"
+    ],
+    "publisher": [
+        "Broken Vector"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities"
+    ],
+    "tags": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "VoxVR is a creative tool that allows you to create 3D models using cubes in virtual reality.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/502480/header.jpg?t=1529399099",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64 bit) Processor: CPU: Intel i5-4590, AMD FX 8350 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 DirectX: Version 11 Storage: 300 MB available space Additional Notes: You need an HTC Vive or Oculus Rift + Touch!",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher (64 bit) Processor: CPU: Intel i5-4590, AMD FX 8350 or better Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 or better DirectX: Version 11 Storage: 1 GB available space Additional Notes: You need an HTC Vive or Oculus Rift + Touch!",
+    "reviews": []
+}

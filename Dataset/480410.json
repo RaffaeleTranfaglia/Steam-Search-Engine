@@ -1,0 +1,45 @@
+{
+    "app_id": 480410,
+    "name": "Mitch: Berry Challenge",
+    "release_date": "2016-08-25",
+    "developer": [
+        "Boidae Games"
+    ],
+    "publisher": [
+        "Boidae Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 25,
+    "positive_ratings": 13,
+    "negative_ratings": 2,
+    "price": 2.79,
+    "description": "Mitch: Berry Challenge is a Lighthearted Retro inspired 2D Platformer with classic and simple controls, challenging levels, hand drawn animations and a fully composed soundtrack.You'll play as a Green Iguana from the Goain Tribe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/480410/header.jpg?t=1503675299",
+    "minimum_requirements": "OS: Windows XP SP2 or Superior Processor: Dual Core 2.3 Ghz Memory: 512 MB RAM Graphics: Shader Model 3.0 Capable Video Card, 256MB or Higher DirectX: Version 9.0c Storage: 800 MB available space",
+    "recommended_requirements": "OS: Windows 7 or Superior Processor: Dual Core 2.8 Ghz Memory: 1 GB RAM Graphics: Shader Model 3.0 Capable Video Card, 1GB or Higher DirectX: Version 9.0c Storage: 800 MB available space",
+    "reviews": []
+}

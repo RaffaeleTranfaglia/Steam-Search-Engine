@@ -1,0 +1,83 @@
+{
+    "app_id": 462000,
+    "name": "Cyberpong",
+    "release_date": "2016-04-28",
+    "developer": [
+        "COLOPL, Inc."
+    ],
+    "publisher": [
+        "COLOPL, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 93,
+    "negative_ratings": 11,
+    "price": 5.99,
+    "description": "Enter a realm of cyberspace where hitting digital orbs can gain you ultimate glory! In this retro styled game you are given two paddles to prove what you're made of. Harness your skills in single player mode and then face off against your friends in multiplayer matches!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/462000/header.jpg?t=1494513245",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better DirectX: Version 10 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  Very active an intense. I like how I can improve by moving faster, aiming my shots better, or strategizing around powerups. I'd put this up there with Space Pirate Trainer as a simple game that you can play for a long time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun Game, with great Head 2 Head gaming possibilities!   Simple and fun as the SPT game.  However, it would be nice with a cleaner background when challenging other users, a bit hard to see the chaperon system when playing and moving around. To Much flashing graphics around the play area, would be great if there was a minimal vector grapic setup for seriously online competitions, that could selectable. To broadcast it for live competitions!  /J",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My initial reaction was a fun game with some tweaks needed. The developers have since made some changes to the mechanics that have helped. This is a game I keep coming back to. It's awesome when you are able to keep 4 o 5 orbs going at the same time. I don't know why people keep compairing this to Holoball, they are completely different games (and I like this one more).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VR 3D pong on steroids.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I only played it for 20 minutes but already feel compeled to leave this review:  This is one of the most polished vr games I played so far, really fun and worth every penny. The way the walls ripple when you hit them, the controller feedback and looks....just awesome ! Was not able to test the multiplayer part so the only thing I'm missing is a multiplayer lobby where you can see all active sessions and join one. Maybe with events at certain times and the ability to spectate a match ?  Anyway just the singplayer is worth the money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a nice mini-game that is a nice addition to my VR collection. Some aspects of this game are very good and somewhat unique to this title. The developer seems to deliver the intended experience and does a good job of explaining how the game works.  Like most Vive compatible games, however, the replayability of this game is very low. Its good for about 10-15 minutes if I am playing alone or about an hour when playing with friends.  - 3 of 10 stars when compared to all other games, including AAA games not made for Vive/VR. - 6 of 10 stars when compared to all other Vive games (available today). - $5 recommended value if the game does not improve much beyond its current state as of 7/10/2016.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Neat and fun Graphics are top notch",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This really is one of the most complete VIVE games out there. Its a ton of fun and well polished. The Devs are just killing it with the updates! Please buy this game, multiplayer is a blast but we need more people on it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nothing short of amazing.   Devs, fix the ping pong paddle girl and give her tennis rackets, or at least make her frickin' paddle a LITTLE bigger.... shes too hard to use; thus never too high on the leaderboards! Fix her!  9.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The ball can fly outside chaperone bounds. I cannot safely play it until being fixed. Let the player setup the tube width, height and position. ",
+            "review_score": "-1"
+        }
+    ]
+}

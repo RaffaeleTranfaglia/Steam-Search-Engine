@@ -1,0 +1,38 @@
+{
+    "app_id": 715560,
+    "name": "Eastshade",
+    "release_date": "2019-02-13",
+    "developer": [
+        "Eastshade Studios"
+    ],
+    "publisher": [
+        "Eastshade Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Exploration",
+        "Relaxing",
+        "Open World"
+    ],
+    "achievements": 18,
+    "positive_ratings": 534,
+    "negative_ratings": 93,
+    "price": 19.49,
+    "description": "You are a traveling painter, exploring the island of Eastshade. Capture the world on canvas using your artist’s easel. Talk to the inhabitants to learn about their lives. Make friends and help those in need. Visit cities, scale summits, unearth mysteries, and discover forgotten places!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/715560/header.jpg?t=1550428985",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5-750/AMD Phenom II X4-945 Memory: 6 GB RAM Graphics: Nvidia GTX 560 Ti/Radeon HD 6950 DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

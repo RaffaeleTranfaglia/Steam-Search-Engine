@@ -1,0 +1,39 @@
+{
+    "app_id": 812980,
+    "name": "POSTWORLD",
+    "release_date": "2018-08-31",
+    "developer": [
+        "Screwdriver Entertainment"
+    ],
+    "publisher": [
+        "Screwdriver Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Gore",
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Gore",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 16,
+    "positive_ratings": 40,
+    "negative_ratings": 29,
+    "price": 15.0,
+    "description": "Cyborgize your character and take over the wasteland!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/812980/header.jpg?t=1535842870",
+    "minimum_requirements": "OS: Windows 7 or later (64-bit) Processor: Dual-core Intel 2.4 Ghz or similar Memory: 8 GB RAM Graphics: NVIDIA GeForce 470 GTX 2GB VRAM or similar Storage: 35 GB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 7 or later (64-bit) Processor: Quad-core Intel 2.4 Ghz or similar Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 6GB VRAM or similar Storage: 35 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,52 @@
+{
+    "app_id": 393460,
+    "name": "Crazy Pixel Streaker",
+    "release_date": "2016-06-07",
+    "developer": [
+        "Lubiterum"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 42,
+    "positive_ratings": 37,
+    "negative_ratings": 29,
+    "price": 3.99,
+    "description": "A Fresh and Insane Brawler with Roguelike elements. Lead a fellowship of jackasses abducted by angry aliens and forced to spread chaos into the most famous sports events. Instant fun, Retro Arcade style, for up to 4 players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/393460/header.jpg?t=1551367127",
+    "minimum_requirements": "OS: Windows Vista or newer Processor: Pentium Dual-Core T4400 Memory: 1 GB RAM Graphics: ATI Radeon HD 4500 / NVIDIA GT430 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great party game with friends. Playing alone makes you remember your undying sadness and that your friends don't apreciate you enough to spend 10$ and remain your freinds. The gameplay is solid and challenging enough to give you a good run for your money, the story is awesomr (nuff' said), the music if pretty hot and the animations are fun and well done. Overall, great game!",
+            "review_score": "1"
+        }
+    ]
+}

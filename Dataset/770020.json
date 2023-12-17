@@ -1,0 +1,40 @@
+{
+    "app_id": 770020,
+    "name": "Royal Tumble",
+    "release_date": "2018-01-09",
+    "developer": [
+        "4ShawGames"
+    ],
+    "publisher": [
+        "4ShawGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 2.89,
+    "description": "Can you build a castle worthy of King Ono? Succeed and you'll be showered in gold coins, fail and your King might be in for a royal flight.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770020/header.jpg?t=1515930500",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73 Memory: 4 GB RAM Graphics: ATI Radeon HD 4850 or NVIDIA GeForce 9600 GT DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

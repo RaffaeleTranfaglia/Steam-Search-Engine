@@ -1,0 +1,43 @@
+{
+    "app_id": 810640,
+    "name": "Radiis",
+    "release_date": "2018-07-19",
+    "developer": [
+        "Urban Goose Games"
+    ],
+    "publisher": [
+        "Urban Goose Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 33,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "Radiis is a turn based strategy game without any moving units, only buildings. Place your buildings wisely and be the first player to conquer the land.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/810640/header.jpg?t=1537713466",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: Intel core i5-520M @ 2.4GHz or AMD Phenom II X4 955 Memory: 4 GB RAM Graphics: GeForce GTX 460 or Radeon HD 6870 DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel core i7-7500u @ 2.7GHz or AMD Phenom II X6 1055T Memory: 4 GB RAM Graphics: GeForce GTX 670 or Radeon HD 7970 DirectX: Version 11 Storage: 400 MB available space",
+    "reviews": []
+}

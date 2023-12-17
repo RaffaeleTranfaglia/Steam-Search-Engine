@@ -1,0 +1,40 @@
+{
+    "app_id": 614890,
+    "name": "Cuit",
+    "release_date": "2017-04-24",
+    "developer": [
+        "Class-X Games"
+    ],
+    "publisher": [
+        "Class-X Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 6,
+    "positive_ratings": 37,
+    "negative_ratings": 9,
+    "price": 0.0,
+    "description": "In CUIT, it is only you and your mind. A challenging and relaxing puzzle game, ready to test you from top to bottom. Navigate a current through a circuit. Power a target, avoid the explosives. Sounds easy? Try it - and guess again. A logical challenge - for everyone.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/614890/header.jpg?t=1549419980",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 1.4 GHz Memory: 2 GB RAM Graphics: Dedicated card with OpenGL 2.1 support Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 1.4 GHz Memory: 2 GB RAM Graphics: Dedicated card with OpenGL 2.1 support Storage: 140 MB available space",
+    "reviews": []
+}

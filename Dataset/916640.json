@@ -1,0 +1,36 @@
+{
+    "app_id": 916640,
+    "name": "HecatoncheirStory",
+    "release_date": "2018-08-20",
+    "developer": [
+        "ARGames"
+    ],
+    "publisher": [
+        "Metal Fox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 3,
+    "positive_ratings": 1,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "You are a young monster hunter who moves between worlds in search of special prey.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/916640/header.jpg?t=1534792774",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8/10 Processor: Intel core 2 duo Memory: 4 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

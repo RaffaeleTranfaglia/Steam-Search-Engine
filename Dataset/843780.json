@@ -1,0 +1,38 @@
+{
+    "app_id": 843780,
+    "name": "City Builder",
+    "release_date": "2018-05-27",
+    "developer": [
+        "Cow Corp."
+    ],
+    "publisher": [
+        "Cow Corp."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 40,
+    "positive_ratings": 6,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "You're a government worker who is building a city one building at a time. Place parts of your building to build the tallest building ever created in this fun filled endless stacker!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/843780/header.jpg?t=1527434184",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD Turion Dual-Core RM-75 Memory: 1 GB RAM Graphics: Nvidia GeForce GTX 650 Storage: 50 MB available space Sound Card: M-Audio AV40",
+    "recommended_requirements": null,
+    "reviews": []
+}

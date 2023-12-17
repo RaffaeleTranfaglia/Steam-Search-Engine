@@ -1,0 +1,38 @@
+{
+    "app_id": 839960,
+    "name": "The Technician",
+    "release_date": "2018-12-10",
+    "developer": [
+        "Dumb Game Company"
+    ],
+    "publisher": [
+        "Dumb Game Company"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "The Technician is a VR action puzzle game about hacking your way through security systems. Usually while being shot at.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/839960/header.jpg?t=1547582711",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 equivalent or better Memory: 8 GB RAM Graphics: Nvidia GeForce 970 equivalent or better Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-6700K equivalent or better Graphics: Nvidia GeForce 1070 equivalent or better Storage: 3 GB available space",
+    "reviews": []
+}

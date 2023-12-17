@@ -1,0 +1,40 @@
+{
+    "app_id": 827220,
+    "name": "Overclocked: The Aclockalypse",
+    "release_date": "2018-04-26",
+    "developer": [
+        "Timewind LLC"
+    ],
+    "publisher": [
+        "Timewind LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 4,
+    "positive_ratings": 28,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Overclocked: The Aclockalypse is a roguelike bullet hell following The Keeper’s time-twisting battle to reclaim The Eternal Sands from Greenwich and her clockwork army.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/827220/header.jpg?t=1524808826",
+    "minimum_requirements": "OS: Windows 8/10 64bit Processor: Intel i3 3.1GHz or equivalent Memory: 1 GB RAM Graphics: GTX 610 or equivalent DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 8/10 64bit Processor: Intel i5 3.6 GHz or equivalent Memory: 2 GB RAM Graphics: GTX 770 or equivalent DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 852500,
+    "name": "WorldQuest",
+    "release_date": "2018-04-29",
+    "developer": [
+        "William Xu",
+        "Alex Raita"
+    ],
+    "publisher": [
+        "William Xu",
+        "Alex Raita"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 50,
+    "negative_ratings": 25,
+    "price": 0.0,
+    "description": "Terraria + MOBA + RTS. Buy weapons and armours, use potions, and construct buildings to push your opponents back and plunder their base. Manage your team's economy while also fighting on the frontlines.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/852500/header.jpg?t=1525129173",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel Core 2 Duo P8800 Memory: 2 GB RAM Graphics: Radeon HD 7350 Storage: 360 MB available space Sound Card: None",
+    "recommended_requirements": null,
+    "reviews": []
+}

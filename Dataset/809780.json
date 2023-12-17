@@ -1,0 +1,37 @@
+{
+    "app_id": 809780,
+    "name": "TheGunRunner",
+    "release_date": "2018-03-16",
+    "developer": [
+        "ExtinctionArts"
+    ],
+    "publisher": [
+        "ExtinctionArts "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 8,
+    "price": 4.79,
+    "description": "Race against the clock to retrieve all guns on the level(s) before time runs out.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809780/header.jpg?t=1521194278",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: Intel Dual-Core 2GHz or AMD Dual-Core 2GHz Memory: 4 MB RAM Graphics: NVIDIA GeForce 400 series or AMD Radeon HD 6000 series, 1GB Video Card (Minimum Shader Model 2.0) Storage: 1 GB available space Sound Card: DirectX Compatible Sound Card with latest drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 354050,
+    "name": "Starlight Tactics™",
+    "release_date": "2015-04-07",
+    "developer": [
+        "Escape Hatch Entertainment,LLC"
+    ],
+    "publisher": [
+        "Escape Hatch Entertainment, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 59,
+    "positive_ratings": 13,
+    "negative_ratings": 10,
+    "price": 6.99,
+    "description": "Travel a hundred years into the future to command an advanced space fleet in full 3D turn-based tactical space combat through the greatest conflict humankind has ever known. Protect the Sky!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/354050/header.jpg?t=1499652379",
+    "minimum_requirements": "OS: Windows XP Processor: SSE2 instruction set support (Pentium 4 and above, AMD, circa 2001 and above) Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work DirectX: Version 9.0 Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "OS: Windows 7 Service Pack 1 64-bit Processor: Duo Core Processor Memory: 2 GB RAM Graphics: 2 GB Dedicated Video Memory, DirectX9 Compatible, AMD Radeon HD 6950 / NVIDIA GeForce GTX 560 DirectX: Version 9.0 Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "reviews": [
+        {
+            "review_text": "Bedroom programming at its best. Piece of crap, no point in having more than 1 ship as if you are fighting 3 vs 1 the AI gets to use his 1 ship 3 times (move and shoot) while each of your 3 ships only move and shoot the once each. Order is your 1st ship, then his, your 2nd ship then his then your 3rd ship then his yet again. So unless you kill him with your very first ship he will blow up the rest np. By the time you get to your 3rd ship (should say last ship as the first 2 are already dead) he has moved and shot 2 timesy. So you start with 3 ships and will loose 2 before destroying his only ship. Its not tatics at all, each of your ships are not working together at all, its 3 separate objects trying to kill 1 object.  The space is just pictures in background and planets the same, just a sky box. This feels like a unity home edition engine that can be made in a week, the menus are poor, just buttons. The fx you could run on windows for workgroups using a 386 with 1meg ram and 256k video card. This game can run on anything, sure my washing machine could run it, its so basic its unreal.  The only thing I do like is the ship models, cracking job on them 10/10 for the 3d models, the programmer should stick to lotus 1-2-3 or wordperfect macros.  Added: 09/04/15  played again and found this time I could progress in the game by resetting the main campaign and doing the first 2 maps a few times, as even after a reset it keeps your ships and CP`s, a little odd but it gave me enoguh CP`s to fully upgrade my ship. So now I am getting some value to the game and for £6 I will change my recoomendation to Yes.   It does need more work on the front end, the menus need to be cleaner and crisp, higher res graphic elements would go a long way, it would mean I will need to upgrade my 386 to a more modern Pc like an IBM thinkpad or maybe I will stick with my Amstrad PCW as the green fonts on black look good.",
+            "review_score": "1"
+        }
+    ]
+}

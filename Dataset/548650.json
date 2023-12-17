@@ -1,0 +1,44 @@
+{
+    "app_id": 548650,
+    "name": "Lightspeed Frontier",
+    "release_date": "2017-03-07",
+    "developer": [
+        "Crowdwork Studios"
+    ],
+    "publisher": [
+        "Riveted Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Space"
+    ],
+    "achievements": 19,
+    "positive_ratings": 28,
+    "negative_ratings": 11,
+    "price": 10.99,
+    "description": "Leave everything behind and try your hand at captaining a ship on the fringes of the universe. Customize your ship, explore vast star systems, invest in corporations, and embark on expeditions discovering fame and fortune within Lightspeed Frontier!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/548650/header.jpg?t=1545351179",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i3 Memory: 4 GB RAM Graphics: Intel HD Graphics 6000 / AMD Radeon HD 7700 Storage: 300 MB available space Sound Card: Yes",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i5-4670K Memory: 8 GB RAM Graphics: Nvidia GTX 760 / Nvidia GTX 960M  / AMD R9 280 Storage: 500 MB available space Sound Card: Very much yes.",
+    "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+    "app_id": 384100,
+    "name": "Slybots: Frantic Zone",
+    "release_date": "2016-01-18",
+    "developer": [
+        "Team ERROR",
+        "Tiny Colossus"
+    ],
+    "publisher": [
+        "Mangatar Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Local Multiplayer"
+    ],
+    "achievements": 5,
+    "positive_ratings": 32,
+    "negative_ratings": 7,
+    "price": 4.99,
+    "description": "Slybots: Frantic Zone is a dual-stick shooter reinvented with stealth mechanics. Immerse yourself in crazy 3-minute matches, be as sly as a robot and enjoy the adrenalin rush of the most frantic zone you’ve ever seen.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384100/header.jpg?t=1453152197",
+    "minimum_requirements": "OS: Windows XP 32bit Processor: Core 2 Duo or equivalent Memory: 2 GB RAM Graphics: DX9 / Shader Model 2.0 or newer graphics card DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 8.1 64bit Processor: Intel iSeries 2rd gen or newer Memory: 4 GB RAM Graphics: Intel Integrated graphics from 3rd gen or newer (HD4400/HD4600) / 2013 dedicated graphics card DirectX: Version 10 Storage: 300 MB available space",
+    "reviews": [
+        {
+            "review_text": " A basic arcade arena shooter",
+            "review_score": "-1"
+        }
+    ]
+}

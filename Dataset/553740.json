@@ -1,0 +1,38 @@
+{
+    "app_id": 553740,
+    "name": "Echo Lake",
+    "release_date": "2017-01-27",
+    "developer": [
+        "The Man Who Flew Away"
+    ],
+    "publisher": [
+        "Capsule Three"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 1,
+    "price": 7.99,
+    "description": "Enter the moonlit world of Echo Lake: a single-player adventure game currently in development via Steam (PC) Early Access. v2.0 includes Astronaut mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553740/header.jpg?t=1540124092",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 3570k @ 3.4GHz Memory: 4 GB RAM Graphics: 460 GTX DirectX: Version 9.0 Storage: 1200 MB available space Sound Card: Realtek High Definition Audio Additional Notes: Requirements based on alpha 2.0 demo",
+    "recommended_requirements": null,
+    "reviews": []
+}

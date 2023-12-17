@@ -1,0 +1,57 @@
+{
+    "app_id": 291430,
+    "name": "Lost Marbles",
+    "release_date": "2014-05-30",
+    "developer": [
+        "Binary Takeover"
+    ],
+    "publisher": [
+        "Binary Takeover"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 17,
+    "positive_ratings": 34,
+    "negative_ratings": 11,
+    "price": 6.99,
+    "description": "Do you like challenging platforming? How about solving cool puzzles?! What about games that dare to use more than 3 shades of brown in their color palettes?!!? Well come on in!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/291430/header.jpg?t=1447361070",
+    "minimum_requirements": "OS: Windows XP or later Processor: 2.5 GHz processor Memory: 2 GB RAM Graphics: ATI or NVIDIA Videocard with at least 512MB or higher DirectX: Version 9.0 Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows XP or later Processor: 2.5 GHz Dual Core processor Memory: 3 GB RAM Graphics: 512 mb card with Shader Model 3 (Geforce 7 series or better) DirectX: Version 9.0 Storage: 350 MB available space",
+    "reviews": [
+        {
+            "review_text": "Lost Marbles concept is pretty straightforward: control and guide marbles, from the beginning of a level to the end. There are three types of marbles you will control. First, a rubber marble that can jump, swim in water and survive electrical damage. Second, a paper marble that can change its size to fit into smaller spaces and moved away on wind. Third, a metal marble that can be affected by magnets, ignore damage from fire and spikes, and accelerate forward to break through barriers. All of the marbles must reach the end of any given level in order for the stage to be completed. The puzzles require coordination and straight up puzzle solving. The controls are incredibly simple: roll your ball with the WASD keys, and change your camera angle by moving the mouse. Beyond this, a hardcore mode is available, tasking you with having to complete the levels perfectly in a raw, while failures sending you back to the beginning of the previous level. Which can be very disappointing and annoying, but fun in some wicked sense of humor way. Lost Marbles is a solid, decently polished game that delivers some well crafted challenge. If you are on the hunt for a new puzzle game to challenge you, this one is at least worth a look. Overall, the game was pleasant, refreshing and frustrating.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're a fan of games like Marble Blast Ultra you'll probably enjoy this.  I'm a sucker for these kind of game so I enjoyed it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lost my marbles trying this game. Alas, not for me!",
+            "review_score": "1"
+        }
+    ]
+}

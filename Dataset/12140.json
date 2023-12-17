@@ -1,0 +1,780 @@
+{
+    "app_id": 12140,
+    "name": "Max Payne",
+    "release_date": "2008-01-04",
+    "developer": [
+        "Remedy Entertainment"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Noir",
+        "Action",
+        "Classic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3926,
+    "negative_ratings": 435,
+    "price": 5.99,
+    "description": "Max Payne is a man with nothing to lose in the violent, cold urban night. A fugitive undercover cop framed for murder, hunted by cops and the mob, Max is a man with his back against the wall, fighting a battle he cannot hope to win.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/12140/header.jpg?t=1478120506",
+    "minimum_requirements": "OS: Microsoft® Windows® 2000/XP (only) Processor: 450MHz AMD / Intel Processor Memory: 96 MB RAM (128 MB RAM or greater recommended) Graphics: 16MB Direct3D Compatible Graphics Card DirectX Version: DirectX 8.0 Hard Drive: 830 MB Hard Drive Space for full install, 530 MB for minimum install Sound Card: DirectSound compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The biggest challenge in this game is to make it playable in Windows 10! - 'Windows 10' out of 10 :P  Tips:  1. Do not use the AA (Anti Aliasing) setting from within the game settings (game launcher); turn it off completely or if you want AA in Max Payne, force it via your graphics card driver, like nVIDIA Control Panel or such - this trick fixed the crash that I always had after the first cutscene!  2. Do not play the game in a 16:9 resolution (like 1920 X 1080), play it in another resolution (like 1680 X 1050; this is a 16:10 resolution btw) - this fixed my 'fullscreen problem'!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "To all those f♥cking idiots that refuse to use Google:  * To make your game start set compatibility mode with Windows 95 * To make your sounds work like intended get sound fix, there is a dedicated thread for it on Steam Forums * To jump on the train car at the very end of part VI of chapter I, either use shootdodge or don't jump at all but just run and do nothing else, Max will get on the train car anyway * To fix the cutscene with escaping Gognitti in the middle of part VII of the same chapter, walk into the first staircase and backtrack, cutscene will play as intended   Ugh. Recommended only because I don't wanna get attention of all those real gamers that would want to r♥pe my mother and slit my throat for saying otherwise. I mean it's a great game, one of those oldies that aren't getting really old, but… For f♥ck sake, I just can't stand repeating one part of the level for hour or so only because you'd have to either stand in the middle of the room filled with enemies or have over 9000 grenades, and it's just not for my nerves. I remember playing much younger Stranglehold which had pretty similar gameplay (although a bit easier) and I had tons of fun there, I wish I could get to it again, but somehow it refuses to cooperate with my Radeon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was amazing back in the day, and it still is, however there are some issues on modern PCs, but fixes are easy to find.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Holds up, and then some. You need a sound patch and a widescreen patch. But do it, DO IT. One of the best games I've played in years.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " 'To make any kind of sense of it, I need to go back three years. Back to the night the pain started.'   While Max remembers what happened 3 years before we need to go back 15 years. It was in 2001 that Remedy released an action-pack video game that was the first utilising the slow-mo we got to like so much after Matrix came out. I remember it was not long after the first benchmark software, 3DMark 99 was released - one of the graphics tests included the lobby scene from the Matrix recreated spectacularly thanks to the Max Payne engine.   'He was trying to buy more sand for his hourglass. I wasn't selling any.'   That's right. Max goes after the entire underworld of New York as some junkies kill his wife and baby girl. The game is pretty linear - we go from one area to the next. Everything is pretty straightforward but while making progress the action is almost constant and it is very easy to die unless we regularly turn on the slow-mo effect. Making things slower around us allows for more precision-shooting, too. I like how Max uses painkillers to make the pain go away - not health packs but regular painkillers.   'A bomb went off, turning snow into liquid gold.'   The game aged a lot but still looks pretty cool. At the time Remedy's software was revolutionary in every which way. The accompanying music is a classic one - the game's theme was later on used in its sequels and became one of the signature elements of the franchise.    'I was in a graphic novel. Funny as hell, it was the most horrible thing I could think of.'   There are dozens of cutscenes between the various stages but these all appear in the form of comic book pages. The narrator, Max, is actually played by the guy who wrote the game's screenplay, Sam Lake. We follow Max's internal monologues - his struggle with New York's evil and at the same time with his memories; the memory of losing his loved ones, something so painful that eventually set him on this dangerous path he can never leave.   'You piece together a jigsaw and the final picture is you finishing that same puzzle, a mad green-eyed killer standing behind you. An urban legend come true.'   There you have it: a classic 3rd person shooter that still matters. A game that has all the ingredients to give birth to an excellent action flick: Italian-American mobsters from New York, amazing dialogues / monologues and all this touched by a little - if not too much - film noir.  I do not think there are many brands out there whose sequels became really good. If you like trying out classic games this is a must have for you especially since almost everybody who appreciates the modern technology graphics have - probably - already played the 3rd and last episode. You'll probably have a sound issue once the game starts up for the first time but thanks to the many guides available on Steam this can be solved immediately.  PS: Steer away from the film adaptation released in 2008. It is the epitome of how bad video game adaptations can turn out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Such a shame they don't make ga-... No, artworks like this anymore. It'd be a profanity to call this piece of art 'a game'. It exceeded the expectations back in 2001 as far as graphics go, and even to this day (to the people that play it the first time, if they still exist) it exceeds expectation as far as story goes. The mix of gameplay, with the (back then) newly-found bullet time, story telling, graphic novel, music and incredibly detailed descriptions from a wonderful narration, makes this game one I'd go back and play again any day of the week.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best protagonist face ever! 10/10  One thing I do have to mention: if you are running Windows 7/8, you have to do a little trick in order to get the game running, if it doesn't on your computer. You have to create a text document in the game's install folder, open it, write this: 'start /affinity 1 MaxPayne2.exe', save it, modify it's extention to '.bat' and use this file to open up the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great classic game. The storyline is superb and amazing!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games I've ever played! It has everything that a FPS fan wants! Old but gold!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne... woah, where to begin?  I will start by saying it's one of my first PC games that I've played, back in 2002. The game is EXCELLENT! Even compared to today's standard. Sure, the graphics is a bit outdated, there are some sound issues but nothing game breaking that can't be fixed.   Compared to its time, Max Payne was a step ahead, great graphics, physics and special effects. The story line is very good and intriguing, the end chapters are full of surprises and mind♥♥♥♥ moments. I can say that this is the best game in the entire series, probably also the hardest. I have beaten it countless of times on ALL difficulties, including New-York minute!  Has a very high replayability value. Voice acting - excellent. Cutscenes - again excellent. Do not miss out on this cult classic, worth every dime!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne... it came with a mousepad.  May Payne... taught me the strength required to live with constant constipation. Max Payne... always caught up in the most ridiculous x-files on steroids plots Max Payne... is still a ton of fun after all these years, and it looks really great  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne may be old, but it has enough style and flair to keep it going today. What would otherwise be an ordinary third person shooter is made interesting by the addition of bullet time dodging and a just self-aware enough noir narration, turning it into a classic instead. It has some rough edges as a sign of its time, like enemies that begin to soak up bullets as you reach the end, but the rest more than makes up for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "★★★★★ (O.o)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I remember first playing this at my neighbour's house on his Playstation 2. This is a action-noire video game where you take the role of Max Payne, a cop falsely accused and his family murdered horrifically. You watch him descend into madness slowly and how he copes through this, all the while spraying bullets at the people responsible to the tragedy that has befallen him.  From popping pain killers to cope and as a gameplay mechanic for health, due to him going lucid via bullet time to kick ♥♥♥, to plain out reliving nightmares that you must go through, this game is great. Also, instead of cinematics it's comic book panels. The entire video game is seeped with noire and is an incredible journey.  I highly recommend this game to people looking for a fun action packed game that is challenging with a good story and a character that is likeable. Save often, as it's not an easy ride.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The best third person shooter with excellent noir atmosphere and story! For players on Windows 7 or newer, in order to play this game you just enable compatibility mode for Windows 98/2000.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Compelling, pulse-pounding and full of memorable moments -- that's ten of the best hours I’ve spent on a computer in a long time. Legendary!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne is 'Hard Boiled' cop, taking the role of 'The Killer' inflicting his personal vendetta against those responsible for his family's death. Forfeiting the chance for 'A Better Tomorrow' he becomes 'Hard Target' for his enemies, among rain of bullets.  .:Enter Remedy's Max Payne:.  It's hard to avoid John Woo's puns since the game's like a big tribute to his action packed movies. This drama driven, thriller TPS detective film noir tells it's story through rugged comic slides unfolding before us the game's story. Funny thing though, Remedy then didn't have enough money so instead of cut scenes they chose the much cheaper way of telling the storry trough noir comic. And in the end, it payed of and remains one of the game's trade marks. Max Payne is bitter as his name, and playing him is always fun, jumping with bullet time, spreading justice one bullet at a time. Old school is the best school, with plethora of weapons at your disposal, no 3 or 2 weapon limit, your skill is your limit as Max Payne takes you seriously, even on it's lowest difficulty the game provides challenge, and you will love it.  If you don't own this game, do it now, as it is one of the best third person shooters to ever grace our gaming community. They don't make 'em like this anymore.  10/10 PS: Works fine on Win7/64 bit, do however download the sound fix, just google for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game of its time, game mechanics and story telling are phenominal, this is a game everyone must own and complete.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "More simplistic and less stylish than its successors, but an enthralling journey through the blizzards of NYC nevertheless.  Enjoyable gunplay, self-aware writing, an admirable wit, and endless fun of spray-and-pray bullet time.  A superb title.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't let the inital lack of sound fool you (Google the sound patch for it and it'll all be fine), this game is timeless. Having just recently started getting into video game franchises, I decided to give Max Payne a try (it was bundled with Max Payne 2 for only a few bucks!).  Boy, was it a good choice.    Due to my being accustomed to third person shooters like Uncharted, it was definitely jarring going into the game and realising there's no cover and the enemies have no propensity for self-preservation. And Max is  very  easy to kill (meaning in the gameplay, not in the storyline). This made things extremely interesting and fast paced. The AI could be dumb a lot, but I mean AI wasn't what it was now. Nevertheless, these elements made for very actiony gameplay. Although the game is set in the 90s, the atmosphere, the vehicles and the dress of some of the characters made it all seem like a proper film noir. The storyline is intricate and very entertaining and the graphic novel scenes are very well-voiced (for the most part).  And of course, I can't do this without mentioning bullet time. Springing forward or sideways in slow motion to take on your enemies is  so  satisfying. Best of all, the bullets are all rendered, even shot from your shotgun, meaning it's not just hitscan and you can see the bullets land. It's really cool.   All in all, the game is cheap and very much worth it, even after all these years.    9/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I threw a grenade in a rat hole and the rats began shooting at me with Deagles.  10/10 would throw again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hmm... What's to say? If you remember this game, just go and buy this. If you don't know this game, I think it's fair to say it deserves a shot (no pun intended) Well, I think my work here is done. Don't forget to buy the game tho.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "....................../´¯/)  ....................,/¯../  .................../..../  ............./´¯/'...'/´¯¯`·¸  ........../'/.../..../......./¨¯\\  ........('(...´...´.... ¯~/'...')  .........\\.................'...../  ..........''...\\.......... _.·´  ............\\..............(  ..............\\.............\\...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is absolutely amazing. I have all of the series to this game there is something specail about the first 1. It has all these cool features like bullet time where you can slow mo into action and shoot a guy in the head over and over. Then theres nightmare mode. Max Payne is one of my favorite video game series. I would give Max Payne 1 a 9 1/2 / 10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good yet creepy. The bullet time was a blast back in the day. It's still fun to pull a matrix around corners. The first time I played the dream scenes it was scary as hell. The story is really sad but good. A tale of revenge in a mind not made for reality.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game made my Pubes stand up and sign songs of praise.  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Payne to the Max",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game, with innovative gunplay, AI, humor, and of course the Kung Fu mod. No seriously. ModDB. Get the Kung Fu mod. It's AMAZING.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Classic game. Worth purchasing whenever is on sale. Story and gameplay is great and enjoyable with some suspensing moments. Since this game is over 10 years old, the graphics is dated but you can't judge a game by it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "+MAX PAYNE+ Although the game is 15 years old, don't let its age fool you. This game is definitely one of the best action games out there for PC. This game is a 3-in-1 pack because you're reading a comic while watching a noir film while shooting ♥♥♥♥♥♥♥♥♥♥♥♥s in the ♥♥♥ wit' yo beretta. This game was definitely ahead of its time. The action in this game is ♥♥♥♥ing sick and the AI is not afraid to kill you. There is alot of replayability because every combat is different, the AI always tries to find ways to put a hole in you and once they do, you die and go back to the begin of the level to find out that this GAME HAS NO AUTOSAVE AND YOU HAVE TO QUICK SAVE CONSTANTLY ♥♥♥♥ING RATS I ALMOST THREW THE KEYBOARD AFTER THIS ♥♥♥♥ING HAPPENED TO ME AND WHEN I QUICK-♥♥♥♥ING-SAVED I COULDNT MOVE SO I THREW THE BURGER KING DRINK NEXT TO ME. Sorry about that, I forgot to mention it... Ooopsssss  Overall this game is really great. Game is old yet gold.  Only con/negative thing about this game though is that, there is no autosave and you have to quicksave the game constantly and when you do, you can't move Max   I know I haven't reached a singl hour on my record, I once played this on a cracked version",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I didn't play Max Payne back in 2001 i played it around 2013. I had to mod the game to get the audio to work on windows 8.1 but ♥♥♥♥ me i'm glad i did. This, The Fall of Max Payne and F.EA.R. are tied neck and neck in my eyes for best shooter gameplay.  Verdict: Great game can be a pain to get to run on modern hardware. Pop some pain killers. Load your berettas, and get ready to ♥♥♥♥!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "payne in the butt payne to the max   srlsyl tho its a masterpiece",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Forget about Max Payne 2 and 3, this is the only one you need. If you like bullet time and gritty 90's crime dramas, this is the game for you. Just be sure to get the fix for the sound bug though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't get me wrong, I love this game. However, if you're playing this on a more modern PC, there is NO SOUND except for the menus. Graphical options conflict as well. Dammit!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games Ive played in a long time, along with the sequel. There are some issues with the sound in the steam release though, which are easily fixed with a patch.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The original Max Payne - the first game that ever felt like an action movie to me. Great story and level design, so much fun and it is still a blast today - even if it requires a bit of work to get it running right on a modern system.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A ♥♥♥♥♥♥♥ incredible classic. Recommended for everyone!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The desciption of this game is as follows: Max Payne is a man with nothing to lose in the violent, cold urban night. A fugitive undercover cop framed for murder and now hunted by cops and the mob. Max is a man with his back against the wall, fighting a battle he cannot hope to win. Prepare for a new breed of deep action game. Prepare for pain...  At a glance that discription seems like a revenge story that we've all seen before and for the most part it is, however where this game really stands out is in its delivery, tone and of course gameplay. While the game may be over a decade old I can say as someone who played Max Payne in 2014 and 2001 that it has aged very well and is worth a look for newcomers and people who are interested in replaying the game.   Pros:  Fantastic and immersive story Great variation in level design Fantastic Noir theme Great gameplay  Cons: Graphics and gameplay may be a bit too dated for some Sound issues for windows 7 and 8 users (a quick fix for this can be found in the forums) The game can be a bit unforgiving even on more easy difficulties",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow! This game is phenomenal! I remember playing this game at a friends house with the good-old PS2 console system! :D This game is full of action and i love the bullet time feature! &lt;3 The story, the characters, the plot, the atmosphere, and the environment on this game are amazing even though this game is more than 10 years old! I understand that there is a sound/audio issue with the game but that can be easily fixed by following directions on the Sound Fix guide in the Max Payne Community Guides. Anyways this game is a classic gem and I definitely recommend it to any gamer who is into non-stop shooting action! :D P.S.- The Nightmare levels are trippy and scary as hell! O_O Rating: Plot- 10/10 Characters: 10/10 Dialogue: 10/10 Atmosphere: 10/10 Environment: 10/10 (In my opinion even though the game is old. :D)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the definers of modern 3rd person shooters. The beggining is a little slow but after you get inside Max's head and start seeing the story and everything through his eyes, it becomes a tense experience, with an overwhelmingly satisfactory ending. A must play for everyone!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In this game you take on the role of Max Payne, a renegade cop with a jetpack and a devil-may-care attitude. His life was tragically flipped upside down harder than Will Smith's, and this is only the beginning. As you go down the rabbit hole you start to wonder if there's even an end. The story is gritty and sad, fitting the noir setting perfectly. When playing you must always have a cigar and some scotch next to you or else the entire game will be ruined.   10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "⁧",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing atmosphere.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A classic game that was ahead of it's time for 2001. If you like shooters definitely pick this one up, but be warned, this was made back during a time when games were difficult.  It was also my first ever shooter, so I'm a bit nostalgic for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Mother♥♥♥♥ing Payne, legitimate father of Wei Mother♥♥♥♥ing Shen and godfather to my children has had a hard life, he used to be obsessed with pokemons and he wanted to collect them all but one day the russian mafia made the mistake of killing his pokemans and corrupting his savefiles and all the backup files which destroyed his life and future so he trained for years in the local gamestop to become the very best and get revenge on the mafia, eventually he learned chaos control where he would slow down time and look all edgy when he noscopes scrubs, its not infinite though, he has to drink mtdew to regen mana and eat dorito pills to heal up, eventually he defeats the mafia and starts ng+ only to realize that pokemon b&amp;w 2 had just come out but it was a pc eclusive",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing. Fast-paced gameplay, a story with effort, and optional slow-motion. Max Payne is one of those games that challenges the 'not art' debate with its comic book style, unforgettable music, and story. There are three problems that hindered my experience, however:  1. I had to download a sound fix (not complicated, but still annoying) 2. Overcomplicated, frustrating dream sequences. 3. Bad autosave system, as far as I know. The game doesn't let you change the quicksave keybind, and sometimes, if you save at the wrong moment, you will die immediately after loading.  None the less, I strongly recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Bretty Good Game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "To begin I've got Win 10 and the game didn't launch until I went to the task manager and, in the 'details' tab, I selected the 'steam' process. Do right click and select 'choose affinity'. Next set only 'CORE 0' and the game will run perfectly. Maybe you can suffer some sound glitches on cutscenes but there are many fixes working for that issue. The game is really good in ambientation, story and gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't answer that; a rhetorical question.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The father of 3rd person action shoters. +Great and satisfying story. No doubt a must play. It just takes a little bit more effort to get it running on newer operating systems thus check community page for tutorials. #MP3sux",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne. Voted to be in the top 10 happiest video game characters ever created, now in my book monotone voice acting along with a man who has lost everything quicker than he can pop some painkillers, is an impeccable decision by Remedy. This man has no reason to be happy, and anyone who disagrees just imagine having your baby daughter and wife murdered by drug fueled thugs!  Moving on to gameplay, this game revolutionised third person shooters in general. It showed us that amongst all the happiness of Banjo Kazooie or any other animal based adventure game, that there was an ignored darkness lurking in reality and Remedy made a brave move by showing us that darkness. Moving back on topic again, The introduction to the slo-mo dive shooting mechanic really turned the tables in the event of a shootout, you could carefully pick out your targets and try to dispatch of them with care as you dive through the air. Now don't get me wrong this mechanic was not perfected straight off the bat, it was actually quite clunky in some situations, but all credit for actually bothering with something new for once rather than just another generic third-person shooter.  Let us swiftly move onto story, Well let's just say that it's not the most complex idea in the book, but nonetheless that's not always a bad thing. Basically Max returns home after a night working at the NYPD only to find a group of drug fueled thugs have broke into his house and he ends up seeing his baby daughter and wife brutally murdered, so Max being Max bent on revenge swears to kill those who did this too him, leading him down a road he was never prepared for. All in all I thoroughly enjoyed meeting new characters and having them involved with the story, it made it seem like Max wasn't so alone after all.  Finally we move onto the biggest feature of the game the main man himself - MAX PAYNE. Boy oh boy 80% of the reason I love this game so much is down to this man. Let me begin by saying that whilst you are playing the game you feel as much emotion as Max feels meaning you can relate to him on a whole other level. You genuinely feel sorry for this poor son of a ♥♥♥♥♥ and this actually makes you want to unravel the mystery about the fate of his family as well.  So for christ's sake if you are unsure whether or not to get the franchise this game introduces it exceptionally well!  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The beginning to one of the best series ive ever played. This game felt like it was designed for only the single player experience. It felt the game was created just for me and im the only one who knows what this is. The only one who knows max paynes story. Truley amazing story. I now have max paynes voice cemented into my brain. oh boy the feels for this game bbs.  10/10 Bullets taken For Payne",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Step 1. Smoke some weed and get high. Step 2. Play the third dream part in the game.  Enjoy a crazy experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although it's a load of Sh*t selling a game that'll only run on an obsolete operating system if not tweaked, the 3 to 5 minutes spent converting files is worth it. Reliving 2001 starts now! ^_^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Recomended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "dat slow motion kill",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'You are in a computer game, Max!' 10/10 great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finshed the game for the thousandth time and it still shine like gold, really..this game never get old. Every time I finshed it I love it more! a truly masterpiece. Max Payne 1&amp;2 has the best video game writing, I can't find any game even close from it..thank you Sam Lake for creating my best game ever.  If you didn't play it..what can I say..just hang yourself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So ♥♥♥♥♥♥♥ brilliant. Also timeless, because I played this about 10 years too late and still had an amazing time. Better than most modern shooters in its perfectly balanced simplicity (slow time -&gt; jump -&gt; shoot -&gt; repeat for 7-8 hours) and so-bad-its-actually-amazing noir-styled story segments. You will not stop.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First PC game I ever owned, still have the original mouse pad that came in the box. After all these years, this game is still great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " One of the hardest of the series, you can get killed in one shot by anyone, especially the guys waiting around corners. You gotta play it with trial and error, and memorize where guys will pop out from so you can go slow motion and kill them first, or dodge grenades down specific staircases. The Max Payne story is exlpained here so if you like Max Payne you gotta start with this! Very, very hard, but entertaining.  7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Exellent Classic game from Rockstar 4/5.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Personally, this game sounds more like some kind of diet supplement than a film noir narcotics fairy tale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolute classic and has aged remarkably well in the last 11 years. With the threequel round the corner, it's definitely worth revisiting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get it while it's on sale. This game doesn't really have the cutting-edge graphics that it might have had back then, but the atmosphere is still there and so is the gameplay. This is still the King of bullet-time effects.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good stuff!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 the coolest movie ive ever played by rockstar",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great gameplay and great story (even if it is a little cheesy). But the graphics are a little dated and the game is hard to get running on windows 8/7.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.'  Or at least that how it all starts. This game is so noir, physicists are still trying to detect it. Killer drugs, murder and infanticide, corrupt cops, mafia and mobsters, government secrets, dirty brothels, weird mysticism and psychaedelic drug-fuelled nightmares -- it's all here. There's enough grit in this storyline to pave your driveway.  The gameplay has aged a bit, the graphics certainly aren't what they were, but the plot is sheer enjoyment enough to make it worth the play through. The only offputting thing for me was the way the villains were so tightly scripted, and the fact that they only need see you out of the corner of their eyes before swivelling around to empty their clips.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game sits firmly on my number 2 slot for best games ever. It's fun, it's great, it's still a little beautiful and it doesn't take itself too seriously. :) Also, I'm fairly certain they were working on Bullet Time pre-Matrix... If you like Film Noir, this game should be irresistible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good ol classic!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, still holds up in 2014 as a fun game. Only problems are HD and Win8 sound issues, both very easily fixed via mods. Also, the voice acting is a little cringy. Other than that, great gameplay and, for once, a narriative I can honestly say I care for. Weird as ♥♥♥♥ dream sequences.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really set a bar in terms of atmosphere, storytelling and gameplay mechanics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Forgot how much fun this game is. Stands on it's own pretty well for a 10+ year old game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Definately my favourite Third-Person shooter ever and the one I put in the most time.   Max Payne was the first game to use Bullet-Time as a gameplay element and is indeed a central gameplay element. The Bullet-Time allows for visceral, challenging and cinematic shootouts. However, what makes this game really great is the noir story with some surprising twists and interesting storytelling ideas. The game is rather short (but quite difficult), but that just makes it all the easier to play through it again, to see the story unfold anew.  Should this game turn out to be something for you, I can also recommend the second part, which differs in tone and themes, but is almost as good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A classic with a cool filmic noir feel that's really freaking hard",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so cheap. One shot can take half of your health away on the default difficulty setting. It gets so bad that you have to resort to quick saving after every 3 guys you kill. The enemies have a faster reaction time than turrets, your shots sometimes don't make their mark (3rd person not 1st person). It's pretty brutal. If it wasn't for the story, crazy bosses, and Max Payne's monolouges I would've quit earlier. I'm glad I finished it to the end despite it's unfairness. It's pretty hectic and if you like shooters where you quick save alot then get it. I honestly don't know what I was doing wrong. It might be that the default difficulty automatically adjusts itself. So by that logic it would get hard, you get your ♥♥♥ kicked, it gets normal, you survive, then the game gets hard since you survived (at least that's how I think it works). I would much prefer it if it was consistent but this kind of difficulty is definetly something you would want to try at least once as well as the game. You will smile after every one of Max's speeches.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "WHAT THE HELL! IT’S PAYNE!   This is a fantastic beginning to a great noir story. Please play it if you haven't had a chance. Having just played it for the first time in five years, it has brought back a lot of great memories of hearing all the mobsters mutter the funniest things you’ll hear. The comic storyboards are worthwhile alone and the music is fantastic. Best to add the recent support patch since you won’t be able to hear anything otherwise! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gameplay: It's very fun and somewhat challenging. The levels are somewhat varied, but the game focuses on gunplay and shooting some dudes. But it does this extremely well so it doesn't get boring. The guns feel good and satisfying to use (nothing like diving in slow motion and shooting a dude with the pump action shotgun) and the use of the slow-mo mechanic makes it a ton of fun.   Story: The story is pretty good, but the plot isn't that great in my opinion. Instead the writing in this game really shines and it's use of comicbook esque cut-scenes is really cool. Max Payne is one badass character.  TL;DR Great 3rd person shooter. Buy it and play it if you haven't! 9/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Where do I begin...this game is one of the best I have ever played. I remember playing it on the Gameboy and later on the playstation 2. This game gave me many childhood memories, and when I saw it on steam, I jumped on it immediately, hellbent on finishing the game from my childhood that escaped me. As of yesterday, I finally accomplished that. I have to say to one and all, play this game, you won't regret it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Games can have good story. Games can make you empathize. Max Payne and its sequel are proof of this. Remedy demonstrated a true flair for the cinematic, adapting the powerful medium of Film Noir into game form. Max is a man who had everything, and now has nothing. But there is no more dangerous a foe then one who has nothing to lose. Give such a man a gun, and he'll solve all your problems- and look really cool while doing it. Max Payne the game introduced us to the concept of Bullet Time and action gaming and cinema have benefited greatly from it. I played the Playstation 2 version of this game years ago and always enjoyed it, but found the PC version ultimately more fun to play. MP is a crowning achivement in third-person shooter gaming, but the story doesn't end here. When you're done with this game, move on to the sequel without delay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Exellent Classic game from Rockstar 4/5.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a true to classic Film Noir crime story with twist and turns that defined my generation. Best game to get if you have a low end PC.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Words cannot describe the euphoria experienced whilst playing this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can't express how much am I amazed of this game :D It's my first time to play it BTW but really never tought that in 2015 I can still enjoy such an awesome game! Best game ever :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The one and only face of Sam Lake ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is some dark ♥♥♥ noir greatness wrapped up in a frozen Hobo!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "so much more difficult, than its sequel... but not a bit worse",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Had this on the PS2 years ago. fantastic game with a gripping story.   HOWEVER! This game is NOT supported on Windows 8.1, so any fans of the original looking to re-live this brilliant game learn from my mistake and save your money, or play on an older OS.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "oh my....the same feeling coming back to me,i was about 12 when i first play this. the game that started bullet time.  dont compare this to today graphic,this is an amazing game back then about 10 years plus ago. there is some sound issue u will need to fix,and for the game to start,i need to run it on compability mode&gt;win98/me.  some of the reviewer giving this game a thumbs down because they dint bother to find a fix that will take them 3-5minutes and miss out on this superb story telling,funny as hell it was the most horrible thing i could think of  this game is on a discount when i m writing this.buy the bundle for dirt cheap,u will get about 6-8 hours of gameplay for each game in the bundle.  and 1 more thing, please finish this game in 1 sitting,ive done it before,and i've done it again. i couldn't stop i have to pushed on. 7.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hello, welcome to Noir York City!  If you'd ask for 'great effects, well-applied gameplay mechanics and a rock-solid vengeance story', the answer would definitely be old and gold Max Payne. This game offers a strict line of story for you to play through. Just follow the line of blood.  This game brought us a lot of gameplay elements those still keep impressing and inspiring both game industry and gamers:  + Puts you into pre-scripted fights: Which makes you feel like you're surrounded by real-time acting AI, + You can be a Jedi with guns: The almighty Bullet Time™ + Great soundtrack, wonderful voice act, + Over exaggerated shooting physics, firing and flame effects.   The story is about a police detective who comes home from regular day job. You (as Max Payne) saw your home has broken in and hear awful things (awful, awful). You start to search for what and who's behind all of this while surviving for another day. The game offers you Bullet Time™: It slows the time while your aiming skills are preserved. With this perk, you can both dodge enemies' bullets and counterattack them for vital hits. There'll be lots of places to run into, ranges from a metro station to a skyscraper, a big night club, your subconscious (?), etc.   Here's the short critic:  Graphics: 8/10 (Especially flame effects were terrific back in the day) Sounds: 8/10  Story: Great Atmosphere: Excellent My Playtime: Approx. 10 Hours   CONCLUSION: The game makes you feel like 'a man with nothing to lose' in New York, framed and left alone. You keep shooting your way out of the snowy nights of both the city and your life. The first time I played the game, it got me with all kinds of excellence in it. My note for it: 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Timeless classic.   'He had a baseball bat, and I was tied a chair.   ♥♥♥♥♥♥♥ him off was the smart thing to do'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hi Guys,  This is one of the best games ever made. Great storyline, and good graphics, still today! Runned them trough several times (max payne 1 and 2). Both are terrific games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fabulous game full of betrayal and bodies only to end up an angel. Gotta love this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great classic game. Bullet time and shootdodging really set it apart from other third person shooters like this, and was really advanced for its time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is still a classic with a great dark story and solid 3rd person shooter mechanics. Only downside to this though is if your running Vista/Windows 7 there's a issue with the audio since they were done in a format not really suppourted by Vista/Windows 7 so you will need to use a fan fix which can be found in a stickied thread on the game's section of Steam Fourms",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most awesome games I played this year (2014). I still can't believe how the gameplay just doesn't get old. It's a lot like a John Woo film, which is good cause John Woo films are bloody awesome. So if you like John Woo films, go buy and play this game and its sequels. If you loved the game and its sequels, go watch John Woo flicks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Slow-motion, hawaiian shirts, generic gangsters, more slow-motion, dodge rolls, slow-motion, a story that's so-dark-it's-funny, need I say more?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classic shooter, controls are superb, story is neat and well presented. Max is likable despite being depressed all the time. A little dated graphically but that's to be expected. Might require a sound patch but it was easy to find.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best third person shooters of all time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Solid plot. Good game mechanics. The trippiest level in video game history. Music can get to you however. Gave me a headache and made me sick to my stomach.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If anyone hasn't had the pleasure of playing this game yet, well they should!  It's a really fun 3rd person shooter with tons of action and slow mo fire fights.  Backing up the great gameplay with a twisted story, easter eggs and some humurous mis-haps, this game is close to perfect.  So what might the cons be? Well, when you bullet time dodge, you can't shoot on the ground so you have to wait for Max to get back up before you can fire another shot which by then may be too late.  Another con (and this is mostly because of me) is there are no real checkpoints within a level which means unless you remember to quick-save (which I don't half the time) you'll end up back at the beginning of the level.  The last and final con is that Maxy seems to have 2 left feet and doesn't like to run in a straight line. Which wouldn't be an issue but there are a few simple platforming obstacles in the game that are more difficult than what they seem because it's pretty hard to calculate Max's jump range and his 2 left feet that seem to jump diagonally at the worst times.  Definitely do get this game because there's a lot more good than bad.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Max Payne game without the HEALTH OST. Still good though, the flesh of fallen angels, it was fear that gave men wings &amp; all that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/10 -- Would game yet another time",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I sat there at night, staring at my screen. I was spending my freetime writing videogame reviews. Funny as Hell, It was the worth thing i could think of.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best Finnish game to date.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even at 2013's standards, Max Payne is an enjoyable romp. With a great story, fun gunplay accompanied with the awesome revolutionary matrix-esque gameplay mechanics, it's 10 hours game time is a joy to blast through.  The presentation of the game is quite stellar, especially with the comic-style storytelling, which I was pleasantly surprised to enjoy this style of storytelling.   MP has its flaws however. The frequent interactions of objects that initates a cut-scene can annoyingly break the adrenaline flow, and the saving system can be quite infurating, if you've forgotten to manually save the game by pressing a specific key.   Small flaws aside, Max Payne is still a great, fun game.   Recommended for newcomers to the series indeed. You may have sound issues during gameplay using current Windows operating systems, but thankfully there is a great fan patch that fixes the issue perfectly, so definitely grab that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne is a pretty amazing game.Don't let the graphics fool you though, it's also quite old. It's an amazing game narrated like a tongue in cheek gritty film noir. It's almost cerebal. The gameplay itself is extremely challenging even on the lowest setting, and all in all it makes you feel like a bad ♥♥♥. This is the game where Bullet Time originated.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "PLAY THIS GAME! The story is amazing, the VO work is fantastic, and the gameplay is extremely fun. All the references to Norse mythology really make the story worthwhile, despite it being a fairly cliche noir story.   I have played this game countless times on PS2, and it's even better on PC. Seriously, check it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't let my time played fool you, I bought this game when it came out before I ever owned steam and this might be my 4th reply.  So, if we're all serious here. Max Payne is a pretty silly name and makes me think of a comedic, bad video game that tries to be super macho but this game is not that. It has cutscenes told as a comic strip and the story grips you from almost the moment you begin. The first moment of the story is literally showing you the last few seconds of the game and the game is a retelling of how everything got to where it was.  The introduction of a bullet time that wasn't over powered but you needed to use to beat missions added a whole bunch of unique ways to play the game. You also have a good number of guns that you can use as you progress but my favorite still remains as the desert eagles. This game is a great one and it really goes to show how much games in present day focus much more on graphics than a quality game. Buy this and you will not regret it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just when you thought you had reached the deepest depths of horror, it suddenly got worse. How to turn off that small voice inside your head that started to whisper that you should be glad … that now, if not before, your revenge was justifiable on any conceivable moral scale. That small voice proved, beyond any doubt, that I was damned. Great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Action Film Noir at it's finest. You know how some games just don't hold a candle to modern ones, this one aged well like fine cheese, and like fine cheese some of the lines in it are right cheesey. However the story had me gripped from start to finish I needed to know what would happen next and the twists in the plot were well written. All in all, this was a wonderful experience well worth my money.  If you got the scratch and want to play a well aged action game for your pc pick it up, but a word of advice? Be ready to hit the F5 key often.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classic. Original bullet-time game and whacked out story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game with the best story-line so far, better than the 2nd one. Definetly a game to play, quite old so expect simple graphics and textures.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "What can I say about this timeless masterpiece?!?!'? Some of the best action around mixed with a deep story and amazing story telling make this an exhilirating and engaging experience like never before. It's 2013, and I'm still impressed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After so many years, this game is still a blast to play, very enjoyable. Story is good, artwork and voice acting is stellar, gameplay is precise. No bugs. On moddern OS, you probably need a fix for audio or other incompatibilities.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Holy ♥♥♥♥ this game was so ♥♥♥♥ing good. MAx Paynes story pulls you in and will have you asking for more till the credits. The only down sides are the V flash back things they take you out of the world imo. The ending is lacking because they knew they were going to make MP2:TFoMP yet it was an amazing game and aged really well. Pick it up on sale for 3$ for both and there is no way in hell you should be disappointed.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne is an awesomely cinematic game, with some stunning action gameplay that goes both powerfull and very addicting. It has a GREAT story (I can't express in lines how great it truly is) that goes involving and is told in a series of graphic novel sections, narrated by the forever dramatic James McCaffrey doing Max's voice, while lead writter Sam Lake plays the role of Max on screen.  This game didn't just introduce and literally create the Bullet Time mode on videogames, it's also by far one of the best cinematic games ever made, I got into it expecting only a good Third Person Shooter, but when I finished it I came out with an entirely new appreciation for the Gaming Industry. Max Payne is a Pc classic that deserves to be played by everyone that likes action games, and everyone with a taste for truly cinematic videogames, because Remedy Entertainment achieves an amazing level of interactive story telling, creating a masterpiece that I would, with no doubts, include in my Top best games ever made.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, a real classic. A bit short though. I completed the game with 4 hours played time. Even though i think it's a great game I don't think it's worth the money. I recommend buying it on a sale, like I did.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A classic that is timeless. Everyone should play at least once till the end",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Before I got my computer I had a laptop, a pretty crappy laptop . It couldn't really run much aside from Half-Life and it barely ran Puzzle Quest, barely. I remember hearing that this game made it's way to the PC, so I gave it a go. I must've played for 3 or 4 hours straight. It's fun and action packed, an older classic that should not be passed up on. Buy it, play it, love it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Surely a classic game, it mixes the elements from the era of the shoot 'em up games and adds an excellent neo-noir story to it. With Max Payne, you've got a story of a man who's lost everything and has nothing to lose when he's be framed for a murder he didn't commit. So what's a man to do when he's be framed? The answer is simple, kill everything like a badass from The Matrix. Dodging bullets being shot from every which way, while shooting four or five guys in a dive (all of this being done in slow-mo) is one of the few reasons this game is a must play for anyone who enjoys a dark and/or brilliantly constructed story of revenge",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you have not played Max Payne then either you are not a real gamer, or just a massive ♥♥♥♥♥♥! This was the start to an awesome series and great innovative run and gun style. Graphics still hold up and some of the greatest game faces in the history of gaming. Truely a masterpeice and in the Gamer's Hall of Fame in my book! MUST PLAY!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "suddenly max breaks the fourth wall",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Personally, this game sounds more like some kind of diet supplement than a film noir narcotics fairy tale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm writing this for a lump of coal, but I definitely do recommend this tittle. With the noir-esque atmosphere and compelling storyline, as well as great combat and the infamous bullettime, what can go wrong?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game. The setting is awesome, the narrative is good too. The way you feel like you're a gritty detective from Film Noir is great. There is bullet time, which is a boon as well. Only drawbacks I had, were the V sequences but other than that a must play game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is actually really good. I know the graphics looks make this game look crummy but this game is excellent! The storyline is very dynamic, the characters are realistic and the gameplay is fun. Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Doesnt Work waste of money..",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Throwback to the good old days! Some compatibility issues with Windows 8 but search online for really simple fixes and the game is good to go.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome Third Person Shooter.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne was the originator of the film noir PC game. It combined elements of mystery intruige and shock very well. The opening scene in which Payne's wife and baby daughter are killed is more than enough to draw sympathy from gamers for him. It also acts as a fine incentive to blow the bad guys away. The quest for justice and revenge is well told and the gameplay is well defined. The slow motion system allows players to create excellent moments of killing gangsters. The death poses are well choreographed and the set pieces are excellently designed. The music is a mixture of dynamic and classical. Max can't do any of the more innovative attack moves that Max Payne 3 introduced, but leaping forwards, to the side, backwards, rolling, are still available actions to perform.  Before Max Payne, there were no games that were such effective pieces of transmedia. After, came all of them. They would not have been without Max Payne. Any action and Film Noir film fan will like this game. It is both fun to play and has a story that is very suspenseful, inventive and startling throughout.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne is a very dark, violent and at times depressing detective story that has style that revolves around the Film Noir genre. While the bullet time mechanic gets old quick, the story is good enough to push yourself through if you like anti-hero stories such as Kiss Me Deadly or Where the Sidewalk Ends. If dark crime stories are not your thing, then pass on this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I can honestly say with absolutely no hyperbole that I think this game has some of the best gunplay ever and has yet to be matched in how simple yet incredible its gameplay is. Even the third Max Payne fails to beat it, being overly logy and ploddy where this is slick, smooth, and without pause. Ultimately, this is the well-maintained and oiled Beretta - simple yet effective - compared to Max Payne 3's G11 - overly complicated kraut magic that doesn't actually work as good as it should.  This is a game that really pulls no punches in the most fair way. You and the enemies can both be utterly wiped by the slightest mistake, and it REALLY requires you to be on your toes at any moment. Nothing makes you get that rush of accomplishment like blasting one guy with dual berettas, rolling backwards, then popping back up again to take out his buddy who's trying to grenade your ♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "From the style to the tone, the story to the gameplay, everything about Max Payne shines as bright as ever even to this day. Max Payne is just one of those games that stands the test of time and really showcases just how talented Remedy was back then with what they were handed. I can only hope that Remedy can continue to capture the magic in their future projects. Long live Remedy!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is action gaming taken to the next level. Featuring a dark, mature atmosphere with a narrative taken from the perspective from the titular character and cutscenes executed like a noire story, Max Payne is not only one of my favorite characters in gaming, but also one of my favorite 3rd person action franchises of all time.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Graphics: bitmap fiesta.  Way graphics are used (interactivity): ♥♥♥♥♥♥ic awesometasticity on a plate.  Audio: heavily bugged, weird and only semi-functional.  Way audio is delievered (ambience): utter jimmy-rustling perfection.  Functionality: rediculous. Have to run in Windows Aero compatability mode with administrator privileges, and the fullscreen is bugged.  Gameplay: salacious beauty. Gripping, enthralling, powerful, extreme, heart-wrenching, mind-blowing.  And you just can't argue with a game that has rats weilding guns. You just can't.  That being said, go get it. It's worth the $10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A classic, and I'd go as far as saying a masterpiece. Although it may feel a bit dated in the graphics department, the gameplay holds up just fine. I remember I marvelled at the bullet time mechanic when I first saw this game, and it's still enjoyable now.  The storyline/environments are great and will take you from seedy mafia-ridden backalleys, to private army guarded government buildings. The story occasionally is told through graphic novel set pieces and this is a nice addition. This is one of those games that people replay from time to time just to experience it all over again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing. Great atmosphere, writing, very cool and nifty for its age. Don't get it spoiled for you, and I cant wait to play 2 :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really well done game. There may be some bugs. I give it 4/5. hope you give it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beneath the outdated low-poly models and simple shaders lies one of the best 3rd-person action game ever created. A surreal action thriller starring you as are an undercover NYPD detective with two handguns and nothing to lose. Mow down rows of mobsters, evil cultists and armed commandos as you fight your way through the guts of NY subway, the storm-clad slum rooftops and corporate mastermind headquarters in slow-motion bullet-doding glory.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an awesome game in my opinion. The story focus on the title character, and that's who you play as. The story is about Max Payne is angry because his wife 'Michelle Payne' and their baby daughter 'Rose Payne' we're assassinated and Max Payne 3 years later has been falsely accused of commiting the murder of a DEA agent 'Alex Balder.' I have a physical copy of Max Payne for PC and a Steam Copy of Max Payne which I both beat, I have a PlayStation 2 Copy again because I got bored with the copy after I finished it, And I use to have 2 copies for XBOX which I beat and I got bored with it. It has a very good story in my opinion and I love the music to the game, especially the music to the Ragna Rock night club in the game that sounds like disco music. What is a great plot twist in the game is 'Mona Sax' who was shot in the first game faked her death and you got to play as her in the second game. I have the 2nd game for PS2 but I haven't completed it yet. I love the bullet-time mechanics in the game to where Max and everything a round him are in slow motion, which means Max can dodge bullets and you can hear his heart beat while in the mode. I would say the graphics are very good for a game from 2001, especially with realistic looking characters and textures. I would reccomend this game on any platform except for the Mobile version and Game Boy Advance version which I haven't played yet but I plan on it. I give Max Payne 10/10 which is perfect in my opinion.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game, that brought 'Bullet-time' into the gaming experience. And what an experience it was playing this for the first time...and every time there after! How to classify a game like 'Max Payne'; Make an explosive cocktail of any 'shoot-everything-that-moves' games with a twist of finess from the 'Hitman' franchise. I recon that's the best way to describe a game like 'Max Payne'. And if you like 'Max Payne', don't hesitate to play the just as awsome sequel 'Max Payne: The Fall Of Payne'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is still a classic with a great dark story and solid 3rd person shooter mechanics. Only downside to this though is if your running Vista/Windows 7 there's a issue with the audio since they were done in a format not really suppourted by Vista/Windows 7 so you will need to use a fan fix which can be found in a stickied thread on the game's section of Steam Fourms",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wow! Just WoW!  Discovered, played and loved Alan Wake. Found out the guys behind it made a game called Max Payne som 15 years ago. Was cheap and I had to try it.  Graphics didnt look like much but again WoW!  The gameplay is awesome! The story is good!  Control and combat very responsive and smooth! Game is without glitches and its one heck of a joyride!  Combat is very much like combat in the movie 'The Matrix'. Almost felt like playing Neo :)  16 hours gameplay to get through it. If you havent played it, go for it!  Works on Windows 10 with the sound fix patch 'MaxPayneSoundPatchv1.12' Dont turn on AA and it should work fine in any resolution (I ran it at 1920x1200)  Phew, just WoW!  ....now I need to take a breather ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Beneath the outdated low-poly models and simple shaders lies one of the best 3rd-person action game ever created. A surreal action thriller starring you as are an undercover NYPD detective with two handguns and nothing to lose. Mow down rows of mobsters, evil cultists and armed commandos as you fight your way through the guts of NY subway, the storm-clad slum rooftops and corporate mastermind headquarters in slow-motion bullet-doding glory.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Epic. Just epic. There's nothing else I can say. Pure masterpiece.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game. Your wife gets killed and so does your kid due to a nosy wife who didn't mind her buisness. You, Max Payne, take revenge on those who killed your family.   Bullets come out of the freakin guns (and its an old game) The level design is very good.  The gameplay is really good  Sound doesnt work most of the time and glitches out for me so I have had trouble getting into the story  Overall, this is a game worth your time 9/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the classics. Probably the best in the series. Voice acting, BD Style and gameplay/bullet time are epic. Alot of Alan Wake came from this one. It supports modern resolutions and was patched to play well with new processors (Used to have problems) Play it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "He wanted to see Payne. And he will feel pain.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ".",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The main character's face looks so good I want to kill myself...    10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played it for the first time on 2016. Well well the game has good gameplay mechanics even for nowdays. Decent story, not something big.  Ultimately disappointing is that steam has the game and doesn't even include the soundfix patch for the game. Also if you want to play it disable Anti aliasing because else the game won't start.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a classic, part of me now.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "best game !!! awesome story !",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  One of the best stories and presentation I've ever seen in single player game. It's so NOIR and just GOOD!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great game but has sound problems, when playing through HDMI i get no sound at all and when playing through VGA I dont get any voice acting from any charecters. However a great story, gameplay and charecters and its hard as balls.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The main character's face looks so good I want to kill myself...    10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Max Payne is a fun shooter that holds up pretty well today, but does show its age.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is in the third-person perspective as you run and gun your way through subway's, vaults, trashed apartments and so on. Each one setup for your shootouts, to run, gun and bullet time down the mafia goons you come up against. The thing to know though, is that this is a 2001 game, so there aren't the same cover mechanics that come with a lot of games today. Now am I trying to excuse it?  Maybe a little, but let me get into that.  Read Full Review Here:   Max Payne - Guns, Pills and a whole lot of Payne!  [thefracturedfilter.blogspot.com] ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  One of my all time favorites, a classic that has truly stood the test of time.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Imagine a fantastic noir comic by the likes of Ed Brubaker mixed with the best of John Woo and you have Max Payne. The gameplay is fantastic. It's has the perfect balance of being able to show off cool bullet time moves while still keeping you on your feet as to not get carried away. The story is classic neo noir stuff told through comic book panels (it would've made an exceptional comic book) Graphics are great for their time, it's heavy on atmosphere (you truly feel isolated in this snowy New York City), the characters are memorable (and get further development in Max Payne 2 which also amazing). Max Payne himself is very likable and sympathetic. Tragic but but can still find humor the sceniros he's thrown in. His life sucks but he doesn't whine, he's proactive and gets stuff done and that makes you wanna root for him more  The only problem I had playing this on windows 10 was the lack of sound which can easily be fixed with the sound batch and Max would glue to the ground but if you set fps settings to 30 then it's works out fine so if you're playing this on windows 10, there might be so bumps but even then, we're talking about problems from the steam version. The game itself is just about perfect in my eyes  If you're like me and you love Hong Kong action movies, film noir, comics, psychological thrillers, you owe it to yourself to play this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ah yes, Max Payne. One of the few crowning jewels coming out of a finnish game company and probably one of the most well known game franchises and one of the underrated as well, if I may say so myself. Celebrating 15 years since the release of this game I will share a bit of my thoughts about this game.  Despite being released all the way back in 2001, I think this game is still enjoyable to play til this day, sure the graphics isn't top notch from today's standards, but that's something to be expected from such an already old game. But if we do put the graphics away, it still a fairly enjoyable game. I think the story is still holding up pretty well, it keeps you wanting to play more and more til the very end. A few interesting mechanics in this game, like the mixing of visual novel into this game for an example, something you rarely get to see in a video game, not to often at least.And then there's the always enjoyable slow motion sequences, where you can throw yourself in whatever direction and slow the time down to make it easier to shoot the enemies. Then we of course got the brilliant punny way to give your health back...Paynekillers, ha, get it? Cause his name is..and he takes them to...yeah let's just move on. Instead of taking up health packs or any kind of orbs to heal himself, he eats painkillers, now if you're not too careful you will be using a lot of these, so be cautious of how many you swallow down.  If you haven't had the chance to play this game yet, or if you have never heard of this game before, I personally would definitely recommend you giving it a try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The grandady of third person action shooters, and the first game to make use of a bullet-time mechanic. To this day I can't think of another game that replicates the speed and danger of the fights in Max Payne. You're incredibly mobile and powerful, but it takes very few hits to kill you, so you constantly have to look at your enviironment for ways to get the drop on your enemies.  The neo-noir comic book cutscenes were also a new storytelling device at the time, and they still work surprisingly well. This game is dirt cheap by now, and you'd be nuts not to buy it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hug wall and furiously swing baseball bat 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is awesome, I cant deny that. Had to use third-party software to revise the game to play on modern system. Main issues was the sound, and fullscreen.  If a game is still going to be sold on the market, WARN consumers about the game may have some issues on modern systems. If you are not, then FIX the issues. The game should not have to rely on modders to do the work for the developers. Its that day and age where I can simply say they are getting lazy.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I used to love these 2 games, but this game and the 2nd game one do not work on my pc, please beware of purchasing these games, and I couldnt get a refund either!!!! not recommended",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love the this game, always have. but this version on steam is messed up. sound is missing, and the game doesnt run in fullscreen. you are better off pirating the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Seriously do not buy this game. At least not on steam. Im not done playing it, but for good reason.   The part 3 prolgue is riddled with glitches. I dont know if its just me, but I cant do the easiest things. I looked up a walkthrough to see what to do, and people are breezing throught it, on the consoles that is.   Its bad enough the prologues are bad to begin with, litterally just replaying through a level with different filters at very slow speeds, in a high octane action game, its a joke. But its just a horribly made level. I cant walk the narrow strips without running into invisible walls, I cant jump, something that is INTEGRAL to the level.  This entire poorly made level has just sapped my enjoyment of the game. Its a damn shame.   ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do not buy it unless you are running Windows 95. It is not playable. Sound it is not working unless using a custom patch, character gets stucked into walls, cut scenes freze, etc. Waste of money and time, it should not be on steam in this form.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "If you're using any operating system after Windows XP, I wouldn't buy this game. This game is praised for being a great game. However, it's getting to the actual game itself that is the problem.  Firstly, Max Payne runs, but will not show up. Checking your task manager indicates that there is a process running, but there is no actual game showing.  Secondly, there is no sound in cut scenes and most of the game.  Both do have fixes, but were done by players and the community.  The company couldn't care less about this game. These issues have been around since Vista came out, which means about 2004-5. However, there has been nothing suggested and no fixes made by the company.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Either no sound or movement get stuck. Terrible...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't know what's wrong with it but it will not start. I get the running aplication but it's just a background thing, i can't get it to work ... Used to be one of my favorite games as a kid.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Broken port, had to download a few mods to get it to run. Average port but the game itself is fantastic. I recommend finding a PS2 and a PS2 copy instead. Classic detective noir crossed with senseless violence.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Summary : Rockstar should not sell a product with common compatibility issues with no warning while charging 10.00$  Be warned, your audio may not work in cutscenes and in-game dialogue.  When I purchased Max Payne a while ago, I was expecting the full experience, but when I launched it, the dialogue was extremely glitchy and I didn't have any audio in cutscenes.  I looked on the forums and found users with simular issues and a post from an ex-developer whom had a way to fix the game and get audio to work.  It required a quick fix installation by an awesome modder, who fixed the compatibility issues himself, along with listing a treasure trove of mods. Why is this topic not stickied? Why is this fix not installed on Max Payne in the first place?  Rockstar should of aready patched / edited the game to make it fully compatible with Windows 7 and 8. Bringing up an old title on steam, while charging a moderate price of 10.00$, I expect a certain ammount of effort in making the game workable. I see NO EXCUSE if your charging money.  In ANY game, this sortof issue would not be acceptable to consumers and grounds for a refund.  In retrospect, I should of requested a refund. Rockstar is treating customers poorly.  The game itself is awesome but try to get it not off of Steam. Do not pirate it either.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love Max Payne but I do not like this version ONE BIT. I found the game mostly has no audio or any voice acting, maybe Max saying a word here and there but not a lot of voices, I do like Max Payne but if I was going to get this game I rather get Max Payne 2 and Max Payne 3 because there are things that are WAY more improved than the orginal, so if you want to play Max Payne for the first time, look up a walkthrough to catch the story or just skip to 2 or 3.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Thought this was a new GTA game, but Rockstar gave me the short shrift on this mofo. Hopefully they'll patch in free play mode or whatevs.  For the time being, its OK though. Can't do Matrix mode, what is that about? Also, I skip all the story scenes, no idea what's going on.  Who cares if your baby dies in the opening level, just make a new one AM I RIGHT? All jokes aside, I didn't care though. Should have happened at the end, epic twist, yada yada, instead Rockstar screwed me again! This is like Liberty City Stories 2011 basically.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Steam is selling a game that hasn't had support since 2003. Buying this game and hoping it works is nothing but a gamble, it might work, it might not. Should be a large disclamer on the sale of this game informing customers of the high probability that this game will be less usefull then a paperweight. Have fun patching and making a dozen changes and wasting hours of your time just to have others say, 'it works fine for me uh yuk.' I played the game back in 2001 and I enjoyed it so I repurchased a new copy, having lost the other years ago. Check the documentation at Rockstar, windows xp has not been fully tested so there is no support, Steam is selling a game that is meant for windows 95, 98, and 2000. Who the hell is still running windows 95, 98, or 2000???? 'Oh it's an old game uh yuk...' Morons, so are the original doom games by a decade but low and behold I install those and they run without making any changes, no compatibility for windows 95, 98, ect.. needed, no single core setting blah blah blah. People are running windows 7 and 8 now, some still xp. Either make the game work for what people are using in 2014 or archive the game for the museum. Selling a playstation game to people who have playstation 4 is a scam.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can you permanently delete this game from library, please.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's a pretty crappy game, but does have it's strong points.  Pros :  Good graphics if not derpy  Bullet travel time  A pretty good story  Half Life puzzles  Cons:  No multiple save files when working with quick save  You need to save a lot  It encouages you to die over, and over to try and beat all enemies in an area  Some balancing issues  Didn't have sound for the comics, had to get a fix (Win 10)  Enemies kill you way too quickly, and you barely have time to focusu on all of them  No fullscreen, Windowed only and cuts out the Painkiller count, and feet of the damage meter  Overall it wasn't my cup of tea. I didn't like it one bit, and was pretty infurating to play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "0/10 washing machines don't operate",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can't get it to work no matter how hard I try. Been open in my task manager all this time. 40 hours on a game I never got to play. Alrighty then ._.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Max Payne:  I have installed the game but I cannot run it. I have removed the installation, reinstalled it - doesn't work. I have checked the GCF - still does not work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can't get it to work no matter how hard I try. Been open in my task manager all this time. 40 hours on a game I never got to play. Alrighty then ._.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "So my older cousin owned this game when we were both young and I played a little bit of it when she wasnt play it all the damn time. But I never forgot about it. I liked the PS1 version because it was scary and kept you on edge and had a generally good story (for being a starter in a series) and the controls were ♥♥♥♥♥♥. Years later I put it on my steam because I want to relive all of those feelings as well as play Max Payne to continue those feels of my childhood. I buy both when they have a sale and snag both for under 10 dollars total. Download them both and go to play this Max Payne. And I was met with a bug. A bug so horrible that it cripples my whole steam app to the point that I have to restart my whole computer to get it to work again. Now I've looked everywhere, here and other places, to see if there were fixes or patches or something to help fix this because I just want to play the damn game and stream it. But there is nothing. All anyone ever talks about it a sound problem but I cant even tell if I have a sound bug because I cant even get the game to open. I am so disappointed with this.",
+            "review_score": "-1"
+        }
+    ]
+}

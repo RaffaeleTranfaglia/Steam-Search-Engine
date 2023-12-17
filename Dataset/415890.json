@@ -1,0 +1,53 @@
+{
+    "app_id": 415890,
+    "name": "Crystal Picnic",
+    "release_date": "2015-11-02",
+    "developer": [
+        "Nooskewl"
+    ],
+    "publisher": [
+        "Nooskewl"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 10,
+    "positive_ratings": 13,
+    "negative_ratings": 9,
+    "price": 2.09,
+    "description": "Crystal Picnic is a lighthearted and colorful tribute to the classic era of action RPGs!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/415890/header.jpg?t=1551120516",
+    "minimum_requirements": "OS: Windows XP or later Processor: 800 MHz Memory: 1 GB RAM Graphics: 256 MB DirectX: Version 9.0c Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's not Undertale.  That's what makes it good.   Crystal Picnic is a very short (yeah, short-short) game, styled to be like 16-bit games. I'm tired of looking at games that claim to be '8-bit' or '16-bit' and turn out not to be. That's why I was hesitant to buy this game. However, Crystal Picnic is different.  The graphics (while the color pallete might be off a  bit ) do, for the most part, represent 16-bit perfectly. The controls really feel like I'm playing it on a Sega or something, and the music is probably the best. It just  feels  like I'm on a Sega.  The game is cute, so are all of the characters, and their world is just built so perfectly, everything is so humble. The soundtrack is good too. It's a very lighthearted game with fairly nice combat. The combat is my favorite part. You adventure around like classice RPGs in a tile-based (I assume) world, but upon entering combat, you're suddenly tossed into a platformer-like game, which I loved.  My only problem was the lack of direction at the beginning of the game. I had the hardest time figuring out where to go, and that you could actually walk over that dark grass that previous RPGs taught you that you can't. Another thing this game needs is a MAP. It has a world map, but nothing for the specific area you're in. You can't pull up a map while you're lost and go 'Alright, I'm here.' That was my only main problem because the last two areas in the game REALLY need a map.  -------------------------------  I only have one heart-breaking problem... On the world map, there are areas that are very detailed and look as if you could go to them somehow. You can't. It breaks my heart because as a child I would always dream about being able to go to places you're not supposed to in games. I would dare myself to go beyond, to believe, to dream that one day I'd find some secret in the game that would actually take me to these hidden places. But you just can't. It's not physically programmed into the game. I'm not asking the developer to add these areas, but I was just wondering why they decided to detail the map so greatly in certain areas you can't go to, but then make it so plain in others...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a tedius slog of huge featureless areas full of obnoxious and ungainly combat with a crappy AI.",
+            "review_score": "-1"
+        }
+    ]
+}

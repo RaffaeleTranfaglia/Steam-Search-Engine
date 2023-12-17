@@ -1,0 +1,115 @@
+{
+    "app_id": 367000,
+    "name": "Fine Sweeper",
+    "release_date": "2015-05-25",
+    "developer": [
+        "Pixel Prophecy"
+    ],
+    "publisher": [
+        "Pixel Prophecy"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 19,
+    "positive_ratings": 338,
+    "negative_ratings": 45,
+    "price": 1.99,
+    "description": "Fine Sweeper is a Minesweeper variant with additional features such as a campaign mode, “classic mode”, item drops, leader-boards, and achievements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/367000/header.jpg?t=1529954039",
+    "minimum_requirements": "OS: Windows Vista/7/8/8.1/10 Processor: 2.0 GHz or better Memory: 1 GB RAM Graphics: 1280×720 minimum resolution, 512 MB Video RAM DirectX: Version 11 Storage: 250 MB available space Sound Card: DirectX 11.0 compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " My favourite game from Windows XP.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Classic Minesweeper with extra lives, achievements and a scoreboard. Nothing more needs to be said.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Minesweeper spinoff.  Basically allows much harder difficulties than are possible with the original, offset with the chance to make a few mistakes.  How high can YOU get in one run?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Let's not beat around the bush - it's just Minesweeper with a facelift.  It has a couple of flaws: it does have an element of chance in it rather than logic as there are some cases where there is no telling which of two cells has the mine underneath, and due to the progression you kind of just have to keep playing until you tire (which for me happened about 20 levels in, way before I felt in any real danger of losing). It also starts out very easy and takes a long time to build up to any real difficulty, although that is a matter entirely of personal preference.  On the other hand, if the idea of a game of minesweeper with a few app-like elements (added lives, some sort of social score thing popping up telling you how far ahead of other players you are etc.) appeals to you then this is a good implementation of this.  Overall, I'd say go for the Hexcells series if you want carefully crafted, more cerebral levels with absolutely no guessing and a higher difficulty threshold, but if you just want to sit and click in a faster-paced way then this may be the game for you. It's kind of the Bejeweled Blitz of Minesweeper clones.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's minesweeper with some sprinkles. What's not to like?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sweep mines, complete levels, fun stuff. But war, war never changes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damn, this is an addictive and frustrating game.   I love it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Having fun with Fine Sweeper, and the dev is super nice and listens when you make suggestions. Game has already improved a lot, and I'm sure there are more improvements inbound - if you like Minesweeper, then this is a no brainer :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's pretty much a pretty version of Minesweeper, but you have extra lives, up to 7 maximum, so you can hit up to 7 bombs before losing, and you can also find health pickups when uncovering tiles so you can refill your lives 1 at a time. Of course, there's also Classic mode, which is without the lives like the original Minesweeper.  There's some convenience features, like if there's already a marked bomb next to a '1' for example, you can right click the '1' to auto reveal all tiles around it. Of course, if you marked the wrong tile you'll hit a bomb, but it makes things quite more fluid. Also, they altered it a bit so that the first click on a level  never  hits a bomb.   You start at level 1, and as you beat levels it gets increasingly harder and harder. Once you've beaten a level, you can choose to start at that level so you don't need to start at the beginning every time.  My only complaint is that you cant save games in progress, so if you want to start at level 1 and see how far you can get, you have to finish that challenge in one sitting, else you'll either have to start over, or start at the last level you remember, which resets the score.  If you like Minesweeper, then this game is definitely worth the cheap price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would fine sweep again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, first, it's Minesweeper. If you're not in to the game in general, this version of it is unlikely to change your mind.  If you do like it, however, this is one of the better versions around. They offer a 'classic mode' which is pretty similar to the original Windows version, and their own variation which is arguably better. I'll concentrate on that in the remainder of this review.  The major change is that you now get lives (hearts), of which you can have up to seven, allowing you to detonate seven bombs before the game terminates. Extra lives are dropped as you progress so if you're careful you should be able to handle five or so detonations per level indefinitely. While some might lament the loss of tension in this mechanic as compared to the traditional 'instant game over' from a single detonation, there are situations where you simply can't know which of two possible layouts you're looking at, and you have to guess. Being able to do this makes the game less luck- and more skill-based, and also introduces the new mechanic of figuring out, when you do have to risk exploding something, what will leave you in the best shape after that move.  Along these lines too, they also appear to have removed both any chance of detonating a mine on your first move and the possibility of first moves that don't open the board enough for you to make an intelligent next move, as opposed to a guess. (I presume they do this by building the board only after you've chosen your first move.) Again, this shifts the game away from luck and more towards skill.  The standard 'campaign' game has you clearing levels, starting with a small (5x5) grid where you need to flag three bombs, and eventually moving up to a full 20x40 grid with dozens of bombs. This gives a nice feeling of progression, and also makes things rather interesting and different from the original gameplay once you reach level forty, where you have to deal with a much higher bomb density (hundreds) than the original game ever offered. You can stop playing at any time and it will restart where you left off when you come back to the game. If your game ends, and you restart again from the main menu, you'll be prompted to start at any level you like up to the highest level you've ever reached.  The graphics are pretty decent, without being distracting, and I particularly appreciated their well done auto-open highlight. I use it a lot, and it's nice that it's easy to read in this game. (Auto-open is when you middle or right click an open cell to automatically open all non-flagged cells around it. If you don't have exactly the number of surrounding cells flagged as indicated in the cell on which you're clicking, you'll see a highlight of all unopened cells, allowing you to quickly and easily concentrate on the ones you need to flag.)  Custom modes, where you set the board size and number of bombs, are also available, and there's are also simple global and friends list leaderboards for comparing your score (which appears to be based on several factors, including what you expose and how many bombs you explode, but not on time taken). There's also a reasonable selection of achievements, and Steam trading cards.  All in all, this is a nice little time killer, and at $3 or less I think it's priced perfectly for what it is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good old memories but inproved! Love this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nice and simple minesweeper-esque game. If you liked playing minesweeper on windows 98, you'll love this",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Still never really got minesweeper. but this game is 8/8 at 5 am.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "At least you don't get to lose stepping on those 50/50 mines...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like Mine Sweeper games, this is it with a little more features in it, not bad for a buck.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "9/11",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A decent version of a terrible game.",
+            "review_score": "-1"
+        }
+    ]
+}

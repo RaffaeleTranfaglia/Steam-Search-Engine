@@ -1,0 +1,42 @@
+{
+    "app_id": 793350,
+    "name": "Swarmlake",
+    "release_date": "2018-03-12",
+    "developer": [
+        "Dominique Grieshofer"
+    ],
+    "publisher": [
+        "Dominique Grieshofer"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 27,
+    "positive_ratings": 746,
+    "negative_ratings": 36,
+    "price": 0.79,
+    "description": "Dance with billions of enemies in the ultra-intense shooter Swarmlake.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/793350/header.jpg?t=1554722859",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel Core i3 / AMD A6 @ 2.4GHz Memory: 1 GB RAM Graphics: Nvidia GeForce GT 240 / AMD Radeon HD 4670 / Intel HD Graphics 4000 Storage: 14 MB available space Additional Notes: OpenGL 3.3+",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 / AMD FX @ 2.4GHz Memory: 1 GB RAM Graphics: Nvidia GeForce GTX 470 / AMD Radeon HD 6870 Storage: 14 MB available space Additional Notes: OpenGL 3.3+",
+    "reviews": []
+}

@@ -1,0 +1,49 @@
+{
+    "app_id": 307110,
+    "name": "We Need To Go Deeper",
+    "release_date": "2017-02-08",
+    "developer": [
+        "Deli Interactive LLC"
+    ],
+    "publisher": [
+        "Deli Interactive LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Co-op",
+        "Underwater"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1402,
+    "negative_ratings": 243,
+    "price": 6.99,
+    "description": "Crew a Submarine with friends in We Need To Go Deeper - a 2-4-player cooperative submarine roguelike set in a Verne-inspired undersea universe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/307110/header.jpg?t=1554829309",
+    "minimum_requirements": "OS: Windows Vista or Later Processor: Intel® Core™ i5-2450M Processor (3M Cache, up to 3.10 GHz) or Better Memory: 4 GB RAM Graphics: Intel(R) HD Graphics 3000 or better DirectX: Version 9.0c Storage: 1400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

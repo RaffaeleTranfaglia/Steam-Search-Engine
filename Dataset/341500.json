@@ -1,0 +1,46 @@
+{
+    "app_id": 341500,
+    "name": "Camera Obscura",
+    "release_date": "2015-02-19",
+    "developer": [
+        "Anteater Games"
+    ],
+    "publisher": [
+        "Anteater Games",
+        "BindleBot"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Pixel Graphics",
+        "Platformer",
+        "Level Editor"
+    ],
+    "achievements": 45,
+    "positive_ratings": 1090,
+    "negative_ratings": 418,
+    "price": 1.59,
+    "description": "An ancient tower in a forgotten land. A lone photographer on a desperate search. Facing dangerous animals, crumbling architecture, and perilous pitfalls, can you reach the summit of the Tower, and perhaps, redemption?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/341500/header.jpg?t=1540356154",
+    "minimum_requirements": "OS: Windows XP or later Memory: 1 GB RAM Graphics: Shader Model 2.0 or greater DirectX: Version 9.0c Storage: 550 MB available space Additional Notes: Windows Media Player is suggested for music",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 673480,
+    "name": "Timbertales",
+    "release_date": "2018-06-12",
+    "developer": [
+        "Rainware"
+    ],
+    "publisher": [
+        "Rainware"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 10,
+    "negative_ratings": 6,
+    "price": 7.19,
+    "description": "On this Indie Turn-Based strategy you can fight with two complete different races. Prepare yourself for war in the forests. How do you command your units and use their special abilities to secure the peace?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/673480/header.jpg?t=1536959815",
+    "minimum_requirements": "OS: 7 Processor: 1 Ghz 32 Bit oder 64 Bit Memory: 1 GB RAM Graphics: Grafikkarte mit Pixel Shader 2.0 und Vertex Shader 2.0 (Vertex Shader kann auch per Softwareemulation unterstützt werden) Storage: 400 MB available space",
+    "recommended_requirements": "OS: 10 Processor: 1+ GHz 32 Bit oder 64 Bit Memory: 2 GB RAM Graphics: Grafikkarte der letzten vier Jahre (Pixel Shader 3.0, Vertex Shader 3.0) Storage: 400 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 546240,
+    "name": "The Journey",
+    "release_date": "2016-11-01",
+    "developer": [
+        "Mugurel-Adrian Enache",
+        "Diana Marin"
+    ],
+    "publisher": [
+        "MD Lab Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "The Journey is a VR experience classified as a scientific, educational and adventure game which is based on the exploration of the human body.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/546240/header.jpg?t=1478357495",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core I5-4590 (or equivalent) Memory: 8000 MB RAM Graphics: GeForce GTX 970 (or equivalent) DirectX: Version 11 Storage: 4 GB available space Additional Notes: The Journey runs on HTC Vive. Xbox 360 &amp; Xbox One controllers are supported.",
+    "recommended_requirements": "OS: Windows 8 Processor: Intel Core i5 4670 (or equivalent) Memory: 8000 MB RAM Graphics: GeForce GTX 980 GPU (or equivalent) DirectX: Version 12 Storage: 5 GB available space Additional Notes: The Journey runs on HTC Vive. Xbox 360 &amp; Xbox One controllers are supported.",
+    "reviews": []
+}

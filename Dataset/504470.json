@@ -1,0 +1,41 @@
+{
+    "app_id": 504470,
+    "name": "Salvaged",
+    "release_date": "2016-11-17",
+    "developer": [
+        "Opposable Games"
+    ],
+    "publisher": [
+        "Opposable Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 45,
+    "positive_ratings": 6,
+    "negative_ratings": 8,
+    "price": 9.99,
+    "description": "The human race explores the stars, but a keen focus on the future has left a trail of desolation in the past. You are Alex Pieterson, commander of the salvage ship Thaddeus and its team of hardened agents. You are a remnant of that past, fighting for survival in a huge new galaxy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504470/header.jpg?t=1480327451",
+    "minimum_requirements": "OS: Windows 7 SP1 64 bit or newer Processor: Intel Core i3-3225 @ 3.30GHz or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB Storage: 7 GB available space Additional Notes: These are recommended minimum requirements for non-VR. Salvaged is an Early Access game, and recommended requirements may change during development.",
+    "recommended_requirements": "OS: Windows 7 SP1 64 bit or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD R9 290 equivalent or greater Storage: 7 GB available space Additional Notes: These are recommended minimum requirements for VR. Salvaged is an Early Access game, and recommended requirements may change during development.",
+    "reviews": []
+}

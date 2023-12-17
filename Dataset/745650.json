@@ -1,0 +1,41 @@
+{
+    "app_id": 745650,
+    "name": "Cross Pixels",
+    "release_date": "2018-04-17",
+    "developer": [
+        "crowgames UG (haftungsbeschränkt)"
+    ],
+    "publisher": [
+        "crowgames UG (haftungsbeschränkt)"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "Cross Pixels is a collection of Picross puzzles. Train your logic thinking and reveal the hidden picture.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/745650/header.jpg?t=1523960625",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i7-4720HQ 2,6GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX960M Network: Broadband Internet connection Storage: 30 MB available space Additional Notes: Monitor resultion of 1920x1080 recomended for the moment",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+    "app_id": 354920,
+    "name": "Pester",
+    "release_date": "2015-08-21",
+    "developer": [
+        "Flump Studios"
+    ],
+    "publisher": [
+        "KISS ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Shoot 'Em Up",
+        "Bullet Hell"
+    ],
+    "achievements": 0,
+    "positive_ratings": 43,
+    "negative_ratings": 31,
+    "price": 0.79,
+    "description": "A blast from Flump Studios past! Pester was released on Xbox live indies back in early 2013 and was Flump Studios first game developed for public release. A remake of one of my early C64 games, Pester is a very fast paced and busy retro vertical shooter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/354920/header.jpg?t=1457643917",
+    "minimum_requirements": "OS: Windows XP Processor: 1.2 Ghz Memory: 512 MB RAM Graphics: Shader Model 1.1 compatible graphics card DirectX: Version 9.0c Storage: 100 MB available space Sound Card: Windows Media player must be installed",
+    "recommended_requirements": "OS: Windows 7/8 Processor: 2 Ghz Memory: 1 GB RAM Graphics: Shader Model 2.0 compatible graphics card DirectX: Version 9.0c Storage: 200 MB available space Sound Card: Windows Media player must be installed",
+    "reviews": [
+        {
+            "review_text": "Raiden meets Galaga, bullets flying everywhere.  You'll die a lot, and you'll love doing it.   I can't recommend it enough if you like either of the games I mentioned above.  Classic gameplay, re-vitalized.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unfair, way to many enemies at parts, which makes it almost impossible to beat. Not to mention it also looks and feels like a flash game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's Fun. good selection of music and a cool scanline filter which i'm a sucker for :D overall a good budget shmup",
+            "review_score": "1"
+        }
+    ]
+}

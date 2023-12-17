@@ -1,0 +1,43 @@
+{
+    "app_id": 693830,
+    "name": "Containment Corps",
+    "release_date": "2017-09-20",
+    "developer": [
+        "Nimbus Interactive"
+    ],
+    "publisher": [
+        "Nimbus Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 15,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "The laser bow wielding security force has been called in. Fulfill your obligation to the Containment Corporation, keep the energy bases operational. Containment Corps mixes first person action with co-operative strategy and tower defense elements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/693830/header.jpg?t=1550019701",
+    "minimum_requirements": "OS: Win 7 32 Processor: 2.0Ghz Intel® Core™2 Duo Processor or AMD equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 560 / AMD Radeon HD 6950 or better with 768 MB+ of VRAM DirectX: Version 10 Storage: 2 GB available space Sound Card: Direct X Compatible",
+    "recommended_requirements": "OS: Win 10 64 Processor: Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 780 TI, AMD Radeon R9 290X (DirectX 11 Compatible) DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Sound Card: Direct X Compatible",
+    "reviews": []
+}

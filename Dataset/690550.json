@@ -1,0 +1,39 @@
+{
+    "app_id": 690550,
+    "name": "Pogo",
+    "release_date": "2018-12-21",
+    "developer": [
+        "kangawallapuss"
+    ],
+    "publisher": [
+        "kangawallapuss"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Physics"
+    ],
+    "achievements": 6,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Hold on tight it's time to bounce! Pogo is a goofy yet challenging 3D physics platformer that will make you laugh with joy and cry with frustration.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690550/header.jpg?t=1548385029",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7 SP1+ 处理器: 2.4 GHz 内存: 2 GB RAM 图形: Onboard Intel HD 4600 DirectX 版本: 9.0c 存储空间: 需要 300 MB 可用空间 声卡: DirectX9.0 compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

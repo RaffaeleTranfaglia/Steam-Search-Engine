@@ -1,0 +1,43 @@
+{
+    "app_id": 603550,
+    "name": "Schlag den Star - Das Spiel",
+    "release_date": "2017-11-30",
+    "developer": [
+        "Lost the Game Studios"
+    ],
+    "publisher": [
+        "bitComposer Interactive GmbH"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 29,
+    "positive_ratings": 2,
+    "negative_ratings": 10,
+    "price": 15.49,
+    "description": "Nach SCHLAG DEN RAAB kommt SCHLAG DEN STAR! Du und bis zu 3 Deiner Freunde treten in 25 Minigames gegeneinander an. Zeige allen, dass Du nicht nur über das größte Allgemeinwissen verfügst, sondern auch Geschicklichkeit und ein gutes Gedächtnis hast. Schlägst du alle Stars?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/603550/header.jpg?t=1512046412",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 2 GHz x86 Processor Memory: 4 GB RAM Graphics: DirectX 9 compatible graphics card DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

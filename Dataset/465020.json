@@ -1,0 +1,42 @@
+{
+    "app_id": 465020,
+    "name": "Sector Six",
+    "release_date": "2018-09-07",
+    "developer": [
+        "Aivaras Klimas"
+    ],
+    "publisher": [
+        "Michael Jendryssek"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Shoot 'Em Up",
+        "2D"
+    ],
+    "achievements": 140,
+    "positive_ratings": 126,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "Sector Six is a side-scrolling, sci-fi shooter with silhouette aesthetic, procedural loot, extensive customization, and story missions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/465020/header.jpg?t=1543763934",
+    "minimum_requirements": "Processor: 1.2 GHz or better Graphics: 256 MB Storage: 40 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

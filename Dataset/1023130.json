@@ -1,0 +1,40 @@
+{
+    "app_id": 1023130,
+    "name": "Defection",
+    "release_date": "2019-03-15",
+    "developer": [
+        "Sergey Saratov"
+    ],
+    "publisher": [
+        "Sergey Saratov"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Defection is a third-person multiplayer shooter with hand-drawn styling.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1023130/header.jpg?t=1554099883",
+    "minimum_requirements": "OS: Windows® 10, 8, or 7 Processor: AMD E2-6110 APU with AMD Radeon R2 Graphics, 1500 MHz Memory: 4 GB RAM Graphics: Intel HD 3000 DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows® 10, 8, or 7 Processor: AMD FX(TM)-6300 Six-Core Processor, 3500 MHz Memory: 8 GB RAM Graphics: AMD Radeon (TM) R9 200 Series DirectX: Version 11 Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": []
+}

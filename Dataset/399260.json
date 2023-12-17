@@ -1,0 +1,47 @@
+{
+    "app_id": 399260,
+    "name": "Alice's Mom's Rescue",
+    "release_date": "2015-09-03",
+    "developer": [
+        "OrionSoft"
+    ],
+    "publisher": [
+        "OrionSoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 25,
+    "negative_ratings": 10,
+    "price": 2.09,
+    "description": "Alice's Mom's Rescue is an indie puzzle / platformer game in the pure style of old school pixel art. The giant raven has captured Alice's mother. Help Alice save her mother through the 3 worlds and 25 levels! Change Alice's height by jumping on the magic mushrooms to get through the tiny spaces.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/399260/header.jpg?t=1494515905",
+    "minimum_requirements": "OS: Windows 7 Processor: x86 Storage: 20 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game may sound like a children's everyday game, but it's actually a neat puzzle platformer. This puzzle solving is ingenious, the character I actually find adorable, and the programming is well designed. Anyone who's into platforming games, who want to try something new, this is the game for them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Too linear. Basic platformer with sluggish controls. You can get stuck.  Story is generic. Music is extremely monotonous - and not in the relaxing but annoying way. Massive tearing.  Change of language does nothing. Keeps using the system language.  Only the graphics is cute-ish.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "app_id": 283040,
+    "name": "Paper Dungeons",
+    "release_date": "2015-04-20",
+    "developer": [
+        "Stephane Valverde",
+        "Leslie Valverde"
+    ],
+    "publisher": [
+        "Agent Mega"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "RPG",
+        "Adventure"
+    ],
+    "achievements": 25,
+    "positive_ratings": 38,
+    "negative_ratings": 38,
+    "price": 6.99,
+    "description": "Paper Dungeons is a fantasy board-game boosted by online content. With the ability to create and share online your own levels, you're up for an infinite replay value! The game is visualized as a classic tabletop board-game with dice and tokens, and has 4 game modes: Boardgame, Campaign, Puzzle and Rogue.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/283040/header.jpg?t=1447360600",
+    "minimum_requirements": "OS: Windows XP Processor: Single Core 1.6 Ghz Memory: 1024 MB RAM Graphics: 512 Mb non integrated DirectX: Version 9.0c Network: Broadband Internet connection Storage: 500 MB available space Sound Card: Direct X Compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "What ended up as playing this game to kill time, turned into playing several hours at a time. It is good.  The only thing I believe is lacking in this game are the mechanics behind the dice system they use. In particular, which dice set is best for which monsters. If they wrote a nice FAQ for that, that would be awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There really is no reason to play this when 'desktop dungeons' exists. It doesn't outcompete that game in any respect, so I'm never going to play this again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nope",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 450860,
+    "name": "Andarilho",
+    "release_date": "2017-05-05",
+    "developer": [
+        "SC Jogos"
+    ],
+    "publisher": [
+        "SC Jogos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 3,
+    "positive_ratings": 201,
+    "negative_ratings": 140,
+    "price": 0.79,
+    "description": "You are a guy with a backpack, just try to stay alive!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/450860/header.jpg?t=1554758993",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

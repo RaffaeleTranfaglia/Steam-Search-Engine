@@ -1,0 +1,38 @@
+{
+    "app_id": 352530,
+    "name": "Poppy Kart",
+    "release_date": "2015-10-09",
+    "developer": [
+        "Stephane Graziano",
+        "Franck Graziano",
+        "Mathieu Lamarche"
+    ],
+    "publisher": [
+        "Webrox"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Poppy kart is a funny karting game in a pixelated world. Travel, fight and drive as fast as you can on 29 handcrafted crazy races.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352530/header.jpg?t=1447369753",
+    "minimum_requirements": "OS: Windows 7 Additional Notes: Manette XBOX",
+    "recommended_requirements": null,
+    "reviews": []
+}

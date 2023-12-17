@@ -1,0 +1,41 @@
+{
+    "app_id": 786570,
+    "name": "The Alpha Device",
+    "release_date": "2018-02-13",
+    "developer": [
+        "Xiotex Studios Ltd"
+    ],
+    "publisher": [
+        "Xiotex Studios Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 42,
+    "negative_ratings": 28,
+    "price": 0.0,
+    "description": "Beyond space, beyond reason... beyond humanity. Discover a gripping tale of a dystopian future narrated by David Hewlett, star of the Academy Award-winning The Shape Of Water.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/786570/header.jpg?t=1543927422",
+    "minimum_requirements": "最低配置: 操作系统: Windows 10 处理器: i5 内存: 4 GB RAM 图形: nVidIA GeForce® GTX 770 or better. 存储空间: 需要 300 MB 可用空间",
+    "recommended_requirements": "推荐配置: 操作系统: Windows 10 处理器: i7 内存: 8 GB RAM 图形: nVidia GTX 1080ti or better 存储空间: 需要 300 MB 可用空间",
+    "reviews": []
+}

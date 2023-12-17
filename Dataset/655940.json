@@ -1,0 +1,41 @@
+{
+    "app_id": 655940,
+    "name": "Elo Hell",
+    "release_date": "2018-08-08",
+    "developer": [
+        "Exato Game Studios"
+    ],
+    "publisher": [
+        "Exato Game Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 15.49,
+    "description": "Elo Hell is choice-based, episodic, narrative sitcom game about a person trying to go pro in today's esports industry. Put on your tryhard pants, because things are about to get interesting.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655940/header.jpg?t=1551223391",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel 4 core Graphics: GTX 900 Series DirectX: Version 10 Storage: 3 GB available space Additional Notes: Integrated graphics cards will not work. Most normal graphics cards should, to varying degrees. We have not optimized the game heavily, yet, or tested many hardware options. YMMV. Use the refund tool if the game doesn't work for you.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 561690,
+    "name": "Emission VR",
+    "release_date": "2016-11-30",
+    "developer": [
+        "VRSpec Team"
+    ],
+    "publisher": [
+        "VRSpec Team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 2,
+    "negative_ratings": 5,
+    "price": 75.99,
+    "description": "Kill as many zombies, go through as many corridors can be possible. And all this in virtual reality!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/561690/header.jpg?t=1481684363",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel core i5 Memory: 4 GB RAM Graphics: NVidia GeForce 750 ti DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel core i7 Memory: 8 GB RAM Graphics: NVidia GeForce 950 DirectX: Version 12 Storage: 500 MB available space",
+    "reviews": []
+}

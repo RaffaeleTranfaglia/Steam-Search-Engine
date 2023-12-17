@@ -1,0 +1,39 @@
+{
+    "app_id": 875520,
+    "name": "Freddy's Journey",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Grim World Company"
+    ],
+    "publisher": [
+        "Grim World Company"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "2D",
+        "Platformer"
+    ],
+    "achievements": 29,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "A platforming game with a minimalist aesthetic and challenging gameplay that is telling us the story of the Freddy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/875520/header.jpg?t=1531236826",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Memory: 1 GB RAM Graphics: NVidia GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB (Does not support Intel Integrated Graphics Cards) DirectX: Version 9.0 Additional Notes: Running on integrated graphic card  may cause considerable lag making progression through the game extremely difficult or even crash the game.",
+    "recommended_requirements": null,
+    "reviews": []
+}

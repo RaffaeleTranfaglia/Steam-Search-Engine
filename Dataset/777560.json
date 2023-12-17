@@ -1,0 +1,39 @@
+{
+    "app_id": 777560,
+    "name": "INVISIBLE",
+    "release_date": "2018-01-26",
+    "developer": [
+        "Tsukinowa App."
+    ],
+    "publisher": [
+        "Tsukinowa App."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 17,
+    "positive_ratings": 8,
+    "negative_ratings": 8,
+    "price": 0.0,
+    "description": "&quot;You are in a closed space craft. Your aim is to survive even though you defeat other passengers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777560/header.jpg?t=1516956015",
+    "minimum_requirements": "OS: windows7 ,8, 10 Processor: SSE2 (Pentium 4 Or later) Memory: 200 MB RAM DirectX: Version 9.0 Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

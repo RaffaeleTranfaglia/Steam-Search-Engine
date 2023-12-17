@@ -1,0 +1,40 @@
+{
+    "app_id": 450850,
+    "name": "Cube Land Arena",
+    "release_date": "2019-03-08",
+    "developer": [
+        "Jaison Robson Gusava",
+        "SC Jogos"
+    ],
+    "publisher": [
+        "SC Jogos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Tower Defense"
+    ],
+    "achievements": 25,
+    "positive_ratings": 38,
+    "negative_ratings": 42,
+    "price": 0.79,
+    "description": "The kingdom of Cubia call for your help, come to this vast kingdom where you will face strong enemies and hard challenges, you are the chosen to defend the cristals of life and finally bring peace to reign of Cubia.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/450850/header.jpg?t=1552380357",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Graphics: Graphics card with DX10 (shader model 4.0) capabilities Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

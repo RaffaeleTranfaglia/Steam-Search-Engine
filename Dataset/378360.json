@@ -1,0 +1,40 @@
+{
+    "app_id": 378360,
+    "name": "Ymir",
+    "release_date": "2019-03-16",
+    "developer": [
+        "Thibaud Michaud"
+    ],
+    "publisher": [
+        "Thibaud Michaud"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "City Builder"
+    ],
+    "achievements": 1,
+    "positive_ratings": 332,
+    "negative_ratings": 75,
+    "price": 27.79,
+    "description": "Ymir is a 4X multiplayer strategy game combined with a city builder where each player develops a civilization of pigmen starting at the stone age.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/378360/header.jpg?t=1553355804",
+    "minimum_requirements": "OS: Windows 8 Processor: Intel core i5 Memory: 4 GB RAM Graphics: AMD Radeon HD 7800, screen resolution 1920x1080 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

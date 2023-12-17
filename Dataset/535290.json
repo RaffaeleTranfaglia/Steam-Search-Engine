@@ -1,0 +1,46 @@
+{
+    "app_id": 535290,
+    "name": "Super Happy Singh",
+    "release_date": "2016-10-06",
+    "developer": [
+        "Shrimasis Rout"
+    ],
+    "publisher": [
+        "Seed Games LLP"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 2.79,
+    "description": "A 3d maze puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535290/header.jpg?t=1509316011",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: Pentium Dual Core Memory: 1 GB RAM Graphics: HD4400 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is the game from hell. Definitely not designed for the keyboard since WASD does not provide the correct directions.  And pressing spacebar to jump does not work when you are already pressing two other keys to go diagonally down.   Recommendation: Save your Money.",
+            "review_score": "-1"
+        }
+    ]
+}

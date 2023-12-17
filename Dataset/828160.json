@@ -1,0 +1,37 @@
+{
+    "app_id": 828160,
+    "name": "X-Town 3D game",
+    "release_date": "2018-04-15",
+    "developer": [
+        "Alek1277"
+    ],
+    "publisher": [
+        "WWW.ROSSPROGRAMMPRODUCT.COM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "FPS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 13,
+    "price": 3.59,
+    "description": "3-dimensional shooting game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/828160/header.jpg?t=1523986848",
+    "minimum_requirements": "OS: any Windows OS Processor: 700 MHz Memory: 256 MB RAM Graphics: 32MB Storage: 1 MB available space",
+    "recommended_requirements": "OS: any Windows OS Processor: 1 GHz Memory: 1 GB RAM Graphics: NVIDIA 64MB and more",
+    "reviews": []
+}

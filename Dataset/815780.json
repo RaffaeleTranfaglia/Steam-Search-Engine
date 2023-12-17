@@ -1,0 +1,40 @@
+{
+    "app_id": 815780,
+    "name": "PIPE by BMX Streets",
+    "release_date": "2018-03-15",
+    "developer": [
+        "Mash Games"
+    ],
+    "publisher": [
+        "Mash Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 1174,
+    "negative_ratings": 139,
+    "price": 7.19,
+    "description": "PIPE is a physics based BMX experience built for the BMX community designed to simulate realistic BMX motion. Perform over 50 aerial stunts, grind any corner, send big airs in the PIPE! PIPE also includes some fun Easter Eggs for those willing to explore and think outside the box.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815780/header.jpg?t=1536186805",
+    "minimum_requirements": "OS: Windows 7 Processor: X64 Dual Core Memory: 4 GB RAM Graphics: NVIDIA GTX 600 DirectX: Version 11 Storage: 598 MB available space Additional Notes: Requires controller (Optimized for Xbox One Controller)",
+    "recommended_requirements": null,
+    "reviews": []
+}

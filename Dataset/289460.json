@@ -1,0 +1,55 @@
+{
+    "app_id": 289460,
+    "name": "RC Cars",
+    "release_date": "2014-04-23",
+    "developer": [
+        "Creat Studio"
+    ],
+    "publisher": [
+        "1C Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Casual",
+        "Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 146,
+    "negative_ratings": 52,
+    "price": 1.99,
+    "description": "R.C. Cars is an exciting arcade racing game featuring the world of highly realistic toy radio controlled cars. Jump, accelerate, perform acrobatic feats in the air, and bounce on big hummocks, pits and bumps while contending with opponents for victory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/289460/header.jpg?t=1553175938",
+    "minimum_requirements": "OS: Windows XP / 7 / 8 Processor: Intel Pentium III 600 MHz Memory: 64 MB RAM Graphics: Microsoft DirectX 8.1 - compatible 3D video accelerator Storage: 300 MB available space Additional Notes: „Customer may encounter slow input reaction in menus while playing on modern operating systems“",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I played it when i was young, so i have to buy it again and it's still good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Yes i Recomend it because its multiplayer compatible with a usb Controller!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is dump!! You'll grow a beard by the time menu loads up!! Cars controlls resemble cardboard cutouts being pushed around the floor. Save that £1.24, buy yourself an ice cream or smth, at least it'll make you feel better for a moment and save you the stress of dealing with this diarrhea nugget!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ok, so, I know I have like no time clocked into this game, but hear me out on this one:  I loaded up RC Cars and found the worst main menu of all time. It took 10 seconds to go from one option to another as the game slooooooowly transitioned between things. It was so bad I loaded up FRAPS to record it. But then it started working fine, so I closed FRAPS and went back to playing, but it was slowed down again. After some experimenting with it, I figured out the game ACTUALLY RUNS MORE SMOOTHLY when FRAPS is recording video of it.  This game was obviously made by witches and you should not support the dark arts.",
+            "review_score": "-1"
+        }
+    ]
+}

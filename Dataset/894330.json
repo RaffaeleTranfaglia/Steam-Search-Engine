@@ -1,0 +1,39 @@
+{
+    "app_id": 894330,
+    "name": "One Hunt",
+    "release_date": "2018-07-25",
+    "developer": [
+        "Jonathan Moye"
+    ],
+    "publisher": [
+        "Jonathan Moye"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "One Hunt is a simplistic survival shooter game. At the moment there are only three things that can kill you; wolves, weather, and the one you hunt. In order to survive, you must collect wood to create fires, find shells to keep your shotgun loaded, and avoid detection from the one you hunt.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/894330/header.jpg?t=1538586175",
+    "minimum_requirements": "OS: Windows 7 Memory: 4 GB RAM Graphics: Intel HD 4000 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

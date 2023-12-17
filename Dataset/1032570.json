@@ -1,0 +1,42 @@
+{
+    "app_id": 1032570,
+    "name": "Pilot Unknown",
+    "release_date": "2019-03-28",
+    "developer": [
+        "Nathaniel Carter"
+    ],
+    "publisher": [
+        "Nathaniel Carter"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 57,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Pilot Unknown launches the roguelike into space. This bullet hell shooter consists of equal parts action and mystery. Hone your piloting skills to take down enemies; hone your strategic plan to take down the dungeon. You will need both to survive in Pilot Unknown.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1032570/header.jpg?t=1553770483",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Dual Core CPU Memory: 4 GB RAM Graphics: DirectX11 compliant graphic cards DirectX: Version 11 Storage: 200 MB available space Additional Notes: System must support 4096x4096 texture pages",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Quad Core CPU Memory: 8 GB RAM Graphics: DirectX11 compliant graphic cards DirectX: Version 11 Storage: 200 MB available space Additional Notes: System must support 4096x4096 texture pages",
+    "reviews": []
+}

@@ -1,0 +1,58 @@
+{
+    "app_id": 365760,
+    "name": "Vektor Wars",
+    "release_date": "2015-06-04",
+    "developer": [
+        "Super Icon Ltd"
+    ],
+    "publisher": [
+        "Super Icon Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Retro"
+    ],
+    "achievements": 20,
+    "positive_ratings": 39,
+    "negative_ratings": 13,
+    "price": 4.99,
+    "description": "A first-person cyber shooter tribute to classic Arcade blasters such as Battlezone, Berzerk &amp; Robotron. All rendered in '80s 3D Vector-Vision' (TM).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/365760/header.jpg?t=1505731299",
+    "minimum_requirements": "OS: Windows XP+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great game, especially for the price. Reminiscent of the classic Battlezone, but with very pretty neon graphics &amp; more advanced enemies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really enjoyed this for the price. Gets a bit repetitive, but the aesthetic is beautiful; the soundtrack is thumping and the gameplay is tight. Enjoyed running round the arenas exploring them. Would recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game. Im not much of an FPS fan myself, but love neon and cyberpunk.   Very simple, just wave based combat (That i have played so far at least) and beautiful enviroments to play in. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok, so the game has recently been updated, and I can't say for certain how, but the game really is more playable. Long story short, I got past the third level. This is still a pretty hard game, but I think I can manage, and it is GLORIOUSLY retro in the visuals and sound, so no complaints here.",
+            "review_score": "1"
+        }
+    ]
+}

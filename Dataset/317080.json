@@ -1,0 +1,53 @@
+{
+    "app_id": 317080,
+    "name": "MotorSport Revolution",
+    "release_date": "2015-01-15",
+    "developer": [
+        "Ghost Machine"
+    ],
+    "publisher": [
+        "Ghost Machine"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "VR Support",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Racing",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 62,
+    "price": 10.99,
+    "description": "Motorsport Revolution is a single-player, physics-based racing game inspired by classic arcade racing games, as well as the popular Le Mans Series, which is considered the most challenging sport racing class in the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/317080/header.jpg?t=1447362991",
+    "minimum_requirements": "OS: Windows XP, Vista,7,8,8.1 Processor: AMD Athlon X2 2.8 GHZ, Intel Core 2 Duo 2.4 GHZ Memory: 2 GB RAM Graphics: AMD Radeon HD 6450, Nvidia GeForce GT 460 DirectX: Version 10 Storage: 650 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows Vista,7,8,8.1 Processor: AMD Six-Core CPU, Intel Quad-Core CPU Memory: 4 GB RAM Graphics: DirectX 11 - AMD Radeon HD 7870, Nvidia GeForce GTX 660 DirectX: Version 11 Storage: 800 GB available space Sound Card: Integrated",
+    "reviews": [
+        {
+            "review_text": "to be honest, this games like a crash simulator. the bot car always slipped away until they left me alone racing :/",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Change camera to change your (reported) position on the grid.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "like most of the oculus titles on steam, it doesn't actually support oculus rift. no stereoscopic rendering, nothing. this is garbage. steam needs to get their act together with the VR labeling because it matters. this is the third game i've bought now with 'VR support' that had no such thing. time to start reversing credit card charges.",
+            "review_score": "-1"
+        }
+    ]
+}

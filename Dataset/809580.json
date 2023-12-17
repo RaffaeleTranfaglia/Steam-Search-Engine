@@ -1,0 +1,40 @@
+{
+    "app_id": 809580,
+    "name": "RAMS",
+    "release_date": "2018-09-20",
+    "developer": [
+        "AFY Games"
+    ],
+    "publisher": [
+        "AFY Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 1,
+    "positive_ratings": 51,
+    "negative_ratings": 29,
+    "price": 3.99,
+    "description": "RAMS is a shooter based on the mechanics of Battle Royale, but with more attention to detail, a sharp focus on experience of your every moment during playtime. RAMS is much deeper than a standard shooter, with the ability to expand and train your character. You're more than just a gun. Go get 'em!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/809580/header.jpg?t=1537516570",
+    "minimum_requirements": "OS: 64-bit Windows 7, Windows 8.1, Windows 10 Processor: Intel Core i3-4340 or AMD FX-6300 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 560 or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

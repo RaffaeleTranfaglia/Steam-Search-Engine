@@ -1,0 +1,38 @@
+{
+    "app_id": 704310,
+    "name": "Lumberjack VR",
+    "release_date": "2017-10-13",
+    "developer": [
+        "Erik Brunnström"
+    ],
+    "publisher": [
+        "Erik Brunström"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 6,
+    "positive_ratings": 8,
+    "negative_ratings": 3,
+    "price": 2.89,
+    "description": "Experience the thrilling life of a Lumberjack in virtual reality with Lumberjack VR, an arcade action game for the HTC Vive. Fight your way through waves of logs, lumber and bombs with nothing but an axe in your hand.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/704310/header.jpg?t=1507924834",
+    "minimum_requirements": "OS: Windows™ 7 SP1, Windows™ 8.1 or later or Windows™ 10 Processor: Intel i5-4590 / AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

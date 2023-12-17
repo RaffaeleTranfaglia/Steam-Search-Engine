@@ -1,0 +1,37 @@
+{
+    "app_id": 568030,
+    "name": "Last Mage Standing",
+    "release_date": "2016-12-15",
+    "developer": [
+        "Immersion"
+    ],
+    "publisher": [
+        "Immersion"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "VR"
+    ],
+    "achievements": 10,
+    "positive_ratings": 16,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "In Last Mage Standing you are a young mage, standing alone against a horde of undead. Your goal is to survive as long as possible - use your fireballs and weapons to defeat the attackers!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/568030/header.jpg?t=1481803931",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

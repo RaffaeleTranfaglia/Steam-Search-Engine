@@ -1,0 +1,41 @@
+{
+    "app_id": 967410,
+    "name": "Creatures Inc",
+    "release_date": "2019-03-22",
+    "developer": [
+        "Little Beavers Games"
+    ],
+    "publisher": [
+        "Little Beavers Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 60,
+    "negative_ratings": 36,
+    "price": 7.19,
+    "description": "Creatures Inc throws you and your friends into a world infested by Creatures. Battle to survive in a valley where you can capture and tame creatures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/967410/header.jpg?t=1555515633",
+    "minimum_requirements": "OS: 64-bit Windows 7, Windows 8.1, Windows 10 Processor: Intel Core i5-4430 / AMD FX-6300 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 / Radeon HD 7870 DirectX: Version 11 Storage: 20 GB available space",
+    "recommended_requirements": "OS: 64-bit Windows 7, Windows 8.1, Windows 10 Processor: Intel Core i5-6600K / AMD Ryzen 5 1600 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB DirectX: Version 11 Storage: 20 GB available space",
+    "reviews": []
+}

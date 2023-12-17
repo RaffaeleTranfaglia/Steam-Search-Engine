@@ -1,0 +1,37 @@
+{
+    "app_id": 992880,
+    "name": "Space Cruise",
+    "release_date": "2019-01-17",
+    "developer": [
+        "Ben Robinson",
+        "Andrew Ogunnaike"
+    ],
+    "publisher": [
+        "So and So Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 6.0,
+    "description": "Space Cruise is a hybrid of both metroidvania style platforming and traditional bullet-hell gameplay, allowing the player to choose which play style resonates with them most for each run. With power-ups for both methods of gameplay, randomised levels on the branching paths, and leaving the final decision to the player, each run should...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/992880/header.jpg?t=1547734854",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Quad-core Intel Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 460 DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Quad-core Intel or faster Memory: 8 GB RAM Graphics: GeForce GTX 960M DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

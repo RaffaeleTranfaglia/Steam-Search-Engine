@@ -1,0 +1,41 @@
+{
+    "app_id": 402670,
+    "name": "Space Thinger",
+    "release_date": "2015-09-25",
+    "developer": [
+        "Wytchlight"
+    ],
+    "publisher": [
+        "Wytchlight"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 20,
+    "positive_ratings": 13,
+    "negative_ratings": 16,
+    "price": 1.69,
+    "description": "Space Thinger is a thrilling arcade space shooter! Fight your way through multiple combat zones completing missions, mining asteroids for crystals and collecting the debris of your fallen foes to upgrade your ship and engage in ever more epic space battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/402670/header.jpg?t=1478086220",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: 1.7 GHz Dual Core or Greater Memory: 2 GB RAM Graphics: DirectX 9.0c compatible graphics card / i3 or above integrated graphics. DirectX: Version 9.0c Storage: 530 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

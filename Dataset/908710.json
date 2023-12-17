@@ -1,0 +1,39 @@
+{
+    "app_id": 908710,
+    "name": "NightKnight",
+    "release_date": "2018-08-28",
+    "developer": [
+        "WeRVR Studio"
+    ],
+    "publisher": [
+        "WeRVR Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "NightKnight is an intense, chaotic, fantasy VR archery game. Grab a magic bow and equip your favorite arrow to defend the castle from hordes of living undead. Could you survive the night and protect sweet Princess Day?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/908710/header.jpg?t=1539506547",
+    "minimum_requirements": "OS: Windows 8.1/10 (64bit) Processor: Intel Core i5 Sandy Bridge or equivalent Memory: 4 GB RAM Graphics: Nvidia GTX 960 or equivalent DirectX: Version 11 Storage: 1000 MB available space",
+    "recommended_requirements": "OS: Windows 8.1/10 (64bit) Processor: Intel Core i7 Skylake or equivalent Memory: 8 MB RAM Graphics: Nvidia GTX 1060 or equivalent DirectX: Version 12 Storage: 1000 MB available space",
+    "reviews": []
+}

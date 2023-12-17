@@ -1,0 +1,38 @@
+{
+    "app_id": 565200,
+    "name": "Gem Monster",
+    "release_date": "2016-12-17",
+    "developer": [
+        "keggame"
+    ],
+    "publisher": [
+        "keggame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 3,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 5,
+    "price": 1.99,
+    "description": "Gem Monster is a virtual reality game. In the game you fight different kinds of monsters in which are composed of gems and different colors. The only way to defeat them is to match and remove all the gems on their body.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/565200/header.jpg?t=1482233609",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows Vista 64-bit Processor: Intel i3 2nd-Generation 2.5GHz, AMD Quad-Core 2.5GHz Memory: 2048 MB RAM Graphics: Nvidia GT640, AMD Radeon HD7750, 1GB DirectX: Version 9.0 Storage: 1024 MB available space Sound Card: DirectX 9.0c Compatible Sound Card with Latest Drivers",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit or higher, Windows 8, Windows 10 Processor: i5-4590 equivalent or greater Memory: 8192 MB RAM Graphics: CardNVIDIA GTX 970 , AMD 290 DirectX: Version 11 Storage: 1024 MB available space Sound Card: DirectX 9.0c Compatible Sound Card with Latest Drivers",
+    "reviews": []
+}

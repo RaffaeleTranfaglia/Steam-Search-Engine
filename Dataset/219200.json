@@ -1,0 +1,44 @@
+{
+    "app_id": 219200,
+    "name": "Droid Assault",
+    "release_date": "2013-01-09",
+    "developer": [
+        "Puppygames"
+    ],
+    "publisher": [
+        "Puppygames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 35,
+    "positive_ratings": 275,
+    "negative_ratings": 55,
+    "price": 7.19,
+    "description": "Play Droid Assault and experience running blaster battles with hordes of rampaging killer robots! Discover a unique tactical arcade shooter, with the fun addictive gameplay of 8-bit classics. You'll need your wits and the help of your acquired droid squad to stay alive in this fast-paced retro actionfest.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/219200/header.jpg?t=1525215589",
+    "minimum_requirements": "OS:Windows XP Processor:1GHz Memory:512 MB RAM Graphics:OpenGL 1.5 capable graphics card Hard Drive:430 MB HD space",
+    "recommended_requirements": "Graphics:OpenGL 2.1 capable graphics card",
+    "reviews": []
+}

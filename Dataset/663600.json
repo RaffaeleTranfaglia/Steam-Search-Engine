@@ -1,0 +1,42 @@
+{
+    "app_id": 663600,
+    "name": "Genie",
+    "release_date": "2017-07-31",
+    "developer": [
+        "X3 Brothers"
+    ],
+    "publisher": [
+        "X3 Brothers"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A series of mysterious murders jeopardize a detective's career, forcing him to make a difficult choice in his life. What will your decision be?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/663600/header.jpg?t=1502295585",
+    "minimum_requirements": "OS: Windows XP Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX Compatible Card DirectX: Version 9.0 Storage: 2000 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

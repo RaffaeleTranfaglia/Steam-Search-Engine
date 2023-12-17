@@ -1,0 +1,41 @@
+{
+    "app_id": 516470,
+    "name": "CRAPPY ZOMBIE GAME",
+    "release_date": "2016-10-28",
+    "developer": [
+        "CRAPPY ZOMBIE GAME STUDIO"
+    ],
+    "publisher": [
+        "CRAPPY ZOMBIE GAME STUDIO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Zombies"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 0.0,
+    "description": "Dismember Zombies - Manual Reloading System - Dual Wielding - Axe Throwing Zombies - Pistol Zombies - Full Left-handed Support",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/516470/header.jpg?t=1502144737",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel® Core™ i7-5960X Memory: 32 GB RAM Graphics: GeForce® GTX 980 Ti DirectX: Version 12 Storage: 1.5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": [
+        {
+            "review_text": "Controls are a bit difficult but it's very fun. There's a few weapons to mess around with and the rules of the game change every round, stuff like boxing only to unlimited throwing axes. The dismemberment and gore is what really makes this game interesting.",
+            "review_score": "1"
+        }
+    ]
+}

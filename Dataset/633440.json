@@ -1,0 +1,44 @@
+{
+    "app_id": 633440,
+    "name": "Unit 4",
+    "release_date": "2017-05-24",
+    "developer": [
+        "Gamera Interactive"
+    ],
+    "publisher": [
+        "Gamera Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 51,
+    "positive_ratings": 19,
+    "negative_ratings": 17,
+    "price": 10.99,
+    "description": "Fast paced platforming action, cooperative gameplay up to 4 players, an elite squad of agents with amazing skills, space travels, exploration, unique missions, fancy characters, incredible fights with huge bosses, trade, minigames and much more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/633440/header.jpg?t=1525359723",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 or later Процессор: 1.6 GHz or faster Оперативная память: 2 GB ОЗУ Видеокарта: DirectX9.0c compatible Место на диске: 400 MB Дополнительно: Both KB and controllers are supported (max one player on KB).",
+    "recommended_requirements": null,
+    "reviews": []
+}

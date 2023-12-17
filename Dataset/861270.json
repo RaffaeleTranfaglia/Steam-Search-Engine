@@ -1,0 +1,41 @@
+{
+    "app_id": 861270,
+    "name": "Sudoku Killer / 杀手数独",
+    "release_date": "2018-10-19",
+    "developer": [
+        "Konstructors Entertainment"
+    ],
+    "publisher": [
+        "Konstructors Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 4,
+    "positive_ratings": 14,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "Killer Sudoku (Sumdoku/Mathdoku/Addoku) puzzles include all the rules of regular Sudoku, but add in dashed-line 'cages', which must sum to given values. This great brain exerciser will provide you many hours of new Sudoku experience and be nice addition to your puzzle collection.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/861270/header.jpg?t=1547032411",
+    "minimum_requirements": "OS: Windows 7+",
+    "recommended_requirements": null,
+    "reviews": []
+}

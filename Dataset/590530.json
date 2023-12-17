@@ -1,0 +1,39 @@
+{
+    "app_id": 590530,
+    "name": "World Builder",
+    "release_date": "2017-03-14",
+    "developer": [
+        "Guruji VR, Inc"
+    ],
+    "publisher": [
+        "Guruji VR, Inc"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Workshop",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "World Builder is creative tool that will allow anyone to easily create in worlds and landscapes in VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/590530/header.jpg?t=1490300212",
+    "minimum_requirements": "OS: Windows 7/Vista Processor: Intel i5-4590 or AMD FX 8350 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX970 or AMD Radeon R9 290 DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 6700k Graphics: Nvidia GeForce GTX 1080 DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 595430,
+    "name": "Sky Knights",
+    "release_date": "2017-07-27",
+    "developer": [
+        "Mudpike"
+    ],
+    "publisher": [
+        "Mudpike"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 23,
+    "positive_ratings": 293,
+    "negative_ratings": 18,
+    "price": 6.99,
+    "description": "Prove your skills as a pilot in this action-packed multiplayer dogfighting game. Take part in 4 vs 4 battles and outmaneuver opponents, master a variety of jets and weapons, support allied ground troops, and land on the runway. Only a well-orchestrated team of pilots can bring down the enemy bases.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595430/header.jpg?t=1548289322",
+    "minimum_requirements": "OS: Windows 7 SP1 (64-bit) Processor: 2.0 GHz Dual-Core 64-bit CPU Memory: 4 GB RAM Graphics: DX10 Compatible GPU with 1 GB VRAM DirectX: Version 10 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 (64-bit), Windows 8 (64-bit), Windows 10 (64-bit) Processor: 2.4 GHz Quad-Core 64-bit CPU Memory: 8 GB RAM Graphics: DX11 Compatible GPU with 2 GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

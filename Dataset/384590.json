@@ -1,0 +1,48 @@
+{
+    "app_id": 384590,
+    "name": "Polychromatic",
+    "release_date": "2015-10-02",
+    "developer": [
+        "Brushfire Games"
+    ],
+    "publisher": [
+        "Brushfire Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Great Soundtrack"
+    ],
+    "achievements": 33,
+    "positive_ratings": 21,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Polychromatic is a physics-based arcade shooter with a pop of color.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384590/header.jpg?t=1477526981",
+    "minimum_requirements": "OS: Windows XP SP3 or newer Memory: 1 GB RAM Graphics: OpenGL 2.1 Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Good lord I love this game, trying to beat a friends high score is ♥♥♥♥ing infuriating, but I will do it, and I will gloat about it. Just buy it, the Linux version is top quality too.",
+            "review_score": "1"
+        }
+    ]
+}

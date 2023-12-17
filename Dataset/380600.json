@@ -1,0 +1,46 @@
+{
+    "app_id": 380600,
+    "name": "Fishing Planet",
+    "release_date": "2017-08-28",
+    "developer": [
+        "Fishing Planet LLC"
+    ],
+    "publisher": [
+        "Fishing Planet LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Co-op",
+        "Online Co-op",
+        "Full controller support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Fishing",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10585,
+    "negative_ratings": 3330,
+    "price": 0.0,
+    "description": "Fishing Planet is a FREE to play unique and highly realistic online first-person multiplayer fishing simulator developed for anglers to bring you the full thrill of actual fishing! Choose your lures, make your trophy catches, discover new possibilities and sharpen your real angling skills anywhere, anytime with your friends!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/380600/header.jpg?t=1555072940",
+    "minimum_requirements": "OS: OS Version - Windows 7, 8, 10 x64 Processor: Dual-Core 2.4 Ghz Memory: 4 GB RAM Graphics: Graphics Card Intel HD4600 or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 12 GB available space Additional Notes: External mouse or compatible Xbox controller required",
+    "recommended_requirements": "OS: Windows 7,8,10 x64, Mac OS X Processor: Quad-Core 3.0 GHz Memory: 8 GB RAM Graphics: Graphics Card with 2 GB Video RAM: Nvidia Geforce GTX 660 or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 12 GB available space Additional Notes: External mouse or compatible Xbox controller required",
+    "reviews": []
+}

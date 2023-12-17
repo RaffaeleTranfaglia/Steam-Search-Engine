@@ -1,0 +1,40 @@
+{
+    "app_id": 525350,
+    "name": "Thick Air",
+    "release_date": "2016-09-15",
+    "developer": [
+        "People Gotta Play"
+    ],
+    "publisher": [
+        "People Gotta Play"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Racing",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 13,
+    "price": 4.79,
+    "description": "In the world devoid of human life our sentient machines are left to simulate the life they once knew. With no one to watch them, the swarm of flying drones built for one purpose - RACE - compete each into eternity other across various landscapes and settings.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525350/header.jpg?t=1492090954",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 x64 Processor: Intel i5 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX780 3Gb VRAM DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 x64 Processor: Intel i7 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX970 4Gb VRAM DirectX: Version 12 Network: Broadband Internet connection Storage: 5 GB available space",
+    "reviews": []
+}

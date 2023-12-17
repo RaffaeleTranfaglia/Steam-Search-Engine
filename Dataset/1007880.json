@@ -1,0 +1,39 @@
+{
+    "app_id": 1007880,
+    "name": "BALL!",
+    "release_date": "2019-01-23",
+    "developer": [
+        "Emilios Manolidis"
+    ],
+    "publisher": [
+        "Emilios Manolidis"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 11,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Control a ball that's bouncing non-stop! Gain new powers and explore mysterious worlds! Puzzle platforming goodness at its finest! Do you have what it takes?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1007880/header.jpg?t=1550691022",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Processor: Intel Q9550 Memory: 2 GB RAM Graphics: AMD Radeon HD4870 / Nvidia GTX280 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

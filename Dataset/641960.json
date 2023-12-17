@@ -1,0 +1,40 @@
+{
+    "app_id": 641960,
+    "name": "BOXVR",
+    "release_date": "2017-06-13",
+    "developer": [
+        "FitXR"
+    ],
+    "publisher": [
+        "FitXR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 443,
+    "negative_ratings": 58,
+    "price": 14.99,
+    "description": "Rhythm-Based Boxing Inspired Workouts. The only VR workout app with regularly updated workouts by professional fitness instructors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/641960/header.jpg?t=1552053177",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel® i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater Storage: 900 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

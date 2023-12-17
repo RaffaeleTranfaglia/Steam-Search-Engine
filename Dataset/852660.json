@@ -1,0 +1,42 @@
+{
+    "app_id": 852660,
+    "name": "Linear Chicken",
+    "release_date": "2018-05-07",
+    "developer": [
+        "Felip Guimerà"
+    ],
+    "publisher": [
+        "FelGC.GamesDevelopment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 6,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Feed chickens and animals without being able to change direction while moving...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/852660/header.jpg?t=1525715547",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 , 64-Bit Processor: Intel Core i5-4210U CPU @ 2.7GHz Memory: 4 GB RAM Graphics: 1 GB graphics card DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 , 64-Bit Processor: Multithreading processor (e.g i7) Memory: 8 GB RAM Graphics: &gt; 2 GB Graphics card DirectX: Version 12 Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 614100,
+    "name": "Heroes of Paragon",
+    "release_date": "2017-07-05",
+    "developer": [
+        "EVERYDAYiPLAY"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 43,
+    "negative_ratings": 45,
+    "price": 0.0,
+    "description": "Heroes Of Paragon takes strategy gaming to its next level by challenging you to fight against other players in intense base-vs-base battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/614100/header.jpg?t=1499364121",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: SSE2 support Graphics: DX 9 compatible (Shader 3.0) or DX11 compatible 9.3",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 842120,
+    "name": "Arca's Path VR",
+    "release_date": "2018-12-04",
+    "developer": [
+        "Dream Reality Interactive"
+    ],
+    "publisher": [
+        "Rebellion"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "VR"
+    ],
+    "achievements": 12,
+    "positive_ratings": 5,
+    "negative_ratings": 2,
+    "price": 13.99,
+    "description": "Trapped in the enchanting simulated world of Arca, it is up to you to find a path through the labyrinth and break free.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/842120/header.jpg?t=1543944732",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or newer Processor: Intel i5-4590 / AMD FX48350 or greater Memory: 4 GB RAM Graphics: NVIDIA Geforce GTX 970 / AMD Radeon R9 290 or greater",
+    "recommended_requirements": null,
+    "reviews": []
+}

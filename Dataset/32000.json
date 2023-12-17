@@ -1,0 +1,45 @@
+{
+    "app_id": 32000,
+    "name": "Raycatcher",
+    "release_date": "2009-04-17",
+    "developer": [
+        "Thinking Studios",
+        "Slam Dunk Studios"
+    ],
+    "publisher": [
+        "Thinking Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Indie",
+        "Casual"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "Raycatcher is an innovative new game that syncs gameplay to your favorite mp3s. Load in your entire music library and watch as the game morphs itself to match. The gameplay itself is easy to pick up, yet compelling. Rotate a cluster of colorful shapes to catch matching rays of light cast onto your screen.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/32000/header.jpg?t=1447351793",
+    "minimum_requirements": "OS: Microsoft Windows XP / Vista (With Latest Service Pack)                     Processor: 2.0 GHz                    Memory: 1 GB                    Graphics: nVidia or ATI 3D Video Card                     Hard Drive: 140 MB Free Space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game does not work, and is not supported by the developer. Do not buy it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "simply sh.it, nothing more to say!",
+            "review_score": "-1"
+        }
+    ]
+}

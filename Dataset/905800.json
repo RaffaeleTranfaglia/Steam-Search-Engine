@@ -1,0 +1,38 @@
+{
+    "app_id": 905800,
+    "name": "SpaceExile",
+    "release_date": "2018-08-03",
+    "developer": [
+        "GoodJob"
+    ],
+    "publisher": [
+        "GoodJob"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 18,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "This is a Twin Stick Shooter style game that requires the utmost survival against the relentless enemy. You can earn points by playing the game and use the points you earn to purchase six main weapons, six special weapons, and six types of upgrades. Leverage a wide range of unique weapons and upgrades to score even higher!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/905800/header.jpg?t=1540456763",
+    "minimum_requirements": "OS: windows7, windows8 ,windows10 Processor: Intel Core 2 Duo E6600,AMD Phenom X4 Memory: 4 GB RAM Graphics: NVIDIA® GeForce® 8600 GT, ATI Radeon™ HD 4650 DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: windows10 Processor: i-5, AMD FX Series Memory: 8 GB RAM Graphics: Nividia GeForce GTX 650 , MD Radeon™ HD 7790 DirectX: Version 11 Storage: 12 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 553470,
+    "name": "Destination Ares",
+    "release_date": "2017-09-22",
+    "developer": [
+        "Patrick Scott"
+    ],
+    "publisher": [
+        "Patrick Scott"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 53,
+    "positive_ratings": 12,
+    "negative_ratings": 6,
+    "price": 16.99,
+    "description": "You're the AI of a rickety colony ship, bound for the red planet. You have limited resources, a desperate crew, and an unknown fate awaiting you. Can you survive the journey across the Big Black?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553470/header.jpg?t=1528322099",
+    "minimum_requirements": "OS: XP SP2+, Vista, 7, 8, 8.1, 10, + DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

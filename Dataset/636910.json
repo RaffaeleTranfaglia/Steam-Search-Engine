@@ -1,0 +1,44 @@
+{
+    "app_id": 636910,
+    "name": "Geoid",
+    "release_date": "2017-06-16",
+    "developer": [
+        "Zen Relay Games"
+    ],
+    "publisher": [
+        "Zen Relay Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 8,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Geoid is a modern, stylish take on old-school 3D platformers. Roll and jump your way through unique hazards and mechanics to collect all the golden triangles and silver hexagons!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/636910/header.jpg?t=1497720739",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 8.1, 10 Processor: Intel Core i3-2100 3.1Ghz or better Memory: 2 GB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series or better DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 8.1, 10 Processor: Intel Core i5-2500 3.3Ghz Memory: 8 GB RAM Graphics: NVIDIA GeForce 970 GTX or AMD R9 290X series or better DirectX: Version 11 Storage: 5 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+    "app_id": 302650,
+    "name": "Cyto",
+    "release_date": "2014-07-10",
+    "developer": [
+        "Room 8 Studio"
+    ],
+    "publisher": [
+        "Room 8 Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 70,
+    "negative_ratings": 19,
+    "price": 2.79,
+    "description": "Cyto has lost his memories, help him get them back. Fling Cyto through beautiful, other-worldly levels to collect memory fragments and piece together his story in this irresistible, cute, and challenging puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/302650/header.jpg?t=1447361967",
+    "minimum_requirements": "OS: Windows 7 and 8 operating systems Processor: 2.0 GHz Memory: 512 MB RAM Graphics: NVidia GeForce 6200, AMD  Radeon Xpress 1200 or higher with OpenGL support and latest drivers Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Cyto is a visually stunning game, and the ambient music to go along with the game is just as stunning. The levels get progressivly harder. This game reminds me a lot of Angry Birds, except i find Cyto much cuter. And working to bring his memory back is a much more interesting goal for me. Overall this is an amazing game, fully worth the money you pay for it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice relaxing game with cute graphics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Typical mobile port game, angry birds in space clone, shovelware deluxe",
+            "review_score": "-1"
+        }
+    ]
+}

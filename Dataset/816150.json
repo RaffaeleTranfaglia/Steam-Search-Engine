@@ -1,0 +1,48 @@
+{
+    "app_id": 816150,
+    "name": "Hardway Party",
+    "release_date": "2018-10-05",
+    "developer": [
+        "Digital Melody",
+        "Wastelands Interactive"
+    ],
+    "publisher": [
+        "Wastelands Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 36,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Hardway Party is a fast-paced arcade game. Unlock over 50 unique cars and over a dozen worlds. Play with up to 3 of your friends in versus mode or crazy survival mode. If that's not enough, challenge anyone in online multiplayer or show off your skills in 6 differently-themed missions. Let’s get the party rollin’!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/816150/header.jpg?t=1540988420",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 4 GB RAM Graphics: HD Graphics 2000 DirectX: Version 9.0c Storage: 800 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

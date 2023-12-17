@@ -1,0 +1,50 @@
+{
+    "app_id": 434240,
+    "name": "Alien Blitz",
+    "release_date": "2016-05-09",
+    "developer": [
+        "Jean-Baptiste Simillon"
+    ],
+    "publisher": [
+        "Jean-Baptiste Simillon"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 23,
+    "positive_ratings": 14,
+    "negative_ratings": 3,
+    "price": 5.19,
+    "description": "Alien Blitz is a 3d action-shooter with lots of bullets, missiles, weapons, maps and monsters.Take your shotgun and go kill some Aliens !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/434240/header.jpg?t=1462862385",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Dual core or better Memory: 2 GB RAM Graphics: Graphical card with OpenGL 3 support Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "At first, it didn't seem that good but the more I played, the more it felt reminiscent to doom. Both in gameplay and it captured the addictiveness and wonder of doom that I remember having playing when I was a kid. Thev voxel graphics are quite nice, at first they felt a little amatuerish and low budget but grew on me.  I think the worst thing about the game is the sound. The effects are low quality and the music is royalty free, stock music which I don't think matches very well with the game at all. In fact the endless loops of it puts me off to the point of wanting to stop playing.  I think the developer was probably working on it by himself or with a few people, without much budget, hence the library stock music. I'd suggest getting a composer/sound engineer to redo the sound and music to create a better atmosphere.  However, minus the sound, this is a super addictive little game and for OCD people like myself, there are plenty of collectibles, secrets and stuff to unlock (similar system to doom again).",
+            "review_score": "1"
+        }
+    ]
+}

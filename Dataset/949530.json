@@ -1,0 +1,40 @@
+{
+    "app_id": 949530,
+    "name": "Time Splatter",
+    "release_date": "2018-11-19",
+    "developer": [
+        "Ominous Entertainment"
+    ],
+    "publisher": [
+        "Ominous Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Violent"
+    ],
+    "achievements": 15,
+    "positive_ratings": 27,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Time splatter is a small episodic rail shooter game where our protagonist, after touching an ancient monolith, is transported to the times where the black plague transformed people into zombie like creatures and knights protected the land.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/949530/header.jpg?t=1542917526",
+    "minimum_requirements": "Processor: Dual Core 3.0 GHZ Memory: 1 GB RAM Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

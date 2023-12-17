@@ -1,0 +1,40 @@
+{
+    "app_id": 1009150,
+    "name": "Choconoa",
+    "release_date": "2019-02-01",
+    "developer": [
+        "Matthieu Gouby"
+    ],
+    "publisher": [
+        "Matthieu Gouby"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 9,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 9.29,
+    "description": "Choconoa is a 3D Platformer in the world of pastries!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1009150/header.jpg?t=1550309023",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i5-750 @ 2.67GHz | AMD Phenom II X4 965 @ 3.4GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 2GB | AMD Radeon HD 7850 2GB Storage: 400 MB available space Additional Notes: Gamepad recommended",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

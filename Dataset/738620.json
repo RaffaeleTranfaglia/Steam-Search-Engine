@@ -1,0 +1,41 @@
+{
+    "app_id": 738620,
+    "name": "The Reaction",
+    "release_date": "2018-03-17",
+    "developer": [
+        "AlyStudio"
+    ],
+    "publisher": [
+        "AlyStudio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 33,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Do you trust your reflexes? This game measures your attention, your quickness, your quick decision, and even allows you to enter competitions with others while measuring them. This game that tests you and your friends with various modes is the one to fill the spare time!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/738620/header.jpg?t=1523114699",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: 2 Ghz Dual Core Memory: 1 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Network: Broadband Internet connection Storage: 150 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

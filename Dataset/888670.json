@@ -1,0 +1,40 @@
+{
+    "app_id": 888670,
+    "name": "Notified",
+    "release_date": "2018-08-31",
+    "developer": [
+        "Stellar Oasis"
+    ],
+    "publisher": [
+        "Stellar Oasis"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 5,
+    "negative_ratings": 6,
+    "price": 0.0,
+    "description": "The notifications are endless! Use Airplane Mode to clear all notifications when they become overwhelming. Use Battery Drain to stop your opponent's movement. Use Quick Charge to speed up your own movement. Quick reaction times and anticipation are the key to victory!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/888670/header.jpg?t=1538437930",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 1 GB RAM Graphics: CPU-integrated or on-board graphics DirectX: Version 11 Storage: 500 MB available space Sound Card: DirectX-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

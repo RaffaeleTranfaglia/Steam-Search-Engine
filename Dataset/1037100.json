@@ -1,0 +1,44 @@
+{
+    "app_id": 1037100,
+    "name": "You Died but a Necromancer revived you",
+    "release_date": "2019-04-19",
+    "developer": [
+        "BolHut"
+    ],
+    "publisher": [
+        "BolHut"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Arcade"
+    ],
+    "achievements": 21,
+    "positive_ratings": 15,
+    "negative_ratings": 0,
+    "price": 7.99,
+    "description": "You Died ... but a Necromancer revived you! Reaching the top is no easy feat: The pathways are narrow, full of traps and on top of that, the floor will start exploding behind you if you take too long!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/header.jpg?t=1555660488",
+    "minimum_requirements": "最低配置: 操作系统: Windows Vista, 7, 8, 8.1, 10 x84/x64 内存: 2 GB RAM 图形: 500 MB 存储空间: 需要 300 MB 可用空间",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 976950,
+    "name": "Defeat the Beat",
+    "release_date": "2018-11-30",
+    "developer": [
+        "Flying Fire, LLC"
+    ],
+    "publisher": [
+        "Flying Fire, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "Fight the fever in user-created beatmaps against your favorite songs! Can you feel the flow to Defeat the Beat?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/976950/header.jpg?t=1544049436",
+    "minimum_requirements": "OS: Windows 7/8.1/10 (64bit) Processor: Intel Core i5 Memory: 4 GB RAM Graphics: Nvidia GTX 970 DirectX: Version 11 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7/8.1/10 (64bit) Processor: Intel Core i7 Memory: 8 GB RAM Graphics: Nvidia GTX 1060 DirectX: Version 11 Storage: 200 MB available space",
+    "reviews": []
+}

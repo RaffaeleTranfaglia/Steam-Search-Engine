@@ -1,0 +1,41 @@
+{
+    "app_id": 32720,
+    "name": "F-16 Multirole Fighter",
+    "release_date": "2009-06-18",
+    "developer": [
+        "NovaLogic"
+    ],
+    "publisher": [
+        "NovaLogic",
+        "THQ Nordic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Flight"
+    ],
+    "achievements": 0,
+    "positive_ratings": 36,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "With innovative technologies such as fly-by-wire controls, sophisticated systems for night and all-weather operations and the ability to carry a variety of weapons, the F-16 continually proves to be the workhorse of the USAF. Victorious in all of its air-to-air engagements, the awesome reputation of the F-16 is undisputed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/32720/header.jpg?t=1477991900",
+    "minimum_requirements": "OS: Windows 2000, XP Processor: Pentium 266MHz or better Memory: 32MB minimum Graphics: Direct3D compliant Hard Drive: 395MB Free Sound: DirectX compliant",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Another addition to the simulator genre, this one lets you pilot the F-16 Multirole Fighter I'm unsure what made NovaLogic stop developing these types of games but they should have made more. This is a worthy addition to anyone who enjoys simulators.",
+            "review_score": "1"
+        }
+    ]
+}

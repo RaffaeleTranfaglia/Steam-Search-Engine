@@ -1,0 +1,49 @@
+{
+    "app_id": 375320,
+    "name": "Colortone",
+    "release_date": "2015-10-29",
+    "developer": [
+        "Greendev."
+    ],
+    "publisher": [
+        "Droid Riot"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 55,
+    "negative_ratings": 35,
+    "price": 0.79,
+    "description": "Your way to freedom only involves your intelligence and the puzzles!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375320/header.jpg?t=1550129628",
+    "minimum_requirements": "OS: Windows XP SP2, Vista, or Windows 7 Processor: 2.0+ GHz or better (dual core recommended) Memory: 2 GB RAM Graphics: NVIDIA 8000 series or higher (Shader Model 3 Compatible) DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Unnecessarily annoying layouts, poor tutorials, bad visual design (it's not obvious when you've succeeded in a puzzle), irritating controls and bad UI (have to go back to the main menu to restart a level) detract from what could have been an interesting logic puzzle game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Colortone is an amusing little game that combines color mixing with puzzle solving, together these elements bring a fun little concept that's sure to entertain players.  PROS: + Stylish, minimalist design; The graphics are simplistic, and with the muted color tone it's also pleasant to look at. + Effective concept; the game revolves around mixing colors to progress throughout the levels, and instead of continuously adding more and more stuff the levels develop and build around this single gimmick. + Acceptable difficulty for all levels of players; It starts at just the right difficulty and steadily builds up to harder challenges. + Enjoyable to fool around with; It's so much fun to mix colors together, and especially to destroy breakable walls with the appropriate color.  CONS: - No checkpoints...?; Some levels seem to have you respawn at a certain point in the level if you die, while others make you restart all the way back to the beginning. This is problematic as some longer levels make you start over from the beginning. - Minor glitches; Some objects won't respawn if they fall into a pit of lava, for one. There was also an unusual glitch where a board I was carrying suddenly doubled in length. Like... what? - Too short: Colortone can be completed in fewer than 2 hours, even less if you know what you're doing.  Overall Colortone is a fun little game, and a nice time-killer when you want to wind down from more intense games.",
+            "review_score": "1"
+        }
+    ]
+}

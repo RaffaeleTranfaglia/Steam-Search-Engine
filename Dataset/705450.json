@@ -1,0 +1,42 @@
+{
+    "app_id": 705450,
+    "name": "Wunderdoktor",
+    "release_date": "2017-10-11",
+    "developer": [
+        "Ghostbutter"
+    ],
+    "publisher": [
+        "Ghostbutter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 45,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Step into the role of the Wunderdoktor, a traveling doctor whose daily work is to cure rare and exotic diseases. Explore a world full of quackery, ghosts and addictive potions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/705450/header.jpg?t=1513147031",
+    "minimum_requirements": "OS: Windows Vista 64-bit or newer Processor: Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73 Memory: 4 GB RAM Graphics: ATI Radeon HD 4850 or NVIDIA GeForce 9600 GT Storage: 1 GB available space Additional Notes: You should probably have a mosquito net and a ghost slapper handy.",
+    "recommended_requirements": "OS: Windows Vista 64-bit or newer Processor: Intel Core i5-2400 @ 3.10 GHz / AMD Phenom II X6 1100T Memory: 8 GB RAM Graphics: Radeon HD 7700 or NVIDIA GeForce GTX 570 Storage: 1 GB available space Additional Notes: Syringes, a pack of cigarettes and a handful of berries should enhance gameplay significantly.",
+    "reviews": []
+}

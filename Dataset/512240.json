@@ -1,0 +1,51 @@
+{
+    "app_id": 512240,
+    "name": "Duckpocalypse",
+    "release_date": "2016-08-22",
+    "developer": [
+        "Capitola VR"
+    ],
+    "publisher": [
+        "Capitola VR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 14,
+    "positive_ratings": 38,
+    "negative_ratings": 3,
+    "price": 1.99,
+    "description": "In the future, intelligent robot ducks have become smarter than humans, they took our jobs, and took control of our world! You can't cope with being second in the food chain, so this is how your duck hunt starts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/512240/header.jpg?t=1471883066",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel Core i5 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970 equivalent or higher Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel Core i5 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970 equivalent or higher Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "One of the better recent VR games Ive played. Visuals work surprisingly well in VR. Think Minecraft but without the blury ghosting effect and better aliasing. Controls and gameplay are responsive and easy, but game still requires skill. Where you aim is where you hit, which is what you should expect, but its something to be said because many Vive shooters cant seem to get this down. Its also very cheap for just $3, at the very least try it if you like VR shooters.  FYI. Im running 1.5 render target multiplier on GTX 980, and game runs fine with no lag or hitching.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There isn't much here, but what it has is a lot of charm. It's solid. It's funny. Compared to its current contemporaries it's well polished. And at the price point it's pretty hard to not recommend.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its simple, its fun, it triggers nastalgia, and it doesnt hurt your wallet.",
+            "review_score": "1"
+        }
+    ]
+}

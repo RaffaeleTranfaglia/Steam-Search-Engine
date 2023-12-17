@@ -1,0 +1,41 @@
+{
+    "app_id": 607160,
+    "name": "Luxin Time",
+    "release_date": "2017-06-23",
+    "developer": [
+        "ExtraSaucySauce"
+    ],
+    "publisher": [
+        "ExtraSaucySauce"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Luxin Time - A virtual reality game where you can shoot down or slice up countless drones, defend portals from the robot terrors, or just practice becoming one with your laser blade.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/607160/header.jpg?t=1498793518",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 8 MB RAM Graphics: Nvidia GeForce GTX970, or AMD Radeon R9 290 equivalent or greater Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7 5820k equivalent or greater Memory: 16 MB RAM Graphics: Geforce GTX1060, or AMD Radeon R9 380 equivalent or greater Storage: 350 MB available space",
+    "reviews": []
+}

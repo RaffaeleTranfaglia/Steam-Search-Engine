@@ -1,0 +1,38 @@
+{
+    "app_id": 815010,
+    "name": "Relaxicon",
+    "release_date": "2018-03-19",
+    "developer": [
+        "Tomas Varaneckas"
+    ],
+    "publisher": [
+        "Tomas Varaneckas"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Education"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Relaxicon is a game that helps you learn English and improve your vocabulary. Combine letters into words to get their definitions, score points, unlock over 70 types of challenges and enjoy original atmospheric background music and in-tune sound effects for a relaxing meditation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815010/header.jpg?t=1522132619",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities DirectX: Version 10 Storage: 128 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

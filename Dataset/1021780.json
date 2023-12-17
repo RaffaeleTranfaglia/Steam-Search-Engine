@@ -1,0 +1,45 @@
+{
+    "app_id": 1021780,
+    "name": "The Region",
+    "release_date": "2019-03-01",
+    "developer": [
+        "Black Snake Games"
+    ],
+    "publisher": [
+        "Black Snake Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Online Co-op",
+        "Local Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 14,
+    "negative_ratings": 34,
+    "price": 4.79,
+    "description": "The region is affected by an unknown virus that has destroyed almost all living things.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1021780/header.jpg?t=1551463799",
+    "minimum_requirements": "OS: Windows 7 / 8 / 8.1 / 10 64-bit Processor: Intel Core 2 Duo or Better Memory: 4 GB RAM Graphics: GeForce GTX 470 / Radeon HD 5850 or Better Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 7 / 8 / 8.1 / 10 64-bit Processor: Intel Core i3 or Better Memory: 8 GB RAM Graphics: GeForce GTX 670 / Radeon HD 7770 or Better Storage: 5 GB available space",
+    "reviews": []
+}

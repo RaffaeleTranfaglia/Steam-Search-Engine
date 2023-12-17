@@ -1,0 +1,40 @@
+{
+    "app_id": 749700,
+    "name": "Karate Krab",
+    "release_date": "2018-02-16",
+    "developer": [
+        "Liquid Sapling"
+    ],
+    "publisher": [
+        "Liquid Sapling"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 26,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "Karate Krab is a 2.5D action platformer about a crab who was abandoned by his cast, seeking revenge in the form of Karate!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/749700/header.jpg?t=1520856169",
+    "minimum_requirements": "OS: Windows 10 Processor: 2.3+ GHz Quad Core Memory: 4 GB RAM Graphics: NVIDIA GTX 560 2GB/AMD Radeon 6870 DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.5+ GHz Quad Core Memory: 8 GB RAM Graphics: MSI R9 280 3GB/GeForce GTX 770 DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

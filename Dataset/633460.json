@@ -1,0 +1,45 @@
+{
+    "app_id": 633460,
+    "name": "Tannenberg",
+    "release_date": "2017-11-16",
+    "developer": [
+        "Blackmill Games",
+        "M2H"
+    ],
+    "publisher": [
+        "M2H"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "World War I",
+        "Multiplayer",
+        "FPS"
+    ],
+    "achievements": 67,
+    "positive_ratings": 3019,
+    "negative_ratings": 607,
+    "price": 15.49,
+    "description": "Experience authentic First World War action with 64 player battles of maneuver on the Eastern Front. Grab your rifle, ready your sabre and keep your gas mask close as you prepare to play a part in one of the most significant conflicts in history!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/633460/header.jpg?t=1556118480",
+    "minimum_requirements": "OS: Windows 8/10 64 Bit Processor: Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940 Memory: 4 GB RAM Graphics: Geforce GTX 960M / Radeon HD 7750 or higher, 2GB video card memory DirectX: Version 10 Network: Broadband Internet connection Storage: 8 GB available space Additional Notes: Multiplayer only, make sure you have a stable and fast internet connection.",
+    "recommended_requirements": "OS: Windows 10 64 Bit Memory: 16 GB RAM Graphics: 4GB video card memory DirectX: Version 11 Network: Broadband Internet connection",
+    "reviews": []
+}

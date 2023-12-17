@@ -1,0 +1,46 @@
+{
+    "app_id": 549280,
+    "name": "Quiz Night Tonight!",
+    "release_date": "2017-03-02",
+    "developer": [
+        "Mardonpol Inc."
+    ],
+    "publisher": [
+        "Mardonpol Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 16,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 6.99,
+    "description": "Step into an online Game Show! Trivia has never been so much fun. Featuring thousands questions, on a variety of genres/topics. Experience Trivia like never before. Play with or without VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/549280/header.jpg?t=1488586840",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Memory: 4 GB RAM Graphics: GTX 480",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Graphics: GTX 970(for VR )",
+    "reviews": []
+}

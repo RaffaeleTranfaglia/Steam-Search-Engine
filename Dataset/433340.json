@@ -1,0 +1,44 @@
+{
+    "app_id": 433340,
+    "name": "Slime Rancher",
+    "release_date": "2017-08-01",
+    "developer": [
+        "Monomi Park"
+    ],
+    "publisher": [
+        "Monomi Park"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Cute",
+        "Exploration",
+        "Adventure"
+    ],
+    "achievements": 57,
+    "positive_ratings": 24205,
+    "negative_ratings": 965,
+    "price": 14.99,
+    "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/433340/header_alt_assets_5.jpg?t=1551315230",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2.2GHz Dual Core Memory: 4 GB RAM Graphics: 512MB VRAM DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

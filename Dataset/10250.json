@@ -1,0 +1,44 @@
+{
+    "app_id": 10250,
+    "name": "PT Boats: Knights of the Sea",
+    "release_date": "2011-10-28",
+    "developer": [
+        "Studio4"
+    ],
+    "publisher": [
+        "Akella"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Naval"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 12,
+    "price": 4.99,
+    "description": "PT Boats is dedicated to a small group of little known but perhaps some of the most daring naval combatants of World War II: the torpedo boat crews. These ships are small, fast and agile, and extremely dangerous due to the on-board torpedo launchers. But they are also the most vulnerable of all military vessels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/10250/header.jpg?t=1447354639",
+    "minimum_requirements": "OS: Microsoft Windows Vista, 32-bit / Windows 7Processor: Intel Core 2 Duo E6700+ or an equivalentMemory: 2GBHard Disk Space: 3GBVideo Card: Nvidia GeForce 8800GTX, ATI Radeon HD 4850 or higherDirectX&reg;: 10.0Sound: DirectX 8.1-compatible audio card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A mix of Battlestations Midway and Silent Hunter. Runs perfectly for an older game as well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a truly horrible game. I tried to play it for a couple of days then uninstalled it.",
+            "review_score": "-1"
+        }
+    ]
+}

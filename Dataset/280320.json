@@ -1,0 +1,41 @@
+{
+    "app_id": 280320,
+    "name": "Adventurer Manager",
+    "release_date": "2014-12-04",
+    "developer": [
+        "Vigilant Addiction Studios"
+    ],
+    "publisher": [
+        "BBEW BBEW, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 74,
+    "positive_ratings": 321,
+    "negative_ratings": 205,
+    "price": 3.99,
+    "description": "Reunite the kingdom of Adventuria and defeat the evil Illusionist Miraj by recruiting Adventurers to send on Adventures for epic loot and rewards in this RPG/Management Sim with tons of depth, randomization, and customization options!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/280320/header.jpg?t=1449627888",
+    "minimum_requirements": "OS: WinXP or later Processor: 1.8GHz Memory: 512 MB RAM Graphics: Direct3D/OpenGL compatible card with at least 128MB DirectX: Version 9.0c Storage: 150 MB available space Sound Card: 2d sound compatible card",
+    "recommended_requirements": null,
+    "reviews": []
+}

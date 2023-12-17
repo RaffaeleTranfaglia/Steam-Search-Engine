@@ -1,0 +1,47 @@
+{
+    "app_id": 690150,
+    "name": "Fossil Hunters",
+    "release_date": "2018-02-13",
+    "developer": [
+        "Reptoid Games"
+    ],
+    "publisher": [
+        "Reptoid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 47,
+    "positive_ratings": 46,
+    "negative_ratings": 8,
+    "price": 10.99,
+    "description": "A casual action-adventure game about digging for fossils and building your own dinosaurs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690150/header.jpg?t=1553624121",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: 2 GHz Core 2 Duo Memory: 4 GB RAM Graphics: Intel UHD Graphics 620 DirectX: Version 9.0c Storage: 1 GB available space Additional Notes: Use a Gamepad!",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: 2.6 GHz Core i5 Memory: 8 GB RAM Graphics: AMD Radeon R7 260 / NVIDIA GeForce 660 DirectX: Version 11 Storage: 1 GB available space Additional Notes: Use a Gamepad!",
+    "reviews": []
+}

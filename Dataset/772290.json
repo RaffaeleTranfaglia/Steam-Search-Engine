@@ -1,0 +1,41 @@
+{
+    "app_id": 772290,
+    "name": "Rainswept",
+    "release_date": "2019-02-01",
+    "developer": [
+        "Frostwood Interactive"
+    ],
+    "publisher": [
+        "Frostwood Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Mystery"
+    ],
+    "achievements": 19,
+    "positive_ratings": 61,
+    "negative_ratings": 2,
+    "price": 9.29,
+    "description": "Rainswept is an adventure game - A murder mystery dealing with themes of love, relationships and unresolved trauma.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1551511422",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.7 GHz Dual Core Memory: 4 GB RAM Graphics: Intel HD 4000 Storage: 1103 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

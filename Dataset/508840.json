@@ -1,0 +1,41 @@
+{
+    "app_id": 508840,
+    "name": "Broken Armor",
+    "release_date": "2016-08-01",
+    "developer": [
+        "Jonathan Tindell"
+    ],
+    "publisher": [
+        "Wastebasket Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 22,
+    "positive_ratings": 35,
+    "negative_ratings": 23,
+    "price": 0.79,
+    "description": "A knight exiled from his kingdom must find the holy grail if he is to return.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/508840/header.jpg?t=1555424065",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Celeron or equivalent Memory: 512 MB RAM Graphics: Onboard graphics Storage: 100 MB available space Additional Notes: Keyboard",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i3 or equivalent Memory: 2 GB RAM Graphics: NVidia GeForce 8600GT or equivalent DirectX: Version 9.0c Storage: 200 MB available space Additional Notes: XInput Compatible Gamepad (DirectX Required)",
+    "reviews": []
+}

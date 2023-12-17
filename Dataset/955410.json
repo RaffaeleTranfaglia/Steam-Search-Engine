@@ -1,0 +1,41 @@
+{
+    "app_id": 955410,
+    "name": "Armoured Alliance",
+    "release_date": "2019-02-08",
+    "developer": [
+        "WobblyTrout"
+    ],
+    "publisher": [
+        "WobblyTrout"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 9.99,
+    "description": "Control a tank in this realtime action strategy battle to capture all the bases. Use overpowered turrets to destroy your enemies by yourself or as a team.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/955410/header.jpg?t=1555769631",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 Memory: 4 GB RAM Graphics: FirePro GL 1gb Network: Broadband Internet connection Storage: 500 MB available space Sound Card: Yes Additional Notes: Will not work on Intel Integrated Graphics, requires OpenGL 3.2 support",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 600750,
+    "name": "Star Trek Timelines",
+    "release_date": "2017-07-12",
+    "developer": [
+        "Disruptor Beam Inc."
+    ],
+    "publisher": [
+        "Disruptor Beam Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Free to Play",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 256,
+    "negative_ratings": 240,
+    "price": 0.0,
+    "description": "Explore the Final Frontier in the ultimate sci-fi strategy RPG, Star Trek Timelines! Join Starfleet and overcome challenges as you boldly go where no game has gone before – across the entire history of Star Trek.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600750/header.jpg?t=1547854810",
+    "minimum_requirements": "OS: Windows 7 (32 bit) Processor: 1.5 gigahertz (GHz) Memory: 2 GB RAM Graphics: Integrated Graphics (512MB) Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

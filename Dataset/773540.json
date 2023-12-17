@@ -1,0 +1,40 @@
+{
+    "app_id": 773540,
+    "name": "Boss Crushers",
+    "release_date": "2018-03-15",
+    "developer": [
+        "Space Horse"
+    ],
+    "publisher": [
+        "Space Horse"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 35,
+    "positive_ratings": 27,
+    "negative_ratings": 5,
+    "price": 11.39,
+    "description": "Boss Crushers is a multiplayer roguelike game. Play with your friends on randomly generated levels, confront enemy hordes, find valuable items and improvements, die and try again.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/773540/header.jpg?t=1553608732",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 2.00 GHz Memory: 4 GB RAM Graphics: GeForce GTX 750 Ti DirectX: Version 11 Network: Broadband Internet connection Storage: 1400 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: 3.00 GHz Memory: 6 GB RAM Graphics: GeForce GTX 950 DirectX: Version 11 Network: Broadband Internet connection Storage: 1400 MB available space",
+    "reviews": []
+}

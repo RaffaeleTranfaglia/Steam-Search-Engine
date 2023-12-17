@@ -1,0 +1,43 @@
+{
+    "app_id": 361330,
+    "name": "Shrooms",
+    "release_date": "2015-05-08",
+    "developer": [
+        "Immersive Douro"
+    ],
+    "publisher": [
+        "Immersive Douro"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 25,
+    "price": 10.99,
+    "description": "Mutate your body to fit your gameplay and survive alone or with your friends in the exotic fungi-covered world of Shrooms.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/361330/header.jpg?t=1447372125",
+    "minimum_requirements": "OS: Windows XP Processor: Intel i5 2410M Memory: 4 GB RAM Graphics: 1 GB VRAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: These are ALPHA Requirements and might change in the future",
+    "recommended_requirements": "OS: Windows 8 Processor: Intel i5 3350P Memory: 6 GB RAM Graphics: 1 GB VRAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Additional Notes: These are ALPHA Requirements and might change in the future",
+    "reviews": []
+}

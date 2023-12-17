@@ -1,0 +1,62 @@
+{
+    "app_id": 347400,
+    "name": "001 Game Creator",
+    "release_date": "2015-07-13",
+    "developer": [
+        "SoftWeir Inc."
+    ],
+    "publisher": [
+        "SoftWeir Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education",
+        "Software Training",
+        "Utilities",
+        "Video Production",
+        "Web Publishing",
+        "Game Development"
+    ],
+    "tags": [
+        "Game Development",
+        "Design & Illustration",
+        "Utilities"
+    ],
+    "achievements": 11,
+    "positive_ratings": 105,
+    "negative_ratings": 24,
+    "price": 46.49,
+    "description": "001 Game Creator is a Graphically Assisted Scripting engine for beginners and advanced users alike. Developers can quickly prototype ideas, test complex systems and build single player and online/local multiplayer experiences for Windows PC, HTML5, and natively Android/iOS.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/347400/header.jpg?t=1555944944",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 / 8 / 10 (32-bit/64-bit) Processor: 2.0 GHz or faster processor Memory: 512 MB RAM Graphics: 1024 x 768 pixels or higher desktop resolution Storage: 300 MB available space Additional Notes: OpenGL v2.1 or above",
+    "recommended_requirements": "OS: Microsoft® Windows® 7 / 8 / 10 (32-bit/64-bit) Processor: 2.0 GHz or faster processor Memory: 512 MB RAM Graphics: 1024 x 768 pixels or higher desktop resolution Storage: 300 MB available space Additional Notes: OpenGL v3.0 or above",
+    "reviews": [
+        {
+            "review_text": "If you ever wanted to make a game, especially a classic perspective RPG, a platformer, 3D or even the next Binding of Isaac, this is for you. It's pretty good - I've been using the original (Engine 001) for years.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is probably the simplest but most effective game maker software there is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really nice piece of software the only problem i had with it is theres no linux support and i cant get it to run in wine If you could add this it would be amazing. Thanks",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of those rare examples of software that is easy to use, flexible and at the same time fast to build with. If you're looking to make the kind of games this engine and editor excells at I could not recommend it more. For sheer speed of use to get a proect up off the ground nothing in the non-programmer firendly game creator space even comes close.",
+            "review_score": "1"
+        }
+    ]
+}

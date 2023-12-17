@@ -1,0 +1,38 @@
+{
+    "app_id": 382360,
+    "name": "John Wick Chronicles",
+    "release_date": "2017-02-09",
+    "developer": [
+        "Starbreeze Studios",
+        "Grab Games",
+        "GamecoStudios",
+        "Big Red Button"
+    ],
+    "publisher": [
+        "Starbreeze Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "VR",
+        "FPS"
+    ],
+    "achievements": 43,
+    "positive_ratings": 142,
+    "negative_ratings": 77,
+    "price": 14.99,
+    "description": "John Wick Chronicles is an immersive first-person-shooter game built from the ground up for virtual reality. Players have the chance to explore the iconic Continental Hotel and are tasked with assassinating seemingly impossible targets that only John Wick himself could handle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/382360/header.jpg?t=1498147410",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 Memory: 8 GB RAM Graphics: NVIDIA Geforce GTX 980 DirectX: Version 11 Network: Broadband Internet connection Storage: 10 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 Memory: 16 GB RAM Graphics: NVIDIA Geforce GTX 1080 DirectX: Version 12 Network: Broadband Internet connection Storage: 10 GB available space",
+    "reviews": []
+}

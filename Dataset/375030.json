@@ -1,0 +1,52 @@
+{
+    "app_id": 375030,
+    "name": "Korwin The Game",
+    "release_date": "2015-10-01",
+    "developer": [
+        "Zbigniew Ochman"
+    ],
+    "publisher": [
+        "Wolfiesoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Political"
+    ],
+    "achievements": 32,
+    "positive_ratings": 172,
+    "negative_ratings": 40,
+    "price": 1.59,
+    "description": "Old-school 2D platform game. You play as a warrior for freedom in the fight against hordes of socialists. 19 models enemies. 12 levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375030/header.jpg?t=1456140375",
+    "minimum_requirements": "OS: Windows XP or later Processor: Pentium 4 or higher Memory: 1 GB RAM Graphics: 512MB or higher DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Game is funny, for sure. But other than that, just an average platform game. I recommend playing it only for laughs, because you won't get much more.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Vey nice, simple, short 2d platform game about Janusz Korwin-Mikke, Polish right-wing politic, who fights against socialists. Because ♥♥♥♥ socialism xD  It's very challenging. Levels are hard, at least for me. I had a challenge. Gameplay looks like every other platform game, but I like it. It's fun. You will encounter many bad creatures, like for example: Kwaśniewski, Palikot, Grodzka/Grodzki/Grodzkie/whatever you call this thing, Rydzyk, Jaruzelski, Kaczyński, Tusk etc. Enemies are fun. Levels are fun too. But you must know Polish political scene to understand the humour of this game.  Completing this game will take you from 1 hour to max 2 hours, depending on how good in platform games you are. So it's very short, but I think it's worth its small price. So I recommend Korwin The Game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Can't recommend it. While I am a strong and year-long supporter of Korwin this 'game' looks worse than an end-year project of an average video game design student. Awful low-res graphics, awful controls, bad level design, very bad eye-hurting blur during movement, awful music and more. Sorry, can't recommend. There are better games out there for around one Euro. I don't even find it funny as some people claim it to be.   I hope the money from this little monster goes to fund a political campaign of KORWiN. ;]   This is a Unity experiment someone just did in their spare time and thought that it might be cool to get some cash for it from people interested in the topic.",
+            "review_score": "-1"
+        }
+    ]
+}

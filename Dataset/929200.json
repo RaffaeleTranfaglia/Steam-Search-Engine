@@ -1,0 +1,41 @@
+{
+    "app_id": 929200,
+    "name": "吞食孔明传 Tunshi Kongming Legends",
+    "release_date": "2019-04-01",
+    "developer": [
+        "Sunny Show"
+    ],
+    "publisher": [
+        "FHYX（凤凰游戏）"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 80,
+    "positive_ratings": 226,
+    "negative_ratings": 77,
+    "price": 7.7,
+    "description": "吞食孔明传是一款传统的回合制角色扮演独立游戏，讲述了东汉末年的战乱之中，诸葛孔明与刘关张三人从桃园结义开始至一统天下的传奇故事。八个章节的正统剧本，两百位武将登场，可加入玩家阵营突破五十名，二周目开启，百种天赋技能及成就待解锁。",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/929200/header.jpg?t=1554166435",
+    "minimum_requirements": "OS: windows7、10 Processor: Intel Core i3 Memory: 4096 MB RAM Graphics: Intel graphics HD DirectX: Version 9.0c Storage: 4096 MB available space Sound Card: Definition Audio Additional Notes: 关闭显卡驱动中的垂直同步可提升全屏FPS",
+    "recommended_requirements": "OS: windows7、10 Processor: Intel Core i5 Memory: 8192 MB RAM Graphics: NVIDIA Geforce 5、6、7、8、9、10 DirectX: Version 11 Storage: 4096 MB available space Sound Card: Definition Audio Additional Notes: 关闭显卡驱动中的垂直同步可提升全屏FPS",
+    "reviews": []
+}

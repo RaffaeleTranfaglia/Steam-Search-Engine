@@ -1,0 +1,39 @@
+{
+    "app_id": 903160,
+    "name": "Wunderwaffe",
+    "release_date": "2018-07-27",
+    "developer": [
+        "GiBar"
+    ],
+    "publisher": [
+        "RoBot"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Shared/Split Screen",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 7,
+    "positive_ratings": 18,
+    "negative_ratings": 8,
+    "price": 2.09,
+    "description": "Wunderwaffe - a game of tanks with a view from above. There are three game modes (team battle for killing, each for himself for killing, capturing a flag) in this game. Also the game is on the same computer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/903160/header.jpg?t=1545477976",
+    "minimum_requirements": "Минимальные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7/8/10 (64-bit OS required) Процессор: 2 Ghz or faster processor Оперативная память: 1024 MB ОЗУ Видеокарта: 1 GB DirectX: Версии 9.0 Место на диске: 200 MB",
+    "recommended_requirements": "Рекомендованные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7/8/10 (64-bit OS required) Процессор: 2.4GHz dual core processor Оперативная память: 2048 MB ОЗУ Видеокарта: 2 GB DirectX: Версии 11 Место на диске: 400 MB",
+    "reviews": []
+}

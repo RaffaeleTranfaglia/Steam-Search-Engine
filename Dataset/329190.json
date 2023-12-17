@@ -1,0 +1,43 @@
+{
+    "app_id": 329190,
+    "name": "Volo Airsport",
+    "release_date": "2014-12-04",
+    "developer": [
+        "Ramjet Anvil"
+    ],
+    "publisher": [
+        "Ramjet Anvil"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "VR Support",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 109,
+    "negative_ratings": 52,
+    "price": 0.79,
+    "description": "**Development of this game is discontinued** - Take to the skies and fly past mountains in a wingsuit. Try to hug the cliffs at over 250 km/h or cruise at high altitudes and admire the scenery.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/329190/header.jpg?t=1536310158",
+    "minimum_requirements": "OS: Windows 7 with Service Pack 1 and up Processor: Dual Core CPU 2.6Ghz Memory: 4 GB RAM Graphics: Dedicated Graphics Card (GeForce 650GT or equivalent) DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 676770,
+    "name": "Island Dash",
+    "release_date": "2017-08-30",
+    "developer": [
+        "Flo Knödl",
+        "Johannes Fischer",
+        "Michael Hütter",
+        "Christoph Müller",
+        "Simon Eberl",
+        "Thomas Kern",
+        "Lukas Schönwiese"
+    ],
+    "publisher": [
+        "Flo Knödl"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 1,
+    "positive_ratings": 388,
+    "negative_ratings": 77,
+    "price": 0.0,
+    "description": "You are controlling the Tourist through the whole Island. Your goal is to collect as much money as quickly as possible, so the Tourist can buy himself a Hotdog. If you are to slow and he runs out of calories, he will die. :( Do you think you can make it?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676770/header.jpg?t=1505154785",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(r) Core (TM)2 CPU -T7200 @ 2.50 GHz Memory: 4 GB RAM Graphics: ATI Mobility Raedon X1600 / Nvidia GeForce 8600M GT DirectX: Version 9.0 Storage: 1 GB available space Sound Card: Onboard Additional Notes: Not fully optimized yet",
+    "recommended_requirements": null,
+    "reviews": []
+}

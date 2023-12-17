@@ -1,0 +1,38 @@
+{
+    "app_id": 807840,
+    "name": "Fuse Balls",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Dilmer Valecillos"
+    ],
+    "publisher": [
+        "Dilmer Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 4,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Fuse Balls was created with inspirations of minimalistic art design. Circles of various colors fall towards a center gravitational force creating smooth transitions and requiring color matching to fuse circles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/807840/header.jpg?t=1523817168",
+    "minimum_requirements": "Mínimo: SO: Windows XP Procesador: Intel Pentium 4 / AMD Athlon XP 1.5 Ghz or higher Gráficos: DirectX 9 compatible, 64MB VRAM DirectX: Versión 9.0 Almacenamiento: 250 MB de espacio disponible",
+    "recommended_requirements": null,
+    "reviews": []
+}

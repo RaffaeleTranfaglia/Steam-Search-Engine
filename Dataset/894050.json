@@ -1,0 +1,40 @@
+{
+    "app_id": 894050,
+    "name": "George's Memories EP.1",
+    "release_date": "2018-07-21",
+    "developer": [
+        "Tsurudeira"
+    ],
+    "publisher": [
+        "Tsurudeira"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 16,
+    "negative_ratings": 7,
+    "price": 1.19,
+    "description": "«It’s all blurry… You could hear some voices from far-far away. Were you walking or crawling or flying? Then you were awake after a sudden punch».",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/894050/header.jpg?t=1532631003",
+    "minimum_requirements": "OS: Windos 7 Processor: Fx-6300, i5-2400 Memory: 4 GB RAM Graphics: gtx 660, hd 7870 DirectX: Version 10 Storage: 3 GB available space Additional Notes: Gtx 660 for HD ultra settings",
+    "recommended_requirements": "OS: Windows 10 Processor: i7-3770, i5-6400 Memory: 8 GB RAM Graphics: Gtx 780Ti, Rx 570 4gb DirectX: Version 11 Storage: 3 GB available space Additional Notes: Gtx 780 Ti for FHD high settings, for 2K Ultra we recommend gtx 980 Ti",
+    "reviews": []
+}

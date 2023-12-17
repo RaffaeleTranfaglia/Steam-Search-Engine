@@ -1,0 +1,40 @@
+{
+    "app_id": 873070,
+    "name": "NEO NEO",
+    "release_date": "2018-06-16",
+    "developer": [
+        "Kastrye"
+    ],
+    "publisher": [
+        "Kastrye"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 22,
+    "positive_ratings": 30,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "NEO NEO is a super fast, brutal top-down arcade game, inspired by the likes of Hotline Miami and Super Hexagon. Use a devastating teleport ability to leap from enemy to enemy, stealing weapons and killing all in one explosive move.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/873070/header.jpg?t=1549836660",
+    "minimum_requirements": "OS: Windows 7 Processor: 3.0GHz Memory: 4 GB RAM Graphics: 1GB, Shader Model 3.0 DirectX: Version 9.0 Storage: 800 MB available space Additional Notes: Older hardware and software may work but are currently are untested. A good hard-drive or SSD is also needed.",
+    "recommended_requirements": null,
+    "reviews": []
+}

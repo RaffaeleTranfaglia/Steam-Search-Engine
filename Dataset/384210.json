@@ -1,0 +1,38 @@
+{
+    "app_id": 384210,
+    "name": "Quadle",
+    "release_date": "2015-07-23",
+    "developer": [
+        "Gamesare"
+    ],
+    "publisher": [
+        "Clickteam"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Puzzle"
+    ],
+    "achievements": 6,
+    "positive_ratings": 8,
+    "negative_ratings": 6,
+    "price": 5.59,
+    "description": "A brand new arcade puzzler from Gamesare Studios, Envoking the memory of classic arcade cabinet games but adding a new twist. Jump on the blocks as the titular character Quadle, changing the block colors till they are red. Once red they fall away. Eliminate all blocks on the screen to go to the next level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384210/header.jpg?t=1523908251",
+    "minimum_requirements": "OS: Minimum Windows XP SP3 Operating System. Supports Vista, 7 and 8 Processor: 200 Mhz Pentium processor or higher Memory: 256 MB RAM Graphics: Must support minimum of Direct3D 9 Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

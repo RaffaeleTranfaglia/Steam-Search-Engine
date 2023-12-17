@@ -1,0 +1,39 @@
+{
+    "app_id": 696060,
+    "name": "Live",
+    "release_date": "2017-10-12",
+    "developer": [
+        "empty assembly"
+    ],
+    "publisher": [
+        "empty assembly"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action"
+    ],
+    "achievements": 9,
+    "positive_ratings": 32,
+    "negative_ratings": 3,
+    "price": 1.69,
+    "description": "No one ever said that life is easy. Fight your way through it in a short story-driven mix of game genres that accompany your journey from childhood to senility. What challenges will you stand up against? Will you earn what should be yours? Will you find out what it means to Live?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/696060/header.jpg?t=1507811064",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: SSE2 instruction set support. Memory: 2 GB RAM Graphics: Intel(R) HD Graphics 4600 DirectX: Version 9.0 Storage: 650 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

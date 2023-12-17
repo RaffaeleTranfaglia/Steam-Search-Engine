@@ -1,0 +1,41 @@
+{
+    "app_id": 815800,
+    "name": "Infecto",
+    "release_date": "2018-04-13",
+    "developer": [
+        "Jl Apps"
+    ],
+    "publisher": [
+        "Jl Apps"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Gore"
+    ],
+    "achievements": 43,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "A mad scientist created a deadly virus. Mankind is on the verge of extinction. People turn into zombie mutants.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815800/header.jpg?t=1533730722",
+    "minimum_requirements": "OS: Windows 7, 10 Processor: Dual Core 1.5 Ghz+ Memory: 2 GB RAM Graphics: 1024 Mb GLSL Shader Support DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7, 10 Processor: Dual Core 2.2 Ghz+ Memory: 6 GB RAM Graphics: 2048 Mb GLSL Shader Support DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

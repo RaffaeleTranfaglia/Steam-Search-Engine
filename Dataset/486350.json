@@ -1,0 +1,46 @@
+{
+    "app_id": 486350,
+    "name": "Square Arena",
+    "release_date": "2016-06-19",
+    "developer": [
+        "Hepta Games"
+    ],
+    "publisher": [
+        "Hepta Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 15,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Square Arena is a multiplayer arena game where each player controls a Ku-Bot and tries to defeat his opponent using one of the various weapons in the Arena. But the main characteristic of Square Arena is it's RANDOMNESS: Players will face random rule changes every 30 seconds.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/486350/header.jpg?t=1466387072",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core I3 Memory: 2 GB RAM Graphics: Nvidia Geforce GT 530 DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is no way to invite friends to play",
+            "review_score": "-1"
+        }
+    ]
+}

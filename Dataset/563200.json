@@ -1,0 +1,35 @@
+{
+    "app_id": 563200,
+    "name": "Slay",
+    "release_date": "2016-11-30",
+    "developer": [
+        "Sean O'Connor"
+    ],
+    "publisher": [
+        "Sean O'Connor"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based",
+        "Singleplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/563200/header.jpg?t=1480526850",
+    "minimum_requirements": "OS: Windows XP Processor: Any Memory: 80 MB RAM Graphics: Any DirectX: Version 9.0 Storage: 20 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

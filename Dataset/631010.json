@@ -1,0 +1,45 @@
+{
+    "app_id": 631010,
+    "name": "Crimson Earth 2",
+    "release_date": "2017-11-09",
+    "developer": [
+        "EHTechnology"
+    ],
+    "publisher": [
+        "EHTechnology",
+        "Dagestan Technology"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Gore",
+        "Violent"
+    ],
+    "achievements": 53,
+    "positive_ratings": 81,
+    "negative_ratings": 66,
+    "price": 0.79,
+    "description": "Kill them all!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/631010/header.jpg?t=1510229990",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 Processor: Core 2 Duo Memory: 4 GB RAM Graphics: GeForce 750 DirectX: Version 11 Storage: 4 GB available space Sound Card: Directx 9.0 compatible Sound Card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 Processor: Intel Core i5(i7) Memory: 8 GB RAM Graphics: GeForce 970 GTX DirectX: Version 11 Storage: 4 GB available space Sound Card: Directx 9.0 compatible Sound Card",
+    "reviews": []
+}

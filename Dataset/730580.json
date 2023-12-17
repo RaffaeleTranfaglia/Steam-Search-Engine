@@ -1,0 +1,40 @@
+{
+    "app_id": 730580,
+    "name": "MegaRace 1",
+    "release_date": "2017-11-09",
+    "developer": [
+        "Cryo Interactive",
+        "Jordan Freeman Group"
+    ],
+    "publisher": [
+        "Microids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "Retro"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "MegaRace is a vehicular combat racing game created by Cryo Interactive. Originally released in 1994, MegaRace is now regarded as one of the most classic arcade racing titles of all time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/730580/header.jpg?t=1515661221",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: 1 GHz Processor Memory: 256 MB RAM Graphics: 3D graphics card compatible with DirectX 7 DirectX: Version 7.0 Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: 1.4 GHz recommended Memory: 512 MB RAM Graphics: 3D graphics card compatible with DirectX 9 recommended DirectX: Version 9.0 Storage: 600 MB available space",
+    "reviews": []
+}

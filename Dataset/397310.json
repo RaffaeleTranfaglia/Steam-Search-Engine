@@ -1,0 +1,43 @@
+{
+    "app_id": 397310,
+    "name": "Looterkings",
+    "release_date": "2017-08-11",
+    "developer": [
+        "Looterkings"
+    ],
+    "publisher": [
+        "Headup Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 260,
+    "negative_ratings": 72,
+    "price": 13.59,
+    "description": "Looterkings is a procedural dungeon-crawler you can play online in coop-mode with up to 3 of your friends. Loot as much as you can on your way up from the dark caves beneath earth to the surface, gear up and reach your ultimate goal ravaging the hallowed halls of the Elven Queen, eventually.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/397310/header.jpg?t=1539334342",
+    "minimum_requirements": "OS: Windows 7 Processor: 2,5 GHz Dual-Core 64-bit CPU Memory: 4 GB RAM Graphics: Nvidia GTX 560 with 2 GB Video Ram DirectX: Version 10 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: These Specs are not final - we will update these during EA.",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.5 GHz Quad-Core 64-bit CPU Memory: 8 GB RAM Graphics: Nvidia GTX 770 with 2+ GB Video RAM DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: These Specs are not final - we will update these during EA.",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 945360,
+    "name": "Among Us",
+    "release_date": "2018-11-16",
+    "developer": [
+        "Innersloth"
+    ],
+    "publisher": [
+        "Innersloth"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Multiplayer",
+        "Local Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 60,
+    "negative_ratings": 11,
+    "price": 3.99,
+    "description": "An online and local party game of teamwork and betrayal for 4-10 players...in space!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg?t=1542387642",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Memory: 1 GB RAM DirectX: Version 10 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

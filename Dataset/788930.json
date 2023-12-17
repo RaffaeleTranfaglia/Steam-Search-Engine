@@ -1,0 +1,43 @@
+{
+    "app_id": 788930,
+    "name": "Razerwire:Nanowars",
+    "release_date": "2018-02-28",
+    "developer": [
+        "Screwdriver and Pigeons"
+    ],
+    "publisher": [
+        "Hammer and Ravens"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 25,
+    "positive_ratings": 46,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "A modern revisitation of the 80s arcades. Use your Razerwire to cut through waves of nanobugs with a rogue-like inspired progression.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/788930/header.jpg?t=1550590114",
+    "minimum_requirements": "OS: Windows 7 32bit Processor: i3 Memory: 256 MB RAM Graphics: Integrated Graphic Card Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: i5 Memory: 512 MB RAM Graphics: Low-end Graphic Card Storage: 200 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 998630,
+    "name": "Fated Era",
+    "release_date": "2019-02-11",
+    "developer": [
+        "Dogless Head Games"
+    ],
+    "publisher": [
+        "Dogless Head Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 20,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 6.19,
+    "description": "Battle across procedurally generated levels in this retro Strategy RPG. Move troops in real time and watch battles play out where preparation and strategy are key. Customize new games in tons of different ways and levels of difficulty to play the way you want.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/998630/header.jpg?t=1549896949",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Atom CPU Z3735 @ 1.33GHz Memory: 2 GB RAM Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 180 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Atom CPU Z3735 @1.33 GHz Memory: 2 GB RAM Graphics: Anything better than Intel HD Graphics DirectX: Version 9.0 Storage: 180 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 525660,
+    "name": "Moonlit Mayhem™",
+    "release_date": "2016-10-05",
+    "developer": [
+        "Bloodmane Interactive"
+    ],
+    "publisher": [
+        "Bloodmane Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 4,
+    "price": 1.99,
+    "description": "Moonlit Mayhem is an arcade-style, Halloween themed, fast paced physics-based first person shooter that's kid-friendly but fun for all ages!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525660/header.jpg?t=1478042824",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 2.5GHz Memory: 3 GB RAM Graphics: Integrated Graphics Card (Intel HD Series) DirectX: Version 9.0c Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz Memory: 3 GB RAM Graphics: Dedicated Graphics Card Recommended DirectX: Version 10 Storage: 3 GB available space",
+    "reviews": []
+}

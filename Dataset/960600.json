@@ -1,0 +1,38 @@
+{
+    "app_id": 960600,
+    "name": "Nanoswarm",
+    "release_date": "2019-02-05",
+    "developer": [
+        "Termite Farm"
+    ],
+    "publisher": [
+        "Termite Farm"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Nanoswarm is a game about surviving an endless assault from an army of nanobots with the ability to form terrifying and unstoppable battlebots. You're not alone though. Tank command is back at base finding you new powerups all the time, helping you to overcome the odds and have a chance against your terrible foe.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/960600/header.jpg?t=1549414600",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 (64 bit only) Processor: Intel Core i3-3220/AMD FX-8120 or equivalent Memory: 4 GB RAM Graphics: Nvidia GTX 660 or equivalent DirectX: Version 10 Storage: 295 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 8.1, 10 (64 bit only) Processor: Intel Core i5-6600k or equivalent/above Memory: 8 GB RAM Graphics: GTX 1050 or equivalent/above DirectX: Version 11 Storage: 295 MB available space",
+    "reviews": []
+}

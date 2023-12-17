@@ -1,0 +1,40 @@
+{
+    "app_id": 743660,
+    "name": "Boot Hill Blaster",
+    "release_date": "2017-11-09",
+    "developer": [
+        "Fascimania"
+    ],
+    "publisher": [
+        "Fascimania"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Western"
+    ],
+    "achievements": 20,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "You wake up in a desert cemetery one night. How long can you survive this night of terror?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/743660/header.jpg?t=1510232301",
+    "minimum_requirements": "OS: Windows XP SP3 or better Processor: Intel Celeron / Athlon Sempron or better Memory: 128 MB RAM Graphics: Open GL 2.0 compatible or better, DirectX 9.0c Storage: 15 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

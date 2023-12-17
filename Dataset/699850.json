@@ -1,0 +1,35 @@
+{
+    "app_id": 699850,
+    "name": "Medieval Battle: Europe",
+    "release_date": "2018-11-14",
+    "developer": [
+        "HexWar Games"
+    ],
+    "publisher": [
+        "HexWar Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy"
+    ],
+    "achievements": 3,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "Fight various battles across Europe throughout the medieval ages.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/699850/header.jpg?t=1542193357",
+    "minimum_requirements": "OS: Windows Vista/7/8/8.1/10 Processor: Intel Core 2 Duo or AMD equivalent Memory: 2 GB RAM Storage: 1 GB available space",
+    "recommended_requirements": "Graphics: Discrete graphics with 256 MB or more VRAM",
+    "reviews": []
+}

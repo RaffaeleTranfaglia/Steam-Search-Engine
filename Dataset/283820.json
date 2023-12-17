@@ -1,0 +1,65 @@
+{
+    "app_id": 283820,
+    "name": "KAMUI",
+    "release_date": "2014-12-11",
+    "developer": [
+        "SITER SKAIN"
+    ],
+    "publisher": [
+        "Nyu Media"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Shoot 'Em Up"
+    ],
+    "achievements": 17,
+    "positive_ratings": 108,
+    "negative_ratings": 9,
+    "price": 5.59,
+    "description": "Centuries have passed since the events of RefleX and mankind has once again attained civilization. Now, ancient technology born of a twisted mind sets in motion a chain of events designed to bring divine retribution down upon mankind.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/283820/header.jpg?t=1447360647",
+    "minimum_requirements": "OS: Microsoft Windows 2000 / XP / Vista / 7 / 8 Processor: Intel Pentium4 1.4GHz or better Memory: 128 MB RAM Graphics: DirectX 8.1 or above and Direct3D with 64MB or more of VRAM Storage: 200 MB available space Sound Card: DirectSound-compatible Sound Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great game, one of the best SHMUPS I've ever played. If you're familiar with Layer Section/Gunlock/Raystorm, then you'll have some sort of idea of what to expect with Kamui.  As with Layer Section, the gameplay is split into two layers, the plane you're on, and everything beneath you. On your plane, you can shoot a machinegun-like weapon and a powerful laser that uses energy, but also destroys enemy bullets. On the layers beneath you, you can attack enemies with a lock-on lightning weapon - this can be used to destroy or damage enemies before they become a threat, or attack enemies shooting you from below.  The more you use the bullet-soaking beam, however, the less energy you have for the lightning attack, so it's a double-edged sword. This makes the gameplay significantly about energy management in the short term (as you do recharge quite quickly). The scoring system ties in to this, as kills with the lighting attack recieve a multiplier.  Gameplay aside, it's a nifty little game with an amazing soundtrack - and while the graphics are a bit dated, they're well made; there are really neat parallax and explosion effects to see.  If you like shmups, check out Kamui. It's a good'n.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Another great game by Siter Skain. Any fan of danmaku shoot em ups should play this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A solid bullet hell with a slew with interesting mechanics. Trying to balance out the use of each of the three weapons is key to winning this game.  Well worth the $8 spent.  What's more interesting is that this is a series that was made backwards, meaning that kamui is the ending of the triology of games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I rate the game Kamui 3/5. OK.  A nice little game with several difficulty levels and poor (but very fast moving) graphics in the shooter late 1980's arcade game style of ALLTYNEX second or Raiden III. Some replayability, this game's major virtue is that it's cheap and easy to install and run and pretty much any computer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I rate the game Kamui 3/5. OK.  A nice little game with several difficulty levels and poor (but very fast moving) graphics in the shooter late 1980's arcade game style of ALLTYNEX second or Raiden III. Some replayability, this game's major virtue is that it's cheap and easy to install and run and pretty much any computer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "DRM or requires Steam active to play. No go.",
+            "review_score": "-1"
+        }
+    ]
+}

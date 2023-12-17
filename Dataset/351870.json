@@ -1,0 +1,49 @@
+{
+    "app_id": 351870,
+    "name": "Cultures - 8th Wonder of the World",
+    "release_date": "2015-03-26",
+    "developer": [
+        "Funatics Software"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "City Builder",
+        "RTS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 144,
+    "negative_ratings": 42,
+    "price": 3.99,
+    "description": "Solve the mystery surrounding the 8th Wonder of the World with your heroes and banish evil from the Earth! Play this RTS-Classic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351870/header.jpg?t=1524054641",
+    "minimum_requirements": "OS: Windows Vista/7/8 Processor: 1.4 GHz Processor Memory: 1 GB RAM Graphics: 3D graphics card DirectX: Version 7.0 Storage: 382 MB available space",
+    "recommended_requirements": "OS: Windows XP/Vista/7/8 Processor: 2 GHz Processor Memory: 2 GB RAM Graphics: 3D graphics card DirectX: Version 9.0 Storage: 382 MB available space",
+    "reviews": [
+        {
+            "review_text": "I played this game when I was a kid and I recommend it to all fans of strategy games and economics! I run a forum of this game where we did a lot of mods and a shame that it is not we have added this game on steam... but ok. If you do not have too much money in this game, nothing has changed, so if you have an original on the disc - do not buy on Steam, too much money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is like The Settlers (Die Siedler/ Serf City: Life is Feudal). I have only played 2 tutorials though and it felt just like The Settlers except with more options that have to deal with 'personalizing' your settlement. You have to marry your citizens and assign them jobs and give them names. The chain of progress is more involved then The Settlers is.   The game won't launch at start though. You need to set compatibility to Windows XP (Service Pack 2). This will allow you start the game. Once you launch the game start a game mode and click on the options icon and manually change the settings.  If you ever played The Settlers AKA Serf City then buy it while it is only 50 cents.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Don't buy if you have a good computer/graphic card!  First error message: NXSys2DApp::CCDisplay::I_DoesInitDDrawErrorOccure Directdraw init failed (001)  Second: NXSysMisc: DirectDraw error occured at D:\\Projects\\Funatics\\ProjectD\\BaseLibs\\XSystem\\X2DApp\\X2DDDDispl ay.cpp - 586 &lt;DDERR_UNSUPPORTED&gt;  Simply doesn't start, no workaround possible afaik, did some research but came up with no solution.",
+            "review_score": "-1"
+        }
+    ]
+}

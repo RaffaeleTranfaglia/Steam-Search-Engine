@@ -1,0 +1,56 @@
+{
+    "app_id": 333430,
+    "name": "Sinking Island",
+    "release_date": "2014-12-05",
+    "developer": [
+        "White Birds Productions"
+    ],
+    "publisher": [
+        "Microids"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Point & Click",
+        "Detective"
+    ],
+    "achievements": 0,
+    "positive_ratings": 85,
+    "negative_ratings": 36,
+    "price": 5.59,
+    "description": "Walter Jones, a billionaire had planned on opening up a resort for the rich and famous, but was killed before his dream could be achieved. It's up to Detective Jack Norm to crack the case by interviewing the people on Sinking Island to get valuable clues.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/333430/header.jpg?t=1478599842",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 1.5 GHz Processor Memory: 512 MB RAM Graphics: Video card 3D, 64 Mb DirectX: Version 9.0c Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 2.2 GHz Processor Memory: 1 GB RAM Graphics: Video card 3D, 256 Mb DirectX: Version 9.0c Storage: 3 GB available space",
+    "reviews": [
+        {
+            "review_text": "[NOTE: Don't be mislead by the amount of time Steam says that I spent playing this game...I work long hours and often fell asleep with it running. There's no telling how long it *actually* took me to finish.]  THIS was a good detective game. Very involved, complex, but not to the point of confusing.   I loved that the characters each had unique, developing personalities and opinions on freakin everything. And the player character, Inspector Jack Norm, was refreshingly friendly and spirited, instead of the smug, jumping-to-accusations sort of detective that are so common in pop culture these days.  Only real annoyance in the game: getting around.  Moving about the island and the tower seems to take forever as the player has to click across one screen after another to get anywhere. You've got to have a little bit of patience for that.   Fortunatley, the detailed scenery is non-stop breathtaking, so even that isn't so bad. (Kudos to the talented artists and designers behind the game. You guys really did your homework with all that Art-Deco architecture.)  In short: Great mystery game. Buy it, savor it. Look everywhere, touch everything, talk to everyone. Twice.  ....The ending cracked me up though. 'What's going on, Norm?'  *turns around*  Oh hey huge sudden group of people.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "amazing consept art, good story, about 15 hours of fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this thinking that it would sink from what I saw, but actually playing the game I found that it's an excellently crafted story. I engaged to what was going on with the story, and the mystery of it all really hooked me. I'm not a big of prerendered CGI stuff, so that threw me off at first, but eventually I got used to it. It's just it's so weird looking.   But really, it all comes down to the gameplay. It's simple and fun, that's all there is to it. Nothing super complex since it's a point and click adventure, so it relies heavily on the story and puzzles, and it does that. I always liked puzzles, so the ones in this game got me. They're a bit tricky at times, but I don't think they're overwhelmingly difficult.   Honestly, I would recommend this to anyone who enjoys a brain teaser here and there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a detective game, it fails in the most important aspect of that genre: Logic and puzzle solving. This review is a long rant just about that, nothing else.  At first, I very much liked that you can ask anybody about almost anything, and gathering much information even before you know you need it. However, this leads to some problems, because - given that design - the dialogues, and their logging as usable hints, and their value as hints have to be thoroughly checked for consistency to avoid the following situations:  - You can get the same story from several different people, however the games wants you to pick a specific statement of a certain witness as the relevant cue in the formal puzzle soving part, though multiple ones are logically valid. That means, you either have to check every possible combination of cues hoping its the ones the game expects, or look it up in a walkthrough. Even sometimes the information you get told isnt logged / available as cue for the formal puzzle solving part though it is identical to what other witnesses said. An exact copy but cant be used as such. That means, valid information cannot be used, because the game does not accept them all, just a special subset and number of them. Seems to me like the programmers / designers filled holes in the dialogues by other dialogues, making them copies but not acepting these copies as valid in the puzzle solving. I have made the exact answer to some puzzles, but using some of the other redundant cues and not the ones which are (invisibly) formally defined as the vital ones.  - Filling dialogue holes with valid information leads to an even stronger problem: Sometimes it is the less informing cue you have to choose in the puzzle solving part. For example, for a certain puzzle, two statements were given by the same person [maybe its due to a translation mistake in the german version, however, I translate back into Englisch, but dont know what the exact english phrasing in the game is] : 1. Generally, he wears his necklace at all times. 2. I remember him wearing his necklace that evening. So which one is the more informative if you need to know if he was wearing his necklace on that evening? Well, according to the game you have to choose the less specific version 1 to solve the puzzle... seems like the dialogue hole unfortunately wasn't filled with something irrelevant, but with something more relevant than what they thought it should be.  - Sometimes, these presumbly filled dialogues lead to situations where a witness / suspect contradicts himself very bizarre. Again, it is about the necklace again, an happened within seconds in the same interrogation: Q: Did you remember him wearing the necklace that evening? A: No. Q: What happened to the necklace? A: I took it from his neck that evening. Alright, have fun now with figuring out how to solve a puzzle with this. In that subpuzzle, you have to pick that he took the necklace from him, along with several other persons that told you that he is normally wearing his necklace (but only the general phrase, not the specific one for that evening which one of them gives).  So, to 'solve' the puzzle, you have to ignore that suspect x cannot remember if he was wearing the necklace as well as that he remembers taking it from his neck, and you choose the latter option (taking it from him), and you have to additionally add as cue his fingerprint on the necklace (which would be alone enough to answer the question the puzlle wants you to solve).  - To make this all worse, there is bar that tells you if you have all the information needed. However, it isnt correct. I had a full bar, meaning I should have all information, and was trying out all the possible combination in the hope to find the one that the game expects from me. After having fiddled a long time, I gave up and looked it up in a walkthrough. Guess what: I was still missing a cue. Thank you very, you ♥♥♥♥ing game, you are telling me that I have all the cues I need, but you won't let me solve the puzzle because I am missing a cue. Perfect. You took the ♥♥♥♥ out of me another time.  Concluding, there is both reduncacy as well as contradiction in what you are told (resulting from presumaby filled dialogue holes and dirty programming), but absolutely no exchangeable cues, no mercy, no nothing when you have to choose the one and only exact hints to solve the puzzle part. All of the hints are identical screws, but only some of them fit. The game wants you to be exakt when it itself is fuzzy as hell.  Great design idea, but pretty much messed up by quick and dirty writing of the dialogues.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Same problems with other posters.....game crashes after about an hour and cannot start again. It also disables my Steam library...................Any suggestions????",
+            "review_score": "-1"
+        }
+    ]
+}

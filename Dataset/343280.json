@@ -1,0 +1,79 @@
+{
+    "app_id": 343280,
+    "name": "Zotrix",
+    "release_date": "2015-07-24",
+    "developer": [
+        "ZeroBit Games"
+    ],
+    "publisher": [
+        "Ocean Media LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 53,
+    "positive_ratings": 120,
+    "negative_ratings": 69,
+    "price": 9.99,
+    "description": "Zotrix is a modern take on the classic arcade shooter. The game introduces resource trading economy and system of upgrades between number of space stations bringing the classic experience into modern generation. Aliens are attacking and Solar Division Command needs You!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/343280/header.jpg?t=1501943268",
+    "minimum_requirements": "OS: Win XP, 7, Vista, 8 Processor: Intel 1.5 GHz Memory: 1 GB RAM Graphics: OpenGL compatible graphics card 512 Mb VRAM Storage: 300 MB available space Sound Card: Direct Sound compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The current state of the game does not support Xbox controllers well. For strange reasons the game requires a lengthy gamepad calibration the first time you activate the Xbox controller in game. The calibration stage is cumbersome yet producing bad calibration results, and it is impossible to steer and aim in the game in any meaningful way.  Bad impression regarding the gamepad controls, as I have yet to see a gamepad compatible game on steam that requires calibrations. Most games just work with gamepad right off the bat.  Maybe the developer try to ensure precise aiming, by mapping the range of the twin sticks to the corners of the screen of the current frame size? Anyway, stay away from using gamepad for the moment before a fix is available.  However, the graphics and sounds in game is pretty superb, albeit the in game dialogues can not be fast forwarded/skipped. If you do do that, please make an effort to make the dialogue brief, relevant, and interesting.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gameplay isn't really what I expected. It is not fluid, the graphics are too simple.  This game doesn't shine, it could have been much better (imho).  The music, very important for shooters like this is also non appealing.  It's not bad, but isn't good either.  I thought about requesting a refund, but decided ultimately that this dev may bring much better stuff, perhaps other games, which I am sure it will be much much better.  I'll go back and play Zotrix again, perhaps I will re-think all this and change my review.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's a well made game technically, runs smooth and looks crisp, but it probaly should do that since almost nothing happens. It's a not particularly well balanced mixture of taipan and galaga. The steam achievement stats speak for themselves, the vast majority of the users stop playing after the first few levels, because there is just nothing more to see. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I like the oldschool gaming style ;) nice graphics + gameplay",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Introduction",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Gets boring very quickly. Very simplistic with not enough content.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "It's pretty glitchy for me... so, uh. No thanks, sorry.  edit: Glitchy cause controls won't work, my computer can handle other games completely fine but this game was really messed up for me, dunno whats wrong but just becareful incase this happens to your computer   Probably was pretty fun tho. ;=; refunding-almsotnoregrets",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "All in all, it feels too repetitive and bland.  The music is great, although each level consists of aiming at ships that appear from the edges of the screen. The story is progressed mainly by following different routes from starbase to starbase.   As far as I could tell, there was no feedback as to exactly how long was in each route. As such, it made each map--especially the earlier routes--drone on, and on, and on. The backgrounds are all black with stars as the cargo ship you're 'protecting' moves from the bottom of the screen to somewhere in the middle of the screen.  For upgrades, you buy resources and collect money through the various routes and space stations, which all offer their own slightly-unique selection of goods. They're nothing special: shields, added blasters, missiles/bombs, but adds just a little bit of customizability to an otherwise uninspired game.  All in all, the game would benefit from a form of timer or distance bar, as well as having more variety during routes/missions.   But, as I see it, the game is too bland to recommend for sh'mup fans.",
+            "review_score": "-1"
+        }
+    ]
+}

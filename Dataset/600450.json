@@ -1,0 +1,34 @@
+{
+    "app_id": 600450,
+    "name": "Shoot Paint",
+    "release_date": "2017-02-27",
+    "developer": [
+        "DGames"
+    ],
+    "publisher": [
+        "Lestyo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 47,
+    "negative_ratings": 33,
+    "price": 0.79,
+    "description": "Drag the mouse to set the direction and force push the ball.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600450/header.jpg?t=1491666218",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Celeron 1800 MHz Memory: 256 MB RAM Graphics: Intel HD Graphics Storage: 250 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Core i3 Memory: 512 MB RAM Graphics: Intel HD Graphics Storage: 250 MB available space",
+    "reviews": []
+}

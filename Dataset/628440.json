@@ -1,0 +1,41 @@
+{
+    "app_id": 628440,
+    "name": "Multiplayer FPS Demo",
+    "release_date": "2017-07-06",
+    "developer": [
+        "Vitor Pêgas"
+    ],
+    "publisher": [
+        "Oryzhon Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 111,
+    "negative_ratings": 92,
+    "price": 0.0,
+    "description": "Ever wanted to create your own Multiplayer FPS? Now you can!&quot;But.. it's hard.&quot; No, it isn't, you just need motivation and some basic programming knowledge.This game is the Free-to-play Demo of what you can create by watching the Video Series &quot;How to Create a Multiplayer FPS in Unity&quot; available on Steam Video Platform!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/628440/header.jpg?t=1501675253",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium D or AMD Athlon 64 (K8) 2.6 GHz Memory: 1 GB RAM Graphics: Intel HD Graphics or AMD/ATI Radeon HD Graphics DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": "OS: Windows 7,8,10 Processor: Intel Core i3 or AMD Athlon II (K10) 2.8GHz Memory: 2 GB RAM Graphics: NVidia GTX 320 / Radeon R7 DirectX: Version 9.0 Storage: 60 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 651090,
+    "name": "Aces High III",
+    "release_date": "2017-08-23",
+    "developer": [
+        "HiTech Creations Inc."
+    ],
+    "publisher": [
+        "HiTech Creations Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "In-App Purchases",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "Simulation"
+    ],
+    "tags": [
+        "Free to Play",
+        "Simulation",
+        "Massively Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 92,
+    "negative_ratings": 91,
+    "price": 0.0,
+    "description": "Aces High III offers world class modeling of World War II planes, vehicles, and boats in a combat setting with hundreds of other players pitting their skills in any given online arena.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/651090/header.jpg?t=1544740113",
+    "minimum_requirements": "OS: 7 Processor: 2.4 Ghz Pentium class Memory: 4 GB RAM Graphics: NVidia 750Ti class DirectX: Version 11 Storage: 3 GB available space Sound Card: Any DirectX supported audio device",
+    "recommended_requirements": "OS: 7 Processor: 3.0Ghz Intel Core 2 or better Memory: 6 GB RAM Graphics: NVidia 960 class, or better DirectX: Version 11 Storage: 3 GB available space Sound Card: Any DirectX supported audio device Additional Notes: For VR support an NVidia 1070, or better graphics card is recommended",
+    "reviews": []
+}

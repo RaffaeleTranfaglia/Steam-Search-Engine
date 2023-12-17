@@ -1,0 +1,40 @@
+{
+    "app_id": 377280,
+    "name": "Alarameth TD™",
+    "release_date": "2015-06-23",
+    "developer": [
+        "Matt Gadient"
+    ],
+    "publisher": [
+        "Matt Gadient"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Tower Defense"
+    ],
+    "achievements": 50,
+    "positive_ratings": 17,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "A unique, dynamic, challenging, fully-voiced tower defence game for Windows, Mac OS X, and Linux. You begin at a small outpost at the edge of the human lands, and proceed to the elven, dwarven, and gnomish realms in an effort to save the lands of Alarameth from certain annihilation.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/377280/header.jpg?t=1447375965",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 Processor: Intel Core 2 Duo or AMD equivalent Memory: 1 GB RAM Graphics: ATI Radeon 2400 or higher / NVIDIA 8600M or higher / Intel HD 3000 or higher DirectX: Version 9.0c Storage: 1 GB available space Sound Card: DirectX 9.0c compatible Additional Notes: Game may technically run on older/slower DirectX 9.0c video devices, but performance may not be acceptable.",
+    "recommended_requirements": null,
+    "reviews": []
+}

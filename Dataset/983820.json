@@ -1,0 +1,38 @@
+{
+    "app_id": 983820,
+    "name": "RainWidget",
+    "release_date": "2018-12-06",
+    "developer": [
+        "RainySoft"
+    ],
+    "publisher": [
+        "RainySoft"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Design & Illustration",
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 13,
+    "negative_ratings": 13,
+    "price": 2.89,
+    "description": "RainWidget is a powerful widget engine based on Chrome Core that allow you create stunning smooth animations widgets using the latest web technologies(JS HTML5 CSS3) for your desktop . Choose an existing widget or create your own and share it to the Online Gallery!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/983820/header.jpg?t=1555125642",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 Memory: 512 MB RAM Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

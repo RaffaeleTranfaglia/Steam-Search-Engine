@@ -1,0 +1,38 @@
+{
+    "app_id": 564950,
+    "name": "Starfighter Origins",
+    "release_date": "2017-04-25",
+    "developer": [
+        "MadAboutGamesStudios"
+    ],
+    "publisher": [
+        "MAVR"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Space",
+        "Space Sim"
+    ],
+    "achievements": 38,
+    "positive_ratings": 11,
+    "negative_ratings": 18,
+    "price": 14.99,
+    "description": "Starfighter Origins is a 90`s style space combat simulator inspired by games such as wing commander, Freespace and star wars. Combining a focus on single player action and favouring full space combat simulation over dog-fighting, Starfighter Origins looks and plays great using a Gamepad and also supports HOTAS.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564950/header.jpg?t=1517628398",
+    "minimum_requirements": "OS: Windows 7 - 10 Processor: i5/ i7 or similar AMD Memory: 2 GB RAM Graphics: Nvidea 960 or AMD Equivillant DirectX: Version 11 Storage: 11 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i7 Haswell/Skylake Memory: 4 GB RAM Graphics: Nvidia 10 series card or AMD DirectX: Version 11 Storage: 11 GB available space",
+    "reviews": []
+}

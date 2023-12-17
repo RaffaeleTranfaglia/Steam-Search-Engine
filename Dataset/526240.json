@@ -1,0 +1,39 @@
+{
+    "app_id": 526240,
+    "name": "CloudBound",
+    "release_date": "2016-09-07",
+    "developer": [
+        "Silicon Storm"
+    ],
+    "publisher": [
+        "Silicon Storm"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 37,
+    "negative_ratings": 7,
+    "price": 4.99,
+    "description": "CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System (&quot;Dynamic Field of View&quot;) we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526240/header.jpg?t=1484872148",
+    "minimum_requirements": "OS: Windows 7 or later Processor: i5 or better Memory: 8 GB RAM Graphics: GTX 970 or better Storage: 360 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 222500,
+    "name": "Rail Adventures - VR Tech Demo",
+    "release_date": "2016-08-25",
+    "developer": [
+        "exosyphen studios"
+    ],
+    "publisher": [
+        "exosyphen studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 0,
+    "positive_ratings": 16,
+    "negative_ratings": 17,
+    "price": 0.0,
+    "description": "The Rail Adventures VR Tech Demo is a free product, showcasing the upcoming action game Rail Adventures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/222500/header.jpg?t=1472331236",
+    "minimum_requirements": "OS: Windows 7 Processor: i7-4790K 4.00GHz Memory: 8 GB RAM Graphics: nVidia GeForce GTX 980 4Gb Storage: 4 GB available space Sound Card: DirectX compatible soundcard",
+    "recommended_requirements": "OS: Windows 10 Processor: i7-4790K 4.00GHz Memory: 32 GB RAM Graphics: nVidia GeForce GTX 980 4Gb Storage: 4 GB available space Sound Card: DirectX compatible",
+    "reviews": [
+        {
+            "review_text": "Not sure why so many negative reviews, using the vive controllers to speed up or slow down no problem. It’s a rail cart trip through a snowy mountainous landscape, it was ok and free, it is what it is, certainly worth a look. Nice sound track as well.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ign 10/10 Rail Adventures is a big leap forward, and sets a new benchmark for rail games.",
+            "review_score": "1"
+        }
+    ]
+}

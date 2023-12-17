@@ -1,0 +1,36 @@
+{
+    "app_id": 467890,
+    "name": "Garage Drummer VR",
+    "release_date": "2016-06-21",
+    "developer": [
+        "Blazing Tree Studio"
+    ],
+    "publisher": [
+        "Blazing Tree Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Audio Production",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Audio Production",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 15,
+    "price": 4.79,
+    "description": "An immersive drum kit simulation in a virtual garage on a beach.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/467890/header.jpg?t=1469166422",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Intel I5 5th generation Memory: 6 GB RAM Graphics: Nvidia 970 DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: Intel I7 Memory: 8 GB RAM Graphics: Nvidia 980 DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 564230,
+    "name": "Fire Pro Wrestling World",
+    "release_date": "2017-12-18",
+    "developer": [
+        "Spike Chunsoft Co., Ltd."
+    ],
+    "publisher": [
+        "Spike Chunsoft Co., Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Sports",
+        "Wrestling"
+    ],
+    "achievements": 32,
+    "positive_ratings": 1105,
+    "negative_ratings": 159,
+    "price": 23.79,
+    "description": "The greatest grappling game returns to take on the world! Customize every aspect of the match, from your wrestler to the ring itself, in your fight for the championship belt.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/564230/header.jpg?t=1538007948",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel(R) Core(TM) i5 Memory: 4 GB RAM GB RAM Graphics: DirectX 9.0c compatible video card with minimum 512MB of VRAM DirectX: Version 9.0 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

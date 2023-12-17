@@ -1,0 +1,39 @@
+{
+    "app_id": 654900,
+    "name": "qop",
+    "release_date": "2017-07-13",
+    "developer": [
+        "Quiet River"
+    ],
+    "publisher": [
+        "Quiet River"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 252,
+    "positive_ratings": 339,
+    "negative_ratings": 34,
+    "price": 0.79,
+    "description": "qop is a minimalistic puzzle which goal is to get the cube to finish using 4 directions in space.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654900/header.jpg?t=1537975650",
+    "minimum_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Celeron 1800 MHz Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 10 MB available space",
+    "recommended_requirements": "OS: Windows XP, 7, Vista, 8, 8.1, 10 Processor: Intel Core i3 Graphics: Intel HD Graphics DirectX: Version 9.0 Storage: 15 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 753560,
+    "name": "Twinstack",
+    "release_date": "2017-12-20",
+    "developer": [
+        "Correcture Games AB"
+    ],
+    "publisher": [
+        "Correcture Games AB"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/753560/header.jpg?t=1546195100",
+    "minimum_requirements": "OS: Windows 7 Processor: 2Ghz Memory: 4 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2Ghz + Memory: 4 GB RAM Storage: 150 MB available space",
+    "reviews": []
+}

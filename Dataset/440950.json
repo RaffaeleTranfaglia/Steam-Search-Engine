@@ -1,0 +1,42 @@
+{
+    "app_id": 440950,
+    "name": "Story Of the Survivor",
+    "release_date": "2016-02-16",
+    "developer": [
+        "Kamil Szczepanik",
+        "Bartosz Zajkowski"
+    ],
+    "publisher": [
+        "Animakemu Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "RPGMaker"
+    ],
+    "achievements": 11,
+    "positive_ratings": 33,
+    "negative_ratings": 18,
+    "price": 3.99,
+    "description": "Story of the Survivor is an action RPG that takes place during a zombie apocalypse. Surviving isn't going to be easy, and zombies aren't the only things to worry about. You must also eat and drink to survive as well as avoid other survivors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/440950/header.jpg?t=1505035103",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 512 MB RAM Storage: 600 MB available space Additional Notes: 1024 x 768 pixels or higher desktop resolution",
+    "recommended_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 1 GB RAM Storage: 1 GB available space Additional Notes: 1024 x 768 pixels or higher desktop resolution",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 630610,
+    "name": "Disneyland Adventures",
+    "release_date": "2018-09-14",
+    "developer": [
+        "Frontier Developments",
+        "Asobo Studio"
+    ],
+    "publisher": [
+        "Microsoft Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Family Friendly",
+        "Fantasy"
+    ],
+    "achievements": 49,
+    "positive_ratings": 56,
+    "negative_ratings": 10,
+    "price": 14.99,
+    "description": "Disneyland Adventures allows fans of all ages to explore Disneyland park, enjoy adventures based on 18 popular attractions, engage in 100 challenging quests, and interact with 35 beloved characters. Disneyland Adventures is your ticket to the magical world of Disneyland right in your living room.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/630610/header.jpg?t=1537379550",
+    "minimum_requirements": "OS: Window 7 or higher Processor: Intel Core i3-3210 @ 3.2 GHz   ||   AMD FX-4150 @ 4 GHz Memory: 4 GB RAM Graphics: Nvidia GT GTX 650 || AMD R7 260 (1GB) DirectX: Version 11 Storage: 24 GB available space",
+    "recommended_requirements": "OS: Window 7 or higher Processor: Intel Core i5 3330 @ 3.0 GHz   ||   AMD FX-6130 @ 3.6 GHz Memory: 6 GB RAM Graphics: Nvidia GTX 660 Ti || AMD R7 370 (2GB) DirectX: Version 11 Storage: 24 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 249930,
+    "name": "A-Train 8",
+    "release_date": "2013-09-18",
+    "developer": [
+        "ARTDINK"
+    ],
+    "publisher": [
+        "Degica"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Trains",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 26,
+    "price": 14.99,
+    "description": "As the owner of a brand new railway company, you must manage train schedules, develop new railways, construct buildings, and manipulate the stock market on your quest to earn one trillion dollars.Have you ever wondered what it's like to manage a railway company, or how trains can impact the fate of an entire city?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/249930/header.jpg?t=1481709522",
+    "minimum_requirements": "Processor: Intel Core 2 Duo E8400 3.0GHz / AMD Athlon 64 X2 Dual Core 4000+ Memory: 256 MB RAM Graphics: Nvidia GeForce 8600 GT / ATI Radeon 9500 Pro DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's a rather old game based on a very old game, that's Japanese. Now, being Japanese is important, because they have not been following the western developments of user interfaces. Specifically, nothing is intuitive and works as you'd expect. You can't just click on a train to get information, not even in the train list information window. No, in order to get information about anything, you must know exactly which window to open. The graphics in this game are just that, graphics. They have nothing to do with gameplay. A small city can bring much more passengers than a large one and there is no hint as to why. It's also all very dated being grid based even though it is in 3D, but A-Train 9 apparently at least improves on that aspect.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I wish i could learn how to play the game without having to atl-tab out to look at the online tutorial for the game. I'm sure it's not that bad of a game (despite the default controls being a littel wonky), but without a tutorial level i'm not going to give it much time.  -Sorry",
+            "review_score": "-1"
+        }
+    ]
+}

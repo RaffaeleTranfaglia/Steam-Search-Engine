@@ -1,0 +1,39 @@
+{
+    "app_id": 814020,
+    "name": "Quickshot",
+    "release_date": "2018-03-12",
+    "developer": [
+        "Headroom.one"
+    ],
+    "publisher": [
+        "Headroom.one"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "The makers of The Tower send you to the Quickshot boot camp to give you a fighting chance in the war against the machines. Use pistols, shotguns, lasers, submachine guns and chain guns to take down targets launched at you and avoid obstacles to not get smashed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/814020/header.jpg?t=1520841406",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i3-6100/AMD FX4350 or better Memory: 8 MB RAM Graphics: NVIDIA GTX 1050 Ti/AMD Radeon RX 470 or better Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5-4590 or better Memory: 8 GB RAM Graphics: NVIDIA GTX 1060/AMD Radeon RX 480 or better Storage: 2 GB available space",
+    "reviews": []
+}

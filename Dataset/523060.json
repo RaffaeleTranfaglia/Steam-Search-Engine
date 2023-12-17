@@ -1,0 +1,42 @@
+{
+    "app_id": 523060,
+    "name": "Planet Smasher",
+    "release_date": "2016-09-15",
+    "developer": [
+        "Robin, Alice, Julia and George"
+    ],
+    "publisher": [
+        "Team Gilbert"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 2.79,
+    "description": "Like puzzles? Like explosions? Well then, let's smash some planets together... Play in 2D with keyboard and mouse, or turn it up to eleven and experience full-on planet smashing glory in Virtual Reality with the HTC Vive or Oculus Rift.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/523060/header.jpg?t=1484399021",
+    "minimum_requirements": "OS: Windows 7 SP1 or greater Processor: Intel® i3-2310M equivalent or greater Memory: 4 GB RAM Graphics: Intel® HD Graphics 3000 equivalent or greater DirectX: Version 11 Storage: 100 MB available space Additional Notes: Play on a two dimensional square grid with a low spec PC (above requirements are for a 5 year old laptop which can run Planet Smasher with no issues)",
+    "recommended_requirements": "OS: Windows 7 SP1 or greater Processor: Intel® i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 100 MB available space Additional Notes: Play on a three dimensional cubic grid in Virtual Reality (above requirements are the minimum recommended for the HTC Vive / Oculus Rift)",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 746940,
+    "name": "Nippon Marathon",
+    "release_date": "2018-12-17",
+    "developer": [
+        "Onion Soup Interactive"
+    ],
+    "publisher": [
+        "PQube Limited"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Indie",
+        "Sports"
+    ],
+    "achievements": 15,
+    "positive_ratings": 122,
+    "negative_ratings": 11,
+    "price": 11.99,
+    "description": "San! Ni! Ichi! Hajime!!! Stretch your muscles and embark upon the ultimate marathon of Nippon in a crazy, physics-driven, four-player party racer where anything can happen!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/746940/header.jpg?t=1545130803",
+    "minimum_requirements": "OS: Microsoft Windows 7 Home Premium 64-Bit Processor: Intel Core i3-2370M Memory: 4 GB RAM Graphics: Intel HD 4000 Graphics Storage: 5 GB available space",
+    "recommended_requirements": "OS: Microsoft Windows 7 Home Premium 64-Bit or higher Processor: Intel Core i5-2300 or AMD Phenom II X4 940 or better Memory: 8 GB RAM Graphics: NVidia GeForce Gtx 970 Storage: 5 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,48 @@
+{
+    "app_id": 378070,
+    "name": "Energy Hook",
+    "release_date": "2016-07-05",
+    "developer": [
+        "Happion Labs"
+    ],
+    "publisher": [
+        "Happion Labs"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Sports",
+        "Action"
+    ],
+    "achievements": 37,
+    "positive_ratings": 38,
+    "negative_ratings": 12,
+    "price": 7.19,
+    "description": "From the inventor of the acclaimed web-swinging movement in *Spider-Man 2* comes the extreme sport of the future! Swing on a line of pure energy to perform death-defying stunts and insane parkour moves!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/378070/header.jpg?t=1467745565",
+    "minimum_requirements": "OS: Windows 7 or later Processor: i5 @ 2.5 Ghz Memory: 4 GB RAM Graphics: Intel HD 4000 or comparable DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "Processor: i7 @ 2.5 Ghz Memory: 8 GB RAM Graphics: GeForce 840M or comparable DirectX: Version 11",
+    "reviews": [
+        {
+            "review_text": "This game is absolutely fanatastic. Flying around just fills me with childlike glee and wonder. I love it, if you've ever had dreams about flying this game is for you.",
+            "review_score": "1"
+        }
+    ]
+}

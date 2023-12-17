@@ -1,0 +1,41 @@
+{
+    "app_id": 631660,
+    "name": "Immersion Chess",
+    "release_date": "2017-05-15",
+    "developer": [
+        "Immersion"
+    ],
+    "publisher": [
+        "Immersion"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Strategy",
+        "Casual"
+    ],
+    "achievements": 29,
+    "positive_ratings": 72,
+    "negative_ratings": 27,
+    "price": 0.0,
+    "description": "Lose yourself in the most immersive virtual rendition of the world’s most beloved classic: Chess! Whether you’re using advanced VR technology (HTC Vive, Oculus Rift etc.) or just playing on a standard computer, users of both interfaces from around the world can now challenge each other in real time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/631660/header.jpg?t=1504537869",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 2 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

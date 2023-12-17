@@ -1,0 +1,42 @@
+{
+    "app_id": 317290,
+    "name": "Bionic Heart 2",
+    "release_date": "2014-09-22",
+    "developer": [
+        "Winter Wolves"
+    ],
+    "publisher": [
+        "Winter Wolves"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+    ],
+    "achievements": 24,
+    "positive_ratings": 21,
+    "negative_ratings": 15,
+    "price": 10.99,
+    "description": "Sequel to the sci-fi visual novel Bionic Heart. The game is told from four different points of view: each character choice will change the outcome of the story.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/317290/header.jpg?t=1447363017",
+    "minimum_requirements": "OS: Windows XP Processor: 1Ghz Memory: 512 MB RAM Graphics: DirectX or OpenGL compatible card Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

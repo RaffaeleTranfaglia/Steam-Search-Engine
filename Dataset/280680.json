@@ -1,0 +1,50 @@
+{
+    "app_id": 280680,
+    "name": "Krita",
+    "release_date": "2014-06-10",
+    "developer": [
+        "Krita Team"
+    ],
+    "publisher": [
+        "Krita Team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Photo Editing"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Photo Editing",
+        "Animation & Modeling"
+    ],
+    "achievements": 0,
+    "positive_ratings": 119,
+    "negative_ratings": 38,
+    "price": 6.99,
+    "description": "Krita is a powerful digital painting application, made for illustrators, game artists, concept artists, animators, comic book artists and everyone who wants to draw and paint.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/280680/header.jpg?t=1548473873",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 Processor: 1.6Ghz Dual-core CPU Memory: 2 GB RAM Graphics: Modern (since 2009) graphics / Intel HD Storage: 300 MB available space Additional Notes: Graphics-tablet recommended. Actual system/video memory requirements vary depending on image size.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: 2.0GHz+ Quad-core CPU Memory: 4 GB RAM Graphics: Modern (since 2009) graphics / Intel HD Storage: 300 MB available space Additional Notes: Graphics -tablet recommended. Actual system/video memory requirements vary depending on image size.",
+    "reviews": [
+        {
+            "review_text": "So far so good! I find it a simplified version of illustrator and I prefer drawing with my bamboo tablet with it.. as the drawing brushes are really good to draw Manga stuff with!!  pros- good program u can do a lot with!!! and it works well!! and just as good as illustrator..  cons– so far.. saving and then minimising.. will crash and not save Ur progress!!! and u will lose that save file!!!!!! and prob will get fixed..soon  other then that 8/10 2 points lost as I lost like 4hrs work...  Who ever likes to draw with a pad!! try this out!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very early review in the use of this, but as a Tablet owner (Bamboo), and someone who use's artrage +Blackink, I'd just like to give my 1st impression.    This seems plagued by the same unresponsive nature as the free (Krita (x64)), which kicks in mid stroke on some brush's making it very disruptive at times to use. updating the pen position is vital at all times and priority needs to go to that.    Other than that it looks pretty nice, not as intuitive as I'd hope for, but sure given enough time that wouldn't be an issue.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Having used both the free version and recently having bought the steam version, I have to save that the free version has quite a few things that gemini lacks, and it's kind of frustrating to switch to gemini when it just feels inferior. but I love Krita and want to support them, so I guess I'll shoulder the burden. I would definitely say to download the free version and find another way to support them though.",
+            "review_score": "-1"
+        }
+    ]
+}

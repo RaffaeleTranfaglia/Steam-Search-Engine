@@ -1,0 +1,39 @@
+{
+    "app_id": 770360,
+    "name": "Lowpoly Hero",
+    "release_date": "2018-01-24",
+    "developer": [
+        "Know Such Luck, LLC"
+    ],
+    "publisher": [
+        "Know Such Luck, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Play as the hero of the story, Hero. In this generic adventure inspired by classic RPG's, take on the role of Hero and save the princess from The Kingdom's many enemies. Completely open-level based intended for level crawlers and casual players alike.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/770360/header.jpg?t=1516800517",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: Intel Core I3 or Equivalent Memory: 512 MB RAM Graphics: 256MB DirectX: Version 9.0 Storage: 13 GB available space Additional Notes: Tested on a computer with no dedicated video card, works but at a slower frame rate",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: Intel Core I5 or Equivalent Memory: 1 GB RAM Graphics: 512MB DirectX: Version 12",
+    "reviews": []
+}

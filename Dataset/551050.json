@@ -1,0 +1,42 @@
+{
+    "app_id": 551050,
+    "name": "Die With Glory — Point and Click Adventure Game",
+    "release_date": "2017-05-11",
+    "developer": [
+        "Castle"
+    ],
+    "publisher": [
+        "Veslo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 32,
+    "positive_ratings": 30,
+    "negative_ratings": 12,
+    "price": 4.79,
+    "description": "Die With Glory is a humor-packed adventure game with a rich, non-linear storyline where your ultimate goal is to die.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/551050/header.jpg?t=1520328415",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: 1.7 GHz Dual Core Memory: 512 MB RAM Graphics: NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, Intel HD 3000, or equivalent card with at least 512 MB VRAM DirectX: Version 9.0 Storage: 500 MB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo at 2.2 GHz, AMD Athlon 64 2.2Ghz Memory: 1 GB RAM Graphics: NVIDIA GeForce GTX 460, AMD Radeon HD 6850 DirectX: Version 11 Storage: 500 MB available space Sound Card: DirectX Compatible Sound Card",
+    "reviews": []
+}

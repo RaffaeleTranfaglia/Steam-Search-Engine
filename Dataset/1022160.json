@@ -1,0 +1,40 @@
+{
+    "app_id": 1022160,
+    "name": "Rollossus",
+    "release_date": "2019-03-01",
+    "developer": [
+        "Almost Infinity Games LLC"
+    ],
+    "publisher": [
+        "Almost Infinity Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Narrowly escape death as an agile spirit, enduring endless haunting enemies. In this rolling action game, you must handle rabid foes each with their own powers and abilities, in order to defeat The Rollossus.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1022160/header.jpg?t=1552263594",
+    "minimum_requirements": "OS: Windows 10 32-Bit Processor: Intel Core i7-4785T @ 2.20GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce 2GB GPU DirectX: Version 12 Storage: 750 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

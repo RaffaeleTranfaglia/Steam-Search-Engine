@@ -1,0 +1,39 @@
+{
+    "app_id": 350480,
+    "name": "Tales of Cosmos",
+    "release_date": "2016-10-20",
+    "developer": [
+        "Red Dwarf Games"
+    ],
+    "publisher": [
+        "Red Dwarf Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 14,
+    "positive_ratings": 32,
+    "negative_ratings": 7,
+    "price": 11.39,
+    "description": "Tales of Cosmos is an old-school point-and-click adventure game set in a huge open world planetary system. Pilot your rocket across space, land on planets and moons, solve puzzles, and unravel a cosmic mystery with the help of a genius monkey and a wondrous talking dog.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350480/header.jpg?t=1529688079",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 Processor: Dual-core 2 GHz processor Memory: 2 GB RAM Graphics: Nvidia GeForce 310 or equivalent graphics card DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

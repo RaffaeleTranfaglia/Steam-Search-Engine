@@ -1,0 +1,51 @@
+{
+    "app_id": 562680,
+    "name": "The Wizards Who Fell In A Hole",
+    "release_date": "2016-12-09",
+    "developer": [
+        "Battenberg Software"
+    ],
+    "publisher": [
+        "Battenberg Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 16,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 1.59,
+    "description": "The Wizards Who Fell In A Hole is a one- or two-player platform game in which each player controls a wizard who can jump and shoot at a variety of monsters, with the aim being to kill all monsters on a level before progressing.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/562680/header.jpg?t=1551263161",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/Windows 8/Windows 10 Memory: 1 GB RAM Graphics: DirectX or OpenGL Compatible Video card DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

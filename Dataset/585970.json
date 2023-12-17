@@ -1,0 +1,44 @@
+{
+    "app_id": 585970,
+    "name": "Tank Assault X",
+    "release_date": "2017-04-05",
+    "developer": [
+        "Starwind Games"
+    ],
+    "publisher": [
+        "Starwind Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 17,
+    "negative_ratings": 9,
+    "price": 1.59,
+    "description": "Tank Assault X is a hardcore, logical tank arcade built on the lines of the classic arcade games of the 1980’s.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/585970/header.jpg?t=1507901774",
+    "minimum_requirements": "OS: Windows Vista and later Processor: Intel Celeron or AMD Athlon II X2/A-series Memory: 2 GB RAM Graphics: Intel Graphics 3000 or later, any NVidia/AMD card Storage: 60 MB available space Sound Card: Built-in sound card",
+    "recommended_requirements": "OS: Windows 7 and later Processor: Intel Pentium or AMD Athlon II X3/A-series Memory: 4 GB RAM Graphics: Intel Graphics 4000 or later, any NVidia/AMD card Storage: 60 MB available space Sound Card: Built-in sound card",
+    "reviews": []
+}

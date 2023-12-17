@@ -1,0 +1,40 @@
+{
+    "app_id": 1040590,
+    "name": "Killer Chambers",
+    "release_date": "2019-04-05",
+    "developer": [
+        "Village Bench"
+    ],
+    "publisher": [
+        "Village Bench"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Bullet Hell"
+    ],
+    "achievements": 26,
+    "positive_ratings": 15,
+    "negative_ratings": 2,
+    "price": 3.99,
+    "description": "Help Brave Lord survive the Killer Chambers and defeat the bosses summoned by Lord Grave! Quick reflexes and good memory are the keys to success in this unforgiving action-platformer. Can you clear all 5 floors and get the King's Crown?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1040590/header.jpg?t=1555963140",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 1 GB RAM DirectX: Version 9.0c Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Memory: 4 GB RAM DirectX: Version 11",
+    "reviews": []
+}

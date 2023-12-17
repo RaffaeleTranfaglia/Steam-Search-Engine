@@ -1,0 +1,43 @@
+{
+    "app_id": 785890,
+    "name": "Hexologic",
+    "release_date": "2018-05-29",
+    "developer": [
+        "MythicOwl"
+    ],
+    "publisher": [
+        "MythicOwl"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 11,
+    "positive_ratings": 117,
+    "negative_ratings": 5,
+    "price": 1.99,
+    "description": "Immerse yourself in the beautiful world of Hexologic. Solve challenging, yet rewarding puzzles, listen to relaxing music, dive deep into the game’s atmosphere and fall in love in with Sudoku again!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/785890/header.jpg?t=1555054109",
+    "minimum_requirements": "OS: Windows 7 Processor: 2,4 GHz Memory: 2 GB RAM Graphics: 512MB DirectX: Version 9.0 Storage: 300 MB available space Sound Card: Stereo",
+    "recommended_requirements": "OS: Windows 10 Processor: 3 GHz Memory: 4 GB RAM Graphics: 2GB DirectX: Version 11 Storage: 300 MB available space Sound Card: Stereo",
+    "reviews": []
+}

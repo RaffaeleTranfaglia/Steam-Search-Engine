@@ -1,0 +1,42 @@
+{
+    "app_id": 299580,
+    "name": "Abducted",
+    "release_date": "2015-07-28",
+    "developer": [
+        "Sunside Inc"
+    ],
+    "publisher": [
+        "Sunside Inc"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 12,
+    "positive_ratings": 38,
+    "negative_ratings": 18,
+    "price": 10.99,
+    "description": "Abducted is a 3rd person action-adventure game using the latest Unreal 4 technology. Created by former Battlefield and Borderlands Designer Richard Cowgill, Abducted is truly out of this world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/299580/header.jpg?t=1554391848",
+    "minimum_requirements": "OS: Windows 7/8 Processor: Quad Core Memory: 4 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad core Memory: 8 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

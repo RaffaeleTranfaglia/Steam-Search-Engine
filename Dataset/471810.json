@@ -1,0 +1,45 @@
+{
+    "app_id": 471810,
+    "name": "Death Squared",
+    "release_date": "2017-03-13",
+    "developer": [
+        "SMG Studio"
+    ],
+    "publisher": [
+        "SMG Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Co-op"
+    ],
+    "achievements": 25,
+    "positive_ratings": 80,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "Death Squared is a co-op puzzle game about cooperation, communication, and robot explosions. You should buy it!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/471810/header.jpg?t=1548222677",
+    "minimum_requirements": "OS: Microsoft® Windows® 7 &amp; Above Processor: Core 2 Duo Memory: 3 GB RAM Graphics: SM3 512MB VRAM Storage: 1 GB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® 10 Processor: Core i3 Memory: 4 GB RAM Graphics: SM4 1GB VRAM Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 549390,
+    "name": "Storage Inc 2",
+    "release_date": "2017-02-21",
+    "developer": [
+        "Stolpskott Studios"
+    ],
+    "publisher": [
+        "Stolpskott Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 21,
+    "negative_ratings": 9,
+    "price": 6.99,
+    "description": "Fun cooperative game for 1-4 players. Each player controls a forklift truck in a warehouse. As new goods keeps arriving, the players must work together organizing them, so that they can make the outgoing deliveries as needed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/549390/header.jpg?t=1488727877",
+    "minimum_requirements": "OS: Windows 7 (or higher) Processor: 1.8 GHz Memory: 2 GB RAM Graphics: Shader Model 4 compatible DirectX: Version 11 Storage: 70 MB available space Sound Card: DirectX compatible Additional Notes: Keyboard or Xbox 360 compatible gamepad supported. Shared Screen coop requires one gamepad per player.",
+    "recommended_requirements": null,
+    "reviews": []
+}

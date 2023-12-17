@@ -1,0 +1,53 @@
+{
+    "app_id": 493650,
+    "name": "Deep Space Dash",
+    "release_date": "2016-07-07",
+    "developer": [
+        "Delusional Games"
+    ],
+    "publisher": [
+        "Back To Basics Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 78,
+    "negative_ratings": 213,
+    "price": 0.79,
+    "description": "Deep Space Dash is a third person futuristic space runner. You are a convict in an intergalactic high-security prison, at an unknown location. You have managed to escape your cell but you are lost in a huge maze.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/493650/header.jpg?t=1508688799",
+    "minimum_requirements": "OS: Windows Vista/Windows 7/8/10 Processor: 2 GHz or better Memory: 3 GB RAM Graphics: Intel HD 3000 equivalent or better DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows latest version Processor: 2.5 GHz or better Memory: 4 GB RAM Graphics: Intel HD 4000 equivalent or better DirectX: Version 12 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "If you like games like Race The Sun, F-Zero X, etc. you will also like this game. It might need more work on it, but it is really nicely done. I really like this maze mode.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is bad. Like, really BAD.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very laggy -REP ",
+            "review_score": "-1"
+        }
+    ]
+}

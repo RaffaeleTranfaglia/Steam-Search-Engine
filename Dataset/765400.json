@@ -1,0 +1,37 @@
+{
+    "app_id": 765400,
+    "name": "Christmas Tale - Visual Novel",
+    "release_date": "2018-01-02",
+    "developer": [
+        "morojenoe's empire"
+    ],
+    "publisher": [
+        "morojenoe's empire"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Visual Novel"
+    ],
+    "achievements": 7,
+    "positive_ratings": 2,
+    "negative_ratings": 7,
+    "price": 1.69,
+    "description": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/765400/header.jpg?t=1514917549",
+    "minimum_requirements": "OS: Microsoft Windows Vista / 7 / 8 / 10 Processor: 1.5Ghz Processor or better Memory: 1 GB RAM Graphics: Integrated Graphics Chip Storage: 500 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows Vista / 7 / 8 / 10 Processor: Pentium 4 or better Memory: 2 GB RAM Graphics: Integrated Graphics Chip Storage: 1 GB available space",
+    "reviews": []
+}

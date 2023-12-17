@@ -1,0 +1,41 @@
+{
+    "app_id": 940240,
+    "name": "Jake and the Giant",
+    "release_date": "2018-12-24",
+    "developer": [
+        "MoonShine Games"
+    ],
+    "publisher": [
+        "MoonShine Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "Jake and the Giant is an couch Co-Op / asymmetrical local multiplayer VR game.1 Vs 1 with the VR player controlling the powerful Giant from the headset with the controllers.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/940240/header.jpg?t=1549799337",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel i5-4590 Memory: 8 GB RAM GB RAM Graphics: NVIDIA GeForce GTX 970 Storage: 666 available space MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 Memory: 16 GB RAM GB RAM Graphics: NVIDIA GeForce GTX 980 Ti Storage: 666 available space MB available space",
+    "reviews": []
+}

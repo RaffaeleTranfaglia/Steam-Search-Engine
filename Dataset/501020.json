@@ -1,0 +1,46 @@
+{
+    "app_id": 501020,
+    "name": "Super Pixel Racers",
+    "release_date": "2019-01-30",
+    "developer": [
+        "21c.Ducks Co., Ltd."
+    ],
+    "publisher": [
+        "H2 Interactive Co., Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 33,
+    "negative_ratings": 8,
+    "price": 11.39,
+    "description": "Featuring simple and satisfying drifting and nitro mechanics, Super Pixel Racers lets players race it out in numerous modes from classic Rally to pixelated mayhem in Takedown.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/501020/header.jpg?t=1548920980",
+    "minimum_requirements": "OS: Windows 7 / 8 / 8.1 Processor: Intel Core i3 / i5 Memory: 4 GB RAM Graphics: GeForce GTX 650 / Radeon R7 250 or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 1 GB available space Sound Card: Direct Sound",
+    "recommended_requirements": null,
+    "reviews": []
+}

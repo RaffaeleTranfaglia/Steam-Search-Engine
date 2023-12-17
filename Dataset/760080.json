@@ -1,0 +1,40 @@
+{
+    "app_id": 760080,
+    "name": "Hazardous Space",
+    "release_date": "2019-02-07",
+    "developer": [
+        "Coffee Cat Games"
+    ],
+    "publisher": [
+        "Black Tower Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Turn-Based"
+    ],
+    "achievements": 76,
+    "positive_ratings": 50,
+    "negative_ratings": 9,
+    "price": 7.19,
+    "description": "Hazardous Space is a Roguelike 2D turn-based action game with RPG elements. There is no room for friendly NPCs or safe locations. Using tactics, various kinds of weapons, and your character's skills, fight your way through hordes of enemies and try to get off the station.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/760080/header.jpg?t=1551888213",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 2 Duo E5200 Memory: 4 GB RAM Graphics: GeForce 9800GTX+ (1GB) Storage: 2 GB available space Sound Card: DirectX 9.0c Compatible Sound Card with Latest Drivers Additional Notes: Using the Minimum Configuration, we strongly recommend to use minimal settings in order to not experience low frame rates.",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel Core i5 Memory: 8 GB RAM Graphics: GeForce GTX 560 Storage: 2 GB available space Sound Card: DirectX 9.0c Compatible Sound Card with Latest Drivers",
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 845040,
+    "name": "AegisM",
+    "release_date": "2018-07-27",
+    "developer": [
+        "Aurox Studios"
+    ],
+    "publisher": [
+        "Aurox Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 5,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 9.99,
+    "description": "AegisM is a competitive tower defence game crossed with an action shooter, with multiplayer game modes. Play alone or with up to 3 others to achieve the highest survival mode scores, or compete in the Player vs Player mode to show your strategy is unbeatable and increase your ELO rating!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/845040/header.jpg?t=1536757944",
+    "minimum_requirements": "Минимальные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7/8/10 64-bit Процессор: 2 GHz Dual Core Processor Оперативная память: 4 GB ОЗУ Видеокарта: Intel HD 4000 DirectX: Версии 9.0 Сеть: Широкополосное подключение к интернету Место на диске: 500 MB Звуковая карта: DirectX compatible",
+    "recommended_requirements": "Рекомендованные: Требуются 64-разрядные процессор и операционная система ОС: Windows 7/8/10 64-bit Процессор: 3 GHz Quad Core Processor Видеокарта: GeForce 960 / Radeon RX 280 or equivalent with 4GB of video RAM DirectX: Версии 9.0 Сеть: Широкополосное подключение к интернету Место на диске: 500 MB Звуковая карта: DirectX compatible",
+    "reviews": []
+}

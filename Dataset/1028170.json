@@ -1,0 +1,42 @@
+{
+    "app_id": 1028170,
+    "name": "Tahko Alpine Ski",
+    "release_date": "2019-02-25",
+    "developer": [
+        "3D Talo Finland",
+        "Joonas Suikki",
+        "Heikki Parviainen",
+        "Hemmo Tanskanen",
+        "Ville Nyyssölä"
+    ],
+    "publisher": [
+        "3D Talo Finland Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 4,
+    "price": 0.0,
+    "description": "Tahko Alpine Ski virtual reality experience takes you to a ride along the slope of Tahko Ski resort in a compact virtual reality experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1028170/header.jpg?t=1551952312",
+    "minimum_requirements": "OS: Windows 8.1 or Windows 10 Processor: Intel® i5-4590 / AMD FX 8350 equivalent or greater. Memory: 4 GB RAM Graphics: Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater. DirectX: Version 11 Storage: 2797 MB available space Sound Card: Realtek HighDefinition Audio",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel® i7-4970k / AMD FX 8350 equivalent or greater. Memory: 16 GB RAM Graphics: Graphics: NVIDIA GeForce® GTX 1070 / AMD Radeon™ RX Vega 56. DirectX: Version 11 Storage: 2979 MB available space Sound Card: Realtek HighDefinition Audio",
+    "reviews": []
+}

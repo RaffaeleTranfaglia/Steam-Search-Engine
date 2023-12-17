@@ -1,0 +1,45 @@
+{
+    "app_id": 91810,
+    "name": "Ancients of Ooga",
+    "release_date": "2011-05-20",
+    "developer": [
+        "Bacon Wrapped Games"
+    ],
+    "publisher": [
+        "NinjaBee.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Casual"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Platformer"
+    ],
+    "achievements": 24,
+    "positive_ratings": 21,
+    "negative_ratings": 7,
+    "price": 6.99,
+    "description": "From the creators of 'Cloning Clyde' comes a new epic puzzle solving adventure!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/91810/header.jpg?t=1447354239",
+    "minimum_requirements": "OS: Windows XP or laterProcessor: 3.0 Ghz or higher. Memory: 512MBHard Disk Space: 500 MBVideo Card: Shader version 3.0 or higher compatible cardDirectX&reg;: 9.0",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I like it. It's a fun game to play if you're bored or just looking for some fun. Personally, I found it entertaining.",
+            "review_score": "1"
+        }
+    ]
+}

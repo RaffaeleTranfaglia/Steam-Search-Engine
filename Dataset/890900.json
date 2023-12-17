@@ -1,0 +1,40 @@
+{
+    "app_id": 890900,
+    "name": "Whacker Guy: Distance Hunter",
+    "release_date": "2018-08-30",
+    "developer": [
+        "Micro Revolution LLC"
+    ],
+    "publisher": [
+        "Micro Revolution LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Sports",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Whacker Guy: Distance Hunter is a 3D physics-based baseball batting game set in a beautiful ballpark (Whacker Stadium) with a specific goal - accumulated distance. Total distance is the score. Skill is required to be great and must be learned!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/890900/header.jpg?t=1540379272",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: 7 SP1+ Processor: SSE2 instruction set Memory: 200 MB RAM Graphics: DX10 (shader model 4.0) DirectX: Version 10 Storage: 140 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

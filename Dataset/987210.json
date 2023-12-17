@@ -1,0 +1,40 @@
+{
+    "app_id": 987210,
+    "name": "Crossroads: Roguelike RPG Dungeon Crawler",
+    "release_date": "2019-03-20",
+    "developer": [
+        "icon.games"
+    ],
+    "publisher": [
+        "icon.games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 55,
+    "positive_ratings": 18,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Crossroads is a hardcore roguelike RPG dungeon crawler stylized as a card game. Create your hero and go to the adventures to gain levels, loot new gear, learn different spells and finally complete your quest!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/987210/header.jpg?t=1555502729",
+    "minimum_requirements": "OS: Windows 10 64 bit Processor: Intel Core 2 Duo E5200 Memory: 2 GB RAM Graphics: GeForce 9800GTX+ (1GB) Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

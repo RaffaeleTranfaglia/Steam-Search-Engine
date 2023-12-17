@@ -1,0 +1,51 @@
+{
+    "app_id": 330460,
+    "name": "Celestial Command",
+    "release_date": "2014-11-20",
+    "developer": [
+        "Romenics",
+        "Artaani",
+        "Riya"
+    ],
+    "publisher": [
+        "Romenics"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Space"
+    ],
+    "achievements": 0,
+    "positive_ratings": 261,
+    "negative_ratings": 68,
+    "price": 7.99,
+    "description": "Mine asteroids, salvage space debris, build space ships and stations, manage fuel and energy, trade goods, performs missions and fight against enemies in large open world with realistic 2D physics based on orbital mechanics or in alternative, more classic game mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/330460/header.jpg?t=1549237397",
+    "minimum_requirements": "OS: Windows 7 Processor: Core i3 2Ghz Memory: 4 GB RAM Graphics: Intel HD 3000 or equivalent DirectX: Version 9.0 Storage: 750 MB available space",
+    "recommended_requirements": "OS: Windows 7 / 8 /8.1 / 10 Processor: Core i5 Memory: 8 GB RAM Graphics: Intel HD 3000 or equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 750 MB available space",
+    "reviews": []
+}

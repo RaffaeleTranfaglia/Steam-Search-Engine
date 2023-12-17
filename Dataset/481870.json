@@ -1,0 +1,45 @@
+{
+    "app_id": 481870,
+    "name": "Mini Thief",
+    "release_date": "2018-10-12",
+    "developer": [
+        "Stranga",
+        "Tommah"
+    ],
+    "publisher": [
+        "GrabTheGames"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 236,
+    "negative_ratings": 74,
+    "price": 2.79,
+    "description": "Can you escape with the loot? Play as the Master Thief and steal as much as you can. Burgle houses in order to obtain some sweet, sweet loot but, be careful, do not get caught!.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/481870/header.jpg?t=1549559204",
+    "minimum_requirements": "OS: Microsoft® Windows® 7 Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 1 GB RAM Graphics: 64MB RAM DirectX: Version 11 Storage: 10 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 970140,
+    "name": "Reynard",
+    "release_date": "2019-02-22",
+    "developer": [
+        "Filipinjo",
+        "bostjang"
+    ],
+    "publisher": [
+        "Hyper Fox Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 36,
+    "positive_ratings": 24,
+    "negative_ratings": 1,
+    "price": 7.99,
+    "description": "Reynard is a mixture of procedurally generated action RPG and a Tower Defense genre with roguelike elements. It has been influenced by classics such as The Legend of Zelda and an indie classic - The Binding of Isaac.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/970140/header.jpg?t=1550851120",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64bit Processor: Intel Celeron p6100 @2.0 GHz Memory: 3 GB RAM Graphics: Integrated graphics cards should suffice Storage: 600 MB available space Additional Notes: Gamepad is extremely recommended, but keyboard also works.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

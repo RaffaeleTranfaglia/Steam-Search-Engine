@@ -1,0 +1,36 @@
+{
+    "app_id": 891100,
+    "name": "Ray of Light",
+    "release_date": "2018-07-12",
+    "developer": [
+        "SAFING"
+    ],
+    "publisher": [
+        "SAFING"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Horror",
+        "Survival"
+    ],
+    "achievements": 5,
+    "positive_ratings": 19,
+    "negative_ratings": 8,
+    "price": 2.09,
+    "description": "Ray of Light - Horror game with beautiful graphics and sound. You will not be bored.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/891100/header.jpg?t=1545076501",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel® Core i3-7300 Memory: 4 GB RAM Graphics: GeForce GTX 950 / AMD Radeon R7 370 DirectX: Version 9.0c Storage: 1540 MB available space Sound Card: Compatible with DirectX 9.0с",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel® Core i5-6300 Memory: 8 GB RAM Graphics: GeForce GTX 1050 Ti / AMD RX 470 DirectX: Version 12 Storage: 1540 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 552620,
+    "name": "ATOM RPG: Post-apocalyptic indie game",
+    "release_date": "2018-12-19",
+    "developer": [
+        "AtomTeam"
+    ],
+    "publisher": [
+        "AtomTeam"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Post-apocalyptic",
+        "Turn-Based Combat"
+    ],
+    "achievements": 31,
+    "positive_ratings": 2012,
+    "negative_ratings": 327,
+    "price": 10.99,
+    "description": "ATOM RPG is a post-apocalyptic indie game, inspired by classic CRPGs: Fallout, Wasteland, Deus Ex, Baldur's Gate and many others.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/552620/header.jpg?t=1553719168",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 64-bit (7 SP1/8/8.1/10) Processor: Intel Core 2 Duo / AMD Phenom II Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 260 / Radeon HD 4670 1GB / Intel HD 4600 DirectX: Version 10 Storage: 6 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 64-bit (7 SP1/8/8.1/10) Processor: Intel Core i5 / AMD FX Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 / Radeon HD 7850 DirectX: Version 11 Storage: 6 GB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

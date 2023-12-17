@@ -1,0 +1,37 @@
+{
+    "app_id": 868130,
+    "name": "Hex Two",
+    "release_date": "2018-06-08",
+    "developer": [
+        "Studio Goya"
+    ],
+    "publisher": [
+        "Studio Goya"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 17,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 5.19,
+    "description": "Journey through 80 levels in this beautiful minimalist puzzle game. Jump from tile to tile as you attempt to clear the board. In Hex Two, you'll encounter 19 different types of tiles, each of which changing the way you must approach each level. Can you clear them all?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868130/header.jpg?t=1528473779",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Core i3 2.00 GHz Memory: 1 GB RAM Graphics: Intel® HD Graphics 3000 DirectX: Version 9.0 Storage: 125 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

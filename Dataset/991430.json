@@ -1,0 +1,39 @@
+{
+    "app_id": 991430,
+    "name": "You're Not Special",
+    "release_date": "2019-02-11",
+    "developer": [
+        "Reky Studios"
+    ],
+    "publisher": [
+        "Reky Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "achievements": 10,
+    "positive_ratings": 16,
+    "negative_ratings": 0,
+    "price": 9.29,
+    "description": "You're Not Special is a (mostly) non-combat, choices-matter, puzzle-based RPG. There are great forces set to doom the small kingdom in which you live and only the chosen one can stop them. The problem is, you're not the chosen one.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/991430/header.jpg?t=1551115726",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel Core i3 Memory: 4 GB RAM Graphics: 512MB VRAM DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: Requires OpenGL 4.1 (standard in most graphics cards)",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: 1GB VRAM DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: Requires OpenGL 4.1  (standard in most graphics cards)",
+    "reviews": []
+}

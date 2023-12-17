@@ -1,0 +1,47 @@
+{
+    "app_id": 354930,
+    "name": "Slinki",
+    "release_date": "2015-04-15",
+    "developer": [
+        "Titan Forged Games"
+    ],
+    "publisher": [
+        "Titan Forged Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 15,
+    "positive_ratings": 11,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Hack your way through this maddened forest with one angry bunny's razor sharp Independently Targeting Bionic Shard of Concentrated Mayhem that serves as the titular character's right arm. Now fully detatchable and slingshot capable, for when you just need to fling yourself across the screen.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/354930/header.jpg?t=1509475446",
+    "minimum_requirements": "OS: Windows XP Processor: 1 Ghz dual core processor Memory: 512 MB RAM Graphics: DirectX 9 compatible GPU DirectX: Version 9.0c Storage: 600 MB available space Sound Card: Any Sound Card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It's just silly that the creator thinks this is something worthy of charging people money for.",
+            "review_score": "-1"
+        }
+    ]
+}

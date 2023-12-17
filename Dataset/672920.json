@@ -1,0 +1,39 @@
+{
+    "app_id": 672920,
+    "name": "The Bounty: Deluxe Edition",
+    "release_date": "2018-01-08",
+    "developer": [
+        "The Ludicrous Ones"
+    ],
+    "publisher": [
+        "The Ludicrous Ones"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 24,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "The Bounty is a retro-inspired competitive RPG, with an East meets West approach, deviously combined with an arcade high score sensibility. An experience that will challenge your wits as you push to survive, uncover a multitude of secrets, and earn the high score.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672920/header.jpg?t=1529605607",
+    "minimum_requirements": "OS: 7 Processor: Intel Core 2 Duo Memory: 2 GB RAM Graphics: DirectX 9/OpenGL 4.1 Capable GPU DirectX: Version 9.0 Storage: 350 MB available space",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+    "reviews": []
+}

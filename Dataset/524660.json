@@ -1,0 +1,40 @@
+{
+    "app_id": 524660,
+    "name": "RutonyChat",
+    "release_date": "2016-09-19",
+    "developer": [
+        "Rutony Studio"
+    ],
+    "publisher": [
+        "Rutony Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Utilities",
+        "Video Production"
+    ],
+    "tags": [
+        "Utilities",
+        "Video Production",
+        "Design & Illustration"
+    ],
+    "achievements": 16,
+    "positive_ratings": 170,
+    "negative_ratings": 51,
+    "price": 10.99,
+    "description": "RutonyChat is a program that allows users to capture chat messages and notifications from various streaming platforms and shows them to leading streaming programs or programs for recording video.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/524660/header.jpg?t=1525191025",
+    "minimum_requirements": "OS: Windows Vista, 7, 8, 10 Processor: 1 GHz+ Memory: 512 MB RAM Graphics: Any Network: Broadband Internet connection Storage: 200 MB available space Additional Notes: .NET Framework 4.5.2 (x86!), Adobe Flash for Chrome",
+    "recommended_requirements": "OS: Windows 10 Processor: 1 GHz+ Memory: 1 GB RAM Graphics: Any Network: Broadband Internet connection Storage: 300 MB available space Additional Notes: .NET Framework 4.5.2 (x86!), Adobe Flash for Chrome",
+    "reviews": []
+}

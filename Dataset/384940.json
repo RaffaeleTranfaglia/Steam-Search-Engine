@@ -1,0 +1,44 @@
+{
+    "app_id": 384940,
+    "name": "Magical Brickout",
+    "release_date": "2016-10-17",
+    "developer": [
+        "Cunning Force Games"
+    ],
+    "publisher": [
+        "Cunning Force Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 44,
+    "positive_ratings": 19,
+    "negative_ratings": 4,
+    "price": 5.59,
+    "description": "Magical Brickout offers a new twist on the beloved classic Breakout formula. Instead of moving a small paddle back and forth across the screen you rotate the bricks in a circular fashion as you frantically try to keep the ball in the play area. This fast-paced and addictive gameplay is only half of the fun.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384940/header.jpg?t=1502146645",
+    "minimum_requirements": "OS: Windows XP+ Graphics: DX9 (shader model 2.0) capabilities DirectX: Version 9.0 Storage: 320 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

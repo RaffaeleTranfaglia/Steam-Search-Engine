@@ -1,0 +1,51 @@
+{
+    "app_id": 416180,
+    "name": "Gun Bombers",
+    "release_date": "2016-09-21",
+    "developer": [
+        "Antti Vaihia"
+    ],
+    "publisher": [
+        "Antti Vaihia"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Multiplayer"
+    ],
+    "achievements": 47,
+    "positive_ratings": 34,
+    "negative_ratings": 4,
+    "price": 5.59,
+    "description": "Grab your pickaxe and enter the mines! Search for treasures and fight against other miners in this fast, round-based multiplayer game (up to 10 players over LAN or internet).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/416180/header.jpg?t=1547412424",
+    "minimum_requirements": "OS: Windows XP or greater Processor: i5 @ 2.00 GHz Memory: 2 GB RAM Graphics: Intel HDGraphics or better with DX9 support Storage: 40 MB available space Additional Notes: Monitor with 16:9 aspect ratio recommended",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great multiplayer either co-op teams or total versus mode! I've had so much laughter with this game when played against my friends! Definitely worth the buy!",
+            "review_score": "1"
+        }
+    ]
+}

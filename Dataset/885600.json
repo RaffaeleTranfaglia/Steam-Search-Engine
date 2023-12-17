@@ -1,0 +1,37 @@
+{
+    "app_id": 885600,
+    "name": "Fairyland: Blackberry Warrior",
+    "release_date": "2018-07-16",
+    "developer": [
+        "Naarassusi Game"
+    ],
+    "publisher": [
+        "Naarassusi Publisher"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "This is a Match 3 game, where you need to gather different types of energy to use defending, attacking and other abilities to defeat the enemies and make progress in the storyline.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/885600/header.jpg?t=1540705928",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Graphics: DirectX 9/OpenGL 4.1 capable GPU Storage: 300 MB available space",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+    "reviews": []
+}

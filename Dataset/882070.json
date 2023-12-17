@@ -1,0 +1,38 @@
+{
+    "app_id": 882070,
+    "name": "PlatONIR",
+    "release_date": "2018-07-04",
+    "developer": [
+        "PlatSTUDIO"
+    ],
+    "publisher": [
+        " AFBIK Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 21,
+    "negative_ratings": 14,
+    "price": 0.79,
+    "description": "PlatONIR - is a hardcore-platformer game. Try to open all game levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/882070/header.jpg?t=1531312753",
+    "minimum_requirements": "OS: Windows XP, Vista, 7,8,10 Processor: 2.0 GHz CPU Dual Core Memory: 1024 MB RAM Graphics: 512 MB DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows XP, Vista, 7,8,10 Processor: Core i3 or higher Memory: 1024 MB RAM Graphics: 1024 MB DirectX: Version 9.0 Storage: 100 MB available space",
+    "reviews": []
+}

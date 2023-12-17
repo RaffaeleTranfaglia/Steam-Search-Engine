@@ -1,0 +1,39 @@
+{
+    "app_id": 763010,
+    "name": "Lost In Maze",
+    "release_date": "2017-12-26",
+    "developer": [
+        "Vertexity Studio"
+    ],
+    "publisher": [
+        "Vertexity Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 30,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Will you be able to fully explore each labyrinth and find the key that will get you out? Collect as many gold coins as you can to buy aids in the store that will help you defeat the stronger Slimes at each level.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/763010/header.jpg?t=1516957612",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel or AMD with SSE2 support Memory: 1 GB RAM Graphics: Any with DirectX 9 (minimum 512MB RAM) DirectX: Version 8.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

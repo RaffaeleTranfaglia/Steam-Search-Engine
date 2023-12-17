@@ -1,0 +1,41 @@
+{
+    "app_id": 856550,
+    "name": "Stabby Machine",
+    "release_date": "2018-07-31",
+    "developer": [
+        "Challenge Yourself Gaming"
+    ],
+    "publisher": [
+        "Challenge Yourself Productions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 47,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Fast-paced action survival game! Stay alive by collecting batteries, which are dropped by enemies. You must choose wisely how many enemies to spawn. Too few and you'll run out of batteries, but too many and you'll be overrun! HOW LONG CAN YOU SURVIVE??",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/856550/header.jpg?t=1533029724",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 0.6 GHz or faster Memory: 50 MB RAM Graphics: 2 Gbps or faster (a low end graphics card will do) Storage: 21 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 299400,
+    "name": "XING: The Land Beyond",
+    "release_date": "2017-09-21",
+    "developer": [
+        "White Lotus Interactive"
+    ],
+    "publisher": [
+        "White Lotus Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "VR Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 25,
+    "positive_ratings": 128,
+    "negative_ratings": 17,
+    "price": 14.99,
+    "description": "You died. Welcome to XING: The Land Beyond, an atmospheric first-person puzzle adventure for desktops and virtual reality. Enjoy your peaceful escape from the chaotic world of the living, and travel the lands of the dead.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/299400/header.jpg?t=1549330568",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, or 10 - 64 Bit Processor: Quad Core Intel or AMD Memory: 4 GB RAM Graphics: AMD Radeon HD 7850 or NVIDIA GTX 750Ti DirectX: Version 11 Storage: 9 GB available space Additional Notes: For VR: GTX 970 or AMD 480",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, or 10 - 64 Bit Processor: Intel i5 / AMD FX‑8350 or better Memory: 8 GB RAM Graphics: AMD Radeon RX 480 or NVIDIA GTX 1060 or better DirectX: Version 11 Storage: 9 GB available space Additional Notes: For closer to high end desktop settings in VR (including SSAA) use a GTX 1080",
+    "reviews": []
+}

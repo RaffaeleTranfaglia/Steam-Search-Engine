@@ -1,0 +1,56 @@
+{
+    "app_id": 356180,
+    "name": "Time Machine VR",
+    "release_date": "2016-05-19",
+    "developer": [
+        "Minority Media Inc."
+    ],
+    "publisher": [
+        "Minority Media Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support",
+        "VR Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "VR",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 65,
+    "negative_ratings": 40,
+    "price": 22.99,
+    "description": "You are a time traveller tasked with exploring the Jurassic era and the creatures that once ruled the prehistoric oceans. Use an array of advanced tech tools to track, examine, and discover the scientific secrets of mosasaurs, livyatans, and megalodons, among others!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/356180/header.jpg?t=1530232164",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 4670 (or equivalent) Graphics: GeForce GTX 970 GPU (or equivalent) Additional Notes: Time Machine VR runs on  Rift and HTC Vive headsets. Xbox 360 and Xbox One controllers supported. We have also implemented bug fixes, as well as Canadian French support, and more! For bug reporting, please email <a href=\"mailto:support@weareminority.com\">support@weareminority.com.",
+    "recommended_requirements": "OS: Windows 8 Processor: Intel Core i5 4670 (or equivalent) Graphics: GeForce GTX 980 GPU (or equivalent) Additional Notes: Time Machine VR runs on  Rift and HTC Vive headsets. Xbox 360 and Xbox One controllers supported. We have also implemented bug fixes, as well as Canadian French support, and more! For bug reporting, please email <a href=\"mailto:support@weareminority.com\">support@weareminority.com.",
+    "reviews": [
+        {
+            "review_text": "Its a good game, not great due to a few factors (Vive related). I would recommend it though.   Pro: Pretty good looking game, although no AA. I understand they are worried about frame level droppage.  Re-allignment is easy since its not a room scale game  Cons: I don't like that when you load it drops back to the HTC Vive main room. You should keep the user in the game at all times even when loading. Just show a picture of one of the creatures or something.   The controls for the HTC (touchpad right side mainly) are not accurate enough. You should give the user an option to calibrate. Driving the pod takes some getting use to. I want to move my hands to far in each direction  You don't let the user explore, or if I'm lost trying to find the pad you say 'Out of area' and throw us back at the start. We are capable of going out far and we are sure capable of back tracking :) don't take the freedom away from the user.  Its still fun to explore and I'm sure any dino loving kid will just have a blast! ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After a tweak or two, the game works well. Among the VR games I've seen so far, this one looks like it will be a lot of fun. Very immersive environment.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The controls were poorly designed and obnoxious to use, and this game made me ridiculously motion sick. If you're even a little prone to motion sickness, do not buy this game! I've been fine with every other game, but this game made me feel like I was going to throw up within 15 minutes. I'm a paleontology freak, so I thought I'd love it, but the dinos were kind of dumb and cartoony - not realistic at all like The Blu, which was more what I was expecting.   I rate this game a solid 1/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This made me super motion sick. Did not like the controls",
+            "review_score": "-1"
+        }
+    ]
+}

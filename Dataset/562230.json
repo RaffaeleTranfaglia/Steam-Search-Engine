@@ -1,0 +1,39 @@
+{
+    "app_id": 562230,
+    "name": "Space Tyrant",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Blue Wizard Digital"
+    ],
+    "publisher": [
+        "Blue Wizard Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 31,
+    "positive_ratings": 325,
+    "negative_ratings": 43,
+    "price": 14.99,
+    "description": "Terrorize the galaxy for fun and profit! Space Tyrant is a surprisingly deep beer &amp; pretzels strategy game set in a darkly humorous future. Build a mighty space force, disintegrate peaceful aliens, and rule irresponsibly on your relentless march to total domination.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/562230/header.jpg?t=1519754414",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-Core Intel or AMD CPU supporting Memory: 4 GB RAM Graphics: Discrete GPU with 2GB VRAM DirectX: Version 10 Storage: 2 GB available space Sound Card: on-board sound",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad-Core Intel or AMD CPU supporting Memory: 8 GB RAM Graphics: Discrete GPU with 4GB VRAM DirectX: Version 11 Storage: 2 GB available space Sound Card: Something Tyrannical",
+    "reviews": []
+}

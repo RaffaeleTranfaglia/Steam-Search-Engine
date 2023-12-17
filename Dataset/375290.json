@@ -1,0 +1,46 @@
+{
+    "app_id": 375290,
+    "name": "Superstatic",
+    "release_date": "2015-09-15",
+    "developer": [
+        "Sleepy Studios"
+    ],
+    "publisher": [
+        "Sleepy Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Top-Down Shooter"
+    ],
+    "achievements": 10,
+    "positive_ratings": 20,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Superstatic is a top-down shooter where you're given the ability to possess and control your enemies. Using &quot;copies&quot;, you're able to perform a variety of skills including killing enemies within a certain radius, chaining kills together based on your current combo, teleporting to your copy's position and more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/375290/header.jpg?t=1466013240",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 Processor: 1.7 Ghz or higher Memory: 1 GB RAM Graphics: 512MB or higher Sound Card: OpenAL compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "So remember how hotline miami 2 was awful because it had enormous corridors that you'd get shot just walking down? well this game has those too, but it is ok because you can become a ghost and possess the guards and make them shoot eachother, because you are the top-down shooter equivalent of paxton fettel i guess. so that really kind of fixes that problem!  hotline miami crossed with messiah. it is awesome.",
+            "review_score": "1"
+        }
+    ]
+}

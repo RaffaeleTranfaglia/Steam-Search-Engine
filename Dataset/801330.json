@@ -1,0 +1,39 @@
+{
+    "app_id": 801330,
+    "name": "Monkey Rush",
+    "release_date": "2018-02-24",
+    "developer": [
+        "KILLZONE"
+    ],
+    "publisher": [
+        "KILLZONE"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Dive into adventure with the main character Maka, immerse yourself in beautiful worlds and defeat all the enemies!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/801330/header.jpg?t=1519467083",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Core 2 duo (support SSE2) Memory: 512 MB RAM Graphics: Intel HD Graphics (DX9 (shader 3.0) or DX11 with support level 9.3) Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows XP SP2+ Processor: Core i3 (support SSE2) Memory: 2 GB RAM Graphics: Intel HD Graphics (DX9 (shader 3.0) or DX11 with support level 9.3) Storage: 150 MB available space",
+    "reviews": []
+}

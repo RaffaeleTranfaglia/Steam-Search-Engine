@@ -1,0 +1,43 @@
+{
+    "app_id": 397160,
+    "name": "Aurora Dusk: Steam Age",
+    "release_date": "2019-03-08",
+    "developer": [
+        "Sylvain Harlaut"
+    ],
+    "publisher": [
+        "Sylvain Harlaut"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 27,
+    "positive_ratings": 148,
+    "negative_ratings": 29,
+    "price": 6.99,
+    "description": "An amazing mix of RPG, strategy, simulation, sandbox and survival game. Aurora Dusk looks like many other games, but instead of being alone, you live in a community. You can play one or more villagers and evolve from the Wood Age to the Steam Age.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/397160/header.jpg?t=1554324834",
+    "minimum_requirements": "OS: Microsoft Windows XP, Vista, Windows 7, Windows 8.x, Windows 10 Processor: 2,33 GHz Memory: 2 GB RAM DirectX: Version 9.0 Storage: 240 MB available space",
+    "recommended_requirements": "OS: Microsoft Windows Vista, Windows 7, Windows 8.x, Windows 10 Processor: dual core 2,33 GHz Memory: 6 GB RAM DirectX: Version 12 Network: Broadband Internet connection Storage: 240 MB available space",
+    "reviews": []
+}

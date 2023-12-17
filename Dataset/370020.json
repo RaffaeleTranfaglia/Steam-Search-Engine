@@ -1,0 +1,43 @@
+{
+    "app_id": 370020,
+    "name": "Templar Battleforce",
+    "release_date": "2015-09-21",
+    "developer": [
+        "Trese Brothers"
+    ],
+    "publisher": [
+        "Trese Brothers"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 51,
+    "positive_ratings": 681,
+    "negative_ratings": 39,
+    "price": 6.99,
+    "description": "Templar Battleforce is an addictive mix of strategic combat and army building with the precision of an RPG. Step into the pilot suit of a Leviathan mech and lead the Templar Knights in battle against fierce enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370020/header.jpg?t=1509588864",
+    "minimum_requirements": "OS: Windows XP, Windos Vista, or Windows 7 / 8 / 10 Graphics: Requires OpenGL 2.0 or higher Storage: 200 MB available space Additional Notes: Requires MS Visual Studio C++ Runtime 2012 x86",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 319970,
+    "name": "The Detail",
+    "release_date": "2014-10-28",
+    "developer": [
+        "Rival Games Ltd"
+    ],
+    "publisher": [
+        "Rival Games Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 55,
+    "positive_ratings": 403,
+    "negative_ratings": 143,
+    "price": 2.09,
+    "description": "The Detail, a crime noir adventure in a modern American city. This is a city where cases matter, clearance rates matter, and on a good day even justice matters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/319970/header.jpg?t=1529997401",
+    "minimum_requirements": "OS: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10 Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work. DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

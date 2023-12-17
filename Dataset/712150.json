@@ -1,0 +1,42 @@
+{
+    "app_id": 712150,
+    "name": "TankVR",
+    "release_date": "2017-10-09",
+    "developer": [
+        "Daniel Bedrich"
+    ],
+    "publisher": [
+        "dochengmedia"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 26,
+    "positive_ratings": 12,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "TankVR is a open world arcade tank game, where you have to destroy all hostile tanks. The objective is to destroy all tanks on the map. After the game is finished, your score is now shown in the leaderboard. Challenge your friends, if you are brave enough.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/712150/header.jpg?t=1549036187",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-4570 Memory: 8 GB RAM Graphics: Nvidia GTX 980 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-6700K Memory: 16 GB RAM Graphics: Nvidia GTX 1070 DirectX: Version 11 Storage: 1 GB available space",
+    "reviews": []
+}

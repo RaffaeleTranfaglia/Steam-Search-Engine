@@ -1,0 +1,46 @@
+{
+    "app_id": 425450,
+    "name": "GoatPunks",
+    "release_date": "2018-11-29",
+    "developer": [
+        "Alberto Santiago"
+    ],
+    "publisher": [
+        "Studio Canvas"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 63,
+    "positive_ratings": 17,
+    "negative_ratings": 7,
+    "price": 7.19,
+    "description": "GoatPunks is a rip-roaring king of the hill multiplayer game of goats, mountains, fireballs and good ole head-butting action. Can you hoof it to the top and stay there?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/425450/header.jpg?t=1543558194",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Atom x5 Z8300 / 1.44 GHz Memory: 2 GB RAM Graphics: Intel HD Graphics Storage: 400 MB available space Additional Notes: Tested on Intel Compute Stick STK2M3W64CC (Requires x64 Version of GoatPunks), STK1AW32SC (Requires x86 Version of GoatPunks)",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7-6770HQ / 2.60 Ghz Memory: 8 GB RAM Graphics: Intel Iris Pro Graphics 580 Storage: 400 MB available space Additional Notes: Tested on Intel Skull Canyon NUC",
+    "reviews": []
+}

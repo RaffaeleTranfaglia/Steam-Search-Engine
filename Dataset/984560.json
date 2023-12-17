@@ -1,0 +1,42 @@
+{
+    "app_id": 984560,
+    "name": "HEARTBEAT",
+    "release_date": "2018-12-12",
+    "developer": [
+        "CHUMBOSOFT LLC"
+    ],
+    "publisher": [
+        "CHUMBOSOFT LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 34,
+    "positive_ratings": 181,
+    "negative_ratings": 4,
+    "price": 11.39,
+    "description": "Make friends, make enemies, go fishing, collect cards, beat up sharks, beat up tigers, obtain the denim blade, train a fuzzy infantile insect for battle, and uncover ancient secrets in this monster-filled adventure.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/984560/header.jpg?t=1545874354",
+    "minimum_requirements": "OS: Microsoft® Windows® 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better",
+    "recommended_requirements": null,
+    "reviews": []
+}

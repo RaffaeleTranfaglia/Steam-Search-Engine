@@ -1,0 +1,42 @@
+{
+    "app_id": 780350,
+    "name": "Unruly Heroes",
+    "release_date": "2019-01-23",
+    "developer": [
+        "Magic Design Studios"
+    ],
+    "publisher": [
+        "Magic Design Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 26,
+    "positive_ratings": 194,
+    "negative_ratings": 45,
+    "price": 17.99,
+    "description": "Madcap Action, Martial Arts, Monkey King and More!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/780350/header.jpg?t=1555666886",
+    "minimum_requirements": "OS: Windows 7 (32/64bit versions) Processor: Intel Core i3 2100 Memory: 4 GB RAM Graphics: nVidia GeForce  GeForce GTX 650 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

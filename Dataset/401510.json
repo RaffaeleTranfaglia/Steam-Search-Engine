@@ -1,0 +1,45 @@
+{
+    "app_id": 401510,
+    "name": "Lavapools",
+    "release_date": "2016-05-04",
+    "developer": [
+        "4EdgesGames",
+        "Visumeca"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 7,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Dodge death in a rising hell! No weapons. Only dodging, pure skill and understanding regular patterns.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/401510/header.jpg?t=1555323320",
+    "minimum_requirements": "OS: Windows XP, Vista, 7+ Processor: 2 GHz Memory: 2 GB RAM Graphics: 512 MB NVIDIA GeForce 8800GS / ATI Radeon HD 3870 or better DirectX: Version 9.0c Storage: 100 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Silly, Fun, well polished, hardcore game.  GOD DAMN IT SCROLLING LEVEL xD",
+            "review_score": "1"
+        }
+    ]
+}

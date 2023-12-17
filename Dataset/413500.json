@@ -1,0 +1,69 @@
+{
+    "app_id": 413500,
+    "name": "Rocket Fist",
+    "release_date": "2016-05-12",
+    "developer": [
+        "Daniel Snd",
+        "Thiago Adamo",
+        "Bitten Toast Games Inc."
+    ],
+    "publisher": [
+        "Bitten Toast Games Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "4 Player Local"
+    ],
+    "achievements": 30,
+    "positive_ratings": 60,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Rocket Fist is an arena game with crazy robots in chaotic rocket fist battles. Aim against your frenemies and prove your dexterity by killing each other with rocket propelled fists in this frenetic mix of dodgeball and billiards!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/413500/header.jpg?t=1496011582",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium Dual-Core E5200 (2.5GHz) or equivalent Memory: 2 GB RAM Graphics: DirectX 9.0c compatible graphics card DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Intel Core i5 or higher Memory: 4 GB RAM Graphics: Geforce GT 740 / Radeon R7 250 or above DirectX: Version 10 Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "A Rocket Fist-ful of fun!  Simple, but so, so brilliant. Can't wait to get 3 friends over and couch it up!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great LAN party game, great mechanics!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Very fluid controls and great feel. Ansolutely love that there is local multiplayer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  This game is extremely polished and very fun. The simple controls allow you to focus on the action. Many laughs were shared.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Love this game! The characters are fun and simple but hard to master. The enemy Ai is fantastic, it starts easy and gets really tough. I've played this a lot on my other account as well.   Fun party game for all ages! Highly Reccomend!",
+            "review_score": "1"
+        }
+    ]
+}

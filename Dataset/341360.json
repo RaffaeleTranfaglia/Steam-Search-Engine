@@ -1,0 +1,46 @@
+{
+    "app_id": 341360,
+    "name": "Paparazzi",
+    "release_date": "2015-02-17",
+    "developer": [
+        "Pringo Dingo Games"
+    ],
+    "publisher": [
+        "Pringo Dingo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Funny"
+    ],
+    "achievements": 12,
+    "positive_ratings": 9,
+    "negative_ratings": 7,
+    "price": 1.59,
+    "description": "Catch the celebrity.Avoid the paparazzi.Paparazzi is a local multiplayer game of cat-and-mouse. The celebrity runs, dashes, and hides while the paparazzi tries to take constant photos of them. It's a simple yet competitive arcade-action game with a Where's Waldo feel.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/341360/header.jpg?t=1447366740",
+    "minimum_requirements": "OS: Windows XP+ Processor: 1 Ghz or faster Memory: 512 MB RAM",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Why rate negative? This is THE game that teaches us how to survive in a world of r/c aerial drones. Apparently.",
+            "review_score": "1"
+        }
+    ]
+}

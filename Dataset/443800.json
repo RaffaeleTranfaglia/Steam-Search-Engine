@@ -1,0 +1,57 @@
+{
+    "app_id": 443800,
+    "name": "Ruckus Ridge VR Party",
+    "release_date": "2016-04-05",
+    "developer": [
+        "Foreignvr"
+    ],
+    "publisher": [
+        "Foreignvr"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "VR Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 34,
+    "negative_ratings": 17,
+    "price": 6.99,
+    "description": "Ruckus Ridge VR Party is the first local multiplayer game built for HTC Vive &amp; Oculus Rift. Play in Virtual Reality against up to 3 friends with game controllers. Duke it out in a tournament of mini-games to see who is the King of the Ridge!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/443800/header.jpg?t=1459903536",
+    "minimum_requirements": "OS: Windows 7 Processor: i7-3770 Memory: 4 GB RAM Graphics: GeForce 960 DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: i5-4590 Memory: 4 GB RAM Graphics: GeForce 970 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "Pretty good for a party, but would be much better with more players.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game's not as much fun as I thought it would be. It kinda feels more like a 'Guy in VR headset beats up his friends' type of game more than a fair and balanced set of mingiames. I've had a lot of fun with it so far anyway, though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great party game, we played with Vive and several 360 controllers. Wish there were more games like this!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There is no content here. This is the same mini game over and over again with slight differences in the backdrop. It was boring within 10 minutes. And why on earth does it say 'Hold A button to start' when I am in the HMD? There is no A button on the Vive controllers. That just seems lazy. And no matter which option I select for amount of turns in the HMD, it changes after every round. Super buggy this game is.",
+            "review_score": "-1"
+        }
+    ]
+}

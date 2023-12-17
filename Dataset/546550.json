@@ -1,0 +1,40 @@
+{
+    "app_id": 546550,
+    "name": "Snowball!",
+    "release_date": "2016-12-16",
+    "developer": [
+        "Pixeljam"
+    ],
+    "publisher": [
+        "Pixeljam"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Pinball"
+    ],
+    "achievements": 9,
+    "positive_ratings": 70,
+    "negative_ratings": 7,
+    "price": 1.99,
+    "description": ". . .. ... ......A homegrown, hand-cranked winter pinball adventure. Send your behemoth snow spheres through a bobsled maze of snowbanks, homemade wooden paddles, Tesla coils, igloos, railcars and more... ... .. . .",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/546550/header.jpg?t=1518459296",
+    "minimum_requirements": "OS: Windows 8 Processor: 1 Ghz CPU Memory: 150 MB RAM Storage: 20 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

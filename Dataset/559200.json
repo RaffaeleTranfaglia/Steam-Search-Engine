@@ -1,0 +1,37 @@
+{
+    "app_id": 559200,
+    "name": "Danny's War",
+    "release_date": "2016-11-23",
+    "developer": [
+        "NedoStudio"
+    ],
+    "publisher": [
+        "NedoStudio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 4,
+    "price": 1.59,
+    "description": "Repel the attack of enemy robots. Get the money and stars from each successful shot. Upgrade your weapons and your defense.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/559200/header.jpg?t=1554111809",
+    "minimum_requirements": "OS: Windows 7, Windows 10 Processor: 1.6 Ghz Memory: 1 GB RAM Graphics: 1GB Storage: 270 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

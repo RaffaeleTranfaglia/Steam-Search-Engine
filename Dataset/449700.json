@@ -1,0 +1,43 @@
+{
+    "app_id": 449700,
+    "name": "Ariel",
+    "release_date": "2017-07-11",
+    "developer": [
+        "Nuclear Fiction"
+    ],
+    "publisher": [
+        "Nuclear Fiction"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 38,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Intense survival experience based on a Sci-Fi, space terror script. Unravel the story of Ferdinand Ludec as he attempts to escape his fortune. Partially procedural world along with different endings to the story. Hunger, avoiding insanity and extreme weather will only be some of the threats to face.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/449700/header.jpg?t=1548208617",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 3.00 GHz or AMD equivalent Memory: 6 GB RAM Graphics: NVIDIA GTX 650Ti or higher DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

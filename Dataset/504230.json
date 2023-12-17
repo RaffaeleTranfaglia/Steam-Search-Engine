@@ -1,0 +1,43 @@
+{
+    "app_id": 504230,
+    "name": "Celeste",
+    "release_date": "2018-01-25",
+    "developer": [
+        "Matt Makes Games Inc."
+    ],
+    "publisher": [
+        "Matt Makes Games Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Platformer",
+        "Pixel Graphics",
+        "Difficult"
+    ],
+    "achievements": 30,
+    "positive_ratings": 7239,
+    "negative_ratings": 206,
+    "price": 14.99,
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504230/header.jpg?t=1547237854",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i3 M380 Memory: 2 GB RAM Graphics: Intel HD 4000 DirectX: Version 10 Storage: 1200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

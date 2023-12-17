@@ -1,0 +1,53 @@
+{
+    "app_id": 521130,
+    "name": "Dots eXtreme",
+    "release_date": "2016-09-13",
+    "developer": [
+        "Starwind Games"
+    ],
+    "publisher": [
+        "Starwind Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 9,
+    "positive_ratings": 75,
+    "negative_ratings": 8,
+    "price": 1.59,
+    "description": "Dots eXtreme is a classic dots puzzle with large boards and increased difficulty level. Connect matching colors and shapes in the new dots puzzle with board size up to 20x20.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/521130/header.jpg?t=1497184646",
+    "minimum_requirements": "Minimi: Sistema operativo: Windows Vista Processore: Intel Celeron or AMD Athlon II X2/A-series Memoria: 2 GB di RAM Scheda video: Intel Graphics 3000 or later, any NVidia/AMD card Memoria: 80 MB di spazio disponibile Scheda audio: Built-in sound card",
+    "recommended_requirements": "Consigliati: Sistema operativo: Windows 7 Processore: Intel Pentium or AMD Athlon II X3/A-series Memoria: 4 GB di RAM Scheda video: Intel Graphics 4000 or later, any NVidia/AMD card Memoria: 80 MB di spazio disponibile Scheda audio: Built-in sound card",
+    "reviews": [
+        {
+            "review_text": "This game is absolutely astonishing. The visuals, the immersive audio, it makes you feel as if youre in a real battlefield! Sometimes when you actually complete a puzzle, the game doesnt register that youve won, making progression impossible. However this doesnt matter as the the immersive gameplay and voice acting completely makes up for it! 10/10 would connect dots again. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple and fun game that actually requires using your brain. Worth the money to buy.",
+            "review_score": "1"
+        }
+    ]
+}

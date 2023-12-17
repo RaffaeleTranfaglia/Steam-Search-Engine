@@ -1,0 +1,45 @@
+{
+    "app_id": 683790,
+    "name": "Tractorball",
+    "release_date": "2017-10-04",
+    "developer": [
+        "Ninja Whale Studios"
+    ],
+    "publisher": [
+        "Ninja Whale Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Local Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 38,
+    "positive_ratings": 11,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "Strap into a souped up farm tractor with an added rocket engine and a huge flipper on the front, engage in a game of super sized football and hunt your opponents with a huge array of dirty tricks.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/683790/header.jpg?t=1511263345",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer, 64 bit Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: Nvidia GeForce GTX970, AMD Radeon R9 290 equivalent or greater DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

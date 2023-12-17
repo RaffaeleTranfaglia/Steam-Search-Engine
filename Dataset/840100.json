@@ -1,0 +1,41 @@
+{
+    "app_id": 840100,
+    "name": "Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸",
+    "release_date": "2018-04-27",
+    "developer": [
+        "オートリ電子"
+    ],
+    "publisher": [
+        "オートリ電子",
+        "Gamera Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 10,
+    "positive_ratings": 95,
+    "negative_ratings": 21,
+    "price": 9.29,
+    "description": "A side-scrolling tactical RPG where elevation is the key to victory!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840100/header.jpg?t=1549319665",
+    "minimum_requirements": "最低配備: 作業系統: Windows10 處理器: Intel Core i5 顯示卡: NVIDIA GeForce GT 1030 儲存空間: 300 MB 可用空間 備註: made with Unity",
+    "recommended_requirements": null,
+    "reviews": []
+}

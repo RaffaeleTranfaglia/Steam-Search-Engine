@@ -1,0 +1,45 @@
+{
+    "app_id": 441640,
+    "name": "VALENS",
+    "release_date": "2016-02-18",
+    "developer": [
+        "Digitallion"
+    ],
+    "publisher": [
+        "Digitallion"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "RPG",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 13,
+    "price": 5.59,
+    "description": "Race for survival in the most dangerous corners of the galaxy. Fierce races are held on mysterious planets and satellites, space stations, and in abandoned mines of asteroids. Upgrade your Hover right during the race in the pit stops.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/441640/header.jpg?t=1455821740",
+    "minimum_requirements": "OS: Windows Vista/7/8 Processor: Intel or AMD 2.0-3.4 GHz Dual Core Memory: 4 GB RAM Graphics: 512 mb, Directx 9.0c SM 3.0 DirectX: Version 9.0 Storage: 500 MB available space Sound Card: Soundblaster compatible soundcard",
+    "recommended_requirements": "OS: Windows Vista/7/8 Processor: Intel/AMD 3.0+ GHz Quad Core or Greater Memory: 8 GB RAM Graphics: 1GB Nvidia GT/GTS or ATI Radeon HD Storage: 500 MB available space Sound Card: Soundblaster compatible soundcard",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 587450,
+    "name": "Saurian",
+    "release_date": "2017-08-02",
+    "developer": [
+        "Urvogel Games, LLC"
+    ],
+    "publisher": [
+        "Urvogel Games, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Dinosaurs"
+    ],
+    "achievements": 12,
+    "positive_ratings": 605,
+    "negative_ratings": 280,
+    "price": 14.99,
+    "description": "Saurian is a survival-simulation experience about living the life of a dinosaur. Starting from the egg, you must survive to adulthood amidst the perilous Hell Creek ecosystem of 66 million years ago, meticulously reconstructed with the help of professional paleontologists.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/587450/header.jpg?t=1526874642",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 64-bit Processor: Intel Core i5 760 2.80GHz or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 670 or equivalent DirectX: Version 11 Storage: 5 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7/8/10 64-bit Processor: Intel Core i7-4790K 4.10GHz or equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 or equivalent DirectX: Version 11 Storage: 5 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "reviews": []
+}

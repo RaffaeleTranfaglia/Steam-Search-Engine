@@ -1,0 +1,42 @@
+{
+    "app_id": 911050,
+    "name": "Holiday Escape",
+    "release_date": "2018-08-18",
+    "developer": [
+        "Kit Gardner",
+        "Sam Robinson",
+        "Holly Gardner",
+        "Jason Runkel",
+        "Tommy Yoder",
+        "Josh Perusse"
+    ],
+    "publisher": [
+        "None"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "Holiday Escape is a casual game in which you play a snowman trying to outrun a large snow ball while grabbing as many ornaments and presents as possible to spread holiday cheer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/911050/header.jpg?t=1534599454",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel® Core™ i3-7100H Processor Memory: 4 GB RAM Graphics: Nvidia GeForce GT 710 DirectX: Version 10 Storage: 173.8 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz (8 CPUs), ~2.8GHz Memory: 12 GB RAM Graphics: Radeon(TM) RX 580 DirectX: Version 12 Storage: 173.8 MB available space",
+    "reviews": []
+}

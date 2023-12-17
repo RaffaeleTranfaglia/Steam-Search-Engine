@@ -1,0 +1,46 @@
+{
+    "app_id": 340560,
+    "name": "Wanted Corp.",
+    "release_date": "2016-12-08",
+    "developer": [
+        "Eko Software"
+    ],
+    "publisher": [
+        "Eko Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Online Co-Op",
+        "Local Co-Op"
+    ],
+    "achievements": 35,
+    "positive_ratings": 4,
+    "negative_ratings": 6,
+    "price": 8.99,
+    "description": "Wanted Corp is a top-down action game in which you play as two intergalactic bounty hunters with different powers. Play solo or with a friend, locally or on-line and team up to survive! The hunt is on!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/340560/header.jpg?t=1481207031",
+    "minimum_requirements": "OS: Microsoft Windows Processor: Intel(R) Core(TM)2 Duo CPU Memory: 4 GB RAM Graphics: DirectX 9 graphics card with 512Mb Video RAM DirectX: Version 9.0c Storage: 4 GB available space Sound Card: DirectX 9 Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

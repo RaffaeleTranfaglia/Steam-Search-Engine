@@ -1,0 +1,38 @@
+{
+    "app_id": 504840,
+    "name": "Brick Stack VR",
+    "release_date": "2016-07-26",
+    "developer": [
+        "Andrew French"
+    ],
+    "publisher": [
+        "Andrew French"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 2.79,
+    "description": "Surround yourself by three walls of falling bricks as you work as fast as you can to clear them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504840/header.jpg?t=1483506985",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Intel® i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalent or better Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

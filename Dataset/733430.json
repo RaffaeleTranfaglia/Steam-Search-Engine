@@ -1,0 +1,42 @@
+{
+    "app_id": 733430,
+    "name": "The Escape",
+    "release_date": "2017-12-29",
+    "developer": [
+        "The Escape Team"
+    ],
+    "publisher": [
+        "The Escape Team"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 19,
+    "positive_ratings": 12,
+    "negative_ratings": 13,
+    "price": 5.19,
+    "description": "The Escape is a challenging online co-op strategy game for up to 4-players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/733430/header.jpg?t=1519764133",
+    "minimum_requirements": "OS: Windows 7, Windows 8.1, Windows 10 Processor: Intel Core i3-4340 / AMD FX-6300 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

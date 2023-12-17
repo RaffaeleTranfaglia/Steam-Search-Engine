@@ -1,0 +1,608 @@
+{
+    "app_id": 251170,
+    "name": "Damned",
+    "release_date": "2014-10-06",
+    "developer": [
+        "9heads Game Studios"
+    ],
+    "publisher": [
+        "9heads Game Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Horror",
+        "Multiplayer",
+        "Co-op"
+    ],
+    "achievements": 37,
+    "positive_ratings": 2538,
+    "negative_ratings": 974,
+    "price": 15.49,
+    "description": "Damned: A Randomized Online Horror Game - What is Damned? Damned is a randomized online horror game for up to 5 players (4 survivors and 1 monster). You’ll be able to play as one of four people trapped in different haunted places (hotels, hospitals, etc).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/251170/header.jpg?t=1447358637",
+    "minimum_requirements": "OS: Windows Vista Processor: 2.0+ GHz (quad core recommended); Memory: 3 GB RAM Graphics: ATI Radeon HD 2000+, nVidia GeForce FX 6 series DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 3.0+ GHz (quad core) Memory: 4 GB RAM Graphics: Radeon HD 4850, GeForce GT 645M DirectX: Version 9.0 Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "Damned is a really great concept but an absolutely horrendous execution. I picked this game up years ago and had a blast, and probably even now I could boot it up with some friends and still have a blast, that's just how amazing the concept of a 4v1 asymmetrical horror survival game is.  The main strength this game had was that it filled a niche that nobody else filled, yes, it was bug-ridden, yes it has janky animations, and yes, it's unbalanced to all hell, but that was fine, because it was still fun at the end of the day, it was still playable.  Back then we thought they'll fix it, you know. We thought they'll fix up the bugs, add some more features and this game is gonna be great. Well, they added stuff, yes, and they fixed some bugs, but... the core game is still a mess. They also seemingly stopped updating the game, or if anything, they update at such a slow pace that it's hardly worth it anymore. Certain monsters are blatantly broken on certain maps, I'm fairly certain you can get stuck because keys don't always spawn properly and that's not to mention the many other different issues this game has, like performance, hit detection or the fact that you sometimes cannot loot vital items from a dead player's corpse.  Sadly, with the release of Dead By Daylight coming up, I see no hope for this anymore. I've said earlier that the main thing this had going was that it filled a niche single-handedly, but Dead By Daylight, (albeit not without it's own problems) is essentially a less frustrating, more polished version of Damned, that I recommend everyone check out now that Damned is basically, well, 'Damned'.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "REALLY fun and addicting. Friend told me about this game and I picked it up on sale. First session was 5 hours straight, (other than the game crashes). It is crazy buggy, though. Feels less stable than most Early Access games I've played, but still, even with the bugs and crashes, this game is worth playing.  Very fun, scary, and hilarious laughing at eachother after a good jump.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Makes grown men scream like little girls. Limited options for monsters, but who cares when you can scare the pants off your friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In all honesty underneath the not-so polished graphics lies a game that is well worth playing. Teamwork and communication is required of the survivors which is why I recommend this game if you have a group of friends to play it with. The game is slow paced in terms of gameplay so if you're looking for something faster this may not be the game for you, but the slowness factor does add into the fear that the survivors feel which I feel is what the main focus of a horror game should be. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "if you played this game and don't like it, you're wrong.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "DO NOT BUY THIS GAME! It is completely UNPLAYABLE as it currently stands. There are so many bugs and straight out malfunctions that you probably won't even be able to start the game, let alone play it. If you don't believe me, just check out the Steam forum. It´s not really a good sign if every single thread is about how something (or everything) is not working correctly or at all.  I'll come back and change my opinion if they ever get this game even remotely playable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Walked into escape room Called everyone over Lurker spawned Closed door Everyone died Escaped  10/10 Would abandon all my friends again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Traverse rooms with randomly generated amount of chairs in your way and then get insta-killed by invisible ghost or something... Requires registering a third-party account to play. Runs at 15 fps on gtx770 regardless of settings. In-game voice chat is choppy and incomprehansibe half of the time. Sends a crash report every time I exit the game, lol. Should not be sold for any price, it belongs to free half-life mod tier or some amateur Unity project showcase. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game has a really nice concept. Everyone wants to scare the ♥♥♥♥ out of their friends meaning it has great potential. However, due to it being early access, it is probably the most delicate game i have ever played and is buggy as ♥♥♥♥. Although this is understandable for an early access game, it is rarely updated and progress is not nearly quick enough. Because of this, i dont think it will ever be realeased and is gonna die a slow death...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "You start out as the vicious killer ghost who gives mercy to none. However, the longer you play as the monster, the more you begin to develop pinache. Don't just kill your friends... scare them. That's what this game does perfectly, allowing you the ability to distract them, making them feel helpless and hopeless. Damned is a hell of a game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would die with a scream in my throat, insanity-blurred vision, and pee running down my leg again.   Alternatively,   10/10 would whisper creepy nonsense to the scurrying humans while hunting them through an asylum again.  Really though, it could still use some polish. Getting everyone loaded into lobbies properly needs a bit of work, the mechanic for opening doors is often frustrating (though that adds to the tension) and there's really no hand holding, but after 2 hours of play with some friends I was getting the hand of both sides and it had my pulse racing like no other game in recent memory.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damned one of the addictive and funny mp game.It's totally worth to your money.Plus bring your friend ıt will be insanely funny!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a great game to play with friends. It is very fun being a monster, moreso when you mess with the survivors rather than trying to kill them every chance you get. Playing as a survivor will get your heart racing and wake your roomates. The ambiance adds a serious chill to the air as you desperately look for items to aid in the escape, all the while being on your toes looking out for the monster. Swinging your mouse to open doors and cabinets like the Penumbra games gives you more control, and more chances to make mistakes trying to slam doors on chasing monsters. Sounds like a game to give a whirl right?   Not so fast.   You might want to rethink that purchase. This game is absolutely loaded with problems, mainly with nuances in the design and the framework of the game itself. Right off the bat, this game is written in Python, meaning you will have to install Python first, however Damned will install Python for you. After installation you may have to restart your computer to fix any initial problems you run into. Restarting a machine to get a video game to work is unacceptable in this day and age. This game is not optimized very well. High shadows, lighting, or AA will tax some machines more than it should with unremarkable differences in the quality of the graphics. Connection issues can be spontaneous, and freezing can at some times be common. This game has moods. One day it will work relatively fine, the next it won't. Hope you like verifying your game files, because you will be doing that a lot with this game, and you will almost always find at least one file missing. Even after reacquiring that missing file your game may still not work properly. It's not uncommon to spend more time than should be necessary just to get everyone to join the game proper.  This game has horrible balancing issues. The monsters are quite powerful, with some maps making it just downright impossible to win as survivors. There are no limits to setting traps as the monsters, and there are loads of things that can be trapped. Many maps have narrow corridors with overhanging lights that can be trapped and impossible to avoid. Survivors also have no way of knowing what is trapped without springing it. In order for the survivors to win, they must find the silver key, hammer/crowbar, and the actual escape door, all while avoiding the monster. The key and tools however are usually behind some locked door which requires some other key to open. Of course there is no indication of what keys open what, with some levels having many locked doors and you will find yourself running back and forth looking in every nook and cranny for every key you can find and testing them on many doors until you can open one. Insanity, the condition set upon survivors as the game drags on, is designed to keep survivors moving, but uses cheap jump scares and annoying hands to do the job. Also darkens the screen or flickers the flashlight sometimes which is actually nice. The maps are dreary, abandoned, gritty, dark places, a staple of horror. But they can also be confusing and tedious, especially when trying to find that one key to open that one door. Of the 11 maps, 3 are in an asylum. Sometimes items may glitch out and cant be picked up, or cabinet doors that's shouldn't be locked won't open. There are also jack-o-lanterns all over the place. Is this a halloween or horror game?   Even after all this, I would still recommend the game if not for one thing: The asking price. $20 USD is highway robbery for a game in as bad a state as this. Maybe the developers believe they put in effort worthy of selling for $20. I don't see it.   Buy this game? No. Sit on it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really, really want to like this game and recommend it, but Damned has a range of bugs and glitches between a 7/15fps lock, monster glitches, other performance issues even on high-end PCs. The development of this game has been far too slow with updates not happening for months, and a promise to fix performance issues in 2014 but still hasn't been fixed as of 2016. The community has pretty much completely disappeared, so unless you're lucky and find an open server or have friends to play with you won't be getting very much game play out of this. I only decided to write this review because of how awful the performance bug is. I was originally running about 25fps, not good because my computer isn't great, but playable. Today I get on and I'm locked on 7fps. No updates since the last time I played was a week ago, Now in order to play with my friends I have to go through some annoying methods to try and unlock the fps. Uninstalling, restarting PC, reinstalling, adjusting settings both in an out of the game, I really enjoy the game when it runs well and when my friends play, but dealing with the bugs and stuff is incredibly annoying, and requires a ton of patience. Therefore, I cannot recommend this game to anyone for the price it is. If it ends up on sale and your friends have it, it may be worth the try. Maybe.  Edit: After doing all the stuff to reset the framerate I now run 60fps, so my frames have been consistantly dropping.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Got it through Humble Bundle, so it was cheap as dirt, but even dirt can be too expensive at times.  The game is horribly optimized, as it FPS-lagged like hell for me and the random people I was playing with. Moving the camera with the mouse was unbearably laggy and, without any better words to describe it, 'twitchy'. This would lead to deaths and getting stuck in spectator mode, which in turn bugged out only allowing watching the game from the death camera of another player.  From what I understand it's basically an item-finding game, where you walk around a map looking for very small items that you can use to progress to the end of the level. Even without the monster to harrass you all the time, it's very hard, tedious and sadly also very boring. The premise wears out very quick, as it's basically just another Slender clone with new monsters and a multiplayer mode built on top.  In the small amount of time I played the game I got it to crash 6 times, mostly when joining a server and getting stuck in the 'Waiting for host to start the game' screen.  I can't see anyone paying 20€ (or actually paying any sort of money) for this in its current state, so if you're interested, get it now while it's on Humble Bundle for the average price of the pack. Or, much rather, don't. It's not worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "At least it's not Five Nights At Freddy's.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is alot fo fun, especially when you get a group of friends to play lol",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would recomend this game...but it just isn't balanced. It does offer very intense game play, but the excesive radomization means that winning as a survivor sometimes isn't even possible. Slenderman is free, save your money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Damned, quite literally, is what you get when you take the concept of Evolve and make it pure Survival Horror. Everything is randomized, so no two games will be the same. The atmosphere of the game alone is enough to get your heart pounding (Assuming you have your gamma setting where it should be), and the Monsters available at the moment are scary. When I say Scary, I mean it. One Jump scares, another paces around 'blindly', and the other Stalks you with traps. Not only is this game scary, but it is a blast to play with friends (So much Trolling and purposeful scares without wanting to kill them yet). To think that this game is in Beta, it makes me anticipate what more they could add to such an already great game. Personally, I love it, and I recommend it to everyone. Just be warned when I say this is a great Horror game. If you do not like horror, don't get it. The biggest downside i see is that it is online only, but that is the premise of the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " Recomended only for horror fans!  Read my rating!  This game is gona be good one day... but now (04.05.2015) it's fustrating sometimes how many bug or error in it! The game in current state not more than a nice attempt to become what the game wanted to! There are a lot of bug (network errors, character bugs, even the moving is not smooth)in this game what it needs to be fix! But If the developers fix these the game will be much better I'm waiting for this because, this game has so much potential! I'm cheering for the developers to fix and put new content to the game asap. I know it's hard because I heard only few people working on this project. But I'm hopeing.. cuz I'm a big fan of the game types of like this!   Negative:  - repetitive models on the maps - lot of fustrating bug (loading &amp; network errors, in game graphics bugs, characters bugs) - bad implementing - game graphics - random laggs and FPS drops - tearing graphics - control isuess - repetitive gameplay - no gamepad support - the lack of HUD - primitive user interface - wrong choice of in game font type! - game mechanich and balance - it feels like a unfinished Alpha game!  - One of that games that try to deliver on their promises.(little success) - Price   Positive:  - interesting concept &amp; idea - good music &amp; audio - nice effects - cozy environment",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Broken beyond belief. If the networking actually worked, it would be worth the $20 price tag. Also, it crashes before the host starts the game. Not worth $20 for a game that acts like it's in pre-alpha stage.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Maybe if I could get more than 2 FPS on my dedicated gaming PC this game would be worth while. Running in pygame, no optimization, runs at 2 FPS on the CPU. PASS.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "good lawd, crash simulator 2015 10/10 will crash again and again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a good game. But why do so few people play ?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The controls are clumsy and it was way too dark. My friends and I barely had to spend any time in the game to find out how bad it is. Definitely not worth the hard drive space.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game is a lot of fun, but many bugs still need to be fix.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mary Stalked me..... I nearly ♥♥♥♥♥ed my pants while one of my friends talked me into staying into staying in the game. 10 mins into the game, i saw Mary. My friend closed a door hideing i ran away from Mary. I found my friend again. He was in a room i told him Mary was there we ran. We looked at Mary Comming closer to us. I Ran he stayed. He Ran into a room. Mary Came like Usain Bolt and killed me. 2 Secs later my Friend died by Usain Bolt.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pros: multiplayer actually scary (I turn my gamma WAY too low intentionally) very fun (when it actually runs)  NOW, THIS IS WHAT YOU REALLY WANNA HEAR: cons: buggy as hell game crashes all the time (yes, I know that means buggy as hell, but I have to emphasize it, never had I played a game this buggy... other than maybe prototype) have to wait till server logs you out to log in again to game (which takes forever, like.... don't expect to rejoin the same game) written in python (worst language for games) tiny community (I don't care bout this as much though) horrible servers (people with not so good connections hosting the games) empty lobbies forever....      I'd still recommend this game though, just cause of how fun it is, hope the devs actually update patches",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Scare the ♥♥♥♥ out of your friends. Yeah... It's fun. Of course someone ends up hurting themselves while at it, but it's still fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun, especially with 4 others. Too scary to be competitive, keeps things light among friends. Lots of possibilities for jump scares and other generally horrifying moments.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Once you know what strategies to follow for each monster, the game becomes far less scary but even after 40h of playing, i still get fun and even tense sometimes, thanks for the community who tries their best to dub the monsters with passion, and even talent sometimes.  Phantom used to be a absolute threat before, and now, i find myself winning against him around half the time. Globally, the mechanics behind the three monsters are well tought, and i really love Mary.  I may reproach the lack of real diversity in the maps, but the main scratching part of this excelent game is the server stability, as many games may begin or finish by a crash or deconnexion.  Still, i would recommand this game, just for the pleasure of being haunted by a sad Mary, singing in german some lullabies.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is fun multiplayer horror game. I played this game with my friends and we had a pretty good time scaring each other. Although we havent played this game lately it still is a fun game. Its kinda fun to know your being chased by one of your friends and you may never know if he/ she is behind you. They may pop out at you at any point and they might catch you in a corner.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a great one, though I wish there was more content. The games are randomized on different maps, and the point is to basically find keys to unlock doors so you can escape. The keys aren't in the same places, however, so the game is challenging every time. You play with 3 other 'survivors', pitted against the player-controlled monster. Each one is drastically different from each other, giving you a different experience for each one. Lurker is invisible and blind to players, until one of them sets off one of his traps. The Phantom is blind to players, except for when they are making noises, or are directly(like, two feet) in front of him. Mary is scary. Also deadly. She's your worst nightmare. One moment she's there, the next she's gone. Then you die.  As I write this review, there's been no updates since April. The game is still great, fully playable. I'f you've ever wanted to play Amnesia with friends, then this game is probably for you.  Highly reccomended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damned is one of my favorite Horror games ever. This game is underated and deservers more attention. The idea that you can play this game with 4 of your friends and scare the living ♥♥♥♥ out of them and hear them scream... Priceless...  It's some of the most fun that I've ever had. I wish they would update this game more often and it was more popular, it honestly deserves to be! It has lots of potential to be even better. Add a whole new variety of different monsters you could be, different puzzles for the survivors, different maps. I hope the developers stick with it and try their best to make this game feel polished and done because when it is, I'm sure it will be beautiful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While I enjoy this game quite a bit, I wouldn't recommend it to others, at least at the point of me writing this.  There are quite a few bugs that occur frequently, such as a key glitching out of a map, causing an unwinnable situation for the survivors. Another problem that frequently occurs (for me, at least) is that when I, or one of my friends, kill someone as a monster, there is a dead body on the ground, but a new body spawns in. Granted, the survivor is still dead, but this causes an unfair advantage for a monster like Mary, who can just sit beside this new body and build energy. Also, while this could be attributed to bad ping or something like that, I find that the hit detection in the game can be absolute trash. Either as the monster, swinging at a survivor, my hand going through them, but them still living, or as a survivor, when I spend a good minute trying to open a door or drawer, and then the next time I attempt it, I do it without effort. One last problem would be the insanity. While it sounds like a good idea on paper, it becomes very annoying, very fast. At first, it adds an extra sense of unease, which is good for a horror game, but there's a fiar amount of randomness that comes with it. Eventually, it can get to the point where your entire screen goes dark, mixed with being slowed down, to the point that it's just unfair.  If you insist on getting this game as it is now, I definitely suggest you play with insanity turned off, and with some friends to liven up the game even a little bit.   If the developers ever end up fixing all of the problems, then this game would definitely be one that I recommend.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Buggy as hell and choppy framerate. But if you can get 5 friends and a working match, then this game is godlike.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Havn't gotten to play yet because they havn't fixed the bug for opening the game, they have no fix's in the forums for it either, wasted money and an entire day attempting to play",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game has everything you could ask for: Wavedashing, Edgeguarding, 1v1ing, Quickscoping, Noscoping, b down tilts and more. No amount of BBW's could satisfy my urge to 1v1 the lurker around a pool table, then right when he looks away BAM wavedash out of his sight.  - Lolicon Luigi",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Damned did I just ♥♥♥♥ myself?'  Play with Friends  Use Skype",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You'd get a better scare from Hillary Clinton becoming president.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I used to be able to play this game and then suddenly started getting abysmal frames and my net ♥♥♥♥♥ out whenever I join a game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Game is Awesome and Better the other games i mean other games Horror This Game is Awesome",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well ill be Damned i wasted 20 dollars for nothing",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a great game to play with friends for a good laugh and spook. Few issues with bugs but it's a good cheap alternative to some of the pricier games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got stuck in a room and the door wouldn't open.  Monster decided to appear in the same room.  11/10, I ♥♥♥♥ my pants, would play again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get ready to poop your pants  ten outta ten",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not for the faint hearted, or the pant exploders, or the ladyboys. This game is for the guys who grab their balls and yells 'to death we ride that b1ch!' because you're going to be doing a lot of that riding when you are done with this game!  Why don't you grab a piece of this a55 and let's go!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun game to play with friends at night i i didn't think i can get my buddys to play and after playing a number of rounds they like the game, and theres alot to add to the game but if you want a campy horror game this is for you, i hope thye come out with more updates soon",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wish somebody else came up with this idea before 9head did because dear god the game is rougher than sex with a sand paper condom. Game won't even launch and uses python of all things its rough and doesn't seem to be making any real progress either.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is the biggest joke of a game i have ever made the mistake of buying im warning do NOT waste time and money on this absolute peice of ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I wish somebody else came up with this idea before 9head did because dear god the game is rougher than sex with a sand paper condom. Game won't even launch and uses python of all things its rough and doesn't seem to be making any real progress either.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I just want to say this is a perfect example of brazillians not checking their privledge.   9heads studio has even worse customer service than EA, and Trion Worlds combined.  I wont even bother describing this abortion of a game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't bother wasting money on this game. So many bugs and more than likely you will get a server under maintenance issue that the devs have done nothing to fix but keep referrering to thier problem guide which is of no help. Even when emailed they just don't reply and if they do its just to refer you back to the stupid guide again. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "11/10 Scared ♥♥♥♥♥♥♥♥.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game has me screaming all the time! It's a great horror game! Some people say it crashes, but it hasn't crashed once for me! Definitely a recommended buy! It's simply golden.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not worth the cash. Doesn't take long to learn about the monsters traps, which afterward ruins the element of suspense. Audio was good, initial gameplay was good, but not worth the money particularly the 4 pack to play with friends (this should be a try before buy so consumers can make an educated choice).  AI monsters would greatly improve the gameplay.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I have never had to login to the attached account, it has never been an issue for me, it never pops up. This game is really fun when you have a full party and I think it is worth getting, but i wouldnt pay 20$ for it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Play this game on huge tv monitor alone in the darkness. And finding keys while being panicked. Worst part is when monster spawn right front of you gives you heart attack and all you have do to is escape and hide from the monster.  I love it 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is laggy and buggy ♥♥♥♥. I´m so happy i bought it on ♥♥♥♥♥ shop for 1 euro.... Here they want 19,99 euros ? Are you kidding me? For this uncompleted buggy ♥♥♥♥♥♥♥t in Alpha version? Much mods from half life 2 are free and works much much better without bugs (for example no more room in hell) .... About gameplay, it´s just about survivors who need find keys and get away, against them is 1 monstrum (controlled by player) and the monstrum is trying to kill the survivors with traps or just with hands.  The worst thing is PvE doesn´t work here ..... The AI of monstrum is not working, you can hear him but the monstrum is just staying somewhere and AFKing .....    No more comment for this game, the price is real 19,99 euros it doesn´t worth for it. It´s just another uncompleted bad Mod from Half Life 2 with lots of buggs and low framerates. My friend owns gtx 980 + I7 4790 16 GB ram and he can feel little stuttering in some areas, that optimization is really terrible :(     BAD GAME, get better Contagion instead of this and You will be Happy!  4/10 (4 points for cards and horror atmosphere)  Thumb Down For ME.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Can't recommend it at this point in time. It's got some real entertaining moments, but there are too many little things that ruin it. The game is heavily biased in favor of the monsters. It's very rare for the survivors to actually win the round. The maps are garbage and cluttered with too much stuff that gets in the way. And the biggest issue is that when people leave the game, which they do frequently, the character they were playing as goes away, but late joiners can't replace them. So usually the game quickly turns into a 1v2 instead 1v5. Maybe they'll improve it in the future. Like I said, it's fun. Anyone who wants a quick fix survival horror game will enjoy it for a while, but it's got too many problems to last.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad game. Wouldn't play if I was paid to.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "No updates. Don't bother, devs are lazy and want nothing but money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Stop praising this game because Seananno played it. It's an unfinished, broken, mess that is not fun. I would rather watch Cool Cat 50 times than play this piece of garbo again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "am her 2 spook 11/10 supar spokey must buy had heart attk writing review",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I ♥♥♥♥ my Pants 11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Make it 5 bucks and it'll be worth it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Terrifying... so fun with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this to play with acouple friends. We played for less then an hour. The controls were wonky nothing was really explain none of the killers had a tutioral that really explained them. the game is also DEAD there are 4 servers other then the one you make for friends. I wouldnt recomend this others. it is a creepy game I did scare some of my friends. It was good when it came out but as of 2016 it is not there better options....",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Devs where you at? Its an amazing game even better then Dead by Daylight but theres been 0 progress on the game for over a year now. Food for thought if you were to make this game into a hd remake, keep working on it from there, and advertise a lot more then you did for this game because almost everyone I know and talk to online think Dead by Daylight is the first game to do horror 4v1, the game would be a selling hit giving Damned the respect it deserves.   For people out there looking into buying this game get it if your into horror games, its a blast when you first get it and you'll feel you got your moneys worth but just know its not Dead by Daylight graphics, it has a lot more to offer with its variety of maps and ways to escape.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "get 4 friends use them as distractions watch them squirm collect the keys and leave your friends corpses   20/10 would use friends as decoys again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its like an amnesia+outlast multiplayer game -5 Players (1 monester and 4 survivors)  -Great devs always adding new stuff/monsters/stages! -Great to play with friends but also rly great if have the guts to go solo :P -Scares the s**t out of you, but hey you get to do the same thing to other players if ur the monster! :D -Stages are rly nicely done and set the mood even before u see the monster and even if u stick together which might be just what the monester wants :P",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A very fun multiplayer game. Its pretty creepy, and a must play with friends. The graphics could be better in my opinion but ayy who cares, its fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "classical game only thing is that u need a full team of fiends playing it to have real fun.  if u play online with it the community if pretty ♥♥♥♥♥♥ but hey ho all fun and games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lovely horror game, I prefer playing with friends :) but many peaple are using a mic in this game ^^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "classical game only thing is that u need a full team of fiends playing it to have real fun.  if u play online with it the community if pretty ♥♥♥♥♥♥ but hey ho all fun and games",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Damned can be a tough sell, and for good reason. Back when I bought it, sitting in a lobby for over a minute without the host starting the game basically guaranteed hard crashes for all involved. This has been (mostly) fixed, the game will still randomly kick people for no reason, and isn't very well optimized, but if playing with people you know you'll be hard pressed to find a better multiplayer horror experience when everything DOES work.  Gameplay: The game is multiplayer slender with amnesia click-and-hold door controls and a battery/flashlight system that would make Jim Sterling cry. You find keys (rather than notes) and use them to open doors to find more keys until you escape, all while being hunted by one of the various monsters (played by a real person). Each monster has their own little twist on gameplay, and by far the most tense moments of the game are when you're limited in where you can travel (no keys) and don't know which monster's playstyle to counter.  That's what the gameplay is, but is it fun?:  Yes. Play. Damned. With. Friends. Hop in a VC, que it up, and make the monster mute himself except for the occasional brag directly after scoring a kill. You'll be amazed how quickly you can betray someone, locking them out of a room and leaving them to die in order to ensure you stay alive. You'll feel genuine relief when you cycle keys as a team to finally open that last exit door. Resource management with batteries usually feels like a tacked-on timekill mechanic, but in Damned you have to share those resources amongst 4 people, which adds to the urgency quite effectively.  Playing as the monster is a blast too. Sometimes you'll get a series of bad ports as Mary, or noone will hit your traps on Lurker, but setting up a legit jumpscare makes it all worth it. My friends and I have tons of stories along the lines of 'remember that time I made [friend] scream like a little ♥♥♥♥♥?' Very few games give you that opportunity.  Graphics: Meh. Mary and Fallen work well because they are meant to look stiff and plodding, but lurker looks like the monster from 'Boogeyman,' and only will make you jump if he pops up right on your ♥♥♥ (which he often does). Character models are functional, as are animations. Environments are sufficiantly mood-supporting, but a LOT of the levels are 're-arranged assets from our asylum level.' The most important thing is that the graphics rarely detract from the horror experience.  Audio: Absolutely essential to have a good headset in order to get the full experience with this game. Most monsters set 'traps' by interacting with objects in the environment that give off a sound que when the players pass by them. There is no worse feeling than stumbling through a hallway and triggering 3 or 4 traps in close succession, basically ensuring the monster knows exactly where you are. Ambient sound when the monster is close or is attacking further crank up the intensity, and the plinking minimalism of the rest of the audio just accents these bombastic moments even further.  Overall: 6/10, 8/10 with lobby of friends. If you can, buy it on sale or in a 4-pack with friends pitching in, but $20 is a relatively fair price on its own.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Error message Simulator  -10/10 Would read 4 hours of error messages again",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Pop Scare/10  Literally has flash game tier jpegs of spooky faces pop up. Creators should be ashamed of themselves and their entire families. Also opening doors in this game feels like trying to open a door with a funnoodle.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do not buy.even if it's on sale,do not buy.Community is dead,no way to play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "DON'T BUY!!!!!!!!!!!!!!!! BUYER BEWARE THE GAME DOES NOT WORK IT HAS EXTREMELY LOW FPS YOU CANNOT MOVE DO ANYTHING!!!!! I HAVE A $3,000 COMPUTER $500 VIDEO AND I CAN'T EVEN RUN THIS ON LOWEST SETTINGS AND ONLY GET 5FPS. EVERYONE IS HAVING THIS ISSUE AND THERE IS NO HELP. THIS PROBLEM SEEMS TO GO BACK YEARS AND THERE IS NO FIX STEAM SHOULD REMOVE THIS GAME IT DOES NOT WORK! IM SO ♥♥♥♥ING ♥♥♥♥♥♥ AND THE PEOPLE THE FEW PEOPLE I FOUND ONLINE DON'T EVEN HELP YOU THIS GAME IS ♥♥♥♥ I CAN RUN EVERY GAME ON ULTRA BUT THIS LITTLE INDIE GAME I CANT EVEN GET 5FPS ON LOWEST SETTINGS, REALLY? ♥♥♥♥ THAT AND THIS ♥♥♥♥ STAY AWAY PEOPLE THIS GAME COULD OF BEEN GOOD BUT TERRIBLE ENGINEERS DON'T KNOW HOW TO WRITE CODE MORONS!",
+            "review_score": "-1"
+        },
+        {
+            "review_text": " Probably one of the best 5 player co-op games I've ever played! Much like Evolve, four survivors try to escape from one player-controlled monster. Scavenging creepy maps in search for randomly spawned items such as batteries, keys, numerical codes (for opening safes), crowbars/hammers, etc.  As survivors, working together is crucial. Voice chat (default C) allows everyone (even the monster) to hear you so don't give away your position. Text chatting on the other hand is only seen by survivors. Memorizing the map layouts and how to avoid the certain monsters is very important, music changing is a big key in knowing there's a monster near you.   Items:  -Only pick up batteries when your flashlight is about to die, and don't pick up more than one you can only carry the one in your flashlight so don't waste them. -The crowbar is used to pry off wooden planks blocking doors from pressing left click on them. -Numerical codes written on paper open only certain safes. -Keys also only open certain doors so you'll be running back and forth a lot   Monsters:  Lurker A demon that has a spirit form where they sprint around the map invisible but unable to see or hear survivors. In this form the monster right clicks glowing objects to activate a trap, when a survivor walks past the trap, the object is set off alerting the monster the presence of a survivor. After 20 seconds of the start of the round you can activate physical form which makes you visible, and able to attack but walk much slower. The humans can out-run you and this form only lasts 40 seconds before going back to ghost form. Depending on how long you stay in the physical form, the longer the cool-down is for you to change back from ghost form to physical, so turn off physical form when not needed. If you're being chased, turned off your flashlight and sprint away, closing doors on them will block them out since Lurkers can't open doors.  Phantom The phantom is a ghost that can see you by hearing what you do, so shining your light on it and starring it down doesn't mean it knows where you are. When you do something loud such as sprinting, or anything interactive such as opening doors, turning on/off your flashlight and the phantom is near you, he will see you appear as bright white character (reverse silhouette) that can shine through obstacles and walls on his screen and chase you down. This ghost can go through doors, so don't bother closing doors, leave them open for your convenience! This monster requires more stealth then the others since you need to casual walk and stay still most of the time.  Mary A ghost girl that is an insanely slow character so if you see her just run away. Hiding from her is possible only if you can hide behind a door since that blocks her from charging her attack. Mary is ABLE open doors only in casual walking mode (as long as the doors are unlocked), so if she shes you in a room make sure to hold left-click and keep the door closed to prevent her from opening it behind you! Mary's main attack is Frenze which gives her 4x speed and attack to kill al survivors in her way! Luckily, she needs to charge it up to use it, mainly by being close to survivors. If a survivor is near, shines their flashlight on her, of if she even walks underneath a light (anything that 'disturtbs' the witch) she gains energy towards Frenzy mode. Her second ability is teleporting so she can very likely teleport in the room you're in. Her primary ability is a frenzy attack, if she stares at a survivor for roughly 10 seconds she can charge (twice as fast as your sprinting) for about 8 seconds and kill everyone in the way. The longer the round, the more energy Mary gains meaning that she can use her abilities faster and more often.   I would highly recommend this game for a group of friends looking to co-op on something, or if you're into survival horror games working as a team! There are still a lot of bugs but it's pretty stable. Also looking forward to the new monsters and features in the new future!  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is alright",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is terrible",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Badly optimized, regardless of what settings and res you put it in (stays at 42 fpf when at 1080 and actually drops 1 frame at 1024 res) not to mention game looks like ♥♥♥, a snore to play as the 'demons' and the puzzles are crap",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Tring to play it again after buying it when it first came out, before there was a long and drawnout log in feature and making an account and all that. Long story short, i went throught it all and then it says i need to activate my product, so i put the key in and it says it's already in use. 0/10 Don't buy it. Just get dead by daylight.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "killed a guy got kicked by host 12/10 ign goty",
+            "review_score": "1"
+        },
+        {
+            "review_text": "game ok  not scary not much didnt like it  so i just going with a yea maybe",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Stupid ♥♥♥♥♥♥ very bad not working server-hosting system game was cashgrab devs should burn in hell.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "why i have to re-buy again ?? what happen with steam i have to buy again this damned and arc survival -____-",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Literally the worst 20$ ive ever spent,tried a million different ways to get it to work on my laptop and it wouldnt after patches and downloading different stuff. Even on someone elses computer i can actually launch it but its buggy as ♥♥♥♥ and I cant even play it still,dont buy this game its not even worth downloading if it was free. Terribly made and impossible to fix,dont bother buying this game. Save yourself the headache,even if it works for you its still not worth 20$,i wouldnt even pay 5 for this.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For like the first 5 minutes of playing this game with two friends this game was scary, and then that all kind of just flopped after a while. the monster wasn't so scary any more. it was more like just a simple survivor game with annoying instances of your light flashing, things going dark or the weird waving arms coming out of the ground that were easy to walk around.   all in all, a great game idea, but poorly executed and maintained. NOT worth your money.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "**This review contains NO spoilers**  This is a great game but you need to look beyond it's flaws :-) - skip to conclusion if you don't like reading.  The first, say 10 games are scary especially if you've never played as the monster and I recommend not doing so for the first 10 - else it'll spoil it for you.  After that and you know the strengths and weaknesses of the monster it becomes a bit more tactical than the intial scare-fest.  Now this is where the downside for me really appears.... the monster balance needs fixing badly.  Mary is perfectly balanced and requires skill and luck to play. The Lurker is easy mode in my opinion - especially on hotels/restaurants The Phantom... beginner mode lol. I've never played as the Phantom but the view is..... remove Phantom from the monster selection.  However, I've played this nearly 14hrs and have loved it - why? Because the community is so great. Most people have and use their mics which makes it a ton more fun. Hearing people scream or want to die because they're too scared lol.  Whilst playing as a monster, don't just go and try to wipe everyone out as fast as possible... let them think they have a chance and whilst doing so scare the hell out of them!! Heck, I've lost a ton of games doing so... but the scares I've given people....... they just come back for more!   Conclusion  +Scare-fest/scare tactics! +Mary and to some extent The Lurker +Great community +Different to any type of game I've played before.... reminds me of horror mod for Quake (yes Quake 1 lol)  -Phantom balance - Lurker needs a tweak - limit number traps? -No HUD for monsters - could do with one -Not sure on the replayability... but it hasn't stopped me wanting more yet!  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Heinrich aprroves nuff said",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tried jerking off while playing damned. Mary popped out of nowhere, needless to say I dont have a dong anymore.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " The installer is broke!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great idea but they relaesed it in a crappy version and it barley works",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A couple years back, I read a post about an idea for a horror game. One person is the monster who hunts down the heroes, and this game got me so hyped. This game is totally worth a purchase when it's on sale, but I wouldn't recommend the game in it's current state for $20. Pros: - Super fun with friends - Has some terrifying moments where I just- I just... my god. - I haven't had any problems with bugs or connection that weren't easily fixed. - Tons of maps (Though some are better than others)  Cons: - Bugs do exist: You can't move through a large gap between tables, occasional crashes (Usually out of game), etc. - The game favors the monster player, so the balance for the game is weak. - Only 3 monsters to play as so far.  Really, I think the game has the potential to be absolutely amazing. If you can, spend $5 or $10 to help out the devs in progressing this game. I've had a ton of fun with my friends and we've all been able to look past the bugs to enjoy a wonderful experience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is good. Can be alot of fun to play with friends. Though i recommend NOT buying it yet, since at the moment they have bad scare methods like jump scares. Kills the game that it needs to give you a random jumpscare once in a while instead of working with the monster instead.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even with all of its currents bugs and glitches, I'm having a blast playing this with friends! Bloody Mary is one of the most terrifying monsters to run into (and then away from) in a game for me in a while. Plus, it's fun to hear your friends scream like children when you hunt them down... where else but in video game reviews do you get to say that without being locked up?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have played this game for two days now. For two days I have also called off of work. This game will consume you. Your whole life will be dedicated to scaring innocent people... you will then run out of said people and start buying copies for your friends, who you will then scare the living hell out of. Want to make your friends/family fill thier pants with excrement? Then buy it.  WARNING: This game does have a few bugs but it is still in alpha. Just keep trying to play untill you can. It is definately worth it...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Spend 8 years trying to get the game to work properly and wander around with a flashlight while Indian kids yell about keys. Feel the intense scares of relaunching the game until it decides not to freeze on the log-in screen.   LOOK IN WIMSY AS THE LOBBIES ALWAYS STAY BLANK QUESTION YOUR ENTIRE EXISTANCE WHEN YOU'RE RESTARTING YOUR ENTIRE ♥♥♥♥ING COMPUTER BECAUSE THE FRAMERATE IS ANGRY.    11/10 best new music",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game itself is extremely unique, fun, and entertaining!  The current build of the game, however, is a buggy, horrible mess. Wait for a few releases before purchasing unless you're fine with wrestling with the game to get it to work.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "While the concept of the game is pretty interesting and can be fun, I cannot recommend it (especially for $20) in it's current state. I'm running a 4690K and a GTX 970 and my FPS do not go above 30. Seems a lot of people with higher end systems are having an issue with this and having to do odd work-arounds like  disabling all HID-compliant devices. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "fun game to play with friends",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so much fun! Definitely creepy and I love how different all of the monsters are. Very fun either by yourself (joining a server) or with a group of friends!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "my previous review was bad because when i first got the game the game was broken. the game wouldnt launch. after weeks of emailing back and forth with 9heads, they finally sent me the files that were missing from my game to get it to work. even though it took a while to fix, they were quick to respond to all my emails. now that ive gotten a chance to play the game, heres what i think. the idea here is really cool. however, im not so sure this game is even beatable. and can get a little boring if you're playing with randoms. i suggest playing with friends! oh and the way you open and close doors in this game sucks.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "as most people say this is like amnesia but with co-op. Even though half the games i get people just go off on there own the other half i get people who want to work together which is really fun. i thought it was worth it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Not Worth It",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I played my first game as the monster, having no idea about ghost mode or anything. 3 seconds in, I walk into a weird ghostly girl, scream my ♥♥♥ off, and left click as hard as I can until she died. I won the game.   10/10 get it in the humble bundle",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is NOT worth it's listed price.  The idea is brilliant. Co-op horror games can be loads of fun when executed correctly, however this game does suffer in the execution aspect. Game is buggy, graphics are poor, gameplay is very clunky and there is very little explanation given to the infected in terms of how to use their character. You might get a few laughs with some mates but after a couple of rounds you will tire of this game very quickly.  If it goes on sale for a few bucks, then sure, give it a whirl, but I would strongly recommend staying away from this game as it is just not worth 15-20 bucks in its current state.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "10/10. Simply playing this with friends and online players gives you an un describable sense that strikes your soul to the very core; formed by the horrors and excitement you experience in game. Playing this game provides you with the chance to experience the most popular theme of all time first hand. The theme, 'fear of the unknown'; which was the main theme in the famous book, 'Dracula'. You will understand it when you play it. Watching play throughs just wont be enough...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a horror game where you get to play as the monster and spook your friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game ♥♥♥♥ing sucks. There's no other way to put it. It's a really ♥♥♥♥♥♥ attempt at a multiplayer horror game where everyone walks around a badly lit location hunting for tiny items and praying the RNG hasn't stuck you in an unwinnable scenario while another player tries to spook you.  If you actually see the monster player, you sprint so much faster than they can move it's hilarious. You just kite him behind a piece of furniture and he can't do ♥♥♥♥. You wait for his timer to run down, and then you go back to pixel hunting for keys and other ♥♥♥♥♥♥♥t.  ♥♥♥♥ this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game. The one monster game where you can't fear an NPC/AI monster. Players make this game extremely fun. Everyone is somewhat nice! :]",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very poorly optimized holy ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The only thing Damned about this game, is it's playerbase. I refuse to believe that any sane person, could possibly play this game, for longer than an hour.   After you play it for an hour, you've pretty much done everything the game has to offer, mechanically.   It is not scary, it is not fun, it is not worth buying.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its a good game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Want to ♥♥♥♥ yourself and have fun doing it? You might have a problem if you answered yes to that, but the game is pretty ♥♥♥♥ing amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably the most unoptimized Early Access game I've ever played. Unplayable in current form due to 4-8 FPS on the main menu, stuttering so badly you can't click menus properly.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is really funny... when it doesn't crash or freeze.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Buggy but well worth the money. Play with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got a new computer, and it works fine! I've had so much fun playing this game. It was my computer. I recommend this for people who want a thrill and intense game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "good for a few laughs with friends. really dark. Maybe more worth if it was 15$? wait for a sale.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really love this game i play it with my friends and its awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game includes some scary jumpscares and chase sequences, love it. The sounds are also amazing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 Made my arms warm",
+            "review_score": "1"
+        },
+        {
+            "review_text": "to spoopy for me    10/10 would die again ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game legit spooked me, yo, like for real.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game's a must for any survival horror fan, but I doubt that it would appeal to most typical gamers. It's quite slow paced and can get a little frustrating at times when you're looking for that last key and have checked every room twice, but the game is much more enjoyable when played with a decent group. It would have been nice to have a single player offline option as well, but I personally didn't mind this too much.   If you like horror, you have friends that you want to play it with and/or the game's on sale, I'd definitely recommend getting this.   7/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So far, I have really enjoyed this game despite it's bugs and lag. It can be a bunch of fun with friends and EVEN playing with other people. Playing as the monster is the best thing about this game but playing as them (there are 3 of them) they are not OP which is a good thing. Even running around finding keys is fun too but scary. Walking around thoses corners and the Lurker is in your face (that happened to me ;_;) But I would give this game a 8.5/10. They could add mabye a few more monsters and mabye a few maps and of course optimize it more. But apart from all the negatives the game is enjoyble and lots of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ok first time i played it, i was he monster, controlls i got? Walk, E to get into attack mode and right mouse button to teleport.  I see someone, now i walk to him while he can run away. OK! Again i see some one, i walk to him from the back, poef i got auto teleported away :/ i, as monster can not open doors, cant walk trough open doors, glitch? I got close to someone and needed to look at him for 5 seconds before i can eanble attack mode, but he ran away...  This game was on for 30 minutes, and i got 2 kills out the 4 players in it.  NOT recomended not scarey, slow game, unfear, and 100% waste of money as i bouth 3 copys for my friends. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Yes, this game will make you jump! so much fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Written for  AbsoluteHell.net   Damned is, at its core an asymmetrical multiplayer-only experience that contains some incredibly effective tension and dread as you and your group skulk through darkened corridors in hopes to avoid an onslaught of death at the hands of a malevolent supernatural being.  Damned successfully taps into that primeval fear of 'what you can't see can kill you' as it will have you more paranoid than David Icke himself. Chiming grandfather clocks, whistling radiators, creaking doors, flickering lights and laughing jack-o-lanterns all play their part as you move cautiously through each of the eleven different environments hoping not to touch uglies with that thing that goes bump in the night. Each of these come in a variety of flavours - from abandoned Hospitals, Asylums, Hotels to Factories; all oozing with an eerie atmosphere that isn't seen nor felt in any other horror based multiplayer game. The scares and true terror rival that of any single-player experience you can have and the fact that it can do this with a multiplayer only game is truly an astounding achievement in and of itself.  You control (in first-person) any one of four stereotype survivors found in a haunted house scenario, A Priest, School Jock, Scene-Girl or fabled black-guy-who-dies-first, each armed with only a flashlight and your dwindling nerves. Who you choose to play as, is completely arbitrary as no one survivor has any type of skill set or play style to help aid your team, as all players can equally carry any amount of keys, safe combinations and interact with the environment. As the Survivors, it is up to you to help your colleagues escape the nightmare you have found yourselves in by scouring through cupboards, desk drawers, iron safes and anything else, in order to search out your ways to freedom. On the opposite end of that spectrum sits one other player who is in control of the ghoul/ghost for any chosen scenario and their objective is to simply wipe out all survivors before they can reach the end, the unique twist is though, that the monsters come in three variations and each variant of ghoulish terror requires a different strategy to conquer and overcome as you (the survivor) cannot deal any damage or defeat this player in any way. I will break down the Survivors versus Monster like so:  MARY (GHOST): Mary is a scary Asian ghost girl who has the ability to randomly teleport anywhere in the vicinity of the survivors, but not close enough to be within immediate visual range, this can be initiated either by the player or automatically if they spend too long searching for a victim. She can open doors, stalk the hallways slowly and calmly, sobbing with tears; the best strategy for survivors is to run the hell away because simply gazing directly at Mary or being too close in her proximity will trigger the hunter players ability to send her into a screaming rage, who will then run at you and eviscerate you from the inside out. Bar the doors and do not let her in. When she teleports, best to check behind you....  LURKER (GHOUL): Looks a lot like Pumpkinhead or a really tall guy who decided that wearing his birthday suit was too much effort. This Ghoul can move between Spectral and Material realms much like Raziel from Soul Reaver, only with a cool down timer and while spectral, cannot see the survivors but can move at speed, pass through locked doors &amp; rig sound traps so if someone stumbles past, say a grandfather clock then it will chime triggering the Ghoul to materialise and slowly, VERY slowly chase after the unlucky individual.  PHANTOM (GHOST): Is omnipresent, this ghost can move through any locked door and drift around at terrifying speeds. The only way to avoid this one is to remain silent and move slowly through the level, keeping a visual on it at all times where possible. The only way it can detect a survivor is by sudden noise, such as turning the flashlight on and off or by getting too close to it, thereby lighting that survivor up in an aura that only then can the Phantom detect a presence, other than that it is essentially blind, but the hardest to compete against. Stay away from the centre of the rooms.  If any of these creatures manage to catch you it is a one hit kill with no coming back and if you were the one carrying all the keys, you have just made everyone else’s day a whole lot worse.  Now, not that I mean to end on the negatives but there are some issues that need to be addressed. Firstly, there are no dedicated servers as it is only a peer-to-peer service meaning that game sessions can range from stable to downright jittery with latency playing a big part of that problem.  The game itself is already ill-optimized and framerates can differ heavily depending on what kind of hardware your rig is running. You can have a budget six core processor or a monster expensive processor, you will still see many of the same issues so I would feel terrible with anybody 'meeting' the actual specifications required to run this game as opposed to surpassing them and I mean, it is not exactly the most demanding game out there, regarding hardware requirements. It doesn't even LOOK all that spectacular to begin with. It absolutely is not horrible, but the fact it has issues, requires some serious attention from the Developers if they hope to iron out these flaws and beef up the stability of this product. The animations for all characters border between offensive and hilarious as many, if not all of them look like imposable action figures, with the bare basics required to call them 'high-poly' models. They portray little to no emotion, physically, the audio doing all the work it needs to do and thank christ there! Because when you are trudging through these dank environments which are so beautifully, crafted and rendered, to see John the Priest, complete with missile launching action, running out of a room then being chased by the Lurker who looks as stiff as super glued lego you cannot help but either smirk or run in the opposite direction terrified of either the animations or the monster chasing you at the forefront of it all. It pulls you almost straight out of the experience and the immersion of it all but not enough to justify it as truly terrible.  With a little more time spent developing and fine-brushing some animations and textures, Damned can be a lot of things that many games are not and you can really sense the quality under its garbled hood. However, right now, there are a lot of things it is not and given a lack of content and game modes you really see all there is to see within the first ten to twenty minutes of playing. It is really only saved because with friends, it can be an absolute rioting good time full of scares, tension and laughter.  Get this to experience it with friends, because finding a server where it is stable or the lobby leader will not kick you out come few and far between. Damned is an enjoyable if not, short lived package that deserves your support and with that, will with any luck come a much better game down the line.  SCORE: [76/100]  - Daniel Kerr Spendlove",
+            "review_score": "1"
+        },
+        {
+            "review_text": "very fun and very interesting on the survival horror ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game ! I had been looking for a game like this for a long time !! It's really awesome !!! I hope new maps / monsters will keep coming !! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A lot of fun. The graphics are choppy and still needs work. There does appear to be a 30 FPS cap, even on my Sapphire Fury. If you can get past graphics, the gameplay is pretty fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Yeah it's pretty good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mary appeared infront of me, i turned around and she was there too... 11/10 would cry myself to sleep again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a nice multiplayer horror game, recommend it if you like getting scared by your friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really fun game, I love it. Made some good friends playing this game, avoiding the player that is stalking you can get pretty intense. Playing as a monster and generating tears from your victims keeps me coming back!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very fun with friends. Easy to learn and easy to set up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great if you have enough friends to play it with, you should make sure to have skype or TS or something though as the voices in game aren't that great.",
+            "review_score": "1"
+        }
+    ]
+}

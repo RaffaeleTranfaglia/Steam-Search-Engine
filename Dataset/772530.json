@@ -1,0 +1,44 @@
+{
+    "app_id": 772530,
+    "name": "Crayola Scoot",
+    "release_date": "2018-10-16",
+    "developer": [
+        "Climax Studios"
+    ],
+    "publisher": [
+        "Outright Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 34,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 15.49,
+    "description": "Make your mark in this color-powered trick scooter championship! The crazier your combos, the more color you’ll splash on the scootpark – and in Crayola Scoot, color can change the world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/772530/header.jpg?t=1539703860",
+    "minimum_requirements": "OS: x64 versions of Microsoft Windows 7, 8.1 and 10 Processor: AMD / Intel dual-core CPU running at 2.4 GHz (AMD Athlon II X2 250 or Intel Pentium Dual-Core G645 or newer architectures are recommended) Memory: 4906 MB RAM Graphics: AMD/NVIDIA dedicated graphic card, with at least 1024MB of dedicated VRAM and with at least DirectX 11 and Shader Model 4.0 or 5.0 support. ATI/AMD Radeon HD 5750 and NVIDIA GeForce GTS 250 or newer architectures are recommended. DirectX: Version 9.0 Storage: 3 GB available space Sound Card: Integrated or dedicated DirectX 9 compatible soundcard Additional Notes: XBOX Controller and keyboard/mouse",
+    "recommended_requirements": "OS: Microsoft Windows 10 x64 Processor: AMD / Intel quad-core processor running at 2.6 GHz (AMD Athlon II X4 or Intel Core 2 Quad Q6600 or newer architectures are recommended) Memory: 6144 MB RAM Graphics: : AMD/NVIDIA dedicated graphic card, with at least 1024MB of dedicated VRAM and with at least DirectX 11 and Shader Model 4.0 or 5.0 support. ATI/AMD Radeon HD 6850 and NVIDIA GeForce GTX 260 or newer architectures are recommended. DirectX: Version 9.0 Storage: 5 GB available space Sound Card: Integrated or dedicated DirectX 9 compatible soundcard Additional Notes: XBOX Controller and keyboard/mouse",
+    "reviews": []
+}

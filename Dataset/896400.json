@@ -1,0 +1,41 @@
+{
+    "app_id": 896400,
+    "name": "Alien Attack: Pocket Edition",
+    "release_date": "2018-08-01",
+    "developer": [
+        "Alien Jellyfish"
+    ],
+    "publisher": [
+        "Alien Jellyfish"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 12,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "You are a brave space trooper. Your mission is to clean an alien sector with a huge amount of enemies. Speaking shortly, you have to kill some aliens and return alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/896400/header.jpg?t=1534025000",
+    "minimum_requirements": "OS: Windows 7 64 bit or higher Processor: 64bit Intel compatible Dual Core CPU Memory: 512 MB RAM Graphics: Сompatible with DirectX 9.0c DirectX: Version 9.0c Storage: 50 MB available space Additional Notes: Latest DirectX drivers",
+    "recommended_requirements": null,
+    "reviews": []
+}

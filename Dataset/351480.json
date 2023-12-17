@@ -1,0 +1,47 @@
+{
+    "app_id": 351480,
+    "name": "Age of Fear: The Undead King",
+    "release_date": "2015-06-26",
+    "developer": [
+        "Leslaw Sliwko"
+    ],
+    "publisher": [
+        "Age of Fear"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 22,
+    "positive_ratings": 278,
+    "negative_ratings": 21,
+    "price": 14.99,
+    "description": "Play as either Sir Edward, a noble Knight defending the Human Kingdom, or Krill, a wicked Necromancer with an unearthly lust for power! The Age of Fear series is a deep and complex turn-based strategy (full of humour!) that fuses a tabletop wargame with RPG elements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351480/header.jpg?t=1552411758",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 1 GB RAM Storage: 5 GB available space",
+    "recommended_requirements": "Processor: 2 Ghz Memory: 2 GB RAM",
+    "reviews": []
+}

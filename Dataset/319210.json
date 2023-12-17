@@ -1,0 +1,48 @@
+{
+    "app_id": 319210,
+    "name": "Space Salvager",
+    "release_date": "2014-11-25",
+    "developer": [
+        "Sam Albon"
+    ],
+    "publisher": [
+        "Sam Albon"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 14,
+    "price": 4.99,
+    "description": "A space opera focused on you: your choices shape your destiny.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/319210/header.jpg?t=1447363268",
+    "minimum_requirements": "OS: Windows XP DirectX: Version 9.0c Storage: 512 MB available space Sound Card: Yes",
+    "recommended_requirements": "OS: Windows 7 DirectX: Version 9.0c Storage: 512 MB available space Sound Card: Yes",
+    "reviews": [
+        {
+            "review_text": "This is a tricky one, there's definately potential here but it appears to have been abandoned and it has a few notable issues...  The tutorial 'just ends' when you reach the first station?  Missions you accept seem to disappear completely (Active Jobs is more often than not empty after you return from a mission?)  I like games like this - take missions, mine, shoot, trade, improve ship - repeat - but this one feels unfinished?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Drift through space don't know what to do",
+            "review_score": "-1"
+        }
+    ]
+}

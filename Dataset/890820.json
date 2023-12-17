@@ -1,0 +1,42 @@
+{
+    "app_id": 890820,
+    "name": "Valor Time",
+    "release_date": "2018-11-14",
+    "developer": [
+        "ObjectOnIT"
+    ],
+    "publisher": [
+        "ObjectOnIT"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Online Co-op",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "tags": [
+        "Free to Play",
+        "RPG",
+        "Massively Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 40,
+    "negative_ratings": 55,
+    "price": 0.0,
+    "description": "Game ‘Valor Time’ representative of the client family Session based multiplayer action RPG (session multiplayer role-playing games) of the medieval WASD non-target management system. The game process supports massive battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/890820/header.jpg?t=1543512639",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5-6500 Memory: 2 GB RAM Graphics: AMD Radeon HD 5900 DirectX: Version 9.0 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7-8700K Memory: 6 GB RAM Graphics: GeForce GTX 1060 3GB DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

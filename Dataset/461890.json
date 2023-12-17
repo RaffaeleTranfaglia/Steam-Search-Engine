@@ -1,0 +1,83 @@
+{
+    "app_id": 461890,
+    "name": "NORTH",
+    "release_date": "2016-04-27",
+    "developer": [
+        "Outlands"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Cyberpunk"
+    ],
+    "achievements": 0,
+    "positive_ratings": 243,
+    "negative_ratings": 124,
+    "price": 0.79,
+    "description": "Dealing with the issue of the contemporary refugee crisis while at the same time being deeply rooted in a classical cyberpunk atmosphere à la Blade Runner, NORTH features a dark synthpop soundtrack, a sprawling mega-city and weird monster-like inhabitants.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/461890/header.jpg?t=1547238049",
+    "minimum_requirements": "OS: XP Processor: 2.4 Ghz Dual Core CPU Memory: 1024 MB RAM Graphics: 512MB Dedicated Memory DirectX: Version 9.0 Storage: 1100 MB available space Sound Card: DirectX® Compatible",
+    "recommended_requirements": "OS: 10 Processor: 3.0 Ghz Quad Core CPU or faster Memory: 1024 MB RAM Graphics: 512MB Dedicated Memory DirectX: Version 9.0 Storage: 1100 MB available space Sound Card: DirectX® Compatible",
+    "reviews": [
+        {
+            "review_text": "I’m not entirely sure what to say about this game. It has a very surrealistic feel and the atmosphere is nice. I did get lost as one of the doors seemed to be in a rather odd location that wasn’t easily noticed. The graphics are what you get from the usual lower budget Unity title, but the story is somewhat interesting and the way the letters are used to convey what you need to do next (despite the order you do things in) is well implemented. The game’s store description is stretching the truth at least a little, except for the length which is accurate. My verdict is: give it a go, can’t hurt and won’t take too much time out of your day, just buy it on sale or in a bundle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I overall enjoyed this game. The only cons are that it is considerably short, you can't exit the game until you beat it, and it is confusing to the point of disorientation until you figure out what's going on. Still, it is the perfect game for those of you who love darker themes, mysteriousness, dark and abnormally intriguing scenery, and weird monster things. I rate this 7/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wether you agree or disagree with its meaning, it is a worthwhile experience certain to challenge one. Or you could just call it terrible because you don't agree with it hah! That's not to mention its low price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "pretty calming once you get the hang of it",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game is great. Soundtrack is sublime.  For all of you out there who like trippin.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A short (45 minute for me) experience about seeking asylum. A bon mot.   Very good. Thought provoking and has made me think about some of the harder realities of seeking asylum in a strange, alien country.   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "   Introduction",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "'Dealing with the issue of the contemporary refugee crisis while at the same time being deeply rooted in a classical cyberpunk atmosphere à la Blade Runner, NORTH features a dark synthpop soundtrack, a sprawling mega-city and weird monster-like inhabitants.' This sentence has no relationship at all to any content in this mess of a game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ok, I got this because of Extra Credits also, and I've got half a mind to go suggest that they talk about the fact that it's 2016 and we're still seeing first person games that  don't let you invert the mouse y axis . ( The static speaks my name , another recommendation of theirs, also has this problem; I only suffered through it because I knew it was only like 5 minutes long.)  There's also the two minute opening unskippable title screen, the pressing-enter-resets-the-game issue (forgotten debug feature maybe, but use an F key or something for crying out loud), the generally lower FPS than feels appropriate for any given thing I'm looking at (which might have something to do with motion blur per other reviews but I didn't even notice the blur) and the lack of even the most basic kind of progression memory (it's a one sitting game, and I've no idea how long it is)... I think I'm going to go refund this thing rather than have to split my 'Bad/Unplayable/Whygodwhy' category out into a 'I can't play this unless I fork over money to a third party, maybe' category. (Yeah  Over The Void  I'm looking at you...).  Yeah, that's the particularly insidious problem with the mouse invert. While it should only take an if statement and flipping a sign in the mouselook handler to implement (seriously even alerting the player that e.g. I toggles mouse invert should take more work than actually making it work), there's exactly one workaround the user can use in all of the internets, and it's another 15$ or something piece of software that isn't even straightforward to buy. (It's called MAFMouse if you're curious.) Every other inverter I've seen or heard about, including autohotkey scripts and various little tray apps, works on the desktop but does nothing in a game.  So it's really up to the developer to add this basic feature.  Too bad, I really like odd surreal stuff to explore.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I didn't like the game. You can't skip the introduction, there is zero in game setting adjustment. I would be nice to at least let the player set up the constrast. There is also no way to save progress.. or quit the game. (ALT-TAB , right click on game window and hit close). To sum this up, I would dicourage anyone from getting this poorly made game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Don't buy this game for it's story or gameplay  buy it for it's soundtrack. 5/10 half decent soundtrack.",
+            "review_score": "-1"
+        }
+    ]
+}

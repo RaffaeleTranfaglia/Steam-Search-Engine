@@ -1,0 +1,40 @@
+{
+    "app_id": 732800,
+    "name": "Turtle Quest",
+    "release_date": "2017-11-06",
+    "developer": [
+        "Spike Productions"
+    ],
+    "publisher": [
+        "Spike Productions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 45,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Play as a baby turtle who has just hatched. Your mission, get to the safety of the sea.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/732800/header.jpg?t=1532915193",
+    "minimum_requirements": "OS: Windows  7 Processor: Intel i3 Equivalent Memory: 4 GB RAM Graphics: Nvidia GTX550 or above DirectX: Version 10 Network: Broadband Internet connection Storage: 870 MB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "OS: Windows  7 (64-bit) Processor: Intel i5 Equivalent or above Memory: 4 GB RAM Graphics: Nvidia GTX670 or above DirectX: Version 11 Network: Broadband Internet connection Storage: 870 MB available space Sound Card: Creative ZX or equivalent",
+    "reviews": []
+}

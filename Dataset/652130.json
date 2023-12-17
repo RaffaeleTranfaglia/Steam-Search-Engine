@@ -1,0 +1,40 @@
+{
+    "app_id": 652130,
+    "name": "Lupus in Fabula",
+    "release_date": "2017-07-13",
+    "developer": [
+        "Spitoufs"
+    ],
+    "publisher": [
+        "Spitoufs"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Atmospheric"
+    ],
+    "achievements": 15,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Lupus in Fabula is an adventure game with lite puzzle elements set in medieval/Renaissance world. The game follows two characters, controlled one at a time, caught in Flemish Renaissance mixed with glitched medieval times as a result of failed magickal transport.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652130/header.jpg?t=1499965284",
+    "minimum_requirements": "OS: 7, 8, 10 Processor: 2.4GHz Memory: 2 GB RAM Graphics: 256MB Storage: 400 MB available space Additional Notes: Game Pad is optional",
+    "recommended_requirements": null,
+    "reviews": []
+}

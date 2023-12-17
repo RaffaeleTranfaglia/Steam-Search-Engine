@@ -1,0 +1,42 @@
+{
+    "app_id": 1016720,
+    "name": "Save Koch",
+    "release_date": "2019-04-18",
+    "developer": [
+        "Wooden Monkeys"
+    ],
+    "publisher": [
+        "BigGame"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 26,
+    "positive_ratings": 46,
+    "negative_ratings": 11,
+    "price": 9.29,
+    "description": "You are local mafia kingpin, Jeffrey Koch. Your empire in New Kandinski is in total chaos because an unknown Mastermind has decided to take your place. And they’ve planted a sleeper Mole inside your operation. It’s time to act, but you need to act smart.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1016720/header.jpg?t=1556127171",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows Vista Processor: Intel Core 2 Duo 1.8Ghz, AMD Athlon X2 64 2.4Ghz. Graphics: 256MB NVIDIA 7900 / 256MB ATI X1900 Storage: 1024 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1,Windows 10 Processor: Intel Core 2 Duo 1.8Ghz, AMD Athlon X2 64 2.4Ghz. Graphics: gtx 950 or better Storage: 1024 MB available space",
+    "reviews": []
+}

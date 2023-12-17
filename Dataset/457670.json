@@ -1,0 +1,52 @@
+{
+    "app_id": 457670,
+    "name": "Vrideo",
+    "release_date": "2016-04-12",
+    "developer": [
+        "Vrideo, Inc."
+    ],
+    "publisher": [
+        "Vrideo, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Full controller support"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "VR",
+        "Utilities",
+        "360 Video"
+    ],
+    "achievements": 0,
+    "positive_ratings": 35,
+    "negative_ratings": 28,
+    "price": 0.0,
+    "description": "Vrideo is the world's premier platform for immersive video, also known as &quot;360° video&quot; or &quot;VR video.&quot; Stream videos, see trending and recommended videos, browse content categories, search for videos and channels, and explore channels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/457670/header.jpg?t=1468631181",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 equivalent Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent Network: Broadband Internet connection",
+    "recommended_requirements": "OS: Windows 7, Windows 8, Windows 10 Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater Network: Broadband Internet connection",
+    "reviews": [
+        {
+            "review_text": "The only way I can describe this program is that it's like being inside a movie theater. It's fun to mess around with; and it's even free!  NOTE: You MUST have VR. If you don't, then you'll get stuck on the first screen.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is another free app that should make others think about their pricing. If 360 or 3d videos are the thing you want to do in VR then get this. Its a great app that uses the controllers and head tracking for everything. Just look at a video, press the trigger and video plays.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wish MilkVR come to Vive soon. Jaunt and Vrideo are already here.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VR 'YT'-App with closed enviroment. no one need this. i just want to watch own content aka files on my hdd.",
+            "review_score": "-1"
+        }
+    ]
+}

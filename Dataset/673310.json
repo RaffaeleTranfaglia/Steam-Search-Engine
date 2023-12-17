@@ -1,0 +1,39 @@
+{
+    "app_id": 673310,
+    "name": "Adam Waste",
+    "release_date": "2017-11-21",
+    "developer": [
+        "Blackturn Ltd"
+    ],
+    "publisher": [
+        "Blackturn Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Gore"
+    ],
+    "achievements": 8,
+    "positive_ratings": 6,
+    "negative_ratings": 5,
+    "price": 9.29,
+    "description": "This is an episodic post apocalyptic sci-fi story.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/673310/header.jpg?t=1519986739",
+    "minimum_requirements": "OS: Windows XP and newer Processor: 2.0 GHz Graphics: NVidia GeForce 8800 Sound Card: Integrated audio",
+    "recommended_requirements": "OS: Windows 7 and newer Processor: Intel Dual-Core 2.2 Ghz Graphics: NVidia GeForce 9800 Sound Card: Integrated audio",
+    "reviews": []
+}

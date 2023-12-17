@@ -1,0 +1,41 @@
+{
+    "app_id": 690930,
+    "name": "Evening Surprise",
+    "release_date": "2017-09-15",
+    "developer": [
+        "Aleksandr Soldatov",
+        "Leonid Kozhushko"
+    ],
+    "publisher": [
+        "Aleksandr Soldatov"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Visual Novel"
+    ],
+    "achievements": 4,
+    "positive_ratings": 440,
+    "negative_ratings": 52,
+    "price": 0.0,
+    "description": "Max and his girlfriend Ann are very happy together. They have no arguments, they enjoy spending time with each other, they are in love. What else can they wish? Well, Max, you will get a big surprise this evening...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690930/header.jpg?t=1505498575",
+    "minimum_requirements": "OS: Microsoft® Windows® XP/Vista/7/8/8.1/10 Processor: Pentium® 4 1.5 GHz / Athlon® XP Memory: 512 MB RAM Graphics: DirectX® 9.0c compatible DirectX: Version 9.0c Storage: 150 MB available space Sound Card: DirectX® 9.0c compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,35 @@
+{
+    "app_id": 1052480,
+    "name": "Adecke - Cards Games Deluxe",
+    "release_date": "2019-04-20",
+    "developer": [
+        "Philippe Pelchat"
+    ],
+    "publisher": [
+        "Philippe Pelchat"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Cards Games Collection : Cribbage, Military Whist, Bull, President, Hockey, Speed",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1052480/header.jpg?t=1555764782",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core Memory: 2 GB RAM Graphics: Intel HD Storage: 200 MB available space Sound Card: Common Additional Notes: Mouse (Clicking)",
+    "recommended_requirements": "OS: Windows 10 Processor: i3 Memory: 4 GB RAM Graphics: Ati/Nvidia Storage: 300 MB available space Sound Card: Common Additional Notes: Touch Screen (Sliding)",
+    "reviews": []
+}

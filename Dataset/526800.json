@@ -1,0 +1,48 @@
+{
+    "app_id": 526800,
+    "name": "Cubotrox",
+    "release_date": "2016-11-11",
+    "developer": [
+        "The Barberians Game Studio"
+    ],
+    "publisher": [
+        "Talking About Media"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Difficult"
+    ],
+    "achievements": 12,
+    "positive_ratings": 45,
+    "negative_ratings": 4,
+    "price": 4.79,
+    "description": "Cubotrox is an addictive puzzle game that challenges you to complete pixel art images by managing falling neon-colored cubes. Catch, drop and rotate your way to victory in a game with retro-futuristic neon visuals and synth-retro-wave music that excels at being “easy to play, hard to master”.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/526800/header.jpg?t=1499079034",
+    "minimum_requirements": "OS: Windows 7 (32 bits) Processor: Intel Core 2 series Memory: 2 GB RAM Graphics: GeForce 200 series Network: Broadband Internet connection Storage: 200 MB available space Additional Notes: Broadband internet connection (for leaderboard feature)",
+    "recommended_requirements": "OS: Windows 7 (32 bits) Processor: Intel Corte i5 Memory: 4 GB RAM Graphics: GeForce 400 series Network: Broadband Internet connection Storage: 200 MB available space Additional Notes: Broadband internet connection (for leaderboard feature)",
+    "reviews": [
+        {
+            "review_text": "I had the opportunity to play the game before at a gaming event, and the first thing that caught my attention were its visuals and the music. The developers have done a fantastic job creating a tron-like visual style, with a music that plays very nicely with it.  But it is after that first impression, when you grab the controller and start playing you see where does Cubotrox really shine. The gameplay is actually very simple: there is a pixel art figure with holes which you've got to fill with blocks that fall from the sides. You can rotate the picture to get into blocks on the other side, and rotate the blocks to fit them in the right position. After you play the tutorial (in maybe 15 minutes most) you're more than ready to play.  But even though the game mechanics are simple, it isn't easy at all. Some levels have a time limit, other levels have a movement limit, forcing you to think your way really carefully. You've got to combine skill (moving the picture and the cubes) as well as thinking. On the beginning you'll be messing up rotating the wrong way or placing the wrong cube at the wrong place, but it gets better with each level.  Besides the core gameplay, it also has a leaderboard which is nice and many levels feature cameos from other indie games.  Overall, I think the game is 100% worth its price. Absolutelly recommended.",
+            "review_score": "1"
+        }
+    ]
+}

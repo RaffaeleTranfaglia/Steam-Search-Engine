@@ -1,0 +1,38 @@
+{
+    "app_id": 392280,
+    "name": "The Franz Kafka Videogame",
+    "release_date": "2017-04-06",
+    "developer": [
+        "Denis Galanin (mif2000)"
+    ],
+    "publisher": [
+        "Daedalic Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 12,
+    "positive_ratings": 155,
+    "negative_ratings": 92,
+    "price": 5.99,
+    "description": "An original puzzle/adventure game inspired by the writings of Franz Kafka.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/392280/header.jpg?t=1540971640",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 1 GHz Memory: 512 MB RAM Graphics: 256 MB DirectX: Version 9.0 Additional Notes: OpenGL 3.0 support. Monitor with 1024x768 or higher resolution support",
+    "recommended_requirements": null,
+    "reviews": []
+}

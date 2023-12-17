@@ -1,0 +1,54 @@
+{
+    "app_id": 357690,
+    "name": "APT",
+    "release_date": "2015-08-27",
+    "developer": [
+        "RIP Studios LLC"
+    ],
+    "publisher": [
+        "RIP Studios LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 27,
+    "positive_ratings": 24,
+    "negative_ratings": 9,
+    "price": 11.39,
+    "description": "Put your skills to the test and challenge yourself in this new breed of platformer. Refine your mechanics, earn the ranks, then post them against the community on the Steam Leaderboards.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/357690/header.jpg?t=1453661293",
+    "minimum_requirements": "OS: Vista, Win 7 (SP1), Win 8, Win 10 Processor: 2.3+ GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 460 | AMD Radeon HD 5850 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: 64-bit Vista, Win 7 (SP1), Win 8, Win 10 Processor: 3.4 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 | AMD Radeon HD 7950 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "Incredibly addicting trying to achieve the fastest times on trials. Each level requires out of the box thinking and new approaches to solve which offers a very rewarding feeling when completed. Leaderboards add so much 'replay-ability' especially for competitve players. I would definitely recommend to anyone into challenging platformers.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I fell in love with this game immediately after playing a demo at the 2015 SXSW Gaming Expo. While it does resemble Portal at first glance, its gameplay is more reminiscient of games like Super Meat Boy where precision and timing are everything. The game teaches you the basics and then leaves you to figure out more complex manuevers as you play. The ranking system amplifies this as certain ranks can only be achieved through specific paths and more complex moves (See the Gold vs Diamond video above).  At the moment, there are 29 levels, not including the tutorial and the several bonus challenges like the Creator's Challenge. There is a checkpoint system if you desire and after the tutorial cutscenes, there is very little downtime, leaving you to focus on perfecting your runs for that elusive Diamond ranking. All in all, this is a game for people who enjoy a fast-paced, challenging, first-person 3D puzzle platformer that allows them to get in quickly and game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's challenging, it feels very nice, it delivers what it promises.",
+            "review_score": "1"
+        }
+    ]
+}

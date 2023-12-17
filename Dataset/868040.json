@@ -1,0 +1,44 @@
+{
+    "app_id": 868040,
+    "name": "Stick Spartans",
+    "release_date": "2018-06-15",
+    "developer": [
+        "Sugoi Yellow"
+    ],
+    "publisher": [
+        "Sugoi Yellow"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 7,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 8.29,
+    "description": "Stick Spartans brings fast paced family friendly action to the living room where players poke other Spartans to eliminate them until only one remains.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868040/header.jpg?t=1550134317",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD E1-6010 APU (1.35 GHz) Memory: 4 GB RAM Graphics: AMD Radeon(TM) R2 Graphics Storage: 40 MB available space",
+    "recommended_requirements": "Additional Notes: 1080x1920 (16:9) monitor for optimal UI scaling",
+    "reviews": []
+}

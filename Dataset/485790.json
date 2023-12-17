@@ -1,0 +1,45 @@
+{
+    "app_id": 485790,
+    "name": "JOLT: Super Robot Racer",
+    "release_date": "2016-11-15",
+    "developer": [
+        "Cooply Solutions"
+    ],
+    "publisher": [
+        "Cooply Solutions"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Racing",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 21,
+    "positive_ratings": 8,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "JOLT is a fast paced, racing party game. The game at its core is a competitive platformer that’s all about maintaining momentum with skilful navigation. The players compete to be the last robot standing; using a charged burst of speed called the JOLT, and an array of different objects in the environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/485790/header.jpg?t=1507631891",
+    "minimum_requirements": "OS: Windows 7.0 Processor: Core i3 3.1 GHz Memory: 4 GB RAM Graphics: Radeon HD6870 with 1GB VRAM DirectX: Version 9.0 Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 853550,
+    "name": "Equilinox",
+    "release_date": "2018-11-23",
+    "developer": [
+        "ThinMatrix"
+    ],
+    "publisher": [
+        "ThinMatrix"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1078,
+    "negative_ratings": 53,
+    "price": 7.5,
+    "description": "Equilinox is a relaxing nature simulation game in which you can create and nurture your own ecosystems. Shape the world to your liking, cultivate and raise hundreds of different species, and evolve your wildlife to unlock more exotic plants and animals.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/853550/header.jpg?t=1556106639",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i5 or similar Memory: 2 GB RAM Graphics: Intel HD 4000 or better, capable of OpenGL 3.3+ support Storage: 300 MB available space Sound Card: Any",
+    "recommended_requirements": null,
+    "reviews": []
+}

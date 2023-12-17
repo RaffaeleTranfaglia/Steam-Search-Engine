@@ -1,0 +1,45 @@
+{
+    "app_id": 494350,
+    "name": "Bowl VR",
+    "release_date": "2016-06-24",
+    "developer": [
+        "Carbon Fiber Games"
+    ],
+    "publisher": [
+        "Carbon Fiber Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 7,
+    "positive_ratings": 8,
+    "negative_ratings": 10,
+    "price": 4.99,
+    "description": "Bowl VR is a high quality bowling simulation for virtual reality. It has fully featured bowling alleys with accurate physics and ball control, along with local multiplayer that delivers endless hours of fun.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/494350/header.jpg?t=1498714507",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 1 GB available space Additional Notes: A HTC Vive is required for this game.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater DirectX: Version 11 Storage: 1 GB available space Additional Notes: A HTC Vive is required for this game.",
+    "reviews": [
+        {
+            "review_text": "This game is a solid bowling experience! It feels very realistic, you can control the ball well. For the price you'll be hard pressed to find a better option. The controls took a bit to get used to, but aren't too hard to get working. Sound design could use some work but is good enough to get the job done. Can't wait for multiplayer!",
+            "review_score": "1"
+        }
+    ]
+}

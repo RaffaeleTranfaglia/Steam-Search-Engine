@@ -1,0 +1,41 @@
+{
+    "app_id": 1003230,
+    "name": "AIRA VR",
+    "release_date": "2019-01-31",
+    "developer": [
+        "racoonbytes"
+    ],
+    "publisher": [
+        "racoonbytes"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Tower Defense",
+        "VR"
+    ],
+    "achievements": 47,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 23.79,
+    "description": "You believed tower defense is only about building towers? That's not quite right – because AIRA VR is not like other tower defense games in virtual reality. Once the battle starts you find yourself in the midst of the fight!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1003230/header.jpg?t=1556290507",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel Core i5-4590 equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 970 equivalent or better DirectX: Version 11 Storage: 5 GB available space Additional Notes: HTC Vive, Oculus Rift or Windows Mixed Reality HMD required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-4770 equivalent or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1070 equivalent or better DirectX: Version 11 Storage: 5 GB available space Additional Notes: HTC Vive, Oculus Rift or Windows Mixed Reality HMD required",
+    "reviews": []
+}

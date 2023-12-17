@@ -1,0 +1,41 @@
+{
+    "app_id": 407560,
+    "name": "Killing Room",
+    "release_date": "2016-10-20",
+    "developer": [
+        "Alda Games"
+    ],
+    "publisher": [
+        "Alda Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 42,
+    "positive_ratings": 635,
+    "negative_ratings": 291,
+    "price": 6.99,
+    "description": "Rogue-like FPS with strong RPG elements set in a 22nd century reality-show parody. Win a fortune or die, but never disappoint your audience. And audience is virtual or real with revolutionary but optional features for streamers and their fans.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/407560/header.jpg?t=1482140387",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 (or AMD equivalent) Memory: 4 GB RAM Graphics: With DirectX 9.0c support (strongly recommended at least budget gaming dedicated GPU) DirectX: Version 9.0c Storage: 5 GB available space Sound Card: Windows compatible Sound card",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel i5 (or AMD equivalent) Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 970 (or AMD equivalent) DirectX: Version 9.0c Storage: 5 GB available space Sound Card: Windows compatible Sound card",
+    "reviews": []
+}

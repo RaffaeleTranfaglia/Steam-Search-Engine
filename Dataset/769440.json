@@ -1,0 +1,40 @@
+{
+    "app_id": 769440,
+    "name": "Beach Restaurant",
+    "release_date": "2018-01-09",
+    "developer": [
+        "OnBlind"
+    ],
+    "publisher": [
+        "OnBlind"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 19,
+    "positive_ratings": 21,
+    "negative_ratings": 26,
+    "price": 0.79,
+    "description": "Your task is to serve the orders of arriving tourists. Each order is unique, here you have a burger and cheeseburger, and soda and coffee.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/769440/header.jpg?t=1539904395",
+    "minimum_requirements": "OS: Windows 7 Processor: Core 2 Duo Graphics: 128mb Storage: 65 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

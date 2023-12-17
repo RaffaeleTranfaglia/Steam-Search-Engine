@@ -1,0 +1,39 @@
+{
+    "app_id": 677060,
+    "name": "Into the Rhythm VR",
+    "release_date": "2017-09-18",
+    "developer": [
+        "NTWO Studio Co., Ltd"
+    ],
+    "publisher": [
+        "NTWO Studio Co., Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "VR",
+        "Rhythm"
+    ],
+    "achievements": 22,
+    "positive_ratings": 27,
+    "negative_ratings": 7,
+    "price": 14.99,
+    "description": "Into the Rhythm VR is a drumming experience brought to virtual reality. You are given drum sticks along with 6 drums. Follow the dropping notes to play the awesome music you always wanted. All you need is a place to sit, and motion controllers to strike with rhythm!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/677060/header.jpg?t=1513652881",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Service Pack 1 (SP1) Processor: Intel i5-4590 or AMD FX 8350 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 970 or AMD Radeon R9 290 equivalent DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4590 or AMD FX 8350 Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1060 or AMD Radeon RX 480 equivalent or better DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

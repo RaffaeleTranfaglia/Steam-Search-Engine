@@ -1,0 +1,40 @@
+{
+    "app_id": 507300,
+    "name": "Club Manager 2017",
+    "release_date": "2017-03-24",
+    "developer": [
+        "BigBlaze Games"
+    ],
+    "publisher": [
+        "2tainment GmbH"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Sports",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 19,
+    "price": 19.99,
+    "description": "Club Manager 2017 lets you take on the role of an ambitious up-and-coming football manager once again. Start your career with a team in the German league or one of four international leagues.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/507300/header.jpg?t=1529491971",
+    "minimum_requirements": "OS: Windows 8 Processor: 1.0 GHz Intel Single-Core Processor Memory: 512 MB RAM Graphics: 3D-video card with 32 MB RAM, DirectX: Version 8.0 Storage: 2 GB available space Additional Notes: Resolution: 1024*768",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0 GHz Intel Single-Core Processor Memory: 2 GB RAM Graphics: 3D-video card with 512 MB RAM, DirectX: Version 11 Storage: 2 GB available space Additional Notes: Resolution: 1920*1080",
+    "reviews": []
+}

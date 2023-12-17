@@ -1,0 +1,41 @@
+{
+    "app_id": 604490,
+    "name": "Running Through Russia",
+    "release_date": "2017-05-21",
+    "developer": [
+        "Spell Helix"
+    ],
+    "publisher": [
+        "Spell Helix"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 4094,
+    "positive_ratings": 751,
+    "negative_ratings": 335,
+    "price": 0.79,
+    "description": "Running Through Russia - funny runner with a bunch of memes about Russia and russian people.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/604490/header.jpg?t=1527014016",
+    "minimum_requirements": "OS: Windows XP and later Processor: Intel Core i3 Memory: 512 MB RAM Graphics: Intel HD Graphics Storage: 50 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 7 and later Processor: Intel Core i7 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 1080 DirectX: Version 10 Storage: 100 MB available space Sound Card: Realtek Onboard Audio Chip",
+    "reviews": []
+}

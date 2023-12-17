@@ -1,0 +1,42 @@
+{
+    "app_id": 469600,
+    "name": "Legion TD 2",
+    "release_date": "2017-11-20",
+    "developer": [
+        "AutoAttack Games"
+    ],
+    "publisher": [
+        "AutoAttack Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Tower Defense"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1425,
+    "negative_ratings": 507,
+    "price": 15.49,
+    "description": "Competitive 2v2 and 4v4 tower defense. From the team that brought you Legion TD. Made by an indie team of 4 friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/469600/header.jpg?t=1554739721",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual core from Intel or AMD at 2.8 GHz. Memory: 4 GB RAM Graphics: nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

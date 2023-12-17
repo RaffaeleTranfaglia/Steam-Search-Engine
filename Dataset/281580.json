@@ -1,0 +1,51 @@
+{
+    "app_id": 281580,
+    "name": "Wings Over Europe",
+    "release_date": "2014-05-30",
+    "developer": [
+        "Third Wire Productions"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Flight"
+    ],
+    "achievements": 0,
+    "positive_ratings": 44,
+    "negative_ratings": 34,
+    "price": 6.99,
+    "description": "Realistic air combat is waiting for you, in some of the most intense dogfights of the Cold War era!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/281580/header.jpg?t=1447360507",
+    "minimum_requirements": "OS: Windows XP/2000 Processor: 650Mhz Pentium III/Athlon Processor Memory: 256 MB RAM Graphics: 32MB DirectX 9 Graphics Card DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This game is great. Period.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even after attempting to patch the game manually, it won't run on windows 8. when you start a mission, the game crashes and the window automatically closes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very boring and unrealistic and no mission editor. It takes forever to slow down your plane to land, even with engines off and full flaps. Atleast it was cheap. Also I could not find a full key layout for controls.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "don't bother with this game..... Your better off getting Strike Fighters 2: Europe or even all 5 SF2 games. Much better mods and has no problems running on newer OS",
+            "review_score": "-1"
+        }
+    ]
+}

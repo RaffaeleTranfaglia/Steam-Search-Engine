@@ -1,0 +1,45 @@
+{
+    "app_id": 517510,
+    "name": "Flatshot",
+    "release_date": "2017-12-22",
+    "developer": [
+        "Turupawn",
+        "Ceteco",
+        "bobbyliciou5",
+        "morghan831",
+        "immac"
+    ],
+    "publisher": [
+        "Rosalila"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Bullet Hell"
+    ],
+    "achievements": 24,
+    "positive_ratings": 9,
+    "negative_ratings": 2,
+    "price": 1.69,
+    "description": "Flatshot is a free as in freedom shooting game with flat and minimalist aesthetics. Shoot, dodge, parry and charge to defeat +50 enemy bosses. Sharpen your skills in this easy to learn hard to master Bullet Hell.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/517510/header.jpg?t=1514008094",
+    "minimum_requirements": "OS: Windows 7 Processor: i5 Graphics: Nvidia 335m Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 391630,
+    "name": "Necromonads",
+    "release_date": "2015-10-27",
+    "developer": [
+        "Gamesare"
+    ],
+    "publisher": [
+        "Clickteam"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Arcade",
+        "Retro"
+    ],
+    "achievements": 5,
+    "positive_ratings": 19,
+    "negative_ratings": 15,
+    "price": 2.79,
+    "description": "Space Colony Alert Bulletin! The Necromonads are at it again!! Colonists must in a orderly fashion proceed to the nearest shelter while the highly trained star pilot provides cover. Inspired by classic arcade shooters but with a twist. Captured colonists become infected and spread it to others. stop the Necromonads infection invasion now!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/391630/header.jpg?t=1447377373",
+    "minimum_requirements": "OS: Minimum Windows XP SP3 Operating System. Supports Vista, 7 and 8 Processor: 200 Mhz Pentium processor or higher Memory: 256 MB RAM Graphics: Must support minimum of Direct3D 9 Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "If you've ever played the arcade version of Defender, you'll find a lot to love in this game. Even if you've never played Defender, there's a lot to love here, from the retro-style graphics to the authentic arcade-quality sound effects to the nail-biting difficult gameplay. Like the games of old, this game will pull no punches. It's random, it's chaotic, and it's a lot of fun. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this game! If you liked Defender, then you should like Necromonads as well, since it's about as close as you can get without being an exact clone. This just brings back all sorts of fun fuzzy memories, a nice relaxing simple side-shooter... I wish we could get more like this.",
+            "review_score": "1"
+        }
+    ]
+}

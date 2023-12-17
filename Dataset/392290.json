@@ -1,0 +1,44 @@
+{
+    "app_id": 392290,
+    "name": "Macroboy Y",
+    "release_date": "2018-07-19",
+    "developer": [
+        "Hanged Bunny Studio"
+    ],
+    "publisher": [
+        "Hanged Bunny Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "Macroboy Y is a fast multiplayer platform and fighting game. Fights take place in dangerous, often vertical, arenas. You will have to move quickly and nimbly to be the last one alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/392290/header.jpg?t=1533663854",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Pentium IV Memory: 400 MB RAM Graphics: / Storage: 102 MB available space",
+    "recommended_requirements": "OS: Windows XP Processor: Intel Dual Core Memory: 400 MB RAM Graphics: / Storage: 102 MB available space",
+    "reviews": []
+}

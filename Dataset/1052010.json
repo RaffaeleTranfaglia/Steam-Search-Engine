@@ -1,0 +1,42 @@
+{
+    "app_id": 1052010,
+    "name": "Heidentum",
+    "release_date": "2019-04-11",
+    "developer": [
+        "Kirchesch"
+    ],
+    "publisher": [
+        "Kirchesch"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 4.79,
+    "description": "Heidentum is a multiplayer strategy game where you choose your Paganism and fight for it until your enemies are defeated.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/header.jpg?t=1555012344",
+    "minimum_requirements": "OS: Windows XP / Windows Vista / Windows 7 / Windows 10 Processor: 2.0 GHz Memory: 2 GB RAM Graphics: 512 MB VRAM Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows XP / Windows Vista / Windows 7 / Windows 10 Processor: 3.0 GHz Memory: 4 GB RAM Graphics: 1 GB VRAM Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

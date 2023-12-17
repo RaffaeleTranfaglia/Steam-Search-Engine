@@ -1,0 +1,40 @@
+{
+    "app_id": 257030,
+    "name": "Project Nimbus",
+    "release_date": "2017-09-26",
+    "developer": [
+        "GameCrafterTeam"
+    ],
+    "publisher": [
+        "KISS ltd",
+        "GameTomo"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Mechs",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 888,
+    "negative_ratings": 127,
+    "price": 15.49,
+    "description": "Project Nimbus is a high speed mech action game set in a post apocalyptic world. Players control 'Battle Frames' - humanoid battle suits armed with an arsenal of weapons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/257030/header.jpg?t=1538669519",
+    "minimum_requirements": "OS: Windows Vista/7/8 Processor: Intel Core 2 Duo Memory: 2 GB RAM Graphics: ATi HD5750 {Any card that support Shader Model 3.0 shall be able to run the game) DirectX: Version 9.0c Additional Notes:",
+    "recommended_requirements": null,
+    "reviews": []
+}

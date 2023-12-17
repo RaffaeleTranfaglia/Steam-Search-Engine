@@ -1,0 +1,38 @@
+{
+    "app_id": 604900,
+    "name": "Get'em Gary",
+    "release_date": "2017-03-11",
+    "developer": [
+        "Second Dimension R&T, LLC"
+    ],
+    "publisher": [
+        "Second Dimension R&T, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Inspired by games like Donkey Kong, Wrecking Crew, and Fix-It Felix Jr., Get'em Gary brings the classic arcade action feel to your PC!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/604900/header.jpg?t=1489245407",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: Intel Core i5 2.3 GHz Memory: 256 MB RAM Graphics: nVIDIA GeForce GT 525M Storage: 100 MB available space Sound Card: IDT 92HD87B1",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

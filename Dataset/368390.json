@@ -1,0 +1,42 @@
+{
+    "app_id": 368390,
+    "name": "The Darkside Detective",
+    "release_date": "2017-07-27",
+    "developer": [
+        "Spooky Doorway"
+    ],
+    "publisher": [
+        "Spooky Doorway"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Point & Click"
+    ],
+    "achievements": 30,
+    "positive_ratings": 680,
+    "negative_ratings": 32,
+    "price": 9.99,
+    "description": "Join The Darkside Detective, Francis McQueen, as he investigates the bizarre, the supernatural and those missing cat cases that keep getting dropped on his desk.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/368390/header.jpg?t=1546854075",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium 4 Memory: 2 GB RAM Graphics: Intel HD Chipset 3000 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Pentium 4 Memory: 4 GB RAM Graphics: Dedicated GPU DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

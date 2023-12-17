@@ -1,0 +1,45 @@
+{
+    "app_id": 426210,
+    "name": "Tyran",
+    "release_date": "2017-01-27",
+    "developer": [
+        "Dragon's Games"
+    ],
+    "publisher": [
+        "Dragon's Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 24,
+    "negative_ratings": 23,
+    "price": 4.79,
+    "description": "This is unusual mix of an RPG and strategy genres, simple to learn, but hard to master non casual gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/426210/header.jpg?t=1515404594",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel i5 Memory: 8 GB RAM Graphics: NVIDIA or AMD dedicated graphics with 1GB VRAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel i7 Memory: 8 GB RAM Graphics: NVIDIA or AMD dedicated graphics with 2GB VRAM DirectX: Version 9.0c Storage: 4 GB available space",
+    "reviews": []
+}

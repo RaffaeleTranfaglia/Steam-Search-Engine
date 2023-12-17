@@ -1,0 +1,37 @@
+{
+    "app_id": 736420,
+    "name": "Yag",
+    "release_date": "2019-02-04",
+    "developer": [
+        "Bonjourcoco"
+    ],
+    "publisher": [
+        "Bonjourcoco"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 13.49,
+    "description": "Yag is a Role Playing Game table. It offers what's needed to play rpgs: dungeons, miniatures, dice and character sheets, customizable and automatable through embedded LUA scripting. It lets you use any public picture from the net to play any game requiring a gameboard, dice, and pawns.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/736420/header.jpg?t=1555694871",
+    "minimum_requirements": "OS: windows 7 or later Processor: 2.33 Ghz or faster x86-compatible processor Memory: 4 GB RAM Network: Broadband Internet connection Storage: 20 GB available space Sound Card: no sound Additional Notes: Depends on the amount of assets you choose to display on screen.",
+    "recommended_requirements": null,
+    "reviews": []
+}

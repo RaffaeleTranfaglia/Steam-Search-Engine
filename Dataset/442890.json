@@ -1,0 +1,49 @@
+{
+    "app_id": 442890,
+    "name": "Magic Potion Explorer",
+    "release_date": "2016-03-11",
+    "developer": [
+        "ARTIFACTS"
+    ],
+    "publisher": [
+        "AGM PLAYISM"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 39,
+    "negative_ratings": 34,
+    "price": 6.99,
+    "description": "&quot;So you wish to be able to easily stock up on potion ingredients, eh?&quot; The morning after hearing these words, a dungeon had appeared beneath the potion store! Furious that someone had dug a dungeon in the shop without her permission, Pastel begins her underground investigation...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/442890/header.jpg?t=1554708954",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: Pentium III 1.0 GHz or better Memory: 256 MB RAM Graphics: 800x600 resolution or higher Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Extreamly deadly potions + rediculously powerful water pistol = BEST WEAPON EVER",
+            "review_score": "1"
+        },
+        {
+            "review_text": "too short, not enough interactability",
+            "review_score": "-1"
+        }
+    ]
+}

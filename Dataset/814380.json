@@ -1,0 +1,42 @@
+{
+    "app_id": 814380,
+    "name": "Sekiro™: Shadows Die Twice",
+    "release_date": "2019-03-21",
+    "developer": [
+        "FromSoftware"
+    ],
+    "publisher": [
+        "Activision (Excluding Japan and Asia)",
+        "FromSoftware (Japan)",
+        "方块游戏 (Asia)"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Souls-like",
+        "Difficult"
+    ],
+    "achievements": 34,
+    "positive_ratings": 21504,
+    "negative_ratings": 3019,
+    "price": 49.9,
+    "description": "Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore your honor. Kill Ingeniously.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/814380/header.jpg?t=1554918884",
+    "minimum_requirements": "OS: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit Processor: Intel Core i3-2100 | AMD FX-6300 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 760 | AMD Radeon HD 7950 DirectX: Version 11 Network: Broadband Internet connection Storage: 25 GB available space Sound Card: DirectX 11 Compatible",
+    "recommended_requirements": "OS: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit Processor: Intel Core i5-2500K | AMD Ryzen 5 1400 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 | AMD Radeon RX 570 DirectX: Version 11 Network: Broadband Internet connection Storage: 25 GB available space Sound Card: DirectX 11 Compatible",
+    "reviews": []
+}

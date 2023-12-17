@@ -1,0 +1,67 @@
+{
+    "app_id": 454180,
+    "name": "CrazyCars3D",
+    "release_date": "2016-06-14",
+    "developer": [
+        "Anea_Duo_Dev"
+    ],
+    "publisher": [
+        "Anea_Duo_Dev"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 9,
+    "positive_ratings": 134,
+    "negative_ratings": 69,
+    "price": 1.99,
+    "description": "CrazyCars3d is an arcadian platformer in which you will operate the machine.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/454180/header.jpg?t=1511499833",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8 Processor: 2.1 GHz Memory: 512 MB RAM Graphics: Geforce GT 320m DirectX: Version 9.0c Storage: 700 MB available space Sound Card: DirectX 9.0 Compatible Sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This Game is Fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  its a fun game i enjoyed it still am. but why am i not getting my card drops?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game delivered everything I expected of it. The graphics were great and more importantly, unique. If you play a lot of games in a given generation you start to notice similarities - everything done with the Havok engine looks a lot like everything else done with the Havok engine, and it's pretty much the same with Unreal Engine and Cry Engine etc. Some studios put more work into making their aesthetic unique, but these guys go way further with their own engine (which beats pretty much everything out there when it comes to certain things like hair, weather effects and wind-blown foliage) but every square inch of the game world was deliberate and hand crafted (rather than procedurally generated) and it really shows.  The audio is great too, with an inspiring orchestral soundtrack, and top-notch voice acting. It's particularly nice if you have a proper surround sound setup.  Controls are much improved over The Witcher 2, and combat is considerably more responsive and interesting.  But that was pretty much what I expected going in. Where this game really shines is in its storytelling and questing - two aspects which are quite a bit more closely intertwined here than in most adventure games. One thing that struck me about 20 hours into the game was that every single quest I had completed was unique. Where most games will have a handful of quest types that repeat over and over with variety being provided by increasing difficulty or changing the number and type of macguffins you have to collect/kill/whatever, this game goes completely off the rails by never really asking you to do the same thing twice. Even the monster hunts, which I suppose are technically a repeated 'quest type' were all so different from one another that it didn't really seem that way - every one of them had a different story behind it, some were short, some were long and some had multiple parts. I could go on, but if you've ever complained that some big AAA adventure game had too much repetition, this game is the cure.  And on that note, the story was pretty amazing. It was organic and had human characters with unique and believable motivations, myriad agendas, character flaws, redeeming qualities, charming idiosyncrasies. These are some of the most well rounded and 'three-dimensional' characters to ever populate a game world. The developers clearly spent a lot of time avoiding formulaic shortcuts and by-the-book dialogue trees. The story is woven so seamlessly into the questing and gameplay that it really stands apart from just about any game I might be tempted to compare it with. This is a mature game with adult themes - and by that I don't just mean sex scenes. A lot of other games attempt to approach and depict sex in a way that is stilted and ultimately disconnected from the larger narrative of the game. This game approaches the entire topic in a mature and holistic manner, portraying not just the act, but the consequences. Relationships are very realistically impacted. You know, real, actual maturity, not fodder for snickering teenagers.  In conclusion, I can't really say enough good about this game. It was a true labor of love, with a story that is both carefully cultivated and organically influenced, combat and progression that feels better than its predecessors and a huge open world to explore.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It feels so empty, incomplete. It sadly lacks so much in terms of game play, audio, graphics, detail, basically all round. Would have been ok to play for free but it's really not worth the $3.00",
+            "review_score": "-1"
+        }
+    ]
+}

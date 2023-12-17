@@ -1,0 +1,38 @@
+{
+    "app_id": 856440,
+    "name": "Cube - The Jumper",
+    "release_date": "2018-05-15",
+    "developer": [
+        "DZEJK"
+    ],
+    "publisher": [
+        "Garage Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 39,
+    "negative_ratings": 74,
+    "price": 1.69,
+    "description": "In front of you is a touching 2D-platformer, the central character of which is a simple red cube. There are many dangerous obstacles and surprises ahead!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/856440/header.jpg?t=1553584846",
+    "minimum_requirements": "OS: Windows XP Processor: Intel Celeron, Single Core Memory: 512 MB RAM Graphics: Intel HD Graphics Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 200 MB available space",
+    "reviews": []
+}

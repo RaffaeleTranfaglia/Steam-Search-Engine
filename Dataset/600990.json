@@ -1,0 +1,41 @@
+{
+    "app_id": 600990,
+    "name": "The Gardens Between",
+    "release_date": "2018-09-19",
+    "developer": [
+        "The Voxel Agents"
+    ],
+    "publisher": [
+        "The Voxel Agents"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 17,
+    "positive_ratings": 252,
+    "negative_ratings": 17,
+    "price": 15.49,
+    "description": "The Gardens Between is a surreal puzzle adventure that follows best friends, Arina and Frendt, as they fall into a mysterious world of beautiful garden islands. Manipulate time to solve puzzles and discover the secrets of each island.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600990/header.jpg?t=1551670562",
+    "minimum_requirements": "OS: 7 Processor: 1.8 GHz Memory: 4 GB RAM Graphics: Intel HD 4000 Series DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: 10 Processor: 2.4 GHz Memory: 8 GB RAM Graphics: GeForce 780 DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

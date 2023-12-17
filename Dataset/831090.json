@@ -1,0 +1,41 @@
+{
+    "app_id": 831090,
+    "name": "OS:Path",
+    "release_date": "2018-04-19",
+    "developer": [
+        "GooDCrafter"
+    ],
+    "publisher": [
+        "GooDCrafter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 5,
+    "positive_ratings": 26,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "Small but tricky indie game to spend your evening on playing. You'll have to determine the cause of a program's critical error and restore its modules by playing mini games and solving puzzles while using the console.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/831090/header.jpg?t=1537307703",
+    "minimum_requirements": "OS: Windows Vista or later Processor: 1 GHz processor Memory: 1 GB RAM Graphics: 128MB Video Memory, support OpenGL 3.3 or better Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

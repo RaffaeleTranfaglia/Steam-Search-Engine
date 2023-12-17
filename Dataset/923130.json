@@ -1,0 +1,45 @@
+{
+    "app_id": 923130,
+    "name": "Plunder Squad",
+    "release_date": "2018-09-24",
+    "developer": [
+        "AK Sommerville"
+    ],
+    "publisher": [
+        "AK Sommerville"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 5.19,
+    "description": "Puzzle-oriented adventure game for 1-8 players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/923130/header.jpg?t=1538225304",
+    "minimum_requirements": "OS: 7 Processor: i5 Memory: 256 MB RAM Graphics: OpenGL 2 Storage: 2 MB available space",
+    "recommended_requirements": "OS: 7 Processor: i5 Memory: 256 MB RAM Graphics: OpenGL 2 Storage: 2 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 588690,
+    "name": "Peace, Death!",
+    "release_date": "2017-03-24",
+    "developer": [
+        "AZAMATIKA"
+    ],
+    "publisher": [
+        "AZAMATIKA"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 126,
+    "positive_ratings": 1000,
+    "negative_ratings": 62,
+    "price": 3.59,
+    "description": "Peace, Death! is an arcade simulator with difficulties. In this game you play as the Reaper working for your boss, Death, and send clients to Heaven, Hell, or Purgatory.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/588690/header.jpg?t=1544194832",
+    "minimum_requirements": "OS: Windows 7 and above Processor: Intel Pentium 2.9 Ghz or equivalent Memory: 1024 MB RAM Graphics: 512 Mb DirectX 9 compatible video card with shader model 3.0 support DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: Mouse + Keyboard",
+    "recommended_requirements": "Memory: 2048 MB RAM Additional Notes: Sense of humor",
+    "reviews": []
+}

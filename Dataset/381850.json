@@ -1,0 +1,46 @@
+{
+    "app_id": 381850,
+    "name": "My Paper Boat",
+    "release_date": "2015-09-23",
+    "developer": [
+        "TML-Studios"
+    ],
+    "publisher": [
+        "Aerosoft GmbH"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Racing"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Racing"
+    ],
+    "achievements": 13,
+    "positive_ratings": 21,
+    "negative_ratings": 10,
+    "price": 4.5,
+    "description": "In “My Paper Boat”, the player takes over control of an eponymous paper boat and steers it through various waters. In the course of this, some challenges are waiting. It is a small game, ideal for the meantime – and thus, My Paper Boat it is a lot of fun.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/381850/header.jpg?t=1556187198",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 Processor: min. Intel Core i3 Memory: 4 GB RAM Graphics: GeForce GT 440 or similar AMD; or Intel HD 5000 Storage: 5 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A hidden game gem; thats all one can really say about this relaxing and sometimes annoying (in a good puzzely way).  There is alot of hidden areas to explore and there is always an achivement to strife for (example; collect all coins in a level).  Gameplay wise this is a really good hidden gem.  Id even say it is worth the full price of 5 Euros. (not something I most often feel is the case with other games)",
+            "review_score": "1"
+        }
+    ]
+}

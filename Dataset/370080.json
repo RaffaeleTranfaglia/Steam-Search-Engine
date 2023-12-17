@@ -1,0 +1,55 @@
+{
+    "app_id": 370080,
+    "name": "Breezeblox",
+    "release_date": "2015-05-15",
+    "developer": [
+        "Pugsley LLC"
+    ],
+    "publisher": [
+        "Pugsley LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 3,
+    "positive_ratings": 54,
+    "negative_ratings": 7,
+    "price": 1.99,
+    "description": "Breezeblox is an addictive puzzle game where the objective is to reach the end cube without moving off the platform. Special cubes throughout the puzzles will trigger different actions on the platform to aid you with progressing. With 150 challenging puzzles to complete, your brain will be plenty busy.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/370080/header.jpg?t=1447374389",
+    "minimum_requirements": "OS: Windows XP or higher Processor: 1 Ghz or faster processor Memory: 512 MB RAM Storage: 175 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " 'The easy GooCubePlate'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed the game. Well worth it for the purchase price. The game needs interface improvements. There is a somewhat lack of options and in order to change resolutions you must restart the game. Your required to select a resolution size prior to launching the game. This is somewhat annoying. Considering if you don't like the selected resolution you must restart. Game interface and the level joining relatively easy no complaints. Game just needs better options.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very hard!",
+            "review_score": "-1"
+        }
+    ]
+}

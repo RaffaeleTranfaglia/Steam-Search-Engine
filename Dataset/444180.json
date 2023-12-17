@@ -1,0 +1,65 @@
+{
+    "app_id": 444180,
+    "name": "Techwars Online",
+    "release_date": "2016-03-17",
+    "developer": [
+        "Argus Games"
+    ],
+    "publisher": [
+        "Argus Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "MMO",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Massively Multiplayer",
+        "Indie"
+    ],
+    "achievements": 48,
+    "positive_ratings": 76,
+    "negative_ratings": 37,
+    "price": 3.99,
+    "description": "Immerse yourself in a world of old-school turn-based strategy with massive combat mechs. Real hardcore PvP: two factions, each with just one mech with 20 additional specializations and a pilot-neuroimplant system.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/444180/header.jpg?t=1546940185",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3-xxx, AMD FX-4300 Memory: 3 GB RAM Graphics: Discrete, Low Cost DirectX: Version 9.0 Storage: 200 MB available space Sound Card: Any sound card",
+    "recommended_requirements": "OS: Windows 7 or Higher Processor: Intel i5-3xxx, AMD FX-6500 or higher Memory: 6 GB RAM Graphics: Discrete, Mid Cost or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 200 MB available space Sound Card: Any sound card",
+    "reviews": [
+        {
+            "review_text": "This is a great strategy game. I enjoyed the game.  -Gameplay experience is outstanding   -Graphics is up to a really good standard  -There are able to customize the weapons and armour   I definitly recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's cool!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "ROBOTS FIGHTING WITH LASERS AND ♥♥♥♥! 10/10 for me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome and fun game to play. I can never seem to get enough of smashing mechs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the first time where a game has been so un-enjoyable where I had to request for a refund. The game mechanics are not bad, but the customizability is just hideous. If ' enormous potential to upgrade ' means only able to change number of ammunition rounds and armor plates, then the author clearly hasn't played other games like Armored Core or Front Mission. You can't even swap weapons from right to left. It is also not clear if you can switch corporations later in the game, since you are forced to pick one before you even start the tutorials.  The UI seems like the game is still in early access, where you can't change the window size nor other settings like mouse speed or controls. Game window size only comes in 2 settings, the default window size and full-screen at a user-specified screen resolution. Other features like neuro-implants have no good in-game explanation on what they actually do and it seems like clicking the buttons to upgrade each implant ability seems to not be working.  The campaign mode is also ludicrously difficult for a game that's geared to bring in new users. I was on a 10 game winning streak under the 'skirmish' mode (1 vs. 1 AI bot battles), but my first loss was on the very first map of the campaign. I then tried the second map and learned that you are forced to fight against 4 enemy mechs. (You only start with 1 mech and have to spend 500 + 1000 credits for every new mech.) I thought it was some kind of rigged event-battle, but nope you had to defeat all 4 mechs in order to win. Currency in this game is a bit weird since it seems like the only use it has is to buy more ammo and armor (hit points).  Overall, I feel both ripped-off and cheated. Ripped-off for paying the price for what I should be paying for a well-polished  non-early access   indie game, and cheated for the notion that mechs with fixed weapons &amp; ammo-count upgrades are somehow acceptable for it to self-define 'enormous upgrade potential' as a game in the mech genre. ",
+            "review_score": "-1"
+        }
+    ]
+}

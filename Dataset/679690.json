@@ -1,0 +1,43 @@
+{
+    "app_id": 679690,
+    "name": "SwapQuest",
+    "release_date": "2017-08-22",
+    "developer": [
+        "Rebusmind"
+    ],
+    "publisher": [
+        "Rebusmind"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Casual",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 34,
+    "positive_ratings": 4,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "SwapQuest is a captivating new mix of easy-to-learn puzzle mechanics and old-school RPG elements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/679690/header.jpg?t=1504467161",
+    "minimum_requirements": "OS: Windows XP Memory: 512 MB RAM Graphics: 128MB Graphics Memory Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7 Memory: 1024 MB RAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "reviews": []
+}

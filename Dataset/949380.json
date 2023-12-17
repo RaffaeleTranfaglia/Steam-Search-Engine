@@ -1,0 +1,43 @@
+{
+    "app_id": 949380,
+    "name": "AV-17",
+    "release_date": "2018-10-18",
+    "developer": [
+        "WANZUNGDEV"
+    ],
+    "publisher": [
+        "WANZUNGDEV"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 31,
+    "negative_ratings": 7,
+    "price": 0.0,
+    "description": "AV-17 is a FREE 2D action platformer inspired by information technology and BUBBLE BOBBLE!!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/949380/header.jpg?t=1540435725",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3 Memory: 512 MB RAM Graphics: Any Modern Card In Last Several Years Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 Memory: 2 GB RAM Graphics: Any Modern Card In Last Several Years Storage: 150 MB available space",
+    "reviews": []
+}

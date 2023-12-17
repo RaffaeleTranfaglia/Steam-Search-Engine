@@ -1,0 +1,40 @@
+{
+    "app_id": 799270,
+    "name": "Looney Rally",
+    "release_date": "2018-02-17",
+    "developer": [
+        "BeshevGames"
+    ],
+    "publisher": [
+        "BeshevGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 5,
+    "price": 2.09,
+    "description": "Get behind the wheel of a racing rally car or a truck and go head to head against other rival AI racers in gorgeous locations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/799270/header.jpg?t=1519287909",
+    "minimum_requirements": "OS: Microsoft® Windows® Vista / 7 / 8 / 10 Processor: AMD Phenom II X4 or Intel Core i3-7100T Memory: 2 GB RAM Graphics: Intel HD 5000 or Radeon R5 M320 or GeForce GTX 280M DirectX: Version 9.0c Storage: 512 MB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® Vista / 7 / 8 / 10 Processor: AMD FX-6300 or Intel Core i5-3570K Memory: 4 MB RAM Graphics: Nvidia GeForce GTX 660 or AMD Radeon HD 7850 DirectX: Version 10 Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 547250,
+    "name": "Oscar Mike VR",
+    "release_date": "2016-12-01",
+    "developer": [
+        "For Loop Games"
+    ],
+    "publisher": [
+        "For Loop Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 2,
+    "negative_ratings": 5,
+    "price": 14.99,
+    "description": "Oscar Mike VR is a fast paced 5-on-5 FPS game for the Vive. Players can play as the International Special Forces or the Fifth Column. OM:VR features realistic maps and weapons that make the players feel immersed in the action.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547250/header.jpg?t=1480579641",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher Processor: Intel i5 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher Processor: Intel i7 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 980 DirectX: Version 11 Storage: 5 GB available space",
+    "reviews": []
+}

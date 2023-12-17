@@ -1,0 +1,42 @@
+{
+    "app_id": 534440,
+    "name": "Killing Zombies",
+    "release_date": "2016-10-27",
+    "developer": [
+        "FRS Game Studio"
+    ],
+    "publisher": [
+        "Front Range Software, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Zombies"
+    ],
+    "achievements": 33,
+    "positive_ratings": 19,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Surrounded by darkness, and undead creatures coming in from all angles. As the resistant soldier, you have been assigned to do one thing – kill them all. Killing Zombies is a 4 player online co-op horror survival shooter for the HTC Vive, with wave-driven VR gameplay from Front Range Software.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/534440/header.jpg?t=1489283653",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 4 GB RAM Graphics: Nvidia GeForce GTX970, or AMD Radeon R9 290 equivalent or greater DirectX: Version 11 Storage: 250 MB available space Additional Notes: Virtual Reality Capable System",
+    "recommended_requirements": null,
+    "reviews": []
+}

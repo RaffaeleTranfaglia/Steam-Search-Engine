@@ -1,0 +1,58 @@
+{
+    "app_id": 300630,
+    "name": "Pure Chess Grandmaster Edition",
+    "release_date": "2016-09-09",
+    "developer": [
+        "Ripstone"
+    ],
+    "publisher": [
+        "Ripstone"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 13,
+    "positive_ratings": 66,
+    "negative_ratings": 32,
+    "price": 11.99,
+    "description": "Chess! One of the world’s most popular games, has just got even better! Pure Chess Grandmaster Edition is a stunning celebration of the greatest strategy game of all time.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/300630/header.jpg?t=1506940240",
+    "minimum_requirements": "OS: Windows Vista Processor: 2.0 GHz Dual Core Memory: 2 GB RAM Graphics: NVIDIA GeForce 8800GT or AMD Radeon HD 3830 DirectX: Version 10 Network: Broadband Internet connection Storage: 600 MB available space Sound Card: DirectX 9.0C compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.0+ GHz Dual Core Memory: 3 GB RAM Graphics: NVIDIA GeForce GTX 560 or AMD Radeon HD 7750 DirectX: Version 10 Network: Broadband Internet connection Storage: 600 MB available space Sound Card: DirectX 9.0c compatible",
+    "reviews": [
+        {
+            "review_text": "  This game looks beautiful, but this is pretty much it. They focused on making it look as sexy as possible and left the AI to be broken as hell.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its a beautiful game. Really feels like the game of kings, unlike other comic-like chess games on steam. Feels like the devs take it serious. It's made of beautiful graphics and environments. Even tough it could have more rooms to choose from, they really know how to make a beautiful setting to play chess.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple chess program with both local AI play and online play. Also chess tutoring and chess problems exist to challenge you.   Lots of different chess set styles to choose from, and each style has a sub style of wood, metal, etc. you can change your view using the mouse, but it doesnt appear to be a truly free camera movement. All in all, I think its worth the 10 bucks if you like chess and want a nice little program to play it.",
+            "review_score": "1"
+        }
+    ]
+}

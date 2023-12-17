@@ -1,0 +1,38 @@
+{
+    "app_id": 418940,
+    "name": "Waba",
+    "release_date": "2018-07-10",
+    "developer": [
+        "EDWON"
+    ],
+    "publisher": [
+        "EDWON"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Waba is the wobbliest, cuddliest, virtualest VR pet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/418940/header.jpg?t=1539372943",
+    "minimum_requirements": "OS: Windows 7 SP1 64 bit or newer Processor: Intel i5-4590 / AMD FX 8350 equivalent or greater Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 480, equivalent or better Storage: 75 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

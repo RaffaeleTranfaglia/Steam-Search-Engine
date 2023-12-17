@@ -1,0 +1,39 @@
+{
+    "app_id": 580510,
+    "name": "Mr. Donovan",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Swizzle llc"
+    ],
+    "publisher": [
+        "Swizzle llc"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 18,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Harness your MOBA skills, and dominate the first of the SOBOs! Discover the Single-player Online Battle Open-world genre, fight for your life, explore an alien planet, defend your crashed ship, survive arena battles, encounter intelligent adversaries, and earn the love of appropriately odd pets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/580510/header.jpg?t=1495759675",
+    "minimum_requirements": "OS: Windows 7 Processor: 3+ GHz Dual Core Processor Memory: 2 GB RAM Graphics: AMD Radeon HD 6000 series or NVIDIA GeForece 500 series DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

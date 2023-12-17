@@ -1,0 +1,44 @@
+{
+    "app_id": 576390,
+    "name": "365 Days",
+    "release_date": "2019-02-25",
+    "developer": [
+        "Mugle Studio"
+    ],
+    "publisher": [
+        "Mugle Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 33,
+    "positive_ratings": 10,
+    "negative_ratings": 17,
+    "price": 6.99,
+    "description": "To survive in the wilderness always seems to be something dangerous and scary. But in this game you'll stay alone with nature, which does not want to kill you. Wild animals are aggressive here, but they just defend their territory and themselves. Animals will study you and your habits.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/576390/header.jpg?t=1551109375",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Intel Core i3-6100 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 950 DirectX: Version 10 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: Intel Core i5 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 DirectX: Version 12 Storage: 3 GB available space",
+    "reviews": []
+}

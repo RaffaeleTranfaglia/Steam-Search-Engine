@@ -1,0 +1,38 @@
+{
+    "app_id": 853980,
+    "name": "Splash",
+    "release_date": "2018-05-21",
+    "developer": [
+        "Jan Urbanek"
+    ],
+    "publisher": [
+        "Jan Urbanek"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "Splash is a fast-paced arcade-style game where you try to withstand waves of enemies and rack up a highscore bigger than all of your friends. All while listening to a killer 80s synth-soundtrack by legendary Koto.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/853980/header.jpg?t=1526890052",
+    "minimum_requirements": "OS: Windows Vista SP1 Processor: 2.0 GHz Dual-Core CPU Memory: 1 GB RAM Graphics: Integrated graphics DirectX: Version 10 Storage: 200 MB available space Sound Card: Integrated audio",
+    "recommended_requirements": "OS: Windows 10 Processor: 3.5 GHz Quad-Core CPU Memory: 2 GB RAM Graphics: Graphics card DirectX: Version 11 Storage: 200 MB available space Sound Card: Integrated audio",
+    "reviews": []
+}

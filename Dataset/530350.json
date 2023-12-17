@@ -1,0 +1,39 @@
+{
+    "app_id": 530350,
+    "name": "Smashbox Arena",
+    "release_date": "2016-12-07",
+    "developer": [
+        "BigBox VR, Inc."
+    ],
+    "publisher": [
+        "BigBox VR, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "SteamVR Collectibles",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "VR",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 382,
+    "negative_ratings": 15,
+    "price": 14.99,
+    "description": "Team-based action game with insane physics-driven power-ups. Shoot, duck behind cover, and coordinate with teammates...all in glorious VR! Play both Singleplayer Story Mode and Online Multiplayer!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/530350/header.jpg?t=1508799504",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1, Windows 8.1 or later, Windows 10 Processor: CPU: Intel i5-4590 equivalent or better Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 3 GB available space Sound Card: N/A Additional Notes: Only for VR",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 601110,
+    "name": "Twin Roads",
+    "release_date": "2017-07-05",
+    "developer": [
+        "WarPI Games"
+    ],
+    "publisher": [
+        "WarPI Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 89,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Our hero Finn got lost in a dream world, guide him and his friends to freedom! Enjoy a calm but a challenging adventure that will defy your mind.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/601110/header.jpg?t=1514387715",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP SP2 Processor: CPU: SSE2 instruction set and 64 bits support Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 9.0 Storage: 500 MB available space Sound Card: Yes Additional Notes: Optional VR headset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: CPU: SSE2 instruction set and 64 bits support. Memory: 8 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. DirectX: Version 11 Storage: 1000 MB available space Sound Card: Yes Additional Notes: Optional VR headset",
+    "reviews": []
+}

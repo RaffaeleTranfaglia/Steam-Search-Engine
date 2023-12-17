@@ -1,0 +1,38 @@
+{
+    "app_id": 812180,
+    "name": "Intro Maker",
+    "release_date": "2018-03-26",
+    "developer": [
+        "Spinning Hat Studio"
+    ],
+    "publisher": [
+        "Spinning Hat Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 6,
+    "price": 3.99,
+    "description": "A very easy, customizable intro maker for your upcoming streams. Many customization's and maps that will engage and allow people to know when your stream will be starting.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/812180/header.jpg?t=1530849856",
+    "minimum_requirements": "OS: 7 Processor: Intel® Core™ i5 Processor Memory: 4 GB RAM Graphics: Geoforce GTX 650 or higher, DirectX 11 compatible DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: 7 Processor: Intel® Core™ i7 Processor Memory: 8 GB RAM Graphics: Geoforce GTX 760 or higher, DirectX 11 compatible DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 521890,
+    "name": "Hello Neighbor",
+    "release_date": "2017-12-08",
+    "developer": [
+        "Dynamic Pixels"
+    ],
+    "publisher": [
+        "tinyBuild"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Horror",
+        "First-Person",
+        "Singleplayer"
+    ],
+    "achievements": 17,
+    "positive_ratings": 1531,
+    "negative_ratings": 640,
+    "price": 23.79,
+    "description": "Hello Neighbor is a Stealth Horror Game about sneaking into your neighbor's house and figuring out what he's hiding in the basement. Play against an advanced AI that learns from your actions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/521890/header.jpg?t=1533342069",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 and up Processor: i5 and up Memory: 6 GB RAM Graphics: GTX 770 and up DirectX: Version 11 Storage: 5 GB available space Sound Card: Stereo. Play with good stereo.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: i7 Memory: 8 GB RAM Graphics: GTX 1060 DirectX: Version 12 Storage: 5 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 914500,
+    "name": "Boons Farm",
+    "release_date": "2018-08-16",
+    "developer": [
+        "WoahStudiosus"
+    ],
+    "publisher": [
+        "WoahStudiosus"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 14,
+    "negative_ratings": 22,
+    "price": 0.79,
+    "description": "A casual shoot'm dead endless waved zombie game, upgrade weapons and compete to get the highest score.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/914500/header.jpg?t=1534427041",
+    "minimum_requirements": "OS: Windows 7+ Processor: Dual Core processor Memory: 4 GB RAM Graphics: r7 260x, or Equivalent DirectX: Version 10 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 8.1+ Processor: Quad-Core 6th Generation Intel, or Ryzen series 1300x+ Memory: 8 GB RAM Graphics: GTX 770 DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

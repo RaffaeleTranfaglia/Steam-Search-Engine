@@ -1,0 +1,58 @@
+{
+    "app_id": 291390,
+    "name": "Three Dead Zed",
+    "release_date": "2014-07-07",
+    "developer": [
+        "Gentleman Squid Studio"
+    ],
+    "publisher": [
+        "Gentleman Squid Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Zombies"
+    ],
+    "achievements": 14,
+    "positive_ratings": 68,
+    "negative_ratings": 35,
+    "price": 4.79,
+    "description": "Take control of an experimental zombie that can transform into three unique and distinct forms. With quick reflexes, a little problem solving, and some rescued kittens, players make a violent exit that won't be forgotten by their captors.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/291390/header.jpg?t=1478262689",
+    "minimum_requirements": "Минимальные: ОС: Windows XP SP3, Vista, 7, 8 Процессор: Dual Core 2.2GHZ Оперативная память: 2 GB ОЗУ Видеокарта: Nvidia 8xxx/Radeon HD 2xxx series graphics cards (XNA 4.0 Hi-Def compatible card, Pixel Shader 3.0, Vertex Shader 3.0) (Integrated Video Cards not recommended) DirectX: Версии 10 Место на диске: 450 MB Дополнительно: Intel 4000HD video card has been tested and works",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This just isn't a good game.  Three Dead Zed is a puzzle-platformer game where you can switch between three different forms at will; a default form that can climb ladders and interact with objects, a heavy form that can deal extra damage and break certain blocks, and a light form that is agile and can walljump, but can't attack. The puzzles are very light; it's almost all about finding the right switch or destroying the right generator to unlock the path forward.  The problem with the game is the controls just don't feel right. Since the heavy form can't traverse anything and the normal form is still relatively slow with poor jumping abilities, you'll mostly be platforming as the nimble light form. But the platforming just doesn't feel good. Jumping and landing accurately feels like it's much harder than it should be, and there are some absolutely ridiculous spikes in difficulty that just seem unfair. At one point I had to quit the game to do something else, but I was in the middle of a level and thought 'I better just finish this first because there is no way I ever want to play this level again.' That is a bad sign for a game, period.  The main game took 90 minutes to beat, but it unlocked a challenge mode. But really, when the story mode was just a complete slog to get through, there's no way I'm going to want to play a more frustrating version of that. Don't buy this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Short. Loose controls as in crap -&gt; had to battle controlling my character(still not as bad as oozi: earth adventure) which instantly makes it annoying &amp; frustrating -&gt; that leads to it not being fun even when core game might be ok. 2/10 (played with a x360 pad)",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "10/10 'Its like going to a 50 cent store and getting the perfect game for you to play on a friday night.'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Eat the humans, rescue the cats.",
+            "review_score": "1"
+        }
+    ]
+}

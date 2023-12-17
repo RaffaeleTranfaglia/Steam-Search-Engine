@@ -1,0 +1,45 @@
+{
+    "app_id": 925900,
+    "name": "Monica e a Guarda dos Coelhos",
+    "release_date": "2018-12-04",
+    "developer": [
+        "Mad Mimic"
+    ],
+    "publisher": [
+        "Mad Mimic"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "MONICA E A GUARDA DOS COELHOS is a couch co-op game for 1 to 4 players. Playing as a group with heroes from the Brazilian IP Monica and Friends, everyone must play a role and defend the castles!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/925900/header.jpg?t=1543965748",
+    "minimum_requirements": "OS: Windows 10 Processor: 2.8 GHz intel core 2 duo Memory: 2 GB RAM Graphics: 512 Mb DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

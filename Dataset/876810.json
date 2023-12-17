@@ -1,0 +1,37 @@
+{
+    "app_id": 876810,
+    "name": "One Jump Bomb",
+    "release_date": "2018-09-06",
+    "developer": [
+        "CGevo"
+    ],
+    "publisher": [
+        "CGevo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 26,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "A simple but not easy one button platformer",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/876810/header.jpg?t=1536226502",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/10 Processor: 2.5 ghz Memory: 256 MB RAM Graphics: Direct X 9.0 compatilble card DirectX: Version 9.0 Storage: 100 MB available space Sound Card: any audio card",
+    "recommended_requirements": null,
+    "reviews": []
+}

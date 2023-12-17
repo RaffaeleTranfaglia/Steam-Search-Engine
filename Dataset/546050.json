@@ -1,0 +1,46 @@
+{
+    "app_id": 546050,
+    "name": "Puyo Puyo™Tetris®",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Sonic Team",
+        "Bitbaboon"
+    ],
+    "publisher": [
+        "SEGA"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Puzzle",
+        "Casual",
+        "Competitive"
+    ],
+    "achievements": 42,
+    "positive_ratings": 1610,
+    "negative_ratings": 379,
+    "price": 14.99,
+    "description": "Two puzzle game juggernauts collide as global phenomenon Tetris® and SEGA’s famous Puyo Puyo™ combine in a super mash-up of ferocious competition, adorable looks, and addictive puzzle fun!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/546050/header.jpg?t=1529944587",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Microsoft Windows 7 / 8 (8.1) / 10  64Bit Processor: Intel Core i3  or AMD equivalent Memory: 4 GB RAM Graphics: DX11 compliant video card with 1 GB VRAM DirectX: Version 11 Storage: 7 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

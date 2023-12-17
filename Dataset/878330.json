@@ -1,0 +1,41 @@
+{
+    "app_id": 878330,
+    "name": "Whip! Whip!",
+    "release_date": "2018-06-28",
+    "developer": [
+        "Alpha unit"
+    ],
+    "publisher": [
+        "Alpha unit"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 10,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "* Whip! Whip! requires a controller to play * 1980s Arcade video game style Action!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/878330/header.jpg?t=1530864715",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 2Ghz or faster processer Memory: 1 GB RAM Graphics: OpenGL 3.3 DirectX: Version 9.0 Storage: 158 MB available space Additional Notes: No keyboard support",
+    "recommended_requirements": null,
+    "reviews": []
+}

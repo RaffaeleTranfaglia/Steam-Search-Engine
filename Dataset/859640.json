@@ -1,0 +1,38 @@
+{
+    "app_id": 859640,
+    "name": "Along Together",
+    "release_date": "2018-05-29",
+    "developer": [
+        "Turbo Button"
+    ],
+    "publisher": [
+        "Turbo Button"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 22,
+    "positive_ratings": 18,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "Become a kid’s imaginary friend, and work together in an epic VR puzzle-platforming adventure!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/859640/header.jpg?t=1530813307",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 or greater Memory: 4 GB RAM Graphics: NVIDIA GeForce 1050 or greater Storage: 850 MB available space Additional Notes: Compatible VR headset required.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 619780,
+    "name": "The Swords of Ditto",
+    "release_date": "2018-04-24",
+    "developer": [
+        "onebitbeyond"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Action"
+    ],
+    "achievements": 20,
+    "positive_ratings": 650,
+    "negative_ratings": 597,
+    "price": 11.39,
+    "description": "The Swords of Ditto is a roguelite action RPG that creates a unique adventure for each new hero of legend in the relentless fight against the evil Mormo.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/619780/header.jpg?t=1548967604",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 x86/x64 Processor: Intel Core i5-3210M (2 * 2500) or equivalent Memory: 4 GB RAM Graphics: Intel HD 4000 DirectX: Version 9.0c Storage: 1 GB available space Additional Notes: Some integrated cards have an issue with memory and may not launch the game",
+    "recommended_requirements": "OS: Windows 7/8/8.1/10 x64 Processor: Intel Pentium G3250 (2 * 3200) or AMD Phenom 9850 Quad-Core (4 * 2500) or equivalent Memory: 8 GB RAM Graphics: GeForce GTX 460 (1024 MB) or Radeon HD 6850 (1024 MB) DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

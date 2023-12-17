@@ -1,0 +1,39 @@
+{
+    "app_id": 863280,
+    "name": "Astraeus",
+    "release_date": "2018-06-07",
+    "developer": [
+        "E McNeill"
+    ],
+    "publisher": [
+        "E McNeill"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 1,
+    "price": 11.39,
+    "description": "Astraeus is a VR asteroid mining RTS game that's quick to play, easy to learn, and enormous in scope. Build a mining network from dozens of bases, and watch as hundreds of ships swarm around you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/863280/header.jpg?t=1528383757",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce™ GTX 960, equivalent or better Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

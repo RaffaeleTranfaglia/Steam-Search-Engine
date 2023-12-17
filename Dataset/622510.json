@@ -1,0 +1,41 @@
+{
+    "app_id": 622510,
+    "name": "Lootfest Wars",
+    "release_date": "2018-02-28",
+    "developer": [
+        "vikingfabian.com"
+    ],
+    "publisher": [
+        "vikingfabian.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "A relaxing RTS",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/622510/header.jpg?t=1519876461",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 1.6 Ghz Memory: 512 MB RAM Graphics: 128mb Video Memory, capable of Shader Model 3.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

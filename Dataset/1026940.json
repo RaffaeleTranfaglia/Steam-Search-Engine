@@ -1,0 +1,37 @@
+{
+    "app_id": 1026940,
+    "name": "Hei",
+    "release_date": "2019-04-04",
+    "developer": [
+        "Goca Games"
+    ],
+    "publisher": [
+        "Goca Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 14,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Help Hei to find his path to the sacred tree! A point-and-click adventure game with lots of puzzles and a unique artistic style.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/header.jpg?t=1554361211",
+    "minimum_requirements": "OS: Microsoft® Windows® XP/Vista/7/8/10 Processor: 1.8 GHz Memory: 1 GB RAM Graphics: Intel HD 4000 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

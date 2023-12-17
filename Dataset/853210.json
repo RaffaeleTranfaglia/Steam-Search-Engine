@@ -1,0 +1,38 @@
+{
+    "app_id": 853210,
+    "name": "Gopnik Simulator",
+    "release_date": "2018-05-15",
+    "developer": [
+        "Zloy Krot Studio"
+    ],
+    "publisher": [
+        "Zloy Krot Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 75,
+    "positive_ratings": 16,
+    "negative_ratings": 26,
+    "price": 0.78,
+    "description": "This is a clicker game in which you play for gopnik. Eat sunflower seeds, talk with friends, drink and increase your skill!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/853210/header.jpg?t=1526373466",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7 32-bit Processor: Quad-core Intel or AMD processor, 2 GHz or faster Memory: 4 GB RAM Graphics: 1 Gb DirectX: Version 10",
+    "recommended_requirements": "OS: Windows 10, Windows 8, Windows 7 32-bit Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 8 GB RAM Graphics: 2 Gb DirectX: Version 11",
+    "reviews": []
+}

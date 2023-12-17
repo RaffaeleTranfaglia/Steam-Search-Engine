@@ -1,0 +1,52 @@
+{
+    "app_id": 35300,
+    "name": "Warfare",
+    "release_date": "2009-07-20",
+    "developer": [
+        "GFI Russia"
+    ],
+    "publisher": [
+        "Game Factory Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RTS",
+        "Military"
+    ],
+    "achievements": 0,
+    "positive_ratings": 73,
+    "negative_ratings": 26,
+    "price": 9.99,
+    "description": "Saudi Arabia, one of the world's leading oil suppliers and a key U.S. ally, has been taken over by a highly organized group of radical terrorists. The government is in a state of collapse and turmoil and you have been chosen to lead the United States' armed forces to restore control.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/35300/header.jpg?t=1447352298",
+    "minimum_requirements": "OS: XP SP2 / Vista SP1Processor: P-IV 2GHzMemory: 1 Gb (XP) / 2GB (Vista)Graphics: 128 Mb Nvidia GF 5600/ ATi Radeon 9600ProDirectX®: 9.0 CHard Drive: 6.5GbSound: DirectX-compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I think that Warfare is the best creation of GFI. Unfortunately, not all the ideas were implemented, but for me it is still a pleasure to play.  Among the few drawbacks I would note the need for old version of PhysX (cards GeForce 2nd serie for example) and overextendness of some missions.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i think its a great game i just wish the company made more",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game and very underestimated!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Warfare is a mediocre combat game that's hopelessly incorrect politically and otherwise. The plot opens with a series of terrorist attacks against Saudi oil wells (in reality, saudi oil ensures the wealth of S.A. and there are links between the oil tycoons and terrorist groups, so they're cutting themselves off from their money supply) which are funded by the Taliban. The Americans intervene, stationing troops in Saudi Arabia, while a popular revolt (including the Saudi Generals) tries to take over. The King (arrogant, ignorant, dodgy accent) and his advisors (simpering, flattering, also dodgy accent) flee while the American forces rush in to save the day.",
+            "review_score": "-1"
+        }
+    ]
+}

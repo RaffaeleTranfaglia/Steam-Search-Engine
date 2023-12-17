@@ -1,0 +1,41 @@
+{
+    "app_id": 897760,
+    "name": "PUT ANNA",
+    "release_date": "2018-08-09",
+    "developer": [
+        "Petushock Production"
+    ],
+    "publisher": [
+        "Petushock Production"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Commentary available"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 25,
+    "positive_ratings": 26,
+    "negative_ratings": 6,
+    "price": 0.79,
+    "description": "Ordinary Japanese girl-sorceress comes to Russia…",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/897760/header.jpg?t=1533815976",
+    "minimum_requirements": "OS: Microsoft® Windows® 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 2 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": "OS: Microsoft® Windows® 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 2 GB RAM Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50) DirectX: Version 12 Storage: 1 GB available space",
+    "reviews": []
+}

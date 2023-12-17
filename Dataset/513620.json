@@ -1,0 +1,60 @@
+{
+    "app_id": 513620,
+    "name": "SkyTime",
+    "release_date": "2016-12-02",
+    "developer": [
+        "Alexey Khazov",
+        "Cristian Ionescu",
+        "Lars van Dorenvanck",
+        "Brandon van Doorn",
+        "Joran Vergoessen",
+        "Admir Leka"
+    ],
+    "publisher": [
+        "Sometimes You"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 24,
+    "positive_ratings": 84,
+    "negative_ratings": 67,
+    "price": 0.79,
+    "description": "SkyTime is a 3D platformer in which you slow time, dodge bullets, destroy turrets and overcome obstacles! If you ever played Superhot or Cluster Truck, this game combines them both!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/513620/header.jpg?t=1500639772",
+    "minimum_requirements": "OS: Windows 7+ Processor: any multicore processor with 2GHz speed Memory: 512 MB RAM Graphics: any graphics card made in the last couple years with 1 GB vram DirectX: Version 11 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  The aiming's ♥♥♥♥ but yeah, it's still good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game itself isn't perfect lookwise and has a few bugs but the core gameplay is super fun, kinda like half life in a way",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is more cancer Clustertruck but this time we throw wrench 8/11 gave me aids",
+            "review_score": "-1"
+        }
+    ]
+}

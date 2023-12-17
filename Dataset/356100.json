@@ -1,0 +1,42 @@
+{
+    "app_id": 356100,
+    "name": "Fuego!",
+    "release_date": "2015-11-16",
+    "developer": [
+        "radiostatic"
+    ],
+    "publisher": [
+        "radiostatic"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 43,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "In Fuego, you and an opponent create a tangled Mexican standoff one animal-bandito at a time. And when everyone’s got their mark, the bullets fly. You shoot a bank, you get the gold. You shoot a bandito, you steal the gold. Just make sure that when the dust settles, your gang walks away with the bigger haul.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/356100/header.jpg?t=1492304897",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 2.0 GHz Memory: 2 GB RAM Graphics: 512 MB Network: Broadband Internet connection Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,624 @@
+{
+    "app_id": 425580,
+    "name": "The Room Two",
+    "release_date": "2016-07-05",
+    "developer": [
+        "Fireproof Games"
+    ],
+    "publisher": [
+        "Fireproof Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+    ],
+    "achievements": 7,
+    "positive_ratings": 7382,
+    "negative_ratings": 176,
+    "price": 3.99,
+    "description": "Unique events transport you to the halls of a long-forgotten crypt. The only means of escape lies locked within a stone pedestal, along with a note from your mysterious ally. His words promise assistance, but only serve to entice you into a compelling world of mystery and exploration.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/425580/header.jpg?t=1467809019",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: 2.0 GHz Dual Core Processor Memory: 2 GB RAM Graphics: Video card with 512MB of VRAM DirectX: Version 9.0 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is a great rexlaxing puzzle game. No action, no time-based events. You just sit, relax, drink coffee and solve puzzles. If you're not patient enough, hint system will help you step by step.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Finally!! I absolutely love this series.  The story is fairly dark and interesting, the gameplay is solid with some clever puzzles thrown at you too. After playing the original, it feels like we've had to wait an age for the sequel....the wait though, was worth it!  Now, the wait for the third installment begins....  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you enjoy puzzles you'll probably love this game. Dark atmosphere, many ah-ha moments, bunch of rooms. 10/10. More Room games please.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tl;Dr: +Good environment +Storytelling, -clue design, ---puzzle design. 3/10 nearly punched screen after discovering most answers from poorly designed clues.   Huge fan of the first game. It had rich details, the puzzle mechanics clicked beautifully, and there were plenty of 'oh why didn't I think of that?' moments when I hit the clue button.   This game, unfortunately, only really nailed the rich environment. The puzzle mechanics moved away from 'figure this out' to 'figure out where this thing goes.' The idea to expand from a singular object of focus to multiple areas in a room gives it an 'escape the room' kind of feel to it, but detracts from the overall experience. Too much space to explore, and far too much detail. A player should never be left wondering 'Is this part of the puzzle? Or meaningless background detail?' The clue button in this game was less of 'why didn't I think of that' to 'I would never EVER see that connection' or 'I didn't even know that was supposed to be part of the puzzle, isn't that background?'  The puzzle design here feels like bottom-of-the-barrel. There were no moments where you had to figure out what path to take when multiple were presented. The first game had many puzzles where you had to navigate an object past obstacles or through paths, and you felt really good when you solved it, sometimes backtracking to find the correct path. This game only had one such puzzle, and the physics engine and the control scheme interfered pretty hard with executing the solution. Nearly every puzzle in this game was a case of 'I found an object, let's spend the next several minutes finding where it goes.'   Clue no. 1: 'You found object X. Where does it go?' Thanks, game. I hadn't figured that out &lt;/sarcasm&gt; Clue no. 2: 'I wonder if object X could be used to do &lt;thing&gt;?' Thanks, game, that was already obvious.  Clue no. 3: 'Use object X on thing Y.' Greaaaaaaaat.   Pursuing the whole 'find where this goes' mantra of design, I found myself just rapid-clicking on every thing of even remote interest in every room. I found it especially infuriating when I saw something that appeared to be part of the puzzle, and couldn't click on it to inspect it more closely. I would then discount the thing as 'not part of the puzzle because the game clearly won't let me look at it', only to find out later (from one of those brilliant clues) that I should have gone back to it, only to find out that the object is NOW more closely inpsectable, now that's it's important to the puzzle. That was a grave injustice in this game when compared to the last one. It was impossible in this game to make serious notes about what stuff to return to with new info, because the game literally wouldn't let you look at things until you needed them.   The use of the lens also felt really underwhelming in this game as well. There was little to no meaningful usage of it, and in one case, was used only briefly to notice the tiniest of features that could be easily missed, but was absolutely mandatory for a puzzle solution. The first game used the lens to help the player find things that would be obscure without it, but this game uses the lens mechanic poorly. Was this even the same design team? I finally just brute-forced the final puzzle answer in the last room, instead of waiting for the clue to tell me where to find the last piece of hidden information.   I got this game on sale for just under $3. I feel like it was wasted. The tutorial showed promise, with the potential for multiple simultaneous areas of investigation and the creepy vibes foreshadowing an interesting story, but quickly became nothing short of intense, repeated frustration from the puzzles of the first level onward. Save your money and take a pass on this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Shorter than I'd like, but what do you expect from a low price game. Definitely a worthy successor to 'The Room' though you're not stuck in one room this time!  Exceptional realistic graphics, lovely and gloomy (often leaving you guessing as to if you've missed something visually or perceptively) added to by the awesome atmospheric effects and music. A challenging puzzle game without being samey or too taxing, it's mostly observation and perception based, A game you can pick up and enjoy months later after forgetting the finer points!  An excellent PC version, not a hash up of an Android version. But you will not need a keyboard!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The continuation of The Room is a great sequel with improved, beautiful graphics and filled with new types of puzzles I couldn't get enough of. Loved the first one, and wasn't dissapointed with this one. Highly recommend it to anyone who enjoys a good puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you love to solve puzzles...this is the game for you. If you haven't played the first one...I suggest you play both of them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is amazing! The puzzles are not too difficult but also not too easy. I am not sure where the storyline is going, but I keep myself asking what is behind all this? And will I ever get out of this world? The graphics look good and are very smooth. I can do nothing else than to recommend this game to everyone who likes puzzle solving!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Puzzles. Good Graphics. Nice Port and overall and Amazing Experience that any fan of the original or games like the Myst series.  Graphics are superbly detailed and does not give the impression that it was originally a tablet game.  where Myst was too hard for some. The Room has an simple but smart Hint System. where the first hint will always just slightly help guide you in right direction, without giving the player a full walkthrough. following by another hint that will tell you a bit more, if the first was too vague. and then the final hint will help you fully, incase you are completly lost.  Only thing that i was slightly dissapointed by was the length of the experience. but honestly at a default sales price of 5.00€ its a bargain and easily worth the price.  hopefully Fireproof will release 'The Room 3' pc version a bit fastere than they did this one. ^_^",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mind blown, and the place is kinda creepy, but great game....can't wait for the third game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Creepier, more complicated, and just a wonderful to play as the first one. Play it, it’s great.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I usually don't buy games on the first day of their release, but since I loved The Room so much I made an exception here, and I'm glad I did.  Took me 5 hours to complete with hints disabled (recommended, as it feels more rewarding) and just enjoying my time. In comparison to the first game, The Room Two seemed to be slightly more difficult, which I actually appreciated. The 6 chapters get increasingly more difficult (with the exception of chapter 5) and I got stuck a few times. However, getting stuck never felt tedious or annoying. You might miss a few small details initially, but it's not like they are hidden in unfair ways.  Best five bucks I've spent in a while. Highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Essentially the same as 'The Room' so I will copy my review of that game below.  The main difference is that now, not only have you got a different coloured lens to look through (that importantly is substantially more comfortable to look through), but you also have actual rooms instead of a box on a table in a room. Therefore you have a number of boxes within a room, sometimes there are puzzles which interact with each other across the room. It essentially means that you need to keep more in your head in case something you obtain in Box A works with cabinet C etc. The downside to this is that there is a lot of zooming out and zooming in to different things which means a lot of clicking - it can get a little annoying. What would have worked better in the port here are little buttons at the top of the screen for each 'Box' in the room so that you can quickly jump to and fro.  Personally I think therefore the first game is better as it is more focused and stream-lined.   Got it on sale for £0.99 - definitely worth that price. It is not an 'Escape locked room' puzzle game.  Basically a port of a mobile game with revamped graphics for PC, this is a little chilled puzzle game with some really elaborate boxes and contraptions that you will be tasked with opening, all while exploring the theme of alchemy.   The ending leaves much to be desired, and the puzzles are a little straight forward. Sometimes the controls are a little quirky (mouse guiding objects) but this is not really enough of a hindrance to deter a purchase while on sale for the aforementioned price.   For those who still feel the puzzles may be out of their league, the game gives you a few hints along the way if you want them to nudge you in the right direction. Each time you want a hint it will give you 3 'clicks'. The first of the 3 is a vague 'In case you didn't see what changed maybe looking here...', the second and third hints go more and more in detail relating to what is next to do. This way you can get just enough of a hint that you feel as though it is still 'you' who is solving the puzzles, depending on how much of a nudge you may need.  Makes me want to give The Room Two a look. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "NEED THE ROOM THREE ASAP I AM IN NEED OF MORE PUZZLES AND ROOMS",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent stuff. For the price its a no brainer really.   Kinda reminded me of the puzzle box in hellraiser - but on a much grander scale !!   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, alittle short - played this around 3 hours. Still worth the money. Pick this game up when its on sale!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "all the room games are trully amazing. they captured the whole puzzle adventure spirit with smart riddles and amazing graphics. im really looking forward for their next game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "My first experience with the original 'The Room' was great. Well now, how does 'TR 2' rate?  In a word excellent again and quite a bit longer. Similar to the first, the graphics are very nice and you have many more (and more intricate) puzzles to solve. As in the first you get hints if the game feels you need them, I think they may be time generated because if it is taking you a while to solve something, you get and indication by means of a '?' mark which tells you a hint is available.  Did I use them you bet I did. I would try my hardest to do things myself and I did get better at it for sure. Good thing is the hints don't solve it for you, they just suggest you need to look more closely at your surroundings.  There is an added creapy factor involved and expect to jump occasionally at certain noises and things that occur. This realy adds to the atmosphere of the game.  I recommend and rate at 8.5/10 and if you want a change from your normal run of the mill type game. give this serious a go.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very nice game. I was amazed by The Room One, but this is even more insane. I hope to see The Room Three on PC soon. 10/10 game, really a masterpiece.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this game right when i saw it on steam cause i knew it'd be good just like the first one. This game is the finishing story to the first game(no spoilers here). It's a point and click puzzle game that any age can enjoy. It's very pretty, fun, and has a very interesting story. Is this just like the first one and just a rehash....not really. Unlike the first one you are doing multiple puzzles at once having to constantly switch back and fourth while navigating an entire room. I promise you will enjoy this game. There's a reason this game has a cult following lol. Now for the bad....it's IMO not as challenging as the first game till the end. At the end you feel kinda thown to the wolves, because you have no real clue what to do next. Other than that no complaints. My only suggestion for the devs is make things more elaborate and make the player use more of there own knowledge. So they can't just power through it. 10/10 would recommend till next time Fireproof I can't wait :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice sequel to The Room (one), very cool and enjoyable!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A short yet delightful experience, definitely one of the best puzzle games i've ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "★★★★★  An excellent puzzle game with great audio and visual style. Can't wait for The Room Three!  “Keep some room in your heart for the unimaginable...” ― Mary Oliver  ★★★★★",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10. Simply amazing. One of the best puzzle games of Steam. So much fun, and I can't recommend it enough.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Wonderful game. I've played The Room and The Room Two with a friend, and we had a great time with every playthrough. We even played The Room twice! The only drawback that we can think of is that the games are just too short! Definitely recommend this to anyone who enjoys puzzle-gaming on the PC. It has great replay value. In fact, it's just a great game for the price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun for sure, but easier than the first one in a way. Whereas the first ones difficulty was mainly sometthing dependant on how good you were at working out the puzzles, this one has a lot of moments where its just difficult because theres no logical way to come to the answer. Still, fun game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Game!  I absolutly loved The Room aswell as The Room two ! With its tricky puzzles and gripping mystery,  it instantly captured me imagination! And im looking forward to a third Part.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed every minute of this game. It's quite short, but well worth purchasing for anyone who likes the genre.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was impressed with The Room, this was just as fantasic. If there were more games like this I would be out of money. Can't wait for the next installment, keep them coming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Adds a few new twists from the firsts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a fun but short puzzle game. I played the first one and it was great two. The only problem is, it is a short game. While I think it should have been cheaper (I got for like $5) It is still a great game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great atmosphere and great puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "a cool sequel to the room, fun puzzles. maby not quite as taxing as the puzzles in the first game but still fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great brain workout and good puzzels... highly recommend this for anyone that want a brain workout.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game! Not too difficult, not too easy. Very nice!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful puzzle/mystery game that will have you thinking without resorting to 'use item on everything' tactics usually employed by ceratin point and click adventures. Instead puzzles rely on keen observation to find parts of the puzzle (E.g. a hidden compartment in a table leg) and enough progress is quickly so that you never feel stumped or blocked. For those taht really have lost there way an intuitive hint system is available that starts vague and gets pretty direct if you keep asking for help but the game never punishes you for using it.  At most you'll slap your forehead and cry 'Oh of course!'  At £3.99 the game is also reasonably priced for a product that will probably last 2-4 hours and never out stays it's welcome. If you like puzzle games you need this in your life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very enjoyable game. A bit short. It took me 6 hours to complete. None the less, it was enjoyable. Hope to see another 'The Room' soon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the sequel is great. Follows where the first one left off and does so perfectly. Controls are a bit more annoying in this game though because it requires you to click out more often. On the flip side to that, all the chapters have much more atmosphere than they did in the first game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I didnt think the first game could be any better, but in The Room Two the devs at Fireproof semmed to have proved me wrong. Including multiple piece puzzles meaning you have to use 2-3 set pieces to crack one massive puzzle which I loved, and really making use of that eye piece which was aweomse. Also some levels even have interactive set pieces(  like a crossbow on the 3rd level  ) that you need to use to advance in the puzzles which was just super cool.  I also love the feeling of goosebumps, and this game sure gave me that feeling throughout the entire thing. The atmosphere and odd bits of audio here and there make this game EXTREMELY atmospheric, I was super impressed when playing the ship level being able to hear subtle footsetps and listening to the ocean crashing against the side of the ship!  I bought the game at 2.50 USD , even at full price of 5 USD this game would be worth it. I would glady and confidently recommend TR1&amp;TR2 to ANYONE! ... and hopefully when TR3 comes out ;) I will also recommened that.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent puzzle game for a cheap price, at least during sale. I strongly recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  The game is pretty 'puzzly' but, as for me, it became a little boring to the end. Last chapter was not too hard to complete but it took some time. And, imo, there was so much more to hide in that room. I liked the second chapter most just because it was different, it was not 'The Room' i used to know. I really loved the previous part of the game, i love its graphics, amazing work of brush and i love the riddles I have to solve through it. But the second part is too much alike the first one, even with its main plot. Though it really became a horror one, and I enjoyed the ending. Some new ways of solving puzzles is good but not enough for a new game, that's just what I think of it. I would only buy it when it is on sale and paid maximum attention on the first 'The Room' instead, classical thing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I wouldn't spend more than a couple bucks on it though. But good puzzle game, entertaining, short. Props to the developers though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game,Has me thinking from start to end.Hope they make a part 3",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed The Room and I enjoyed this one just as much! It's great puzzle games.  I had a bit of a hard time figuring out what was going on though, in the story. I'm still confused, afterwards as well but I still liked the puzzles and I do recommended it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A series of puzzle game with smart design, dark atmosphere and perfect 3D implement.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fantastic sequel to an already fantastic game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun game had a great time with each puzzle. I think that the game didn't have many puzzles, I beat the game in three hours But great graphics. Would recommend this game. I give it a 9/10 LOVED IT THEY BETTER MAKE A ROOM THREE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room Two is amazing puzzle game !   I also like this game sounds and theme.  No Comment, just take this game and play..  10/10  I'll wait for The Room Three !!! I hop it won't be late..",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Copied from my 'The Room' review, because it applies here as well.  Pros: -clever puzzles -tells a great stoy -great soundtrack -(even more) amazing atmosphere  Cons: -none  Overall: Worth every cent.  I loved every second of it, and I'm sure you will too. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I feel rather disappointed by this sequel. It's still as atmospheric and intriguing as ever, but I just felt most of the time like I was doing some pixel-hunting in a huge room, which unfortunately was the aspect that I didn't like about the first game, even though I really enjoyed that one.   It's quite alright when the hunting is kept within a small box (in fact that's what made the first one so cool in my mind), but in this case, this just ends up being boring and not very satisfying. There are maybe one or two levels where it's bearable and where the chain of 'puzzles' still feels somewhat organic, but otherwise this is just a drag.   When you have to rely on the hint system to actually have a sense of flow and not hit a wall everytime you make progress, there's something wrong with your game design. But despite all these flaws, I might still give a shot to the 3rd one, if it ever get released, because I'd still like to see where this is going.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is confusing as F*ck",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great, cheap game with amazing puzzles, great soundtrack and spooky, mysterious atmosphere. Im waiting for third part od PC :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played The Room a while ago, and also had a friend play it on my computer because I was so enamoured by it at the time. This one, I was not quite as fond of. It took me about 2ish hours total (I idled for a while for cards after) which is less time than I recall taking on the first. In the first game I was quite vexed by some of the puzzles but the puzzles on this one seemed easier to me. The ambiance was definitely better and kept with the whole creepy vibe. It seemed like this one was more focussed on looks and setting than the last and the puzzles were not as difficult/interesting.   I picked this up for $2.49, I don't think I would recommend it for any more than that though, especially following a dollar per hour content standard.  Perhaps my fault with this one was comparing it to the first, and not letting it stand on its own, but I bought it knowing how much I enjoyed the first, and it is a sequel. I suppose I was just a bit disappointed.  Pros:  - great hint system - nice polish/ambiance - decent puzzles - One of the best of it's kind that I can think of  Cons: - Not as good as The Room - Puzzles seemed easier than The Room - Shorter than The Room  Perhaps if the puzzles were just slightly harder, or there were just a few more chapters I would have been more satisfied, but it ended waaay earlier than I expected and I felt like I was left wanting more. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love puzzle games, but this game hardly qualifies as one, unless you find it puzzling if round things go into round holes while square things go into square holes.  This game is about thoroughly exploring rooms, and matching the items you find with the gaps where items are needed. It is about remembering that there was a three digit number somewhere when you encounter a three digit number lock. It is about finding that easy to miss clue on the side of the desk. It is also about marveling at odd contraptions that magically spring to life if you flip a switch or turn a key. It is about satisfying 'click' and 'katchunk' sounds when you do the right thing. If that is for you, go for it.  It wasn't for me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I actually didn't enjoy this second game as much as I had enjoyed the first. I like puzzling with boxes that have a finite set of surfaces, and not hunting through environments to find some forsaken area to click on. This game also focuses more on environments instead of boxes, and I just don't care much for the actual rooms. I was able to solve the first game without a single hint, but this game required me to use the hint system maybe 8-10 times, just because you get lost in a jungle of weird things that you don't know what to do. ...but it's a cheap game, even if I didn't buy it on sale. 5€ isn't much. The game ends with the developers specifically asking the player to write good Steam reviews and promote the game in order to 'help them out', and that REALLY rubs me the wrong way. ...so that settles it: I'm not recommending this game. If you liked the first game, then let it end with that game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The Room Series is perfect for everyone who loves Puzzle Games. I did enjoy the first one a bit better because the puzzles were designed a bit differently. In the second game, sometimes you get a bit frustrated because of the game mechanics. Play it and you'll understand what I mean.  Graphics wise, this is amazing for just 5 Euros! Absolutely amazing! The atmostphere, the sounds... Beautifully done and I'm very much looking forward to the next one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Basically an escape room video game. Cheap and fun. The puzzles aren't very complicated, as it's more based on finding things to interact with and finding items like in a hidden object game, but that's not a big issue for me, even though I prefer more 'puzzley' puzzles.  It's fairly short, though, but at this price, can't complain.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The first one was amazing, but this one I can't describe how fantastic it is. The immersion, the story, the thrill of discovery are the trully joy of this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Try to turn off the light and play this game ~ more enjoy this game.  Room 2 have better graphics, more little things you have to solve it out.. interesting game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely Great puzzle game !  Hope The Room 3 coming soon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is an awesome puzzle game. The puzzles are not very challenging, but it can occasionally take a while to figure out what to do next (unless you use the hints). I loved both The Room and The Room Two. I hope that Fireproof Games continues to create these games with more challenging puzzles and a greater depth to the story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Still the best puzzle game I've ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some of the puzzle designs could use a little more help in finding out what you need to do, but otherwise this is probably one of the most interesting puzzle games around, even more so than the first game. My personal hope is that the other games in the series (I believe there's a third one still mobile-exclusive) makes it way here so those of us without smartphones can play these too. :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room series is a great puzzle game, and The Room Two seems like it was a little bit harder than the first. I like to try and complete these games using as little hints as possible, but sometimes the puzzles are too complicated to get through without a single hint. Other than that, I'd say I enjoyed the game. It creates an eerie atmosphere and a loose story that makes it even more creepy. 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "beautiful beautiful game, excellent storyline and graphics... gameplay is really fun and genious of it is being so simple yet sophisticated. thanks a lot producers, highly recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Probably one of the best escape room i have ever played. The graphics are great and the various puzzle are both simple and satisfactory to solve. The settings varies a lot (a ship, a tomb,....) as well as the different puzzle so there is no sense of repetition. The various contraption you interact with are also surprisingly fun to figure out and deconstruct.  The game is unfortunately short but every time spent on it was really great. I highly recommand it to every fan of this kind of games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was a lot of fun, I found it a bit easy but enjoyed it all the same. I love that they made it so you are travelling through different rooms and that you interact with multiple areas in each room. Fun to play, good graphics, creepy atmosphere and an interesting world. I wish this game was longer!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Loved the first one, and this one exceeded that. Amazing game. Well done (y)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really good puzzle game.  Right up the alley of Myst and Riven. If you like puzzle solving The Room and The Room Two are great games. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great puzzles, graphics, sound, effects, atmosphere. If you liked The Room, you'll definitely like this one as well.   Note to Developer: thanks and keep up the good work! Looking forward to solving your future challenges!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Really adictive puzzle game with brilliantly atmospheric graphics and sound. Still loved it second time around.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Sequel was even better than the first game, maybe a bit shorter (or did I just get better?). But a ton of atmosphere and great locations, definitely a must have after The Room",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Simple words: 'the best'. I've seldomly enjoy and get challenged this much, yet this game is pretty relaxing at the same time. Please buy this and support these guys, can't wait to see the next one. More levels please!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Totally superb. A very solid evolution from The Room (1).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game! Loved all the secret compartments and wish I had some of this stuff. Not a diffifficult puzzle game. It's just right! Love, Love , Love it!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Second helpings of an already fantastic game. Puzzles are now more multifaceted and a few set pieces are featured in each room.   Just gotta wait for The Room Three.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoy The Room 1, and even though I feel that The Room 2 doesn't hold up to the first one I will still look forward to the next one. I found that the puzzles were a little bit more frustrating in two of the rooms that made me almost give up, however I was happy that I stuck through it because the ending for this one was very impressive! I have played a lot of H.P. Lovecraftian themed games and this game has had the best endings I have seen by far!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Puzzles are as well done as the first one. This one is spookier, though. Yet another enjoyable romp, recommended for fans of Myst-like games, puzzle games, adventure games, and room escapes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played the first, lots of fun! played the second enjoyed it! would recommend to anyone looking for a lite and enjoyable problem solving game :) Hope Fireproof makes more like this and such",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Room and Room two are best graphical puzzle games I ever played on 4k Monitor, I can see the beauty of every pixel. Puzzels are not frustrating and keep you going which makes it an awesome puzzles game.   It's too short but for the price is ok if the complete chapters won't exceed 20-25$ later on, otherwise it would be somehow expensive for complete puzzle game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "finished this game fast, it was entertaining like the room 1.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I played this one immediately after finishing the first. The scale of the puzzles expands beyond the table to include the entire space around you, which can occasionally lead you astray. When you find the solutions, though, you'll either facepalm because it took you so long, or you'll feel like a champion wizard. Fantastic, creepy atmosphere in every space. I especially loved the area resembling a temple, very creepy and elaborate.  If you like puzzle boxes or point-and-click games in the style of Myst/Riven, this will be well worth your time and money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I purchased and played The Room and The Room Two back to back and was amazed by the quality of the gameplay, the visuals, and the story. They are puzzle games with a psychological thriller flare to them. I was impressed by the creativity and complexity of the puzzles and was never left unsatisfied after completing each chapter, including the row boat in The Room Two. The only complaint I have is that I would occasionally be unable to zoom out with right click and would have to quit and then reload but that may have just been my computer. I know that I will revisit these games periodically and will never get bored of them. I just wonder, what happened to the null?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games I have played",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Just an amazing puzzle game. One of the most beautiful puzzlers ever witha terrifc tone. Love it so much.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awsome, simply awsome, good puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very enjoyable puzzle gameplay. Great graphics, easy to consume content. Hoping to see a PC/Steam port of The Room Three!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I looooooove the Room 1 and 2. I like how nothing is like it seems, and the hidden messages you find while using the eyepiece. I like the puzzle factor. I only regret that they only have a few chapters. What if you combine this kind of game with the ones like 'Sherlock holmes' or 'the Old City: Leviathan.'  Maybe something for the room 3. You find an old notebook (the handwritten kind) talking about the tale of Room 1 and 2. Now you puzzle the machine in to a controlable portal. Now you can explore old egypt crypts, or end up in atlantis....let your immagination run wild with possebilities. I, for one, would be looking forward to it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is the same as the previous game but even better with more puzzle to solve unlike the previous where you only need to focus on one item. this game have you solving puzzle at different part and make all of them connect to the main puzzle which is so cool and great. The solving part is also great with it not that easy and also not that difficult. The game's atmosphere is also one of the great thing as it is dark and a bit scary with mystery with the sound to make it more better. damn i even got scared by one of the part. try it and maybe you will know the feeling and feel proud that youre good in solving puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room and The Room2 are the best puzzle games I've played. Very addictive, making myself stop now, so I still have some chapters left for tomorrow :)  The chapters are atmospheric and beautiful.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game in an instant as soon as I realized it was released on Steam. If the pricetag of this game was x2 the original price (or possibly even more) I'd still buy it in an instant without a second thought. This game (and the first one) is a wonderful experience that you should treat yourself to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most well made 'room escaping' game! I had really great time playing this game. Well, little bit short, but great impression every moment of playing. Strongly recommand to play this game.  가격도 싸고, 한번 해보면 헤어나오지 못할 그런 마력이 있다.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game was a blast. The atmosphere is creepy as hell, and the puzzles are very well thought out and executed. If you like puzzle games, I highly recommend picking this up.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enjoyed the first one and this is no exception, very fun puzzles, completed it in one sitting of about 2.5 hours at a leisurely pace.  Cost is spot on considering the time of entertainment you get at about a quarter of the price of a cinema ticket i think its well worth it!  As i wrote in my review for the first one I think it would be a great platform for VR and would love to see it implemented in the next one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Had thoroughly enjoyed this game on my phone, and even more so enjoyed this on my PC in all its graphically redone glory. Maybe the third time I've played this game altogether, and still very happy with it. Really enjoyed The Room One and looking forward to The Room Three when that comes to PC too.  Puzzle game with a small but interesting story aspect that unravels as you go through the game. The more you uncover, the more you learn about your environment. Every puzzle you complete, leads you to your next puzzle but it doesn't always appear obviously. Sometimes I found that as I click and dragged a puzzle piece around the screen, to rotate or such, it wouldn't always move how I wanted, but adjusting how you move it simply solved the problem. On the phone, the control of the part was a lot easier and felt more fluid. Otherwise I have nothing negative to comment. Overall still, a very positive experience and fun :3  Ah, as for using hints - I personally never needed to but I liked that they were an option. I'd feel that it would kind of ruin the game a little, as it's supposed to make think and use your head, based on what's around you to interact with and what you have to use, but the Hint being there for when you're so frustrated that you stop enjoying the game, would help you get past that and continue to enjoy it. Though I didn't use them, I like that the option is there :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'3.4 hrs on record': playing through start to end (I didn't try to go any faster than my 'normal pace').  As of price vs value: I think the game worths the figure. It's fun, entertaining, nice in general. Doesn't give neither more nor less than Room One.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! More of the same from the first installment but with some new twists.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, maybee next one will be longer, finish it in 2 hours",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A truly brilliant built set of puzzles, which leave you challenged yet not overwhelmed. The polish on the visuals really draws you into playing.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful, fun and immersive puzzle game! Even better than the first installment for me because of the added creepy/eerie ambiance. The best way to play this one is with headphones, in low lighting or at night, and when you won't be interrupted by distractions to pull you out of the game world. I look forward to more Room games ported to PC!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Game has the same level of difficulty and genious, well thought puzzles as the first, and that alone will make me recommend the game for all of you out there, but unlike the First, the puzzles aren't in a single element in the room, but now it is in the entire room. I find this, in particular, to be a really bad choice by the Devs. In the first game, everything you need to do and know is in a single box full of different mechanisms, and it makes it easier to do stuff without seeking tips and help from other sources other than your own brain, since you're focused in the same place all the time, each chapter. In The Room 2, there are many things to focus and remember in a room, this kinda ovewhelms the player and forces him to focus more on memory than on puzzlesolving, plus the incountable clicks you make to drag the camera across different spots in the room each time you think you know something.  With that being said, The Room Two is still an excellent game with mind blowing puzzles and excellent atmosphere, and cryptic story. The only thing that keeps it from being a better puzzle game than the 1st is the new 'many objects' mechanic that adds many other things for the player to observe in the room. I can't wait for The Room 3, which, as far as I know, will be a prequel and a sequel to the story we've been seeing. And you better bet i will buy it as soon as it goes out on Steam.   TL;DR- Buy the game, the puzzles and everything are just as good as before, just not as intuitive as the first is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Im not a big puzzle fan but i do love this, apart from the good gfx and really Eerie atmosphere, which are brilliant, the puzzles are fun and will keep your mind working. The Room 2 is a it different in that you move around the room and when complete you move to another room and do more puzzles. i really want the third on steam too please, I love these games and will do them over plenty of times.  MORE PLEASE!!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! I love puzzles like this. This one is beautiful, creepy and challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great continuation of previous The Room game. Lovecraftian mystery puzzle game. Best spent 3,3 hours :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic game. Challenging but with in game hints if needed. Well crafted and visually stunning, smooth gameplay and well delivered plot. Helps to play Room One first but not essential.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a fan of puzzle-games, as well as point-and-clicks, I stumbled upon the first 'The Room' and was amazed at the ingenuity behind it. After beating the first, I was thirsty for more puzzle-goodness, only to find FireProof Games made a second! The Room Two offers all the same elements of the first game, only with vastly more complex puzzles, and story. I personally thought the first grabbed my attention a bit more, and kept my drive more focused. While this is defintely the better title, the first 'Room' is a definite must-play for puzzle-gamers. If you're looking for 3-4 hours of solid puzzling, look no further, with a price of just $5.00, or your regional equivilent, it's a surefire way to spend an afternoon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you enjoyed the first game in the series, you will not be dissapointed.  The Room Two manages to keep the puzzles fresh, and the sinister atmosphere is even stronger.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good puzzle game with a unique way of storytelling. It is not a long game. Puzzles are complex but not too hard to suck all the fun out of it. All in all, good fun!",
+            "review_score": "1"
+        },
+        {
+            "review_text": " The Room Two  is a sequel to the game  The Room . Just like in the original, you are given a series of logic puzzles to work through. I suppose if you are reading this, then you probably already played  The Room . If you are one of those people that liked  The Room , you are sure to enjoy  The Room Two .   The Room Two  is essentially more of the same as the original, and I mean that in a good way. Just like  The Room , the puzzles are challenging enough to make you think and try different things, but not infuriatingly difficult. The graphics are just as good if not better. The story is a little on the light side, but that is not a problem here as the main focus of the game is puzzle solving.  In short, if you liked  The Room  or enjoy puzzle games, you are sure to like  The Room Two .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First of all, this is not much of a puzzle game. The solutions to the problems rarely require any real thinking to solve, but seeing the mechanical riddles play out is interesting in itself.",
+            "review_score": "1"
+        },
+        {
+            "review_text": " The Room Two  is a sequel to the game  The Room . Just like in the original, you are given a series of logic puzzles to work through. I suppose if you are reading this, then you probably already played  The Room . If you are one of those people that liked  The Room , you are sure to enjoy  The Room Two .   The Room Two  is essentially more of the same as the original, and I mean that in a good way. Just like  The Room , the puzzles are challenging enough to make you think and try different things, but not infuriatingly difficult. The graphics are just as good if not better. The story is a little on the light side, but that is not a problem here as the main focus of the game is puzzle solving.  In short, if you liked  The Room  or enjoy puzzle games, you are sure to like  The Room Two .",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well, I gotta admit it. The first game got me hooked and I couldn*t wait to finish the second game. I like these kind of gams, where you are challenged to solve puzzles to get the 'h*** out of dodge'. Independent Developer or not, they have created a masterpiece in terms of scenery and atmosphere. I*d definitely would purchase another game from these guys.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hurry up and port The Room 3 for PC.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you haven't gotten 'The Room', the prequel to this game you might want to start off from there. In comparison to 'The Room', I would say the puzzles are harder, needing to go back and forth on different puzzles.   The hidden compartments are a little less noticable maybe due to the dark lighting which caused some fustration for me because the items inside are paramount in advancing the puzzle.  The camera work did prevent me from spoting some items, which did leave me scratching my head on what went wrong. Nonetheless, if you like 'The Room', this experience is not far off.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So i bought this game because of Winter sale and expected another facebook game, the thing is that i realized the other puzzle games that i played until now are facebook games compared to this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fun puzzle game that can be completed in four hours or so. Absolutely worth a few bucks!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A worthy follow up to the first The Room, this chapter of the saga contains many fascinating puzzles, and deepens the mystery of the underlying plot. The puzzles are a bit simple, oftentimes, but all in all I give this game a wholehearted thumb up!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A worthy follow up to the first The Room, this chapter of the saga contains many fascinating puzzles, and deepens the mystery of the underlying plot. The puzzles are a bit simple, oftentimes, but all in all I give this game a wholehearted thumb up!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was so much fun, I wish Room Three was out for the PC. Great value for the money!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good puzzle game. A little bit trickier than the first one in a couple spots.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is absolutly outstanding. If humanity will ever have a power to erase some memory i would definitly choose to fotget that game and play it again. EVERY ONE need this game in life. I guarantee.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have just finished the game and can say that the first part of the game was better.   This one is darker and there is too much of everything about the death. The first part was a little bit more magical and impressing, I do not like the atmosphere of this one. Maybe because I am not a native English speaker I could not catch the plot line. Spoiler:    Where do these beasts, ghosts, woodoo, taro come from? I am not really a fan of solving puzzles with the help of black magic, burning dolls and inspecting the skelett :/ There is a lot if images that could be used instead.     The graphics are very impressive, but all the light peaces like windows and lamps gave me an impression as if I was looking them at 640x480, though I put the graphics at maximum. Charing the battery in the last scene I got a bug meassage clicking on the place where the broken resistor was.  Although I like the soundtrack, some new chords could have been better. When I hear the same soundtrack I expect to get the same game as in the Room 1. But this part is different, shorter and less impressive (for me of course). If I here a different soundtrack - I can expect the new one and will not compare it to the previous. That is the logic.  To be honest, I expected more from the game. It is definitly worth of buying it, but for me it was two times as short as the Room 1, also less impressive and even boring sometimes    Especially when you run three times to type the word into the typewriter. Even though the machine is cool, it was boring.   .  So, buy the game if you are a fan of Room 1 or have not played Room 1 yet. Hah. In every case you will find that one of the games is better, but they are both cool still.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A great game played with my son. More!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I must say, this has to be the best point and click puzzle game I have ever played. The level design is outstanding. The sound designe is on point. The story is somewhat bare however, there is no back story to how you know the person you are trying to find or even what he means to you. This could add to the mystery of the game or they did not add in the game. The puzzles can be challenging. They put in a good hint system to help you when you get stuck, and you will get stuck. Overall I highly recomend this game and hope to see more from them in the near future.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room Two is as good as the first game. Everything about this game is unique, and the atmosphere is amazing. Open boxes and solve puzzles could be quite scary in this game. As in The Room, you can have a lot better experience by playing in a touchscreen device.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good game. Recommend as a puzzle solving break from the norm. I only had one issue with the last room puzzle, who looks under a drawer?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a life-long gamer of nearly all genres, I highly recommend this casual puzzler, especially for the price. It's a great value. The puzzles are sufficiently challenging, and the game environment is engaging and darkly beautiful. If you get stuck (as I did a few times), you can get hints to help you past sticking points.  The only part that put me off a little bit is that much of the puzzles involve quite a bit of seek-and-find in order to find parts you need to continue on. Granted, it's not that bad, but I'm not your most observant sort so I had a bit of frustration about that. But, the hint system helped me through that so no real harm done.  Bottom line, I highly recommend this title as an excellent entry in the genre, both in terms of gameplay and value.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you played The Room, then this is an obvious buy at a decent price. The puzzles seen easier, but the atmosphere and settings are much nicer. Virtually no replayability; once you beat it, there seems to be no reason to go back and try again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I liked |The Room Two| as much as |The Room|. It took me about five hours to get through the whole thing. The puzzles were challenging but not impossible. There is a hint system available but you won't need it. I bought this on sale at 50% off and think it was definitely worth the money. I give it 7.5 out of 10 and will definitely be interested in future offerings from FireProof.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Spooky. Puzzly. Amazing. Fun. I love this one just as much as the first one!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game is quite the fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This way lies insanity.  Yet only through insanity lies un-insanity.  A conundrum... in a box.  A puzzle.  Switches and riddles.  A story, you say?  Perhaps.  In my butt.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best puzzle solving franchise(including the room 1, 2 and 3)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome, amazing fun... Highly Recommended",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love these games and hope they do more! I would also love more levels but would be happy to pay more",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game! Challenging yet very fun puzzles. Excellent design, graphics and smooth animations.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's a killer puzzle box, designed to scare me to death, and I'm trapped inside it.   Must be Christmas!  Summary: Lots and lots of mechanical puzzles (like the original The Room), essentially no dialog. Hints are reasonably good, my biggest complaint is the pixel hunting to find the location that I need to double-click to zoom in on to use (like a small lever or knob). You don't need to have played the original since the storyline is less important, although there's no explanation of the diffraction glass in this game (i.e. the 'see through' lens) so I could see it being confusing to someone who didn't play the first.  'I'm following a trail of bread crumbs that have been left out for me'  Before you start on this game, set the screen brightness to 10 in the options menu (it's separate from the other graphics options). The settings are dark, and you might miss some subtle clues otherwise.  There's probably 5 hours of puzzles in the game, more or less depending on how quickly you solve the puzzles. I found it useful in the tougher puzzles to exit the game and set it aside for awhile instead of clicking through all the hints right away.  'Or maybe I'm in Hell. That's okay, I'm not scared of Hell. It's just Heaven for bad people.'  The majority of the puzzles are using hidden sliders/knobs/latches/etc so that you can get to the next hidden slider/knob/latch/etc. As such much of the game is linear. The hints system usually gives you a series of three clues, the first being what the next objective is ('it would be nice to get into that cabinet'), what the puzzle involves ('I wonder what the numbers on the table means') and finally a near-spolier for how to solve the puzzle. It doesn't actually give you a solution, but there's enough information to make a good attempt at the puzzle with the final hint. I had to use the hints for about 10% of the puzzles, most of that being when I didn't have an idea what I should do next.  'This is somebody's game and I can't stop playing a game that eveybody else has lost.'  One criticism is that the hot-spots for zooming into things are not always clear, and I had to use the hints when I needed to be certain that there was hot spot somewhere there.  Seriously, if you like puzzle games get both this and the original -- they are steals at a few bucks apiece. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed the original game, but this is a step backwards in terms of game play. There really aren't many puzzles. This is more of a 'follow the recipe' game in which there are only one or two things avaible to interact with at any given moment, and the game hits you over the head with what you need to do next. It has a lot of atmosphere, a bit of an interesting story, and nice graphics. But if you liked the first Room because of the puzzles, you may not like this one.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "One of my favorite games ever, with puzzles and atmospherics that rival the best moments from the myst series. The second entry in this series seems more ambitious and slightly more story driven than the first, which benefits the game greatly. The simple point-and-click controls and lack of free movement create a nice simplicity to the gameplay, while still keeping the puzzles and their mechanisms fairly complex.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room Two is a great sequel to The Room. The graphics are great and if you get stuck there a clues to help you. It is not a long game, but worth the money. The puzzles are intriguing and not too difficult. Play this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful continuation on its predecessor, with expanded puzzing environments that are a bit of a blessing and a curse at the same time. More environment means wider-ranging puzzles and more pretty things to see and click on, but the developers seem to have dumbed down some of the puzzling in order to prevent the player from getting overwhelmed, while there are some times when the opposite may happen where the player has too much space to explore and no apparent next step in the puzzle. The hint system handles this elegantly and I would recommend anyone playing the game to keep it turned on, since you won't receive any hints unless you choose to, and it's a good way to allay frustration when you've been spinning around the room for ten minutes without finding the next step in the puzzle, which may turn out to be in an area you didn't know there was any interactivity in the first place.  Overall, I'd give The Room Two a 7.5/10 rating - sometimes it's a bit of a pixel hunt and there are unfotunately few if any truly intellectually-challenging puzzles, but it's still a beautiful trip through an interesting world, and even if the puzzles are more of the 'search-and-apply' variety, there's still a sense of accomplishment in progressing through the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A beautiful continuation on its predecessor, with expanded puzzing environments that are a bit of a blessing and a curse at the same time. More environment means wider-ranging puzzles and more pretty things to see and click on, but the developers seem to have dumbed down some of the puzzling in order to prevent the player from getting overwhelmed, while there are some times when the opposite may happen where the player has too much space to explore and no apparent next step in the puzzle. The hint system handles this elegantly and I would recommend anyone playing the game to keep it turned on, since you won't receive any hints unless you choose to, and it's a good way to allay frustration when you've been spinning around the room for ten minutes without finding the next step in the puzzle, which may turn out to be in an area you didn't know there was any interactivity in the first place.  Overall, I'd give The Room Two a 7.5/10 rating - sometimes it's a bit of a pixel hunt and there are unfotunately few if any truly intellectually-challenging puzzles, but it's still a beautiful trip through an interesting world, and even if the puzzles are more of the 'search-and-apply' variety, there's still a sense of accomplishment in progressing through the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Room Two was bizarr. As you got in more, the puzzles got more involved. I look forward to playing The Room Three.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Expanding upon the original Room, now you get to solve puzzles by interacting with objects around the room (as opposed to just on the table). The upside to this is there is so much more mood setting and some story, it really sets a sinister tone that the Room 1 didn't have, as well as doing some interesting puzzle things. The downside to this is you don't get the same 'layers within layers' of the puzzle box like in Room 1. I sortof missed the delight when a new part of the box would open or change in a unique way. Like some other reviewer have mentioned, the puzzles have necessarily been more linear (well, sortof) as different things around the room are used or found or activated. I didn't really encounter many situations where I was looking for two or three solutions at once. There were a couple solutions that I had a hard time with because the physics engine made looking at the location difficult so I missed a clue. I liked that the hints started out vague but would get more specific if you kept using them, because sometimes all I needed was a nudge in a particular direction. Overall, definitely worth playing. I enjoyed the puzzles and the story.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, had lots of fun playing through with my family. Storyline is a bit strange, but hopefully it all comes together in the future. Definitely looking forward to the next one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really enjoy these games, The Room and The Room 2. I usually turn the hints off which are, at times, too obivious but appreciated when in a pinch. I wish the games were longer, they are way too short. Other than that, I can't wait to play The Room 3 on PC.",
+            "review_score": "1"
+        }
+    ]
+}

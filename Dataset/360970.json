@@ -1,0 +1,45 @@
+{
+    "app_id": 360970,
+    "name": "Heaven Forest NIGHTS",
+    "release_date": "2017-03-14",
+    "developer": [
+        "Fabio Ferrara"
+    ],
+    "publisher": [
+        "Chubby Pixel"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "MMO",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "VR Support",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "VR"
+    ],
+    "achievements": 24,
+    "positive_ratings": 185,
+    "negative_ratings": 93,
+    "price": 0.79,
+    "description": "The sequel to the Heaven Forest series. While the first game was about the meaning of life, this new one is about its opposite: what is the meaning of death? Since we are sentient beings who know that sooner or later we will die, do our efforts in the everyday life have a meaning at all?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360970/header.jpg?t=1513615081",
+    "minimum_requirements": "最低: OS: Windows Vista プロセッサー: Intel Dual-Core 2.4 GHz メモリー: 2 GB RAM グラフィック: Nvidia GTX 570 DirectX: Version 8.0 ストレージ: 1 GB 利用可能 追記事項: The game runs even without VR devices",
+    "recommended_requirements": "推奨: OS: Windows 8.1 プロセッサー: Quad-Core i5 or AMD equivalent メモリー: 2 GB RAM グラフィック: Nvidia GTX 670 DirectX: Version 9.0 ストレージ: 1 GB 利用可能 追記事項: The game runs even without VR devices",
+    "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 563400,
+    "name": "Ludu",
+    "release_date": "2016-12-04",
+    "developer": [
+        "Léo-Games"
+    ],
+    "publisher": [
+        "Léo-Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 42,
+    "negative_ratings": 12,
+    "price": 0.0,
+    "description": "Ludu (« ash » in breton) is a free adventure game created with RPG Maker 2003.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/563400/header.jpg?t=1480887149",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, or 10 Processor: Intel® Pentium®4 1.5GHz Memory: 256 MB RAM Graphics: 640x480 DirectX: Version 9.0 Storage: 190 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Is realy cool game!",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "app_id": 715670,
+    "name": "DashPanel",
+    "release_date": "2018-01-05",
+    "developer": [
+        "PyrofrogStudos"
+    ],
+    "publisher": [
+        "PyrofrogStudos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "In-App Purchases",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Utilities"
+    ],
+    "tags": [
+        "Utilities"
+    ],
+    "achievements": 0,
+    "positive_ratings": 32,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Turn your extra monitors into a fully customizable dashboard display for your favourite racing sims.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/715670/header.jpg?t=1544842350",
+    "minimum_requirements": "OS: Windows XP SP2+ DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 764470,
+    "name": "Gear Path",
+    "release_date": "2017-12-20",
+    "developer": [
+        "GooDCrafter"
+    ],
+    "publisher": [
+        "GooDCrafter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 11,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Gear Path is a small platformer Metroidvania-like game with exploring and power-ups. It's perfect for playing while waiting for another game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/764470/header.jpg?t=1513823215",
+    "minimum_requirements": "OS: Windows Vista or later Processor: 1 GHz processor Memory: 1 GB RAM Graphics: OpenGL 3.3 or better Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

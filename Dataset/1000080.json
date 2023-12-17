@@ -1,0 +1,43 @@
+{
+    "app_id": 1000080,
+    "name": "神明在上(Zengeon)",
+    "release_date": "2019-01-18",
+    "developer": [
+        "IndieLeague Studio"
+    ],
+    "publisher": [
+        "IndieLeague Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 19,
+    "positive_ratings": 351,
+    "negative_ratings": 59,
+    "price": 6.19,
+    "description": "‘Zengeon’ is an action role-playing game with anime style and Roguelike elements. At the time of the Luna eclipse, the enchantment of ‘DongTianFudi’ was...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1000080/header.jpg?t=1556288932",
+    "minimum_requirements": "最低配置: 操作系统: Windows7 / Windows8 / Windows10 处理器: 2.5Ghz 内存: 4 GB RAM 图形: GT710 DirectX 版本: 11 网络: 宽带互联网连接 存储空间: 需要 3 GB 可用空间 声卡: 100% DirectX 9.0c compatible sound card",
+    "recommended_requirements": "推荐配置: 操作系统: Windows10 64bit 处理器: I7-6700HQ 2.59GHz 内存: 8 GB RAM 图形: Nvidia GeForce GTX770 DirectX 版本: 11 网络: 宽带互联网连接 存储空间: 需要 3 GB 可用空间 声卡: 100% DirectX 9.0c compatible sound card",
+    "reviews": []
+}

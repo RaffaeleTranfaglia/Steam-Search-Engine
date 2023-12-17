@@ -1,0 +1,40 @@
+{
+    "app_id": 513250,
+    "name": "Rogue Stache",
+    "release_date": "2019-01-23",
+    "developer": [
+        "WubsGames"
+    ],
+    "publisher": [
+        "WubsGames",
+        "BlackShellMedia"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 6,
+    "positive_ratings": 38,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Rogue Stache is an action-adventure platforming roguelike which draws heavy inspiration from hits such as Rogue Legacy, Risk of Rain, and Magicite. Explore vast interstellar dungeons and defeat hordes of cunning enemies!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/513250/header.jpg?t=1551285560",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual core Memory: 2 GB RAM Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Quad core Memory: 4 GB RAM Graphics: 1gb or higher DirectX: Version 9.0 Storage: 250 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,59 @@
+{
+    "app_id": 381220,
+    "name": "Hydraulic Empire",
+    "release_date": "2015-07-31",
+    "developer": [
+        "Batholith Entertainment"
+    ],
+    "publisher": [
+        "Batholith Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Tower Defense",
+        "Strategy"
+    ],
+    "achievements": 20,
+    "positive_ratings": 35,
+    "negative_ratings": 28,
+    "price": 5.59,
+    "description": "Hydraulic Empire is a Tower Defense game with RPG elements focusing on strategy, interactions between mobs, and persistent upgrades. Hydraulic empire is a must have for any true Tower Defense fan, and for those that are not it is a gateway into the tower defense genre.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/381220/header.jpg?t=1467306354",
+    "minimum_requirements": "OS: Windows XP Processor: Atom Z3740D Memory: 2 GB RAM Graphics: Intel Integrated HD4000 DirectX: Version 10 Storage: 450 MB available space Sound Card: Integrated Card",
+    "recommended_requirements": "OS: Windows 8.1 or above Processor: Intel i5 2600k Memory: 4 GB RAM Graphics: AMD 6850 or above DirectX: Version 11 Storage: 450 MB available space Sound Card: Integrated Card",
+    "reviews": [
+        {
+            "review_text": "It's pretty good for a tower defense game. Got some interesting tactics, and even some metagame that can help support your chosen playstyle, though not a game-breaker if you chose wrong, which is nice.  My biggest comlpaint is that it has performance issues, probably a leak, because restarting the game fixes it. After playing for a while straight, the game starts lagging badly and becomes not fun. Hope they fix that one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great NEW edition to the classic Tower Defence game genre!  You have your own man to control in the game, he can build, attack with his gun or cast magic. I think that it is a cool defence game, both fun and challenging.  Overall a COOL game with some great new features :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I agree with most of the other reviews I think this is a really good game my only dislike at the moment is the sound effects flipping awfull.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I picked the game up with a heavy discount, so it was at the price of a bag of crisps.  I'd rather have the bag of crisps than this game.",
+            "review_score": "-1"
+        }
+    ]
+}

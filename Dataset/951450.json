@@ -1,0 +1,41 @@
+{
+    "app_id": 951450,
+    "name": "Fit It",
+    "release_date": "2018-10-16",
+    "developer": [
+        "Edvardas Šneideris",
+        "Gabrielė Ušeckaitė",
+        "Lukas Litinskas"
+    ],
+    "publisher": [
+        "Lukas Litinskas"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 10.29,
+    "description": "Participate in the TV show „Fit It“ where you will have to test your stamina, flexibility and even math knowledge to fit through the walls that will be coming right at you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/951450/header.jpg?t=1548161010",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: Intel Core i5-4590 or AMD FX 8350 (equivalent or better) Graphics: NVIDIA GTX 970 or AMD Radeon R9 290 (equivalent or better) Storage: 1200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

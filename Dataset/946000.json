@@ -1,0 +1,38 @@
+{
+    "app_id": 946000,
+    "name": "Captain MaCaw",
+    "release_date": "2019-01-17",
+    "developer": [
+        "Auld Games"
+    ],
+    "publisher": [
+        "Auld Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 12,
+    "positive_ratings": 10,
+    "negative_ratings": 0,
+    "price": 2.89,
+    "description": "A retro platform adventure in the style of the ZX Spectrum.........starring a pirate! ARRRR!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946000/header.jpg?t=1547730210",
+    "minimum_requirements": "OS: Windows XP Processor: 1 ghz Memory: 2 GB RAM Graphics: Dedicated 1GB DirectX: Version 9.0c Storage: 100 MB available space Sound Card: On Board",
+    "recommended_requirements": "OS: Windows 7 Processor: 1 ghz Memory: 2 GB RAM Graphics: Dedicated 1GB DirectX: Version 9.0c Storage: 100 MB available space Sound Card: On Board",
+    "reviews": []
+}

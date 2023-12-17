@@ -1,0 +1,41 @@
+{
+    "app_id": 566860,
+    "name": "VR Dungeon Knight",
+    "release_date": "2017-04-24",
+    "developer": [
+        "Blackjard Softworks"
+    ],
+    "publisher": [
+        "Wolfdog Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 496,
+    "negative_ratings": 73,
+    "price": 14.99,
+    "description": "VR Dungeon Knight is a dungeon crawler with random level generation and Online Co-op. Explore, fight monsters, loot dungeons, level up, unlock classes and become the ultimate Dungeon Knight!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/566860/header.jpg?t=1549023744",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel core i5 Memory: 8 GB RAM Graphics: AMD Radeon R9 390 or NVIDIA Geforce GTX 980 Storage: 3 GB available space Additional Notes: The game could work on even lower end systems, this is not tested. (try at your own risk).",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.81 Ghz Memory: 16 GB RAM Graphics: NVIDIA Geforce GTX 1070 Storage: 3 GB available space Additional Notes: For optimal performance at all times on highest settings.",
+    "reviews": []
+}

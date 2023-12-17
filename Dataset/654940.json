@@ -1,0 +1,42 @@
+{
+    "app_id": 654940,
+    "name": "RXE",
+    "release_date": "2017-07-21",
+    "developer": [
+        "Buce Studios LLC"
+    ],
+    "publisher": [
+        "Buce Studios LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 2,
+    "positive_ratings": 1,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "(Update: RXE has been discontinued. See the Community Page for more information.) RXE is a game about building and programming robots. Design machines using a variety of parts and devices, and write code in a powerful visual programming language.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/654940/header.jpg?t=1543786409",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: 2 GHz Memory: 512 MB RAM Graphics: DirectX 9.0 DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX 9.0 DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

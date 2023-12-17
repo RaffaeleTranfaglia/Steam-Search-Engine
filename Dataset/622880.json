@@ -1,0 +1,42 @@
+{
+    "app_id": 622880,
+    "name": "Sweven",
+    "release_date": "2017-04-22",
+    "developer": [
+        "CG-Interactive"
+    ],
+    "publisher": [
+        "CG-Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Violent",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Violent",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 6,
+    "positive_ratings": 22,
+    "negative_ratings": 9,
+    "price": 1.59,
+    "description": "Sweven is a 2D platformer with an emotional story and beautiful graphics.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/622880/header.jpg?t=1492878462",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: Any card with DX9 (shader model 3.0) DirectX: Version 9.0 Storage: 4 GB available space Sound Card: Any sound card capable of 2.0 Stereo sound",
+    "recommended_requirements": "OS: Windows 7 and above Processor: Intel i3/i5/i7 4th gen+ or AMD FX 4th gen+ Memory: 8 GB RAM Graphics: Any card with DX11 with feature level 9.3 or Vulkan capabilities DirectX: Version 11 Storage: 4 GB available space Sound Card: Any sound card capable of 2.0 Stereo sound",
+    "reviews": []
+}

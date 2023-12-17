@@ -1,0 +1,149 @@
+{
+    "app_id": 3260,
+    "name": "Safecracker: The Ultimate Puzzle Adventure",
+    "release_date": "2007-08-29",
+    "developer": [
+        "Kheops Studio"
+    ],
+    "publisher": [
+        "HandyGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Puzzle",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 256,
+    "negative_ratings": 172,
+    "price": 4.49,
+    "description": "As an expert safecracker, you are hired by the wealthy family of a recently deceased to search his mansion for his last will and testament. Duncan W. Adams was an avid safe collector and an 'eccentric,' to say the least. Adams has hidden the deed to his vast fortunes in one of 35 safes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/3260/header.jpg?t=1534417169",
+    "minimum_requirements": "Windows® 2000/XP, 800 MHz Pentium® III or equivalent/ faster processor, 64 MB of RAM, DirectX 9.0c or higher, 64 MB DirectX® 9.0c compliant video card, DirectX® 9.0c compatible sound card, mouse, keyboard Recommended: Windows XP, 1 GHz Intel Pentium 4 or equivalent/faster, 128 RAM, 64 MB DirectX® 9.0c Compliant Video Card, DirectX 9.0c, 3D Compatible sound card, mouse, keyboard",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "If anybody else had trouble to start up this game like me then here is what i did to fix it.  1) If steam remains stuck in preparing to launch. Make sure the game is installed on the same hard drive as steam. Usually the C drive.  2) If the game flickers. Go to your steamapps/common folder then safecracker2. In config AND STEAM_config files change bFullScreen=1 TO bFullScreen=0 and save.  3) I also had the game freeze on a black screen. To resolve this in my case i went to Nvidia control panel, manage 3d settings. Safecracker2 then manually turn Antialiasing mode to off. That solved all my issues and yes it was worth it.  I love games that put your brain to the test and Safecracker certainly did that! The puzzles were varied enough to keep the whole experience interesting. It was nice having a subtle story behind it too, as it gave it more meaning. I would recommend this game to those who enjoy solving puzzles and feel rewarded when they finally crack a safe.   Took around 6 hours to complete and i found having a pen and paper handy helped :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting, to say the least. Safecracker is a Point-n-Click style adventure game with a first-person perspective and 3D environment. You play as a professional safecracker hired to find the long-lost will of some guy who owns an oil rig. This game was released in late 2006 and the graphics are pretty stellar for it's time. Clean, sharp textures and smooth lighting. However, this isn't saying much as the majority of the game takes place inside an old Victorian manor. The puzzles are very interesting and require a wide variety of logic and situational awareness. My only complaint is the somewhat steep learning curve for some of the puzzles. I've also heard that this game isn't optimized for ♥♥♥♥, so keep that in mind if you're considering buying.  OVERALL RATING: 6.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In this point and click game, you move from room to room unlocking safes and solving more puzzles to get more clues (and pieces of other puzzles) to solve more puzzles until you finally solve them all and say 'oh good, I solved all the puzzles.'  For the first time in aaaaaaages I found myself using a sheet of paper to solve puzzles in a video game. This was a pleasant surprise - I found myself noting things I'd never need, as well as making notes that really helped me solve puzzles without having to backtrack to look at something again. Don't be fooled - the game does give you some clues you can take with you, but some things have to be carried in your memory only. My memory is awful, so I used paper. I am only writing this review so that I don't buy this game again by mistake. That's how bad my memory is.  Do you like solving puzzles? This game has some neat puzzles, and I don't think a single answer annoyed me, which is rare.  Do you hate sliding tile puzzles? I do! But this game only has 1, and you can cheat (like I did. I have no shame. I hate sliding puzzles).   The game is linear in the sense that you will need to solve some puzzles before you can solve others, but it is also not linear in that you don't need to unlock a clue before you can solve a puzzle. I solved one early puzzle by writing a simple script. Later I found a clue that was useless to me at that point, because I'd already solved the puzzle. The game didn't make me wait until I'd found the clue, which was great. It's awful to play a game like this and know that even if you're entering the right code, it won't work because you didn't pick up a porcelain pig with the number 7 scratched on its ♥♥♥.  There are no porcelain pigs in this game. Porcelain pigs are not playable characters. If you like pigs this might still be the game for you, but don't go into this expecting pigs. There are 100% more pigs in this review than there are in the game.   For the first time in aaaaaaages I found myself using a sheet of paper to solve puzzles in a video game. This was a pleasant surprise - I found myself noting things I'd never need, as well as making notes that really helped me solve puzzles without having to backtrack to look at something again. Don't be fooled - the game does give you some clues you can take with you, but some things have to be carried in your memory only. My memory is awful, so I used paper. I am only writing this review so that I don't buy this game again by mistake. That's how bad my memory is.  The game is kind of short, but it's stable enough that you can tab in and out, so you can play it when you're supposed to be working and then tab out to pull up notepad++ or whatever it is you use at work. I don't know - I've probably never even seen you before, so how would I know what you use. Maybe you are unemployed. Maybe you made a ton of money lawyering and retired ridiculously early to rule an Internet Space Empire and have a cute dog. It's all good here, we're just talking about a little game about solving puzzles. I'm not judging you. I'm judging this game, and it is pretty good. Is it $5 good? Yeah, it's worth the price of a sandwich. Even if its a sandwich you have to cram resistors in before you can eat it.  The game might be a bit of a puzzle to get started. That happened to me but I edited my config files. If you have a problem making this run, go to your Steam directory and go to /steamapps/common/Safecracker2 and open config.ini and STEAM_config.ini and change bFullScreen=1 to bFullScreen=0 in both of them. If you have notepad++ you can do it there.  The ending is a bit bland and I don't think I will be replaying to get all the different endings. It might be my imagination but at the end the narrator seemed to start talking as fast as the people at the end of financial product advertisements where they cram in all the stuff about how you will probably go bankrupt and lose your house and the respect of all but the lowest of bums. This actually made the ending better, especially as I looked away for a moment because my printer started working.  That's the biggest mystery. WHY DID MY PRINTER START WORKING.  I'll tell you why. At the end, the game says 'do you want to print the will?' and I said 'Yes, sure,' thinking I'd be able to read it on the screen. Of course it really tried to print the will, and I stopped it by hammering the big red x button until the printer stopped making noise.   If you are the kind of person who is married and likes to play games at night while your spouse is sleeping in the same room and you have a loud printer and you are likely to just click in the affirmative on a button that says 'DO YOU WANT TO MAKE A NUCLEAR-DETONATION LEVEL OF NOISE RIGHT NOW?' then this might not be the game for you.  It's not bedtime yet so I got away with this. I'm wondering if I should print the will, though. I don't have that recent a save file. If I don't print the will, I will miss out on the game's REAL final puzzle. If I do print the will it will all be white text on black and it will cost me an extra $30 to have played this game. It's like the cat in the box but all the outcomes are bad, like if you were allergic to cats but also terrified of cat corpses.  I liked playing this game, it was a pretty good time for $2.50. If you want a pretty good time and you have $2.50 then I HEAR YOUR MOM MIGHT BE ABLE TO HELP YOU OUT. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will NOT work right off the bat. However, I was able to make it run on my Windows 8.1 by doing the following:   1. In NVIDIA control panel, change settings to Antialiasing: Off (as NAYKID said in another review) 2. Enable compatibility mode for Windows 7.  Game didn't run perfectly smoothly, but it was good enough for me and perfectly playable, just a little bit on the slow side.  As far as the game itself: definitely worth $1.24 if you get it in a sale. There are many different types of puzzles, and they range in difficulty from some very easy ones to some extremely difficult/obscure ones. Most of the harder ones have some sort of clue somewhere, but they can sometimes be tricky to spot. I needed to consult a walkthrough often, but back when I first played this (several years ago now) I ALWAYS needed a walkthrough, being quite impatient, so that may not be the best help. There's a pretty big house to roam around and many different puzzles to solve, and only one or two were of the sort that didn't make sense in hindsight.  It's not a huge or spectacular game, but it's worth a small amount of money to get if you enjoy this sort of game.  -EIF",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a beautiful puzzle game. It provided me some hours of thrilling, frustration and happiness.  The fact that the player has to solve different types of puzzles keeps the game exciting to be played. If you are willing to play this, you may need some information from the internet in order to complete about 2 of the puzzles, but they are very specific and you will know it when the time comes. Otherwise, I highly recommend you to do not search any answer in the internet. If you get stucked, just give it an hour, or a day. When you return, things might be much more clear and the joy of success will come right after.  The click-to-walk mechanic is interesting and the story gives context and meaning to the game. Very good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First game completed on Steam, very nice!  The game is a puzzle-oriented game by the Adventure Company. The most important feature of the game is of different creative safes, giving real challenges to the players. If you are a big fan to this genre, you must be satisfied by the difficulty the puzzles posed to you.   It is the first time I have purchased their product and it is worth the money. Thank you for giving me a nice time of 'puzzling'. XD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "BEST SAFE THEMED PUZZLE ADVENTURE I HAVE EVER PLAYED!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Unplayeble for me.  For me its looks like game have two screens at one. Looks like you took LSD and everything divided at two, when you try to move mouse. Not enoght visuals at carpets.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Some of the puzzles were simply frustrating in their complexity, requiring trial and error until you get it or previous experience and understanding of the puzzle in question.  Also, the game did not run too well for me.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its alright if you like a game that requires you to solve difficult puzzles, but other than that, makes me fall asleep, no offence to the makers of the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Very fun but too short. A few hours of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Game does not work at all. You'd expect an older game such as this one to run like the wind on current PCs, but nope, this thing lags more than Congress does passing a law. The FPS for a game this age and a computer of my caliber is ridiculously slow, and there are times when the game is nonresponsive to clicks, such as the options menu not working properly.   That being said, it looks like a good game, but a good game is nothing if the game is designed badly, which is the case with this game. Do not buy it, even if it's on sale.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "*WARNING* This does not work well with the better systems.  However, it worked perfect with my off the shelf bog standared PC that uses Intel HD graphics 4400 running on Windows 8.1.  It does NOT work on my Zotac GTX 750 ti on windows 7.  These issues aside, this is a great puzzle game that is unforgiving in it's chalenges and somewhat harsh with clues. The best thing about this game, is the gratification of solving the brutal puzzles throughout the game,  If you are looking for something like this but one that does work on moddern PC's, I suggest looking at a game called The Room :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is wonderful. The puzzles dont explain themselves and you are on your own to solve those puzzles. Unfortunately the game didn`t work perfectly for me. I had a constant framerate of approximately 15FPS, but i still enjoyed it. I would recommend this game for people who like solving puzzles and opening safes. Like i already said, the puzzles don`t explain themselves, you don`t get any hints. And that was a great experience (even with 15FPS)!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Although a rather short game, it is good for puzzle addicts. I think there could have been more to it, but still, I rather enjoyed it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game, running on windowed mode on win 7 64bit. absolutely playable",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The indications are well diversified. It makes sense to read the letters and diary pages.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This was a pleasant surprise. I picked it up in a Humble Bundle, so I can not make a price recommendation. It came in a pack of adventure games and intrigued me.  You know what? It's a cool little game and a nice puzzle games for those that like adventure games.  Puzzles: They range from easy to very difficult. Some of the difficult ones(the $ symbol puzzle) drove me mad and that $ symbol one is early and it not fun in a challenging way. However, the majority are actually quite good and fun to try and work out.  Story: Nonexistant....well, nearly dead on arrival, anyway. You could ignore the story and you wouldn't miss anything. You are opening safes to get to a will. That is all.  Gameplay: Hey, it's a lot like the Room for Ipad or Iphone, only with more variety and a little more fun mood.  If you like puzzles and don't care for a story, get it. It's about 3-4 hours long and there is a nice UHS guide available to give you hints, though the game could have actually used a subtle hint system built in.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I recommend this game only with this giant caveat - do NOT get it if you have Windows 7 64bit. You may get it to run, but the mouse is almost laggy enough to be uncontrollable and there are graphical glitches any time a menu box pops up. You have been warned.  The puzzles range from being very simple all the way up to brain-bending hard. In spite of the trailer, there's no spooky or creepy here - just a English guy narrating who occasionally gets on my nerves like nothing else because he sounds like a right smug ♥♥♥♥♥♥♥. Graphics are pretty swanky considering its age.   If you've got an iPad, get The Room/The RoomTwo instead of this. If you don't have one or you've already played them, give this a look, it's like an early prototype of those with worse writing. It's nothing special but you'll kill a few hours easy with it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like point and click puzzles, You would enjoy this game, may enjoy it more if you are also crazy. Me on the other hand, i was using a walkthrough and still failed on a safe.  story seemed ok, you dont get much from it realy and can be ignored if wanted  recomendable for fans of these types of games or those who like a very difficult Game, any one else can play or just watch the Youtube ending.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After spending way too long trying to debug this game, I was finally able to play it. This isn't worth $4. Get it on sale. Graphically (when the bugs are out) it really isn't too bad. Its a fun quick play, that only took me about 2 hours. Some of the puzzles are fairly good ones. My only suggestion, is write down things you see that you think might help. As for a recommendation, sure, its a fun fast little game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "broken game. can't even navigate the opening menus.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "A tightly constructed game with practically every keypad puzzle you can think of. A fun way to spend a few hours.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It sounded like a fun game, but between being essentially broken (GUI barely works, had to go to the reviews to figure out what gymnastics I needed to do to even get it to run) and the story just being not all that worth it and short, I'd look elsewhere.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "There is not much of a depth in the backstory and it is a little bit on the short side, but it is indeed a nice and easy puzzle oriented adventure if you manage to get it to work.  I had to play in window mode and I had a little bit of a struggle with the menù and the inventory (wich some item required my mouse to be absolutely still, some other to move around until the image appeared) but I still managed to finish it without any major sitback. Don't even bother if you have a newer machine and lack patience.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the game glitches out when moving or trying to check inventory but other then that the puzzles are awesome.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i am usually pretty darn good at puzzle games but i am having the hardest time with this one. can't figure out how to look at 80% of the stuff in any of the first three rooms and i dont know if thats how its supposed to be or if i am a fool. seems fun so far though, if a bit challenging/frustrating.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Glitchy. The inventory menu flashes and is impossible to see clues as the item blinks from visible to invisible. The mouse pointer flashes making it hard to figure out where it is. It's even difficult to exit the game. You have to guess where the mouse is. Easier to Alt+F4 out. Was hopeful it would be a fun puzzle but it seems the hardest puzzle is making it playable.",
+            "review_score": "-1"
+        }
+    ]
+}

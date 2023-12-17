@@ -1,0 +1,43 @@
+{
+    "app_id": 448850,
+    "name": "Overload",
+    "release_date": "2018-05-31",
+    "developer": [
+        "Revival Productions, LLC"
+    ],
+    "publisher": [
+        "Revival Productions, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Captions available",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "6DOF",
+        "FPS"
+    ],
+    "achievements": 50,
+    "positive_ratings": 914,
+    "negative_ratings": 39,
+    "price": 23.79,
+    "description": "A new six-degree-of-freedom shooter with intuitive controls, amazing lighting and graphics. From the creators of Descent, Overload is the best zero-gravity robot-blasting combat ever.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448850/header.jpg?t=1549474567",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 8 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

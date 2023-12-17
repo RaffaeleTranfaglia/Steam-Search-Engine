@@ -1,0 +1,35 @@
+{
+    "app_id": 970550,
+    "name": "Color Chain",
+    "release_date": "2018-11-23",
+    "developer": [
+        "Djack D Donovan"
+    ],
+    "publisher": [
+        "Djack D Donovan"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Color Chain is a small casual tile-matching video game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/970550/header.jpg?t=1543013987",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium D 830 (2* 3000) or equivalent / AMD Athlon 64 4000+ (2600) or equivalent Memory: 500 MB RAM Graphics: GeForce 7600 GS (256 MB) / Radeon HD 2400 PRO (256 MB) Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

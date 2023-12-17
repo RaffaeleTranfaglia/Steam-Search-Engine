@@ -1,0 +1,39 @@
+{
+    "app_id": 683900,
+    "name": "RollerCoaster Tycoon® Classic",
+    "release_date": "2017-09-28",
+    "developer": [
+        "Origin8 Technologies Ltd."
+    ],
+    "publisher": [
+        "Atari, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Management"
+    ],
+    "achievements": 0,
+    "positive_ratings": 208,
+    "negative_ratings": 76,
+    "price": 14.99,
+    "description": "Create incredible parks in the original rollercoaster sim from Chris Sawyer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/683900/header.jpg?t=1519320840",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel 2.16Ghz or AMD equivalent Memory: 4 GB RAM Graphics: OpenGL 2 Storage: 360 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel 2.4Ghz+ or AMD equivalent Memory: 4 GB RAM Graphics: OpenGL 2+ Storage: 512 MB available space",
+    "reviews": []
+}

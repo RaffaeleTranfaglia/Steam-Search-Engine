@@ -1,0 +1,42 @@
+{
+    "app_id": 463000,
+    "name": "Hero Battle",
+    "release_date": "2016-04-28",
+    "developer": [
+        "Wang Liwen"
+    ],
+    "publisher": [
+        "Wang Liwen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Massively Multiplayer"
+    ],
+    "tags": [
+        "Massively Multiplayer",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 100,
+    "negative_ratings": 53,
+    "price": 5.19,
+    "description": "Hero Battle is a PK and team fighting game,VR Game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463000/header.jpg?t=1484093556",
+    "minimum_requirements": "OS: Windows XP/7/8/10 Processor: 1GHz Memory: 1 GB RAM Graphics: GeForce 8800 or Radeon® HD4800 series, 512 MB of memory DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows XP/7/8/10 Processor: 2GHz Memory: 2 GB RAM Graphics: GeForce 8800 or Radeon® HD4800 series, 512 MB of memory DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space Sound Card: any",
+    "reviews": [
+        {
+            "review_text": "All the things that you'd want in a game  Dead Population ✔ Non-existant English (And only in the launcher) ✔ Completely Chinese in-game ✔ Controls like complete garbage ✔  tl;dr Don't let the graphics and art style fool you, while the character design is pretty neat imo, you'd have more fun playing the most pay to win f2p game on steam.",
+            "review_score": "-1"
+        }
+    ]
+}

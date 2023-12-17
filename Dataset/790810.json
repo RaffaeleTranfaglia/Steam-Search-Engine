@@ -1,0 +1,40 @@
+{
+    "app_id": 790810,
+    "name": "Voxel Baller",
+    "release_date": "2018-03-21",
+    "developer": [
+        "MKD games"
+    ],
+    "publisher": [
+        "MKD games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 4,
+    "negative_ratings": 6,
+    "price": 4.79,
+    "description": "Challenge your breaking skills and tackle the obstacles in this frenzy action game! Voxel Baller invites you to rediscover the brick-beaking genre with 50 unique levels. Will you clear them all?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/790810/header.jpg?t=1534983476",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7-64bit or later Processor: 64 bits Memory: 4 GB RAM Graphics: NVIDIA® GeForce® GTX 400 Series or AMD equivalent w/ 1GB VRAM Storage: 1 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7-64bit or later Processor: 64 bits Memory: 6 GB RAM Graphics: NVIDIA® GeForce® GTX 500 Series or AMD equivalent w/ 1GB VRAM Storage: 1 GB available space",
+    "reviews": []
+}

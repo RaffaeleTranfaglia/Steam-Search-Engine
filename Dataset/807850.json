@@ -1,0 +1,38 @@
+{
+    "app_id": 807850,
+    "name": "Build Bridges",
+    "release_date": "2018-03-11",
+    "developer": [
+        "Dreambakers"
+    ],
+    "publisher": [
+        "Dreambakers"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Building",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 4,
+    "negative_ratings": 3,
+    "price": 2.89,
+    "description": "Have you ever thought of being an engineer and building awesome structures by yourself? Are you able to construct a really safe bridge? Let’s check it!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/807850/header.jpg?t=1539065224",
+    "minimum_requirements": "OS: Windows XP Processor: Dual Core + Memory: 1 GB RAM Graphics: 512MB + DirectX: Version 9.0 Storage: 420 MB available space Sound Card: Any sound card capable of stereo output",
+    "recommended_requirements": null,
+    "reviews": []
+}

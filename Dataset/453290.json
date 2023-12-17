@@ -1,0 +1,56 @@
+{
+    "app_id": 453290,
+    "name": "Awareness Rooms",
+    "release_date": "2016-06-16",
+    "developer": [
+        "GAME NA KIBUN"
+    ],
+    "publisher": [
+        "AGM PLAYISM"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Pixel Graphics"
+    ],
+    "achievements": 5,
+    "positive_ratings": 175,
+    "negative_ratings": 44,
+    "price": 3.99,
+    "description": "You find yourself in a room you know nothing of. As you examine the objects around you, your awareness rises and the room slowly comes into focus. Can you find your way out?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/453290/header.jpg?t=1553249311",
+    "minimum_requirements": "OS: Windows Processor: Intel Core2 or better Graphics: DirectX® 9 level Graphics Card DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I enjoyed this litte, perhaps a bit too short, puzzle game. Even if it wasn't very complicated, the awareness mechanic was a fun touch. However, the game could have been better if the awareness played a bigger role and it had longer gameplay.  I recommend it because the price isn't very high, although some would say it's too short even for that price.In other words: The only real downside of this game is its very brief duration. But it's a fun experience nonetheless.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Short, repetitive, has a puzzle that seems to require a brute force approach.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "No logic to most of the puzzles in the game, but even by trying all options, only took me 2 hours to solve. I'd not recommend it, unless you like being frustrated at the simplistic controls, poor graphics, and single time game play.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I bought this during the sale because it sounded intresting. This game was everything I love about puzzle games. Really had to think on some of it. The only downside is the game is very short. I would still highly recomend it if you like games that make you think. Though I do hope they add more at some point.",
+            "review_score": "1"
+        }
+    ]
+}

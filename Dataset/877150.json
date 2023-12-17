@@ -1,0 +1,40 @@
+{
+    "app_id": 877150,
+    "name": "Gravity Wars",
+    "release_date": "2018-11-14",
+    "developer": [
+        "Black Potion"
+    ],
+    "publisher": [
+        "Black Potion"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action"
+    ],
+    "achievements": 6,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Gravity Wars is an hardcore 90s Arcade local multiplayer game where you have to avoid waves of geometry entities.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/877150/header.jpg?t=1548178427",
+    "minimum_requirements": "Minimale : Système d'exploitation : Windows 7, 8(64bit) Processeur : 2.3 Ghz Mémoire vive : 2 GB de mémoire Graphiques : Intel HD Graphics 3000 Espace disque : 150 MB d'espace disque disponible Carte son : DirectX sound device",
+    "recommended_requirements": null,
+    "reviews": []
+}

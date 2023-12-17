@@ -1,0 +1,45 @@
+{
+    "app_id": 815730,
+    "name": "Swingy Sword",
+    "release_date": "2018-03-26",
+    "developer": [
+        "Lucas Simmons",
+        "James Gagnon",
+        "Holden Newton"
+    ],
+    "publisher": [
+        "Thulium Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Swingy Sword is a casual 3D fighting game where you fight to the death against up to 4 of your friends in 6 unique game modes. Its Octodad style controls make the game very entertaining and exciting to play.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815730/header.jpg?t=1534649325",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 instruction set support Memory: 1 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities Storage: 140 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

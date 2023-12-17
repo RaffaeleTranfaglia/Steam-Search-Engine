@@ -1,0 +1,44 @@
+{
+    "app_id": 446540,
+    "name": "Smash Up: Conquer the bases with your factions",
+    "release_date": "2016-10-12",
+    "developer": [
+        "Nomad Games",
+        "VooFoo Studios"
+    ],
+    "publisher": [
+        "Asmodee Digital"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Card Game",
+        "Early Access"
+    ],
+    "achievements": 25,
+    "positive_ratings": 102,
+    "negative_ratings": 75,
+    "price": 5.19,
+    "description": "Smash Up is the award-winning game of battling teams of zombies, ninjas &amp; more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446540/header.jpg?t=1536854628",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.0GHz Dual Core Memory: 2 GB RAM Graphics: NVIDIA GeForce 9600GT or AMD Radeon HD 4600 DirectX: Version 10 Network: Broadband Internet connection Storage: 500 MB available space Sound Card: DirectX 9.0C Compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 958960,
+    "name": "Darwin's Test",
+    "release_date": "2018-12-07",
+    "developer": [
+        "Wolfalone Studio"
+    ],
+    "publisher": [
+        "Wolfalone Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 14,
+    "positive_ratings": 14,
+    "negative_ratings": 4,
+    "price": 6.99,
+    "description": "Darwin’s Test is a first-person action and puzzle game that immerses you into a futuristic universe. You play as an amnesic patient following an experimental care protocol. Who are you ? Where are you ? So many questions to solve to discover the truth !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/958960/header.jpg?t=1548256808",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 - Windows 8.1 - Windows 10 Processor: Dual-core 2.0 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 / ATI Radeon HD 7870 DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Quad-core 3.0 GHz Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 / ATI Radeon R9 290 or above DirectX: Version 11 Storage: 8 GB available space",
+    "reviews": []
+}

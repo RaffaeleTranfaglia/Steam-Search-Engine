@@ -1,0 +1,41 @@
+{
+    "app_id": 919560,
+    "name": "Monster Farm",
+    "release_date": "2018-09-11",
+    "developer": [
+        "Educational Games"
+    ],
+    "publisher": [
+        "Educational Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 52,
+    "positive_ratings": 11,
+    "negative_ratings": 9,
+    "price": 2.09,
+    "description": "Here is a real farm monsters in which you have to grow your own monsters, developing them to more advanced creatures. Build the most profitable farm in the district!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/919560/header.jpg?t=1536678212",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 400 MB available space",
+    "reviews": []
+}

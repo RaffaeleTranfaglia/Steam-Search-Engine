@@ -1,0 +1,45 @@
+{
+    "app_id": 583470,
+    "name": "The End Is Nigh",
+    "release_date": "2017-07-12",
+    "developer": [
+        "Edmund McMillen",
+        "Tyler Glaiel"
+    ],
+    "publisher": [
+        "Edmund McMillen",
+        "Tyler Glaiel"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Platformer",
+        "Indie",
+        "Difficult"
+    ],
+    "achievements": 106,
+    "positive_ratings": 1413,
+    "negative_ratings": 102,
+    "price": 10.99,
+    "description": "The End Is Nigh is a sprawling adventure platformer where you die a lot, but thats ok because you are probably already dead anyway.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/583470/header.jpg?t=1513035069",
+    "minimum_requirements": "Betriebssystem: Windows 7 or higher Prozessor: Intel Core i3 Arbeitsspeicher: 2 GB RAM Grafik: dedicated graphics card (opengl 3.0 support or higher) Speicherplatz: 500 MB verfügbarer Speicherplatz",
+    "recommended_requirements": "Empfohlen: Betriebssystem: Windows 10 Prozessor: Intel Core i7 Arbeitsspeicher: 4 GB RAM Grafik: nVidia 9999999999999GTX TI SLIx200 Speicherplatz: 500 MB verfügbarer Speicherplatz",
+    "reviews": []
+}

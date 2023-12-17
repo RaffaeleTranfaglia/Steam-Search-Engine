@@ -1,0 +1,36 @@
+{
+    "app_id": 595630,
+    "name": "Neon8",
+    "release_date": "2017-12-31",
+    "developer": [
+        "GameDevCoop"
+    ],
+    "publisher": [
+        "GameDevCoop"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "VR",
+        "Arcade"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 2.09,
+    "description": "Neon8 is a fast-paced First Person Shooter where you run, jump, fly, and shoot your way through levels of increasingly-difficult enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/595630/header.jpg?t=1514733220",
+    "minimum_requirements": "OS: Windows 8 or newer Processor: Intel i3-6100 Memory: 8 GB RAM Graphics: GeForce GTX 970 or greater Storage: 370 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

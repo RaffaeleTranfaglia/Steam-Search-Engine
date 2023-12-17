@@ -1,0 +1,44 @@
+{
+    "app_id": 670850,
+    "name": "Sokoban Land DX",
+    "release_date": "2017-07-27",
+    "developer": [
+        "lightUP"
+    ],
+    "publisher": [
+        "lightUP"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 9,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "A 2D top-down Puzzle/Sokoban game that can be played in single-player (controlling one or two characters at same time) or with a friend in local co-op mode.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/670850/header.jpg?t=1543324262",
+    "minimum_requirements": "OS: Windows 7/8/10 (32/64 bits) Processor: Intel Atom Cherry Trail Z8300 or AMD equivalent Memory: 2 GB RAM Graphics: DirectX 9.0 integrated Graphics Card DirectX: Version 9.0 Storage: 50 MB available space Additional Notes: Mouse/Keyboard - Xbox 360 Controller (Recommended)",
+    "recommended_requirements": "OS: Windows 10 64 bits Processor: Intel Core2Quad or AMD equivalent Memory: 4 GB RAM Graphics: AMD/nVidia DirectX 9.0 dedicated Graphics Card DirectX: Version 9.0 Storage: 50 MB available space Additional Notes: Mouse/Keyboard - Xbox 360 Controller (Recommended)",
+    "reviews": []
+}

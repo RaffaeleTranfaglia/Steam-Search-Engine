@@ -1,0 +1,37 @@
+{
+    "app_id": 841990,
+    "name": "Der Milchbauer",
+    "release_date": "2018-08-21",
+    "developer": [
+        "NMY Mixed-Reality Communication GmbH"
+    ],
+    "publisher": [
+        "KTBL"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Moddable",
+        "Singleplayer"
+    ],
+    "achievements": 22,
+    "positive_ratings": 2,
+    "negative_ratings": 6,
+    "price": 2.09,
+    "description": "The dairy farmer is a simulation application that enables users to take responsibility for a farm in a playful way. The user is required to economize, feed the cows, purchase and sell them, manage milk production and more to keep the farm going until the user’s retirement.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/841990/header.jpg?t=1534854999",
+    "minimum_requirements": "OS: Windows7 (64bit) Processor: Intel Core i3-3210 Memory: 4 GB RAM Graphics: GTX 260, Radeon HD 5770 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 (64bit) Processor: Intel(R) Core(TM) i5 Memory: 4 GB RAM Graphics: GeForce GTX 660 Storage: 100 MB available space",
+    "reviews": []
+}

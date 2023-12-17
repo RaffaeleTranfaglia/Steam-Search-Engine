@@ -1,0 +1,43 @@
+{
+    "app_id": 600630,
+    "name": "Spaceship Looter",
+    "release_date": "2017-05-17",
+    "developer": [
+        "Luxorix Games"
+    ],
+    "publisher": [
+        "Luxorix Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 26,
+    "positive_ratings": 84,
+    "negative_ratings": 53,
+    "price": 6.99,
+    "description": "Spaceship Looter is an action roguelike game, where mercenaries of all stripes rob drifting schooner, lost transtport ships and abandoned military cruisers - all what is filled with tons of valuable loot and hidden in the deep space.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600630/header.jpg?t=1536227586",
+    "minimum_requirements": "OS: Windows Vista / Windows 7 / Windows 8.1 Processor: 2.4Ghz+ Memory: 2048 MB RAM Graphics: 512MB DirectX 9 compatible video card with support for shader model 3.0 DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

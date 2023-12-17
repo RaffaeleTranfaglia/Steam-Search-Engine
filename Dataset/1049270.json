@@ -1,0 +1,42 @@
+{
+    "app_id": 1049270,
+    "name": "The Prison",
+    "release_date": "2019-04-16",
+    "developer": [
+        "Running Pillow"
+    ],
+    "publisher": [
+        "Running Pillow"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "The Prison is a single-screen local-multiplayer stealth game where players are trying to accomplish goals without drawing attention to them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1049270/header.jpg?t=1555440100",
+    "minimum_requirements": "Processor: 2GHz Memory: 1 GB RAM DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

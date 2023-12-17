@@ -1,0 +1,64 @@
+{
+    "app_id": 334300,
+    "name": "Fake Colours",
+    "release_date": "2015-01-01",
+    "developer": [
+        "Beyond-Limits-Games",
+        "FCG"
+    ],
+    "publisher": [
+        "Forthright Entertainment, LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 3,
+    "positive_ratings": 110,
+    "negative_ratings": 20,
+    "price": 1.99,
+    "description": "The best new puzzle game around is ready to challenge you! Are you ready to take on the 30 levels of Fake Colours?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/334300/header.jpg?t=1516372851",
+    "minimum_requirements": "OS: Windows XP, Windows 7, Windows 8 Processor: 1 Ghz Memory: 1 GB RAM Graphics: 512 mg Storage: 50 MB available space",
+    "recommended_requirements": "OS: Windows XP, Windows 7, Windows 8 Processor: 2 Ghz Memory: 2 GB RAM Graphics: 1 GB Storage: 50 MB available space",
+    "reviews": [
+        {
+            "review_text": "  I won this game on steamgift. The devs offered 100 000 copy to the community, very nice move from Forthright Entertainment.   Nice puzzle game using some basic concept but where it can become very complex to solve some of the puzzle.  It's all about colored block. You have usually 3 moving block of differents colors (Red, Blue and Green) The moving block can only move to another square of the same color or the white square where every color can move. Some of the tile can change the color of the block that move in it. So it add to the challenge even more. You have to do it with a minimal number of move to get the 100% completion on every puzzle.  Some of the puzzle require you to think every move properly, or you can be stuck and need to restart the puzzle if you move to the wrong place. It add some challenge to the difficulty of the game in a nice way.   The only thing I don't like is that you can't zoom out, some of the puzzle are quite large and you don't see everything. This can become REALLY annoying, it add some dificlty to a game already difficult for no obvious reasons. Seriously to plan some of the puzzle accordingly you have to plan many move ahead. This is the main 'feature' of the game and it don't allow you to have a good overall view of the puzzle. Maybe it's on purpose, if it is, then it's a bad choice from the devs if you want my opinion.  In the overall, this is a game that will force you to think alot. If you like very challenging puzzles to test your own limits, it's the game you want to try. It start very easy to show you the basic control of the game, but become more and more challenging at every new puzzle.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got this in a bundle and literally just opened it up and played 8 levels. It looks great, has a great concept, and a good learning curve. I'll probably keep playing this more than most games I've gotten in greenlight bundles, because instead of feeling frustrated by bad design, bad controls, or whatever it is that causes most indie games to fail, when playing Fake Colours I felt some real ah-hah! moments. Should work on even the most low end toaster as well!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is fun game to play : )",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a very neat looking puzzle game. A great soundtrack to back up all the colorful blocks! Requires quite a bit of strategy and eliminates the 'trial and error' aspect of most puzzle games, unless you don't mind starting levels over and over again.   There's nothing more to this game than simply getting the three colored blocks to their destinations with numerous obstacles in the way. There's a few things that make certain parts of a level to be a hindrance, but that's what makes it a puzzle game and what will make you strategize before you make moves. 30 levels of this seems appropriate too, not too many but not too few. As of this review I am on level 10 which is already considerably difficult (for me at least).  A good title for anyone looking for a new style of a puzzle game. Oh and pretty colors.    Thanks for reading! Check out these other links!   My Curator Group   Other Game Reviews ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  It's enjoyable, but maybe not $5 enjoyable. I mean, think of all the Taco Bell you can get with that money... But it is still a fun puzzle game that might actually challenge you to do some real thinking... or Google the solution if you still use rubber bands to keep your chopsticks together.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 690000,
+    "name": "Slimebrawl",
+    "release_date": "2017-11-20",
+    "developer": [
+        "Koloss Kolektiv"
+    ],
+    "publisher": [
+        "Koloss Kolektiv"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Slimebrawl is a 3D melee brawler game focused on quick action and fast rounds. Select your character, customize your appearance, choose your heirloom and get ready to brawl. Play in 2-4 player matches and collect the most slime at the end of the game to win.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690000/header.jpg?t=1511201936",
+    "minimum_requirements": "OS: Window 7, 8, 8.1 or 10 Processor: Intel® Core i3 / AMD A6 @2.8GHz or higher Memory: 3 GB RAM Graphics: Nvidia GTX 660 / AMD Radeon 7850 or higher DirectX: Version 9.0 Storage: 2 GB available space Sound Card: Onboard Additional Notes: For comfortable variable framerate experience at lower settings",
+    "recommended_requirements": "OS: Window 7, 8, 8.1 or 10 Processor: Intel Core i5 or AMD equvivalent @ 3.5GHz or higher Memory: 4 GB RAM Graphics: Nvidia GTX 770 or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space Sound Card: Onboard Additional Notes: For the highest graphical settings at constant 60+ FPS",
+    "reviews": []
+}

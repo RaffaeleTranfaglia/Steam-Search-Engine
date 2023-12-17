@@ -1,0 +1,52 @@
+{
+    "app_id": 467810,
+    "name": "Splody",
+    "release_date": "2017-03-21",
+    "developer": [
+        "Dashing Strike"
+    ],
+    "publisher": [
+        "Dashing Strike"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 36,
+    "positive_ratings": 62,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "The classic couch competitive gameplay of games like Bomberman taken to the extreme. Place bombs, get out of the way, destroy your friends, collect powerups, 'splode your way to victory in smooth multiplayer with virtually unlimited local players!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/467810/header.jpg?t=1544657821",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 1 Ghz or faster Memory: 512 MB RAM Graphics: Intel HD Graphics 2500 or better Storage: 100 MB available space Additional Notes: Controllers recommended for local multiplayer",
+    "recommended_requirements": null,
+    "reviews": []
+}

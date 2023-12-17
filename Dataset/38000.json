@@ -1,0 +1,39 @@
+{
+    "app_id": 38000,
+    "name": "Mahjong Quest Collection",
+    "release_date": "2009-08-24",
+    "developer": [
+        "iWin"
+    ],
+    "publisher": [
+        "iWin"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 2,
+    "price": 6.99,
+    "description": "Includes the first three installments of Mahjong Quest, the epic tale of tile matchmaking! What's the meaning of happiness? You are Kwazi. Starting from a mysterious birth at a mountaintop monastery and ending as a wizened old man, you use your grandfather's ancient Mah Jong set to solve an ever-challenging series of puzzles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/38000/header.jpg?t=1447352429",
+    "minimum_requirements": "OS: Windows 2000/XP/Vista                    Processor: 1.2GHz processor                    Memory: 512+MB of RAM                    Graphics: 128MB of video memory                    DirectX: 8 or later                    Hard Drive: 200MB+ of free hard drive space                    Sound: DirectX-compatible sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Majong Quest by iWin is a solid Majong game with bright colorful graphics, quality authentic sounding Chinese music and three modes of play. The story mode alone contains approximately one hundred puzzles, so if you are a fan of the genre it is hard to argue against the value here. Unfortunately, like many casual games, Majong Quest does not support the Steam Overlay or widescreen resolutions, but fullscreen is avaliable. My only other minor gripe about the title is the tile design itself is a little bland and the mouse curso is overly large and a little unweildy on the playfield. Those minor blemishes aside though, Majong Quest is a quality game and worth it's discount price.",
+            "review_score": "1"
+        }
+    ]
+}

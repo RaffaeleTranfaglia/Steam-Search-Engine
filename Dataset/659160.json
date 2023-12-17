@@ -1,0 +1,40 @@
+{
+    "app_id": 659160,
+    "name": "Rain of Pumpkins",
+    "release_date": "2017-10-23",
+    "developer": [
+        "Gary & Eddy"
+    ],
+    "publisher": [
+        "EGCL"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 1,
+    "negative_ratings": 2,
+    "price": 1.99,
+    "description": "It's a first person collector! The game plays like a first person shooter but the purpose is to collect things – namely pumpkins! Set in a town populated by skeletons, your task is to gather pumpkins hurled at the town by the local witch. Deliver them to your local chefs at the mills to make pies and earn points.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/659160/header.jpg?t=1517222449",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7 Processor: Intel i3 2.5 Ghz or AMD equivalent Memory: 8 GB RAM Graphics: DirectX Version: DX11 (shader model 3) with 2 GB VRAM DirectX: Version 11 Storage: 1 GB available space Additional Notes: Mouse &amp; Keyboard required",
+    "recommended_requirements": null,
+    "reviews": []
+}

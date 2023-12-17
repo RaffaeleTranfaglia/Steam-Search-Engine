@@ -1,0 +1,42 @@
+{
+    "app_id": 522010,
+    "name": "Lost Crew",
+    "release_date": "2016-09-15",
+    "developer": [
+        "Gamecosm"
+    ],
+    "publisher": [
+        "Gamecosm"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 12,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Commentary available"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 2,
+    "positive_ratings": 37,
+    "negative_ratings": 5,
+    "price": 1.69,
+    "description": "This is text adventure game of survival of the astronauts on the orbital station that is lost in time. You will have to take care of the rescue of the station's crew, and lots of complicated riddles and situations will make this adventure even more interesting.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/522010/header.jpg?t=1540901329",
+    "minimum_requirements": "OS: Winndows XP Processor: Intel Celeron Memory: 1024 MB RAM DirectX: Version 9.0",
+    "recommended_requirements": null,
+    "reviews": []
+}

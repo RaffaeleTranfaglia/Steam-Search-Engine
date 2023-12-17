@@ -1,0 +1,39 @@
+{
+    "app_id": 664630,
+    "name": "Tupã",
+    "release_date": "2017-07-29",
+    "developer": [
+        "André Bertaglia"
+    ],
+    "publisher": [
+        "André Bertaglia"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "A small archer faces a wizard.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/664630/header.jpg?t=1543674266",
+    "minimum_requirements": "OS: Windows Memory: 512 MB RAM Storage: 215 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

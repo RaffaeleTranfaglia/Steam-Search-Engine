@@ -1,0 +1,49 @@
+{
+    "app_id": 422980,
+    "name": "Super Robot Jump Jump",
+    "release_date": "2016-03-31",
+    "developer": [
+        "Beyond Technical Inc."
+    ],
+    "publisher": [
+        "Beyond Technical"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 31,
+    "positive_ratings": 24,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Super Robot Jump Jump is a 2D platformer with a simple control scheme. Featuring CO-OP gameplay you can tackle the challenge alone or with a friend. Be ready for a hilariously difficult time with 80+ levels and multiple worlds each with their own challenges to discover.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/422980/header.jpg?t=1482809180",
+    "minimum_requirements": "OS: Windows 7 x32 Processor: Intel Core2 Duo 2.4ghz / AMD Athlon 64 X2 Memory: 2 GB RAM Graphics: HD Graphics card DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: Game can run on lower systems, however frame rates and Vram may cause issues. On low end machines manually setting Vram may solve any issues you encounter.",
+    "recommended_requirements": "OS: Windows 7 / Windows 10 x64 Processor: Anything quad core or higher Memory: 4 GB RAM Graphics: A better HD Graphics Card DirectX: Version 9.0 Storage: 1 GB available space Additional Notes: Supports XInput Gamepads",
+    "reviews": [
+        {
+            "review_text": "This Game is a Challenge! Lots of silliness to be had, and a great time with a second Player to join in on some Co-op. I do not know if I can get to the end of the Story, to enjoy the whole thing, my skills are low, but practice helps. The feel of the Robot in air is interesting, and certain level mechanics feel unique. Give it a try, eh",
+            "review_score": "1"
+        }
+    ]
+}

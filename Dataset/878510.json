@@ -1,0 +1,37 @@
+{
+    "app_id": 878510,
+    "name": "Sort the Cube",
+    "release_date": "2018-08-04",
+    "developer": [
+        "Lyubomir Vasilev"
+    ],
+    "publisher": [
+        "Lyubomir Vasilev"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Puzzle",
+        "Minimalist"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Solve the puzzle by sliding the little cubes around",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/878510/header.jpg?t=1533986323",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 2 GHz or better Memory: 512 MB RAM Graphics: OpenGL 2.1 Compatible Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: 2 GHz or better Memory: 512 MB RAM Graphics: OpenGL 2.1 Compatible Storage: 100 MB available space",
+    "reviews": []
+}

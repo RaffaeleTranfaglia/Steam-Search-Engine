@@ -1,0 +1,45 @@
+{
+    "app_id": 363670,
+    "name": "Seeders",
+    "release_date": "2015-08-21",
+    "developer": [
+        "Bigosaur"
+    ],
+    "publisher": [
+        "Bigosaur"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Puzzle-Platformer"
+    ],
+    "achievements": 0,
+    "positive_ratings": 18,
+    "negative_ratings": 13,
+    "price": 6.99,
+    "description": "Seeders is a puzzle platformer with funky physics and mind boggling puzzles requiring out-of-the-box thinking and persistence. Only a few players were able to complete the game. Can you handle it?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/363670/header.jpg?t=1541187957",
+    "minimum_requirements": "OS: Windows XP or newer Processor: Core2Duo 2.0 GHz Memory: 1 GB RAM Graphics: OpenGL 1.4 or better Storage: 100 MB available space Additional Notes: Game has been tested to run at 60 fps on Intel Core2Duo with integrated Intel graphics card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great puzzle game! The graphics are average and it takes some time to get used to the physics, but once you do, the game really shines. Most of the puzzles are very well thought of and it reminds me of Braid in that regard.   The game requires out-of-the-box thinking and sometimes trial-and-error approach. Sometimes it takes multiple plays to execute the puzzle even if you know the solution. But, it is not really a problem because there are plenty of checkpoints, so you'd lose a couple of seconds the most.  Beside physics puzzles, there are also logic puzzles where you have to lure enemies away or make them press a switch or push a block for you.  And there are a couple of pure logic puzzles which add to depth and variety. I especially like the rotating numeric wheel puzzle at the power generator in chapter five. That was a hard nut to crack.  Recommended 9/10.",
+            "review_score": "1"
+        }
+    ]
+}

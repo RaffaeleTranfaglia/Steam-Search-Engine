@@ -1,0 +1,38 @@
+{
+    "app_id": 703750,
+    "name": "Robo-orders",
+    "release_date": "2017-09-20",
+    "developer": [
+        "Dexion Games"
+    ],
+    "publisher": [
+        "Dexion Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 2,
+    "negative_ratings": 11,
+    "price": 0.79,
+    "description": "A game based on programming and strategy to achieve the goal, that the robots reach the target.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/703750/header.jpg?t=1518194053",
+    "minimum_requirements": "OS: Windows 7/10 Processor: Dual Core Memory: 512 MB RAM Graphics: Supported Storage: 50 MB available space Sound Card: No",
+    "recommended_requirements": null,
+    "reviews": []
+}

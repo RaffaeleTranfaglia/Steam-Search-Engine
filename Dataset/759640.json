@@ -1,0 +1,41 @@
+{
+    "app_id": 759640,
+    "name": "Plug Me",
+    "release_date": "2018-04-05",
+    "developer": [
+        "Havana24"
+    ],
+    "publisher": [
+        "Havana24"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 21,
+    "positive_ratings": 37,
+    "negative_ratings": 3,
+    "price": 2.09,
+    "description": "Plug Me is a tricky puzzle platform where the timer is a physical object in the game world! You are able to walk on the green parts of this bar as a platform, but you must be careful not to fall off as the power is drained.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/759640/header.jpg?t=1523641763",
+    "minimum_requirements": "OS: Windows 7 or later Processor: 1 Ghz Memory: 2 GB RAM Storage: 40 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

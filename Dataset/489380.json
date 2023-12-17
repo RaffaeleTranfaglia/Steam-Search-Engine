@@ -1,0 +1,43 @@
+{
+    "app_id": 489380,
+    "name": "QuiVr",
+    "release_date": "2018-06-18",
+    "developer": [
+        "Blueteak"
+    ],
+    "publisher": [
+        "Alvios, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "SteamVR Collectibles"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Simulation",
+        "VR"
+    ],
+    "achievements": 14,
+    "positive_ratings": 414,
+    "negative_ratings": 35,
+    "price": 14.99,
+    "description": "QuiVr is the defining archery experience, made from the ground up for Virtual Reality. Grab your bow, arrows, and some friends to fight the enemy onslaught.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/489380/header.jpg?t=1535762408",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5-4590 3.3 GHz Memory: 6 GB RAM Graphics: NVidia GTX 970 DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i7-4770 3.4 GHz Memory: 16 GB RAM Graphics: NVidia GTX 980 DirectX: Version 11 Storage: 5 GB available space",
+    "reviews": []
+}

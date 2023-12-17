@@ -1,0 +1,40 @@
+{
+    "app_id": 683320,
+    "name": "GRIS",
+    "release_date": "2018-12-13",
+    "developer": [
+        "Nomada Studio"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Atmospheric",
+        "Great Soundtrack",
+        "Beautiful"
+    ],
+    "achievements": 17,
+    "positive_ratings": 5747,
+    "negative_ratings": 242,
+    "price": 14.49,
+    "description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/683320/header.jpg?t=1547133712",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core2 Duo E6750 (2 * 2660) or equivalent /  AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) or equivalent Memory: 4 GB RAM Graphics: Geforce GT 430 (1024 MB) / Radeon HD 5570 (1024 MB) Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

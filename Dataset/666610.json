@@ -1,0 +1,38 @@
+{
+    "app_id": 666610,
+    "name": "Endless ATC",
+    "release_date": "2017-07-19",
+    "developer": [
+        "startgrid"
+    ],
+    "publisher": [
+        "startgrid"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 44,
+    "negative_ratings": 4,
+    "price": 2.99,
+    "description": "Endless ATC is a realistic air traffic control simulator with a simple, easy to use interface. The goal is to guide as many planes as possible safely to the runways. Find out how many flights you can manage to control!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/666610/header.jpg?t=1542371908",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium 4 Memory: 512 MB RAM Graphics: Integrated Storage: 20 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

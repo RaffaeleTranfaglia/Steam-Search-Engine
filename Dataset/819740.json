@@ -1,0 +1,39 @@
+{
+    "app_id": 819740,
+    "name": "Deadly Delivery",
+    "release_date": "2018-06-20",
+    "developer": [
+        "Joshua Harrison Blayney"
+    ],
+    "publisher": [
+        "Joshua Harrison Blayney"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Difficult"
+    ],
+    "achievements": 29,
+    "positive_ratings": 18,
+    "negative_ratings": 5,
+    "price": 5.19,
+    "description": "You are the operator of a remote-controlled vehicle and your objective is to deliver the dangerous goods to the designated point. Zoom your way past landmines, falling platforms and land ridiculous jumps in five unforgiving and challenging destinations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/819740/header.jpg?t=1529572783",
+    "minimum_requirements": "OS: Windows 7 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8000 MB RAM Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher DirectX: Version 10 Storage: 4 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

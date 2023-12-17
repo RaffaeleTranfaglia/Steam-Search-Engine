@@ -1,0 +1,42 @@
+{
+    "app_id": 690260,
+    "name": "Tower Miners",
+    "release_date": "2017-09-15",
+    "developer": [
+        "CaveDave"
+    ],
+    "publisher": [
+        "CaveDave"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 35,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Tower Miners is a local multiplayer game. Mixed out of strategy, tower defense and random party game genre.The goal is to beat your enemy by destroying his base.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/690260/header.jpg?t=1532934953",
+    "minimum_requirements": "OS: Windows XP SP2 or newer Processor: Intel Core 2 Duo 2 GHz+ or newer Memory: 1 GB RAM Graphics: 256 MB or higher DirectX: Version 9.0 Storage: 250 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": []
+}

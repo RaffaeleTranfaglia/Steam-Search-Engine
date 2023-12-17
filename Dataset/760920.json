@@ -1,0 +1,35 @@
+{
+    "app_id": 760920,
+    "name": "ElectricVLab",
+    "release_date": "2018-12-20",
+    "developer": [
+        "QuaSci Labs LLC"
+    ],
+    "publisher": [
+        "QuaSci Labs LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Education"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 2,
+    "price": 8.29,
+    "description": "ElectricVLab employs the technology of video games to explore the fascinating world of electricity and electronics. It allows you to build a wide variety of analog and digital electronic circuits, and observe their behavior in a visually rich, informative, fun environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/760920/header.jpg?t=1545365575",
+    "minimum_requirements": "OS: Windows 7 DirectX: Version 9.0c",
+    "recommended_requirements": null,
+    "reviews": []
+}

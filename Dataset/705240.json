@@ -1,0 +1,40 @@
+{
+    "app_id": 705240,
+    "name": "Boom Box Blue!",
+    "release_date": "2017-12-11",
+    "developer": [
+        "VaragtP"
+    ],
+    "publisher": [
+        "VaragtP"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 35,
+    "positive_ratings": 24,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Boom Box Blue is a frenzied skill based physics game. This is what you get if you merge Tetris with physics and throw some bombs into the mix!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/705240/header.jpg?t=1513015135",
+    "minimum_requirements": "OS: Windows XP or higher Memory: 512 MB RAM Storage: 30 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

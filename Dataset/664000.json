@@ -1,0 +1,40 @@
+{
+    "app_id": 664000,
+    "name": "HammerHelm",
+    "release_date": "2017-07-27",
+    "developer": [
+        "SuperSixStudios"
+    ],
+    "publisher": [
+        "SuperSixStudios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 31,
+    "positive_ratings": 71,
+    "negative_ratings": 13,
+    "price": 10.99,
+    "description": "HammerHelm is a unique blend of third-person adventuring and town building gameplay. Create your character, build your town, complete quests, craft weapons and armor, defeat dangerous enemies, and help your townspeople thrive. The bigger your town, the bigger your adventure!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/664000/header.jpg?t=1553471421",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5-2300 (2.8 GHz) Memory: 8 GB RAM Graphics: GeForce GTX 650 / Radeon R9 M270X DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Intel Core i7-4700MQ (3.20GHz) Memory: 8 MB RAM Graphics: GeForce GTX 470 / Radeon RX 550 DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

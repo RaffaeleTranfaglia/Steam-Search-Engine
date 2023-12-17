@@ -1,0 +1,37 @@
+{
+    "app_id": 695460,
+    "name": "Coffee Pixes",
+    "release_date": "2017-11-07",
+    "developer": [
+        "Fuyu Games AB"
+    ],
+    "publisher": [
+        "Fuyu Games AB"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Coffee Pixes is a relaxing puzzle game in which you place 'Pixes' on to the board in a row to clear them.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/695460/header.jpg?t=1514850117",
+    "minimum_requirements": "OS: Microsoft Windows 7 (Service Pack 1 or above) Processor: Intel compatible Dual Core CPU Memory: 1 GB RAM Graphics: DX11 compliant graphics card DirectX: Version 11 Storage: 200 MB available space Sound Card: Any Sound Card",
+    "recommended_requirements": "OS: Microsoft Windows 10 (64-bit) Processor: Intel compatible Quad Core CPU Memory: 2 GB RAM Graphics: DX11 based graphics card DirectX: Version 11 Storage: 500 MB available space Sound Card: Sound Blaster or similar",
+    "reviews": []
+}

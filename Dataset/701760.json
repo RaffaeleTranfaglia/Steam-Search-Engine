@@ -1,0 +1,38 @@
+{
+    "app_id": 701760,
+    "name": "L.S.S",
+    "release_date": "2018-04-05",
+    "developer": [
+        "FossettGaming"
+    ],
+    "publisher": [
+        "FossettGaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Gore",
+        "Violent"
+    ],
+    "achievements": 27,
+    "positive_ratings": 27,
+    "negative_ratings": 9,
+    "price": 0.79,
+    "description": "L.S.S is a fast paced survival first person shooter. Use weapons, traps and throwable's to defeat the infected!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/701760/header.jpg?t=1555094168",
+    "minimum_requirements": "OS: Windows 10, 8 or 7 Processor: AMD A10-7800 RadeonR7 or higher Memory: 4 GB RAM Graphics: GPU with at least 1024 MB video RAM Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

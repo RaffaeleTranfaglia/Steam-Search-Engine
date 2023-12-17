@@ -1,0 +1,39 @@
+{
+    "app_id": 840020,
+    "name": "Gun Rage",
+    "release_date": "2018-09-17",
+    "developer": [
+        "Denis Galewski"
+    ],
+    "publisher": [
+        "Denis Galewski"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Violent"
+    ],
+    "achievements": 24,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "Gun Rage is an old-school, fast-paced, side-scrolling run and gun, with 16-bit era graphics, inspired by greatest classic games of the genre.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840020/header.jpg?t=1555629201",
+    "minimum_requirements": "Betriebssystem: Windows 7 and above Prozessor: Dual Core Arbeitsspeicher: 2 GB RAM Grafik: DX11 compliant graphics card DirectX: Version 11 Speicherplatz: 420 MB verfügbarer Speicherplatz",
+    "recommended_requirements": null,
+    "reviews": []
+}

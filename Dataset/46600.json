@@ -1,0 +1,58 @@
+{
+    "app_id": 46600,
+    "name": "Swarm Arena",
+    "release_date": "2010-08-19",
+    "developer": [
+        "Dedication Games"
+    ],
+    "publisher": [
+        "Dedication Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 15,
+    "positive_ratings": 40,
+    "negative_ratings": 12,
+    "price": 2.89,
+    "description": "Take control of a virtual organism in this unique indie arcade title, while unlocking Steam Achievements and climbing the leaderboards!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/46600/header.jpg?t=1447352835",
+    "minimum_requirements": "OS: Windows® XP / Vista™ / Windows® 7Processor: 2.0 GHz processorMemory: 1 GB RAMGraphics: 256MB video memory, Pixelshader 2.0DirectX&reg;: 9.0cHard Drive: 200 MBSound: DirectX compatible Sound Card Other Requirements:",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Do not be fooled by the steam store page, this game has fully implemented online play through the steam system. I bought it for it's gameplay, and still enjoy it for that and it's well done online laddering.  Not only are the controls solidly simple, but they also allow for quite a few physics based trickes to be pulled off. This results in gameplay that rarely gets dull and allows the player's playstyle to clearly show in multiplayer matches.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is absolutely fantastic. After a while of searching for a multiplayer, fast-paced action game for a great price I came to this gem. The gameplay is fast but responsive and skillful, there isn't a moment where you feel cheated by the controls. There's not a flaw in this game and you could easily kill hours playing this. Would recommend.  It's also a perfect price to gift a friend after you learn the skills then kick their butt.. until they get better than you xD",
+            "review_score": "1"
+        },
+        {
+            "review_text": "You basically play a little comet which is able to manipulate drones. Either you attack with them or defend yourself vs enemy drones.   Once you found out how it works this is pretty fun and really addictive for a indie game.   One interesting part of the game is that there is an KI which learns from you. The aim is to train the KI to beat the enemy KI on maximum difficulty. Which gets rewarded with an achievment aswell...Wasnt able to do it, but I wish you luck.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting and new gameplay here; it's different in a good way. Just give the demo a try; it's a neat little game. Cheap, too.",
+            "review_score": "1"
+        }
+    ]
+}

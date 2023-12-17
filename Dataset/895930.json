@@ -1,0 +1,35 @@
+{
+    "app_id": 895930,
+    "name": "Maze Quest 1: The Forest",
+    "release_date": "2018-08-31",
+    "developer": [
+        "Sylvestrina"
+    ],
+    "publisher": [
+        "Sylvestrina"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 23,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "Maze Quest 1: The Forest is a simple relaxing puzzle game. Play as Sylvie the Elf and find your way home through 100 forest-themed maze levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/895930/header.jpg?t=1535731850",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 1.2 GHz Memory: 2 GB RAM Graphics: NVIDIA GTX 560SE DirectX: Version 9.0 Storage: 110 MB available space Sound Card: DirectSound-compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

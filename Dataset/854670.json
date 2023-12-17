@@ -1,0 +1,40 @@
+{
+    "app_id": 854670,
+    "name": "HEROES TRIALS",
+    "release_date": "2018-06-20",
+    "developer": [
+        "Shinyuden"
+    ],
+    "publisher": [
+        "Shinyuden"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 16,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "An intense and fast-paced adventure broken into several trials that can also be played as a shooter. Help siblings Elia and Zoel to become their homeland heroes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/854670/header.jpg?t=1529506903",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core i3 or AMD FX Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 or Opengl 2.0 supported graphics card DirectX: Version 10 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

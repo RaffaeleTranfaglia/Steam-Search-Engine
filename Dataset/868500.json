@@ -1,0 +1,43 @@
+{
+    "app_id": 868500,
+    "name": "Qybe",
+    "release_date": "2018-10-23",
+    "developer": [
+        "Qrakhen"
+    ],
+    "publisher": [
+        "Qrakhen"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Racing"
+    ],
+    "achievements": 9,
+    "positive_ratings": 12,
+    "negative_ratings": 0,
+    "price": 2.99,
+    "description": "Qybe is a fresh &amp; innovative speed runner with dark atmosphere &amp; smooth graphics, where you're set to navigate a Cube through lots of different Levels as fast - and as creatively - as possible. Easily create &amp; share your own maps with the community using the included Editor - then watch others run them!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/868500/header.jpg?t=1540545665",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: ~2GHz Dual Core Memory: 2 GB RAM Graphics: NVIDIA GeForce 6800 or ATI Radeon x1950 or better with 256MB VRAM DirectX: Version 9.0 Storage: 100 MB available space Additional Notes: Qybe will basically run on a potato.",
+    "recommended_requirements": "OS: Windows 10 Memory: 8 GB RAM DirectX: Version 11",
+    "reviews": []
+}

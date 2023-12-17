@@ -1,0 +1,36 @@
+{
+    "app_id": 1007440,
+    "name": "Solitaire: Learn Chemistry",
+    "release_date": "2019-02-17",
+    "developer": [
+        "RTWS"
+    ],
+    "publisher": [
+        "RTWS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Education",
+        "Card Game"
+    ],
+    "achievements": 52,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "A combination of using flashcards for learning with the classic card game Solitaire.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1007440/header.jpg?t=1555498184",
+    "minimum_requirements": "OS: Windows 7 Storage: 100 MB available space",
+    "recommended_requirements": "Additional Notes: 1920x1080 recommended - cards can be hard to read at low res",
+    "reviews": []
+}

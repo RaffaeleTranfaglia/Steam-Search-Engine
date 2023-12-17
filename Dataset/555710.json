@@ -1,0 +1,46 @@
+{
+    "app_id": 555710,
+    "name": "Zolg",
+    "release_date": "2016-12-02",
+    "developer": [
+        "Robert Alvarez"
+    ],
+    "publisher": [
+        "Robert Alvarez"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 40,
+    "positive_ratings": 113,
+    "negative_ratings": 38,
+    "price": 0.79,
+    "description": "Zolg is a minimalist top-down shooter where you explore, fight enemies, collect powerups, and defeat bosses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555710/header.jpg?t=1507680927",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 Ghz Memory: 2 GB RAM Graphics: 256MB Graphics Storage: 30 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Update- After the most recent patch, Achievements are working on the OSX version now!  Zolg is a minimalist shooter with vector retro style. It is quite enjoyable and relatively short, at the listed price of $0.99 you easily get your money's worth. It also is similiar to metroidvania style games and your first playthrough will take you the longest. The achievements are designed about replayability with time and shots fired challanges which extend the life of the game. I did notice that the OSX version has bugged achievements, of which the developer has been quick to respond (developer communication FTW!) I must warn you make sure you play with a mouse, on a laptop's trackpad you will get hand cramps quick after the first few bosses.",
+            "review_score": "1"
+        }
+    ]
+}

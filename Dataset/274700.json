@@ -1,0 +1,65 @@
+{
+    "app_id": 274700,
+    "name": "868-HACK",
+    "release_date": "2015-01-26",
+    "developer": [
+        "Michael Brough"
+    ],
+    "publisher": [
+        "Michael Brough"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Rogue-like"
+    ],
+    "achievements": 1,
+    "positive_ratings": 65,
+    "negative_ratings": 4,
+    "price": 4.65,
+    "description": "You are a computer hacker. You steal precious data while the world sleeps.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/274700/header.jpg?t=1540414034",
+    "minimum_requirements": "OS: Windows XP/Vista/7 Processor: 1.6GHz Memory: 512 MB RAM Graphics: 128Mb Storage: 27 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is a very awesome game… I played it for several hours on an iPad (I don't own) and am very happy to see the Steam port of it.  At first I didn't get the game, but then got into it really quick and still enjoy it, as every playthrough is a different challenge. Especially with the   additional abilities you unlock after every successful run  . In some situations it feels like a puzzle game where you have to figure out how to get out of a situation alive. It's a very hard game with a very nice risk/ reward machanic, but you'll learn how to master situations by planning ahead!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fast and frantic despite being entirely turn based. You will die to things you saw coming a mile away. You will lose entire runs to one errant keystroke. You will occasionally eke out a victory only to be told to do it again, but harder, and with more stuff. All of this will repeat itself at an incredible pace.  10 terribly placed .Restore programs out of 10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is wonderful! It's extremely, extremely clean with respect to design. It is a very tight package. The gameplay is very deterministic- you can think out situations and gauge whether or not to take calculated risks. Everything always makes sense, I have never once been mad at the game or frustrated.   It's a very enjoyable experience, the soundtrack and graphics make for a nice ambient experience, and the music and vibe changes based on what's going on with your character's situation. The game always has a way of motivating you to challenge yourself and always try to achieve more.  This is a real gem- at this price you are more than getting your money's worth. Seal of approval from me.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very happy to play this game away from a friends iDevice! Runs great and I play it terribly, awesome stuff!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "low-fi delight, deep and self contained",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pac-man meets Chess in a Cyberpunk BBS.",
+            "review_score": "1"
+        }
+    ]
+}

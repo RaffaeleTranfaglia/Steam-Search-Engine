@@ -1,0 +1,66 @@
+{
+    "app_id": 307430,
+    "name": "Othello",
+    "release_date": "2015-03-19",
+    "developer": [
+        "BlueLine Games"
+    ],
+    "publisher": [
+        "BlueLine Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 66,
+    "negative_ratings": 26,
+    "price": 6.99,
+    "description": "The classic abstract strategy game comes to Steam! Othello is an ageless game that takes a minute to learn and a lifetime to master. Place tiles surrounding your opponents tiles to flip them to your color. Get to the end with more tiles of your color and you are the winner!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/307430/header.jpg?t=1486311269",
+    "minimum_requirements": "OS: Windows XP or better Processor: 1 gHz Memory: 512 MB RAM Graphics: OpenGL 2.1+ w/ GL_ARB_framebuffer_object Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows XP or better Processor: 2 gHz Memory: 1 GB RAM Graphics: OpenGL 3+ Network: Broadband Internet connection Storage: 300 MB available space",
+    "reviews": [
+        {
+            "review_text": "First: Want to say 'thank you' to the fine people at BlueLines for responding quickly to fix bug in this game. Found the person I talked with polite and friendly and taking my concerns seriously. (I believe it took them less than a week to fix the problem.) Good job!  Second: This game is very simple... and EXTREMELY difficult. Each game takes about 5-10 minutes to play so is good for entertaining yourself when have a little break. I pride myself on being very good with turn-based boardgames but this simulator had me gnashing my teeth a few times. ;P  It a very simple game to learn... I gifted an extra copy to a friend and we were challenging each other within 5 minutes of install... but challenging the computer at 'Hardest Level' is QUITE another matter. You may think you winning but the board can change quickly!  To be honest... I can think ahead about 5-6 moves in chess. But this game has so fewer variables for the computer to keep track of (in terms of possible moves) that the computer can think ahead maybe 10-12 moves on the more difficult settings.  My recomendation? Begin at the easiest level and then increase difficulty as you improve your skill.  BUT BE PREPARED TO BE HUMBLED! *Giggle*  Personal note: If someone has beaten this on the Hardest difficulty I would *LOVE* to see some sort of guide or strategy-hints. :D   ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Had this on my wishlist and snagged it when it was on sale. Don't reget buying, it's a decent time sink.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Welcome to an overpriced game with unconquerable AI and extremely repetitive gameplay, which has 'multiplayer' without any available online players.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "ive never been able to open the game to play it. I tried to cancel my order but that didnt work either.Its still in my comp but its a waist of space. Im really disappointed. I thought the price was a little to high but I like the game so much I BOUGHT IT ANYWAY. Hope i dont have this much trouble with other games.",
+            "review_score": "-1"
+        }
+    ]
+}

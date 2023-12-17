@@ -1,0 +1,63 @@
+{
+    "app_id": 463180,
+    "name": "Super Blue Fighter",
+    "release_date": "2016-05-05",
+    "developer": [
+        "Herrero Games"
+    ],
+    "publisher": [
+        "Herrero Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 16,
+    "positive_ratings": 81,
+    "negative_ratings": 26,
+    "price": 0.0,
+    "description": "Save the universe in this casual arcade game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/463180/header.jpg?t=1545822362",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8. Processor: Intel Core 2 Duo Memory: 256 MB RAM Graphics: Intel HD 3000 DirectX: Version 8.0 Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Quite a fun an relaxing simple casual arcade style game. The music is well made and reminds a bit at times strangely of something you'd hear in Phantasy Star or old Megadrive/Genesis games with the old Yahama synth sound. It seems to run on a endless board loop which get's more and more challenging as you progress levels with a pretty balanced diffculty curve. Scoring higher points can be assisted with the aid of using bombs to create chain attacks for higher bonus points. The controls and hitbox detection are pretty well done, although just catching the tail end of a bomb blast that you think you can avoid can be annoying at times. Certainly worth picking up for such a cheap price if you like older arcade style games. Well recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  fun and simple game, yet challenging with fun music",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cool casual game, really addictive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "   My playtime:  13.6h (based on steam).  Grindy Achievement:  Yes (1 achievement).  Optional Achievement:  Yes (16 achievements).  Difficult Achievement:  No (it depends on your ability, tbh).  Developer Response:  No (last response is in 8 May 2016).   Intro",
+            "review_score": "1"
+        }
+    ]
+}

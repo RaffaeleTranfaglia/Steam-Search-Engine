@@ -1,0 +1,39 @@
+{
+    "app_id": 626580,
+    "name": "Spellspire",
+    "release_date": "2017-05-23",
+    "developer": [
+        "10tons Ltd"
+    ],
+    "publisher": [
+        "10tons Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Word Game",
+        "Spelling"
+    ],
+    "achievements": 22,
+    "positive_ratings": 40,
+    "negative_ratings": 12,
+    "price": 6.99,
+    "description": "Spellspire is a thrilling mashup of word game and action role playing game. Pick letters from a grid to spell words and shoot them from your wand as spells. The longer the word, the bigger the blast! Can you make it to the top of the Spellspire?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/626580/header.jpg?t=1521466762",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 1 Ghz Memory: 256 MB RAM Graphics: SM 2.0 DirectX: Version 9.0a Storage: 130 MB available space Additional Notes: Gamepad support only with XInput enabled gamepads",
+    "recommended_requirements": null,
+    "reviews": []
+}

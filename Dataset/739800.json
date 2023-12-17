@@ -1,0 +1,40 @@
+{
+    "app_id": 739800,
+    "name": "Verzaken! VR Adventure",
+    "release_date": "2017-11-06",
+    "developer": [
+        "interFusion Games LLC"
+    ],
+    "publisher": [
+        "interFusion Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 4,
+    "price": 2.09,
+    "description": "Verzaken! is a 3D action adventure in VR hearkening to the dawn of the 32-bit era of gaming. Guide your nameless, amnesiac protagonist through a unique procedurally generated world. Mine for artifacts, unlock secrets, find hundreds of randomly generated weapons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/739800/header.jpg?t=1532237483",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Any Intel or AMD processor Memory: 8 GB RAM Graphics: any DirectX11 compatible, including integrated (Intel HD 4400+)(for Pancake Mode) DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5 or better Memory: 16 GB RAM Graphics: Nvidia 1080 series (for VR Mode) DirectX: Version 11 Storage: 2 GB available space Additional Notes: VR Version requires much more horsepower than the pancake version.",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 712430,
+    "name": "Vibrant",
+    "release_date": "2017-10-24",
+    "developer": [
+        "Auburn Sounds"
+    ],
+    "publisher": [
+        "Auburn Sounds"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "Hotline Miami meets abstraction. Vibrant brings you &quot;in the zone&quot; through hyper-focus. Your last freedom is movement.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/712430/header.jpg?t=1531657028",
+    "minimum_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.7 GHz Memory: 512 MB RAM Graphics: Intel HD Graphics 4000 Storage: 100 MB available space Additional Notes: OpenGL 2.0+",
+    "recommended_requirements": "OS: Microsoft® Windows® XP / Vista / 7 Processor: 1.7 GHz Memory: 512 MB RAM Graphics: Intel HD Graphics 4400 Storage: 100 MB available space Additional Notes: OpenGL 2.0+",
+    "reviews": []
+}

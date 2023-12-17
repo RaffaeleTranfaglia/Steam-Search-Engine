@@ -1,0 +1,42 @@
+{
+    "app_id": 553950,
+    "name": "GRIDD: Retroenhanced",
+    "release_date": "2017-05-16",
+    "developer": [
+        "Antab Studio"
+    ],
+    "publisher": [
+        "Kongregate"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Cyberpunk"
+    ],
+    "achievements": 25,
+    "positive_ratings": 54,
+    "negative_ratings": 3,
+    "price": 8.99,
+    "description": "GRIDD: Retroenhanced is an intense arcade-style cyberpunk hacking shoot 'em up with an incredible soundtrack, procedurally generated elements, and electric visuals.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/553950/header.jpg?t=1502299140",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7 or Higher 处理器: Intel Core i3 内存: 4 GB RAM 图形: NVIDIA GeForce 630 GT 存储空间: 需要 300 MB 可用空间 声卡: DirectX Compatible",
+    "recommended_requirements": "推荐配置: 操作系统: Windows 10 处理器: Intel Core i5 内存: 8 GB RAM 图形: NVIDIA GeForce GTX 750 存储空间: 需要 300 MB 可用空间 声卡: DirectX Compatible 附注事项: Microsoft Xbox 360/One Controller for Windows (or equivalent) or Steam Controller",
+    "reviews": []
+}

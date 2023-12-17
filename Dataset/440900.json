@@ -1,0 +1,48 @@
+{
+    "app_id": 440900,
+    "name": "Conan Exiles",
+    "release_date": "2018-05-08",
+    "developer": [
+        "Funcom"
+    ],
+    "publisher": [
+        "Funcom"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Survival",
+        "Open World",
+        "Crafting"
+    ],
+    "achievements": 25,
+    "positive_ratings": 22001,
+    "negative_ratings": 9594,
+    "price": 33.99,
+    "description": "An online multiplayer survival game set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build a home and kingdom, dominate your enemies in single or multiplayer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/440900/header.jpg?t=1555326807",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 Bit/ Windows 8 64 Bit/ Windows 10 64 Bit Processor: Intel Quad Core i5-2300 or AMD FX-6300 Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 560 (1GB) or AMD Radeon HD 7770 (1GB) DirectX: Version 11 Network: Broadband Internet connection Storage: 50 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64 bit / Windows 8 64 bit / Windows 10 64 bit Processor: Intel Quad Core i7 3770K or AMD Ryzen 5 1600X Memory: 8 GB RAM Graphics: nVidia GeForce GTX 780 Ti/970 (High settings) and 1070 (Ultra settings) or AMD R9 290/AMD RX480 (High settings) DirectX: Version 11 Network: Broadband Internet connection Storage: 50 GB available space",
+    "reviews": []
+}

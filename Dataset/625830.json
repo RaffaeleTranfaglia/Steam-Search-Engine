@@ -1,0 +1,40 @@
+{
+    "app_id": 625830,
+    "name": "BattleSky VR",
+    "release_date": "2018-01-19",
+    "developer": [
+        "Oh!WHATif Inc."
+    ],
+    "publisher": [
+        "Oh!WHATif Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 23,
+    "negative_ratings": 1,
+    "price": 10.29,
+    "description": "BattleSky VR is a Multiplayer VR flying first-person shooter, bringing Overwatch style gameplay to the VR platform. Each player picks a Hero with vastly different size, powers and gameplay style to engage in fast-paced aerial combats against other players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/625830/header.jpg?t=1528212572",
+    "minimum_requirements": "OS: Windows 7 Processor: intel i5-4590 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 DirectX: Version 10 Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: intel i7-4770 or better Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 or better DirectX: Version 10 Network: Broadband Internet connection Storage: 5 GB available space",
+    "reviews": []
+}

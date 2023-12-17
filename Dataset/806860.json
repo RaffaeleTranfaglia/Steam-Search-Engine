@@ -1,0 +1,41 @@
+{
+    "app_id": 806860,
+    "name": "They Are Hundreds",
+    "release_date": "2018-03-13",
+    "developer": [
+        "WoahStudiosus"
+    ],
+    "publisher": [
+        "Woahstudiosus"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 3,
+    "positive_ratings": 103,
+    "negative_ratings": 70,
+    "price": 0.79,
+    "description": "They Are hundreds is a sandbox first-person survival. Build great walls, fight great hordes of varying types, or just have a goof with friends in multiplayer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/806860/header.jpg?t=1530253320",
+    "minimum_requirements": "OS: Windows 7 Processor: i3-2100 or equivalent Memory: 4 GB RAM Graphics: r7 260x, GTX 750Ti DirectX: Version 11 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 8.1+ Processor: i5-3470 or equivalent Memory: 8 GB RAM Graphics: Rx 560 4gb, GTX 770 2gb DirectX: Version 11 Storage: 4 GB available space",
+    "reviews": []
+}

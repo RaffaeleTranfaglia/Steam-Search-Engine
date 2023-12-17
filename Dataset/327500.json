@@ -1,0 +1,54 @@
+{
+    "app_id": 327500,
+    "name": "Zenzizenzic",
+    "release_date": "2015-07-23",
+    "developer": [
+        "bitHuffel"
+    ],
+    "publisher": [
+        "Adult Swim Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Bullet Hell"
+    ],
+    "achievements": 210,
+    "positive_ratings": 70,
+    "negative_ratings": 7,
+    "price": 6.99,
+    "description": "Zenzizenzic is a fast-paced, adrenaline-infused twin stick bullet hell shoot 'em up and open world roguelike. Featuring a beautifully abstract art style and a thumping, full throttle soundtrack, it's sure to get your thumbs sweating and your blood pumping!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/327500/header.jpg?t=1471031137",
+    "minimum_requirements": "OS: Windows XP+ Processor: Intel Pentium 2.4GHz Memory: 512 MB RAM Graphics: DX9 supported Storage: 1.2 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Anybody else play a game specifically to hear the music?  Because that's this game for me.  Seriously though, the music is top-notch, the gameplay is fast-paced and difficult, the aesthetics are beautiful. An overall solid twin-stick bullet hell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Geometric Bullet Hell has never been so good!   Very accessible and its Macro mode is a great Rogue-Like addition  Check out my full impressions here:         YouTube™ Video:  Will You Like... Zenzizenzic&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fantastic art, fantastic mechanics- this is one of those games that train you to multitask efficiently. On the hardest mode, you\\'re deftly avoiding small missiles and breaking shields in key areas to get through. There are the games with fantastic story, and there are games that are built on pure mental acuity.",
+            "review_score": "1"
+        }
+    ]
+}

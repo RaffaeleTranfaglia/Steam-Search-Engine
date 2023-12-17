@@ -1,0 +1,42 @@
+{
+    "app_id": 646460,
+    "name": "CompliKATed",
+    "release_date": "2017-10-04",
+    "developer": [
+        "Lite Microsystems"
+    ],
+    "publisher": [
+        "Lite Microsystems"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Action"
+    ],
+    "achievements": 30,
+    "positive_ratings": 11,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "CompliKATed is a 2D puzzle with logic gates. Rewire the computer from inside using binary operations to escape and uncover its secrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/646460/header.jpg?t=1511791796",
+    "minimum_requirements": "OS: Windows XP SP3 / Vista / 7 / 8 / 10 Processor: 2.0 GHz Processor Memory: 2 GB RAM Graphics: Shader Model 3 recommended Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 337730,
+    "name": "Battletank LOBA",
+    "release_date": "2015-03-17",
+    "developer": [
+        "Five Archers Games"
+    ],
+    "publisher": [
+        "Strategy First"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 7,
+    "price": 6.99,
+    "description": "Battle your friends on the same computer in this pick up and play arcade combat game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/337730/header.jpg?t=1447365864",
+    "minimum_requirements": "OS: Vista, Win 7, Win 8 Processor: 2 Ghz processor Memory: 4 GB RAM Graphics: Graphics card with 512MB VRAM Storage: 2 GB available space Additional Notes: 4 Xbox 360 controllers for local multiplayer",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Really simple bare bones arcade tank game.",
+            "review_score": "-1"
+        }
+    ]
+}

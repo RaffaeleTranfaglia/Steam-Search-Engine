@@ -1,0 +1,58 @@
+{
+    "app_id": 348340,
+    "name": "Siege Wars",
+    "release_date": "2015-07-30",
+    "developer": [
+        "RunServer"
+    ],
+    "publisher": [
+        "RunServer"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 27,
+    "positive_ratings": 91,
+    "negative_ratings": 39,
+    "price": 1.59,
+    "description": "Long time ago, when mages ruled the land, common people raised the rebellion against their magic, arrogance and tyranny. They used catapults, ballistas and bombs in the battle against magic castles and powerful spells. Now their destiny is in your hands!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/348340/header.jpg?t=1531926393",
+    "minimum_requirements": "OS: Windows XP Processor: Pentium III, 1500Mhz Memory: 512 MB RAM Graphics: OpenGL 1.1 capable video DirectX: Version 9.0 Storage: 100 MB available space Additional Notes: .Net Framework 2",
+    "recommended_requirements": "OS: Windows 7 Processor: Core 2 Duo Memory: 1024 MB RAM Graphics: OpenGL 3.0 capable video DirectX: Version 9.0c Storage: 100 MB available space Additional Notes: .Net Framework 4+",
+    "reviews": [
+        {
+            "review_text": "This is a cute little angry birds clone.   Simple goal of destroying different colored wizards with a variety of war engines that you can upgrade as you progress. There are a fair number of levels, and when you first start you will be knock off the first dozen in just a few minutes.  Still, despite the simplicity there is a fair amount of polish. The artwork is simple but pleasing. The sound adds to the overall cute atmosphere. The game was a joy to play, if a little short.  If you like this type of game, this is a worthwhile title to try. 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "First impression: catapult physics game.  I played a few of free flash games of this genre. This one, while decent, is nothing to write home about.   The game runs well on my old Windows XP computer. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "THE GOOD GAMEEEEEEEEEE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Angry Birds : Dark Souls Edition",
+            "review_score": "1"
+        }
+    ]
+}

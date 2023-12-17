@@ -1,0 +1,45 @@
+{
+    "app_id": 288650,
+    "name": "HTR+ Slot Car Simulation",
+    "release_date": "2014-05-29",
+    "developer": [
+        "QUByte Interactive"
+    ],
+    "publisher": [
+        "Libredia Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 28,
+    "negative_ratings": 18,
+    "price": 4.99,
+    "description": "HTR+ High Tech Racing is a Slot Car Racing Simulation, a virtual version of the classic toy of the 80´s and 90´s. With realistic physics, HTR+ offers an adrenalin packed racing simulation experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/288650/header.jpg?t=1529672836",
+    "minimum_requirements": "OS: Win XP/Vista/7/8 Processor: Dual Core 800MHz Memory: 2 GB RAM Graphics: 512MB with Shader Model 3.0 support DirectX: Version 9.0c Storage: 1500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I've tried to sink a lot of hours into this, but it's not great.  The upgrades can unbalance your car to all hell, you can just save up for the best tires and chasis and beat Easy and Normal without even letting go of max speed since you can't even fall off. Getting the fastest motor just makes it impossible to keep track of your car and learn when to max and not. I can't even imagine how a different body makes the car better, but it does. Oh there's unlockable cars too, and they're terrible compared to yours.  The track editor is broken to all hell, crashes when you try to make a piece of track any higher than 75 degrees incline since it can't even think how to decorate it so no Wipeout fantasies here. Of course the community creations are bombarded with awful tracks and there's no way of even competing for the best times.  Honestly, it's just not good at all. There aren't very many slot car sims out there but, this is one not to get.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Fun game if you don't upgrade the grip of the cars. Track editor has annoying bugs, but is mostly functional. Community tracks are fun.",
+            "review_score": "1"
+        }
+    ]
+}

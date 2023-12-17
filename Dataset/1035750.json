@@ -1,0 +1,39 @@
+{
+    "app_id": 1035750,
+    "name": "文字獄",
+    "release_date": "2019-03-13",
+    "developer": [
+        "Jia-Ho Jian"
+    ],
+    "publisher": [
+        "Jia-Ho Jian"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 54,
+    "negative_ratings": 8,
+    "price": 0.0,
+    "description": "The protagonist is trapped inside a prison, please help the protagonist to escape this place by making sentences and unravel the secrets of this prison.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1035750/header.jpg?t=1555067844",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz Memory: 1 GB RAM Graphics: Geforce 9600 GS, Radeon HD4000 DirectX: Version 9.0c Storage: 100 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: Intel(R) Core(TM)2 Quad 2.7 Ghz, AMD Phenom(TM)II X4 3 Ghz Memory: 2 GB RAM Graphics: GeForce GTX 260, Radeon HD 5770 DirectX: Version 9.0c Storage: 200 MB available space Sound Card: DirectX compatible",
+    "reviews": []
+}

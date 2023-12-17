@@ -1,0 +1,41 @@
+{
+    "app_id": 738760,
+    "name": "the Line",
+    "release_date": "2017-12-07",
+    "developer": [
+        "Marginal act"
+    ],
+    "publisher": [
+        "Marginal act"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Simulation"
+    ],
+    "achievements": 15,
+    "positive_ratings": 20,
+    "negative_ratings": 12,
+    "price": 3.89,
+    "description": "The Line is a rogue-like / dungeon crawler with a turn-based combat system. The main object is to stand out the long line for resettlement from the oppressive east segment of the city.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/738760/header.jpg?t=1553600909",
+    "minimum_requirements": "OS: x86 / x64 7,8,10 Processor: 2 GHz Memory: 2000 MB RAM Graphics: GeForce GT 610 / Intel (R) HD Graphics 5300 DirectX: Version 11 Storage: 2000 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

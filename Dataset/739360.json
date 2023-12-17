@@ -1,0 +1,40 @@
+{
+    "app_id": 739360,
+    "name": "Poly Island",
+    "release_date": "2018-12-28",
+    "developer": [
+        "Just1337 Studio"
+    ],
+    "publisher": [
+        "Just1337 Publisher"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 77,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 4.99,
+    "description": "Poly Island is a low poly adventure game packed with beautiful graphics, simple mechanics and challenging levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/739360/header.jpg?t=1546761064",
+    "minimum_requirements": "OS: Windows XP,7,8,10 Processor: 2 GHz Memory: 512 MB RAM Graphics: 256 MB DirectX: Version 9.0c Storage: 120 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 773390,
+    "name": "Aim Trainer Pro",
+    "release_date": "2018-01-25",
+    "developer": [
+        "DanD"
+    ],
+    "publisher": [
+        "DanD"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 47,
+    "negative_ratings": 37,
+    "price": 2.89,
+    "description": "Aim up and improve your shot. The ultimate FPS training solution to help you warm up faster, includes many target practices for the beginner or the pro.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/773390/header.jpg?t=1553076189",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 2 GHz or higher Memory: 1 GB RAM Graphics: Intel integrated graphics 3000 DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: 3 GHz or higher Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 660 DirectX: Version 9.0 Storage: 100 MB available space",
+    "reviews": []
+}

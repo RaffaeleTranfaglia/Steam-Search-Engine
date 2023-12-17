@@ -1,0 +1,42 @@
+{
+    "app_id": 825350,
+    "name": "Downhill Deceits",
+    "release_date": "2018-04-02",
+    "developer": [
+        "Jack"
+    ],
+    "publisher": [
+        "Also Jack"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Downhill Deceits is a fun game where you play as a quiet man on an orange bike who goes down because an old man told him to, and there are islands. Uncover this amazing story by following one rule: Go Down!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/825350/header.jpg?t=1538375270",
+    "minimum_requirements": "OS: Any remotely modern Windows OS Processor: Intel Atom Memory: 128 MB RAM Graphics: Optional Storage: 125 MB available space Additional Notes: Certain text won't display correctly on 4:3 aspect ratios; 16:9 is recommended. '128 MB' refers to RAM free.",
+    "recommended_requirements": "Memory: 128 MB RAM Graphics: Something that can run 8x MSAA Additional Notes: For 8x MSAA, select 'Better?' when launching the game (There's literally no noticeable difference). '128 MB' refers to RAM free.",
+    "reviews": []
+}

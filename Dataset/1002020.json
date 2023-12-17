@@ -1,0 +1,39 @@
+{
+    "app_id": 1002020,
+    "name": "INTERPOINT",
+    "release_date": "2019-04-15",
+    "developer": [
+        "Three Dots"
+    ],
+    "publisher": [
+        "Juvty Worlds Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 20,
+    "negative_ratings": 7,
+    "price": 11.49,
+    "description": "Interpoint is a first-person sci-fi mystery with elements of psychological horror. A secret organization made the discovery of parallel worlds. You are Harry G., a scientist, who took part in a project that was supposed to benefit humanity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1002020/header.jpg?t=1556111713",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or newer Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 6 GB RAM Graphics: nVidia GeForce GTX 750ti Storage: 7 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: nVidia GeForce GTX 970 Storage: 7 GB available space",
+    "reviews": []
+}

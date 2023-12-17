@@ -1,0 +1,46 @@
+{
+    "app_id": 329280,
+    "name": "Avalon Lords: Dawn Rises",
+    "release_date": "2016-04-28",
+    "developer": [
+        "Animus Interactive Inc"
+    ],
+    "publisher": [
+        "Animus Interactive Inc"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 75,
+    "negative_ratings": 54,
+    "price": 0.0,
+    "description": "A Medieval Real-Time Strategy game combining classic RTS elements with modern fast-paced, epic scale single and multiplayer battles across beautifully rendered 3D maps.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/329280/header.jpg?t=1464903574",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: Intel Core2Duo or equivalent. Memory: 4 GB RAM Graphics: Intel HD3000 DirectX: Version 9.0 Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: Intel Core2Duo or equivalent. Memory: 8 GB RAM Graphics: Nvdia 750 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+    "reviews": []
+}

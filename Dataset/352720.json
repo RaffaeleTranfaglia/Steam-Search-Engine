@@ -1,0 +1,43 @@
+{
+    "app_id": 352720,
+    "name": "The Universim",
+    "release_date": "2018-08-28",
+    "developer": [
+        "Crytivo"
+    ],
+    "publisher": [
+        "Crytivo"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "God Game",
+        "Simulation"
+    ],
+    "achievements": 28,
+    "positive_ratings": 1539,
+    "negative_ratings": 505,
+    "price": 22.99,
+    "description": "Jump straight into managing your own planets as you guide a civilization through the ages. Become the ultimate empire in The Universim, a new breed of God Game in development by Crytivo.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352720/header.jpg?t=1554158377",
+    "minimum_requirements": "OS: Windows 7 64 bit or Higher Processor: 2.6 Ghz  - 4 Cores Mid Range CPU or Higher Memory: 6 GB RAM Graphics: GTX 780 | RX 290 or Higher Storage: 2 GB available space Sound Card: Duh!",
+    "recommended_requirements": "OS: Windows 7 64 bit or Higher Processor: 3.0 Ghz - 8 Cores or Higher Memory: 16 GB RAM Graphics: GTX 1050 Ti | RX390 or Higher Storage: 2 GB available space Sound Card: Duh!",
+    "reviews": []
+}

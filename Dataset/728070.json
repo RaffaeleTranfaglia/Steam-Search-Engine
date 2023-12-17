@@ -1,0 +1,39 @@
+{
+    "app_id": 728070,
+    "name": "Operation Apex",
+    "release_date": "2017-12-10",
+    "developer": [
+        "Curiscope"
+    ],
+    "publisher": [
+        "Vive Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 11,
+    "positive_ratings": 19,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Use virtual reality to uncover the secrets of the big blue in an atmospheric deep sea dive. As you bear witness to an underwater marvel, your mission becomes clear.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/728070/header.jpg?t=1521546717",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i5 Memory: 16 GB RAM Graphics: NVIDIA GTX 1060 DirectX: Version 11 Storage: 6 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 819630,
+    "name": "Basketball Classics",
+    "release_date": "2018-04-17",
+    "developer": [
+        "Namo Gamo"
+    ],
+    "publisher": [
+        "Namo Gamo"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 31,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "5 on 5 Pro Basketball born from the golden era of sports games. This spiritual successor to the 8-bit ballers bridges the gap between retro and today’s simulation games. Side-scrolling, sweaty arcade action with simplified 3-button gameplay and retro vibes galore.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/819630/header.jpg?t=1540478081",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel Dual-Core 2.4GHz+, AMD equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 330M 512MB+ DirectX: Version 10 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,52 @@
+{
+    "app_id": 485740,
+    "name": "Color Syndrome",
+    "release_date": "2016-08-01",
+    "developer": [
+        "Thrill Pill Games"
+    ],
+    "publisher": [
+        "Thrill Pill Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 66,
+    "negative_ratings": 39,
+    "price": 0.79,
+    "description": "Inspired by classic games like Tetris, Color Assemblers and Connect4, COLOR SYNDROME combines different well known elements from these games in its mechanics resulting in a completely new experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/485740/header.jpg?t=1473095017",
+    "minimum_requirements": "OS: Windows 7 32/64, Windows 8 32/64, Windows 10 32-bit Processor: Core 2 DUO 2.1 GHz / AMD Athlon X2 2.1 GHZ or better Memory: 1024 MB RAM Graphics: Graphic card with at least 512mb vram Network: Broadband Internet connection Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Tetris meets Connect4, they get married and have a child named Color Syndrome.  Color Syndrome is awesomely difficult. You need to put in a line (horizontal or vertical) 4 blocks of the same color in order to make them disappear to get points and level up. When you level up you also get some special one use 'powers' to help you out.  Right now, there are 4 game modes so the game wont get monotone *blink blink* (pun intended :D) and you can kill boredom every time you need.  In summary, I highly recommend this game as a idle time killer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "  Nice one, like it!",
+            "review_score": "1"
+        }
+    ]
+}

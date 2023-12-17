@@ -1,0 +1,43 @@
+{
+    "app_id": 679400,
+    "name": "Relik",
+    "release_date": "2017-10-18",
+    "developer": [
+        "Iron 27"
+    ],
+    "publisher": [
+        "Iron 27"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 128,
+    "negative_ratings": 17,
+    "price": 0.0,
+    "description": "Solve classic puzzles and design your own. Sharpen your mind and test your wits against other players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/679400/header.jpg?t=1536866427",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64-Bit) Processor: Intel Pentium Quad Core 2.4ghz Memory: 8 GB RAM Graphics: DirectX 10 class GPU with 256MB VRAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 200 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

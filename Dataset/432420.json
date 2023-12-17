@@ -1,0 +1,43 @@
+{
+    "app_id": 432420,
+    "name": "Ludoria",
+    "release_date": "2017-03-03",
+    "developer": [
+        "Eminent Softworks"
+    ],
+    "publisher": [
+        "Eminent Softworks"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 9,
+    "negative_ratings": 9,
+    "price": 14.99,
+    "description": "Immersive universe, where base building, monster taming, and exploration are beautifully combined together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/432420/header.jpg?t=1495291563",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: Dual core Memory: 4 GB RAM Graphics: 2GB video RAM DirectX: Version 9.0 Storage: 2 GB available space Additional Notes: Ludoria is in early access, minimum requirement may change.",
+    "recommended_requirements": "OS: Windows 7-10 64bit Processor: Quad core or better Memory: 8 GB RAM Graphics: 4GB video RAM (Nvidia gtx 970 or better) DirectX: Version 11 Storage: 2 GB available space Additional Notes: Ludoria is in early access, maximum requirement may change.",
+    "reviews": []
+}

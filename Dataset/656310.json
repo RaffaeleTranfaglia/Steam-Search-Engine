@@ -1,0 +1,41 @@
+{
+    "app_id": 656310,
+    "name": "Dracula's Library",
+    "release_date": "2017-07-13",
+    "developer": [
+        "G. Malta"
+    ],
+    "publisher": [
+        "VRS"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5000,
+    "positive_ratings": 35,
+    "negative_ratings": 56,
+    "price": 1.59,
+    "description": "Dracula has summoned you to prepare his library for his coming absence. Dracula's books need to be safe for a long period of time. Many of the ancient texts cannot be touched by mortal hands or they will be damaged beyond repair. You must use your wand of lightning to invoke numerous spells to organize and seal the ancient tombs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/656310/header.jpg?t=1525845574",
+    "minimum_requirements": "OS: Windows 7 or more recent. Processor: 2.4 quad core or higher. Memory: 8 GB RAM Graphics: 1gb Non integrated card DirectX: Version 9.0c Storage: 2 GB available space Additional Notes: If any issues running, use windows 7 compatibility mode.",
+    "recommended_requirements": "OS: Windows 7 or more recent. Processor: 3.0 quad core or higher Memory: 16 GB RAM Graphics: 2gb Non integrated card DirectX: Version 9.0c Storage: 4 GB available space Additional Notes: If any issues running, use windows 7 compatibility mode.",
+    "reviews": []
+}

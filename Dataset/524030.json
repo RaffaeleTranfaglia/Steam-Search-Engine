@@ -1,0 +1,52 @@
+{
+    "app_id": 524030,
+    "name": "Machine Learning: Episode I",
+    "release_date": "2016-09-10",
+    "developer": [
+        "Singularity Lab"
+    ],
+    "publisher": [
+        "Singularity Lab"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 29,
+    "negative_ratings": 16,
+    "price": 0.0,
+    "description": "Machine Learning: Episode I is a first person arcade puzzle game built for HTC Vive. You play as an A.I. robot created in DARPA laboratory in the near future. One of the scientists is here to test your physical, perception and cognitive skills.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/524030/header.jpg?t=1482408148",
+    "minimum_requirements": "OS: Windows 8.1 Processor: Core i5 Memory: 8192 MB RAM Graphics: Geforce GTX970 DirectX: Version 11 Storage: 560 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Core i7 Memory: 12288 MB RAM Graphics: Geforce GTX980Ti DirectX: Version 11 Storage: 560 MB available space",
+    "reviews": [
+        {
+            "review_text": "Its free and not bad at all for the puzzles.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really enjoy this, would recommend as it has a lot of potential! I also had the bug though that prevented me from moving to the 3rd test. Looks more polished than other free (or even games for sale) and plays well, good concept too. Want more! Keep up the great work!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pointless and bad.",
+            "review_score": "-1"
+        }
+    ]
+}

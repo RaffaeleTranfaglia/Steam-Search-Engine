@@ -1,0 +1,42 @@
+{
+    "app_id": 544750,
+    "name": "SOULCALIBUR VI",
+    "release_date": "2018-10-18",
+    "developer": [
+        "BANDAI NAMCO Studios",
+        "Dimps Corporation"
+    ],
+    "publisher": [
+        "BANDAI NAMCO Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Fighting",
+        "Character Customization",
+        "Action"
+    ],
+    "achievements": 49,
+    "positive_ratings": 2992,
+    "negative_ratings": 676,
+    "price": 49.99,
+    "description": "Bring more than your fists to the fight! Featuring all-new battle mechanics and characters, SOULCALIBUR VI marks a new era of the historic franchise. Welcome back to the stage of history!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/544750/header.jpg?t=1553264310",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 (64-bit) Processor: Intel Core i3-4160 @ 3.60GHz or equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 1050 DirectX: Version 11 Storage: 20 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8.1, 10 (64-bit) Processor: Intel Core i5-4690 3.5 GHz or equivalent Memory: 8 GB RAM Graphics: GeForce GTX 1060 or equivalent DirectX: Version 11 Storage: 20 GB available space Sound Card: DirectX compatible soundcard or onboard chipset",
+    "reviews": []
+}

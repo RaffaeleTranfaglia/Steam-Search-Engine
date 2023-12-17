@@ -1,0 +1,40 @@
+{
+    "app_id": 630310,
+    "name": "The Mummy Demastered",
+    "release_date": "2017-10-24",
+    "developer": [
+        "WayForward"
+    ],
+    "publisher": [
+        "WayForward"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Metroidvania"
+    ],
+    "achievements": 37,
+    "positive_ratings": 178,
+    "negative_ratings": 44,
+    "price": 15.49,
+    "description": "A powerful ancient evil has arisen, and the war to save humanity has begun! As an elite agent in the monster-hunting Prodigium organization, you must use a variety of weapons, upgrades, and mysterious artifacts to defend mankind against the supernatural hordes of Princess Ahmanet.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/630310/header.jpg?t=1528220403",
+    "minimum_requirements": "OS: Windows 7 SP1 or later Processor: Intel Core 2 Quad @2.33 GHz or equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce GTS 450 or ATI Radeon HD 5700 Series or higher DirectX: Version 11 Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows®8 or Windows®10 Processor: AMD Phenom(TM) II X6 1035T Processor @ 2.6GHz / Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.4GHz or higher Memory: 8 GB RAM Graphics: AMD Radeon HD 7800 Series / NVIDIA GeForce GTX 460 or higher DirectX: Version 11 Storage: 600 MB available space",
+    "reviews": []
+}

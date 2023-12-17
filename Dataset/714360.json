@@ -1,0 +1,38 @@
+{
+    "app_id": 714360,
+    "name": "A Shawn Story",
+    "release_date": "2017-10-04",
+    "developer": [
+        "SirGoose"
+    ],
+    "publisher": [
+        "MyGamePublisher"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Commentary available"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 6,
+    "negative_ratings": 18,
+    "price": 0.79,
+    "description": "A Shawn Story follows a morning in the life of Shawn, a 20-something office worker who is late for work, AGAIN! Enter the narrator, a sarcastic British man who tries to dictate Shawn's life!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/714360/header.jpg?t=1540428971",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: Intel or AMD Single Core CPU Memory: 512 MB RAM Graphics: DirectX compatible with 16 MB RAM DirectX: Version 9.0c Storage: 50 MB available space",
+    "recommended_requirements": "OS: 7-10 Windows Processor: Intel or AMD Single Core CPU 1.5 GHz Memory: 1 GB RAM Graphics: DirectX compatible with 32 MB RAM DirectX: Version 9.0c Storage: 50 MB available space",
+    "reviews": []
+}

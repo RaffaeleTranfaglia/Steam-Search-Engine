@@ -1,0 +1,54 @@
+{
+    "app_id": 410440,
+    "name": "Vertigo Void",
+    "release_date": "2015-10-30",
+    "developer": [
+        "James de Silva",
+        "Matthew Sanders"
+    ],
+    "publisher": [
+        "Merge Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 18,
+    "positive_ratings": 34,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Vertigo Void is a challenging 3D puzzle-platformer which demands a keen eye and sharp memory. As a lone astronaut, walk up walls, jump across the void of space (or fall in) and teleport your way to safety or else face the Sun's wrath.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/410440/header.jpg?t=1465464652",
+    "minimum_requirements": "OS: Windows XP Processor: Dual core processor Memory: 2 GB RAM Graphics: Dedicated graphics card with 512 MB memory DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Clever little puzzler, with some unique mechanics I haven't really seen in any other game. Relies on your memory and spatial reasoning to make sense of each level Good stuff.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not bad, not good either. Kinda a neat idea, but super easy levels to begin with bored me out way to quickly.",
+            "review_score": "1"
+        }
+    ]
+}

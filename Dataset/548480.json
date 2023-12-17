@@ -1,0 +1,42 @@
+{
+    "app_id": 548480,
+    "name": "NightZ",
+    "release_date": "2017-02-14",
+    "developer": [
+        "Artem Bondin"
+    ],
+    "publisher": [
+        "Artem Bondin"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 29,
+    "negative_ratings": 81,
+    "price": 0.79,
+    "description": "Events occur several months after the global epidemic. Infected turned into aggressive creatures. All survivors are infected with the virus. In order to survive you need to use different medicines. Also you need to avoid predators.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/548480/header.jpg?t=1487122720",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 3 GHz Memory: 2 GB RAM Graphics: 2 Gb DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: 4 GHz Memory: 4 GB RAM Graphics: 4 Gb DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

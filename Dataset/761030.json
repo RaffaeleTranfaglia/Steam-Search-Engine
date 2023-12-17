@@ -1,0 +1,44 @@
+{
+    "app_id": 761030,
+    "name": "EARTHLOCK",
+    "release_date": "2018-03-08",
+    "developer": [
+        "Snowcastle Games"
+    ],
+    "publisher": [
+        "Snowcastle Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Strategy"
+    ],
+    "achievements": 34,
+    "positive_ratings": 138,
+    "negative_ratings": 26,
+    "price": 23.79,
+    "description": "Earthlock is an indie developed, adventure RPG inspired by the classic 3D RPGs of the late 90's, with a fresh take on turn based combat and character progression.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/761030/header.jpg?t=1549638899",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: x86 Dual Core 2.6 GHz Memory: 4 GB RAM Graphics: DirectX 10 GPU with 1GB of memory DirectX: Version 10 Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: x86 Quad Core 3.4GHz or greater Memory: 4 GB RAM Graphics: DirectX 11 GPU with 2GB of memory DirectX: Version 10 Storage: 4 GB available space",
+    "reviews": []
+}

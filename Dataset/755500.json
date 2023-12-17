@@ -1,0 +1,40 @@
+{
+    "app_id": 755500,
+    "name": "ONE PIECE World Seeker",
+    "release_date": "2019-03-14",
+    "developer": [
+        "GANBARION Co., Ltd."
+    ],
+    "publisher": [
+        "BANDAI NAMCO Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Anime"
+    ],
+    "achievements": 49,
+    "positive_ratings": 234,
+    "negative_ratings": 171,
+    "price": 39.99,
+    "description": "Leave your compass behind and join Luffy as he embarks on a brand new action-packed adventure where you can experience the powers of the legendary Gum-Gum fruit to uncover hidden secrets on an original, never-before-seen island!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/755500/header.jpg?t=1552605606",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit SP1 Processor: Intel Core i5-2300 or AMD A10-7850K Memory: 4 GB RAM Graphics: GeForce GTX 660 or Radeon HD 7950 DirectX: Version 11 Storage: 25 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-3770 or AMD FX-8350 Memory: 8 GB RAM Graphics: GeForce GTX 1060 or Radeon RX 580 DirectX: Version 11 Storage: 25 GB available space",
+    "reviews": []
+}

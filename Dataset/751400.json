@@ -1,0 +1,38 @@
+{
+    "app_id": 751400,
+    "name": "The Turdler",
+    "release_date": "2018-08-30",
+    "developer": [
+        "BucketShop Software"
+    ],
+    "publisher": [
+        "BucketShop Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 9,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "Have you ever wanted to go back and re-live life as a toddler? Here is your chance to be The Turdler you always knew you could be in this crude VR title that throws you the reins of mass destruction.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/751400/header.jpg?t=1535612995",
+    "minimum_requirements": "OS: Windows 10 Processor: Intel Core i5-4590 AMD FX 8350 Memory: 8 GB RAM Graphics: NVIDIA GTX 970 AMD Radeon R9 290 (equivalent or better) Storage: 2 GB available space Additional Notes: One HDMI 1.4 or one DisplayPort 1.2",
+    "recommended_requirements": null,
+    "reviews": []
+}

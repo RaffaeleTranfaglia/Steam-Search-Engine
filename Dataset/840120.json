@@ -1,0 +1,37 @@
+{
+    "app_id": 840120,
+    "name": "Pi is Everything",
+    "release_date": "2018-05-02",
+    "developer": [
+        "TOK Labs"
+    ],
+    "publisher": [
+        "TOK Labs"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 2,
+    "negative_ratings": 2,
+    "price": 3.14,
+    "description": "Make circles! While the world spins round and round all you have to do is just press the space bar when the spinning bar is at the right place to make a circle. At first it’s easy, the bar oscillates with a period of pi seconds (3.14 s^-1), giving you plenty of time to make your first circle. But it won’t be easy for long!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/840120/header.jpg?t=1525271987",
+    "minimum_requirements": "OS: Windows 7 Processor: Core i3 Memory: 2 GB RAM Graphics: Integrated DirectX: Version 10 Storage: 280 MB available space Sound Card: Integrated",
+    "recommended_requirements": "OS: Windows 10 Processor: Core i7 Memory: 4 GB RAM Graphics: Hardware 3D Accelerated DirectX: Version 10 Storage: 300 MB available space",
+    "reviews": []
+}

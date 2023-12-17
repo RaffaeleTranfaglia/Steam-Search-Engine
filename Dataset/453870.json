@@ -1,0 +1,44 @@
+{
+    "app_id": 453870,
+    "name": "Quantum Chess",
+    "release_date": "2016-12-12",
+    "developer": [
+        "Quantum Realm Games",
+        "Broken Circle Studios"
+    ],
+    "publisher": [
+        "Quantum Realm Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 19,
+    "negative_ratings": 5,
+    "price": 6.99,
+    "description": "Completely change the strategy of the age old game of chess with quantum physics!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/453870/header.jpg?t=1549302811",
+    "minimum_requirements": "OS: 7, 8, 10 Processor: 1 GHz Memory: 2 GB RAM Network: Broadband Internet connection Storage: 1 GB available space",
+    "recommended_requirements": "OS: 7, 8, 10 Processor: 2 GHz Memory: 8 GB RAM Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

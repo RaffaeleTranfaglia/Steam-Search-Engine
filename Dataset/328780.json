@@ -1,0 +1,54 @@
+{
+    "app_id": 328780,
+    "name": "Vampires: Guide Them to Safety!",
+    "release_date": "2014-10-22",
+    "developer": [
+        "CBE software s.r.o."
+    ],
+    "publisher": [
+        "CBE software s.r.o."
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Vampire",
+        "Puzzle"
+    ],
+    "achievements": 32,
+    "positive_ratings": 36,
+    "negative_ratings": 5,
+    "price": 3.99,
+    "description": "Guide bobble-headed ignoramuses through a labyrinth before dawn. Puzzle game filled with bobble-headed non-glittering lemming-like vampires, traps, crazy music and a real challenge for serious players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/328780/header.jpg?t=1447364258",
+    "minimum_requirements": "OS: Vista or Higher Processor: 1.6 GHz Memory: 1 GB RAM Graphics: Accelerated DX compatible DirectX: Version 9.0b Storage: 320 MB available space Additional Notes: Computer mouse",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Do you like vampires? Well there's two answers to this question:  - You do? Great!! Then you can help save them from sunlight, silver bullets and hired assassins by guiding them to their lairs.  - You don't? Great!! Then you can guide them into sunlight, silver bullets and hired assassins to your hearts content.   Whether you love or hate them, Vampires: guide them to safety is a fun and challenging puzzle game that's great to kill a few minutes or even spend an hour or two on. With increasingly difficult chapters which add new dangers and new tricks to use, it's certainly no walk in the park. More like a walk in a cemetary, at night, in the fog..... with odd sounds and a wolf howling.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is all about getting your vampires to safety before the sun rises.         YouTube™ Video:  ➜ A Quick Look @ 'Vampires: Guide Them to Safety'&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While this is a puzzle game, logic will only get you so far in it. Finding a solution to a puzzle is but a small part of gameplay: you then have to implement it. It's real-time, and most of the challenge comes from having your attention divided and having to time your clicks just right, which is never something I want to see in a puzzle game. Results can be unpredictable, which means there's a fair bit of trial and error involved. It gets even worse when the game starts introducing randomization in the pathfinding, ensuring that you  can't  work out a solution ahead of time.",
+            "review_score": "-1"
+        }
+    ]
+}

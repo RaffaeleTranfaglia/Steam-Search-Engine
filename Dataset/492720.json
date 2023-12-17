@@ -1,0 +1,43 @@
+{
+    "app_id": 492720,
+    "name": "Tropico 6",
+    "release_date": "2019-03-29",
+    "developer": [
+        "Limbic Entertainment"
+    ],
+    "publisher": [
+        "Kalypso Media"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 16,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "City Builder",
+        "Economy"
+    ],
+    "achievements": 40,
+    "positive_ratings": 3778,
+    "negative_ratings": 664,
+    "price": 39.99,
+    "description": "El Presidente is back! Prove yourself once again as a feared dictator or peace-loving statesman on the island state of Tropico and shape the fate of your very own banana republic through four distinctive eras.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/492720/header.jpg?t=1556184680",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 64-bit Processor: AMD or Intel, 3 GHz (AMD A10 7850K, Intel i3-2000) Memory: 8 GB RAM Graphics: AMD/NVIDIA dedicated GPU, 2GB dedicated VRAM (Radeon HD 7870, Geforce GTX 750) DirectX: Version 11 Storage: 16 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: AMD or Intel, 3.3 GHz (AMD FX 8300, Intel i5 3000) Memory: 16 GB RAM Graphics: AMD/NVIDIA dedicated GPU, 4GB dedicated VRAM (Radeon R9 380, Geforce GTX 960) Storage: 16 GB available space",
+    "reviews": []
+}

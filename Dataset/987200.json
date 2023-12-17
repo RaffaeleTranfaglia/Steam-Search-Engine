@@ -1,0 +1,41 @@
+{
+    "app_id": 987200,
+    "name": "Dragon Racer",
+    "release_date": "2019-01-31",
+    "developer": [
+        "Hosted Games"
+    ],
+    "publisher": [
+        "Hosted Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Captions available",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 40,
+    "positive_ratings": 10,
+    "negative_ratings": 6,
+    "price": 2.89,
+    "description": "Prove that you and your dragon have what it takes to race with the pro's, and you will rule the land, sea and skies!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/987200/header.jpg?t=1548954899",
+    "minimum_requirements": "OS: Windows 7",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 750330,
+    "name": "Air Hockey",
+    "release_date": "2017-12-01",
+    "developer": [
+        "Standby"
+    ],
+    "publisher": [
+        "Standby"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 20,
+    "positive_ratings": 19,
+    "negative_ratings": 10,
+    "price": 2.09,
+    "description": "Online PvP Air Hockey with fast-paced gameplay! Overcome your opponent by using madskillz and powerful pickups.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/750330/header.jpg?t=1541416305",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: Duo-core Intel or AMD, 2 GHz or faster Memory: 512 MB RAM Graphics: GeForce8600 GT 256MB / ATI(AMD)Radeon X1950 256MB DirectX: Version 10 Network: Broadband Internet connection Storage: 512 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

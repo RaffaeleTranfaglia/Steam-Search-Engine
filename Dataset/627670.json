@@ -1,0 +1,45 @@
+{
+    "app_id": 627670,
+    "name": "Rocket Wars",
+    "release_date": "2017-06-15",
+    "developer": [
+        "Archon Interactive"
+    ],
+    "publisher": [
+        "Rooftop Panda"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 20,
+    "positive_ratings": 33,
+    "negative_ratings": 2,
+    "price": 5.59,
+    "description": "Fast-paced local multi-player game packed with action. Destroy your friends with all sorts of different weapons and power-ups across multiple game modes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/627670/header.jpg?t=1517515699",
+    "minimum_requirements": "OS: Windows 7 or Newer Processor: 1.66 GHz Dual Core Memory: 2 GB RAM Graphics: Intel HD Graphics 3000/2000 DirectX: Version 9.0 Storage: 300 MB available space Additional Notes: Gamepad or Controller Recommended",
+    "recommended_requirements": "OS: Windows 7 or Newer Processor: 2.4 GHz Quad Core or better Memory: 4 GB RAM Graphics: NVIDIA GTX 660 or better, ATI 7950 or better DirectX: Version 9.0 Storage: 400 MB available space Additional Notes: Gamepad or Controller Recommended",
+    "reviews": []
+}

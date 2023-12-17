@@ -1,0 +1,43 @@
+{
+    "app_id": 525040,
+    "name": "The Disney Afternoon Collection",
+    "release_date": "2017-04-18",
+    "developer": [
+        "Capcom",
+        "Digital Eclipse"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Platformer",
+        "Classic"
+    ],
+    "achievements": 20,
+    "positive_ratings": 249,
+    "negative_ratings": 20,
+    "price": 15.99,
+    "description": "Starring a cast of beloved Disney characters, The Disney Afternoon Collection takes you back to a golden era of gaming and afternoons filled with adventure. All six classic games feature new and improved visuals and include filtering options that replicate a retro look and feel.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525040/header.jpg?t=1550021033",
+    "minimum_requirements": "OS: Windows 7 Home 64-bit Processor: Intel(R) Core(TM)2 CPU 6600 @ 2.40GHz (2 CPUs), ~2.4GHz Memory: 1024 MB RAM Graphics: ATI Radeon HD 4800 Series, Nvidia GeForce 8800GT or greater DirectX: Version 11 Storage: 431 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

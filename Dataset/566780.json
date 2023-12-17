@@ -1,0 +1,42 @@
+{
+    "app_id": 566780,
+    "name": "Beats Fever",
+    "release_date": "2017-01-09",
+    "developer": [
+        "Arrowiz"
+    ],
+    "publisher": [
+        "Arrowiz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "VR",
+        "Indie",
+        "Rhythm"
+    ],
+    "achievements": 43,
+    "positive_ratings": 42,
+    "negative_ratings": 12,
+    "price": 11.39,
+    "description": "Beats Fever is a VR rhythm game set in stylish and charming world stages, where players enjoy cool music and catch incoming notes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/566780/header.jpg?t=1555669760",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1, Windows 10 Processor: Intel Core i5-4590 / AMD FX-8350 Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 970 / AMD Radeon R9 290 DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5-6500 / AMD Ryzen 3 1300X Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 / AMD Radeon RX 480 DirectX: Version 12 Storage: 5 GB available space",
+    "reviews": []
+}

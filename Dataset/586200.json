@@ -1,0 +1,41 @@
+{
+    "app_id": 586200,
+    "name": "Street Fighter 30th Anniversary Collection",
+    "release_date": "2018-05-29",
+    "developer": [
+        "Digital Eclipse"
+    ],
+    "publisher": [
+        "Capcom U.S.A, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Fighting",
+        "2D Fighter"
+    ],
+    "achievements": 17,
+    "positive_ratings": 442,
+    "negative_ratings": 304,
+    "price": 32.99,
+    "description": "Celebrate Street Fighter’s historic legacy with the Street Fighter 30th Anniversary Collection. In this collection of 12 Street Fighter games, four groundbreaking titles let you hop online and relive the arcade experience through the online Arcade Mode or play with friends.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586200/header.jpg?t=1550108052",
+    "minimum_requirements": "OS: Windows 7 (64-bit Required) Processor: Intel i3 @ 3.0GHz or AMD equivalent. Memory: 4 GB RAM Graphics: Intel HD 4440 DirectX: Version 11 Storage: 6 GB available space Sound Card: DirectX compatible soundcard or onboard chipset Additional Notes: Compatible with XInput and DirectInput USB devices including gamepads and arcade sticks.  Xbox 360 Controller for Windows Recommended",
+    "recommended_requirements": "OS: Windows 10 (64-bit Required) Processor: Intel i3 @ 3.0GHz or AMD equivalent. Memory: 8 GB RAM Graphics: Intel HD 4440 DirectX: Version 11 Storage: 6 GB available space Sound Card: DirectX compatible soundcard or onboard chipset Additional Notes: Compatible with XInput and DirectInput USB devices including gamepads and arcade sticks.  Xbox 360 Controller for Windows Recommended",
+    "reviews": []
+}

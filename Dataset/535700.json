@@ -1,0 +1,50 @@
+{
+    "app_id": 535700,
+    "name": "3D Chess",
+    "release_date": "2016-12-06",
+    "developer": [
+        "bumblebee"
+    ],
+    "publisher": [
+        "rokapublish"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Simulation",
+        "Sports",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 23,
+    "positive_ratings": 31,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "A unique chess trip with exciting instant duels awaits you - test your mettle on the chessboard. Checkmate your opponent with only a few moves and solve challenging chess puzzles in amazing 3D worlds.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535700/header.jpg?t=1547467844",
+    "minimum_requirements": "OS: Windows 7/8/10 (32/64bit versions) Processor: Dual-Core: 2Ghz Memory: 2 GB RAM Graphics: 256Mb DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Simplistic chess game to test your skill, it provides a beautiful look, and a few environments to change around, though it's missing animations when you or the computer moves a piece, I would recommend the game, it's a great challenge, and a great game to practice.",
+            "review_score": "1"
+        }
+    ]
+}

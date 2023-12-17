@@ -1,0 +1,57 @@
+{
+    "app_id": 350770,
+    "name": "Giana Sisters 2D",
+    "release_date": "2015-10-23",
+    "developer": [
+        "Kasaa Solution"
+    ],
+    "publisher": [
+        "HandyGames",
+        "Black Forest Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Platformer",
+        "Action"
+    ],
+    "achievements": 51,
+    "positive_ratings": 84,
+    "negative_ratings": 42,
+    "price": 5.59,
+    "description": "Giana Sisters 2D is a HD remake of the beloved Nintendo DS game from 2009. It features full controller support, precise, intuitive controls and a smooth learning curve. All balanced for hours of fun and challenge.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/350770/header.jpg?t=1534408321",
+    "minimum_requirements": "OS: Vista Processor: Intel Core 2 Duo @ 2.8 GHz / AMD Athlon II X2 @ 2.8 GHz Memory: 2 MB RAM Graphics: SM3.0 DX9.0c level hardware (Nvidia GeForce 6800, ATI X1800 XT or higher) Storage: 2 GB available space Additional Notes: Windows-compatible keyboard, mouse, optional controller (Steam Controller or Xbox 360® Controller for Windows recommended)",
+    "recommended_requirements": "OS: Windows 7 / Windows 8 Processor: Intel Core i5 @ 2.66 GHz / AMD Phenom II X4 @ 3.0 GHz (or any Dual Core CPU) Graphics: Nvidia GeForce GTX 280, ATI HD 4800 or higher Storage: 2 GB available space Additional Notes: Windows-compatible keyboard, mouse, optional controller (Steam Controller or Xbox 360® Controller for Windows recommended)",
+    "reviews": [
+        {
+            "review_text": "Starting with over 1 bn points because somehow they found out my playtime on Commodore.  Nice game! Love the style.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A platformer with decent level design, charming visuals, catchy music, no forced plastic toy NFC gimmicks, no 'play it for you' features, simple and intuitive gameplay and it doesn't give you extra lives every 0.3 steps so there's no challenge at all? I never would have thought it possible in this era of gaming!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Giana Sisters 2D may seem like the kind of simple little platformer you'd sit down and enjoy for an evening or two from the videos and screenshots, but a myriad of bugs and awful hit detection make the game more of a waste and not really even worth checking out for fans of the original game.   Bugs encountered in just 44 minutes of playing stages 1-1 through 3-9 include:  -The game's hit detection is garbage, plain and simple.  -The scoring system is ENTIRELY busted. I started the game with 116,000,000 points for whatever reason, and the game's intro stage seems to just cut off completely at random. -Stage Intro Cards displaying the next ordered stage (from 1-1 to 1-2 for instance) but the game repeating the stage you just finished. -Spawning incorrectly inside geometry and other objects after death or starting a stage. The game ejects the character from said geometry and drops them off the screen to their death. Repeat until Game Over.  -The game stops receiving input from the player whenever a new stage is started, respawning at a checkpoint, or taking a hit as the Punk sister. Your input stops completely and you have to re-press the direction you were headed.   Honestly, grab Giana Sisters: Twisted Dreams instead. It's a much more modern take on the series and, unlike this rushed out, cheap, and bug-ridden mess, does the original game some justice while modernizing it in ways that make sense.   Giana Sisters 2D is just a shoddy hack job with little to no care put into creating a game/product that functions well enough to be playable, let alone enjoyable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Game is trash. Has a ton of hitbox issues, graphic errors, feels rushed and just a straight up mess.",
+            "review_score": "-1"
+        }
+    ]
+}

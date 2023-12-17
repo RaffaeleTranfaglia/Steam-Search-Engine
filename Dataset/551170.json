@@ -1,0 +1,40 @@
+{
+    "app_id": 551170,
+    "name": "Onmyoji",
+    "release_date": "2018-04-18",
+    "developer": [
+        "NetEase Games"
+    ],
+    "publisher": [
+        "NetEase Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "MMO",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "achievements": 121,
+    "positive_ratings": 552,
+    "negative_ratings": 258,
+    "price": 0.0,
+    "description": "Onmyoji is a turn-based fantasy strategy game with PVP or PVE battles, where you can strengthen your beloved shikigami to build your dream tactical team and defeat various demons to become the ultimate onmyoji. Cross-platform play available for both Steam and English mobile versions.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/551170/header.jpg?t=1547434975",
+    "minimum_requirements": "OS: win7/8/10 Processor: Intel E2140/Athlon 64 x2 4000 Memory: 1 GB RAM Graphics: G41 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: win7/8/10 Processor: Intel Core i3-2310M/AMD A6-6400K Memory: 2 GB RAM Graphics: NVIDIA Geforce9600GT Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

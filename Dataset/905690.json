@@ -1,0 +1,42 @@
+{
+    "app_id": 905690,
+    "name": "魔物讨伐团",
+    "release_date": "2018-08-15",
+    "developer": [
+        "Nerdook Productions"
+    ],
+    "publisher": [
+        "Surefire.Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 195,
+    "negative_ratings": 88,
+    "price": 10.29,
+    "description": "卡牌与RPG结合的无尽地牢探险之旅！最早融合Roguelike与卡牌的游戏之一。多达14种职业，真人配音+纸娃娃系统，完善的卡牌设计，各类魔物与随机事件等你体验！",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/905690/header.jpg?t=1534742105",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: Processor 2 GHz (Dual Core) Memory: 256 MB RAM Graphics: OpenGL 2.1 compatible 3D graphics card with 256 MB VRAM DirectX: Version 9.0 Storage: 300 MB available space Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

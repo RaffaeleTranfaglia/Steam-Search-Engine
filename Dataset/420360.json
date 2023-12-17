@@ -1,0 +1,51 @@
+{
+    "app_id": 420360,
+    "name": "Spectrum",
+    "release_date": "2016-09-22",
+    "developer": [
+        "3D Avenue"
+    ],
+    "publisher": [
+        "3D Avenue"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Platformer"
+    ],
+    "achievements": 17,
+    "positive_ratings": 44,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "Spectrum is a platformer set in an abstract world of stylized shapes and bright colors. Escape from 80 levels spread in 8 mysterious environments.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/420360/header.jpg?t=1519667640",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel® Pentium 4 or better. Memory: 512 MB RAM Graphics: DX9 (shader model 2.0) capabilities. DirectX: Version 9.0c Storage: 845 MB available space Sound Card: Standard audio.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Highly addictive and challenging, you will need ot have a surgeon's precission to beat some levels! The soundtrack is a masterpiece and goes very well with the smooth and clean design the game has. Definitely a must!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is so cool no questions asked",
+            "review_score": "1"
+        }
+    ]
+}

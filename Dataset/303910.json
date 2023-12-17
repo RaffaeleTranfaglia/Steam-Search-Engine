@@ -1,0 +1,52 @@
+{
+    "app_id": 303910,
+    "name": "Time of Fury",
+    "release_date": "2014-07-18",
+    "developer": [
+        "Wastelands Interactive"
+    ],
+    "publisher": [
+        "Wastelands Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "World War II"
+    ],
+    "achievements": 64,
+    "positive_ratings": 15,
+    "negative_ratings": 11,
+    "price": 14.99,
+    "description": "Time of Fury takes you right into the European Theater of Operations. Strategic Command is the essence of winning the war and in Time of Fury the World War 2 is just huge, ideal for every strategy game fan.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/303910/header.jpg?t=1549011789",
+    "minimum_requirements": "OS: Windows XP, 7, 8 Processor: 1.2 Memory: 1024 MB RAM Graphics: 256 MB DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 8 Processor: 1.8 Dual Core Memory: 2048 MB RAM Graphics: 512 MB DirectX: Version 9.0c Storage: 2 GB available space",
+    "reviews": [
+        {
+            "review_text": "Time of Fury's graphics are dated. There's no two ways about it; however, the gameplay is solid. If you were one of those grognards who remembers hunching over a tabletop covered with a hexmap littered with counters, this is a gem.   Know what you are getting into. This is one of those kinds of games. There is no realtime clock running or blow up tactical battlefield to play with. Instead players are treated to making hard decisions about where to invest limited resources and how to achieve victory, constrained by the same.  I've enjoyed it immensely and highly recommend Time of Fury.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I play a lot of strategy games, this is not one of them.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "app_id": 431630,
+    "name": "Action Legion",
+    "release_date": "2016-04-19",
+    "developer": [
+        "Aeonic Entertainment"
+    ],
+    "publisher": [
+        "Aeonic Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 22,
+    "negative_ratings": 5,
+    "price": 4.79,
+    "description": "Action Legion is a mouse-controlled, single-player war game on the PC and Mac.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/431630/header.jpg?t=1466662838",
+    "minimum_requirements": "OS: Windows 7 / 8 / 10 Processor: Dual core Memory: 4 GB RAM Graphics: GeForce GT 450 or equivalent DirectX: Version 9.0c Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7 / 8 / 10 Processor: Dual core Memory: 4 GB RAM Graphics: GeForce GTX 660 or equivalent DirectX: Version 11 Storage: 3 GB available space",
+    "reviews": [
+        {
+            "review_text": "This is an honestly good game. I think I'm about halfway through, and although it's simple, it has been fun and rewarding with each mission complete. If you use proper strategy, things will go smoothly. If your strategy is a bit messy, things can still go smoothly and it might be more exciting! There are definitely some 'puzzle' elements sometimes.   It could use some AI for the enemies, so when they are under attack they don't just walk predictably into your line of fire. Other than that, it has been a fun experience and I intend on finishing! As you collect 'intel' you get to see parts of the backstory and lore in graphic novel form, which is nice...I just am having trouble determining which order they go in!  Overall, definitely worth purchasing and supporting this developer! I hope to see new mission packs in the future perhaps.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I ain't got time to bleed !!",
+            "review_score": "1"
+        }
+    ]
+}

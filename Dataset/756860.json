@@ -1,0 +1,41 @@
+{
+    "app_id": 756860,
+    "name": "Archers",
+    "release_date": "2018-01-18",
+    "developer": [
+        "Stabbarey"
+    ],
+    "publisher": [
+        "Stabbarey"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Gore",
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 3,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 7.19,
+    "description": "Hop into the world of archery and acrobatics. Play in modes of 1v1, 2v2 or 3v3. Create servers with your friends or play versus random players. Pick up different arrow types and use your abilities to eliminate your foes. Make precision longshots or get up close and personal with your enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/756860/header.jpg?t=1516278503",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 6400 / 2.7 GHz / AMD A8-7600 APU 3.1 GHz or equivalent Memory: 4 GB RAM Graphics: ATI or Nvidia graphics card with 512MB video ram or better and Shader Model 3.0+ support. (ATI Radeon 3870 or higher, Nvidia GeForce 8800 GT or higher) Network: Broadband Internet connection Storage: 2 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 767560,
+    "name": "War Robots",
+    "release_date": "2018-04-04",
+    "developer": [
+        "Pixonic"
+    ],
+    "publisher": [
+        "Pixonic"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Trading Cards",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play"
+    ],
+    "tags": [
+        "Free to Play",
+        "Robots",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 756,
+    "negative_ratings": 929,
+    "price": 0.0,
+    "description": "War Robots is an online third-person 6v6 PvP shooter—we’re talking dozens of combat robots, hundreds of weapons combinations, and heated clan battles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/767560/header.jpg?t=1548944552",
+    "minimum_requirements": "OS: Windows 7 Processor: 2.5 GHz Memory: 2 GB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 10 Storage: 1500 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 3.2 GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 960 DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

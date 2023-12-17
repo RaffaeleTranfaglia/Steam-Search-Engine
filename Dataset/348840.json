@@ -1,0 +1,44 @@
+{
+    "app_id": 348840,
+    "name": "UFHO2",
+    "release_date": "2015-06-02",
+    "developer": [
+        "Tiny Colossus",
+        "Ciro Continisio"
+    ],
+    "publisher": [
+        "Tiny Colossus"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 24,
+    "positive_ratings": 15,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "Play an alien navigating a maze of hexagons in this competitive mix between strategy and board game. Plan your next turn, think fast, act faster, and outmanoeuvre your opponents by predicting their moves. UFHO2 is strategy at its finest.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/348840/header.jpg?t=1465417866",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz or faster 32-bit (x86) or 64-bit (x64) processor Memory: 2 GB RAM Graphics: Any graphic card with at least 256 MB of dedicated memory DirectX: Version 9.0 Storage: 300 MB available space Sound Card: No specific sound card required",
+    "recommended_requirements": null,
+    "reviews": []
+}

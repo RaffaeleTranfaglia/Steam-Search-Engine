@@ -1,0 +1,42 @@
+{
+    "app_id": 448720,
+    "name": "Puzzle Box",
+    "release_date": "2016-04-22",
+    "developer": [
+        "BplusGames"
+    ],
+    "publisher": [
+        "OtakuMaker.com"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Pixel Graphics",
+        "Casual",
+        "Atmospheric"
+    ],
+    "achievements": 30,
+    "positive_ratings": 26,
+    "negative_ratings": 6,
+    "price": 6.99,
+    "description": "Puzzle Box is painting with creative gameplay! Create fantastic pixel art images, by dropping your colour paint blocks in the correct place across the levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/448720/header.jpg?t=1513853890",
+    "minimum_requirements": "OS: WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10 Processor: Any 64 or 32 bit processor Memory: 1 GB RAM Graphics: DirectX or OpenGL Compatible Video card Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

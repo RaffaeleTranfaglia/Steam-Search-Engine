@@ -1,0 +1,40 @@
+{
+    "app_id": 777200,
+    "name": "KOEWOTAYORINI SP / 声之寄托SP",
+    "release_date": "2018-02-13",
+    "developer": [
+        "あみそ組"
+    ],
+    "publisher": [
+        "Pujia8 Studio",
+        "Gamera Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Anime",
+        "RPG"
+    ],
+    "achievements": 23,
+    "positive_ratings": 123,
+    "negative_ratings": 6,
+    "price": 1.69,
+    "description": "Escape by means of &quot;Voice&quot;! The second installment of the new feeling puzzle and escape game! You are being held in a room that you haven't been to before. The only thing you can do is using telephone to ask for hint from a cooperator.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/777200/header.jpg?t=1521119311",
+    "minimum_requirements": "Минимальные: ОС: Windows xp/Vista/7/8/10 Процессор: Intel Core2 Duo or higher Оперативная память: 2 GB ОЗУ Место на диске: 1 GB Звуковая карта: 100% DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

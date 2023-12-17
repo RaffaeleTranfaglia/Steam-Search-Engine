@@ -1,0 +1,39 @@
+{
+    "app_id": 1048260,
+    "name": "Super Catscape",
+    "release_date": "2019-04-10",
+    "developer": [
+        "Nuke Games"
+    ],
+    "publisher": [
+        "Nuke Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Super Catscape is a 2D sidescroller retro platformer about Kim, a brave kitten who is abducted by strange alien creatures. Kim has to find a way to escape from the strange alien planet, saving all captive pets in his way back to Earth.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1048260/header.jpg?t=1556071394",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i3 Memory: 4 GB RAM Graphics: Nvidia GTX or AMD card 1 GB Storage: 1 GB available space Sound Card: Any Additional Notes: XBOX gamepad is recommended",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7 Memory: 16 GB RAM Graphics: Nvidia GTX 1060 or AMD 4GB + Storage: 2 GB available space Sound Card: Any Additional Notes: XBOX gamepad is recommended",
+    "reviews": []
+}

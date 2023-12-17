@@ -1,0 +1,210 @@
+{
+    "app_id": 208600,
+    "name": "Lunar Flight",
+    "release_date": "2012-04-10",
+    "developer": [
+        "Shovsoft"
+    ],
+    "publisher": [
+        "Shovsoft"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "VR Support",
+        "Partial Controller Support",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "VR",
+        "Indie"
+    ],
+    "achievements": 51,
+    "positive_ratings": 465,
+    "negative_ratings": 95,
+    "price": 10.99,
+    "description": "A modern take on the classic arcade game, Lunar Lander, Lunar Flight extends the experience to a fully fictionalized and accessible lunar module simulator",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/208600/header.jpg?t=1468161809",
+    "minimum_requirements": "OS: Windows XP / Vista / 7                 Processor: 2.4 GHz or equivalent processor                 Memory: 2 GB                 Hard Disk Space: 900 MB                                 Video Card: 500 MB Video RAM and at least Shader Model 2.0                 DirectX®: 9.0c                 Sound: Windows compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A true spiritual successor to old games like Lunar Lander. Yes, there is a learning curve here. One thing that is a bit unfair is a stock lander with no upgrades lacks a stabilizer, if you get the craft rotating in mutiple axis you will have a hell of a time getting it stabilized. As you progress and upgrade the LM you won't have this problem, though of course you will have more experience flying and won't be so fazed by basic flight. Bottom line: when starting out only use yaw/rotate and leave pitch and roll alone. Mission types are fine though they boil down to fly from base X to base/point X and do something. Lost cargo is a little more interesting as you have to use your eyes to locate the target (the beacon is too short ranged to be of too much use in locating the cargo). Some other mission types would be useful, like a photo-mapping mission, where you have to fly a designated strip of territory taking images as you go along.   The actual feeling of flight is superb. The Hills map in particular has a very authentic Lunar Highlands feel to it. Others less so. Canyons is challenging but the verticle exageration makes it look a little unbelievable. Mars is also a challenge but after the 'purity' of Lunar flying is a bit frustrating.   As far as this game being too difficult, well, I disagree. If you watch the basic tutorials you should be fine, esp if you obey the basic rule of 'no pitch/roll w/o a stabilizer'. If you want difficult, try Eagle Lander 3D which is a hardcore LM sim, no game, no missiles, no HUD, just the DSKY and a scribed pattern on the LM window to guide you and historical Apollo scenarios.   For a niche title an impressive level of support. After the initial release we saw release of Oculus Rift support and then multiplayer, and continuing support into 2015. The developer has demonstrated maturity and staying power by supporting this very excellent sim/game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Okay.... had this game for a long time. Today, HTC Vive support added.  Blew my mind. This is going to be an amazing experience going forward. Thanks to Sean Edwards for his indefatigable efforts on this project - that some (myself included) - had thought was shelved.  The addition of the Vive element creates very immersive experience and adds a greater essence of situation awareness - I had recently played a little on this previously using TrackIR, which was still very enjoyable.  I'm looking forward to playing this a lot more. This will be one of my go-to games that I typically use to 'wow' my mates who haven't tried VR gaming before. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best crashing simulator ever. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice space game! I love the game but controlling is a bit hard but anyway good game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "its alright",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lunar Flight is a very enjoyable game that can be both relaxing and challenging. It comes with a unique flight model that provides a new experience even for accustomed flight / space simmers, yet is easy enough to learn if you are completely new to this genre. You only need to remember to pay close attention to the important flight properties such as trajectory vector and velocity which you have to bring down manually only by yourself as there is no atmosphere (except for Mars, but the atmospheric braking effect is very subtle anyways), and fuel that is realistically consumed even by minor attitude adjustments, as every spacecraft movement and rotation is done using thrusters. Another big difference compared to the usual flight model you're probably used to is that you also need to account for spinning which isn't gonna centre on it's own, but there are upgradable stabilisers that make it easier.  The music style is fitting and unobtrusive, and together with the background comms chatter creates a strangely soothing atmosphere. Visuals are nicely done, the models are very detailed and textures have a very high resolution that should look great even on screens bigger than FullHD. Although I absolutely refused to use a 2D cockpit in any flight simulator I ever played, I didn't have any problem with it here, as it's very nicely done both on the functionality and usability side and also because it's mostly resembling the Apollo Lunar Module cockpit. Despite the small windows and tiny forward-facing screen, landing isn't difficult at all thanks to the very cleverly designed nav monitors. It can also be easily switched to a clean HUD with toggleable GUI screens, quickly configurable by buttons; or to a 3D cockpit.  My play time should tell roughly how long it takes to complete the game, including all the single player achievements, without playing MP at all (for a reference I'm experienced in several flight sims and have a good HOTAS controller). If you want to play multiplayer, remember to ask your friends to get this game aswell, as there are usually no servers at all (which may change after the big update). But I believe you could get other players online if you asked at the discussions section and planned a meeting. You're definitely gonna need a joystick with at least one POV hat (preferably 8-way) to control the very needed lateral thrusters, or an adequate gamepad such as the X360 which the 3D cockpit includes a matching model for (soon to be replaced with a X52 Pro, I guess).  All in all, I would recommend Lunar Flight to every space nerd who isn't afraid to try something new!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best VR experience I have ever tried. A must have, if you own a 'Rift'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Learn to fly, or spend millions of tax payers' money trying. Excellent moonlander simulator.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice little gem. Fairly simple idea, challenging but fun, great peace of software.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best Oculus Rift compatible games available. Highly recommended! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will always be my first real love in VR. Sadly the DK2 days have passed, and I have a Vive now, so my love is gone for the moment but promised to come back to me one day in an update. Looking forward to that, hopefully in a not so distant day in the near future...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Absolutely fantastic game, especially if you like physics-based challenges. It's a very simple scenario on the face of it: just fly your lunar module from one place to the other, but it is so well made that it draws you into its baron lunar (and martian) landscapes. The physics of your vehicle are brilliantly made so that it is a challenge to fly, but an extremely satisfying challenge. You don't have to use all of the thrusters to start with which makes things a bit easier, but as you get better you can start to use of the thrusters to get places a bit quicker (resulting in the occasional crash when you get cocky!).  Just great and fun to play!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Super nice VR experience. The gameplay is pretty basic but it works well, it looks nice. And it's cheap.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game will draw hardcore simulator fans out of the woodwork, you know who you are...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "at first tries to fly around ends up spining like crazy. tries multiplayer spams missiles. 10/10 worth the $1 from the humble bundle",
+            "review_score": "1"
+        },
+        {
+            "review_text": "wtf! is this where u get free lunch....     OH WELL &lt; BYE",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty cool! :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Warning: Unity game.  If you find learning how to fly on the Mun jolly, this might be the game for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Rather casual for a 'smiulation', but great fun to master, though, once mastered it becomes boring, but it's worth it's daily-deal price. I enjoyed it. Got about 9 hours out of it. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "kinda of tricky to control lunar module but it's still lots of fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "VERY FUN MORE THAN I EXPECTED!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Yup, it's like being on THE MOON with the oculus, one of the very best games for oculus rift, incredibly difiicult learning curve on a keyboard but once you learn u can become an ace and continue honing your skills to perfection.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Learning curve is a little rough on this one but so much fun. DK2 Oculus Rift Compatability is great! Must play for VR or space enthusiasts.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, well worth the money at full price. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very Good Simulator :) Little hard on far mission but playble. I suggest!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great Space Flight Sim Game, it takes a good set of skills to master but as soon as you've got the learning curve down you good to go!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "There's not many games about the moon and there's fewer still that let you control a Lunar Module-like spacecraft. Lunar Flight offers an experience that quite simply can't be found elsewhere, and does it rather well to boot. The graphics are lovely, the gameplay tough but rewarding and the flight model feels authentic. Above all it is immersive and open-ended, which is just what I think it needs to be.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lots of fun if you are a good lunar pilot and can land under the pressure of running out of gas or slamming into one of mars mountains from heavy dust and flying blind instruments only I like it two thumbs up now get a copy good developer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Perfect for playing with the Oculus Rift. Very Immersive.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lunar Lander on steroids. That's all I really need to say. If you miss the 80's game this will give you that fix. Without all the quarters! So get to it pilot, that's an order!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A bit of a niche game, but what it does cover, it does very, very well. If you've ever wanted to pilot the Apollo 11 Lunar Lander, here's your chance.  Excellent graphics, physics model, sound and music. This is the 3D version of the old Atari Lunar Lander game. Don't understand why people have knocked the standard controls... the lander's controls (keyboard &amp; mouse) are very responsive and accurate. You can't learn this game's piloting model in just 15 minutes. And the Mars map, forget it until you've upgraded your lander with Level 3 technology.  Just wished there were maps for other locations in the solar system. The Jovian moons or the moons of Saturn would've been wonderful. Or maybe one of the larger asteroids, like Ceres. Alas...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game design, well executed. Simple game rules: take a 'tin can' with a few thrusters, a newtonian physics, and simple objectives, and you get high replayability. Moderate to handle, difficult to master, very rewarding then.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you ever played the 2D, 8-bit original game 'Lunar Lander', then you know how addictive it was. 3D remakes don't usually compare to those old gems but somehow this game has done it, and it has done it in spades. Just as addictive, a true spiritual successor. It is difficult, but not in a random number kind of frustrating way, but in a skill which needs to be developed way, and that is a good thing. It is very satisfying to get good at this.  There is no reason not to own this. Why are you just sitting there? Buy it immediately.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Lunar Flight is a beautiful game to play in virtual reality. Once you figure out the somewhat involved method to take off, traverse to the next checkpoint and land safely then you will start getting lost for hours building up experience on the lunar maps. After that, you upgrade your craft and attempt more complicated travel maneuvers involving axis rotation that reduce fuel use and speeds up mission times.   While many VR games are more fun standing up, this game improves with sitting down and taking your time. Outside of multiplayer combat which I have not done, there's little need for twitch style gameplay. Take it slow and have a blast with the relaxing gameplay (well, relaxing till you actually have to slow descent and land correctly).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game, amazing immersion if you have a vive or oculus. Does have a learning curve though. Would buy again at full price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome game, amazing immersion if you have a vive or oculus. Does have a learning curve though. Would buy again at full price.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "finally figured out how to play this in vr and its perfect!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Poor design, clumsy controls, unlogical ui. And it crashes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "i don't know what i'm doing besides crashing ♥♥♥♥",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "as soon as i get to the menu i cant start the game nor play the game when i tried closing the game it wouldnt close it would stay on the main menu",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I really hate this game.",
+            "review_score": "-1"
+        }
+    ]
+}

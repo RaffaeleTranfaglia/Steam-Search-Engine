@@ -1,0 +1,75 @@
+{
+    "app_id": 421260,
+    "name": "Militia",
+    "release_date": "2015-12-02",
+    "developer": [
+        "BrainGoodGames"
+    ],
+    "publisher": [
+        "BrainGoodGames"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Turn-Based",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 14,
+    "positive_ratings": 107,
+    "negative_ratings": 3,
+    "price": 4.79,
+    "description": "Militia is a tight turn-based strategy game that brings the thrill of victory to single-player. It's simple to pick up, and from the moment you start, you'll be learning and improving -- building your skills, learning new strategies, and ranking up on the single player ladder.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/421260/header.jpg?t=1473883376",
+    "minimum_requirements": "OS: Windows XP or newer Processor: Support for SSE2 instruction set Memory: 512 MB RAM DirectX: Version 9.0 Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Militia is a unique turn-based strategy game with minimalist graphic design featuring many pictograms that might make this game look like a weird complex Chess variation. But that isn't true.  The gameplay follows the 'Easy to learn, hard to master' scheme, as you'll learn almost everything about the gameplay mechanics in 10 minutes, then you are thrown into randomly generated levels. The challenge there is getting to the highest rank possible - every won game gets you closer to rank promotion, every lost game gets you farther.  Rank determines the difficulty of generated levels and provides a big challenge for everybody, as you'll have to keep a winrate better than 50%. While you'll be trying, you'll realize strategies and combos with specific units that you haven't thought before and... well, you'll get better.  There are two modes, light mode that is best for new players (but also provides a challenge) and dark mode, which was introduced later in Militia ( but on Steam it's a expansion that is already included with the basic game ). Fighting both orcs and undead is really tough job, you'll often find yourself thinking your plan for some time, as there is no way back after you take your turn. There isn't an undo button, every mistake comes with a regret (and lose, and getting closer to losing your rank).  The whole presentation, from graphics to sounds, is simply awesome. Graphics are great for the game's intention, you'll just learn few pictograms, falling in love in it meanwhile. Militia is a big surprise for me, as it's simply great game. It features balanced difficulty and it's a pleasure to play for everybody who wants a casual strategy game, or for those who are alone and would like to play a board game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is becoming my go-to turn-based strategy 'adventure'. I love the minimalistic style and straightforward, but in-depth, game design. I'm delighted that it's focused purely on the experience itself. There's no exploitation of the player here. You simply play the game and progress to greater difficulties if you win.  I picked this up in a bundle and it's EASILY the highlight! I can't recommend it enough. It hits the spot if you're in the mood for a short but thrilling gaming session (although don't be surprised if you continue to play match after match...).  Only feedback I have: - It would be nice to be able to pause a match and resume later on. Right now you can only quit the match entirely and it counts against your rank. - A multiplayer battle element would be a great addition. I hope the devs will consider it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Interesting game. You need to consider your moves like chess or other puzzle games,  but it is quite relaxing and will not overheat your brain.  I'd like to give a 10/10 recommendation if it explains the mechanism of shield in detail.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Puzzle/strategy game with very simple mechanics that is always fun for a spin. You have units in a board against multiple enemies. Each unit and enemy type has its own attack pattern/abilities. You must kill 'generals' (specific enemies marked around the board) to win. You play a game by completing 3 boards in a row and rank up unlocking stuff. There's also 2 'worlds' you can play in: Light &amp; Dark with different units/abilities. Surprisingly good.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A tactical puzzle game where you pit a random group of unique units against a random group of enemies. The difficulty scales very well and very smoothly - the game will adjust itself so that you find yourself challenged most games.   This is a fantastic Pick Up And Play game that scratches the tactics itch in a satisfying way. I highly recommend it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best indie games I played. Highly recommended.    Achievements-mostly fair (100 wins one takes awhile)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "clever board game, interesting mechanics, interesting gameplay, would love to play against humans, since AI can be very dumb sometimes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a great little game. Simple to learn how to play, but it's deceptively deep.   Pros:   - Fun enough that you could spend hours playing. Just one.. more.. level! - Fast paced enough that you don't *have* to. It's turn based strategy without the time commitment.  Cons: - Music gets a little repetitive after a while. Easy fix, turn it off and listen to whatever you want on Spotify or whatever. - For some reason the game decided to start on my second monitor? Had to switch to windowed mode, drag it to my primary then make it fullscreen again. Not really a con, just weird I guess. ",
+            "review_score": "1"
+        }
+    ]
+}

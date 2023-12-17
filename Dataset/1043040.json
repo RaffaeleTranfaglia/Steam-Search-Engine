@@ -1,0 +1,38 @@
+{
+    "app_id": 1043040,
+    "name": "Picross Floof",
+    "release_date": "2019-04-01",
+    "developer": [
+        "Sleepy Red Panda Studio"
+    ],
+    "publisher": [
+        "Sleepy Red Panda Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Relaxing picross puzzle game for when wanting to rest and still challenge the brain. Contains 500 levels from 5x5 to 20x20 with singular and composite levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1043040/header.jpg?t=1554136743",
+    "minimum_requirements": "OS: Windows 7 Processor: AMD FX 4150 or Intel equivalent Memory: 4 GB RAM Graphics: AMD Radeon 6000 Series or Nvidia equivalent DirectX: Version 11 Storage: 400 MB available space Additional Notes: Minimum of 2gb VRAM",
+    "recommended_requirements": "OS: Windows 10 Processor: AMD FX 6300 or Intel equivalent Memory: 8 GB RAM Graphics: AMD RX 460 or Nvidia GTX 1060 3gb DirectX: Version 11 Storage: 500 MB available space Additional Notes: Recommend 3gb VRAM",
+    "reviews": []
+}

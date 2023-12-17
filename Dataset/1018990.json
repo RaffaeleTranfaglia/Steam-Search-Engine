@@ -1,0 +1,36 @@
+{
+    "app_id": 1018990,
+    "name": "Cherry Creek",
+    "release_date": "2019-03-15",
+    "developer": [
+        "Second Dimension Games"
+    ],
+    "publisher": [
+        "Second Dimension Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 9,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Cherry Creek is a tile-turning puzzle game, the aim is to rotate the river tiles to take water from the fountain to all the cherry trees. The puzzles are set in a picturesque natural environment, and offer something for all abilities.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1018990/header.jpg?t=1552668486",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 2 GB RAM Graphics: Intel(R) HD Graphics 500 or equivalent DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 7/8/10 Processor: 2.2 GHz Memory: 2 GB RAM Graphics: NVIDIA GT/s 4xx or equivalent DirectX: Version 9.0c Storage: 500 MB available space",
+    "reviews": []
+}

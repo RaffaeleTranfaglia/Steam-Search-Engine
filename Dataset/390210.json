@@ -1,0 +1,63 @@
+{
+    "app_id": 390210,
+    "name": "FreezeME",
+    "release_date": "2015-12-10",
+    "developer": [
+        "Rainy Night Creations"
+    ],
+    "publisher": [
+        "Rainy Night Creations"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 18,
+    "positive_ratings": 49,
+    "negative_ratings": 29,
+    "price": 10.59,
+    "description": "FreezeME is a A 3D platformer in the style of the 90s-era but wait there is a twist! The main character “R” has one special tool – a camera around her neck. This camera allows her to literally freeze the objects she photographs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/390210/header.jpg?t=1450951759",
+    "minimum_requirements": "OS: Windows XP Service Pack 3 (32 bits) Processor: Intel Dual-Core 2.9 GHz / AMD Dual-Core 3.5 GHz Memory: 2 GB RAM Graphics: SM 3.0 with 512MB VRAM DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Quad-Core Processor Memory: 4 GB RAM Graphics: SM 3.0 with 1GB VRAM or higher DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": [
+        {
+            "review_text": "It's a really nice game, reminds me of some good old N64 platformers. While this game is clearly inspired on Super Mario 64, it also reminded me a bit of Banjo-Kazooie and other Rare games from back then, and that's no small feat.  The puzzles are pretty good, and use well the unique abilities of the character. From the little I played, I can see there is a lot to find, and lots to do on each level.  The only negatives I can say about this are that the game can be a bit overwhelming at first, it kinda makes you read the whole text tutorial - without interaction or anything - to learn the basics. There is some strange camera jank/bugs, but nothing old platformers didn't also have.  Worth buying for the genre fans, for sure.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "While being marketed as a 90s platformer, I found aspects of it similar to other 3D platformers like sly cooper and jak and daxter. Overall, the game feels more like super mario galaxy than Super Mario 64. Besides from clinging to platforms, the gameplay is pretty fun and both the general platforming and the camera mechanic lead to unique challenges. There's four sprawling worlds that consist of sections that feel like their own levels and collectibles to find and earn. It'll take about 8 hours to beat the final boss and get a new power mode to use to help get the rest of the golden cubes. This is a game I can see myself playing through multiple times, and for good reasons.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A nice 3D platformer that plays just like the best classic N64 games, like Mario 64 and Banjo-Kazooie. The worlds are huge and there are plenty of missions, running around in 3D is just plain fun. Give it a try!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Only playable from a position of blind rage driven entirely by perceiving the game as a personal threat which must be neutralized. Fun then though.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The camera angles are sometimes horrendous, the controls sometimes drive you mad, the odd level makes you want to put your controller through the screen. Absolutely stunning. Best game I've played through in ages. Feels like a Gamecube game that never got a release. Love it.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 787980,
+    "name": "4D Minesweeper",
+    "release_date": "2018-02-14",
+    "developer": [
+        "Julian Schlüntz"
+    ],
+    "publisher": [
+        "Julian Schlüntz"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 0,
+    "positive_ratings": 21,
+    "negative_ratings": 2,
+    "price": 0.0,
+    "description": "4D Minesweeper brings the classic mechanics of Minesweeper into the fourth dimension and adds some new features to it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/787980/header.jpg?t=1541187241",
+    "minimum_requirements": "OS: Windows 7+ Processor: x86 Memory: 2 GB RAM Graphics: OpenGL 2.1+ Storage: 20 MB available space Additional Notes: Only operating systems in their lifecycle",
+    "recommended_requirements": null,
+    "reviews": []
+}

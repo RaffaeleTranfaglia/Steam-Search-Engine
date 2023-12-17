@@ -1,0 +1,47 @@
+{
+    "app_id": 311490,
+    "name": "Spirit Run - Fire vs. Ice",
+    "release_date": "2015-02-12",
+    "developer": [
+        "Lunagames"
+    ],
+    "publisher": [
+        "Libredia"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 16,
+    "negative_ratings": 15,
+    "price": 1.69,
+    "description": "Get ready for the run of a lifetime. In this endless platformer you play an elemental spirit that has the ability to change form. Spirit Run: Fire vs Ice is inspired by games such as the platformer Canabalt and the classic shoot ‘em up Ikaruga.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/311490/header.jpg?t=1528291262",
+    "minimum_requirements": "OS: Win XP/Vista/7/8 Processor: 1 GHz Memory: 1 GB RAM Graphics: 512MB with shader model 3.0 support Storage: 41 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Oh my god, that was  awful .  I bought this on impulse during the Steam sale because I thought the graphical style looked pretty cool. It advertises itself as an endless runner with an Ikaruga color-switching mechanic. I thought, what could go wrong?  The controls. The physics. The visuals. It was a nightmare.  For starters, this game has absolutely no edge physics. None. For the unfamiliar, 'edge physics' are a feature of just about every highly-rated sidescrolling platformer in the history of games, which gives you a few frames' window of opportunity to jump after walking off the edge of a cliff -- kind of like a tiny midair jump that feels like you're propelling yourself off the edge of the cliff. Mario does it, Sonic does it, every platformer character I can think of off the top of my head does it... but not this game. Here, upon stepping on the edge of a cliff, your character will immediately just slide off. This actually makes the game impossible at higher speeds, because if you get a bad combination of landscapes, it's possible to just trip down a bunch of stairs and into a pit with no way to save yourself.  There are only about 7 terrain shapes in the game which are just repeated in different orders ad nauseam. Certain combinations of terrain will make it impossible to grab pickups. Other combinations will make it impossible to grab a pickup without also jumping into a pit. As you speed up, certain combinations of terrain become outright impossible to survive. If you're going for a high score, you'd better just pray you don't get any unsolvable terrain.  The game makes you hold down the jump key to prolong your jump, yet it doesn't check to see if you've released the key and pressed again before making you jump again. This means you'll frequently bunny-hop to your doom if you're not careful.  The fire and ice switching is only useful for avoiding two kinds of death obstacles and picking up two kinds of powerups. That’s it. There are no other game mechanics.  The visual style, which is probably the best part of the game, is also a detriment. The ice pickups, as well as the ice character, have no contrast or outline, and are practically invisible on the game's bright-colored backgrounds. The scrolling terrain constantly stutters in a headache-inducing way.  And the music is one 60-second loop that plays during menus and gameplay. Over. And over. And over.  You will almost never hear me say this, but stay away from this game,  even if you’re an achievement hunter . I know you can fully complete it in about three hours, but with the infuriating edge physics and the luck factor, it’s just not worth the emotional abuse. Please. Just trust me on this one. This game is torture, and I suffered through it so that you don’t have to.  And I want my three hours back.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Simple, yet enjoyable runner. Nice visual presentation with a very catchy song. Controls could be tighter and it would have been nice to have controller mapping. The basic fire and ice swap mechanic works well. The only major downside is some of the pickups are poorly placed making it very easy to lose your combo multiplier without feeling like you could have prevented it. For score chasers this is a pain. The leaderboards with friends option is a nice addition. Overall its a good, simple breaktime game worth a few bucks. GG!",
+            "review_score": "1"
+        }
+    ]
+}

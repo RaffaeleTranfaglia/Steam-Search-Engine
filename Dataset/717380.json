@@ -1,0 +1,40 @@
+{
+    "app_id": 717380,
+    "name": "Yerah",
+    "release_date": "2017-10-12",
+    "developer": [
+        "DigitalWolfByte"
+    ],
+    "publisher": [
+        "DigitalWolfByte"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 13.99,
+    "description": "Yerah is a indie farming game. You can build your farm, collect resources and process them, take care of your animals or send Warriors into adventures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/717380/header.jpg?t=1549259629",
+    "minimum_requirements": "OS: Windows XP Processor: Quad Core Memory: 2 GB RAM Graphics: GT 550 TI or equivalent DirectX: Version 9.0c Storage: 1 GB available space Sound Card: Onboard",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Quad Core Graphics: GTX 960 or equivalent Storage: 1 GB available space Sound Card: Onboard",
+    "reviews": []
+}

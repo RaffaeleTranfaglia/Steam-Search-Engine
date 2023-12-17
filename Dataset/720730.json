@@ -1,0 +1,43 @@
+{
+    "app_id": 720730,
+    "name": "Without Escape",
+    "release_date": "2018-04-24",
+    "developer": [
+        "Bumpy Trail Games"
+    ],
+    "publisher": [
+        "Bumpy Trail Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Gore",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Gore"
+    ],
+    "achievements": 9,
+    "positive_ratings": 12,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Without Escape is a point-and-click horror game in which players must investigate gruesome, unearthly events that have begun to manifest in their own home.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/720730/header.jpg?t=1524585709",
+    "minimum_requirements": "OS: Windows 7 Processor: SSE2 Compatible Memory: 512 MB RAM Graphics: DirectX 11 Compatible DirectX: Version 11 Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: SSE2 Compatible Memory: 1024 MB RAM Graphics: DirectX 11 Compatible DirectX: Version 11 Storage: 512 MB available space",
+    "reviews": []
+}

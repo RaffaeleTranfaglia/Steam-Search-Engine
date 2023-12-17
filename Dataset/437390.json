@@ -1,0 +1,43 @@
+{
+    "app_id": 437390,
+    "name": "HoPiKo",
+    "release_date": "2017-01-06",
+    "developer": [
+        "Laser Dog"
+    ],
+    "publisher": [
+        "Merge Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 53,
+    "positive_ratings": 110,
+    "negative_ratings": 34,
+    "price": 4.99,
+    "description": "HoPiKo is an intense speed run platformer where you get to save gaming. Jump from platform to platform avoiding death, exploiting shortcuts and ripping through 100s of hand-crafted levels, each one dropped into a 5-stage mini run designed to break your mind!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/437390/header.jpg?t=1483807766",
+    "minimum_requirements": "OS: Windows Vista Processor: Core 2 Duo Memory: 2 GB RAM Graphics: SM3 512MB VRAM Storage: 300 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Core i3 Memory: 4 GB RAM Graphics: SM4 1GB VRAM",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 650440,
+    "name": "Warbanners",
+    "release_date": "2017-10-18",
+    "developer": [
+        "Crasleen Games"
+    ],
+    "publisher": [
+        "Crasleen Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "RPG"
+    ],
+    "achievements": 21,
+    "positive_ratings": 209,
+    "negative_ratings": 74,
+    "price": 15.49,
+    "description": "Warbanners: the turn-based, tactical strategy game with role-playing elements that lets you manage a squad of mercenaries, and survive 42 campaign missions. Your goal? To earn a place among ancient legends!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/650440/header.jpg?t=1520961056",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 2GHz Memory: 512 MB RAM Graphics: 512 Mb Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

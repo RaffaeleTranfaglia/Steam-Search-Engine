@@ -1,0 +1,42 @@
+{
+    "app_id": 396750,
+    "name": "EVERSPACE™",
+    "release_date": "2017-05-25",
+    "developer": [
+        "ROCKFISH Games"
+    ],
+    "publisher": [
+        "ROCKFISH Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Space",
+        "Action",
+        "Sci-fi"
+    ],
+    "achievements": 33,
+    "positive_ratings": 4061,
+    "negative_ratings": 1087,
+    "price": 22.99,
+    "description": "EVERSPACE™ combines fast-paced combat with roguelike elements, great visuals and a captivating story. It takes you on a challenging journey through an ever-changing, beautifully crafted universe full of surprises. Shoot, craft and loot your way to victory while the odds are stacked against you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/396750/header.jpg?t=1548071003",
+    "minimum_requirements": "OS: 32/64-bit Windows 7 / 8.1 / 10 Processor: Intel CPU Core i3 Memory: 4 GB RAM Graphics: Nvidia GTX 480 / AMD Radeon HD 5870 DirectX: Version 10 Storage: 12 GB available space Additional Notes: VR Support is optional",
+    "recommended_requirements": "OS: 32/64-bit Windows 7 / 8.1 / 10 Processor: Intel CPU Core i5 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 770 / AMD Radeon R9 280X DirectX: Version 11 Storage: 12 GB available space Additional Notes: VR Support is optional",
+    "reviews": []
+}

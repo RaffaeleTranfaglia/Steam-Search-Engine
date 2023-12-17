@@ -1,0 +1,40 @@
+{
+    "app_id": 493200,
+    "name": "RiME",
+    "release_date": "2017-05-26",
+    "developer": [
+        "Tequila Works",
+        "QLOC"
+    ],
+    "publisher": [
+        "Grey Box",
+        "Six Foot"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Exploration",
+        "Puzzle"
+    ],
+    "achievements": 31,
+    "positive_ratings": 2435,
+    "negative_ratings": 264,
+    "price": 29.99,
+    "description": "A land of discovery stretches out before you. Explore the beautiful, rugged world of RiME. Armed with your wits and a will to overcome—and the guidance of a helpful fox—you must explore the enigmatic island, reach the tower's peak, and unlock its closely guarded secrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/493200/header.jpg?t=1525105746",
+    "minimum_requirements": "最低配備: 需要 64 位元的處理器及作業系統 作業系統: Windows 7 64-bit 處理器: Intel Core i5 2310 2.9 GHz / AMD FX-6300 記憶體: 4 GB 記憶體 顯示卡: GTX 550 Ti 1GB/ Radeon 6950 1GB or better 儲存空間: 7700 MB 可用空間",
+    "recommended_requirements": "建議配備: 需要 64 位元的處理器及作業系統 作業系統: Windows 10 64-bit 處理器: Intel i5 3570k / AMD FX-8350 記憶體: 8 GB 記憶體 顯示卡: GTX 770 2GB / Radeon R9 280X 3GB or better 儲存空間: 7700 MB 可用空間",
+    "reviews": []
+}

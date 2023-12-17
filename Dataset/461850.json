@@ -1,0 +1,52 @@
+{
+    "app_id": 461850,
+    "name": "Abrix the robot",
+    "release_date": "2016-04-29",
+    "developer": [
+        "EJRGames"
+    ],
+    "publisher": [
+        "EJRGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 23,
+    "positive_ratings": 50,
+    "negative_ratings": 21,
+    "price": 6.99,
+    "description": "Abrix the robot is an addictive puzzle game for everyone. The game provides over 40 hours of intellectual entertainment ranging from fairly simple puzzles, to the extremely difficult, forcing the player to maximum effort.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/461850/header.jpg?t=1538167166",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8 Processor: 2 GHz Memory: 1 GB RAM Graphics: DirectX 9 compatible DirectX: Version 9.0 Storage: 500 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Short Intro",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not a bad puzzler that is quite fun at times. The graphics are ok, though scaling to higher resolutions is a mixed bag; the playfield scales fine, the gui not so much and the backdrop not at all.. and looks dreadful. Sound is also 'ok'. I think the biggest letdown is the clunky movement and severe lack of animation. The difficulty curve is another sour point.. you fly through the beginner levels, only to be met with EASY 1 which slaps you in the face. Once your past that hurdle though it tends to ease up (for a while). I can see the thought process behind releasing 'Abrix for kids'. All in all it significantly lacks in polish, but the core gameplay is fun.",
+            "review_score": "1"
+        }
+    ]
+}

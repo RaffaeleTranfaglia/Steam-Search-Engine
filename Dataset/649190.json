@@ -1,0 +1,46 @@
+{
+    "app_id": 649190,
+    "name": "Blast Zone! Tournament",
+    "release_date": "2019-02-28",
+    "developer": [
+        "Victory Lap Games"
+    ],
+    "publisher": [
+        "Victory Lap Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 45,
+    "positive_ratings": 256,
+    "negative_ratings": 260,
+    "price": 15.49,
+    "description": "Fun esport that's the bomb. 32 player online battle royales, 500 maps, 240 level single player campaign, over 10 billion customization options. Play now!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/649190/header.jpg?t=1552373884",
+    "minimum_requirements": "OS: Windows 7 Processor: Pentium Memory: 4 GB RAM Graphics: 512 Meg DirectX: Version 10 Network: Broadband Internet connection Storage: 5 GB available space Additional Notes:",
+    "recommended_requirements": null,
+    "reviews": []
+}

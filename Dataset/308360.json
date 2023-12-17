@@ -1,0 +1,54 @@
+{
+    "app_id": 308360,
+    "name": "LogiGun",
+    "release_date": "2014-07-22",
+    "developer": [
+        "Alfred Lam"
+    ],
+    "publisher": [
+        "Alfred Lam"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 19,
+    "positive_ratings": 45,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "LogiGun is a physics-based puzzle platformer. Take control of June as she climbs a tower filled with perplexing puzzles. Mix and match a variety of neat guns to solve your way through increasingly complex challenges.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/308360/header.jpg?t=1447362373",
+    "minimum_requirements": "OS: Vista or higher Processor: Dual Core 2.0 GHz Memory: 1 GB RAM Graphics: OpenGL 4.0 Compliant Dedicated Video Card Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "A very fun game.  The graphics are simple and the music can be a little repetitive, but the mechanics is brilliant and the gameplay very fun. At the beginning it seems easy, but when you have several guns at your disposal you need to do some serious thinking to beat the levels. The Aha! moments of the good puzzle games are guaranteed.  If you like devices and tinkering around, you will enjoy it a lot.  As a quick note, this is not a puzzle platfomer. This is a puzzle game. If you don't reach a place you are surely getting the puzzle wrong :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The level- and puzzle- design of this game is absolutely superb. Each level showcases some novel way for the different mechanics to fit together; not a shred of level is wasted. As far as I can tell, none of the puzzles are easily broken, either, whether with ninja moves or unconventional puzzling. The levels themselves are also very challenging; particularly upon nearing the latter third of the game.  A few things are unfortunately still desired; a more lenient physics engine (jumping is somewhat fiddly, as is stacking blocks, as you'll see from many reviews), a better menu (options should come BEFORE savefile selection!), more levels (only 40+8 bonus), and possibly a better redesign of the final level.  The number of mechanics is sometimes overwhelming, too. In addition to the 4 different guns and the zapper, there're also bombs, grapplable boxes, light boxes, heavy boxes, polarized boxes, lanterns, impact-toggled switches, lasers, colour-mixing puzzles, ice, glass, barriers that objects can't pass through, barriers that put out lanterns, barriers that arrows can pass through but you can't... Suffice to say, you may find yourself trying to recall what exactly a green dashed barrier does, and how it's different to a blue dotted barrier.  If you like puzzle games, this is definitely a good one I can recommend to you; it's up there along with English Country Tune and Snakebird in terms of pure gameplay. It is definitely worth the 4 GBP, whether on sale or not. But be prepared to spend more time on it than you might think, and be prepared to wish for more by the time you finish.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "LogiGun--it doesn't look too fancy and the jumping is a bit floaty, but the puzzles are very good. The various guns allow for a wide range of tricky and interesting puzzles.",
+            "review_score": "1"
+        }
+    ]
+}

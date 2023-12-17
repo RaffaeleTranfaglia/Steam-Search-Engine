@@ -1,0 +1,41 @@
+{
+    "app_id": 284160,
+    "name": "BeamNG.drive",
+    "release_date": "2015-05-29",
+    "developer": [
+        "BeamNG"
+    ],
+    "publisher": [
+        "BeamNG"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Racing",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Driving"
+    ],
+    "achievements": 7,
+    "positive_ratings": 15168,
+    "negative_ratings": 1536,
+    "price": 18.99,
+    "description": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/284160/header.jpg?t=1493124006",
+    "minimum_requirements": "OS: Windows 7 Service Pack 1 Processor: Desktop Intel i3 Memory: 4 GB RAM Graphics: GTX 550 TI DirectX: Version 11 Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10 64 Bit Processor: High-end Intel i5/i7 or High-end AMD 6 Core or better Memory: 8 GB RAM Graphics: GTX 780 DirectX: Version 11 Storage: 5 GB available space Additional Notes: Gamepad recommended",
+    "reviews": []
+}

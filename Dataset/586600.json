@@ -1,0 +1,39 @@
+{
+    "app_id": 586600,
+    "name": "The Adventures of Fluffy",
+    "release_date": "2017-07-06",
+    "developer": [
+        "RPGVideo"
+    ],
+    "publisher": [
+        "RPGVideo"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 4,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "Fluffy is a little blue Evo creature that lives on an island of Kekusan. His ancestors had descended on the island many centuries ago, but now the Kekusan empire sees them as pests! and wants to eradicate the whole Evo population.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586600/header.jpg?t=1499348776",
+    "minimum_requirements": "OS: Windows XP/Windows Vista/Windows 7/8/10 Processor: 1.5Ghz or better Memory: 128 MB RAM DirectX: Version 9.0 Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

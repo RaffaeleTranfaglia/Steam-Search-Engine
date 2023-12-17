@@ -1,0 +1,48 @@
+{
+    "app_id": 572430,
+    "name": "Party Hard 2",
+    "release_date": "2018-10-25",
+    "developer": [
+        "Pinokl Games",
+        "Kverta",
+        "Hologryph"
+    ],
+    "publisher": [
+        "tinyBuild"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Violent"
+    ],
+    "achievements": 41,
+    "positive_ratings": 526,
+    "negative_ratings": 99,
+    "price": 15.49,
+    "description": "It's 3am and you just want to get some sleep. Welcome back to Party Hard! Stop parties using hundreds of new ways, incidentally destroy a drug syndicate, and save the Earth from an alien invasion. May the chickens be with you!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/572430/header.jpg?t=1554796100",
+    "minimum_requirements": "OS: Windows XP/7/8/10 Processor: Intel Core i3 Memory: 4096 MB RAM Graphics: NVIDIA GeForce GT 920M DirectX: Version 11 Storage: 6 GB available space",
+    "recommended_requirements": "OS: Windows XP/7/8/10 Processor: Intel Core i5 Memory: 4096 MB RAM Graphics: Geforce GTX560 DirectX: Version 11 Storage: 6 GB available space Additional Notes: AlienFX enabled",
+    "reviews": []
+}

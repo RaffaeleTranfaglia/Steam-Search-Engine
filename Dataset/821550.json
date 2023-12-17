@@ -1,0 +1,40 @@
+{
+    "app_id": 821550,
+    "name": "The Dreamlands: Aisling's Quest",
+    "release_date": "2018-04-10",
+    "developer": [
+        "The Domaginarium"
+    ],
+    "publisher": [
+        "The Domaginarium"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 9,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "Help Aisling free The Dreamlands from The Mourner! The Dreamlands: Aisling's Quest is an adventure game that blends fantasy and mystery elements to present a gripping story.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/821550/header.jpg?t=1538247807",
+    "minimum_requirements": "OS: Windows 7 or above Processor: Dual core CPU @2GHz Memory: 512 GB RAM Graphics: 512 MB video memory Storage: 900 MB available space Sound Card: DirectSound-compatible sound device",
+    "recommended_requirements": "OS: Windows 7 or above Processor: Dual core CPU @2GHz Memory: 1 GB RAM Graphics: 1 GB video memory DirectX: Version 11 Storage: 900 MB available space Sound Card: DirectSound-compatible sound device Additional Notes: Geforce GTX 970 or equivalent for 4K gameplay",
+    "reviews": []
+}

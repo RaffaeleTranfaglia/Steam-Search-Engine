@@ -1,0 +1,40 @@
+{
+    "app_id": 909000,
+    "name": "Hentai University",
+    "release_date": "2018-08-13",
+    "developer": [
+        "Unreal Gaming"
+    ],
+    "publisher": [
+        "Unreal Gaming"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Nudity",
+        "Mature",
+        "Casual"
+    ],
+    "achievements": 19,
+    "positive_ratings": 50,
+    "negative_ratings": 45,
+    "price": 1.69,
+    "description": "Plunge in the world of knowledge from another universe, which you will visit as a student and where you will learn new subjects. You will be met by excellent teachers who will need to be conquered.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/909000/header.jpg?t=1554799549",
+    "minimum_requirements": "OS: Windows 7, 32-bit Processor: 2GHz Memory: 1 GB RAM Graphics: Nvidia GTX 460 DirectX: Version 11 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7, 64-bit Processor: 2GHz Memory: 2 GB RAM Graphics: Nvidia GPU GeForce GTX 660 DirectX: Version 11 Storage: 400 MB available space",
+    "reviews": []
+}

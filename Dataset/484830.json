@@ -1,0 +1,45 @@
+{
+    "app_id": 484830,
+    "name": "Deep Blue 3D Maze",
+    "release_date": "2017-05-17",
+    "developer": [
+        "Ice Code Games"
+    ],
+    "publisher": [
+        "Ice Code Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 39,
+    "negative_ratings": 22,
+    "price": 1.99,
+    "description": "A multi-dimensional gaming experience beyond anything you’ve ever played before. Try to control the constantly rolling ball which moves in a three-dimensional maze, collect gravitons, open the portal and escape before the platform explodes. And most important beware of everything that is purple!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/484830/header.jpg?t=1510091400",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Intel Celeron 2.4 Ghz Memory: 768 MB RAM Graphics: GeForce 7300 GT 256mb; for VR support: GeForce GTX 970 (AMD Radeon R9 290) DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

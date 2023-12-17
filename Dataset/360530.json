@@ -1,0 +1,45 @@
+{
+    "app_id": 360530,
+    "name": "WE ARE DOOMED",
+    "release_date": "2015-04-21",
+    "developer": [
+        "Vertex Pop"
+    ],
+    "publisher": [
+        "Vertex Pop"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Twin Stick Shooter",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 19,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "WE ARE DOOMED is a twin-stick shooter where you zap polygon baddies with an absurdly overpowered laserbeam. Dive head-first into the action with reckless ambition, charge the SUPERBEAM, and zap everything out of existence in an instant.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360530/header.jpg?t=1529343677",
+    "minimum_requirements": "OS: Windows XP (SP3), Vista, 7 or 8 Processor: Intel Core 2 Duo 1.6 GHz or greater Memory: 1 GB RAM Graphics: OpenGL 2.0 compatible graphics card Storage: 60 MB available space Additional Notes: A game controller is highly recommended, but not required.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The mission statement of Vertex Pop is to use satisfying procedurally generated imagery in a quick to learn, hard to master play-style. This is absolutely accomplished here.   Controls: since I have this on the PC I tried with both the 360-style controller via USB and the keyboard/mouse, and I enjoy them both for different reasons. Everything is tight and responsive, and at no point are you frustrated by it.  Visuals: Like VertexPop's earlier entry Orbit1, the visuals are simple and stunning at the same time. Since they're procedurally generated, not only are they performant, they flow very seamlessly along with the motion of the gameplay itself in a very aesthetically pleasing and informative way. My only gripe is that sometimes the pulsing backdrop obscures some of the potentially dangerous enemies. This feels intentional, but it was the only time I got frustrated.  Audio: This is by far my favorite part. Though it's not necessarily a fully dynamic music system since it uses a static soundtrack, the sound effects synchronize with the music in a very satisfying way, and you feel very much like everything is coming together in an awesome way that transcends the scoring portion of the game.  Overall: Well worth the price of admission, this game will keep you company when you're bored with AAA titles, and you'll find yourself coming back to it when you're trying to engage your subconscious between work tasks. Almost as effective as a walk in the park!   ",
+            "review_score": "1"
+        }
+    ]
+}

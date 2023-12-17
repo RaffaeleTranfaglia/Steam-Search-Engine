@@ -1,0 +1,43 @@
+{
+    "app_id": 640300,
+    "name": "Run Of Mydan",
+    "release_date": "2017-07-28",
+    "developer": [
+        "Virtew"
+    ],
+    "publisher": [
+        "Virtew"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Adventure",
+        "Action"
+    ],
+    "achievements": 7,
+    "positive_ratings": 29,
+    "negative_ratings": 3,
+    "price": 14.99,
+    "description": "Run Of Mydan is a flying VR Shooter set in a breathtakingly beautiful world. It features a Singleplayer/Co-op campaign, and a Multiplayer Arena with up to 10 players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/640300/header.jpg?t=1539955488",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Intel i7 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX970 DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i7 Memory: 16 GB RAM Graphics: Nvidia Geforce GTX1080 DirectX: Version 12 Network: Broadband Internet connection Storage: 10 GB available space",
+    "reviews": []
+}

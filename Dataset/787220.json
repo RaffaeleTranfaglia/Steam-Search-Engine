@@ -1,0 +1,43 @@
+{
+    "app_id": 787220,
+    "name": "Annotation of Love",
+    "release_date": "2018-03-27",
+    "developer": [
+        "Tombas Tomáš Basovnik",
+        "Martin Hoferek"
+    ],
+    "publisher": [
+        "Tombas Tomáš Basovnik",
+        "Martin Hoferek"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 14,
+    "positive_ratings": 57,
+    "negative_ratings": 16,
+    "price": 0.0,
+    "description": "Annotation of Love is a set of three mini-games and three Czech songs (EN, DE subtitles). While listening to original songs you will experience particular stages of love and critical points of relationships. The main protagonist He experiences phases of being in love with She step by step.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/787220/header.jpg?t=1523544078",
+    "minimum_requirements": "OS: Windows 7, 8, 10 or newer Processor: 1.8 GHz Memory: 2 GB RAM Graphics: 256 MB Video Memory DirectX: Version 9.0c Storage: 170 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

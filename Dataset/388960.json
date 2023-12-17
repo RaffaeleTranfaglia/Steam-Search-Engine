@@ -1,0 +1,43 @@
+{
+    "app_id": 388960,
+    "name": "Torn Tales",
+    "release_date": "2017-01-17",
+    "developer": [
+        "Twistplay"
+    ],
+    "publisher": [
+        "Chilled Mouse"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 25,
+    "negative_ratings": 17,
+    "price": 8.29,
+    "description": "Lead your party of 3 heroes on their quest to repair the torn pages of folklore. Evil has destroyed the tales you love. Hack monsters and slash enemies throughout the Torn Tales in this real time squad based RPG.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/388960/header.jpg?t=1484685552",
+    "minimum_requirements": "OS: Windows 7 or above Processor: Intel Core i5 4th generation or above Memory: 8 GB RAM Graphics: Geforce GT 720 / Intel Iris 5100 or better Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

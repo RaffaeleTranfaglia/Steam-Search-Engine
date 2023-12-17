@@ -1,0 +1,42 @@
+{
+    "app_id": 729570,
+    "name": "222 Hearts",
+    "release_date": "2017-10-20",
+    "developer": [
+        "REMIMORY"
+    ],
+    "publisher": [
+        "REMIMORY"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 8,
+    "positive_ratings": 36,
+    "negative_ratings": 11,
+    "price": 1.69,
+    "description": "‘222 Hearts’ is an action platformer that utilizes the dash skill.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/729570/header.jpg?t=1516059274",
+    "minimum_requirements": "OS: Windows XP SP2 or later Processor: 2.0 GHz or faster Memory: 1 GB RAM Graphics: DirectX 9.0c compatible video card with shader model 2.0 support DirectX: Version 9.0c Storage: 100 MB available space Sound Card: DirectX compatible sound card Additional Notes: The game is recommended to play with keyboard&amp;mouse.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 549740,
+    "name": "Indie Game Sim",
+    "release_date": "2016-12-08",
+    "developer": [
+        "Lost Decade Games"
+    ],
+    "publisher": [
+        "Lost Decade Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Simulation",
+        "Action"
+    ],
+    "achievements": 31,
+    "positive_ratings": 50,
+    "negative_ratings": 5,
+    "price": 5.59,
+    "description": "Become an indie game developer! Make your own games by hand and publish them on a fantasy market like Steam. Earn fans, receive brutal reviews, and battle your inner demons. Can you become the creator of your dreams?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/549740/header.jpg?t=1482121856",
+    "minimum_requirements": "OS: Windows 7 Processor: 3GHz Dual Core Memory: 4 GB RAM Graphics: Dedicated graphics card Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 8/10 Processor: 3GHz Dual Core Memory: 8 GB RAM Graphics: Dedicated graphics card Storage: 200 MB available space",
+    "reviews": []
+}

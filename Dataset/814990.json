@@ -1,0 +1,43 @@
+{
+    "app_id": 814990,
+    "name": "Super X Chess",
+    "release_date": "2018-10-24",
+    "developer": [
+        "Mlyst"
+    ],
+    "publisher": [
+        "Mlyst"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Board Game"
+    ],
+    "achievements": 9,
+    "positive_ratings": 4,
+    "negative_ratings": 0,
+    "price": 5.49,
+    "description": "Chess game where you can combine your own pieces. The combined piece then has the ability to move as both pieces that got combined. It's improving chess by making it more exciting &amp; dynamic. Super X Chess is more about creativity and less about memorization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/814990/header.jpg?t=1555702244",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 Processor: 1.0 GHz CPU Memory: 1 GB RAM Graphics: Intel HD Graphics 3000 or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 250 MB available space Sound Card: DirectX 9.0c compatible Additional Notes: Mouse/Trackpad",
+    "recommended_requirements": null,
+    "reviews": []
+}

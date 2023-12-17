@@ -1,0 +1,43 @@
+{
+    "app_id": 365980,
+    "name": "Useless Box",
+    "release_date": "2018-10-02",
+    "developer": [
+        "ORBI Games"
+    ],
+    "publisher": [
+        "ORBI Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 6,
+    "negative_ratings": 8,
+    "price": 0.79,
+    "description": "Useless Box - first person arcade game, where is sly villain who wants to take over the world, destroying the country and appropriating them in the game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/365980/header.jpg?t=1554242469",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows XP / Vista / 7 / 8 / 10 - (64/32) bits Processor: 2.2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: 512 MB NVIDIA GeForce 9800GTX / ATI Radeon HD 3xxx series DirectX: Version 11 Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows XP / Vista / 7 / 8 / 10 - (64/32) bits Processor: 2.8 GHz Quad Core CPU Memory: 4 GB RAM Graphics: 2GB NVIDIA GTX 460 / ATI Radeon HD 6850 or better DirectX: Version 11 Storage: 1 GB available space Sound Card: DirectX Compatible",
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 836460,
+    "name": "Etherian",
+    "release_date": "2018-11-08",
+    "developer": [
+        "Simulacrum Interactive"
+    ],
+    "publisher": [
+        "Simulacrum Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 21,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 15.49,
+    "description": "Traverse the fractured scapes to test your skills, uncover the stories of the ancients, or explore the mystical world around you in search of secrets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/836460/header.jpg?t=1550521659",
+    "minimum_requirements": "OS: Windows 7/8/8.1/10 (64 bit) Processor: Intel i5-4590 or AMD FX 8350 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970/AMD Radeon R9 290 equivalent or greater",
+    "recommended_requirements": "OS: Windows 7/8/8.1/10 (64 bit) Processor: Intel i7 6500k equivalent or greater Memory: 16 GB RAM Graphics: NVIDIA GTX 1060 or equivalent",
+    "reviews": []
+}

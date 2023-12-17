@@ -1,0 +1,44 @@
+{
+    "app_id": 610180,
+    "name": "The Jackbox Party Pack 4",
+    "release_date": "2017-10-18",
+    "developer": [
+        "Jackbox Games, Inc."
+    ],
+    "publisher": [
+        "Jackbox Games, Inc."
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Local Multiplayer"
+    ],
+    "achievements": 20,
+    "positive_ratings": 284,
+    "negative_ratings": 54,
+    "price": 18.99,
+    "description": "The fourth pack in this storied party game franchise features Fibbage 3 and its new game mode, Fibbage: Enough About You; the twisted web game Survive the Internet; the dating contest Monster Seeking Monster; the deranged debate match Bracketeering; and the one-up art game Civic Doodle.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/610180/header.jpg?t=1546966515",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 2.0 Ghz Quad Core or higher Memory: 4 GB RAM Network: Broadband Internet connection Storage: 1 GB available space Sound Card: Integrated",
+    "recommended_requirements": null,
+    "reviews": []
+}

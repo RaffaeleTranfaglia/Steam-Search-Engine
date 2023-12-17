@@ -1,0 +1,41 @@
+{
+    "app_id": 363270,
+    "name": "O3DX",
+    "release_date": "2016-01-22",
+    "developer": [
+        "Egamea Game Studios"
+    ],
+    "publisher": [
+        "Egamea Game Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Indie",
+        "Racing",
+        "Action"
+    ],
+    "achievements": 22,
+    "positive_ratings": 37,
+    "negative_ratings": 24,
+    "price": 5.59,
+    "description": "Prepare yourself for fast tracks, furious physics and a rush of adrenaline as you tackle daring obstacles and puzzles. O3DX will be the ride of your life!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/363270/header.jpg?t=1466492995",
+    "minimum_requirements": "OS: Windows Vista SP2 or Windows 7 Processor: Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz Memory: 2 GB RAM Graphics: DirectX® 10 compliant, 512 Mb video memory DirectX: Version 11 Storage: 2 GB available space Sound Card: DirectX 9.0c compatible",
+    "recommended_requirements": "OS: Windows 7 64-bit / Windows 8 Processor: Quad-core Intel or AMD CPU Memory: 4 GB RAM Graphics: DirectX® 11 compliant, 1024 Mb video memory Storage: 2 GB available space Sound Card: DirectX 9.0c compatible",
+    "reviews": []
+}

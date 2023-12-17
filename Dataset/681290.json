@@ -1,0 +1,39 @@
+{
+    "app_id": 681290,
+    "name": "Hare",
+    "release_date": "2017-09-27",
+    "developer": [
+        "Zelun",
+        "Tio_jolo"
+    ],
+    "publisher": [
+        "Zelun"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 8,
+    "positive_ratings": 9,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "The Running Hare is an Endless Runner where a God defies a man to run to find his girl.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/681290/header.jpg?t=1506540321",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: Intel Core i3 Memory: 1 GB RAM Graphics: Dedicated graphics card DirectX: Version 8.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7 Memory: 1 GB RAM Graphics: Dedicated graphics card DirectX: Version 12 Storage: 100 MB available space",
+    "reviews": []
+}

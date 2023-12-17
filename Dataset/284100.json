@@ -1,0 +1,52 @@
+{
+    "app_id": 284100,
+    "name": "Unclaimed World",
+    "release_date": "2016-10-04",
+    "developer": [
+        "Refactored Games OÜ"
+    ],
+    "publisher": [
+        "Refactored Games OÜ"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Simulation",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 84,
+    "negative_ratings": 60,
+    "price": 13.99,
+    "description": "Manage interstellar pioneers and their descendants in this detailed sci-fi colony sim. Centuries after planetfall, colonists are still struggling to gain foothold on their lush and alien planet. You settle on the frontier by carefully managing resources, production and different personalities.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/284100/header.jpg?t=1487698153",
+    "minimum_requirements": "OS: Windows 7, Windows 8, Windows 8.1, Windows 10 Memory: 1 GB RAM Graphics: DirectX 10 capable graphics card DirectX: Version 10 Storage: 660 MB available space Additional Notes: Windows Media Player is required. The game does not support Intel integrated graphics cards. Also, some nVidia chipsets from year 2008/2009 are not supported: GeForce 9500 GT, GeForce GTX 280, GeForce GTX 285 and probably other 200-series cards.",
+    "recommended_requirements": "OS: 64-bit OS recommended. Additional Notes: Supports high-dpi monitors with a magnification feature. Supports monitor selection for extended desktop with multiple monitors.",
+    "reviews": [
+        {
+            "review_text": "Well, having exited early access, I figured it was time to update the review as well. The game definately started on shakey ground. It had a lot of growing pains during early access....   The game has grown up. The systems that are in game work respectably. There are still a couple issues, but the devs are working to correct those, and bring us new possiblities. It has become a real simulator, where you actually can build what you want (within reason).  Now that it's released, I would definately recommend this for people who enjoy the style. It's not the most stellar (no pun intended) presentation, but it is definately fun to play, works pretty smoothly, and will give you several hours of enjoyment at minimum.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is definitely challenging and fun - that is one aspect that I am enjoying so far.  However, graphic could have been tinkered with a bit. I have trouble telling where the water starts and the ground begins. Lastly, moving structures is out of the question (you can't move turnip shell huts). But I can live with that - just wait for them to wander through your camp and kill them.  The only thing I find annoying with this game is the dog - it literally chases everything and tries to kill it. Good way to explore the map; super annoying later on. But besides that - game is really really fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "it do need a mega improve,   UI is relatively massive, make it bigger and organised can be good for my sight   AI is strange, cause i gusse i cant control those charaters. As a matter of fact, they need to pick up items mutiple times to achieve the goals. I think they are fetching tools, but i dont think it is nessesary to dont have an inventory. And strange AI becomes terrible in battle and some times deadly. I may can work out how it works after mutiple attempts, but there are many other games in my inventory, thus i would better click quit button.  i may come back to this game when it is fully developed",
+            "review_score": "-1"
+        }
+    ]
+}

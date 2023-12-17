@@ -1,0 +1,47 @@
+{
+    "app_id": 882620,
+    "name": "Zeon 25",
+    "release_date": "2018-11-09",
+    "developer": [
+        "Jumbl Games",
+        "SnagBox Studio"
+    ],
+    "publisher": [
+        "Jumbl Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 12,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 2.89,
+    "description": "This is your next great opportunity to dive into 16-bit classic consoles era and master your play-skill. Zeon 25 is an amazing 2D Shoot’Em Up experience with 90’s vibes and hardcore gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/882620/header.jpg?t=1542310360",
+    "minimum_requirements": "OS: Windows 7 SP1 or greater Processor: Intel® Pentium® B970, AMD A4 6300B equivalent or better Memory: 512 MB RAM Graphics: Intel® HD Graphics, AMD Radeon™ HD 8370D equivalent or better DirectX: Version 9.0 Storage: 128 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 or greater Processor: Intel® Core i3-3210, AMD A4-4020 equivalent or better Memory: 1 GB RAM Graphics: Intel® HD Graphics, AMD Radeon™ HD 7480D equivalent or better DirectX: Version 11 Storage: 256 MB available space",
+    "reviews": []
+}

@@ -1,0 +1,54 @@
+{
+    "app_id": 263120,
+    "name": "Ludwig",
+    "release_date": "2014-06-06",
+    "developer": [
+        "ovos"
+    ],
+    "publisher": [
+        "ovos"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 27,
+    "negative_ratings": 30,
+    "price": 6.99,
+    "description": "Join Ludwig on an exciting journey through the world of physics. Find out how energy is created from fire, water, wind and sun and use them cleverly to protect the Robotronics on Unitron against the impending energy collapse! Ludwig is a new type of learning game, which not only conveys knowledge, but is also really fun to play!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/263120/header.jpg?t=1447359401",
+    "minimum_requirements": "OS: XP (SP3)  /  Vista  /  7  /  8 Processor: Intel Celeron 2.6 GHz Memory: 2 GB RAM Graphics: Geforce 8400 GS DirectX: Version 9.0c Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: 7  / 8 Processor: Intel Core i5 Memory: 4 GB RAM Graphics: Geforce GTX 760 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": [
+        {
+            "review_text": "Despite bad first impressions when I started playing this game, it has been improved. Especially now that they have listened to the customers and have removed the login page.  This game is really good. Here are my thoughts so far:  PROS  - It is very easy to learn. The controls are weird but easy to understand and get used to. The tutorial helps a lot. - The gameplay is fun. The puzzles are interesting and fun. - The graphics are good and the artwork is pretty. - The game is very educational. While most of it is learnt it high school, I managed to learn something from this game.  CONS  - No option for windowed mode or ability to change resolution. - The game has crashed once, even though it was on medium quality for graphics on a very high performance PC. Maybe this issue has already been fixed. - There is no option to save in the menu. You have to find the save points in the game in order to save, which there are lots of them around. However, in a rush, it might be hard to find one and walk to it in order to save the game.  After a lot of consideration and thought I have decided to recommend this game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The English translation is abyssmal, and the game has a lot of text. Some very annoying design decisions evident right from the start help this conform to the stereotype about educational games. Maybe if they had focused less on the minigames and promoted the core experience, which is sort of a free-roaming adventure game?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "very basic 3rd person padventure with gravity related puzzles. seems to target very young audiences and has way too much text and tutorial stuff going on.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Crash-to-desktop twice in a little over an hour, once during the tutorial. Fun idea, but the quality's lacking.",
+            "review_score": "-1"
+        }
+    ]
+}

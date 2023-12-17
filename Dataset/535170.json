@@ -1,0 +1,39 @@
+{
+    "app_id": 535170,
+    "name": "Climbtime",
+    "release_date": "2017-05-03",
+    "developer": [
+        "Saluda Systems"
+    ],
+    "publisher": [
+        "Saluda Systems"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "VR"
+    ],
+    "achievements": 9,
+    "positive_ratings": 20,
+    "negative_ratings": 16,
+    "price": 0.0,
+    "description": "Climbtime - jump and parkour climb up procedurally generated levels for best self or leaderboard time to the top. glide close to rock towers to score points on leaderboard without crashing. Hunt down small crystals within the level in crystal hunt mode or explore the real-world based terrain.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/535170/header.jpg?t=1513711996",
+    "minimum_requirements": "OS: Windows Vista SP2 / 7 SP1 / 8 / 10 Processor: Core i3 / AMD A6 2.4Ghz Memory: 1 GB RAM Graphics: NVIDIA GeForce GT 240 / AMD Radeon HD 4670 / Intel HD Graphics 4000 DirectX: Version 10 Storage: 1200 MB available space",
+    "recommended_requirements": "OS: Windows 7 SP1 / 8 / 10 Processor: Core i5 / AMD FX 2.4Ghz Memory: 2 GB RAM Graphics: NVIDIA GeForce GTX 470 / AMD Radeon HD 6870 DirectX: Version 11 Storage: 1200 MB available space",
+    "reviews": []
+}

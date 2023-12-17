@@ -1,0 +1,50 @@
+{
+    "app_id": 352190,
+    "name": "Spirit of War",
+    "release_date": "2015-03-12",
+    "developer": [
+        "G-OLD"
+    ],
+    "publisher": [
+        "Plug In Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "World War I",
+        "Turn-Based Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 36,
+    "negative_ratings": 24,
+    "price": 6.99,
+    "description": "Spirit of War: The Great War is a turn-based strategy game set during World War I. Drawing inspiration from board games classics, Spirit Of War is a unique arcade/strategy experience.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352190/header.jpg?t=1447369658",
+    "minimum_requirements": "OS: Windows Vista Processor: Intel Core 2 Duo 3Ghz Memory: 2 GB RAM Graphics: DX9 capabilities DirectX: Version 9.0 Storage: 110 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2nd generation Intel Core i5 Memory: 4 GB RAM Graphics: 2 Gb Nvidia or AMD DX9 capabilities DirectX: Version 9.0 Storage: 110 MB available space",
+    "reviews": [
+        {
+            "review_text": "Nice game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Apart from certain similarities, this is not a remake of 'Historyline: 1914 - 1918' a.k.a. 'The Great War: 1914 - 1918', as stated in some of the reviews. Though look &amp; feel (and some of the rules) seem familiar, it lacks the depth of its spiritual predecessor. 'Sprit of War' has an awkward interface, ugly graphics and the price is way too high. Besides, the game has some small, but pesky bugs.  I cant understand why anyone should recommend this game. If you purchase this game as part of a bundle, try it. But don't pay that crazy price of 10$ on Steam, better get DOS-Box and play the classic.  4/10: This is not the game you are looking for.",
+            "review_score": "-1"
+        }
+    ]
+}

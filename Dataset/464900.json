@@ -1,0 +1,50 @@
+{
+    "app_id": 464900,
+    "name": "Pitfall Planet",
+    "release_date": "2016-05-02",
+    "developer": [
+        "Bonfire Games"
+    ],
+    "publisher": [
+        "adamgryu"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 38,
+    "positive_ratings": 33,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Pitfall Planet is a couch co-op puzzle-solving adventure game set on a distant planet, where you'll need to use teamwork to complete levels and explore the caverns below! Pitfall Planet will put your friendship to the test; will both of you make it out alive?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/464900/header.jpg?t=1462204979",
+    "minimum_requirements": "OS: Windows XP SP2+ (and later) Processor: Intel Core i3 2.00 GHz or AMD equivalent Memory: 4 GB RAM Graphics: NVIDIA GeForce GTS 450 or higher with 1GB Memory DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": "OS: Windows 7 (64-bit) Processor: Intel Core i5 2.60GHz or AMD equivalent Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 660 or higher with 2GB Memory DirectX: Version 11 Storage: 400 MB available space Additional Notes: At least one controller is recommended.",
+    "reviews": [
+        {
+            "review_text": "Great little game with cute animations , fun (although not especially challenging) puzzles and nice, if soporific, music. Well worth the mdoest price tag.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pitfall Planet is a great couch co-op game to play with a friend. It's got great puzzles, cool secrets, and lots of hats. The game is very enjoyable to play for the puzzles alone, but the other half of fun comes from screwing around with your friend.",
+            "review_score": "1"
+        }
+    ]
+}

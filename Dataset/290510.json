@@ -1,0 +1,41 @@
+{
+    "app_id": 290510,
+    "name": "GNOG",
+    "release_date": "2018-07-17",
+    "developer": [
+        "KO_OP"
+    ],
+    "publisher": [
+        "Double Fine Presents"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 20,
+    "positive_ratings": 129,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "GNOG is a tactile 3D puzzle game about exploring whimsical monster heads and the secret worlds inside them. Filled with eye-catching designs, lively interactions, and a rich, reactive soundtrack, the hand-crafted heads come to life as you grab, poke, spin, pull, and play with each charming contraption.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/290510/header.jpg?t=1539115451",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 or later Процессор: 2GHz 64-Bit CPU Оперативная память: 2 GB ОЗУ Видеокарта: Dedicated graphics card with 1GB memory DirectX: Версии 9.0 Место на диске: 2 GB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 10 or later Процессор: Intel Core i5-4590 or AMD FX 8350 Оперативная память: 4 GB ОЗУ Видеокарта: NVIDIA GTX 970 or AMD Radeon R9 290 or higher Место на диске: 2 GB Дополнительно: Recommended Requirements for VR support",
+    "reviews": []
+}

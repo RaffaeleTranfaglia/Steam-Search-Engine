@@ -1,0 +1,40 @@
+{
+    "app_id": 869780,
+    "name": "Super Golf 2018",
+    "release_date": "2018-06-11",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Sports"
+    ],
+    "achievements": 34,
+    "positive_ratings": 11,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Computer version of the classic Golf game. Try to get into the hole and score as many points.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/869780/header.jpg?t=1528727035",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space",
+    "reviews": []
+}

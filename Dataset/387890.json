@@ -1,0 +1,40 @@
+{
+    "app_id": 387890,
+    "name": "Radial Impact",
+    "release_date": "2015-08-03",
+    "developer": [
+        "Devin Sherry"
+    ],
+    "publisher": [
+        "Devin Sherry"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "Radial Impact is a fast-paced, single-player game that challenges players’ reflexes by matching the sizes of two circles; one static and one dynamic.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/387890/header.jpg?t=1447377133",
+    "minimum_requirements": "OS: Microsoft Windows 7 or higher Processor: 1.80GHz Processor Memory: 2 GB RAM Graphics: Video card with 512MB of VRAM or better DirectX: Version 9.0 Storage: 150 MB available space Additional Notes: You may be able to play this game will lower quality specifications due to the simplicity of the game itself.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Three game modes, Time Trial, Classic, Wave, one game mechanic. Click the circle.  The music is mediocre, but it's the best thing the game has going for it.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 332500,
+    "name": "GRAV",
+    "release_date": "2015-01-08",
+    "developer": [
+        "BitMonster, Inc."
+    ],
+    "publisher": [
+        "BitMonster, Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Survival",
+        "Open World"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3484,
+    "negative_ratings": 3010,
+    "price": 14.99,
+    "description": "GRAV is a sand box experience where you explore a multitude of planets, hunt strange alien creatures, build and defend outposts, craft weapons and armor, and attempt to survive against other players in a hostile environment.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/332500/header.jpg?t=1478820787",
+    "minimum_requirements": "OS: 7 64-bit Processor: Intel Core 2 Duo 2 GHz or Equivalent CPU Memory: 8 GB RAM Graphics: GeForce GTX 560 or Radeon HD 7790 or Equivalent card DirectX: Version 9.0c Storage: 5 GB available space Additional Notes: The game is EARLY ACCESS and likes Memory.  4 GB will not work well for larger planets",
+    "recommended_requirements": "OS: 7 64-bit Processor: Intel i5 2.5 GHz or Equivalent CPU Memory: 8 GB RAM Graphics: GeForce GTX 760 or Radeon HD 7950 / R9 280 or Equivalent card DirectX: Version 9.0c Storage: 5 GB available space Additional Notes: If you are planning to run a server and a client on the same machine we recommend 12-16 gigs of ram.",
+    "reviews": []
+}

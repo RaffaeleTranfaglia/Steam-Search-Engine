@@ -1,0 +1,51 @@
+{
+    "app_id": 366620,
+    "name": "Broken Bots",
+    "release_date": "2016-06-08",
+    "developer": [
+        "Bunnycopter"
+    ],
+    "publisher": [
+        "Bunnycopter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Twin Stick Shooter",
+        "Action"
+    ],
+    "achievements": 20,
+    "positive_ratings": 33,
+    "negative_ratings": 5,
+    "price": 4.99,
+    "description": "Bestow double fire rate to your comrade or bastardize your enemy with reverse controls! Broken Bots is arcade style multiplayer robot warfare where players dish out power-ups to teammates &amp; glitches to foes. Customize weapons, passives, &amp; skills then battle it out in CTF, Team Deathmatch &amp; KOTH!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/366620/header.jpg?t=1465415707",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core 2.6GHz Memory: 2 GB RAM Graphics: DirectX 9.0 compatible card with 512MB DirectX: Version 9.0 Network: Broadband Internet connection Storage: 500 MB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7, 8, 8.1 Processor: Dual Core 2.8GHz Memory: 4 GB RAM Graphics: DirectX 9.0 compatible card with 1GB DirectX: Version 9.0 Network: Broadband Internet connection Storage: 500 MB available space Sound Card: DirectX compatible sound card",
+    "reviews": [
+        {
+            "review_text": "Buy it on sale only because not many people play online but you can have some great matches with bots.It is a grind to get levels for upgrades and it still feels like its a EA game.",
+            "review_score": "1"
+        }
+    ]
+}

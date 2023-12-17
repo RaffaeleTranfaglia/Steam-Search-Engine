@@ -1,0 +1,40 @@
+{
+    "app_id": 900270,
+    "name": "Lonk's Adventure",
+    "release_date": "2018-10-22",
+    "developer": [
+        "Pixelatto"
+    ],
+    "publisher": [
+        "Pixelatto"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 100,
+    "positive_ratings": 86,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "I'm the first and only truly non-linear game, with 100 different endings. Don't just wishlist me. I'm not that expensive... also, look at those reviews!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/900270/header.jpg?t=1554558350",
+    "minimum_requirements": "OS: Windows 7 SP1+ Processor: SSE2 compatible instruction set Memory: 512 MB RAM Graphics: DX10 (shader model 4.0) compatible DirectX: Version 10 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+    "app_id": 324140,
+    "name": "Kalimba",
+    "release_date": "2015-04-22",
+    "developer": [
+        "Press Play"
+    ],
+    "publisher": [
+        "Microsoft Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Local Co-Op"
+    ],
+    "achievements": 41,
+    "positive_ratings": 205,
+    "negative_ratings": 14,
+    "price": 6.99,
+    "description": "Jump, switch and fly your way through mind-bending subterranean puzzles in this stunning new platforming adventure from the award-winning Press Play!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/324140/header.jpg?t=1538764193",
+    "minimum_requirements": "OS: Windows 7 or newer Processor: 2 GHZ, dual core Memory: 4 GB RAM Graphics: Intel HD5100 (Iris) / GeForce GT630 or better DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: 2 GHZ, dual core Memory: 4 GB RAM Graphics: GeForce GT 640 / Radeon HD7750 or better DirectX: Version 11 Storage: 2 GB available space Additional Notes: An Xbox360 or XboxOne Game Controller",
+    "reviews": [
+        {
+            "review_text": "I'm the kind of guy who really likes co-op platformers. So I'd been chomping at the bit since I heard about the game last December. And Kalimba did not disappoint! Some notes:  * stacking is harder than it looks... you need a ledge or a hole or something to do it * more platform-y than puzzle-y * difficult, but not extremely so (as some reviews implied) * did not cause any existential marriage crises (as some reviews warned) * got very exciting at some points * similar feel to ibb&amp;obb, but we liked Kalimba much better * visual style is very nice * lots of jokes that are ... somewhat funny  The scoring system is up to 70 points for getting all the goodies, minus 1 for each death. The goodies are kept even when you die. So you can get a pretty good score without being amazing, but it's quite hard to get all 70 points (and a golden totem).  The game is VERY short. We completed all 20 co-op levels (so including dark void DLC) in 3 hours. We didn't get 70 points in all the levels, and I'd say there's about a 50-50 chance that we care enough to go back. Many of the levels introduced interesting gamplay mechanics, but by the end thing started to feel same-y.  So if you want to play a co-op puzzle platformer and you and your partner are both decent at platformers, then get this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "cool",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It should be a good one for the guy who love puzzle and act game.  U may feel hard at the first time, cas it a little difficult to control two character and make sure all of them are alive.   I'm a little disappointed that the game is not so hard in latter part on Day mode.  Night mode is good.  I try to play the coop part by myself. I think it interesting playing it with friends.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Satisfying puzzles, tight controls, and great art. Everything feels very polished and well-thought-out. The puzzles are difficult, but not ridiculously so; when you fail, it feels like it's your fault. Great game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is bad :)",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 534680,
+    "name": "Dolphin Up",
+    "release_date": "2017-05-04",
+    "developer": [
+        "Rawkins Games"
+    ],
+    "publisher": [
+        "Rawkins Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 13,
+    "positive_ratings": 12,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "A fun, vibrant, 2-minute game with surprising depth, Dolphin Up lets you do amazing tricks with a porpoise. Successful flips, spins and tailslides build speed, allowing you to jump higher and soar into the stars.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/534680/header.jpg?t=1495233546",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Intel Core 2 Duo equivalent or better Memory: 2 GB RAM Graphics: Intel HD 4000 or better, OpenGL 2 compatible Storage: 55 MB available space Additional Notes: Screen Resolution of 1280x720 or higher.",
+    "recommended_requirements": null,
+    "reviews": []
+}

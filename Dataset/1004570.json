@@ -1,0 +1,42 @@
+{
+    "app_id": 1004570,
+    "name": "blocks",
+    "release_date": "2019-01-25",
+    "developer": [
+        "BlueRichter"
+    ],
+    "publisher": [
+        "BlueRichter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Strategy"
+    ],
+    "achievements": 38,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "blocks is a minimalist platfomer designed to be easy to pick up and fun to play. As you progress, the game gets increasingly more difficult, requiring you to master power-ups and timing to win!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1004570/header.jpg?t=1548457332",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Intel® Pentium® 4 2.0 GHz equivalent or faster processor Memory: 600 MB RAM Graphics: Any GPU or integrated graphics Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

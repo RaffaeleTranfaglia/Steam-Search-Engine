@@ -1,0 +1,40 @@
+{
+    "app_id": 698830,
+    "name": "Puzzle Dating",
+    "release_date": "2017-09-14",
+    "developer": [
+        "M. Hanka"
+    ],
+    "publisher": [
+        "Liu Lidan"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 15,
+    "positive_ratings": 20,
+    "negative_ratings": 15,
+    "price": 0.79,
+    "description": "Hello! I'm a matchmaking game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/698830/header.jpg?t=1505383677",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: 1.5 GHz Memory: 2 GB RAM Graphics: 512 mb Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+    "app_id": 321160,
+    "name": "Timber Tennis: Versus",
+    "release_date": "2018-11-08",
+    "developer": [
+        "Digital Melody"
+    ],
+    "publisher": [
+        "Crunching Koalas"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Sports",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 17,
+    "negative_ratings": 12,
+    "price": 1.69,
+    "description": "A new addition to the Timberman family - a franchise enjoyed by more than 30 million players! Take part in the annual Timber Tennis world championships - beat the single player campaign or challenge your friends in local and online versus modes!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/321160/header.jpg?t=1543581957",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.4Ghz or Higher Memory: 1 GB RAM Graphics: OpenGL 2.0 compatible video card with 256 MB shared or dedicated RAM (ATI or NVIDIA) DirectX: Version 9.0c Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

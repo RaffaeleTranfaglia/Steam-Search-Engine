@@ -1,0 +1,46 @@
+{
+    "app_id": 509170,
+    "name": "VRNinja",
+    "release_date": "2016-09-14",
+    "developer": [
+        "OutOfBounds Software Solutions Inc"
+    ],
+    "publisher": [
+        "OutOfBounds Software Solutions Inc"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 11,
+    "positive_ratings": 7,
+    "negative_ratings": 8,
+    "price": 6.99,
+    "description": "VRNinja is a fast-paced virtual reality game that challenges players to dodge their way past flurries of deadly weapons as they train to become the ultimate ninja master. Set in the scenic landscapes and locales of Japan, VRNinja transports players into a fully immersive virtual world where quick reflexes and razor-sharp focus are...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509170/header.jpg?t=1489773248",
+    "minimum_requirements": "OS: Windows 7 Processor: NVIDIA GTX 970 / AMD 290 equivalent or greater Memory: 8 GB RAM Graphics: Intel i5-4590 equivalent or greater DirectX: Version 10 Storage: 912 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: NVIDIA GTX 970 / AMD 290 equivalent or greater Memory: 8 GB RAM Graphics: Intel i5-4590 equivalent or greater DirectX: Version 11 Storage: 912 MB available space",
+    "reviews": [
+        {
+            "review_text": "Beautiful VR game, really nice graphics and challenging. Recommended :D",
+            "review_score": "1"
+        }
+    ]
+}

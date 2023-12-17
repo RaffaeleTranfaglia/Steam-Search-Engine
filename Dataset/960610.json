@@ -1,0 +1,36 @@
+{
+    "app_id": 960610,
+    "name": "The Gameshow",
+    "release_date": "2019-03-13",
+    "developer": [
+        "Biscuit Play"
+    ],
+    "publisher": [
+        "Biscuit Play"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "FPS"
+    ],
+    "achievements": 0,
+    "positive_ratings": 0,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "The Gameshow is an FPS game where you participate in a dangerous survival game. This is not your game. You, together with other players, have been kidnapped and brought to a forest. Now, surviving is your only objective.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/960610/header.jpg?t=1552514021",
+    "minimum_requirements": "OS: Windows XP, 7, 8, 10 Processor: Dual Core 2.4 GHz Memory: 1 GB RAM Graphics: GeForce GTX 550 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows XP, 7, 8, 10 Processor: Dual Core 2.4 GHz Memory: 2 GB RAM Graphics: GeForce GTX 970 Storage: 2 GB available space",
+    "reviews": []
+}

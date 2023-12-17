@@ -1,0 +1,48 @@
+{
+    "app_id": 389740,
+    "name": "D/Generation HD",
+    "release_date": "2015-10-23",
+    "developer": [
+        "West Coast Software"
+    ],
+    "publisher": [
+        "West Coast Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "tags": [
+        "Adventure",
+        "Retro",
+        "Puzzle"
+    ],
+    "achievements": 40,
+    "positive_ratings": 7,
+    "negative_ratings": 27,
+    "price": 7.19,
+    "description": "A virus has escaped at Genoq HQ in London, and Derrida, the lead scientist at Genoq, has asked you to help save the day. Travel up through the Genoq skyscraper rescuing the stranded employees and putting an end to the escaped virus.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/389740/header.jpg?t=1455103972",
+    "minimum_requirements": "Memory: 4 GB RAM DirectX: Version 11",
+    "recommended_requirements": "Memory: 8 GB RAM DirectX: Version 11",
+    "reviews": [
+        {
+            "review_text": "  Crashes on startup, every time",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is coming to consoles? They usually have *some* quality control. This game is shockingly poor. I played the original on the Amiga and loved it at the time... but obviously times have changed, as have tastes... and basic game design. From the outset the game is 30 years out of date, and it's not even that old. I wanted to love this so badly, as other remakes such as Chaos Reborn and Day of the Tentacle really recaptured fond memories from my youth. But this game, sadly, just seems like a complete anachronism. The animations are pathetic, hit detection is basically non-existent, and the gameplay is akin to an Amiga PD demo-disk circa 1993. I hate to leave this game a bad review, I really do. But it's maybe the worst game I have ever paid for.",
+            "review_score": "-1"
+        }
+    ]
+}

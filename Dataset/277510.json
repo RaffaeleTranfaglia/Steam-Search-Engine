@@ -1,0 +1,60 @@
+{
+    "app_id": 277510,
+    "name": "Shiny The Firefly",
+    "release_date": "2014-05-16",
+    "developer": [
+        "Stage Clear Studios"
+    ],
+    "publisher": [
+        "Headup Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 10,
+    "positive_ratings": 53,
+    "negative_ratings": 42,
+    "price": 6.99,
+    "description": "Shiny the Firefly is a challenging platform adventure game. Journey through a mysterious garden as Shiny, a brave firefly on a quest to find his children, lost in a terrible accident. Master trials,solve puzzles and use your stealth to guide your children to safety.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/277510/header.jpg?t=1552477384",
+    "minimum_requirements": "OS: Windows XP/Vista/7/8/8.1 Memory: 512 MB RAM DirectX: Version 9.0c Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Ugh. This game is a 'toilet game'. The kind of game you play while on the toilet. It is clearly a bad port of a tablet/phone app and wasn't optimized at all for PC. The input tab on the start 'screen' claims to have WASD support but trying to press WASD in the game does nothing (arrow keys too). You have to click to tell where you want the character to go. I'd be okay with it if it was click-and-hold to move the character. But this game requires a click for every little bit. According to Steam, I've only played for five minutes. I'm tolerant of most control schemes as long as I can use the keyboard, but the control scheme is clearly not PC-oriented and the keyboard controls are not functional at all. Don't waste your time or money - there are better games out there.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is quite addictive: simple, goodlooking, nice gameplay, sound &amp; music. Works good on Linux.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "just no....shity mobile game port",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "very bad controll",
+            "review_score": "-1"
+        }
+    ]
+}

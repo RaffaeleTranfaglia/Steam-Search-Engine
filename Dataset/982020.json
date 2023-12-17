@@ -1,0 +1,43 @@
+{
+    "app_id": 982020,
+    "name": "Eurobi Racing",
+    "release_date": "2018-12-12",
+    "developer": [
+        "Nyanko Gaming"
+    ],
+    "publisher": [
+        "Nyanko Gaming"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 7,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 1.69,
+    "description": "Eurobi Racing is a simple and addictive time killing game. Upgrade your vehicle and power-ups to maximize high-scores, purchase new cars, and compete against others! Be prepared to run into law enforcement, wonky crash physics, and buggy sound effects.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/982020/header.jpg?t=1544725147",
+    "minimum_requirements": "OS: Honestly Probably anything Processor: If it can run Google Chrome you're good Memory: 1 MB RAM Graphics: Not required Storage: 500 MB available space Sound Card: Recommended",
+    "recommended_requirements": "OS: Windows 7+ Processor: Intel i9 9900k or better Memory: 1 GB RAM Graphics: RTX 2080 Ti Storage: 500 MB available space Sound Card: Yes",
+    "reviews": []
+}

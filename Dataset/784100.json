@@ -1,0 +1,39 @@
+{
+    "app_id": 784100,
+    "name": "Gone Fireflies",
+    "release_date": "2018-02-20",
+    "developer": [
+        "Quiet Bay Studio"
+    ],
+    "publisher": [
+        "Quiet Bay Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 25,
+    "negative_ratings": 4,
+    "price": 2.49,
+    "description": "A short story-driven experience about love, loss, and the choices we make.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/784100/header.jpg?t=1533703708",
+    "minimum_requirements": "OS: XP, Vista, 7, 8, 10 Processor: Intel Pentium III 800 MHz+ Memory: 1 GB RAM Graphics: 1024x768 High Color + Storage: 350 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

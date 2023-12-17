@@ -1,0 +1,42 @@
+{
+    "app_id": 655380,
+    "name": "Dig Dog",
+    "release_date": "2018-02-08",
+    "developer": [
+        "Rusty Moyher",
+        "Matt Grimm"
+    ],
+    "publisher": [
+        "Wild Rooster"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 14,
+    "positive_ratings": 40,
+    "negative_ratings": 10,
+    "price": 2.89,
+    "description": "An action roguelike digger. Dig to discover treasure, adventure and bones! Jump, dash, stomp and dig your way through a strange world inhabited by stranger creatures.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/655380/header.jpg?t=1545315082",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.0 GHz Memory: 1 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+    "app_id": 562520,
+    "name": "Attempt[42]",
+    "release_date": "2016-12-08",
+    "developer": [
+        "ThinkOfGames"
+    ],
+    "publisher": [
+        "ThinkOfGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 2,
+    "positive_ratings": 38,
+    "negative_ratings": 40,
+    "price": 1.99,
+    "description": "Challenging first person puzzle platformer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/562520/header.jpg?t=1487888662",
+    "minimum_requirements": "OS: Windows 7 Processor: 1GHz processor Memory: 1 GB RAM Graphics: 3D graphics card with 512Mb DirectX: Version 9.0 Storage: 150 MB available space Sound Card: DirectX Compatible Sound Card",
+    "recommended_requirements": "OS: Windows 10 Processor: 2GHz Dual Core processor Memory: 1 GB RAM Graphics: 3D graphics card with 512Mb DirectX: Version 10 Storage: 200 MB available space Sound Card: DirectX Compatible Sound Card",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 352740,
+    "name": "Princess Battles",
+    "release_date": "2015-04-13",
+    "developer": [
+        "Nekomura Games"
+    ],
+    "publisher": [
+        "Nekomura Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Simulation"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 28,
+    "positive_ratings": 14,
+    "negative_ratings": 6,
+    "price": 12.99,
+    "description": "Princess battles is a visual novel with raising sim themed card battles, a female protagonist and four romanceable male characters.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352740/header.jpg?t=1517984017",
+    "minimum_requirements": "OS: Windows XP Processor: 1Ghz Memory: 512 MB RAM Graphics: DirectX or OpenGL compatible card Storage: 121 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

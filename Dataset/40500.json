@@ -1,0 +1,53 @@
+{
+    "app_id": 40500,
+    "name": "Sacraboar",
+    "release_date": "2009-11-06",
+    "developer": [
+        "Makivision Games"
+    ],
+    "publisher": [
+        "Makivision Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Strategy",
+        "Indie"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 51,
+    "positive_ratings": 14,
+    "negative_ratings": 42,
+    "price": 2.09,
+    "description": "Sacraboar is an RTS game in which players have to capture their opponent's boar trophy. Featuring an intuitive and easy to use resource management system, the game offers fast-paced game play without lengthy and tedious construction phases.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/40500/header.jpg?t=1447352589",
+    "minimum_requirements": "OS: Windows XP/Vista/7Processor: 2.2 GHz CPU (Intel Pentium 4 or Athlon 64 XP) or betterMemory: 1 GBGraphics: 256 MB DirectX™ 9 compatible graphics card (NVidia 7600, ATI X1600) or betterDirectX®: 9.0Hard Drive: 350 MBSound: 100% DirectX™ 9 compatible sound card",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Yet another 'strategy' game that is nothing but a clickfest. I couldn't click faster than the computer (what a surprise) so I lost. I guess this is what some people like and call 'fast paced', but I call it frustrating and unsatisfying. Graphics and concept seemed OK, but way too many games to choose among to settle for another one of these experiences.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "terribly dull",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For only 9 Dollars. This is the best and most valuable video game ever made.",
+            "review_score": "1"
+        }
+    ]
+}

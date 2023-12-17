@@ -1,0 +1,44 @@
+{
+    "app_id": 853590,
+    "name": "Goroons",
+    "release_date": "2018-05-17",
+    "developer": [
+        "Epopeia Games"
+    ],
+    "publisher": [
+        "Epopeia Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 4.79,
+    "description": "GOROONS is a teamwork-based adventure where you have to combine your unique skills and overcome tough-as-nails puzzle challenges.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/853590/header.jpg?t=1554918883",
+    "minimum_requirements": "OS: Windows 7 Processor: Any quadcore processor Memory: 4 GB RAM Graphics: On-board graphics set as &quot;performance&quot; Storage: 120 MB available space",
+    "recommended_requirements": "OS: Windows 8 or 10 Processor: Core i5 or i7 Memory: 8 GB RAM Graphics: Any off-board graphics Storage: 200 MB available space",
+    "reviews": []
+}

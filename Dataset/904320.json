@@ -1,0 +1,38 @@
+{
+    "app_id": 904320,
+    "name": "My Holiday",
+    "release_date": "2018-08-21",
+    "developer": [
+        "StellarXiela"
+    ],
+    "publisher": [
+        "StellarXiela"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "RPG"
+    ],
+    "achievements": 11,
+    "positive_ratings": 138,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "画风清奇的RPG作品，故事讲述的是一个小学3年僧，随父母回老家的5天假期生活。在老家的小区你会遇到一群性格各异的小盆宇，展开一张并不是很激烈的假期冒险。",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/904320/header.jpg?t=1545467293",
+    "minimum_requirements": "OS: micrsoft 64bit Window7 Processor: 64bit Intel compatible Dual Core CPU Memory: 2 GB RAM Graphics: DX11 Compliant graphics card DirectX: Version 10 Storage: 1 GB available space",
+    "recommended_requirements": "OS: micrsoft 64bit Window7.8.10 Processor: 64bit Intel compatible Dual Core CPU Memory: 8 GB RAM Graphics: DX11 Compliant graphics card DirectX: Version 10 Storage: 2 GB available space",
+    "reviews": []
+}

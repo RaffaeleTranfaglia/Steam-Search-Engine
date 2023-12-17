@@ -1,0 +1,35 @@
+{
+    "app_id": 675370,
+    "name": "Gulu",
+    "release_date": "2017-07-28",
+    "developer": [
+        "NekoToFuurin"
+    ],
+    "publisher": [
+        "NekoToFuurin"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Move all squares to correct positions, they will make up a picture.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/675370/header.jpg?t=1501287472",
+    "minimum_requirements": "OS: Windows XP Memory: 256 MB RAM",
+    "recommended_requirements": null,
+    "reviews": []
+}

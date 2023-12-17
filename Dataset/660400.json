@@ -1,0 +1,39 @@
+{
+    "app_id": 660400,
+    "name": "SQUAREHEAD",
+    "release_date": "2018-05-03",
+    "developer": [
+        "Pixel Fun Games Production"
+    ],
+    "publisher": [
+        "Pixel Fun Games Production"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 23,
+    "positive_ratings": 8,
+    "negative_ratings": 2,
+    "price": 3.19,
+    "description": "Squarehead is a pixelart-action-jump &amp; run game set in a comic style. You need to shoot, jump &amp; teleport through more than 40 levels. Search forests, caves, deserts and snowy landscapes, to refuel your ship with diamonds.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/660400/header.jpg?t=1556519727",
+    "minimum_requirements": "OS: Windows 98 Processor: intel duo core Memory: 512 MB RAM Graphics: Radeon R5 230 DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Amd fx 8350 Memory: 4 GB RAM Graphics: GTX 1030 DirectX: Version 9.0 Storage: 150 MB available space",
+    "reviews": []
+}

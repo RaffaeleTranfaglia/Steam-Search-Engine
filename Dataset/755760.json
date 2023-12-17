@@ -1,0 +1,44 @@
+{
+    "app_id": 755760,
+    "name": "Power Supplied",
+    "release_date": "2017-12-12",
+    "developer": [
+        "King's Lance Games"
+    ],
+    "publisher": [
+        "King's Lance Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 7.19,
+    "description": "Power Supplied is a multiplayer puzzle game, a one-to-four player game where four characters are controlled, each with different methods of traversing levels. Constantly changing routes will mean passing over the same ground many times to try and reach your freedom.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/755760/header.jpg?t=1513083753",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 2 GHz Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 270 MB available space Additional Notes: 16:9 resolution only.",
+    "recommended_requirements": null,
+    "reviews": []
+}

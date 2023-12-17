@@ -1,0 +1,41 @@
+{
+    "app_id": 802810,
+    "name": "KNACK!",
+    "release_date": "2018-02-27",
+    "developer": [
+        "Ardi Studio"
+    ],
+    "publisher": [
+        "Ardi Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 150,
+    "positive_ratings": 10,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Minimalistic arcade platformer. You are able to move only in one direction, can you get through it?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/802810/header.jpg?t=1519829520",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Intel Pentium 4 2Ghz Memory: 512 MB RAM Graphics: 512 MB video memory DirectX: Version 9.0c Storage: 125 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: Intel Pentium 4 2Ghz Memory: 512 MB RAM Graphics: 1024 MB video memory DirectX: Version 9.0c Storage: 125 MB available space",
+    "reviews": []
+}

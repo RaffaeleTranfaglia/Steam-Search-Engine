@@ -1,0 +1,41 @@
+{
+    "app_id": 427240,
+    "name": "Cosmic Trip",
+    "release_date": "2017-05-24",
+    "developer": [
+        "Funktronic Labs"
+    ],
+    "publisher": [
+        "Funktronic Labs"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "VR Support",
+        "SteamVR Collectibles",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "VR"
+    ],
+    "achievements": 7,
+    "positive_ratings": 368,
+    "negative_ratings": 45,
+    "price": 14.99,
+    "description": "Built exclusively for VR, Cosmic Trip is an award-winning real-time strategy game for the HTC Vive, Oculus Rift and Windows MR headsets. Experience what it’s like to build and command an army of badass robots while fighting against hostile enemies on strange alien planets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/427240/header.jpg?t=1528934587",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel i5-4590 equivalent or greater Memory: 8 GB RAM Graphics: NVIDIA GTX 970 / AMD 290 equivalent or greater Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

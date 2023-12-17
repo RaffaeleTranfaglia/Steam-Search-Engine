@@ -1,0 +1,37 @@
+{
+    "app_id": 774201,
+    "name": "Heaven's Vault",
+    "release_date": "2019-04-16",
+    "developer": [
+        "inkle Ltd"
+    ],
+    "publisher": [
+        "inkle Ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Sci-fi"
+    ],
+    "achievements": 44,
+    "positive_ratings": 106,
+    "negative_ratings": 11,
+    "price": 19.99,
+    "description": "Explore the lost ruins of the Nebula, read ancient inscriptions, and uncover a forgotten past in this narrative archaeological science-fiction adventure game from the creators of 80 Days.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/774201/header.jpg?t=1556017383",
+    "minimum_requirements": "OS: Windows 7 or later Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: Nvidia Geforce GTX 660 / AMD Radeon HD 7850, 2+ Gb of vram DirectX: Version 10 Storage: 5 GB available space Additional Notes: Not recommended for Intel HD GPUs",
+    "recommended_requirements": null,
+    "reviews": []
+}

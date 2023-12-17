@@ -1,0 +1,59 @@
+{
+    "app_id": 389190,
+    "name": "Goblins and Grottos",
+    "release_date": "2016-07-07",
+    "developer": [
+        "Psychic Games Ltd.",
+        "Goblin Portal"
+    ],
+    "publisher": [
+        "Psychic Games Ltd.",
+        "Goblin Portal"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Casual"
+    ],
+    "achievements": 23,
+    "positive_ratings": 57,
+    "negative_ratings": 20,
+    "price": 10.29,
+    "description": "Reverse the roles and play as a goblin rather than a knight or wizard in this parody dungeon game. Watch your family get mown down by a lvl 100 paladin and embark on an epic quest of revenge, beset on all sides by greedy powerleveling adventurers. Create and share your own maps with powerful built-in editor.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/389190/header.jpg?t=1554211148",
+    "minimum_requirements": "OS: Windows XP Processor: Core 2 Duo Memory: 1 GB RAM Graphics: WebGL Compatible Network: Broadband Internet connection Storage: 100 MB available space Sound Card: OpenAL compatible",
+    "recommended_requirements": "OS: Windows 7 Processor: Core 2 Duo Memory: 2 GB RAM Graphics: WebGL Compatible Network: Broadband Internet connection Storage: 150 MB available space Sound Card: OpenAL compatible",
+    "reviews": [
+        {
+            "review_text": "An interesting little game and a nice way to while away an hour or so. Puzzle games are fun and they can be played in short little bursts. The game play still requires a bit of work (swinging, etc) but the humour is there and that makes up for it; for now. Hoping to see a bit more work and an even more polished product soon.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A really good game, original, fun gameplay and lot of sense of humour!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I tried to like this game , I really did. But i cannot recommend it.  At its core it is a platformer with push puzzles , traps and physics. Problem is , the difficulty stems not from the game design but rather from the lack of it. Some puzzles require you to jump on chains but the chains move without logic , sometimes catapultig you randomly around the room , into spikes. There are purple mushrooms that act like springs , but they seem to ignore gravity and intertia and just catapult you as they will into spikes. The final straw was a room of cannon enemies , their shots bounce like a pool ball , completely unpredictable , and explode on top of that.  I've had the broken mechanics work in my favor at times when i tried to push a treasure chest up a lift to distract some knights , it got stuck , bounced off a wall and crushed both of them. Another time a cannonball took out three enemies for no reason , they all just bounced into one another and died without taking any fall damage.  If you can forgive frustrating mechanics the concept is unique enough to check out , but right now , as far as I am concerned , the challenge is not designed as much as a chaotic physics engine that doesn't know whether it's coming or going.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "app_id": 454430,
+    "name": "Crystal Chip Collector",
+    "release_date": "2016-03-21",
+    "developer": [
+        "Nekomura Games"
+    ],
+    "publisher": [
+        "Nekomura Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "A fast puzzle platformer where the goal is to &quot;optimize&quot; a computer full of redundant parts.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/454430/header.jpg?t=1458784048",
+    "minimum_requirements": "OS: Windows XP Processor: 1Ghz Memory: 512 MB RAM DirectX: Version 9.0c Storage: 20 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Bad: a cat helps your computer &amp; internet run faster by collecting crystals inside your PC  just like in real life.  Good: all the crystal you want without the tooth rot. bad skin, and soul eating addiction.  Uber alles: fun lil puzzle platformer with cats that can help slaughter some time for you. ",
+            "review_score": "1"
+        }
+    ]
+}

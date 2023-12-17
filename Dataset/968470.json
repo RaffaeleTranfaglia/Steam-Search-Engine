@@ -1,0 +1,47 @@
+{
+    "app_id": 968470,
+    "name": "Bunny Mahjo",
+    "release_date": "2018-11-09",
+    "developer": [
+        "DillyFrame"
+    ],
+    "publisher": [
+        "DillyFrame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Singleplayer",
+        "Casual"
+    ],
+    "achievements": 38,
+    "positive_ratings": 14,
+    "negative_ratings": 0,
+    "price": 2.09,
+    "description": "Classic Mahjong Solitaire is not single-player game anymore. You can play with friends in 3d-environment. Play together, win together, unlock more figures together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/968470/header.jpg?t=1555459139",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 (x64) Processor: Intel Pentium CPU 2020M 2.4Ghz equivalent Memory: 4 GB RAM Graphics: GeForce GT 635 M equivalent Storage: 600 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 (x64) Processor: Intel i5 4570 @ 3.2 GHz / AMD Phenom II 945 @ 3.0 GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 960 / AMD R9 270X Storage: 600 MB available space",
+    "reviews": []
+}

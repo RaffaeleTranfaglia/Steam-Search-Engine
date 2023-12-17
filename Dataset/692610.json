@@ -1,0 +1,43 @@
+{
+    "app_id": 692610,
+    "name": "Two Escapes",
+    "release_date": "2017-08-30",
+    "developer": [
+        "Whitefish Software"
+    ],
+    "publisher": [
+        "Whitefish Software"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 14,
+    "positive_ratings": 2,
+    "negative_ratings": 1,
+    "price": 1.59,
+    "description": "1 Player, 2 Hands, 2 Analog Sticks, 2 Characters! Two Escapes is a single player game that controls two characters at the same time to find exits and place both of them. You need to move both hands independently to achieve your goal.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/692610/header.jpg?t=1524593108",
+    "minimum_requirements": "OS: Windows XP Processor: Intel i3 or higher Memory: 1024 MB RAM DirectX: Version 9.0c Storage: 60 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

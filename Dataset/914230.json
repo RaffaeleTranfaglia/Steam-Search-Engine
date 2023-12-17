@@ -1,0 +1,38 @@
+{
+    "app_id": 914230,
+    "name": "Swamp Jump",
+    "release_date": "2018-08-21",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 72,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "A puzzle game in which you have to collect fruits and berries on dangerous stones that go under water. Collect them all and try not to be trapped!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/914230/header.jpg?t=1534862685",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 300 MB available space",
+    "reviews": []
+}

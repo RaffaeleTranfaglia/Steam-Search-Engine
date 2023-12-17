@@ -1,0 +1,38 @@
+{
+    "app_id": 611500,
+    "name": "Quake Champions",
+    "release_date": "2017-08-22",
+    "developer": [
+        "id Software"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "FPS",
+        "Arena Shooter"
+    ],
+    "achievements": 52,
+    "positive_ratings": 15879,
+    "negative_ratings": 7098,
+    "price": 0.0,
+    "description": "Quake® Champions is a fast-paced Arena shooter, a genre established by the original Quake 20 years ago. Mixing the dark mythos of Quake with the innovative multiplayer of Quake III Arena, the game adds a modern twist – Champions, each with unique attributes and abilities for players to master.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/611500/header.jpg?t=1554741020",
+    "minimum_requirements": "OS: Windows 7 and later Processor: AMD Phenom II X4-810 / Core i5-750 / Core i3-530 Memory: 8 GB RAM Graphics: AMD R7 240 GB / Nvidia GT 730 2GB / Intel HD 530 Network: Broadband Internet connection Storage: 20 GB available space",
+    "recommended_requirements": "OS: Windows 7 and later Processor: AMD FX-8320 / Intel i5-2400 Memory: 16 GB RAM Graphics: AMD R9 290 4GB / Nvidia GTX 770 4GB Network: Broadband Internet connection Storage: 20 GB available space",
+    "reviews": []
+}

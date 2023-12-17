@@ -1,0 +1,44 @@
+{
+    "app_id": 860990,
+    "name": "Chroma Shift",
+    "release_date": "2018-10-12",
+    "developer": [
+        "DevOrDie Studios"
+    ],
+    "publisher": [
+        "DevOrDie Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Puzzle",
+        "Co-op"
+    ],
+    "achievements": 37,
+    "positive_ratings": 11,
+    "negative_ratings": 5,
+    "price": 9.29,
+    "description": "CHROMA SHIFT is a cooperative, side-scrolling puzzle game, where the players utilize different colours throughout the environment to solve challenging puzzles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/860990/header.jpg?t=1539598694",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7, 8, 10 Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: DirectX 11 compatible graphics card DirectX: Version 11",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 567210,
+    "name": "Bunnyrama",
+    "release_date": "2016-12-19",
+    "developer": [
+        "Starwind Games"
+    ],
+    "publisher": [
+        "Starwind Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Adventure"
+    ],
+    "achievements": 13,
+    "positive_ratings": 42,
+    "negative_ratings": 4,
+    "price": 1.99,
+    "description": "Bunnyrama is a puzzle adventure game where your goal is to lead the old man through the magical forest full of huge bunnies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/567210/header.jpg?t=1508272820",
+    "minimum_requirements": "Минимальные: ОС: Windows Vista and later Процессор: Intel Celeron or AMD Athlon II X2/A-series Оперативная память: 2 MB ОЗУ Видеокарта: Intel Graphics 3000 or later, any NVidia/AMD card Место на диске: 250 MB Звуковая карта: Built-in sound card",
+    "recommended_requirements": "Рекомендованные: ОС: Windows 7 and later Процессор: Intel Pentium or AMD Athlon II X3/A-series Оперативная память: 4 MB ОЗУ Видеокарта: Intel Graphics 4000 or later, any NVidia/AMD card Место на диске: 250 MB Звуковая карта: Built-in sound card",
+    "reviews": []
+}

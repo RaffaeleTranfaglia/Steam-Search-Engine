@@ -1,0 +1,41 @@
+{
+    "app_id": 787110,
+    "name": "Usotsuki Game / 谎言游戏",
+    "release_date": "2018-03-15",
+    "developer": [
+        "Studio Wasabi"
+    ],
+    "publisher": [
+        "Pujia8 Studio",
+        "Gamera Game"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Gore",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "RPG",
+        "Adventure",
+        "Violent"
+    ],
+    "achievements": 19,
+    "positive_ratings": 162,
+    "negative_ratings": 49,
+    "price": 1.69,
+    "description": "当主人公醒来时，就发现自己与几位不认识的男女被关在了一起… 此时，一个奇妙的广播响起 「来，让谎言游戏开始吧！」",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/787110/header.jpg?t=1521165270",
+    "minimum_requirements": "OS: Windows xp/7/8/10 Processor: Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz Memory: 4 GB RAM Graphics: NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent Storage: 1 GB available space Sound Card: 100% DirectX 9.0c compatible sound card",
+    "recommended_requirements": null,
+    "reviews": []
+}

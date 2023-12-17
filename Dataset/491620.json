@@ -1,0 +1,47 @@
+{
+    "app_id": 491620,
+    "name": "Beeftacular",
+    "release_date": "2016-08-26",
+    "developer": [
+        "Retrific"
+    ],
+    "publisher": [
+        "Retrific"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 35,
+    "positive_ratings": 60,
+    "negative_ratings": 17,
+    "price": 1.99,
+    "description": "Beeftacular is a fast-paced platformer where you have to clean levels from rotten meat chunks as fast as possible. Jump your way through the level and use your attacks to hack all of them into pieces. Compare your speedruns with your friends and the world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/491620/header.jpg?t=1498477506",
+    "minimum_requirements": "OS: Windows XP Processor: 2 Core @ 2.5Ghz Memory: 512 MB RAM Graphics: Intel HD Graphics DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

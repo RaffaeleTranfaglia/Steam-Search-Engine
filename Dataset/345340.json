@@ -1,0 +1,49 @@
+{
+    "app_id": 345340,
+    "name": "The Grave Digger",
+    "release_date": "2015-04-29",
+    "developer": [
+        "Home Groan Games"
+    ],
+    "publisher": [
+        "Home Groan Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 16,
+    "negative_ratings": 4,
+    "price": 3.99,
+    "description": "Take control of shovel-master Fagus in this curious blend of whimsical English comedy and grim Dickensian horror.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/345340/header.jpg?t=1447367910",
+    "minimum_requirements": "OS: Windows XP or above Processor: 1.0 GHz or above with SSE2 instruction set support Memory: 2 GB RAM DirectX: Version 9.0 Storage: 400 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Terrible voice acting and awful writing. Tries to be funny but isn't. The gameplay itself is boring and repetitive. No thanks.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 449330,
+    "name": "Grid Masters",
+    "release_date": "2016-05-31",
+    "developer": [
+        "Angry Hangar Games, LLC"
+    ],
+    "publisher": [
+        "Angry Hangar Games, LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 3,
+    "price": 4.99,
+    "description": "Fight for victory in a 1v1 or 2v2 grid-based deathmatch in Grid Masters. Represent your favorite faction as one of five characters (with more to come), each with their own unique abilities. Toss massive bombs, rocket punch, or send explosive robot minions to take your enemies down!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/449330/header.jpg?t=1465165279",
+    "minimum_requirements": "OS: Windows Vista SP2 Memory: 1024 MB RAM Graphics: Card Supporting OpenGL 3 or higher Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

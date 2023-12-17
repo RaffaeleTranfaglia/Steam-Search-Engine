@@ -1,0 +1,43 @@
+{
+    "app_id": 525070,
+    "name": "Captain Lycop : Invasion of the Heters",
+    "release_date": "2017-02-10",
+    "developer": [
+        "Aéronie"
+    ],
+    "publisher": [
+        "Aéronie"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 16,
+    "positive_ratings": 14,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "A space shooter mixing adventure, action and tactics. Face off against pen-pushing insects, merciless enemies and epic bosses. Your only hope is to banish all cowardice and follow a virtuous path.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/525070/header.jpg?t=1488742801",
+    "minimum_requirements": "OS: Windows Vista Processor: Pentium dual core 2.0GHz Memory: 1 GB RAM Graphics: NVIDIA Geforce 520M Storage: 550 MB available space",
+    "recommended_requirements": "OS: Windows Seven or above Processor: Core i3 2.4 GHz Memory: 2 GB RAM Graphics: NVIDIA Geforce 630M Storage: 550 MB available space",
+    "reviews": []
+}

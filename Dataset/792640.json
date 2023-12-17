@@ -1,0 +1,39 @@
+{
+    "app_id": 792640,
+    "name": "Inca Blocks",
+    "release_date": "2018-03-02",
+    "developer": [
+        "Bullid Games"
+    ],
+    "publisher": [
+        "Bullid Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 83,
+    "positive_ratings": 7,
+    "negative_ratings": 7,
+    "price": 1.69,
+    "description": "This is a game in the genre of &quot;three in a row&quot;, where you have to match 3 or more of the same kind of blocks - the title speaks for itself. You are required to match identical blocks without overflowing the already crammed field. Show your friends who the true intellectual adventurer is - become a legend at the ranking table!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/792640/header.jpg?t=1520006318",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 110 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 150 MB available space",
+    "reviews": []
+}

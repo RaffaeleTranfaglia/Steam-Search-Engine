@@ -1,0 +1,46 @@
+{
+    "app_id": 423490,
+    "name": "Air Missions: HIND",
+    "release_date": "2017-06-14",
+    "developer": [
+        "3Division"
+    ],
+    "publisher": [
+        "3Division"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "Flight"
+    ],
+    "achievements": 11,
+    "positive_ratings": 286,
+    "negative_ratings": 75,
+    "price": 12.99,
+    "description": "Air Missions: HIND is an action combat flight simulator based on the Russian Mi-24 Hind assault helicopter. You will be deployed to the battlefield either on your own or with a friend.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/423490/header.jpg?t=1503144339",
+    "minimum_requirements": "OS: Windows 7 or higher Processor: DualCore - 2,5 GHz Memory: 2048 MB RAM Graphics: DirectX10.1 compatible with 1GB VRAM and ShaderModel 4.0 support DirectX: Version 10 Storage: 4000 MB available space Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7 or higher Processor: Quadcore - 3,5 GHz Memory: 8192 MB RAM Graphics: DirectX11.1 compatible with 4GB VRAM and ShaderModel 5.0 support DirectX: Version 11 Storage: 4000 MB available space Sound Card: DirectX compatible",
+    "reviews": []
+}

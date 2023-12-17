@@ -1,0 +1,43 @@
+{
+    "app_id": 946010,
+    "name": "Tasty Planet Forever",
+    "release_date": "2018-10-16",
+    "developer": [
+        "Dingo Games"
+    ],
+    "publisher": [
+        "Dingo Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 44,
+    "negative_ratings": 5,
+    "price": 7.19,
+    "description": "Bigger. Better. Tastier.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/946010/header.jpg?t=1540936048",
+    "minimum_requirements": "OS: Windows XP Processor: 1.4 GHz Memory: 1 GB RAM DirectX: Version 9.0 Storage: 90 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

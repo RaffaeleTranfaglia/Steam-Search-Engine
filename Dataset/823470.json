@@ -1,0 +1,43 @@
+{
+    "app_id": 823470,
+    "name": "Glitchball",
+    "release_date": "2018-04-24",
+    "developer": [
+        "Reboot Arcade"
+    ],
+    "publisher": [
+        "Reboot Arcade"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Free to Play",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 0,
+    "positive_ratings": 12,
+    "negative_ratings": 11,
+    "price": 0.0,
+    "description": "Glitchball is a 2D Vaporwave party-game that's like soccer.... but the ball kills you. Use your jetpack and shield to deflect the incoming glitchball to score goals, kill players, and compete for dominance in a chilled out dead mall.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/823470/header.jpg?t=1529704067",
+    "minimum_requirements": "OS: 8, 8.1, 10 Processor: 2.0 Ghz Memory: 4 GB RAM Graphics: 350mb memory Storage: 260 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

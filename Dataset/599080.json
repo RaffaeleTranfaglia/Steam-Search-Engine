@@ -1,0 +1,44 @@
+{
+    "app_id": 599080,
+    "name": "The Blackout Club",
+    "release_date": "2018-10-30",
+    "developer": [
+        "Question"
+    ],
+    "publisher": [
+        "Question"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Horror",
+        "Multiplayer"
+    ],
+    "achievements": 14,
+    "positive_ratings": 461,
+    "negative_ratings": 58,
+    "price": 15.49,
+    "description": "The Blackout Club is a first-person co-op horror game centered around a group of teenage friends investigating a monstrous secret beneath the skin of their small town. 1-4 players explore procedurally-generated missions against a fearsome enemy you can only see with your eyes closed.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/599080/header.jpg?t=1553108831",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1 with Platform Update for Windows 7 Processor: Intel i5-2550K, 3.4 GHz Memory: 8 GB RAM Graphics: GeForce GTX 670 | Radeon HD 7950 DirectX: Version 11 Network: Broadband Internet connection Storage: 15 GB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 version 14393.102 or higher Processor: Intel Core i7-3770, 3.4 GHz Memory: 16 GB RAM Graphics: GeForce GTX 970 or GeForce GTX 1060 | Radeon R9 290X or Radeon RX 480 DirectX: Version 11 Network: Broadband Internet connection Storage: 15 GB available space",
+    "reviews": []
+}

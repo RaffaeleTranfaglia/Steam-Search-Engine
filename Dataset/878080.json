@@ -1,0 +1,41 @@
+{
+    "app_id": 878080,
+    "name": "Board Battlefield",
+    "release_date": "2018-08-10",
+    "developer": [
+        "Surrealscape Studios"
+    ],
+    "publisher": [
+        "Surrealscape Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Board Game"
+    ],
+    "achievements": 11,
+    "positive_ratings": 11,
+    "negative_ratings": 12,
+    "price": 1.69,
+    "description": "Quick and action packed dice based battles. For players looking for something more than the guesswork of Battleship but not quite the complexity of Chess.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/878080/header.jpg?t=1533916360",
+    "minimum_requirements": "OS: Windows 7 Processor: 1 GHz Memory: 1024 MB RAM Graphics: 256 Mb DirectX 11 video card with Shader Model 2.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,37 @@
+{
+    "app_id": 1020820,
+    "name": "KumaKuma Manga Editor",
+    "release_date": "2019-02-27",
+    "developer": [
+        "KumaKumaManga"
+    ],
+    "publisher": [
+        "SakuraGame"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Web Publishing"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Web Publishing",
+        "Animation & Modeling"
+    ],
+    "achievements": 14,
+    "positive_ratings": 346,
+    "negative_ratings": 41,
+    "price": 4.79,
+    "description": "KumaKuma Manga Editor is a comic editor for dummy based on 3d models. Our goal is to let everyone create manga without has to conquering the barrier of learning how to draw. You don’t need any device other than your computer, or any basic knowledge of art.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1020820/header.jpg?t=1555399494",
+    "minimum_requirements": "OS: WIN7 SP1/WIN8/WIN10/XP    64bit Processor: 2 GHz Memory: 2 GB RAM Graphics: VRAM 128 MB or more, Pixel Shader 2.0 or higher DirectX: Version 9.0c Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

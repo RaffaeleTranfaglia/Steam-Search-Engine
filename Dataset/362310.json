@@ -1,0 +1,48 @@
+{
+    "app_id": 362310,
+    "name": "Dungeon League",
+    "release_date": "2018-10-31",
+    "developer": [
+        "Achebit"
+    ],
+    "publisher": [
+        "Achebit"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "RPG"
+    ],
+    "achievements": 63,
+    "positive_ratings": 40,
+    "negative_ratings": 9,
+    "price": 11.39,
+    "description": "The Dungeon Master has a new favourite sport: Dungeon League takes everything that is awesome about dungeon crawling and spews it out as ten minutes of chaotic, competitive, multiplayer action.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/362310/header.jpg?t=1541035100",
+    "minimum_requirements": "OS: Windows XP Processor: 2.0 GHz Memory: 2 GB RAM Graphics: GeForce 8800 or Radeon® HD4800 series, 512 MB of memory Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

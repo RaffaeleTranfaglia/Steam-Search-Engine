@@ -1,0 +1,69 @@
+{
+    "app_id": 415400,
+    "name": "Cross Set",
+    "release_date": "2015-11-17",
+    "developer": [
+        "Cuveet Story"
+    ],
+    "publisher": [
+        "Cuveet Story"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 17,
+    "positive_ratings": 157,
+    "negative_ratings": 29,
+    "price": 1.99,
+    "description": "Cross Set is a simple and brain-teasing new number puzzle game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/415400/header.jpg?t=1507013841",
+    "minimum_requirements": "OS: Windows XP or later DirectX: Version 9.0 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Like Sudoku, but less challenging, less fun.  This game is more like a eye exercise than a brain storm. Most of the time you just scan all the cells to find the next unique number with no logical thinking involved. The 'lock' feature should delete that locked number from all cells in the same column/row. Instead, the developer decided to leave the number there just to make your eyes hurt, and there is no way to cross out the unwanted numbers even manaully.  Conclusion:  No exercise for your mind, just pain in the eyes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I don't know why, but I really enjoy these puzzles. I've never been that into Sudoku. They challenge my brain and feel very rewarding to beat.   I'm not sure if I'll 100% it, but I hope so, eventually. I'm currently working through completing set 4, and I have set 6 unlocked.  The music is really good, I like it a lot. I'd like to be able to purchase the soundtrack separately.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pleasant puzzle game with Sudoku-like mechanics. Provides an enjoyable challenge. The largest levels can feel a little cluttered, though.  Pretty good/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Like Sudoku, but worse.  The idea behind this game is pretty much ok: imagine you're doing a Sudoku, you've narrowed it down a bit and marked the cells with the numbers they can have, and that's where this puzzle comes in. Since the range of numbers in each cell is limited, you can draw some conclusions about which numbers go where and eventually 'fix'the grid.   In fact,  the logic is exactly like Sudoku, but not as challenging : because every square can only be part of 2 number sets, not 3 as in actual Sudoko, the logical deductions never get very deep. You can solve every one of the 57 regular levels by checking each row and column for a) digits that appear only once; b) squares that have only one possible digit left; c) consider cycles (if you have two 2-5 squares, they must have the 2 and 5, so they can't appear elsewhere in that row). Cycles can extend to 3, but that's rarely needed; you can also check for cross-row and -columns, but that is also more rarely needed than in Sudoku. The last regular level is 8-1, andit took me 20 minutes. (My overall time includes lots of idling.)  The problem is in the game's interface, and it only starts that you can either have no sound or you're forced to listen to someone incessantly hammering on the same two keys on their piano. The problem is that a lot of the puzzle solving involves checking which numbers are where, and as you can see from the screenshots, not only are there no visual cues (like, I don't know, colors or shapes with the numbers), the numbers switch places each time you click on a square, so you have to exert a lot of brainpower reading and parsing the numbers on the buttons. Unlike a pencil-and-paper Sudoku, you can't erase any numbers, either. Fix a 4 on the grid, and you'd erase all 4s in the same row and column, but you can't. They don't even dim. If you could, then a control that would e.g. 'highlight all 6s that aren't dim' would be really helpful in doing the actual thinking and deducing. As it is, there's a lot of pedestrian checking and very little thinking involved in solving these puzzles. Then you have to repeatedly click a square to select a digit, as if we only had a touch-thumb and no mouse available. Good thing the puzzles aren't that difficult because you can't save your progress. The final straw is that there's no 'undo' button either.  Recommended if you enjoy Sudoku of medium difficulty. Personally, I like the hard ones.   Cross Set runs fine on my old Windows XP box. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": " For all my puzzle-loving friends - stay away from this one.  Its too simple, and quite frankly, boring.   The goal is to have 1, 2, 3, 4 in some order in every column or row. Wah wah.  Go play  HexCells ,  Hook  or  Paint it Back  instead. This one has nothing to offer that you can't find from some free mobile puzzle game.  I'm getting a refund.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Nice puzzle, it'll keep you busy for a couple hours (not the 12 listed on my account, that's because I left it open when distracted, but 3 hours maybe?). Great to combine with listening to a Welcome to Nightvale podcast ;)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Cross Set is a fun indie game that has rules similar to Sudoku. You must find the numbers that fit the cells, following the rules that each row has the numbers 1-9 exactly once, and each column has those numbers exactly once. Some levels use 1-4, or 1-6, etc, but the concept is the same.  The mix of levels is good, and took me awhile to casually beat (about 11 hours in total to beat all levels and 100% the achievements).  In my opinion the asking price of $3 is totally worth it (you spent more than that on your lunch today, admit it).  If you like Sudoku, this game will scratch a similiar itch. I fully recommend it.",
+            "review_score": "1"
+        }
+    ]
+}

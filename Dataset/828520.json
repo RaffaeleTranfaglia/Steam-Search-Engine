@@ -1,0 +1,42 @@
+{
+    "app_id": 828520,
+    "name": "Metis One",
+    "release_date": "2018-06-01",
+    "developer": [
+        "Actuator Games"
+    ],
+    "publisher": [
+        "Actuator Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Shoot 'Em Up",
+        "Co-op"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 5.79,
+    "description": "Metis One is an action-packed co-op top down shooter in the design style of the arcade classics. Take command of the A6-Gravitus to defend the people of Jupiter Colony, Metis One, against an unrelenting alien onslaught. With Drop-In Co-op, Player Two can join the action at anytime!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/828520/header.jpg?t=1533404177",
+    "minimum_requirements": "OS: Windows Processor: 64 bits Memory: 4 GB RAM Graphics: Yes Storage: 350 MB available space Sound Card: This game features sound Additional Notes: Controller recommended. At least one required for Co-op mode.",
+    "recommended_requirements": "OS: Windows Processor: 64 bits Memory: 8 GB RAM Graphics: Good One Storage: 350 MB available space Sound Card: This game features sound Additional Notes: Plays best with Two controllers and a friend!",
+    "reviews": []
+}

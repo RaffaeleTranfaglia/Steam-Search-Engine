@@ -1,0 +1,204 @@
+{
+    "app_id": 504210,
+    "name": "SHENZHEN I/O",
+    "release_date": "2016-11-17",
+    "developer": [
+        "Zachtronics"
+    ],
+    "publisher": [
+        "Zachtronics"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Programming",
+        "Simulation",
+        "Puzzle"
+    ],
+    "achievements": 6,
+    "positive_ratings": 1682,
+    "negative_ratings": 62,
+    "price": 10.99,
+    "description": "BUILD CIRCUITS. WRITE CODE. RTFM.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/504210/header.jpg?t=1546475842",
+    "minimum_requirements": "Минимальные: ОС: Windows Vista / 7 / 8 / 10 Процессор: 2.0 GHz Оперативная память: 4 GB ОЗУ Видеокарта: 1366 x 768 DirectX: Версии 11 Место на диске: 450 MB",
+    "recommended_requirements": "Рекомендованные: ОС: Windows Vista / 7 / 8 / 10 Процессор: 2.0 GHz Оперативная память: 4 GB ОЗУ Видеокарта: 1920 x 1080 DirectX: Версии 11 Место на диске: 450 MB",
+    "reviews": [
+        {
+            "review_text": "I've been coming home from my programming job every night to my fake programming job which is a lot more fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is surprisingly realistic, in terms of real life applications. The products actually have a purpose and story to them, and isn't just 'do this stuff because I told you to.' The process of making the product is also realistic. You have to design your layout, take note of the cost, browse through data sheets, scream at the computer while troubleshooting... Quite fun for me!  You may need to have a basic knowledge of coding before trying this game out.  However, the  REAL  challenge is beating a game of solitaire.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Do you like easy puzzles? Do you like hand-holding? Do you like being able to play your game without having to often alt-tab into a PDF viewer so you can read the instruction manual that is required to understand what the hell you're doing?  Then this game is probably not for you.  Otherwise, this is one best puzzle games I've ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A bit more approachable than TIS-100, working in part like SpaceChem, allowing you to place modules and draw connections between them. Like in TIS-100 you write a custom assembler code variant to program the modules, but it's a bit easier, even having a mul operation. You have a limited space to just solve the tasks, and you can also optimize for power usage, cost, and lines of code. While niched towards programmers, it can probably be enjoyed by others who like to solve puzzles or problems.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's the almost the same work I do except paychecks. 10|10 not for the humanities",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Much better than TIS-100 TIS-100 was a nice game, but had some very strict limitations that made it a little frustrating This one has better graphics, better puzzles  Almost like working, but nobody pays me here ... :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Once you've taken the time to glance over the manual, which should only take you about five minutes, this game is easy to play. Not easy to master, mind you. But you won't have any problem playing it! Very enjoyable overall, really makes you think.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It has solitaire and level editor.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing game! As with real programming, there are many ways to solve an issue, but it feels so great when you find the ultimate (most optimal) solution. Although, I wish the game took into account the time you take solving and optimising the code as well, because time == money! :P  Give it a try if you like puzzles!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A game about programming ASM for micro controllers. A game in which one have to read the manual. Some call it a game. Some call it work. It's fun. So, work = fun?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Will actually travel to Foxconn, Shenzhen next week to oversee a series of device building.  10/10 really reflects my life.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "TIS-100 + SpaceChem make love. If you enjoyed both of those game, RTFM and have a blast.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "OMG! It`s not a game - it`s my dream! Graphics like IDE Easy start Great and full documentation for basic steps. You can solve every level in different ways. I think it`s a good start for all who want to start programming on Assembler language. Some levels break my brains",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An amazing puzzle game for those who like programming and assembly.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've replaced my entire professional resume with my SHENZHEN I/O designs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I love this SCM designing game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I enjoyed the concept and idea behind the game, but it's a lot less of a learning curve and a lot more of a learning cliff.  Between the first and second builds it goes from 'Alright, this is kind of how this works' through a bit of trial and error to 'LOL HOPE YOU TOOK SOME CLASSES ABOUT CODING IN COLLEGE.'  The manual isn't the most helpful thing either. I get that this was supposed to be presented as if you already had a handle on the concepts of coding, but it was kind of disheartening to feel like you've got a bit of a grasp on things only to be thrown to the sharks without any real idea on what to do or how to do it within ten minutes of playing the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Really well made. Very challenging. These guys know how to make great games consistently",
+            "review_score": "1"
+        },
+        {
+            "review_text": "In the vein of TIS-100, with some SpaceChem like space management thrown in.  It can be very difficult at times, and I spent hours on some levels, but once you get it you feel great! And if just solving the level is not enough for you, you can try and optimize it towards 3 metrics, and try and beat your friends.   This is the best Zachtronics game so far. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best versions of solitare to come out. The puzzles are cool too.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game may seem a little difficult to some. For those who can grasp the concepts, you will find a fantastic puzzle game which can be very challenging.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'm addicted to the solitare game...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great spiritual follow-up to TIS-100. If you like that game, you'll like this one.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fun coding based puzzle game with a really good minigame.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is the kind of game you should buy in Early Access! Ty Zach for delivering us such amazing games  PS. Now that its out of early access there's really no reason to not getting this game   #IThoughtThisGameWasCoolBeforeItGotAnAward",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've grown to love this company so very much thanks to games like Spacechem and Infinifactory due to my logical, procedural Asperger's mind. Shenzhen IO takes it another level for me by combining this pure logic with another one of my passions, computer science! If you are a logical thinker, like computer science, want to learn basic computer circuits, or just like challenges, this is the game for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you enjoy assembly-trickery, code optimization and spending a lot of time pretending you're a hardware-developer in shezhen instead of actually coding real-life products, then this is the game for you.  I spend almost all my free time with electronics (microcontrollers, blinking LEDs and making custom PCBs) and game development so its not a big surprise that I really like all Zachtronics' games, which are usually about coding. (Be it mechanical or assembly)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I honestly just play the soltaire minigame",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game to relax after doing real life programming. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is a Zachtronics game. 'Zachtronics' is practically a genre by now.   If you have played Zach's games before, you'll know if you like Shenzhen or not.  If you haven'y played Zach's games before, go and play them first and then come back to this one.  Shenzhen I/O is a great, intense, programming-puzzle game where you feel like an idiot for 40 mins, a genius for 2 minutes and are always on the verge of wanting to putting a bounty on Zach's head.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "best solitaire you can buy for $13.49  would become immortal again 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It takes a certain kind person to hear 'make circuit boards and write processor code for cheap electronics' and think that sounds like a lot of fun. If you're that kind of person, you just might like this game as much as I do.  The puzzles have a steady curve from ridiculously simple to incredibly frustrating, and creativity is rewarded by discovering more optimized solutions.  ABSOLUTELY get a binder and print the manual. You will need it, and being able to flip through it and scribble notes is a much better experience than trying to simply scroll through the PDF. It also helps buid the immersion for the experience of being a new employee that's just been handed this binder.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great mechanics, visuals &amp; music. 10/10 would code it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Another fantastic game from Zachtronics! Beautiful interface, interesting characters and world and of course, extremely well designed and challenging puzzles. All around a very polished game. If you enjoyed TIS-100, SpaceChem or Infinifactory, then this is a safe buy. If not, then this is a good game to start with, as long as the idea appeals to you and you have patience to learn and experiment. Basic programming understanding would help you going a lot faster, but isn't required. How things work and what you can do is well described in few manual pages, after that, it's all up to you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you like puzzles and getting frusturated then this is the game for you!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is a fantastic experience, very difficult, but I expect nothing else from Zachtronics.  If you liked TIS-100, you'll probably like this game. If you disliked TIS-100, you probably won't like this game.  That's about all you need to know.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most esoteric games possible.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Zachtronics seem to like releasing games that are outright too smart for me.  I love it anyway. There are no puzzle games anywhere near as satisfying as theirs!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I want to work for Zachtronics.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A kind of hybrid between TIS-100 and spacechem. It acheives that end very satisfyingly.",
+            "review_score": "1"
+        }
+    ]
+}

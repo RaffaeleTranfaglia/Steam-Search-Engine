@@ -1,0 +1,42 @@
+{
+    "app_id": 916390,
+    "name": "Team Up VR (Beta)",
+    "release_date": "2018-08-21",
+    "developer": [
+        "Innolabs"
+    ],
+    "publisher": [
+        "Innolabs"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+    ],
+    "tags": [
+        "Free to Play",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 10,
+    "negative_ratings": 10,
+    "price": 0.0,
+    "description": "Immerse yourself in the world of ultimate war between Terminators and Humans. Choose your hero from different playable characters. Fight and claim your victory in an epic VR death match.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/916390/header.jpg?t=1552921109",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5-4590 equivalent Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i7-4770 equivalent or higher Memory: 8 GB RAM Graphics: NVIDIA GTX 980, AMD R9 390 equivalent or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 4 GB available space",
+    "reviews": []
+}

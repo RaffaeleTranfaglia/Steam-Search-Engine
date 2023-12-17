@@ -1,0 +1,52 @@
+{
+    "app_id": 364840,
+    "name": "N2O: Nitrous Oxide",
+    "release_date": "2015-06-29",
+    "developer": [
+        "Urbanscan"
+    ],
+    "publisher": [
+        "Console Classics"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Racing"
+    ],
+    "tags": [
+        "Action",
+        "Racing",
+        "Classic"
+    ],
+    "achievements": 10,
+    "positive_ratings": 24,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "N2O: Nitrous Oxide's gameplay is pure shooter, reminiscent of the arcade classic TEMPEST. You're stuck on the perimeter of a tube and you job is to shoot at everything in your way.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/364840/header.jpg?t=1447372991",
+    "minimum_requirements": "OS: Windows XP or newer Memory: 1 GB RAM Graphics: Dedicated Video Graphics Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Nice to see this on Steam. 8/10  PSX port; this is not a remake, ...it's classic. This is the original Nitrous Oxide featuring   The Crystal Method",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I used to fry my brain playing this as a kid for hours at a time. I was always hoping this game would get a reboot but this is fine for now.   PS. Don't take the brown acid.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is quite plainly a, by definition, half-♥♥♥♥♥ PlayStation1 Emulator; so weak is the port that the on-screen indicators are PSX icons and annoying to navigate. It offers no audio or visual improvements at all, running at a painfully dated VGA resolution (320x240x256c). It doesn't even seem to run at 60-fps on a desktop gaming tower. You don't even get the benefit of a copy of 'Vegas' on CD and, for that matter, a way to play another CD in-line.  Do yourself a favor: find a copy of the PlayStation CD-ROM, get an accelerated PSX emulator (some of them are free) or even just a used PS1. Honestly! This class of shovelware is overpriced at a dollar..",
+            "review_score": "-1"
+        }
+    ]
+}

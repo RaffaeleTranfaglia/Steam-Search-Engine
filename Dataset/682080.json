@@ -1,0 +1,42 @@
+{
+    "app_id": 682080,
+    "name": "Pato Box",
+    "release_date": "2018-03-15",
+    "developer": [
+        "Bromio",
+        "2think design studio"
+    ],
+    "publisher": [
+        "Bromio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 51,
+    "positive_ratings": 42,
+    "negative_ratings": 4,
+    "price": 11.39,
+    "description": "A surreal boxing quest with a duck! Test your reflexes as you fight your way through an evil corporation in search for retribution.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/682080/header.jpg?t=1534431116",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core i5 Memory: 2 GB RAM Graphics: Intel Iris Pro Graphics 6200 DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

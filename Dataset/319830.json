@@ -1,0 +1,50 @@
+{
+    "app_id": 319830,
+    "name": "AX:EL - Air XenoDawn",
+    "release_date": "2015-12-04",
+    "developer": [
+        "Alex Piola"
+    ],
+    "publisher": [
+        "KISS ltd"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 22,
+    "positive_ratings": 741,
+    "negative_ratings": 223,
+    "price": 0.0,
+    "description": "Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/319830/header.jpg?t=1518201490",
+    "minimum_requirements": "OS: Windows 7/8 Processor: 3.5 GHz dual core CPU or more Memory: 2 GB RAM Graphics: 1500MB video RAM with pixel shader 3.0 support DirectX: Version 9.0c Storage: 1 GB available space Sound Card: OpenAL capable sound device",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": " Introduction",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well this is really more someone mucking around with a 3D gaming engine than an actual game.  It's a lot better than the tired old 2D retro pixel platformers that people with no talent push out just because they think if they release a game pretending 30 years of advancement in video gaming hasn't taken place, they can quit their job at Starbucks. This is more of the foundation for a real game that isn't there yet.  A lot of effort went into making this game work and it shows. The visuals in the engine look nice. There's no sense of 'laziness' that you get from other games, rather the feeling that it's an incomplete project.  Unfortunately as far as games go, it's not a huge amount of fun, you have some 'morphing' advanced fighter plane that can change shape and turn into a submarine, there's 10 mediocre missions where you shoot uninspired enemies and the game engine gets shown off a lot.   It's a good tech demo but not a game you should buy expecting to get Wing Commander or a decent flight sim or anything.",
+            "review_score": "-1"
+        }
+    ]
+}

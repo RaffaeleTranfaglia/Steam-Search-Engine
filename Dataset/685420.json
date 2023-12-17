@@ -1,0 +1,45 @@
+{
+    "app_id": 685420,
+    "name": "Grace of Zordan",
+    "release_date": "2017-10-25",
+    "developer": [
+        "Cybergrotex"
+    ],
+    "publisher": [
+        "Cybergrotex"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Free to Play",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Free to Play",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 82,
+    "negative_ratings": 64,
+    "price": 0.0,
+    "description": "Tactical-strategic turn-based card game, the key focus is on the player's ability to assess the situation and control the battlefield.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/685420/header.jpg?t=1508958067",
+    "minimum_requirements": "OS: Windows 7 / Windows 8 / Windows 8.1 / Windows 10 Processor: Intel Core 2 Duo E4600 or AMD Athlon II P340 Dual Core Memory: 3 GB RAM Graphics: Intel HD Graphics 615 or Radeon 6600M DirectX: Version 9.0c Network: Broadband Internet connection Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 7 / Windows 8 / Windows 8.1 / Windows 10 Processor: Intel Core i3-3220 or AMD Athlon II X4 641 or better Memory: 8 GB RAM Graphics: GeForce GTX 560 Ti or Radeon RX 550, or better DirectX: Version 9.0c Network: Broadband Internet connection Storage: 600 MB available space",
+    "reviews": []
+}

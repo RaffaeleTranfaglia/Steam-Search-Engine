@@ -1,0 +1,40 @@
+{
+    "app_id": 793820,
+    "name": "Coffee Crawl",
+    "release_date": "2018-03-21",
+    "developer": [
+        "Vectorinox"
+    ],
+    "publisher": [
+        "Vectorinox"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "The world has fallen asleep, and you're among the few who are still awake. Choose your class, manage your resources, craft items, collect loot, work with other survivors, and survive to see the next dawn; in this unique blend of action RPG, survival, and roguelike.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/793820/header.jpg?t=1527663692",
+    "minimum_requirements": "OS: WindowsR 7/8/8.1/10 (32bit/64bit) Processor: Intel Core2 Duo or better Memory: 4 GB RAM Graphics: DirectX 9/OpenGL 4.1 capable GPU DirectX: Version 9.0 Storage: 450 MB available space Sound Card: DirectX 9.0 Compatible Sound",
+    "recommended_requirements": "Graphics: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50), iOS 8.0, Android 4.4.4",
+    "reviews": []
+}

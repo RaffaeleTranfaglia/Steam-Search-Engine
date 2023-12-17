@@ -1,0 +1,48 @@
+{
+    "app_id": 475220,
+    "name": "Kabitis",
+    "release_date": "2016-06-02",
+    "developer": [
+        "André Bertaglia"
+    ],
+    "publisher": [
+        "André Bertaglia"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 100,
+    "negative_ratings": 99,
+    "price": 1.69,
+    "description": "Platform game with new features.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/475220/header.jpg?t=1543674197",
+    "minimum_requirements": "OS: Windows Memory: 512 MB RAM Storage: 130 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I'm not a big fan of side scrolling platforms games but this game brought back memories of my NES good times. I recommend it for its challenge. And also, i think your kids would enjoy it, just like mine did. =D",
+            "review_score": "1"
+        }
+    ]
+}

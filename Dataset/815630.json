@@ -1,0 +1,38 @@
+{
+    "app_id": 815630,
+    "name": "Majula Frontier",
+    "release_date": "2018-09-19",
+    "developer": [
+        "EF Universe Games LLC"
+    ],
+    "publisher": [
+        "EF Universe Games LLC"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "RPG"
+    ],
+    "achievements": 26,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 11.39,
+    "description": "The sky over Majula is turning black, the ground is starting to decay, and monsters are returning to the world, forcing a group of retired heroes to band together once more.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/815630/header.jpg?t=1546325987",
+    "minimum_requirements": "OS: Windows 7 64-bit (SP1) Processor: 2.4 GHz AMD/Intel processor or higher Memory: 4 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 6 GB available space Additional Notes: 1080p, 16:9 recommended",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: 2.4 GHz AMD/Intel processor or higher Memory: 8 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 11 Storage: 6 GB available space Additional Notes: 1080p, 16:9 recommended",
+    "reviews": []
+}

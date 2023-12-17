@@ -1,0 +1,37 @@
+{
+    "app_id": 570060,
+    "name": "TacoFace",
+    "release_date": "2016-12-21",
+    "developer": [
+        "KLNK Inc."
+    ],
+    "publisher": [
+        "KLNK Inc."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 4,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "Have you ever dreamed of having rocket launchers for arms and laser blasters for eyes while delicious tacos rain down on you? Well, your dream is now a reality. Uh, virtual reality.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/570060/header.jpg?t=1482346933",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer. Processor: Intel Core i5 4590 or greater. Memory: 8 GB RAM Graphics: GeForce GTX 970 or AMD Radeon R9 290 or better. DirectX: Version 11 Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

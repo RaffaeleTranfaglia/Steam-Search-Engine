@@ -1,0 +1,39 @@
+{
+    "app_id": 510680,
+    "name": "Re Angel",
+    "release_date": "2018-04-17",
+    "developer": [
+        "Studio GU"
+    ],
+    "publisher": [
+        "Studio GU"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+    ],
+    "achievements": 21,
+    "positive_ratings": 116,
+    "negative_ratings": 2,
+    "price": 12.39,
+    "description": "Re Angel is a 2nd visual novel created by Studio GU, an indy game developer from Thailand.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/510680/header.jpg?t=1529606376",
+    "minimum_requirements": "OS: Windows 7 SP1 Processor: 1GHz Memory: 1 GB RAM Graphics: Any Storage: 1 GB available space Sound Card: Any",
+    "recommended_requirements": "OS: Windows 10 Processor: 2GHz Memory: 2 GB RAM Graphics: Any Storage: 2 GB available space Sound Card: Any",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 926350,
+    "name": "ALIEN FIELD",
+    "release_date": "2018-12-22",
+    "developer": [
+        "Mindware Co.,Ltd."
+    ],
+    "publisher": [
+        "Mindware Co.,Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 30,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 10.99,
+    "description": "Totally new, attack! Rogue Like Dot Eat! Psychedelic full throttle! Explode your concentration in 3 minutes and knock out the high score!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/926350/header.jpg?t=1546415267",
+    "minimum_requirements": "OS: Windows 7 or later Processor: Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz) Memory: 1 GB RAM Graphics: DirectX 9.0c compatible graphic card DirectX: Version 9.0c Sound Card: DirectX 9.0c compatible sound card",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz) Memory: 2 GB RAM Graphics: GTX700 or later ,RADEON HD6000 or later DirectX: Version 9.0c Sound Card: DirectX 9.0c compatible sound card",
+    "reviews": []
+}

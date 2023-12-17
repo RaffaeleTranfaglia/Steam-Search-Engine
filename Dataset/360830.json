@@ -1,0 +1,47 @@
+{
+    "app_id": 360830,
+    "name": "Yooka-Laylee",
+    "release_date": "2017-04-11",
+    "developer": [
+        "Playtonic Games"
+    ],
+    "publisher": [
+        "Team17 Digital Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "3D Platformer",
+        "Adventure",
+        "Kickstarter"
+    ],
+    "achievements": 35,
+    "positive_ratings": 2434,
+    "negative_ratings": 791,
+    "price": 34.99,
+    "description": "Yooka-Laylee is an all-new open-world platformer from genre veterans Playtonic! Explore huge, beautiful worlds, meet an unforgettable cast of characters and horde a vault-load of collectibles as buddy-duo Yooka and Laylee embark on an epic adventure to thwart corporate creep Capital B!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/360830/header.jpg?t=1516878531",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 (64bit) Processor: Intel i5-2500 3.3GHz Memory: 8 GB RAM Graphics: NVidia GTS450 / AMD Radeon 6850HD DirectX: Version 11 Storage: 9 GB available space Sound Card: Windows Compatible Card Additional Notes: A Controller is STRONGLY recommended to play this game.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

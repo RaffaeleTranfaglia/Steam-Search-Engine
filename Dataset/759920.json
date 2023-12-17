@@ -1,0 +1,43 @@
+{
+    "app_id": 759920,
+    "name": "Souland",
+    "release_date": "2017-12-29",
+    "developer": [
+        "Ultraint"
+    ],
+    "publisher": [
+        "Ultraint"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 5,
+    "negative_ratings": 0,
+    "price": 4.99,
+    "description": "There are many nations in Souland, and you will be one of them. Can you beat all other nations?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/759920/header.jpg?t=1532659777",
+    "minimum_requirements": "OS: Windows XP SP3 or higher Processor: 0.5 GHz Processor Memory: 512 MB RAM Graphics: 512 MB video memory DirectX: Version 9.0c Storage: 200 MB available space",
+    "recommended_requirements": "OS: Windows XP SP3 or higher Processor: 1.0 GHz Processor Memory: 1 GB RAM Graphics: 512 MB video memory DirectX: Version 9.0c Storage: 200 MB available space",
+    "reviews": []
+}

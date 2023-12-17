@@ -1,0 +1,42 @@
+{
+    "app_id": 555510,
+    "name": "MachiaVillain",
+    "release_date": "2018-05-16",
+    "developer": [
+        "Wild Factor"
+    ],
+    "publisher": [
+        "Good Shepherd Entertainment"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 9,
+    "positive_ratings": 246,
+    "negative_ratings": 132,
+    "price": 14.99,
+    "description": "Machiavillain is an evil mansion management and strategy game, inspired by Dungeon Keeper, Prison Architect and all the horror movie clichés! Build your own manor, raise your monsters, set up your traps, and exterminate your victims. But to gain reputation you'll have to slay by the horror movie rules!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/555510/header.jpg?t=1548701763",
+    "minimum_requirements": "OS: Windows 7 or later. 32 Bit supported. Processor: Intel Core 2 Duo or faster Memory: 2 GB RAM Graphics: AMD Radeon HD 5750/Nvidia GT 450 or higher DirectX: Version 9.0 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

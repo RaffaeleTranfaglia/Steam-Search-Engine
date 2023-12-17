@@ -1,0 +1,48 @@
+{
+    "app_id": 365400,
+    "name": "Spoko and Poko",
+    "release_date": "2015-05-11",
+    "developer": [
+        "LemonOrange"
+    ],
+    "publisher": [
+        "LemonOrange"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 25,
+    "positive_ratings": 1,
+    "negative_ratings": 6,
+    "price": 2.79,
+    "description": "Drop in to the world of two friendly beetles: relaxed Spoko and angry friend Poko. They need your help to transport a ball to their cottage. Are you ready to help them? Remember to collect all diamonds on the way!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/365400/header.jpg?t=1447373101",
+    "minimum_requirements": "OS: Windows XP or newer Processor: 2 GHz Intel Core 2 Duo or AMD equivalent Memory: 2 GB RAM Graphics: DirectX 9 compatible graphics card with 1 GB memory DirectX: Version 9.0 Storage: 300 MB available space Additional Notes: Please, run the game in administrator mode",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The game looks interesting from the screenshots, but once you start it falls apart. Usually I'm not a big fan of tutorials, but some games need one and this game surely is one of them.  There's no intro or anything else when you start the game. You are simply thrown in the first level without any explanation of the controls or the objective of the game. I could gather that it's a breakout 'mutant' in which you have to shoot coins and gems and then place the ball into a mining cart. You do that by controlling a handcar which has an adjustable 'bat'. The controls are quite unintuitive to say the least.  The visual presentation is nice, yet not very varied. The music doesn't fit and got on my nerves pretty quick.  It's not a horrible game, but it needs a howto or a tutorial. Also the controls could use some work. As it is right now I won't recommend the game.",
+            "review_score": "-1"
+        }
+    ]
+}

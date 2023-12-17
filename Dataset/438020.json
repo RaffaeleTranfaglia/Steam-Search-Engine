@@ -1,0 +1,61 @@
+{
+    "app_id": 438020,
+    "name": "AI: Rampage",
+    "release_date": "2016-01-27",
+    "developer": [
+        "Sekerin Productions"
+    ],
+    "publisher": [
+        "New Reality Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Strategy",
+        "Action"
+    ],
+    "achievements": 9,
+    "positive_ratings": 85,
+    "negative_ratings": 206,
+    "price": 1.59,
+    "description": "Fight against the robots and reclaim the land! Attempt to survive in a post-apocalyptic wasteland, where it seems like everything wants you dead! Tactical stealth action in a post-apocalyptic settings!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/438020/header.jpg?t=1512241751",
+    "minimum_requirements": "Минимальные: ОС: Windows 7 Процессор: 1 Ghz Оперативная память: 1 GB ОЗУ Видеокарта: Graphics: Nvidia GF 8600GT, AMD Radeon HD3650, Intel HD2000 Звуковая карта: Stereo Sound",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "7/10  not made in unity + demo like menus that need more love -  unique style of setting and world + infringes sadly on copyrightable materials -- (sorry b0ss, u need to remove these i dont want to see it removed from steam)  very good delivery of believable atmosphere + poor campaign, no story needs far more done with scope and vision -- wonky controls - cool weapon ideas + cool vehicles + coded in open GL by hand from scratch using freely available open source libs ++ lacking start menu - very lightweight program with little bloat ++  over all, it needs work, but this is refreshing and the price is great. I dunno, I feel it just needs more, the dev charged the rigth price tho.  Just needs more, get to it dev, it can be more, just keep trying, and find free sounds and audio so you dont get sued for copyrightable materials (audio)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like the retro graphics, and the price is good. But it's a hard game, I'm still trying to figure it out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh god, another ♥♥♥♥♥♥♥♥ game with no tutorials on how-to-play it and it look like 90s' game. I don't even remember that I got this game for free or I bought it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Avoid it even if its free.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hard as anything, or maybe I suck. Control scheme is...not the best, game is barely explained, and even on the easiest difficulty I couldn't walk a foot out of the bunkers without being spotted almost straight away.  Shows some promise of an interesting little stealth game, but...not executed well.",
+            "review_score": "-1"
+        }
+    ]
+}

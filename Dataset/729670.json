@@ -1,0 +1,45 @@
+{
+    "app_id": 729670,
+    "name": "Wanderlust",
+    "release_date": "2017-11-01",
+    "developer": [
+        "Eternity Studios"
+    ],
+    "publisher": [
+        "Eternity Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 1,
+    "positive_ratings": 30,
+    "negative_ratings": 38,
+    "price": 5.79,
+    "description": "Wanderlust is a first person exploration game were you take a long journey between worlds. The adventure takes place in the dreams of a man addicted to consuming illegal substances. The game mainly consists to explore and feel the surrounding environment of a fantastic world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/729670/header.jpg?t=1509990779",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: Compatible with SSE2 instruction set. Memory: 50 MB RAM Graphics: DX9 (shader model 3.0) or DX11 with level 9.3 capability capabilities. Storage: 50 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

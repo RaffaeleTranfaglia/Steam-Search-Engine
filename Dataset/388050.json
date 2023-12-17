@@ -1,0 +1,48 @@
+{
+    "app_id": 388050,
+    "name": "Snik",
+    "release_date": "2015-09-04",
+    "developer": [
+        "Cleverweek"
+    ],
+    "publisher": [
+        "Cleverweek"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 24,
+    "positive_ratings": 58,
+    "negative_ratings": 39,
+    "price": 1.99,
+    "description": "Snik is an extremely hard game that will test your reflexes, timing, aiming and planning ahead in a simple, minimalist interface.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/388050/header.jpg?t=1478260553",
+    "minimum_requirements": "OS: Windows XP Processor: SSE2 instruction set support Memory: 128 MB RAM DirectX: Version 9.0 Storage: 100 MB available space",
+    "recommended_requirements": "OS: Windows 7 or later Processor: Intel Pentium 4 (Prescott) or later Memory: 256 MB RAM DirectX: Version 10 Storage: 100 MB available space",
+    "reviews": [
+        {
+            "review_text": "I've already played in Tenrow game from the same developer. I passed the game pretty quickly and without problems. Snik game is not too difficult if you just want to pass it to the end. But, if you want to get achievements, then this game turns into a hell of a complex puzzle. I can't get the achievement , even on the first level!!! Buy this game for your kids, let them grow a genius)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "archievments are bugged cuz i cleared all levels with 1 star and i have 100%",
+            "review_score": "1"
+        }
+    ]
+}

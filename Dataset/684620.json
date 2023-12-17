@@ -1,0 +1,41 @@
+{
+    "app_id": 684620,
+    "name": "JetX VR",
+    "release_date": "2019-04-11",
+    "developer": [
+        "Singularity Lab"
+    ],
+    "publisher": [
+        "Fibrum Limited"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Action",
+        "VR"
+    ],
+    "achievements": 24,
+    "positive_ratings": 15,
+    "negative_ratings": 4,
+    "price": 10.99,
+    "description": "JetX, new ambitious arena shooter game available on both PC and VR",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/684620/header.jpg?t=1555583206",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Core i5 Memory: 8 GB RAM Graphics: GeForce GTX 750 TI \\ Radeon R7 260X ( For PC version ) | NVidia GeForce 970 \\ Radeon RX 470  for VR DirectX: Version 11 Network: Broadband Internet connection Storage: 2500 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Core i7 Memory: 12 GB RAM Graphics: GeForce GTX 1060 \\ Radeon RX 480 DirectX: Version 11 Network: Broadband Internet connection Storage: 2500 MB available space",
+    "reviews": []
+}

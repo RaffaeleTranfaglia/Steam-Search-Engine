@@ -1,0 +1,36 @@
+{
+    "app_id": 600650,
+    "name": "OK Bob",
+    "release_date": "2017-03-31",
+    "developer": [
+        "Lumen Labs"
+    ],
+    "publisher": [
+        "Lumen Labs"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 17,
+    "negative_ratings": 0,
+    "price": 2.79,
+    "description": "OK Bob is a short atmospheric escape room game. Find clues, read notes, and solve puzzles to ultimately make your escape. OK Bob was created exclusively for VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/600650/header.jpg?t=1490987926",
+    "minimum_requirements": "OS: Windows 7 SP1, Windows 8.1 or Windows 10 Processor: Intel® i5-4590, AMD FX 8350 equivalent or better Memory: 4 GB RAM Graphics: NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better Storage: 650 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 623810,
+    "name": "Rabbit Story",
+    "release_date": "2017-05-16",
+    "developer": [
+        "Viacheslav Bushuev"
+    ],
+    "publisher": [
+        "Viacheslav Bushuev"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 63,
+    "negative_ratings": 21,
+    "price": 2.89,
+    "description": "Rabbit Story is an adventure game that offers a unique play experience: simple in controls and appealing to feelings. Its dramatic plot tells the player about relationship breakup and struggles, doubts and fears related to it.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/623810/header.jpg?t=1494972309",
+    "minimum_requirements": "OS: Windows 10, Windows 8, Windows 7 32-bit Processor: Quad-core Intel or AMD processor, 2.5 GHz or faster Memory: 4 GB RAM Graphics: NVIDIA GeForce 470 GTX / AMD Radeon 6870 HD or higher DirectX: Version 9.0c Storage: 1100 MB available space",
+    "recommended_requirements": "OS: Windows 10, Windows 8, Windows 7 32-bit Processor: Quad-core Intel or AMD processor, 3 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA Geforce GTX 660 / AMD Radeon HD 7870 or higher DirectX: Version 9.0c Storage: 1100 MB available space",
+    "reviews": []
+}

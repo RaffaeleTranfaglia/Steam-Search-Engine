@@ -1,0 +1,45 @@
+{
+    "app_id": 403460,
+    "name": "SkyScrappers",
+    "release_date": "2015-10-15",
+    "developer": [
+        "Ground Shatter"
+    ],
+    "publisher": [
+        "Ground Shatter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Local Multiplayer",
+        "Arcade"
+    ],
+    "achievements": 22,
+    "positive_ratings": 6,
+    "negative_ratings": 2,
+    "price": 7.99,
+    "description": "Run, jump, and your fight your way to the top of a collapsing building. Compete with up to three of your friends in this 90s style competitive platform brawler.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/403460/header.jpg?t=1448482972",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: 2.0 GHz Dual Core Processor Memory: 1 GB RAM Graphics: GeForce 8800 or equivalent DirectX: Version 9.0c Storage: 1200 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "At first, SkyScrappers looked like a lot of fun for a couch gaming session with friends, but it is more like gambling with friends, because the only thing you do is button smashing for attacks. Jumping on some of the objects is also very random, because you are able to jump on some pieces of the collapsing tower but these spots aren't highlighted in any way. The animations are very special too, they are very unsmooth you never know, which attack you are currently making.",
+            "review_score": "-1"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 942060,
+    "name": "JUMPGRID",
+    "release_date": "2019-02-12",
+    "developer": [
+        "Ian MacLarty"
+    ],
+    "publisher": [
+        "Ian MacLarty"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Fast-Paced"
+    ],
+    "achievements": 15,
+    "positive_ratings": 27,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Deftly teleport your way through a cosmic obstacle course in this white-knuckle arcade dodge-em-up!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/942060/header.jpg?t=1551080356",
+    "minimum_requirements": "OS: Windows 7+ Processor: Intel Core i5 or newer Memory: 4 GB RAM Graphics: Direct3d 11 DirectX: Version 11 Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "app_id": 1036990,
+    "name": "Royal Gems",
+    "release_date": "2019-04-01",
+    "developer": [
+        "8floor"
+    ],
+    "publisher": [
+        "8floor"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Countless king's bounties will be yours! User your wit, and the prize will be yours in no time!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1036990/header.jpg?t=1554129430",
+    "minimum_requirements": "OS: Windows XP SP3 x64 Processor: 1500 MHz Memory: 512 MB RAM",
+    "recommended_requirements": "OS: Windows 7 or later Processor: 2000 MHz Memory: 1024 MB RAM",
+    "reviews": []
+}

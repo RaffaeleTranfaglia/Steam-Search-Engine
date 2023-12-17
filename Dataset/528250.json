@@ -1,0 +1,52 @@
+{
+    "app_id": 528250,
+    "name": "Patchwork",
+    "release_date": "2016-12-06",
+    "developer": [
+        "DIGIDICED"
+    ],
+    "publisher": [
+        "Asmodee Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Casual",
+        "Strategy",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 28,
+    "negative_ratings": 8,
+    "price": 5.19,
+    "description": "In the long-awaited digital adaptation of Uwe Rosenberg's Patchwork, players patch their way to victory using fabric pieces of assorted sizes, colors, and buttons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/528250/header.jpg?t=1542042403",
+    "minimum_requirements": "OS: Windows XP SP2+ Memory: 512 MB RAM Graphics: DX9 (shader model 3.0) DirectX: Version 9.0 Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I am having a lot of issues with this one running on Windows 10. Not sure if it's just me or others are having the problems.",
+            "review_score": "-1"
+        }
+    ]
+}

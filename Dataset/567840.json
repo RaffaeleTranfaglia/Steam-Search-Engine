@@ -1,0 +1,38 @@
+{
+    "app_id": 567840,
+    "name": "Brush Up VR",
+    "release_date": "2017-02-01",
+    "developer": [
+        "Games That Work"
+    ],
+    "publisher": [
+        "Games That Work"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 3,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Brush Up VR is a simple Toothbrushing challenge game. It is derived from the Brush Up mixed reality mobile game. Developed with NIH support, Brush Up wins health gaming awards (like the 2015 Innovation in Games and Simulation award from America’s prestigious Institute of Medicine) for teaching young children toothbrush mastery.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/567840/header.jpg?t=1485936875",
+    "minimum_requirements": "OS: Windows 7 SP1 or newer Processor: Intel™ Core™ i5-4590 or AMD FX™ 8350 or better Memory: 4 GB RAM Graphics: NVIDIA GeForce™ GTX 970 or AMD Radeon™ R9 290 or better DirectX: Version 11 Storage: 21 MB available space",
+    "recommended_requirements": "Processor: Intel™ Core™ i5-4590 or AMD FX™ 8350 or better Graphics: NVIDIA GeForce™ GTX 1060 or AMD Radeon™ RX 480 or better Storage: 21 MB available space",
+    "reviews": []
+}

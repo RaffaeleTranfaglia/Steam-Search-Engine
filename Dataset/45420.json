@@ -1,0 +1,45 @@
+{
+    "app_id": 45420,
+    "name": "Land It!",
+    "release_date": "2016-08-01",
+    "developer": [
+        "Nemesys Games"
+    ],
+    "publisher": [
+        "Nemesys Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "achievements": 25,
+    "positive_ratings": 10,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Try yourself as an air traffic controller and direct planes to safe landing! Can you land airplanes without crashing them? Can you be as good as the real people who run the show when you are flying?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/45420/header.jpg?t=1470070828",
+    "minimum_requirements": "OS: Windows 7/8/10 Processor: Dual Core 1.6GHz Memory: 2 GB RAM Graphics: shader model 2.0 capabilities DirectX: Version 9.0c Storage: 180 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "  It's relaxing and frustrating (in a good way) at the same time",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "app_id": 342310,
+    "name": "RIOT: Civil Unrest",
+    "release_date": "2019-02-12",
+    "developer": [
+        "Leonard Menchiari",
+        "IV Productions"
+    ],
+    "publisher": [
+        "Merge Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Indie",
+        "Pixel Graphics"
+    ],
+    "achievements": 10,
+    "positive_ratings": 541,
+    "negative_ratings": 244,
+    "price": 12.99,
+    "description": "As civil crisis deepens and inequality tears the very fabric of society the discontentment of the masses manifests itself in violent public disturbances and civil disorder. Play as the police or the angry horde as RIOT – Civil Unrest places you in some of the world’s most fractious disputes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/342310/header.jpg?t=1550145354",
+    "minimum_requirements": "OS: x64 versions of Microsoft Windows 7, 8.1 and 10 Processor: AMD / Intel dual-core CPU running at 2.8 GHz (AMD Athlon II X2 series or Intel Pentium Dual-Core G600 series or newer architectures are recommended. Memory: 4 GB RAM Graphics: AMD/NVIDIA dedicated graphic card, with at least 2048MB of dedicated VRAM and with at least DirectX 11 and Shader Model 5.1 support. AMD R7 265 and NVIDIA GeForce GTX 650 or newer architectures are recommended DirectX: Version 9.0c Storage: 3 GB available space Sound Card: Integrated or dedicated DirectX 9 compatible soundcard Additional Notes: Keyboard, mouse and internet connection for Steam",
+    "recommended_requirements": "OS: Microsoft Windows 10 x64 Processor: AMD / Intel quad-core processor running at 3.2 GHz (AMD FX 6000 series or Intel Core i3 4000 series or newer architectures are recommended) Memory: 8 GB RAM Graphics: AMD/NVIDIA dedicated graphic card, with at least 4096MB of dedicated VRAM and with at least DirectX 11 and Shader Model 6.0 support. ATI/AMD Radeon R9 380 and NVIDIA GeForce GTX 960 or newer architectures are recommended DirectX: Version 9.0c Storage: 3 GB available space Sound Card: Integrated or dedicated DirectX 9 compatible soundcard Additional Notes: Keyboard, mouse and internet connection for Steam",
+    "reviews": []
+}

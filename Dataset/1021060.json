@@ -1,0 +1,37 @@
+{
+    "app_id": 1021060,
+    "name": "Brix VR",
+    "release_date": "2019-03-29",
+    "developer": [
+        "Nathaniel Powell"
+    ],
+    "publisher": [
+        "Nathaniel Powell"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 11,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A breakout/arkanoid style game designed for VR.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1021060/header.jpg?t=1553871691",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i5-4590, AMD FX 8350 equivalent or better Memory: 16 MB RAM Graphics: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better DirectX: Version 11 Storage: 850 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

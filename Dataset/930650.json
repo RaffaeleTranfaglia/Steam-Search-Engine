@@ -1,0 +1,39 @@
+{
+    "app_id": 930650,
+    "name": "Parkour Polygon",
+    "release_date": "2018-09-21",
+    "developer": [
+        "Jonah Gasson"
+    ],
+    "publisher": [
+        "Jonah Gasson"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 0,
+    "negative_ratings": 1,
+    "price": 2.09,
+    "description": "Dodge hazards, climb walls, and kick off of signs in your rush to the flag! Parkour Polygon delivers a 2D parkour experience with a striking minimalist style.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/930650/header.jpg?t=1537531113",
+    "minimum_requirements": "OS: Microsoft® Windows® Processor: Intel(R) Core(TM) i6 or higher Memory: 1 GB RAM Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

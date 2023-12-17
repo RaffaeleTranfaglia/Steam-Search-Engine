@@ -1,0 +1,41 @@
+{
+    "app_id": 446240,
+    "name": "Trawl",
+    "release_date": "2016-05-13",
+    "developer": [
+        "Daniel Gallagher",
+        "Nathan Gallardo"
+    ],
+    "publisher": [
+        "House of Wire"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "tags": [
+        "RPG",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 5,
+    "positive_ratings": 21,
+    "negative_ratings": 14,
+    "price": 4.99,
+    "description": "Trawl is a first person experiential game of discovery and creativity. First you must figure out how to operate the various parts of the boat, manipulating the wheel, throttle and the net. Then, trawl the sea to recover discover what secrets are hidden in its depths and record your findings on your typewriter.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/446240/header.jpg?t=1463335646",
+    "minimum_requirements": "OS: WindowsXP SP2 or higher Processor: 1.80GHz Processor Memory: 2 GB RAM Graphics: Video card with 512MB of VRAM Storage: 200 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

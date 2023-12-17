@@ -1,0 +1,47 @@
+{
+    "app_id": 474050,
+    "name": "Candy Blast",
+    "release_date": "2016-06-30",
+    "developer": [
+        "White Rabbit Games"
+    ],
+    "publisher": [
+        "White Rabbit Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Indie",
+        "Puzzle"
+    ],
+    "achievements": 18,
+    "positive_ratings": 46,
+    "negative_ratings": 46,
+    "price": 0.79,
+    "description": "A new flavor of chain-reaction games",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/474050/header.jpg?t=1468071073",
+    "minimum_requirements": "OS: Windows XP Processor: 1 GHz Memory: 512 MB RAM Graphics: 128 MB Storage: 30 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 1 GB RAM Graphics: 512 MB Storage: 30 MB available space",
+    "reviews": [
+        {
+            "review_text": "Nice and funny logical game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I'd recommend this game generally for those who are interested in fast placed logic games. On the very low levels it's not so challenging, but later on you will have to carry out smarter, better strategies to make those candies happy! (honestly I was surprised after my first failure, because usually I'm on the top in these type of games).  It's definitely worth that small price! Of course you won't get Starcraft III or Heroes XV for that money, but some fun time with a small, cute game. I guess that's why we are on steam.",
+            "review_score": "1"
+        }
+    ]
+}

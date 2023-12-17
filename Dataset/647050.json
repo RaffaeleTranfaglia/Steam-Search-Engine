@@ -1,0 +1,40 @@
+{
+    "app_id": 647050,
+    "name": "Super Hardcore",
+    "release_date": "2017-07-12",
+    "developer": [
+        ".ez Games"
+    ],
+    "publisher": [
+        ".ez Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 21,
+    "positive_ratings": 10,
+    "negative_ratings": 7,
+    "price": 0.79,
+    "description": "You play for a character of the most popular games - the big red cube. Your task is to collect the coins and to get to the exit avoiding the circular saws.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/647050/header.jpg?t=1500031553",
+    "minimum_requirements": "OS: Windows XP Processor: Dual-core 1.2gHz Memory: 1 GB RAM Graphics: GPU that supports Shader Model 3 and depth textures DirectX: Version 9.0 Storage: 60 MB available space Sound Card: Yes",
+    "recommended_requirements": null,
+    "reviews": []
+}

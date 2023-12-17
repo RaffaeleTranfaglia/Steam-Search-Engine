@@ -1,0 +1,51 @@
+{
+    "app_id": 509960,
+    "name": "Pinga Ponga",
+    "release_date": "2016-08-02",
+    "developer": [
+        "Mustache Games"
+    ],
+    "publisher": [
+        "Mustache Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 22,
+    "negative_ratings": 26,
+    "price": 0.79,
+    "description": "Pinga Ponga is a improved Pong game with many extras and different game modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/509960/header.jpg?t=1473162602",
+    "minimum_requirements": "OS: Windows 7+ Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware Accelerated Graphics with dedicated memory",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I was quite looking forward to playing this game. I thought I would get feelings of nostalgia from playing my very first console. I can't remember what is was called but every game contained 1 ball and two bats whether it was ping pong, football or even basketball.   This is nothing like that. For a start I haven't even managed to win a point against the computer yet! I thought it might be an easy 6 achievements but boy was I wrong. It is impossible to win a point against the computer. They return the ball every time no matter what you throw at it. The controls don't make returning the ball any easier either and invariably it ends in a 5-0 defeat.   The music loops every 10 seconds and is very annoying to boot also.   You can pick this up cheap in a bundle but I won't be playing it again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Extremely bare bones and basic. Controls are inflexible and laggy. If you like breakout/arkanoid style games, keep looking. This will not satisfy.",
+            "review_score": "-1"
+        }
+    ]
+}

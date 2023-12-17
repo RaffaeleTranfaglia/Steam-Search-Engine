@@ -1,0 +1,45 @@
+{
+    "app_id": 420930,
+    "name": "CHKN",
+    "release_date": "2016-04-01",
+    "developer": [
+        "Katapult"
+    ],
+    "publisher": [
+        "Katapult"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Sandbox",
+        "Adventure"
+    ],
+    "achievements": 21,
+    "positive_ratings": 406,
+    "negative_ratings": 100,
+    "price": 10.99,
+    "description": "Behold, the miracle of life… packed into cubes! Create fantastic creatures in an open-world sandbox game like no other. Explore, craft, and survive—all with the help of your very own creations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/420930/header.jpg?t=1554490934",
+    "minimum_requirements": "OS: Windows 7+, 64-bit Processor: 2 GHz+ Quad Core Memory: 4 GB RAM Graphics: DirectX 10.1 Compatible GPU DirectX: Version 10 Network: Broadband Internet connection Storage: 5 GB available space",
+    "recommended_requirements": "OS: Windows 10, 64-bit Processor: i5 Quad Core Memory: 8 GB RAM Graphics: Nvidia 900 series Network: Broadband Internet connection Storage: 5 GB available space Additional Notes: SSD storage",
+    "reviews": []
+}

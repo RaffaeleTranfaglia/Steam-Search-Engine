@@ -1,0 +1,40 @@
+{
+    "app_id": 889530,
+    "name": "Sharp",
+    "release_date": "2018-09-01",
+    "developer": [
+        "TiredOfCoding",
+        "PerfectHumanInterface"
+    ],
+    "publisher": [
+        " "
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Free to Play"
+    ],
+    "achievements": 2,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 0.0,
+    "description": "Boot up and navigate a fractured digital world to uncover valuable data hidden amongst dangerous traps and viruses.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/889530/header.jpg?t=1543256107",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1+ Processor: 2.00 GHz Memory: 1 GB RAM DirectX: Version 10 Storage: 100 MB available space",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

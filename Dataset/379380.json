@@ -1,0 +1,43 @@
+{
+    "app_id": 379380,
+    "name": "ReLoaded",
+    "release_date": "2015-07-27",
+    "developer": [
+        "Urbanscan"
+    ],
+    "publisher": [
+        "Console Classics"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3,
+    "negative_ratings": 7,
+    "price": 3.99,
+    "description": "If you like your games violent, you’re in for a sick treat with Re-Loaded, the sequel to the popular blood-fest shooter Loaded. Re-Loaded is set over a number of 3D levels each more harrowing than the last. The sound effects will have you cringing, and the character animations show each minuscule trait of the six maniacs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/379380/header.jpg?t=1447376430",
+    "minimum_requirements": "OS: Windows XP or newer Graphics: Dedicated Video Graphics Storage: 600 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Not even a port just an emulated version of the old Playstation game (and a bad one at that) compete with Playstation controls, Playstation ERA slowdown and Dodgy Load times. Game equally does not full screen properly.",
+            "review_score": "-1"
+        }
+    ]
+}

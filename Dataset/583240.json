@@ -1,0 +1,44 @@
+{
+    "app_id": 583240,
+    "name": "Coffence",
+    "release_date": "2018-10-25",
+    "developer": [
+        "Sweet Bandits Studios"
+    ],
+    "publisher": [
+        "Sweet Bandits Studios"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Controller"
+    ],
+    "achievements": 30,
+    "positive_ratings": 19,
+    "negative_ratings": 8,
+    "price": 10.99,
+    "description": "Coffence is a fast-paced blend of fighting games and twin stick shooters with a dash of caffeine. Coffee is literally your health bar and every hit ejects the precious liquid up in the air for anyone to take. Experience dramatic reversals and tense stand-offs as you fight till the last drop with up to four players.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/583240/header.jpg?t=1540486844",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 Processor: Core I5 Memory: 2 GB RAM Graphics: 1 GB ATI Radeon HD 6950, 1GB NVIDIA GeForce GTX 560 or better DirectX: Version 11 Storage: 10 GB available space Sound Card: DirectX compatible sound card Additional Notes: Gamepad Required",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Core I7 Memory: 8 GB RAM Graphics: 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better DirectX: Version 11 Storage: 10 GB available space Sound Card: DirectX compatible sound card Additional Notes: Two Gamepads Recommended",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 461950,
+    "name": "Beat Cop",
+    "release_date": "2017-03-30",
+    "developer": [
+        "Pixel Crow"
+    ],
+    "publisher": [
+        "11 bit studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Pixel Graphics",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 32,
+    "positive_ratings": 1560,
+    "negative_ratings": 323,
+    "price": 11.49,
+    "description": "A retro, pixel art style adventure in New York, inspired by ’80s cop shows. You are Jack Kelly and you’ve been framed for murder. Now as a regular beat cop you have to find out, who did that. Expect thick crime story, a lot of black humour and all the other things you can find on the streets of Brooklyn.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/461950/header.jpg?t=1549526720",
+    "minimum_requirements": "OS: Windows XP SP3 (32 bit) / Vista Processor: Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz Memory: 2 GB RAM Graphics: Dedicated graphics card. GeForce 9600 GS Shader Model 3.0 512 MB or better. DirectX: Version 9.0c Sound Card: DirectX compatible",
+    "recommended_requirements": "OS: Windows 7/Windows 8 Processor: Intel(R) Core(TM)2 Quad 2.7 Ghz, AMD Phenom(TM)II X4 3 Ghz Memory: 4 GB RAM Graphics: Dedicated graphics card. GeForce GTX 260 1024 MB or better. DirectX: Version 9.0c Sound Card: DirectX compatible",
+    "reviews": []
+}

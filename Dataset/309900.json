@@ -1,0 +1,42 @@
+{
+    "app_id": 309900,
+    "name": "Super Sky Arena",
+    "release_date": "2015-10-05",
+    "developer": [
+        "Hammer Labs"
+    ],
+    "publisher": [
+        "Hammer Labs",
+        "Deck13"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Shared/Split Screen",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 29,
+    "negative_ratings": 7,
+    "price": 10.99,
+    "description": "Super Sky Arena is a modern re-imagination of Starfox multiplayer! Local multiplayer dogfights for up to 4 Friends (or Enemies). Your Friends are too far away to join you on your couch? Host an online game for them instead or play against the AI. Multiplayer fun for all!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/309900/header.jpg?t=1478077656",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Memory: 512 MB RAM Graphics: Dedicated Graphics Card Storage: 420 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: 2.5 GHz Memory: 1 GB RAM Graphics: Dedicated Graphics Card Storage: 200 MB available space",
+    "reviews": []
+}

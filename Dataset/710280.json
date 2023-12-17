@@ -1,0 +1,38 @@
+{
+    "app_id": 710280,
+    "name": "Musician",
+    "release_date": "2018-03-19",
+    "developer": [
+        "ZhangHaiLong"
+    ],
+    "publisher": [
+        "ZhangHaiLong"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Simulation"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 10.29,
+    "description": "A musician is a game that can generate animated music, and you can freely import the MIDI orbit in the game. Play the favorite music and write the music that belongs to your own step by step.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/710280/header.jpg?t=1521511480",
+    "minimum_requirements": "Минимальные: ОС: WindowsXP Процессор: Intel i5 Оперативная память: 2000 MB ОЗУ Видеокарта: GTX5700 DirectX: Версии 10 Место на диске: 3000 MB",
+    "recommended_requirements": "Рекомендованные: ОС: WindowsXP DirectX: Версии 10",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 565120,
+    "name": "The Station",
+    "release_date": "2018-02-19",
+    "developer": [
+        "The Station"
+    ],
+    "publisher": [
+        "The Station"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Story Rich"
+    ],
+    "achievements": 11,
+    "positive_ratings": 267,
+    "negative_ratings": 62,
+    "price": 11.39,
+    "description": "The Station is a first-person sci-fi mystery set on a space station sent to study a sentient alien civilization. Assuming the role of a recon specialist, players must unravel a mystery which will decide the fate of two civilizations.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/565120/header.jpg?t=1543253743",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 or higher, 64-bit Processor: Intel Core i5-2500k or AMD equivalent Memory: 4gb GB RAM Graphics: GeForce GTX 450 or AMD equivalent DirectX: Version 11 Storage: 4 GB available space Sound Card: Supports 7.1 surround sound Additional Notes: Controller Support Intended for Xbox-360 Controller",
+    "recommended_requirements": "Requires a 64-bit processor and operating system",
+    "reviews": []
+}

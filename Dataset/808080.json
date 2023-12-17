@@ -1,0 +1,44 @@
+{
+    "app_id": 808080,
+    "name": "Ultimate Racing 2D",
+    "release_date": "2018-05-24",
+    "developer": [
+        "Applimazing"
+    ],
+    "publisher": [
+        "Applimazing"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "achievements": 0,
+    "positive_ratings": 100,
+    "negative_ratings": 12,
+    "price": 6.99,
+    "description": "The ultimate top-down racing game, with 35 racing classes, over 45 visual stunning tracks, extensive career mode, championship mode and online/offline multiplayer modes.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/808080/header.jpg?t=1555252310",
+    "minimum_requirements": "OS: Windows 7 and above Processor: 1.2 ghz Memory: 2 GB RAM Graphics: 512 mb video memory DirectX: Version 9.0 Storage: 700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

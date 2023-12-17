@@ -1,0 +1,36 @@
+{
+    "app_id": 403980,
+    "name": "World Ship Simulator",
+    "release_date": "2016-11-04",
+    "developer": [
+        "Odin Game Studio"
+    ],
+    "publisher": [
+        "Excalibur Publishing"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Simulation"
+    ],
+    "tags": [
+        "Simulation",
+        "Open World",
+        "Realistic"
+    ],
+    "achievements": 0,
+    "positive_ratings": 47,
+    "negative_ratings": 152,
+    "price": 14.99,
+    "description": "Set in a fictitious environment inspired by ports from around the world. Captain a hovercraft, bulk carrier, yacht and other magnificent vessels in an expansive open world...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/403980/header.jpg?t=1528357623",
+    "minimum_requirements": "OS: Windows Vista/7/8 (All OS must be 64 bit) Processor: Intel i3 2.6 or equivalent Memory: 4 GB RAM Graphics: Dedicated graphics with 1GB VRAM (DX11 compatible - Nvidia Geforce GTX 470/ATI Radeon 6900 series or greater) DirectX: Version 11 Storage: 2700 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

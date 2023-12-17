@@ -1,0 +1,55 @@
+{
+    "app_id": 335460,
+    "name": "An Assassin in Orlandes",
+    "release_date": "2015-05-12",
+    "developer": [
+        "Tin Man Games"
+    ],
+    "publisher": [
+        "Tin Man Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 10,
+    "positive_ratings": 57,
+    "negative_ratings": 10,
+    "price": 3.99,
+    "description": "Search for a ruthless assassin in this Gamebook Adventure where YOU control the story!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/335460/header.jpg?t=1479438006",
+    "minimum_requirements": "OS: Windows XP SP3 Processor: 2 GHz dual core Memory: 2 GB RAM Graphics: Hardware Accelerated Graphics with dedicated memory Storage: 350 MB available space",
+    "recommended_requirements": "OS: Windows 7/8 Memory: 4 GB RAM Graphics: Hardware Accelerated Graphics with 1GB memory Storage: 350 MB available space",
+    "reviews": [
+        {
+            "review_text": "What is An Assassin in Orlandes?  An Assassin in Orlandes is a gamebook in video game form. If you know the Fighting Fantasy books by Steve Jackson and Ian Livingstone (not to be confused with Ian Livingstone, the Illuminati card game designer!) you will know how it plays. If not, here is a small summary.  You are presented with a lot of text that describes your situation, then you choose your next action from a set of several possibilities. Often, you are constricted by having or having not a certain item, or you must fight or check your fitness.  At first you roll fitness and vitality. Fitness is determined at the beginning of your game. I recommend to keep on restarting (more on this in a bit) until you roll at least a 4, preferrably a 6. I got very lucky, having rolled 6 for fitness and a high vitality. Vitality is rolled with 4 dice, fitness with 1 die, and a set number is added to each roll's total (I think 26 for vitality and 6 for fitness). Vitality can be restored in some ways, and it is not that important, but fitness is essential. Rolling a vitality of anything that is not trolled (you should try to get over 40 vitality, but anything over 36 should work well) and a fitness of 6 is what you want for almost all of the game (there is one artwork where you must follow a set of actions that includes a failed fitness roll, but you will want to do that after finishing the game). So in short: Vitality = 4d6 + 26. Fitness = 1d6 + 6. You need 10+ fitness for all achievements, and 12 is absolutely recommended, even if vitality is low then.  After you are done rolling your initial stats and assigning yourself a name that you will never see again, the adventure begins. So you are in a tavern and can decide if you want to get drunk, talk to the barkeeper, or leave the tavern. All ways eventually lead outside, where you witness an attack against a young nobleman. The game follows its main path linearly, but branches off at the side paths, enabling you to get some better equipment or helpful items - or into dangerous battles.  The battle system works on offense, defense and vitality. The vitality is hit points, offense and defense are each the number of dice you roll for yourself or opponents when attacking or defending. The highest single die counts, in case of a tie the next one, etc., but I don't fully understand the system even after beating the game. So you remember me recommending 12 fitness? You can use fitness in the battle, and it seems to jump back to the previous value when you win, but the advantage is really small and you have to do a fitness check each time. The fitness check consists of throwing two dice, and you pass if the total is lower than your fitness value. This gives you at 12 fitness a 1 in 36 chance to fail. Unfortunately here is a huge weakness of the book: Almost each time you fail in the story, it is a certain game over. There are a few exceptions.  You can make up to three saves (called bookmarks) when the game is started. My first playthrough attempt failed because I set the bookmarks too early. Of course, this is part of exploring the game. So you start the game, set the first bookmark (to save your fitness and vitality) and explore until you know what is a good course of action. And this goes on that way. Eventually you run out of bookmarks and want to restart. Wait, how do you restart? You can only do so after getting a 'THE END' message, which appears when you die or when you win the game. So if you want to get 12 fitness you will need to die a few times, which is annoying because it takes a while. And - minor spoiler - you need 10+ fitness for one achievement, so you will want to reroll if it is too low.  There are 23 artworks to find (24 if you include the title page), and when you found all you are awarded with an achievement, which is most likely the final achievement you find. By that time, you will have won the game already and tried a few different approaches to sidetracking. Without a guide it took me around 2 hours to beat the game in classic mode, but as I said I got lucky with the initial rolls. I then used a guide for the last few artworks and another achievement, bringing my platime to around two and a half hours.  And that is it, after seeing everything once, there is no replayability. Sure, the time will depend on how fast you can read, or if you get bored, how fast you skip pages and make decisions. The story is in my opinion your standard fantasy story, and the ganeplay is unbalanced in terms of fitness, but rather easy and forgivable for the rest, showing that it is aimed at beginners of gamebooks. If you look for the classical situation where you missed one item somewhere along the path and now can't beat the final boss three hours later... this gamebook does not have it.  So, this is a gamebook for beginners, and if you get it cheap or in a bundle, you should give it a try, if you enjoy the genre.  Recommended: For gamebook beginners and achievement enthusiasts",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Choose-Your-Own-Adventure book with a simple Risk-dice battle mechanic. I recommend taking the Classic difficulty, not too difficult to warrant the lazy Casual difficulty instead. 6/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's been decades since I last opened up a 'Choose Your Own Adventure' book;  An Assassin in Orlandes brought me back to those good ol' days :).  I enjoyed my time reading it and playing out the events in my imagination. The story seems linear, and I'm not sure if there are multiple (successful) endings, but it seems there are various items along the way you can pick up (including diseases) that can affect the outcome.  I'm tempted to replay it again to check out the paths I didn't explore, but I think I'll just go on to the next game.  Can't wait to check out the sequel.  PS: Protip: You can always tilt the machine ;)",
+            "review_score": "1"
+        }
+    ]
+}

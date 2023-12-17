@@ -1,0 +1,38 @@
+{
+    "app_id": 867180,
+    "name": "Tilesweeper",
+    "release_date": "2018-08-23",
+    "developer": [
+        "IEVO"
+    ],
+    "publisher": [
+        "IEVO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual",
+        "Puzzle",
+        "Classic"
+    ],
+    "achievements": 63,
+    "positive_ratings": 71,
+    "negative_ratings": 14,
+    "price": 3.99,
+    "description": "Tilesweeper is a well-known game Minesweeper, but with amazing stylized graphics and a new game mode - arcade.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/867180/header.jpg?t=1554728034",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i3-2100 / AMD A8-5600k Memory: 4 GB RAM Graphics: GeForce GTX 650 / Radeon HD 7510 DirectX: Version 11 Storage: 1 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

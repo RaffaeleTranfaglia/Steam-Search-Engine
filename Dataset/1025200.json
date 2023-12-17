@@ -1,0 +1,42 @@
+{
+    "app_id": 1025200,
+    "name": "The Floor Is Really Cheap Lava",
+    "release_date": "2019-02-15",
+    "developer": [
+        "Kain Swartzbaugh"
+    ],
+    "publisher": [
+        "Kain Swartzbaugh"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Racing",
+        "Strategy"
+    ],
+    "tags": [
+        "Free to Play",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 26,
+    "positive_ratings": 57,
+    "negative_ratings": 12,
+    "price": 0.0,
+    "description": "Avoid randomly placed lava squares as you move faster and faster down 'The Floor of Lava'.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1025200/header.jpg?t=1553480106",
+    "minimum_requirements": "OS: 8",
+    "recommended_requirements": null,
+    "reviews": []
+}

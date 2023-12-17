@@ -1,0 +1,46 @@
+{
+    "app_id": 512160,
+    "name": "Volleying",
+    "release_date": "2018-05-15",
+    "developer": [
+        "Gestalt Development Studio"
+    ],
+    "publisher": [
+        "Gestalt Development Studio"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Indie",
+        "Sports",
+        "Casual"
+    ],
+    "achievements": 16,
+    "positive_ratings": 8,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Volleying is a physics-based game where the objective is to make the ball touch the ground of your opponent's side.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/512160/header.jpg?t=1555004755",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.8GHz Memory: 2048 MB RAM Graphics: 256MB - OpenGL 2.1+ (with ARB extensions acceptable) Storage: 15 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 893030,
+    "name": "Music Racer",
+    "release_date": "2018-07-20",
+    "developer": [
+        "AbstractArt"
+    ],
+    "publisher": [
+        "AbstractArt"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing"
+    ],
+    "tags": [
+        "Racing",
+        "Music",
+        "Indie"
+    ],
+    "achievements": 36,
+    "positive_ratings": 1133,
+    "negative_ratings": 95,
+    "price": 1.69,
+    "description": "Music Racer is a musical arcade game, where you get to race at full speed while dodging obstacles to the rhythm of the music.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/893030/header.jpg?t=1538642987",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.2 GHz Memory: 1 GB RAM Graphics: 256 Storage: 200 MB available space Sound Card: Any soundcard",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.0 GHz Memory: 4 GB RAM Graphics: 512 DirectX: Version 11 Storage: 200 MB available space Sound Card: Any soundcard",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 376410,
+    "name": "Acaratus",
+    "release_date": "2017-05-25",
+    "developer": [
+        "Nodbrim Interactive"
+    ],
+    "publisher": [
+        "Nodbrim Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Steam Trading Cards",
+        "Captions available"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "achievements": 0,
+    "positive_ratings": 24,
+    "negative_ratings": 14,
+    "price": 10.99,
+    "description": "Acaratus is a turnbased tactical RPG set in a medieval steampunk world where you build and fight with your mechanized battle suits to help Adina free the people enslaved by the emperor Helios, their oppressor.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/376410/header.jpg?t=1527581759",
+    "minimum_requirements": "OS: Windows Vista/7/8/10 (32 or 64 bit) Processor: Intel Core 2 Duo or AMD equivalent Memory: 2 GB RAM Graphics: 512 MB VRAM DirectX: Version 10 Storage: 2 GB available space Sound Card: DirectX compatible sound card",
+    "recommended_requirements": "OS: Windows 7/8/10 (64 bit) Processor: Intel i5 series or AMD equivalent Memory: 2 GB RAM Graphics: 1 GB VRAM DirectX: Version 10 Storage: 2 GB available space Sound Card: DirectX compatible sound card",
+    "reviews": []
+}

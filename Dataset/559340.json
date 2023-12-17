@@ -1,0 +1,38 @@
+{
+    "app_id": 559340,
+    "name": "Sunset Rangers",
+    "release_date": "2018-03-01",
+    "developer": [
+        "www.fishermangamedev.com"
+    ],
+    "publisher": [
+        "www.fishermangamedev.com"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Online Multi-Player",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Indie",
+        "Survival",
+        "Open World"
+    ],
+    "achievements": 45,
+    "positive_ratings": 123,
+    "negative_ratings": 120,
+    "price": 7.19,
+    "description": "Experience the American Frontier as you traverse through unique landscapes, surviving unforgiving deserts and malevolent enemies along the way. Build a custom character, complete quests, collect and craft materials, build bases and take down enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/559340/header.jpg?t=1519924113",
+    "minimum_requirements": "OS: Microsoft Windows Vista Processor: 3.0+ GHz (quad core recommended); Memory: 4 GB RAM Graphics: AMD Radeon HD 7800 series  or nVidia GeForce GTX 500 series (DOES NOT SUPPORT INTEL HD GRAPHICS) DirectX: Version 11 Network: Broadband Internet connection Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel 4770 or AMD equivalent Memory: 8 GB RAM Graphics: AMD R9 200 series Nvidia GTX 700 series (DOES NOT SUPPORT INTEL HD GRAPHICS) DirectX: Version 11 Network: Broadband Internet connection Storage: 3 GB available space Additional Notes: We recommend running the server on a different computer.",
+    "reviews": []
+}

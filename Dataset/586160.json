@@ -1,0 +1,41 @@
+{
+    "app_id": 586160,
+    "name": "Dash Fleet",
+    "release_date": "2017-04-10",
+    "developer": [
+        "phime studio LLC"
+    ],
+    "publisher": [
+        "Back To Basics Gaming"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 4,
+    "negative_ratings": 8,
+    "price": 0.79,
+    "description": "Dash Fleet is a simple and fun dashing action game.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/586160/header.jpg?t=1491867612",
+    "minimum_requirements": "OS: Windows 7, 8, 10 Processor: Pentium 4 Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 10 Processor: Intel i3 / AMD FX Memory: 1 GB RAM Graphics: VGA GPU Storage: 500 MB available space",
+    "reviews": []
+}

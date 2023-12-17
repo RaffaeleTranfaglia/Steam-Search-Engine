@@ -1,0 +1,40 @@
+{
+    "app_id": 416210,
+    "name": "Block'hood",
+    "release_date": "2017-05-10",
+    "developer": [
+        "Plethora-Project LLC"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "City Builder",
+        "Simulation",
+        "Strategy"
+    ],
+    "achievements": 39,
+    "positive_ratings": 707,
+    "negative_ratings": 248,
+    "price": 10.99,
+    "description": "Block’hood is a neighborhood-building simulator that celebrates the diversity and experimentation of cities and the unique ecosystems within them. Budding city planners will have access to 200+ building blocks to combine and to create unique neighborhoods and discover the implications of their designs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/416210/header.jpg?t=1524072578",
+    "minimum_requirements": "OS: Windows XP, 7,8,10 Processor: 2GHz Dual Core Memory: 4 GB RAM Graphics: GeForce 600 series or better DirectX: Version 9.0c Storage: 1 GB available space",
+    "recommended_requirements": "OS: Windows XP, 7,8,10 Processor: 2GHz Quad Core Memory: 8 GB RAM Graphics: GeForce 700 series or better DirectX: Version 9.0c Storage: 1 GB available space",
+    "reviews": []
+}

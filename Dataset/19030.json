@@ -1,0 +1,41 @@
+{
+    "app_id": 19030,
+    "name": "Rocket Knight",
+    "release_date": "2010-06-25",
+    "developer": [
+        "Climax Studios"
+    ],
+    "publisher": [
+        "Konami Digital Entertainment, Inc.",
+        "Konami Digital Entertainment GmbH"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "achievements": 16,
+    "positive_ratings": 70,
+    "negative_ratings": 22,
+    "price": 11.99,
+    "description": "Sparkster makes his triumphant arrival on next-gen platforms with Rocket Knight, the newest chapter in the classic side-scrolling rocket action series. Our favorite opossum hero returns home after 15 years to find the kingdom of Zephyrus in shambles.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/19030/header.jpg?t=1468523309",
+    "minimum_requirements": "OS: Microsoft(r) Windows(r) XP SP2 / Vista / 7 Processor: 2.0 GHz or faster Memory: 1 GB (2GB for Vista or Windows 7) Graphics: ATI X1900 or above, GeForce 6800 and above DirectX®: DirectX 9.0c Hard Drive: 800 MB Sound: Direct X Compatible Soundcard",
+    "recommended_requirements": "OS: Microsoft(r) Windows(r) XP SP2 / Vista / 7 Processor: 2.8GHz single core or equivalent Memory: 2 GB RAM Graphics: GeForce 8800, ATI Radeon HD4850 or above  DirectX®: DirectX 9.0c Hard Drive: 800 MB Sound: Direct X Compatible Soundcard",
+    "reviews": []
+}

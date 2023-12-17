@@ -1,0 +1,944 @@
+{
+    "app_id": 25890,
+    "name": "Hearts of Iron III",
+    "release_date": "2009-08-07",
+    "developer": [
+        "Paradox Development Studio"
+    ],
+    "publisher": [
+        "Paradox Interactive"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Grand Strategy",
+        "World War II",
+        "Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3298,
+    "negative_ratings": 992,
+    "price": 7.99,
+    "description": "Hearts of Iron III lets you play the most engaging conflict in world history, World War 2, on all fronts as any country and through multiple different scenarios. Guide your nation to glory between 1936 and 1948 and wage war, conduct diplomacy and build your industry in the most detailed World War 2 game ever made.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/25890/header.jpg?t=1545346363",
+    "minimum_requirements": "Operating System: Microsoft® Windows® 2000/XP/Vista                 Processor: Intel Pentium IV 2.4 GHz or AMD 3500+                  Memory: 2 GB of RAM                 Hard Disk Space: 2 GB                 Video Card: NVIDIA GeForce 8800 or ATI Radeon X1900 videocard                 Sound: Direct X-compatible sound card                 DirectX®: Direct X 9.0",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "It took many hours, 3 in game years and countless spies, but i got a nazi elected as the president of the U.S. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Plays as Canada Builds a ton of factories Makes a rather large tank force Helps the US attack Finland Watches the US run away as soon as I show up Runs out of fuel/supplies Gets routed by a horde of angry Finns  12/10, would invade Finland again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS GAME IS AMAZING. this is the most comprehensive, most complete game I've seen in any gernre. It's definitely the type of game you need to invest time into learning. There is a deep learning curve but once you get a feel for the game, it makes sense why its so difficult to learn, because it basically lets you control almost anything. The game dynamics are amazing and very complicated but then again, so is global warfare. There is a great community of devoted HOI3 players who have answered literally every question related to this game so if you get it and find yourself not understanding the game dynamics, such as the supply situation, you can easily go online and read up on it. The supply dynamics, while sometimes buggy, is one of my favorite aspects of the game. If you're invading Western france, make sure to get large ports and not to outpace your supplies, less you fall victim to an axis counter attack that finds your front undersupplied and pushes them back in chaos. I like how the game manages the organization of the troops, both in terms of command structure and in terms of the org of the specifc unit. If they're under supplied or disorganized, they'll fail in an attack and soon you'll find the enemy routing you across the continent. It really takes a great deal of practice and patience to mount the correct offensive. You get a sense for how underprepared offensives can go awry in a second, especially when playing as Germany and trying to raise through the Soviet Union. You might get within 2 provinces of Moscow before you realize that you're supply lines havent caught up (because you didnt research the techs you needed) and then the Soviets counter attack with inferior forces and you have to scramble to recover. Thats the fun of the game though. You can prepare all you want but if things dont work out the way you planned, you often have to plan on the fly.   I played as the Soviet Union and thought I was perfectly set up to protect the mother land against the germans but got my but handed to me three ways to leningrad. It was the game of my life, reorganizing and launching desperate and doomed counter attacks to slow down the germans while I get more troops ready. It's very interesting because when you play as the Soviets you get the impression that the germans better conquer you within a year, because if they dont, you can create about 10 infantry divisions a month and thats a pace the Germans can't ever sustain.   Anyways, this game is amazing. You can play as anyone, Brazil for example, and work just to contribute a tiny amount to the war effort. Or you can play as the US and let Europe be while you focus on hunting and eliminating Japanese carrier groups that you know they can't replace the way the US can. Nimitz, Halsey and Spruance to the rescue!   If you like strategy and grand warfare, give this game a try, If you take the time to learn it and you understand what kind of game you are buying, you will not be disappointed!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-Win the 2nd World War as Germany. -Invade the USA as the British. -Get a Nazi elected President of France. -Nuke New York as the Japanese. -Invade India as the Soviets.  -Bomb New Zealand as Australia. -Install a Communist Government in the UK.  -Take over south America as Brazil.  -Start the 3rd World War  10/10 would Nuke Paraguay again.   (also has a very good WW1 mod)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I like it. Now how the hell do I play it?",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-0/10  played as greece and got out of debt.  worst history simulator ever",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are looking for a complex WW2 strategic simulator this is your game! The game takes place between 1936 and 1948 and you can control any nation during this period and attempt to forge an empire whilst the world is at war. The complexity of the productive, technological and combat system is very high. The logistic system, especially,is more important and more detailed than in many other games. These all work to the game's advantage, since they make for a very good experience for players that want to deal with things complex and not just 'produce units and rush'. Terrain, weather, organization,morale, how many officers you have, who's in charge of what division/corps etc, means a lot in this game, and this will probably please more experience players looking for a challenge.  And of course like other Paradox games, it has a a bit long learning curve.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Started as Italy during 1939, Me and Greece Invaded Yugoslavia, became best buds, went to invade Romania, Greece forced them to be part of the Axis, Germany invades russia and me, Greece and Romania help, turkey helps as well, by 1953 we beat the russians and Germany gets half their land, Britain is the last threat.  1941 - Britain beat Japan in Asia, Japan dont attack pearl Harbour, America remain neutral throught the Russian invasion.  1953 - america see Axis is the most powerful empire, Joins us and invades Canada, Britain left alone with Australia and Belgium Africa.  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I found this 'I am a dummy-file. I'm here to ensure that the mod directory is created.  I have done my task, yay me!' and it made me smile 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played as Luxembourg for a solid three days and then was defeated the moment I attacked Belgium. 10/10 would lose again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the most engrossing games I've ever played. It's fantastic. I've seen other reviews that say there is too much complexity and micromanagement, but I love it. I think you've just got to commit to it and it becomes clear after a few hours (or less). It's not as simple as Hearts of Iron 4, but you're able to do more with it. I've sunk so much time into this game, it might be my absolute favorite. It plays like a few different games as well. Play as Germany and you've got your hands on just about everything and a game could take you many, many hours. Play as a little guy like Romania and you've not got a lot to do, but maybe you can influence the outcome of World War 2 if you're careful and clever. It's wonderful. I love Hearts of Iron 4, but I'm starting up another campaign in 3 today, I think.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ah another World War II real time strategy game? What could this one have in store? Lets find out! Get your Comrades together, grab your commander's baton, and put on a monocle! Were gonna take over the world!  Pros: + Amazing Detail in the combat, some of which I've yet to understand even to this day! + Great Soundtrack, it really sets in the mood that the world is at war and that you're fighting for a big cause. + The AI is pretty intelligent, I mean its not unfair amounts but its atleast self aware... unlike other games. + Each nation can play a part in the war, even small countries like Bulgaria, Denmark, Belgium, ect. + You can change history in many different ways, making this game a playground of new alternate scenerios. + National and Global events give you multiple choices that impact the world and history it self! Choose wisely commander! + You can sit down and create your own battleplans; now hear me out... what if I told you that sitting down drawing arrows and lines in this game can some how... boost the fun? I know I know, its weird right? Well you can draw out strategic battle plans across the many nations and continents for your amusment and of course strategy.  Neutral: / Creating armies and going through the logistics is tedious and often VERY hard to micro manage but on the flip side it feels SO good to sit in the boots of a real Commander's job of working with the huge military forces of WWII. / The Military Research is bland you go from 'Infantry I' to 'Infantry II' and so and so on. However its easy to understand and grasp, so its not exactly all bad.  Cons:  - DLC out the rear end, I could understand like... one big pack for the Sprites and multiple for the bigger DLCs but the Sprite Packs are all seperate for different nations such as Germany, America, Italy, Russia, ect. Which is ridiculous. - Diplomacy is a joke; Diplomacy is useless unless you're allied or friendly with the nation you're speaking to its practically a waste to even use it as most responses otherwise are 'No' even if you present a gift. - Politics is also similiarly a joke; politics boils down to one of two things, you're either replacing ministers to give better stats, or you're creating puppets/liberating puppets. Thats it, no massive change to certain ideologies or anything. - Naval and Air combat is a bit lack luster, nothing is really gained nor is there a sense of urgency when using the navy or airforce. - Some nations are ungodly powerful two that come to mind are the US and Germany; don't get me wrong both were super powers but they seem unrealistically buffed and over powered; for nation that suffered greatly under the great depression.  DLC Specific Parts:  Pros: + Their Finest Hour's additions are quite great with the Custom Mode being my favorite; you can litterally rebuild a nation from the ground up as you see fit! + New units and abilities! Fun Fun Fun.  Neutral: / Some of the content from 'For the Motherland' and 'Semper Fi' I don't even use often, but the abilities are there I suppose.  Cons: - ♥♥♥♥ tons of Skin packs that really don't add that much to the game. - They could've just bundled Semper Fi, For the Motherland, and Their Finest Hour  Conclusion: I love Hearts of Iron III, great game for the Commander in you! I give it a 7/10 without DLC and with all major DLCs a 9/10. Its just simply a game any WWII History Buff or hardened RTS Commander needs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hitler was even worse at explaining this game than he was at invading the Soviet Union.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Play as Nationalist China  1. Push the Japanese back to their island 2. Eliminate Mao's Communist China 3. Join Allies 4. Invade Japan 5. Capture Tokyo, Japan surrender (1942) 6. ''Invasion of Kuwait''  7. Chinese expeditionary force save British ♥♥♥ and win the Middle East/North Afirca campaign 8. Liberate Greece 9. Liberate England 10. Liberate France 11. Capture Roma 12. Poor Hitler is **** by Russia, USA, Canada, Nationalist China, UK, France,Belgium,luxembourg lol 13. First Chinese soldier enter Berlin 14. German surrender (1948) WW2 end  I finally passed history class!! Thank you Paradox 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Get all the DLC. Get the game. You can ♥♥♥♥ing make Germany one of the Allies, or have France join the Commies. What the hell else do you need. 9/10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing, takes a long time to learn if you are not familar, but if anything gives you the feelng of the struggle it is to fight a world war this is it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A large part of the games fanbase are closeted Nazi's.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the few games where you build up an extremely elaborate plan to take over the world only to watch it ruined by an unsuspecting army of apparently superior French tank engineering. 11/10 would cry because Italy didn't do a thing again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron 3 is without a doubt, the most in-depth WAR game ever made. If you've never played a paradox before, you'll be in for a major surprise. It took me roughly a month of every day play to 'master' all of the basics. The tutorials are woefully inadequate and a complete waste of time, but the strategy guide is a gem and the paradox forum is an excellent resource. To ease your learning, parts of the game can be automated. Anything you have to do can be assigned to a highly sophisticated AI; it is possible to delegate every task to the AI, or just the ones you aren't yet familiar with so you can take things one step at a time.   The breadth and scope of HOI3 is enormous. You can pick any country in the world from Germany to Tannu Tava (I never heard of it before, either) and the developers have done an excellent job modelling historical limitations, while not restricting flexibility. HOI3 is essentially a war game, unlike other paradox games. Its focus is just that, with only the minimum necessary attention to the homefront. Battle, however, is beautiful. There are so many different brigade considerations, such as toughness (how many casualties does it take?), soft attack (infantry attack), hard attack (tank battles basically), defensiveness, organization (how much damage a brigade can take before retreating), strength (how much damage can it inflict), etc. You have the ability to craft each brigade and assign its leaders, all the way through the chain. A well-organized army enjoys significant benefits over one without proper leadership. The bread-and-butter of any army are infantry, and I highly advise tacking on an artillery brigade to each infantry division. Each unit draws supplies, and fuel in the case of mechanical ones, from your base. The supply system has serious flaws, however, but recent patches and independent fixes remedy this issue. In addition, Paradox has added an arcade version that ignores supply routes. What fun is that, though? All it takes to turn the tide of war is to bomb your enemy's choke points, and bam! -50% battle penalty and no reinforcement to the front lines. Indeed, supply lines/routes will make or break you, especially when playing as a sea-faring nation, such as Japan.  Battle itself is effected by the values I mentioned before, plus many others. What's the weather in the province? A wise man doesn't invade India in the middle of a monsoon. Combat width determines the space of your battle, and frontage determines how much space each unit takes. The more space it occupies, the more it attacks in a round but the less each attack does. A unit with small frontage and high combat is ideal, though armored units operate oppositely. Tanks rely on a high frontage to rush enemy lines. There are 'events' in battle, like 'Ambush!' or 'Breakthrough!' that give benefits to one of the belligerents. You can increase your chance of getting a beneficial event through researching doctrines, which are highly useful because they improve your army without using your IC (Industrial Capacity, each country's industrial output). Battle lasts until one side runs out of organization or strength, though the former comes first 95% of the time. Air/naval battles are represented well. Planes play a huge role, despite costing an arm-and-a-leg to produce. Smaller countries often can't afford to field a division of tactical bombers, but for bigger ones when you already have enough infantry, it will determine the course of many battles. Navies are optional for land-based countries, such as the Soviet Union, but absolutely critical to survival for the UK or Japan, the latter of which is forced to fight a multi-front war with a small manpower pool, few resources, and no nearby allies and a vulnerable homeland.  The world is divided into factions: Allies, Axis, Comintern, although one can be unallied. Each has its perks, but Axis are the easiest (and imo, most fun) to play. On top of that, each country poses unique challenges that model history. The Soviet Union has a gigantic manpower pool, but a disorganized army and a stalling industrial base. Germany enjoys significant boosts from '36 to '39 in its industrial output to prepare for the war ahead, yet becomes very strained in the east. The USA is the powerhouse of the game, yet can barely build a proper guard army until '42. Whatever country you pick, know your strengths and weaknesses. Building a major tank force with Argentina, for example, would be foolish. Tanks aren't well-suited to the jungles, and that money could go toward building a decent infantry base. Similarly, research only the techs you need. The basic infantry ones require only 4 research points, but planes require vastly more. Some countries just can't catch up to the giants like the US or Germany. That isn't a fault of the game, it's just history (although you can expand significantly; I have played a game with The Netherlands where I conquered over 10x my original area).  Whatever path you choose in HOI3, you're in for the most thought-provoking game you have ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played with Poland. Didn't die until 1940. Forgot to autosave, game crashed. Now I'm mad at the game, and I can't find the remaining parts of my mouse.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The learning curve is pretty high but once you get the hang of it it can be quite fun.  Some problems is that it's insanely predictable and the game tends to crash when you try to do too many things.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Make Germany Great Again",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best grand strategy title of all times. Hardcore wargame/simulation with lots of features. Absolutely recommended.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is probably the greatest World War 2 country-simulator-thingy ever! You get to be Germany, and fulfill Hitler's wishes to make the Third Reich. Or Russia, and take out the Fascist rats. Or the United States, and pave the road for Democracy! (Or Communism, or Fascism). Either way, this game is awesome!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is one of the best... no THE BEST RTS i have ever played in my entire life! I have got close to 1000 hours on it and i have yet to become bored. I highly recommend this game.  Although there is one thing wrong with it, WHY DOES THE SOVIET UNION DECLARE WAR ON GERMANY IN 1942!?!!?!? THE SOVIET UNION GAVE TONNES OF SUPPORT TO GERMANY IN REALITY AND HAD LITTLE INTENTION OF DECLARING WAR! THIS IS THE ONE THING THAT HAS ANNOYED ME TIME AND TIME AGAIN WHEN TRYING TO EXPAND THE THIRD REICH! HOW AM I MEANT TO BUILD AN EMPIRE THAT SHALL LAST A THOUSAND YEARS IF THESE BLOODY COMMUNISTS KEEP SCREWING EVERYTHING UP!  But besides that it's great! 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I would without a doubt reccomend this game to anyone who is wishing to become Hitler!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Never got into HOI3 until I tried it again AFTER enjoying HOI4.  These games have a lot in common, but there are also a lot of differences - they offer a different experience.  First based on my limited - 24hrs each - experience, I like both.  Second, again imo both have their highs and lows.  HOI3 is not as user friendly as HOI4, the letter has a much refined UI and does away with some of the micro management. The HOI4 battleplan also needs some tweaking.  Besides the high level micro management of HOI3, once you understand the basics you are left with a very nice and rewarding war game.  What it lacks in realism, compared to more traditional war games, it amply supplies in overal strategy.  In short, even after the release of HOI4 it is still worth its price - especially on sale. Great game.  ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this is by far the best strategy-game experience I've had for quite a while .. LOVE IT 1000/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An Amazing World War 2 gaming achivement if I must say so, this game is very enjoyable, super addiecting &amp; in my opinion gets 10/10 for its outstanding AI &amp; Challanges.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "my current campaign i am playing as Japan. by the year 1939 i have conqured Indochina,shanxi,nationalis-china and communist china. Guanxi Klik has also joined the axis. I am currently putting forces on the border of xiebesanma. Meanwhile The US puts a embargo on the Axis powers but is then attacked by the allies!!!!! so there is currently a atlantic war raging between the USA and The Allies. Mexico which has joined the axis has taken many british holdings in central america and a showdown between brazil and argentina looks very likely as argentina rockets towards the axis and brazil to the allies.  In europe Germany has decided NOT to invade poland. and has instead conquered france and formed a vichy france 3 times bigger then it was historically. While taking down denmark. Im not quite sure what they are planning since its 1939 and they should have attacked poland by then. Ireland joined the axis and was then completely destroyed by Britain sadley. And finally in oceania Australia and New Zealand join the axis and fight the neatherlands in new guniea. A new kokoda track between australia and holland! XD  the year is 1939 and the world has gone mad.  i look forward to playing black ice next or the man in the high castle mod    GET THIS GAME",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I find this game to be a very nice RTS game. It is filled with very historical events that you can alter in some way by just a click of the mouse. Very slow paced game which is a nice change compared to some RTS games ive played in the past. I personaly have found it easiest to start out as a smaller country until you have some experience then work your way up to something bigger like japan. america, germany or even russia. Very well made game with the ability to Mod. I recommend this game very much.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "recommeded for history buffs 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you can overcome the initial frustration that comes along with becoming familiar with the numerous intricacies of a complex game, you will be greatly rewarded. Once you become familiar with the vanilla version, a number of mods such as DWI and Black ICE will challenge your gaming intellect to its limits. 7/10 without mods, 10/10 with Black ICE.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played as germany and started early war. Barely conquered Belgium and Netherlands but eventually conquer france.  *Go's to bed  Had nightmares about U.K. atomic bombs and the eastern front. Decided to try and prepare for both. Sent 3/4 of my army to the turkish front in hopes to capture turkeys factories.  *Declares war on turkey  Forgot turkey was in Commintern.  *Has heart attack  Berlin is conqured in 1 month. Germany surrenders  *I whisper over and over again like an insane man 'Turkey, Turkey, Turkey'  0.01/10, would lose to a soviet-turkey 'sandwhich ' again.    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "08/10  Great Game, Very Unstable with the DLC's Downloaded. Put Game on montly save, plus save every time you organize your armies, builds, wars etc or run the risk of game crashing and having to do it all over again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've played a lot of the base game and still enjoy it, there is a lot of replayability. Hearts of Iron 4 just came out, but I like Hearts of Iron 3 too much for me to justify buying it.  The game does have a problem on my laptop where it crashes after a couple of hours. Even with monthly autosaves, crashing on the last week of the month just after I sucessfully microed an entire theatre worth of troops indeed prompted a rage quit or 2.  I got all the dlc on a paradox super sale. I really like the expanded mechanics, especially on the intelegence screen, where I can coup places who have enough opposition party support.  In a recent interview, Josef Stalin agrees: 'The whole new coup mechanic makes speading the worker's revolution overseas so much easier, I could not imagine my life now without this wonderful product' 8/10, would watch the world burn again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Deeper then the Marianas Trench and more addictive than Crystal Meth. This game will absorb you and spit you out many, many hours later.   Not for the casual strategist or the faint of heart, only for those with a Heart of Iron!  Challenge yourself. Can you beat the mighty fleets of the USA with the Imperial Japanese Navy? Can you win the war of attrition with the USSR as Germany? Can you survive unscathed as France or Poland? Can you win the war as The British Empire without begging the USA to help? This game will help you realise those dreams.  I cannot recomend this game enough. Very hard but, very rewarding.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The Nazis Rule The World!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its a great simulation of ww2! Everything from laws to battle, you've got it. However, it can be very hard to learn the game as it has many features and its impossible to sum it up here. In all, its a great but difficult game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": " The Good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game itself is fun, if you can get past the crash's and buggy DLC. Buy the game + the expansions, nothing else is worth your money.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I recommend this game for people who love controling every aspect to a game and then some",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good for nerds and history buffs.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "How to play Hearts of Iron III:  1.) Start the game 2.) Take control of Germany 3.) Invade your enemies 4.) See them driven before you 5.) Hear the lamentation of the Allies  10/10 they see me anschließen, they hatin'",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have over 200 hours offline, btw. Be me. Be yugoslovia. Take over all balkans. Join axis. year is 1949, russians are slowly crumbling over our alliance (Romania is my puppet, germany, sweden, italy, japan, and minor countries) I have very good bombers. I can rech moscow. Get a bomber to head off, carrying nuclear bombs. Its intercepted and shot down. I amass huge amounts of fighters and bombers. Fighters are always a few provinces ahead, so any incoming enemy planes have to go through them to get to my nukes. germans are making progress, my air war continues as a stale mate. Russians are driving my troops back, very far. year is 1950. My troops are haelping romanians survive russian onslaught, as my troops were decimated in russian soil. I lost air war. German line is stalemate. Italy got invaded by britain, british troops moving into germany. I split my troops and send some to help italians. Because of this, russians steamroll through romania. Germans are pulling troops back to fight us now, who landed in denmark. Swedish troops are getting destroyed by russians. Japan got destroyed by china (idk how).Thats when I notice russia and britain have nukes now. Oh ♥♥♥♥. I have to act, fast. My bombers staitoned in germany nuke london and other british cities. I nuke russians, as well. They nuke me back, my country is crumbling. Britain nukes germany. Year is 1951. Americans approaching berlin. Soviets have most of poland under control. Itaky has been destroyed. My country is now only one province, in crete. I still have a decent navy, so I defend my island. Romania is destroyed. Fast forward a few months, british take over crete. I lose GG.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enjoyed the game very much. However playing as Japan the game kind of gets impossible, when Allies join against you. There is just so many ships and planes around the pacific that I couldn't keep a proper track of things anymore. The early game was fun though.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Its great!!!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the finest grand strategy games you can play.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of iron 3 is a very good game but it does have at least two big problem it cash alot so if you do get the game i perfred you this save alot and you need a good computer to run it. the good about this game is you can play any nation that exist or could exsit during the mid 1930s to late 1940s and you can conquer any nation you want for a sample you play as Germany you van invade italy,japan,soviet union,ect... what im saying buy the game if your computer can hadle it buy it ok",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I've spent way to long playing this game, and I'll spend thirty fold longer by the time I'll be done with it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "great game I love it, I really enjoy every aspect of this game. Highly recomend to any WW2 fan.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game. Just like an old-school cardboard counters and paper map game. Ah the hours I've spent in my day on games like this. Reminds me of .... uh something. Us old folks like these games. An once I'm through rambling on I will give a real reason you should get this game. Or not.  Not for the faint hearted anyway.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Tired of all the revolt risk, aggressive expansion, infamy, etc preventing you from painting the world?  Paint the world without constraints in HOI 3!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For me, this is the most realistic and complex game with WW2 thematics. Many of us wanted to know what if.... Sovien union would attack the Germany first....etc",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome Game. 10/10 - 15/10 with rice",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Played as Canada and joined the Axis, later annexed USA with Germany's reinforcement troops.     10/10 canadian america best america",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Incredibly detailed game. Play as any nation starting as early as 1936 or as late as 1944. The game runs until 1948 (but most people mod this). Force amplification, intellegence, technology, officer ratio, supply, moral, organisation, weather, time, temperature, headquarters, dissent, and combined arms all play a part into winning a single battle. You MUST pay attention to this in order for success. Requires vast amounts of patience and time in order to complete a campaign successfuly, as long as you're not playing as the USSR, United States, or UK, the game can be very hard.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I had no idea how to play.       But it was fun seeing germany invade america.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "7 years later and still a fantastic game that delivers the best of grand strategy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is a good game, but needs DLC at least up to FtM, and preferably a mod (I use HPP personally)  Otherwise, comparing it to something newer, like HoI IV, you will see it as a very hard game, with maybe the hardest mechanics of a Paradox game (obviously you haven't played HoI II). But I quickly got the hang of it. Good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are patient and you like RTS games you will love this game!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's alright.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As a veteran of this series I can say that this is the best out of all of them. For beginners this is an ideal entry to the series as you can have the AI control almost everything and you still get to influence what is happening and feel like a leader. For veterans like myself you can still micromanage as much as you want. The ability to build custom divisions adds another layer of depth. You get a special sense of satisfaction from moving your elite divisions to strategic points to break the enemy!  Like most paradox games this one has its bugs. Most of them have been ironed out however this game often crashes on me.  I found that weekly autosave and not using max speed during periods of intense warfare drasticly reduces that crash rate. Even after a crash starting from my last save is no big deal. This doesn't make me love this game any less, however the problem is still there.  All of the expansion packs are great and really deepen the experience. There is also an abundance of mods available that are easy to install.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Yeah, they could work on the UI.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fantastic, in-depth grand strategy set in World War II. It has a high learning curve, so you WILL need to read and watch tutorials (the in-game tutorial is inadequate, I recommend Misterbeans Germany Tutorial) if you want to be even marginally successful at this game. However, once you achieve a basic understanding of the game and its mechanics - it can be a hell of a lot of fun to play and attain ahistorical outcomes.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The depth of this grand strategy game is astonishing. Really. It's extremely rare to see something with this level of detail that runs perfectly smooth. The learning curve is another matter though. It is steep. Very steep. There is a tutorial and some easy scenarios, but this is not an easy game. You like strategy and challenges? You'll love this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best War Strategy Game Available!  11/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great grand strategy game. Take some time to learn, but after you learn its GREAT!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I still don't know how to play",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the very first games where they actually show the Germans as humans, and how much of an ♥♥♥ raper America really was. (Don't play as France because you'll surrender)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "As long as there are Soviet,Russian,Communist and Vodka.Meh, This game is pretty good",
+            "review_score": "1"
+        },
+        {
+            "review_text": "*Plays Communist China in 1936*  *Became a Major Power in 1938*  *Invades Japan and makes them a Puppet Country by 1940*  10/10 Would crush Japan again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I got this on sale and it was well worth the money I payed (11.74 USD). It came with all the DLC. So far I love it. It crashes alot though. But, I'm sure there are ways to fix that. Plus you can play as Hitler, what more would you want? 8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Russia is red Siam is blue I like Germany  And Hitler will come for you  I ate Austria And screwed the Czechs Japan killed China There is nothing finer  Poland died No surprise I took Italy to bride And the USA spies  Finland got invaded  But didn't show They rode their mooses And hid in the snow  Then Germany came It was lame  Stalin was not game 'We are not Finnished with you Finland!'  My Panzers are much Italy sucks The French ran away  And swam like the ducks  I invaded Russia And they got ♥♥♥♥♥♥ My Panzers are dead And then I missed  I chose Paulus Big Mistake I thought it was flawless But he quaked  Britains has fallen We are so screwed Any hope of victory stolen And the Yanks booed  Now it's happened  Hitler won See you soon You nutter with a gun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Pretty good game. Much fun",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Defeat the market economy.  Make this game free.  Raise the communism  ♥♥♥♥ the capitalism.  Communists unite.  ☭",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron III itself is an alright game.  However, after installing the Black ICE mod the game will turn in a stand alone game how it should've been. With a lot of features and a lot more national events that can trigger.  Pros: Fun for a lot of hours. A lot of variety of troops. Can win WWII as Germany. Can survive as France.  Cons: Takes a lot of hours to learn. The difficulty settings is nothing more than a modifier for enemies and you. Not noob friendly. (Will literally give you headaches on what's going on in the beginning.)  -Robinblitz daily HoI III player",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is one of the deepest grand strategy game ever made. It is incredibly replayable, and every time you play you learn something new that changes the way you look at the game. Not for those who like flash and flare, but for those who enjoy a very deep engaging strategy.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' 'Calculating Paths,  this may take several minutes' ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "in love with it buy it you will to.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This ♥♥♥♥ing Time Vampire!!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "10/10 would fap again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "played 1k+ hours in CK2 and EUIV, still can't understand how to play this game :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This is literaly one of the best strategy games in the world, according to me. It's up there with Civilization, Age of empires, C&amp;C, CoH and many more. I highly recommend buying it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got this game since release and just re bought it on steam with all the DLC's.  Amazing game especially in MP. Its Complex and got very much things you can do. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got this game since release and just re bought it on steam with all the DLC's.  Amazing game especially in MP. Its Complex and got very much things you can do. 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Built a Romanian Empire, invaded Poland got crushed by a country a quarter of my size. This game is epic!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "░░█▀░░░░░░░░░░░▀▀███████░░░░  ░░█▌░░░░░░░░░░░░░░░▀██████░░░  ░█▌░░░░░░░░░░░░░░░░███████▌░░  ░█░░░░░░░░░░░░░░░░░████████░░  ▐▌░░░░░░░░░░░░░░░░░▀██████▌░░  ░▌▄███▌░░░░▀████▄░░░░▀████▌░░  ▐▀▀▄█▄░▌░░░▄██▄▄▄▀░░░░████▄▄░  ▐░▀░░═▐░░░░░░══░░▀░░░░▐▀░▄▀▌▌  ▐░░░░░▌░░░░░░░░░░░░░░░▀░▀░░▌▌  ▐░░░▄▀░░░▀░▌░░░░░░░░░░░░▌█░▌▌  ░▌░░▀▀▄▄▀▀▄▌▌░░░░░░░░░░▐░▀▐▐░  ░▌░░▌░▄▄▄▄░░░▌░░░░░░░░▐░░▀▐░░  ░█░▐▄██████▄░▐░░░░░░░░█▀▄▄▀░░  ░▐░▌▌░░░░░░▀▀▄▐░░░░░░█▌░░░░░░  ░░█░░▄▀▀▀▀▄░▄═╝▄░░░▄▀░▌░░░░░░  ░░░▌▐░░░░░░▌░▀▀░░▄▀░░▐░░░░░░░  ░░░▀▄░░░░░░░░░▄▀▀░░░░█░░░░░░░  ░░░▄█▄▄▄▄▄▄▄▀▀░░░░░░░▌▌░░░░░░  ░░▄▀▌▀▌░░░░░░░░░░░░░▄▀▀▄░░░░░  ▄▀░░▌░▀▄░░░░░░░░░░▄▀░░▌░▀▄░░░  ░░░░▌█▄▄▀▄░░░░░░▄▀░░░░▌░░░▌▄▄  ░░░▄▐██████▄▄░▄▀░░▄▄▄▄▌░░░░▄░  ░░▄▌████████▄▄▄███████▌░░░░░▄  ░▄▀░██████████████████▌▀▄░░░░  ▀░░░█████▀▀░░░▀███████░░░▀▄░░  ░░░░▐█▀░░░▐░░░░░▀████▌░░░░▀▄░  ░░░░░░▌░░░▐░░░░▐░░▀▀█░░░░░░░▀  ░░░░░░▐░░░░▌░░░▐░░░░░▌░░░░░░░  ░╔╗║░╔═╗░═╦═░░░░░╔╗░░╔═╗░╦═╗░  ░║║║░║░║░░║░░░░░░╠╩╗░╠═╣░║░║░  ░║╚╝░╚═╝░░║░░░░░░╚═╝░║░║░╩═╝░    ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "better than hoi4",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The tutorial is amazing, would do it again  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "down with the nazis",
+            "review_score": "1"
+        },
+        {
+            "review_text": "there are no hearts",
+            "review_score": "1"
+        },
+        {
+            "review_text": "        YouTube™ Video:  Jontron - BEST GAME.&nbsp;",
+            "review_score": "1"
+        },
+        {
+            "review_text": "1",
+            "review_score": "1"
+        },
+        {
+            "review_text": "really dont know what im doing",
+            "review_score": "1"
+        },
+        {
+            "review_text": "THIS IS THE GREATEST CONFUSING ♥♥♥♥ OF ALL TIME!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "So I bought a game on the Steam sale called 'Hearts of Iron 3', which is a WW2 based strategy game. I'm a sucker for damn near anything WW2. So anyhow, I got this game for super cheap, so I wasn't too worried about if it was going to be a bust or not. Suffice to say, 8 hours later, I'm hooked. Which is somewhat strange, considering this game is easily one of the most complex I've ever played. Imagine if Axis &amp; Allies got together with Civ 2's WW2 scenario, consumed a ♥♥♥♥ ton of LSD, then made it so you can control not only the units, but production, tech research, diplomacy, internal politics, and more, then made it all super crazy complex, but only added in vague tutorials that somewhat give you an idea of what to do, but actually somehow manage to leave you even MORE confused, and you're also addicted to it like it was LSD from the get go. I feel like I understand maybe 30% of the game so far, and even the stuff I do get I'm still kind of sketchy on.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the greatest strategy games i've ever played...",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very confusing at first. Make sure to keep your citizens happy at all costs, or else your production capability will suffer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I have spent more time playing this game purely due to the historical accuracy.   I love this game to bits, I have played as the Germans multiple times, over and over again. Every time I get their new dlc and every time i play it for at least 2 weeks straight just screwing around with it.   Upside - all of it Downside - The dlc's don't really mingle.. Like For the motherland doesn't work with DiG.. Which is a shame because FtM Has this wicked plane system while DiG sets German U-Boats out beautifully.. Unfortunately they will never see each other in action :(",
+            "review_score": "1"
+        },
+        {
+            "review_text": "For fans of WW2 history and possible alternative history scenarios, this game beats all others (Not like there's a lot to choose from but anyway :P)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It's fun to re-do the second world war as whatever country you like and how you like. While it's very overwhelming because you can do so much, it is surely great for people who loves strategy. Additionally, the game features a 'AI Control' which let the computer controls various aspects like warfare, diplomancy, etc. So you can focus on the other aspects.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The most realistic WWII strategy game on the market. Being a lover of World War II history the detail of matching political and militiary figures to their nations makes the game even better. If you love WWII and you don't mind spending 30 hours on a match this game is the best.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "All in all this is the best strategy game in existence. This game is micromanagement on a strategic scale. The game engine is just as good as the graphics are bad.  Personally I prefer to use simple counters rather than the miniature soldiers on the map. The counters are actually similar to real world military symbols and gives an extra level of realism if you imagine yourself standing in a command center. This is strategy on a grand scale far away from the actual battlefield.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Ultimate WWII Grand Strategy game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good game, poured many hours into when i had the game on disc",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Whenever I get ♥♥♥♥♥♥ off because France wrecks my face in EU4, I simply play this game and wreck France. Best relief ever. Vichy France/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It is one of the best grand strategy games i have ever played and deserves to be played by everyone who has a slight intrest in grand strategy games.   The tutorial has the saddest ending of any game ever aswell.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Mixes my political map and ww2 strategy fetish, perfect!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Excellent game, only real complaint is that there are several events that force fairly historic outcomes, be they appropriate or not. The German attack on the USSR and the Bombing of Pearl Harbour, seem to always happen. Even if they are terrible options. You've to really work at it to make ahistoric outcomes happen.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "h e l p  stuck on newport road   no cigarettes   no food  day 485, morale low   reinforcements are not coming, hope diminished   trenches are ready, soldiers are not   god bless every one",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts Of Iron is a great game with good game mechanics that are hard to understand at some points in the game but become real easy once understanding it. One key feature you need to know is the chain of command that is how you get supplies to your units without wasting a lot of them. The chain of command works like this you make a division then click on it press the 3x's that will make a corps then click the corps and click the 4x's that makes an army then click the amry and press the 5x's this will make and army group. now you thinks its over right well no now click the amry group and press the button with a green arrow and 3 bars. this will allow you to connect this to a theatre. connect it and their your done, but remember the magic number is 5. 5 divsion under 1 corps. 5 corps under one army. 5 armies under 1 army group and 5 army groups under 1 theater. thats the chain of command.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I put some hours into this game playing as Italy (The only nation I've played) and still having problems kicking the Ethopians asses, let alone france, the U.S. or Russia! HUGH learning curve! I don't like to belive I'm stupid, but this game can put you in your place. I'll keep struggling along though because it is fun and addicting as hell reguardless.  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "'You can not say anything about Hitler and Stalin, it is possible to censor ''Mein Kampf'' by Adolf Hitler and the 'Complete Works' of Joseph Stalin. Since the beginning of the world look at the 30s 40s of the 20th century with his own eyes'.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game although the dlc shouldn't be dlc but updates.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "i love this game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "played as germany took austria,france,czekoslovakia,slovakia,estonia,lithuania and then romania  magically,USA became a nazi.  10/10 would make america nazi again.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, even after 88 hours I am still learning more about this game. Would recommend to everyone and anyone who wants to do everything WW2 related minus the near extermination of the juice.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Fanthastic WW2 game !!! Great paradox game , very adictive . The learning curve and the graspings of all concepts of this game might be at start overweling , but on the long run it makes the game fanthastic!!!  When comparing this title to others war games , the diferences are always for the best on this game , this game is a must on WW2 strats gaming.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When i first bought this game, i had absoulutely no clue how to play. 6 hours later of being confused i understand how most things work and it's actually getting fun. the game is beyond dificult to understand if you are new to Grand Strategy games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The game is great but declaring war is a pain in the ♥♥♥",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron III is easily one of my favorite games if not my favorite. In my opinion it's definitely the best strategy game I've ever played and with the setting being in WWII, it makes it even more amazing being that I love WWII history. It's a HUGE game with so many options it's ridiculous (in a VERY, VERY good way). With so many options, you'll never get bored and it will take forever to master so there's always room to improve. The game offers so much freedom that no two games will ever be the same. Whether it be $10 or $100, I'd still recommend it. It's DEFINITELY worth the money and if you don't get it, you're seriously missing out.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron 2 was better IMO. This is still a good game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you can play this game, you are smarter than average people.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The only WW2 game where you can stop france from surrendering.  10/10 Would not let frenchmen surrender.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Very good World War 2 sim. You can play as any nation and do well with almost any of them.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you are a true Strategist then buy this game! and become the true general that you want to be !   take command of a country a lead it into war or just stay out and be a true diplomat.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "confusing.... overwhelming compexity.... and micro management on a huge scale.... i Just know theres a great game here if i can just figure out how to play.....",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Great game, 9/10, I actually have well over 1k hours in this game, and who knows how many on HOI2. Great game, very immersive and pretty realistic. The ability to administer a division, corps, army, army group or theatre and connect the whole lot through a chain of command is a great addition to the game. Really makes the military aspect feel more authentic.   The 'custom game' feature on TFN really revolutionises the game for me. Being able to set up your game picking the tech's and units you want make playing middle powers like Canada or Australia much more fun and make France a real possibility in most games.   The only issues I have with it is some stability issues on my PC, but that's par for the course for HOI, and the fact that after a while you end up playing the same five or six powers over and over.   Still, a great game for $10.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Enjoyable game im turkey trying to take back all the occupied lands that were once taken from the ottoman empire so far persia, iraq, palestine, and small bit of egypt are in my grasp :D",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Even without the expansions (which make this game twelve quinvigintillion times better), Hearts of Iron 3 is totally worth buying. Arguably the most complex strategy series out there, with an in-depth look into WW2, all for only 10 dollars!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I play Hearts of Iron 2: Darkest Hour much more than this because of my older laptop. As far as I can tell, this version does not utilize dual core processors. That being the case, be sure that your system can comfortably meet the requirements -- especially if you will play campaigns with large a amount of units/provinces or utilize the high speed function.  Compared to HoI2:DH, HoI3 features a more refined map aesthetic, more playable countries such as Siam, an in-depth Order of Battle system utilizing visual supply flow displays, and an Ally/Axis/Comintern graph for easily sizing up country alignments. When combined with The Finest Hour, HoI3's espionage system becomes an elastic warmaking tool thanks to the scouting and covert missions. It's a shame, however, that covert points are so slowly accumulated. If I could run it, I'd probably be playing this instead of HoI2: DH.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "♥♥♥♥ing complicated as ♥♥♥♥ when you start but within the first 5 hours you are invading Nazi Germany as Luxembourg.  Brilliant game and everyone should get it. It is a much better with friends then.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;started as Italy in 1938 &gt;reformed entire army and befriended Germany &gt;invaded and annexed Yugoslavia in late 1939 &gt;invaded and annexed Greece in early 1940 &gt;was called to war against France and UK in middle 1940, used Crete as base of a large-scale invasion of Judea &gt;split the british forces, surrounded and crushed them in 4 months &gt;got entire Egypt, Iraq and all british lands in the middle East &gt;took Malta in January, 1941 &gt;Germany invades USSR in June, 1941. Helped them by invading Crimea &gt;by December 1941 my troops reach Caucasus. Stalingrad beckons. &gt;March 1942 - ♥♥♥♥♥ at Stalingrad &gt;June, 1942 - ♥♥♥♥♥ Stalingrad &gt;September, 1942 - Germany takes Moskva and USSR surrenders it's January 1943 and i'm still trying to push USA off Morocco",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Good if you are patient and dont mind the lack of flashyness. Challenging and extremely realistic. ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is absolutely amazing, 30+ hours and counting. So buying all of the DLC",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Awesome grand strategy, but you gotta take some time to really sink your teeth into it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "this game sucks hard to figure out always die never win dont buy it its a waste of a perfectly good 5 dollar bill",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron III, simply put, is a spectacularly good grand strategy game. Though players will initially find it daunting due to the number of mechanics in play at once (your first war will most certainly be confusing), if you take the time to learn the gameplay mechanics, either by playing or searching online, you'll eventually get to grips with it - it took me no longer than about 5-10 hours to understand most of the important game mechanics, though I still occasionally find myself learning something new. That said, I have some friends who haven't been able to understand the gameplay (which turned multiplayer into a bit of a hand-holding scenario), so it won't be for everyone.   Once you've gotten into the real meat-and-bones of the gameplay, Hearts of Iron III has a lot to offer. The number of nations available for the player to choose is simply amazing - you can choose anybody from the mighty USSR down to Luxembourg or Costa Rica, and this really allows the gameplay to evolve with every new game. This, along with the ability to completely alter the history of the world in the 1930s and 1940s, is what really makes the game shine. Freedom is granted to the player to make an aggressive superpower out of Sweden, or to launch an invasion of the U.S.A as Nazi Germany. The scope of the game is immense, and the detail on the campaign map is brilliant. The combat, once you've got the hang of it, is fun, and the wars you will find yourself in can take anywhere from a minute to several days of gameplay to bring to a conclusion. The AI is occasionally partial to moments of pants-on-head stupidity though, which sometimes let the game down a bit.   Multiplayer, although I haven't played much of it admittedly, was good for the most part. Gameplay is, of course, identical to the campaign, but the new elements that a human player, as opposed to an AI, bring to the game make it downright entertaining. Player politics in the multiplayer can be treacherous (indeed, a good comparison for the player politics in the multiplayer would be to Risk, or Civ 5), but it also allows for some interesting co-operation between historical rivals (the USSR and Nazi Germany in one of my games, for instance - though admittedly this came with a great deal of backstabbing on my behalf!).   Overall, it's a wonderfully well presented Grand strategy game. The world is your sandbox, and history is ripe for ♥♥♥♥♥♥♥isation. If you have the time to spare to get to grasps with the gameplay, I'd fully recommend it. It is, however, a real time sink, so if you don't have that much free time, it may not be for you.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Is a difficult game to understand with a logarithmic learning curve but once you think you know the game... it gets better.   The developers sacrificed graphics for details. The 1st game plays very similar to the 1st time you play dota, in that it looks easy but the complexities rears their ugly head and you spend the rest of your life trying to learn how to play the game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I put some hours into this game playing as Italy (The only nation I've played) and still having problems kicking the Ethopians asses, let alone france, the U.S. or Russia! HUGH learning curve! I don't like to belive I'm stupid, but this game can put you in your place. I'll keep struggling along though because it is fun and addicting as hell reguardless.  8/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Paradox Grand Strategy games, you either love or you hate them. If you hate them, this is nothing special for you then and should avoid it. If you love, like or are interested in them this is worth a pick up. If you can get through the games steep learning curve, no thanks to the terrible tutorials. HOI3 is set during the Second World War, and begins in 1936. You select any country you want, whether it is Germany, The USSR or Mongolia and any other major or minor powers between. You begin governing almost every factor of that nations rule. From firing poloticians, trading, production, military tactics, construction of infrastructure and research. Preparing for WW2 if you get strong enough and are threatened by war you can be invited to the Axis,Allies or the Commintern or invite factions to your faction. Then you allow the war to unfold and either be crushed or conquer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A good grand strategy game for WW2 fans. Dont expect to take over the entire world though. This game is for strategist that make a plan from the get go and stick to it until its accomplished.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A solid grand-strategy title in the paradox series. One of the most difficult out there, so be prepared about this.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "the master of global strategy",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is very mixed bag when compared to HOI2/Arsenal of Democracy. It features lots of new and needed things, but some aspects of game are horrible. Game designers should have got best things from AOD, but they just wasted a lot of potential with bad design.  GOOD: Large map, versatile tech tree, working naval combat, upgrading works as it should, in-depth supply system, air unit patrol areas, redesigned intelligence system.  BAD: Country relation changes are too rapid leading early/ahistorical wars, HQ-command chain is pointless as you can change instantly HQs/leaders without penalty, infrastructure free auto-repair, totally stupid strat bombing and convoy raiding rules, HQ-units BLOCK ATTACK without taking damage, battlefront Artificial Intelligence plays like moron (shuffles front, won't defend crucial provinces, won't fall back), theatre AI is useless, special resources feels gamey, no winter attrition.  5/10, average game. If you haven't played Hearts of Iron-series, try AOD.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This game is really a must have for any WWII enthusiast. Though it has an absolutely massive learning curve (there's some good tutorials on Youtube), once you learn how to play the game, it is incredibly fun. Perhaps its most alluring facet is that, though you are restrained by historical realities, you can take nearly any nation and turn the tide of the war, giving the game an almost 'sandbox' feel in that you can do pretty much whatever you want (if you know how), such as taking the US to communism.   However, it must be noted that this is undeniably a complex, hardcore game, so do not be expecting flashy battles and lots of action. You must instead embrace the art of navagating menus and ordering divisions on a map. Again, it is a GRAND STRATEGY game, not an action arcade game so just know what you're getting into as it's absolutely fantastic if you're into this kind of game, but could be an effective torture device if you are not.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A massivule detailed Grand Strategy, you can control the armed forces, economy, diplomacy or intelligence services, or any combination of the four. The detail is truely awe inspiring with huge complexity when playing the larger nations. You can however choose any country in the world virtually and play them through the toubled years from 1937 to the end of WW2. For die hard strategy fans this is a must have in your stable.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Paradox, you guys seriously nailed this one. This game is ADDICTING. Its so in depth yet so simple. This has become easily one of my favorite games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "The most complicated strategy game there is.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "HOI3 remains one of my favorite games years after first playing it. I prefer to start in the 1936 historic scenario and run through the whole buildup to war. Now for the eagerly awaited HOI 4!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Hearts of Iron 3 is a very good attempt at WW2 Grand Strategy. Generally, It's well put together, although at times, it can be hurt by the very things which make it so good. Sometimes, the fact that the game has so much depth and is, to be honest, slightly too big for it's own boots is a bit of an issue, although as I said before, it's still a very good game. The learning curve is occasionally brutal, and if your not careful then it can be quite hard to recover from things such as your dissent getting too high, which causes your entire economy to collapse. One main frustration that I have found is that the game does seem to struggle with transporting soldiers, in big numbers, to wherever your theaters of war are. For instance, I was playing as USA during the Pacific War. Because the game provides you with so many pop ups, and there's so much else going on aside from just what your looking at, it quite literally took me 10 minutes to get through all the popups, 90% of which were informing me that the Japanese had repeatedly 'won' an air battle that I hadn't even known was taking place. However, once you've taken some time to get used to the game, figure out whatever faction and nation works for you, and work out the strategy that that country needs, then it can be, I feel, one of the most rewarding and generally excellent Grand Strategy games out there.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Not for the feint of heart, but for those willing to learn the game endlessly rewording.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Oh man, where to begin?  Ever felt like video-games are too shallow and bring nothing new to our  zeitgeist ? Ever wished you could go back in time and relive the tension and world-defining moments of World War 2? Ever thought you could do a better job than the  Führer  or  Il Duce ? Were you one of those insufferable kids that would take the War boardgame as serious as a real world conflict? Well, you can stop reading right here and get this game already.  In case you need reassurance, here's a proper review of the game just for you: Hearts of Iron 3 is the august title of what's called grand strategy games. In these, you control large, complex portions of a nation state's resources to wage war, conquer, thrive and, well, win. Hearts of Iron 3 is set in the specific timeframe of the Second World War: You'll be able to choose where and how you start, in any year ranging from 1936 to well into the end of the war. It is possible to play the game until the mid 50s, depending on how things play out. You can play as any country that existed in the world during the thirties and forties, literally any. A good deal of those countries will have events and decisions designed specificaly for them. Once you choose your country, its time to dive into the game: Politics, diplomacy, industrial production, army, naval and air force management, intelligence, espionage, economy and everything else you can fathom will be under your control. Make sure the right political party is ruling your country, choose the best government approaches, decide whats going to be build where, move your divisions to key locations and make sure those are well commanded and well supplied, make allies and enemies and rewrite some ♥♥♥♥ing history.  I ain't gonna lie: It's difficult. First few hours playing are spent in tutorials and learning by trial and mistake. There so much to do and so many things to decide that you are bound to ♥♥♥♥ something up, and that's probably going to send your dreams of winning World War 2 crashing down to the ground. But nevermind that, because Hearts of Iron 3 is the kind of game where even losing can be fun. I remember fondly my many last stands against impossible odds, in fact those seem to stick in my memory more than any victory.Try playing as Poland instead of Germany and see how long you can last against the   blitzkrieg  . Play as Turkey and hold on to your ♥♥♥♥ while joining the Axis and declaring war on the USSR. Maybe pick China and show those japanese filth it won't be that easy ♥♥♥♥♥♥ Nanking this time around. First time I played the game after learning the basics, I joined the Axis as Brazil and nuked London to open the way for Operation Sea Lion. Good times, man. Good times.  Don't be afraid of tackling the learning curve of this game. It'll be worth.  Gameplay - 10/10 Soundtrack - 9/10 Graphics - 5/10 Content - 9/10 Challenge Level - 9/10 Replayability - 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best Grand Strategy games of all time! It is really indepth I remeber having the game pre-ordered and when it arrived in the mail it had the thickest instruction manual I had ever seen, the game requires alot of indepth thought about production, resources, etc. And the other expansions continuelly add onto this. But if you are looking for a true indepth experince after installing the game get the BLACK ICE mod which can be found on the Paradox Forums on their website. Adds over 400 units and adds more depth to an infinitely indepth game.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "-Played as Soviet Union -Still lost due to impeccable German AI (damn panzers) -10/10 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "When Germany, USA and Japan team up and take over the whole world ♥♥♥♥ gets real",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best WW2 game ever. Play it with the DLC expansions, and it's smooth and flawless. Without the DLC its a little awkward in terms of gameplay.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "&gt;play as Poland &gt;cede Danzig to Germany &gt;conquer Lithuania &gt;change history &gt;11/10 &gt;Paradox &lt;3 ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Brilliant. I even got to play as Vichy France.. :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "A fan of this company from the beginning, this one keeps it going. HOI III is a continuation of this series and adds to the linage of where it is from!",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Over all, I reccommend this game. I tell you, though, if you don't LOVE WW2 history you will NOT get into this game. The reason is say this is because it has a learning curve of 90 decrees. I do recommend this game, don't buy it. Wait for Hearts of iron 4 comming out next year. Now that game will be worth it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of the best games I have played in a long time. the level of detail and gameplay is awesome, being able to change or repeat history is even better. Down side is the game crashes a lot, should have been fixed while in being made or with hot fixes. Overall great game",
+            "review_score": "1"
+        },
+        {
+            "review_text": "most underated Grand strategy  ***** 5 stars",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I really like this game, and would recommend for anyone wanting a bit of a challenge or a constructive gameplay.  Also would like to be friends to play some mp sometime :) add me",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Never had to use Excel before.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Got conquered by Poland as the USSR  10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Man, if there's anything this game has taught me it's that, while you can do a surprising amount of work with a handful of plucky socialists with hunting rifles and gumption, when the SS rolls up at your front door you'd better have something a mite bit stronger or else you're gonna have a real bad day.  10/10 would become trapped in a horrific alternate timeline where nazi america takes over the world again ",
+            "review_score": "1"
+        },
+        {
+            "review_text": "After 174 hours I managed to beat the game Great for anyone who wants a challence cause' this is hard 10/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Overall not a bad game. Feel slightly cheated that the DLC are only compatible with Windows.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Verycomplex strategy game. Let's you govern soo many varibale in running a country / war effort during WW2. if you loved complex AH hex games then this is a good one to try.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "25 hours shy of 200 and I'm still terrible. I can barely win on easy, much less normal. That being said, I love the game and I hope to get better at it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you're a power hungry micromanager like myself then this is the game for you!  9.5/10",
+            "review_score": "1"
+        },
+        {
+            "review_text": "DISCLAIMER  The hours mentioned in this review reflect only a portion of the hours invested.    I bought this game originally in the discount store as the Vanilla disk version. Have played every standard version as each expansion was release. Also played each version of The ICE mods. DiDay , BlackIce. All in all one of the best strategy games ever developed but only 80% of the credit can go to Paradox. The community mods make this game something get lost in.   Shout out to the mods of BlackIce. Please make sure you register your game thru the Paradox forums as to gain acess to the proper mod channels. You can micro manage your life away or see what the AI can pull off. You can mod the game yourself if you get really bored, HoI 4 is in view and I look forward to it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "One of my favourite of the series, have played them all and look forward to the ones in the future. i hope they build on this game like thwey did EUIV and CCII",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Never had to use Excel before.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Amazing Grand Strategy Game and to mention my first Grand Strategy Game it completey confused me then once i got the hang of it, blew my mind amazing in every way i fell in love and then i bought Hearts Of Iron 4 which is amazing as well but in my mind Hoi3 still has it beat, most of the negative reviews are about the game crashing and thats due to it bieng old and not optimized for more than 2gb of RAM i'm pretty sure but you can get the .exe fix for it on the Offical Paradox fourms and it completly fixes it 100% all in all amazing game and i would definitely recommend it to anyone thats like WW2 games or Grand Strat or RTS games but to be honest Hoi4 would probably be better for a begginer.",
+            "review_score": "1"
+        },
+        {
+            "review_text": ":)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "This WTF when Luxembourg conquers Europe",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you look for an in-depth WW2 simulator, look no further! This game is the one of the most complex game I have every played, and if you install the Black Ice Mod (BICE), which not only makes the game more realistic by adding a TON of stuff like more manpower, bigger units, more building, etc, it makes it the most complex game on the market! Be Aware, playing the game requires at least 40-50 hours to finish a campaign, especially as a major, and the learning curve is quite deep, but once you learn it, it transforms into a lot of fun.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I bought this game for Steam, even though I already owned the CD copy. It has absorbed uncounted hours of enjoyment, and that was before the mods that made it even better. It's so detailed that folks new to Paradox may need to tune down some of the options, but you get an incredibly deep game with anything related to Hearts of Iron.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Best grand strategy game I've ever played.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "I was a big fan of HOI2 and played it a lot. It had a good balance of playability and realism and there were some issues which needed fixing, such as convoys and the occasionally flaky AI but it was a good game.  HOI3, sadly, is not. It has taken me a while to work out why, but I think it's because, in trying to make it a complete war simulation, the developers have failed to either make it accurate or make it fun. The accuracy claim sounds harsh, so let me explain.  1 - Research. There's no logic to it. One has to seperately research the gun carriages and weapons for anti-tank guns, for anti-aircraft guns, and artillery. That's six separate thingies to research. Then there's a seventh bit for heavy AA for your provinces. Now in reality, what happened was that the best anti-tank weapons (British 17pdr, German 88, American 3') all started life as AA guns. It would make far more sense to have a 'foundry' option where guns could be researched and then applied to different areas.  Why even force people to research three lots of gun carriages? It makes absolutely no sense.  The same applies to separate research for cavalry weapons, militia weapons, and infantry weapons. What, we're all using different rifles now?  As a minor aside let me come on to the logic behind the naming of each progressive unit. For example, the British medium tank starts as the A9 cruiser, then when you research 1940 tanks it becomes the A15 Crusader (skipping the A13), then for 1942 tanks it becomes the Sherman Firefly. What? No Cromwell? Why the Firefly? This isn't the only case of a total lack of logic in the choice of naming. The naming doesn't affect the game but for a game which boasts of its realistic nature it is totally out of place.  IMO the complexity of the research tree does NOT add anything to the game. I think it could have been halved in size and been far more enjoyable to use without losing any gameplay.   2 - Convoys. The problem with convoys is that there is no mechanism to manage their routes. This was a problem in HOI2 where the German AI could sink the entire British convoy fleet by hanging around in a few areas of the North Sea and continually sinking ships. The very least HOI3 should have had is a convoy management system. The player should be able to tell the convoy routing system NOT TO SAIL through certain areas. Instead I have to watch convoys being sunk in the middle of the North Sea and around the English Channel, instead of rerouting all my convoys to the NW coast of Scotland or Liverpool and Belfast (as was done historically). It's a huge oversight and it is one of the primary problems with playing as the British. One of the other problems is that the cost of both convoys and escorts is fixed and does not fall over time (as it did historically with Liberty Ships and corvettes). It's almost as though the game is written solely with land combat in mind and about 3/4 of the way through someone said 'Hey, wasn't there someone else in WW2 beside Germany and Russia?'  It's a real problem and affects playability and the prospect of a historical outcome to WW2.  3. Naval AI. While I'm on the subject, the AI doesn't seem to know what to do with its ships. The Germans send their battleships out unescorted to hang around the west coast of England and get sunk. Which they do. A lot. It makes me suspect that the major emphasis for the game was on land combat and naval was not addressed properly.  4. Allies. In HOI2 getting allies to fight for or with you was easy. They often sent you units, and there was an option for you to take over their entire armed forces. In HOI3 that option doesn't exist. And they don't send you units. You have to 'set objectives' to get the allies to work with you. These objectives don't really work. So, when playing as Britain, Canada keeps its air force and navy and army in Canada. When you urgently need Canadian fighters to defend your airspace and Canadian destroyers to patrol the Atlantic, they won't budge. There is no way to unify command, so you don't fight as allies but merely as participants in a global war where you aren't fighting each other. It's poor.   5. Crashes. Oh my goodness, the game's unreliability is terrible. It crashes to desktop the whole time. To minimise the inconvenience of losing my game progress I set it to autosave every game week, which is the most frequent autosave setting. However, if you are in the middle of a huge amount of preparation for your forces (reorganising your divisions for example) the game might crash. This has happened a couple of times to me, where I've been playing as Soviets and have been engaged in a major reorganisation of my 300+ divisions, and the game has just crashed to the desktop, and of course the autosave hasn't kicked in because I'm not progressing time through the game. HOI2 never did this, and it's by far the most infuriating feature of the game.  6. Graphics and Interface. It's cluttered and it's illogical and it's poorly laid out and it's not designed to work on higher resolution settings. It's a bloody mess. And let's talk about the little pictures for each unit that appears in the research window and the production window. Apparently it was too much effort for the devs to dig out the pictures of the units that they used in HOI2. As a result far too many units, which had the correct photo in the previous game, have a 'stock' photo in this game.   There are historical oddities, too, ones which ought to have stood out like a sore thumb. It is now possible to build (assuming you have the IC) lots of provincial AA without expending any manpower. Who's manning all those guns? Historically Nazi Germany had to commit a million men to defending their homeland from bombers, and that was a drain on manpower. In HOI3, they don't have to. They had to in HOI2.  I could live with the game if it was new. If it had been out for a couple of months I'd say 'Well, every game ships with bugs so I can live with it for now.' But this isn't a new game, it's been out for years, and instead of fixing the very serious reliability bugs, and instead of sticking in a few dozen stock photos, Paradox decided that an urgent priority was some 3D counters which they could charge extra money for. It's not good enough.  I can't recommend this game. If it was claiming to be a beer-and-crisps wargame I could overlook its historical inaccuracy. It's claiming to be a very accurate game, and it isn't. It's not accurate enough for a historical wargame, it's not fun enough for a 'quick dip in and have some fun' wargame. It's too unreliable to be any kind of game at all.   ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "HOI 3 is a great WW2 grand strategy game. I enjoyed playing as different nations and infuencing history to try and swing WW2 events in different directions.   However the game is showing its age badly. If you don't use the Paradox support forum and try to fix all the issues the game will crash to desktop constantly. Even if you install the fixes that the support forum suggests I found that it is still no guarentee the game won't crash.  I worked for 3 hours trying to solve the crashing issue and I still found that after a certain amount of time the game would still stop working and crash. Playing this game is not only trying to win WW2 but a war of attrition to keep the game running and make sure your save game works.   Even the big fans of this game I've seen do let's plays of HOI3 have had issues with it despite obviously spending a long time patching it. If you play the game for extended periods and have a lot of units on the screen it begins to lag horrendusly. The UI will start to break and show no numbers. You have to re-start the game at that point. Which is a pretty big inconveniance.   For the technical reasons I can't give this game a positive review. The game is pretty much broken at this point because of its age. If you want to buy a WW2 grand strategy game just wait for Hearts of Iron 4.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "As much as I love all things Paradox and especially the Hearts of iron series, I have to say the third iteration of the series is plain wrong. The 'order of battle' idea is great on paper but is in reality a waste of time... for the ultimate experience (to date, until HoI4 in 2015!), see Darkest Hour on Steam, you'll be in for a wonderful time.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Five reasons this game is absolute s h i t e !  1. I needed community support to even start the game.  2. Game-mechanics are somewhat boring. Rather limited options for doing anything, and unless you know the tricks you'll be doing absolutely nothing the first half of the game.  3. This game is drudgery galore. It's main game-mechanic consist of organizing your troops into a proper chain of command. Doing this is about as time-consuming as in real life. A clunky and unintuitive interface makes this chore into your own personal hell.  4. HoI3 is spent waiting for something interesting to happen, but it never does.  5. You have to go online to learn how to play the game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Love the ideea, however, the game is unplayable after a while. Freezes, crashes and lags even on a decent machine",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this is a fun game when it works. Every time I try and play the game crashes after a few turns. It also takes a long time to load.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "i pirated this game back in the day on my old laptop and it worked a treat. I loved it so i bought it on my newish laptop and it crashes as soon as i get 5 minutes into a game no matter what I try? :'( seems like a waste of $11 at this point",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I love the heart of iron series. Very engaging and addictive. This game has all of that from what I have been able to play. However, when I got more into the game it started crashing on me. Currently I cannot play more than 5-10 minutes without it going down. I don't know what happened in the game to have it crash when it was working prior. This had a lot of potential but the crashes make this unplayable now. I would not recommend this game. Until they get the stability right, do not buy this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game is not fun. It always crashes.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "not happy at all as when gaming the game is suddenly just stops and says hearts of iron as stopped working",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "this ♥♥♥♥ does not even work...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Yes, it is a good game. But it crashes constantly. I thought that as I have a good computer it wouldn't crash on me, but it still does. So, in the end, no matter how good it is, because you can not play a single campaign, just because the game decides to crash no matter what.  So, in a nutshell, this game is unable to play. 0/10",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game needs a lot (a lot!) of micromanagement or you can use the useless AI to manage your armys, your economy and everything else.   The game is so bad coded that you can find the following scenary: Rusians conquest Romania, you reconquest it (as Germany) only for your armies to leave the country because now is a free country and you cant order your people to continue fighting the russians. Russians reocupy Romania and then you reconquer it to start again.   HQs are unkillable. They can be behind enemy lines, under heavy attack from many divs and they only retreat (or avance) but never die. The enemy AI knows your moves so is pretty normal for them to move to the space you left or leave the one you attack, so the game becomes a never ending of pursues.  Have i said the AI is useless? How fun is to be battling the red hordes and then one partisans appear in Poland and half your army engaded in combat whit the russians disengage and go to kill that partisan. Or, when the south army decides is better to be in the north and leaves the south completely undefended.  BTW is better to declare war on any potential ally. Frontiers make for a hellys nightmare and you can find yourself hating how a stupid allied unit messed all your front because your units cant fight in allied territories (AI mode, in manual you can go wathever you want).",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I have no mouse.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "its broken.... the game was amazing and the developers dont care",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Bad mechanics and you have to pay even more money for DLCs that improve the game... Bad Game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Dont buy if your planing on playing on a mac, because you cant use semper fi which is required for most of games dlc and the base game is hardly worth the money",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I don't get this game at all.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hearts of Iron IV comes out June 6th.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do not buy.  Game does not play nice with modern hardware. Does not perform with fullscreen windowed, and also fails to properly function with windowed mode and XY mouse plotting. Also fails to work with fullscreen with multiple monitors.  Total Dissapointment for the past 6 years, I have played less than an hour total time. Compare this to thousands of hours with other paradox titles.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "gearmy is to strong i sent 112k thhey had 12k i lost before one man was killed then i nuked themand surrond them and i lost before one man was killid did i tell the germens i was facing was millita and i had ifenty and tankes ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "On the bright side, I have ebola.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is not difficult. This is broken. When attacking a smaller front in poland, i found myself overfilled with useless notifiers from smaller battles wich made it impossible to speed up without finding yourself with half a trillion tabs to close . Is there a way to block them? The game does not tell you at all so i guess PARADOX is expecting me to know about the game before i play it...",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I'd rather play with excel 1997",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "  NOT RECOMMENDED FOR WINDOWS 10 USER    Because it doesn't work well you have to use compatibilty to Windows 7 mode and when you use that steam client woudn't count your played time",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "cant recommend cant even get it to play waste of my monet",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Ik many people are fans of these games and i have only played 18 min but it was way to hard like how to attack and stuff *sigh* i wish icould take back my $10 but sadly i can't (refund in process) but im sry i cant recommend it.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "very bad keeps on crashing and lots of glitches  whaterver you do dont waste your money on this terrible game",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I would no doubt be much more impressed with this game if it would actually run! The best I have managed so far is to run through one part of the tutorial before the game crashes. For the most part the game will NOT run. So it seems that Steam has taken a working title, broken it and then sold it to us. Thanks Steam.  I have visited the forums at Paradox and downloaded the latest patch for HoI3, but when I try to run the patch I am informed that the program is not present on my machine?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "For what this is and what i wanted to get out of this game, i am not recommending it as it is a waste of your money. The single player works fine. The online however doesnt work in any format and I have tried everything and even contacted for tech support and have never gotten a reply. I wanted to play online with all my friends but we ended up just wasting our cash on it. Save yourself the money and look for a game that actually works like it should.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Incredibly complicated, even compared to Crusader Kings. Unless you have tons patience to micro manage armies and pretty much everything, do not buy this.    Disregard the time spent ingame, I've actually spent over a hundred hours in it. ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Its brainless, boring and it just doesn't stop crashing.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "takes to long to get going and i dont have the free time to play it",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Paradox is ♥♥♥♥. Pirate their games, and just msg someone(an idiot who bought their games) with access to their forums-- if you want a mod or summin. They are the only ones who make G.S.G.s so they add a bunch of ♥♥♥♥ D.L.C. for you to buy, and it's all ♥♥♥♥ repeated; sprite packs, music packs, vehicle packs(in case of H.O.I.3), and a bunch of other rubbish that should be there in the first place. These ♥♥♥♥♥♥♥s have a large consumerbase who excuse their ♥♥♥♥♥♥ business practices, so don't expect much from them. BTW: I am in no way supporting pirating, don't do it; I was just saying that with no real intent.   ;^) do it  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The best strategy game ever when it comes to WWII .. If you could only play it. The steam version won't work. I have all the expansions etc and it crashes every 15 to 30 min. Last year I thought it was my pc but now i have a super gaming pc (an Alienware) and it does exactly the same. Its a petty its supposed to be an awesome game but with so many interruptions its unplayable.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "hearts of iron 3 is a very hard game to play i did not like it when i got so i would no recomend it for childern.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This is a re-write of my previous review of Hearts of iron 3. My last review of this game was very high, but time goes by and things tend to change, dramaticly sometimes. for some reason this game has not aged well, This game was in it's time a masterpiece with micro management down to squad level, with the operating systems of today, the developers have not been updating it prooperly. it constantly crashes to desktop, and nothing is being done about it. the game menu is very sloppy made (or updated) like white text on white background, so that you can not see what it reads on the buttons, you also can not chose wich mod to start because of this. because you cannot see what it says, this is poorly updated or just sloppy,I am sure that would be a small task for the developer to just change to black text, well Im guessing that, I have about zero knowledge about programing. but overall, it seems the game is not updated to newer operating systems, well, I run Windows seven and Win8 has been out for years atm. Hearts of iron 3 do not use a hexagon grid, for a game of this size I really wish it would have, the gameplay would have been so much better, with not using a grid, the result is that enemy forces can just slip behind your lines just like that, and there is no real way to block them. it is really a mess. this is something paradox uses in most all their games. however, HOI3 have been a very good game and it still is if you are able to run it, it is a shame to see that such a great game as this go waisted, the crashes are really annoying because you put in a lot of time in it, you build your country improves production, all this takes hours and then suddenly it crashes and all is lost so you have to start over again, sure you could save often but still you can not save every minute because this is a real time strategy game, so it is easy to forget your self in the midle of strategic planing, if it where turnbased it would not have been such a problem, with all that said, I can not recommend this game at the current date because of these problems, I assume there is not many guys out there running XP today, so they should fix this, but if you DO run Windows XP, poor guy, then go ahead and buy it right off the bat, it will probably work just fine for you,but I can not guarantie it because as I wrote earlyer, I run Win7. keep in mind that at his time there are allmost only good reviews of this game on Steam, so if you manage to find this review, like a needle in the sand, be rest assured that the good reviews are presumably old and from the time when the game worked, therefore you should possibly give this review more weight. the date of writing this review is 2014-09-21, if there would be a patch fixing this in the future, I will rewrite this review. but until then, the game is totally unplayable and I can not give it more than 1/10 because of that, and I recommend that you do not buy this game.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Poor user interface and mechanics.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I used to play this on PC and have just downloaded the verison for Mac. I'm baffled, it seems part functional and generally broken. Where's the unit AI?",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Hmm first off before i write this review, ignore my hours on this thing because i have an excuse revolving around it. To my fair view i've done research about the game, gotten to watch many tutorials, videos, picture and much more things that the game has to offer.   One thing is this game is something that isn't made much or common really, it could be seen as quite a treat to have this due to lack of strategy, planning WWII games.  The game has a lot of nice concepts, a not-bad community (Kinda is, but i'll ignore that for now), pretty realistic in someways. The planning and strategy are quite unique adding another feature to this game. The game so far isn't too bad, it's quite good actually. I'm sure many people would still love to play it, especially those who're big fans of WWII genres and alike.  The graphics are satisfying enough to extent, the music isn't half bad, quite nice actually at times. Voices meh. And overall it's pretty nice. Now to go into cons (For me, one too many!) This game isn't too bad actually to be honest, if the company wasn't so lazy around it.  I have gotten this issue, and through researching and looking through the web a bit i've found out that many people, besides me. Also have been getting this issue, it's not just one. But many. The severity also ranges. This issue is that the game doesn't start, or is extremely odd when starting, no pictures, maybe a black screen, no loading into game etc. You name it, seriously this is one thing you shouldn't EVER! have in a game. You should make sure you don't need any specific programs no one tells you about or has to run the game. Some people can run it perfectly fine, you know what great? But then there's about thousands of others, me included who have this issue. Now let me tell you a bit more about my personal experience with this pile of S%#T.I first start the game, great. The screen doesn't show, and the cursors there. I go to task and close it, i then relaunch. This time, it takes up the whole screen with the range i can move the cursor, i launch task manager, i cannot click anything with the cursor or disable it.  Now i restart the pc, i go on it. My pc is going messed up and slow and programs are going on and off. (I have a good pc too) I then tried a virus search incase i got something earlier, only one result came up. It being from the game itself -_-. It isn't a virus, but really?... I removed it, restarted my pc it, the pc starts to work again -_-. I uninstall the game then go online for solutions, i've tried downloading, reinstalling, uninstalling a mix of many programs. C++, DirectX9 Etc many things, NONE have worked. I'll tell you what i just did, i just went and spend 5$ on a game, a game that isn't usable and messes up your pc to sH$@. Now i'm not saying the game is overall bad due to this, but really? Be honest here, is it that hard to make the game playable? It's seriously annoying, even more when i see thousands of forums with the same questions and issues. Fix this!  The game itself, the gui's are messy and non-neat, they don't look like any hard works put in at all! I understand if you want a bunch of buttons or options under one thing, but it doesn't mean you gotta make it look like crap. The maps itself can be glitchy at times, the game can experience extreme crashing if you do more than 1 thing at once -_-. These are basic issues you can fix EASILY! So you know what i'm telling this company to do? FIX THEM!!! Otherwise this game would actually be worth it. In my opinion this game isn't really recommended, unless you're a WW2 strategy hog. Besides that run away from this piece of crap.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "I can not play this game because it is froze on the loading map sprites screen. I have tried everything and nothing works. Paradox's fought for allowing steam to sell a broken. Actually it's both their faults. This is a broken game and it's ♥♥♥♥ing bull ♥♥♥♥. I enjoyed 15 minutes of it, got off. The next day I tried it was on a frozen screen.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Do yourself a favor and avoid this game, if you want to have fun just buy Darkest Hour.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Gameplay is good but it crash all the time! 3mins in average",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "The game takes forever to load and that’s if you’re lucky (and I have a good pc) ..I have 7.5 on record and I haven’t even got past the tutorial because of freezing and restarts and re-loading   dont buy it",
+            "review_score": "-1"
+        }
+    ]
+}

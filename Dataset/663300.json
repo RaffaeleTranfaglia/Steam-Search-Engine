@@ -1,0 +1,39 @@
+{
+    "app_id": 663300,
+    "name": "Enlightenment",
+    "release_date": "2018-07-24",
+    "developer": [
+        "LizardKing"
+    ],
+    "publisher": [
+        "LizardKing"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Top-Down"
+    ],
+    "achievements": 31,
+    "positive_ratings": 295,
+    "negative_ratings": 109,
+    "price": 8.99,
+    "description": "In Enlightenment, you play in a roguelike action-shooter with a fast-paced challenging journey deep into a underground complex called &quot;the Ark&quot;. Players will be tested by large varieties of enemies in a procedurally-generated dungeon, and become stronger by learning from the inevitable deaths.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/663300/header.jpg?t=1552044793",
+    "minimum_requirements": "OS: Windows 7, 8, 8.1, 10 (64 bit only) Processor: Intel Core i3 or  AMD FX-8120 Memory: 4 GB RAM Graphics: GeForce GTX 450 1GB or AMD HD 6850 1GB DirectX: Version 11 Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 7, 8, 8.1, 10 (64 bit only) Processor: Intel i5 Quad Core or higher / AMD Phenom II X6 or higher Memory: 8 GB RAM Graphics: nVidia GeForce GTX 650 series or higher / AMD HD 6870 or higher DirectX: Version 11 Storage: 3 GB available space Sound Card: DirectX compatible Sound Card",
+    "reviews": []
+}

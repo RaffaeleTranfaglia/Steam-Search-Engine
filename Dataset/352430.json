@@ -1,0 +1,39 @@
+{
+    "app_id": 352430,
+    "name": "Farlight Explorers",
+    "release_date": "2019-02-01",
+    "developer": [
+        "Farlight Games Industry"
+    ],
+    "publisher": [
+        "Farlight Games Industry"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards"
+    ],
+    "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Indie",
+        "Building",
+        "Sandbox"
+    ],
+    "achievements": 8,
+    "positive_ratings": 114,
+    "negative_ratings": 64,
+    "price": 10.99,
+    "description": "Extract and gather resources from different planets. Manage the supply of electricity, water, food and oxygen of your base in order to survive. Automate the creation of new products. Build a spaceship to transport your products to other places...",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/352430/header.jpg?t=1549018863",
+    "minimum_requirements": "OS: Windows 7 64 bits,8 64 bits,10 64 bits Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 760 or equivalent DirectX: Version 11 Storage: 8 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

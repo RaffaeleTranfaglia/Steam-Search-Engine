@@ -1,0 +1,53 @@
+{
+    "app_id": 444270,
+    "name": "Hypersensitive Bob",
+    "release_date": "2016-03-29",
+    "developer": [
+        "SIEIDI Ltd"
+    ],
+    "publisher": [
+        "SIEIDI Ltd"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 27,
+    "positive_ratings": 43,
+    "negative_ratings": 9,
+    "price": 3.99,
+    "description": "Hypersensitive Bob is roguelike sky-platform crawler where Bob fights his myriad forms of allergies. Some extreme situations may require Lobotomy or Surgery - even Laxative may prove to be necessary for Bob's survival. Loot vaccine vials, discover crazy item combos &amp; encounter waves of enemies.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/444270/header.jpg?t=1493884915",
+    "minimum_requirements": "OS: Windows XP Processor: 2Ghz+ Memory: 1 GB RAM Graphics: 256MB Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Bob is cute, casual and surprisingly challenging. If you like the combat style of the Legend of Zelda games of old (2D old) you'll feel right at home fighting the waves of allergic reaction inducing creatures level after level. Gameplay is solid, and despite the occasional challenge levels don't feel unfair. I only had trouble with one boss that seems to have kept spawning enemies when it was not supposed to, giving the fight a tedious and lopsided feel. The devs said they'll fix it though, so it shouldn't be a problem for long.  The powerups are fun if not too inventive, and mix up the gameplay on each sitting. The greatest charm of the game lies in its setting and visual design though - if you don't like those your experience will be markedly duller than mine. If you do, or you wish to get someone into classical styled gaming through the visuals, Bob is worth the 5€ for the casual fun you'll get from it.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Nice little game, like someone said 'Binding of Isaac on Disney'. If you have played Binding of Isaac and only beat the mom fight once and decided game complete, this will be a very short game for you. If you want to unlock all the items and figure out how deep the rabbit hole goes it is a great little game for the price(5€ at time of review)! Gameplay can be a bit slow and methodical, but that is nice type when just relaxing and playing, if the game you are looking for has to be 100% adrenaline infused chaos I cannot recommend this game for you.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 707470,
+    "name": "JumpFist",
+    "release_date": "2017-09-19",
+    "developer": [
+        "BoomCat Studios"
+    ],
+    "publisher": [
+        "BoomCat Studios"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Action"
+    ],
+    "achievements": 10,
+    "positive_ratings": 2,
+    "negative_ratings": 0,
+    "price": 0.79,
+    "description": "A fast paced platformer that will test even the most seasoned of gamers! Jump, punch and slide your way through mayhem and reclaim your stolen games!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/707470/header.jpg?t=1506898818",
+    "minimum_requirements": "OS: Windows Vista Processor: Dual Core Memory: 1 GB RAM Storage: 200 MB available space Additional Notes: Controller strongly recommended",
+    "recommended_requirements": "OS: Windows 10 Processor: Dual Core Memory: 2 GB RAM Storage: 200 MB available space Additional Notes: Controller strongly recommended",
+    "reviews": []
+}

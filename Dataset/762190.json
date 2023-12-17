@@ -1,0 +1,42 @@
+{
+    "app_id": 762190,
+    "name": "Epic Loon",
+    "release_date": "2018-07-12",
+    "developer": [
+        "Macrales Studio"
+    ],
+    "publisher": [
+        "Ukuza"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Local Multiplayer",
+        "Aliens"
+    ],
+    "achievements": 10,
+    "positive_ratings": 28,
+    "negative_ratings": 3,
+    "price": 7.19,
+    "description": "Dive into the bizarre world of Epic Loon, a quirky physics platformer for up to 4 players playable in couch co-op or battle mode. An offbeat tribute to classic sci-fi movies, players lead a group of aliens to take over Joe’s TV after they are rudely awakened from their home, an old-school cleaning VHS-tape.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/762190/header.jpg?t=1536761818",
+    "minimum_requirements": "最低配置: 操作系统: Windows 7+ 处理器: Intel Core i5 内存: 4 GB RAM 图形: Intel Integrated Graphics DirectX 版本: 11 存储空间: 需要 4 GB 可用空间 声卡: Integrated",
+    "recommended_requirements": null,
+    "reviews": []
+}

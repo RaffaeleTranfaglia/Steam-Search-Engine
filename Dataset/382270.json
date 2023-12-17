@@ -1,0 +1,43 @@
+{
+    "app_id": 382270,
+    "name": "Space Xonix",
+    "release_date": "2015-09-17",
+    "developer": [
+        "SRF Games"
+    ],
+    "publisher": [
+        "SRF Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 11,
+    "positive_ratings": 14,
+    "negative_ratings": 1,
+    "price": 0.79,
+    "description": "It is the best edition of classic &quot;Xonix&quot; style game here and now.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/382270/header.jpg?t=1447376790",
+    "minimum_requirements": "OS: Windows XP or later Processor: 1 Ghz Memory: 256 MB RAM Graphics: OpenGL 2.1 supported GPU Storage: 200 MB available space Sound Card: OpenAL",
+    "recommended_requirements": null,
+    "reviews": []
+}

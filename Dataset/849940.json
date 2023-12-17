@@ -1,0 +1,38 @@
+{
+    "app_id": 849940,
+    "name": "Freefall Tournament",
+    "release_date": "2018-06-15",
+    "developer": [
+        "y8.com"
+    ],
+    "publisher": [
+        "y8.com"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "In-App Purchases"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "PvP",
+        "Team-Based"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 13,
+    "price": 3.99,
+    "description": "A space marines team-based TPS (third person shooter).",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/849940/header.jpg?t=1529563248",
+    "minimum_requirements": "OS: Windows 7 Processor: i3 Memory: 3 GB RAM Graphics: minimal requirements DirectX: Version 10 Network: Broadband Internet connection Storage: 100 MB available space Sound Card: required",
+    "recommended_requirements": "OS: Windows 7 Processor: i3 Memory: 4 GB RAM Graphics: nVidia 7xx or Radeon equivalent DirectX: Version 11 Network: Broadband Internet connection Storage: 100 MB available space Sound Card: required",
+    "reviews": []
+}

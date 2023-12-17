@@ -1,0 +1,44 @@
+{
+    "app_id": 738130,
+    "name": "Get Dis Money",
+    "release_date": "2018-03-09",
+    "developer": [
+        "Aaron Turner"
+    ],
+    "publisher": [
+        "Team No Comply Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 12,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "A game about gangsterz in space getting money. Arcade style, 2d rougelike action platformer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/738130/header.jpg?t=1520582847",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: 1.5Ghz dual-core Intel Core i5 Memory: 4 GB RAM Graphics: Open GL 3.1+ Compliant Storage: 100 MB available space Sound Card: If you like 8-bit noises then yes",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: 2.0Ghz dual-core Intel Core i5 or higher Memory: 8 GB RAM Graphics: NVIDIA Geforce 600 series with 2GB memory or higher Storage: 200 MB available space Sound Card: If you like 8-bit noises then yes",
+    "reviews": []
+}

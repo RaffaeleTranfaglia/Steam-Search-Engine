@@ -1,0 +1,47 @@
+{
+    "app_id": 445870,
+    "name": "Phantom Trigger",
+    "release_date": "2017-08-10",
+    "developer": [
+        "Bread Team",
+        "Victor Solodilov",
+        "Denis Novikov"
+    ],
+    "publisher": [
+        "tinyBuild"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 16,
+    "positive_ratings": 45,
+    "negative_ratings": 20,
+    "price": 10.99,
+    "description": "Phantom Trigger is a Hardcore Neon Slasher with RPG elements. Figure out what's real as you follow the story of Stan on a journey through surreal and twisted worlds.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/445870/header.jpg?t=1502385486",
+    "minimum_requirements": "OS: Windows 7 and up Processor: 2 GHz Dual Core Memory: 2000 MB RAM Graphics: GeForce GT 650M / Radeon R9 M375 or higher graphics card DirectX: Version 9.0c Storage: 700 MB available space Sound Card: DirectX 9 compatible Additional Notes: xBox gamepad is recomended",
+    "recommended_requirements": "OS: Windows 7 and up Processor: i5 or better Memory: 4000 MB RAM Graphics: GeForce GTX 750 / Radeon R7 360 or higher graphics card DirectX: Version 9.0c Storage: 700 MB available space Sound Card: DirectX 9 compatible Additional Notes: xBox gamepad is recomended",
+    "reviews": []
+}

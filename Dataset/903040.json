@@ -1,0 +1,46 @@
+{
+    "app_id": 903040,
+    "name": "The Castles of Burgundy",
+    "release_date": "2019-02-27",
+    "developer": [
+        "DIGIDICED"
+    ],
+    "publisher": [
+        "DIGIDICED"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Steam Turn Notifications"
+    ],
+    "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Casual",
+        "Indie"
+    ],
+    "achievements": 5,
+    "positive_ratings": 18,
+    "negative_ratings": 10,
+    "price": 11.39,
+    "description": "Stefan Feld's highly decorated board game &quot;The Castles Of Burgundy&quot; by Ravensburger is getting its digital version on Steam! Enjoy against the challenging AI or friends a beautiful digital version of the classic board game!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/903040/header.jpg?t=1551340486",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1 Ghz Memory: 512 MB RAM Graphics: DX9 (shader model 3.0) Storage: 250 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

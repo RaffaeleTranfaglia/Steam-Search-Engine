@@ -1,0 +1,46 @@
+{
+    "app_id": 351420,
+    "name": "Veteran Combat",
+    "release_date": "2015-02-16",
+    "developer": [
+        "CyberphobX"
+    ],
+    "publisher": [
+        "CyberphobX"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "Fighting"
+    ],
+    "achievements": 0,
+    "positive_ratings": 20,
+    "negative_ratings": 21,
+    "price": 1.69,
+    "description": "Veteran Combat is a 2D side-scrolling (arcade) fighting game for PC.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/351420/header.jpg?t=1546078988",
+    "minimum_requirements": "OS: Windows XP SP2 Processor: 1Ghz Memory: 512 MB RAM Graphics: ATI RADEON 9200 or better with at least 128MB DirectX: Version 9.0c Storage: 600 MB available space Additional Notes: The game will run in windowed mode by default.",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "This is a game that atempts to be mortal kombat without the blood or finishers.  The animations are smooth but the controls are horrid with no controller support . Remapping your controlls is a tedious task in and of it's self as you have to got into the second players keyboard settings  to make sure they aren't already taking of the keys you want for player one and remap them first.   So, you may want to pass on this one.  ",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "Some devs finally made a game with 404 mb to install.",
+            "review_score": "1"
+        }
+    ]
+}

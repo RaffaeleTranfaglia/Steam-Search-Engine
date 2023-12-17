@@ -1,0 +1,55 @@
+{
+    "app_id": 512740,
+    "name": "Flat Path",
+    "release_date": "2016-08-24",
+    "developer": [
+        "GooDCrafter"
+    ],
+    "publisher": [
+        "GooDCrafter"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Puzzle"
+    ],
+    "achievements": 5,
+    "positive_ratings": 51,
+    "negative_ratings": 2,
+    "price": 0.79,
+    "description": "Relaxing puzzle game in a minimal style.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/512740/header.jpg?t=1475570358",
+    "minimum_requirements": "Минимальные: ОС: Windows Vista or later Процессор: 1 GHz processor Оперативная память: 512 MB ОЗУ Видеокарта: OpenGL 2.0 or better Место на диске: 200 MB",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Flat Path is a very simple puzzle game with intuitive controls. Of course, just because it's  simple  doesn't mean it's  easy ; ever since I figured out how to solve regular sliding puzzles when I was a kid (and impressing what few friends I had in the process), a small part of me has always been seeking a decent sliding-puzzle challenge. Flat Path definitely qualifies as a sliding-puzzle challenge, and it does not disappoint.   The object of the game is simple; slide the pieces until a complete path is made from the colored node to the uncolored node(s). The catch is that you only have a limited number of moves to do so, and from my experiences, it's  always  the exact number of moves required. Fortunately, you get unlimited attempts and restarts on each level.   The soundtrack and sound effects have volume sliders in case you want to dampen or mute the sound of the clicking of the tiles or the unintrusive BGM. A lot of times, puzzles are easier to solve if you're listening to your own music, or nothing at all, so that option is available should you choose to use it.  In conclusion, Flat Path only has one thing to offer, but it offers it in spades; a vast plethora of sliding puzzles that get increasingly difficult with each level. I would recommend it if you want a nice and low-priced puzzle game (or a timekilling casual game).",
+            "review_score": "1"
+        },
+        {
+            "review_text": "If you've ever played Tubes, you'll find this game oddly familiar. The music begins to grate but that's easily turned off. Considering the price there's plenty of content, I'd say it would take an hour and a half to two hours depending on your experience in puzzle games.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "Well great simple game, easy achivement, though it's a bit boring",
+            "review_score": "1"
+        }
+    ]
+}

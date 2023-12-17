@@ -1,0 +1,41 @@
+{
+    "app_id": 574500,
+    "name": "Gearend",
+    "release_date": "2017-11-17",
+    "developer": [
+        "SolarLune Games"
+    ],
+    "publisher": [
+        "SolarLune Games"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 13,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 6.99,
+    "description": "Gearend is a small 2D non-linear action-platforming exploration game. You control a small robot named Epsilon-98, or Eps, as he explores a hostile robotics research facility. Fight, restore, and explore as you search for the humans who awakened you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/574500/header.jpg?t=1512805917",
+    "minimum_requirements": "OS: Windows 7 32-bit Processor: 2-GHZ Single-Core Processor Memory: 2 GB RAM Graphics: Dedicated OpenGL ES 2-compatible Graphics Card (e.g. NVIDIA GTX 660) Storage: 179 MB available space Sound Card: The kind that plays sounds",
+    "recommended_requirements": null,
+    "reviews": []
+}

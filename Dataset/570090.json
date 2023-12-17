@@ -1,0 +1,39 @@
+{
+    "app_id": 570090,
+    "name": "articy:draft 3",
+    "release_date": "2017-02-16",
+    "developer": [
+        "ByteRockers' Games"
+    ],
+    "publisher": [
+        "articy Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Design & Illustration",
+        "Education",
+        "Utilities"
+    ],
+    "tags": [
+        "Design & Illustration",
+        "Utilities",
+        "Education"
+    ],
+    "achievements": 0,
+    "positive_ratings": 25,
+    "negative_ratings": 6,
+    "price": 74.99,
+    "description": "articy:draft is a visual environment for the creation and organization of game and story content - such as branching dialogues or item databases. It unites specialized editors for many areas of content design in one coherent tool. Export into various formats and integrate content easily into Unity.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/570090/header.jpg?t=1546857724",
+    "minimum_requirements": "OS: Windows Vista or higher Processor: Intel i5 or comparable Memory: 4 GB RAM Graphics: recent nVidia or AMD graphics card DirectX: Version 9.0c Storage: 2 GB available space Sound Card: not required",
+    "recommended_requirements": "OS: Windows 7+  (64-Bit) or higher Processor: Intel i5 or comparable Memory: 8 GB RAM Graphics: recent nVidia or AMD graphics card DirectX: Version 9.0c Storage: 4 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+    "app_id": 539270,
+    "name": "Mahjong",
+    "release_date": "2017-02-20",
+    "developer": [
+        "Sanuk Games"
+    ],
+    "publisher": [
+        "Bigben Interactive"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Casual"
+    ],
+    "tags": [
+        "Casual"
+    ],
+    "achievements": 10,
+    "positive_ratings": 34,
+    "negative_ratings": 11,
+    "price": 6.99,
+    "description": "Play a Zen game! Rediscover the famous traditional Chinese game. Find all the matching pairs of tiles, being careful not to become blocked in, to get to the end of each level. Concentration and perceptiveness are needed to finish the gorgeous boards that we have produced for you.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/539270/header.jpg?t=1487869071",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium Dual-Core E5200 (2.5GHz) Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 11 Storage: 460 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i5 Memory: 8 GB RAM Graphics: Nvidia Geforce GT 730 / AMD Radeon R7 250 DirectX: Version 12 Storage: 460 MB available space",
+    "reviews": []
+}

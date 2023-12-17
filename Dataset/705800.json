@@ -1,0 +1,39 @@
+{
+    "app_id": 705800,
+    "name": "Astroe",
+    "release_date": "2017-09-29",
+    "developer": [
+        "Superstruct"
+    ],
+    "publisher": [
+        "Superstruct"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Online Co-op",
+        "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 5,
+    "negative_ratings": 3,
+    "price": 0.0,
+    "description": "Multiplayer player 2D space battle. Collect gold, team up and take over the other team's satellites.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/705800/header.jpg?t=1534881028",
+    "minimum_requirements": "OS: Window 7 Processor: Intel Core 2 Duo, 2.0GHz or AMD Athlon 64 X2 6400+, 2.5GHz Memory: 4 GB RAM Graphics: nVIDIA GeForce GTX 260 256mb or ATI Radeon HD 5670 256mb or Intel HD Graphics 4600 Network: Broadband Internet connection Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

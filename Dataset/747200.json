@@ -1,0 +1,41 @@
+{
+    "app_id": 747200,
+    "name": "Keplerth",
+    "release_date": "2018-04-23",
+    "developer": [
+        "TARO"
+    ],
+    "publisher": [
+        "TARO"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 43,
+    "positive_ratings": 227,
+    "negative_ratings": 43,
+    "price": 10.29,
+    "description": "You woke up and found yourself lying in a hibernation pod. You have no food, no clothes, no nothing. You can gather resources, craft useful items, build your own home, tame wild animals, fight strange creatures to survive in this dangerous world.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/747200/header.jpg?t=1555394827",
+    "minimum_requirements": "OS: Windows 7 Memory: 2 GB RAM Storage: 600 MB available space",
+    "recommended_requirements": "OS: Windows 7/10 Memory: 4 GB RAM Storage: 1 GB available space",
+    "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+    "app_id": 672020,
+    "name": "Hold My Beer",
+    "release_date": "2017-08-02",
+    "developer": [
+        "Lord of the Stack"
+    ],
+    "publisher": [
+        "Lord of the Stack"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Violent",
+        "Action",
+        "Casual",
+        "Indie",
+        "Sports"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 6,
+    "positive_ratings": 32,
+    "negative_ratings": 4,
+    "price": 1.69,
+    "description": "This is a ridiculous game where you play the role of an idiot, doing idiotic dares and stunts. I don't recommend trying this at home, but since we'll be doing it in virtual reality, go right ahead!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/672020/header.jpg?t=1510194952",
+    "minimum_requirements": "OS: Windows 7 or better Processor: Intel Core i5-4590 or AMD FX 8350 Memory: 4 GB RAM Graphics: NVIDIA GTX 970 or AMD Radeon R9 290 Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel Core i7 Graphics: NVIDIA GTX 980 or better Storage: 700 MB available space",
+    "reviews": []
+}

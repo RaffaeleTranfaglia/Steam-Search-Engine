@@ -1,0 +1,39 @@
+{
+    "app_id": 861290,
+    "name": "Shooter Game",
+    "release_date": "2018-09-14",
+    "developer": [
+        "Anazz"
+    ],
+    "publisher": [
+        "Anazz"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op"
+    ],
+    "genres": [
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "FPS",
+        "Shooter"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 6,
+    "price": 11.39,
+    "description": "Shooter Game is a Multiplayer FPS . Fight in various maps with different weapons in both single and team death matches .",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/861290/header.jpg?t=1537189063",
+    "minimum_requirements": "OS: Windows 7 64-bit Processor: Intel Core i5-4430 / AMD FX-6300 Memory: 4 GB RAM Graphics: Nvidia GTX 750 Ti 2GB / AMD Radeon R7 265 DirectX: Version 11 Storage: 10 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+    "recommended_requirements": "OS: Windows 10 64-bit Processor: Intel Core i5-6600K / AMD Ryzen 5 1600 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB DirectX: Version 11 Storage: 10 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+    "reviews": []
+}

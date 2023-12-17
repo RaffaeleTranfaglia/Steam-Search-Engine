@@ -1,0 +1,48 @@
+{
+    "app_id": 507030,
+    "name": "Bicyclism EP",
+    "release_date": "2016-11-14",
+    "developer": [
+        "Acid Cat"
+    ],
+    "publisher": [
+        "Acid Cat"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "tags": [
+        "Racing",
+        "Sports",
+        "Action"
+    ],
+    "achievements": 13,
+    "positive_ratings": 13,
+    "negative_ratings": 6,
+    "price": 5.79,
+    "description": "Bicyclism EP is a physics based party game for up to 4 split-screen players. Play as your favorite bicycle and compete in traditional bicycle games like racing, jousting, soccer, space mushroom hunting, wrestling, etc.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/507030/header.jpg?t=1484878104",
+    "minimum_requirements": "OS: XP Processor: Intel i5 2.3Ghz Memory: 4 GB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 9.0c Storage: 300 MB available space",
+    "recommended_requirements": "OS: 10 Processor: Intel i7 2.3GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 750m DirectX: Version 12 Storage: 400 MB available space",
+    "reviews": []
+}

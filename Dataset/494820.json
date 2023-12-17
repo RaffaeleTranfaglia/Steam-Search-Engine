@@ -1,0 +1,40 @@
+{
+    "app_id": 494820,
+    "name": "Acid Flip",
+    "release_date": "2019-02-25",
+    "developer": [
+        "Triadne"
+    ],
+    "publisher": [
+        "Triadne"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 0,
+    "price": 3.99,
+    "description": "Acid Flip is a game where you use the grav gun to flip xombies into the air and smash them into the ground again.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/494820/header.jpg?t=1553064168",
+    "minimum_requirements": "OS: Windows 64 bit Processor: Intel Core i3 @ 1.33GHz Memory: 8 GB RAM Graphics: Geforce 700 series or equivalent DirectX: Version 11 Storage: 2 GB available space",
+    "recommended_requirements": "OS: Windows 64 bit Processor: Intel i5 @ 3.5 GHz Memory: 16 GB RAM Graphics: Geforce 900 series or equivalent DirectX: Version 11 Storage: 2 GB available space",
+    "reviews": []
+}

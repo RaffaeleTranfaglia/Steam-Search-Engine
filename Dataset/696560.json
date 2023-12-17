@@ -1,0 +1,41 @@
+{
+    "app_id": 696560,
+    "name": "Bouncing Duck Simulator",
+    "release_date": "2017-09-08",
+    "developer": [
+        "Damien Sueur"
+    ],
+    "publisher": [
+        "Damien Sueur"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Casual",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 15,
+    "positive_ratings": 48,
+    "negative_ratings": 8,
+    "price": 3.99,
+    "description": "Bouncing Duck Simulator allows you to fulfill your wildest dreams. Bouncing a rubber duck around, bouncing a pink rubber duck around, bouncing... more ducks? Don't be shy, you gotta bounce them all!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/696560/header.jpg?t=1504867333",
+    "minimum_requirements": "OS: Windows XP / Vista / 7 / 8 / 10 Processor: 2.0 GHz Memory: 2 GB RAM Storage: 150 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

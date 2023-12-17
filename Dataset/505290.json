@@ -1,0 +1,43 @@
+{
+    "app_id": 505290,
+    "name": "Super Rock Blasters!",
+    "release_date": "2017-01-17",
+    "developer": [
+        "QuadraTron Games"
+    ],
+    "publisher": [
+        "QuadraTron Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Stats"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Arcade"
+    ],
+    "achievements": 17,
+    "positive_ratings": 3,
+    "negative_ratings": 0,
+    "price": 6.99,
+    "description": "Ready up a space ship and destroy your friends in this frenetic multiplayer Asteroids reimagining! In Super Rock Blasters, up to 4 players will wheel around space rocks, dodge ricocheting bullets and blast each other into tiny neon colored giblets.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/505290/header.jpg?t=1523551249",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 3 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 300 MB available space Sound Card: Stereo Output Additional Notes: Controller(s) Recommended",
+    "recommended_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 3 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities Storage: 300 MB available space Sound Card: Stereo Output Additional Notes: Controller(s) recommended",
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 858440,
+    "name": "Ninja Midori",
+    "release_date": "2018-06-07",
+    "developer": [
+        "BajoGames"
+    ],
+    "publisher": [
+        "BajoGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Local Multi-Player",
+        "Co-op",
+        "Local Co-op",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Co-op"
+    ],
+    "achievements": 9,
+    "positive_ratings": 3,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Ninja Midori is a pixel 2d platformer. Jump, dodge and throw your shuriken through 15 different levels. Akuma the Evil Devil your nemesis has stolen the princess. She only has one hope you Ninja Midori.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/858440/header.jpg?t=1555505508",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Core 3 Memory: 800 MB RAM Graphics: 2nd Generation Intel Core HD Graphics (2000/3000), 512MB Storage: 850 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

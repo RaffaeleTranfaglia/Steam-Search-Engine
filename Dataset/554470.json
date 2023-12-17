@@ -1,0 +1,43 @@
+{
+    "app_id": 554470,
+    "name": "BladeShield",
+    "release_date": "2016-11-28",
+    "developer": [
+        "Rank17",
+        "Silicon Storm"
+    ],
+    "publisher": [
+        "Rank17"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Casual"
+    ],
+    "tags": [
+        "Action",
+        "Casual",
+        "VR"
+    ],
+    "achievements": 0,
+    "positive_ratings": 22,
+    "negative_ratings": 1,
+    "price": 1.99,
+    "description": "Survive wave after wave of enemy AI bots in this intergalactic VR game. Switch between shield and blade with the click of a button, charge up your light blade by blocking incoming laser bolts, and unleash a powerful EMP blast!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/554470/header.jpg?t=1493885678",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel i5 Memory: 2 GB RAM Graphics: NVIDIA 970 Storage: 600 MB available space",
+    "recommended_requirements": "Processor: Intel i7 Memory: 4 GB RAM Graphics: NVIDIA 1070 Storage: 600 MB available space",
+    "reviews": [
+        {
+            "review_text": "Good stuff, very intensive!",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "app_id": 676000,
+    "name": "Bloody Mice",
+    "release_date": "2017-08-19",
+    "developer": [
+        "Tower Up Studios"
+    ],
+    "publisher": [
+        "Tower Up Studios"
+    ],
+    "platforms": [
+        "windows",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 7,
+    "positive_ratings": 25,
+    "negative_ratings": 11,
+    "price": 0.79,
+    "description": "It is time to annihilate those damn mice! Try to get more points and defeat your friends in the ranking. Do not let those rats proliferate and rule the world!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/676000/header.jpg?t=1503158102",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 4 GB RAM Graphics: Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. Storage: 100 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

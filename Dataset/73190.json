@@ -1,0 +1,54 @@
+{
+    "app_id": 73190,
+    "name": "Pride of Nations",
+    "release_date": "2011-06-07",
+    "developer": [
+        "Ageod"
+    ],
+    "publisher": [
+        "Slitherine Ltd."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player"
+    ],
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Simulation",
+        "Grand Strategy"
+    ],
+    "achievements": 0,
+    "positive_ratings": 35,
+    "negative_ratings": 44,
+    "price": 14.99,
+    "description": "Pride of Nations is a turn-based historical strategy game set in the colonial era of the 19th century, where the player takes control of a country and guides it through industrialization, military conquest, and colonization.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/73190/header.jpg?t=1517305285",
+    "minimum_requirements": "OS: Windows XP/Vista/ Windows 7 / Windows 8 / Windows 10 Processor: Pentium® IV 1800+ MHz Memory: 1 GB (XP) or 2 GB (Vista or W7) Hard Disk Space: 3 GB free on hard disk  Video Card: 512 Mb V-RAM or better DirectX®: 9.0c or more Sound: DirectX 9.0c compatible sound card Additional: Internet Connection required for multiplayer",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "I've had this game for a long time, and have recently started playing it again. I still really like it. Yes, it is complicated, has a steep learning curve and takes some time to learn, unless you are familiar with AGEODs other fantastic strategy/simulation games. If you enjoy historical simulations/strategy games then you will enjoy playing this game, as long as you are prepared to learn how to play the game. The tutorials will teach you the basics, and there are some videos on Youtube that could also help you out.  I find the game challenging and rewarding. I've clocked up over 140 hours and am happy to add another 140 to that. Other reviewers mention the game runs slowly and crashes often - I haven't encountered this problem to be honest, but yes, it does take a couple of minutes when you click 'end turn' but when you think of how much the computer needs to calculate and execute I find it understandable and don't mind the wait. The game did used to crash occasionally, however, since I have started playing again it has not crashed once in the 11.3 hours in the last couple of days. (Patch 1.04 has just been released recently and I believe this has addressed most of the instability problems).  I'm glad I decided to re-install this gem and am enjoying playing it. I had been playing AGEODs Civil War 2 before getting back to this. CW2 is also great :)",
+            "review_score": "1"
+        },
+        {
+            "review_text": "An unpolished gem of a game. It's the best grand strategy 19th century simulator I've played. Sadly it's prone to bugging but last I checked the devs were pretty helpful with any individual issue.",
+            "review_score": "1"
+        },
+        {
+            "review_text": "It worked for about an hour and after that I could never get the game running again.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "There's only 2 things harder than actually getting this game running: Figuring out how to play it, and figuring out why you would play an incredibly dull version of Victoria 2.",
+            "review_score": "-1"
+        }
+    ]
+}

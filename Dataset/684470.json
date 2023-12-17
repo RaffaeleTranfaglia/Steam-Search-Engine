@@ -1,0 +1,40 @@
+{
+    "app_id": 684470,
+    "name": "Super Blockbreak 3D",
+    "release_date": "2017-07-29",
+    "developer": [
+        "abstract garden"
+    ],
+    "publisher": [
+        "abstract garden"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 15,
+    "positive_ratings": 2,
+    "negative_ratings": 4,
+    "price": 4.99,
+    "description": "Super Blockbreak 3D is an action game where you use all your reactions and skills to bounce a ball around an arena breaking blocks as you go. Play to unlock all 30 levels or challenge yourself to get high scores.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/684470/header.jpg?t=1501322948",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: 1.2GHz processor Memory: 1 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 150 MB available space",
+    "recommended_requirements": "OS: Windows 7+ Processor: 1.4GHz processor Memory: 2 GB RAM Graphics: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities DirectX: Version 9.0 Storage: 150 MB available space",
+    "reviews": []
+}

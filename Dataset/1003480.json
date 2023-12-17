@@ -1,0 +1,36 @@
+{
+    "app_id": 1003480,
+    "name": "Fireboy & Watergirl: Elements",
+    "release_date": "2019-01-24",
+    "developer": [
+        "Oslo Albet"
+    ],
+    "publisher": [
+        "Oslo Albet"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Shared/Split Screen",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action"
+    ],
+    "achievements": 2,
+    "positive_ratings": 30,
+    "negative_ratings": 3,
+    "price": 0.79,
+    "description": "Help Fireboy and Watergirl explore the 7 Elemental temples!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1003480/header.jpg?t=1548336521",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel Pentium 4 Memory: 512 MB RAM Storage: 177 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

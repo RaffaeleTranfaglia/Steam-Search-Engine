@@ -1,0 +1,37 @@
+{
+    "app_id": 1065570,
+    "name": "Cyber Gun",
+    "release_date": "2019-04-23",
+    "developer": [
+        "Semyon Maximov"
+    ],
+    "publisher": [
+        "BekkerDev Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 8,
+    "negative_ratings": 1,
+    "price": 1.69,
+    "description": "Cyber Gun is a hardcore first-person shooter with platformer elements.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1065570/header.jpg?t=1556011676",
+    "minimum_requirements": "OS: Windows XP, Vista, 7, 8, 10 Processor: Intel Core i3 2.5 GHz Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 1030/AMD Radeon RX 550 DirectX: Version 9.0 Storage: 300 MB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

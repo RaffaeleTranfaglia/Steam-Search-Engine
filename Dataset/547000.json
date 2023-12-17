@@ -1,0 +1,41 @@
+{
+    "app_id": 547000,
+    "name": "Septic Savages",
+    "release_date": "2016-11-01",
+    "developer": [
+        "Jenito"
+    ],
+    "publisher": [
+        "Jenito"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Twin Stick Shooter"
+    ],
+    "achievements": 6,
+    "positive_ratings": 3,
+    "negative_ratings": 1,
+    "price": 5.59,
+    "description": "After encountering an alien creature in a bathroom stall, one man is propelled into a never-ending quest of sewer dwelling carnage! Septic Savages is a 2D, 1 or 2-player, twin-stick shooting roguelike with loads of randomized elements and hours upon hours of gameplay.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/547000/header.jpg?t=1483532059",
+    "minimum_requirements": "OS: Windows XP SP 3 Processor: 1 GHz Memory: 512 MB RAM Graphics: WebGL Compatible with latest drivers Storage: 250 MB available space Sound Card: Direct X Compatible Additional Notes: Septic Savages runs via NW.js and HTML5",
+    "recommended_requirements": "OS: Windows 7 or newer Processor: 2 GHz dual-core Memory: 4 GB RAM Graphics: nVidia or AMD with latest drivers Storage: 250 MB available space Sound Card: Direct X Compatible Additional Notes: Septic Savages runs via NW.js and HTML5",
+    "reviews": []
+}

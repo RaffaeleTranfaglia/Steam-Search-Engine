@@ -1,0 +1,43 @@
+{
+    "app_id": 752560,
+    "name": "Noahmund",
+    "release_date": "2018-08-02",
+    "developer": [
+        "Estudio Ábrego"
+    ],
+    "publisher": [
+        "Estudio Ábrego",
+        "Shinyuden"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Violent",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Violent"
+    ],
+    "achievements": 15,
+    "positive_ratings": 17,
+    "negative_ratings": 5,
+    "price": 12.99,
+    "description": "Dive into a new world and discover the mysteries of Synchrony. Fight with Motion Battle Chess, an original battle system that mixes strategy and real-time action. Connect to a deeply emotional story of love and war, accompanied by a touching soundtrack influenced by the classic JRPGs.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/752560/header.jpg?t=1533564564",
+    "minimum_requirements": "OS: Windows 8/8.1, Windows 10 Processor: Core i3 2GHz and above Memory: 4 GB RAM Graphics: GeForce GTS250 / Radeon HD5750 or better",
+    "recommended_requirements": "OS: Windows 8/8.1, Windows 10 Processor: Core i5 2.2GHz and above Memory: 4 GB RAM Graphics: Geforce GTX460 / Radeon HD6850 or better",
+    "reviews": []
+}

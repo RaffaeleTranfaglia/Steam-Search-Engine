@@ -1,0 +1,45 @@
+{
+    "app_id": 490950,
+    "name": "Frost",
+    "release_date": "2016-07-05",
+    "developer": [
+        "Jérôme Bodin"
+    ],
+    "publisher": [
+        "Le Studio des Ténèbres"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Strategy"
+    ],
+    "tags": [
+        "Strategy",
+        "Card Game",
+        "Indie"
+    ],
+    "achievements": 21,
+    "positive_ratings": 81,
+    "negative_ratings": 8,
+    "price": 4.99,
+    "description": "Frost is a Survival solo Card game. Inspired by deck-building board games like Dominion, Ascension and the like, it's an unique take on the genre as it puts you in charge of a group of people struggling against a restless, lethal storm.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/490950/header.jpg?t=1555252043",
+    "minimum_requirements": "OS: Windows XP SP2+ Processor: SSE2 instruction set support Memory: 2 GB RAM Graphics: DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work DirectX: Version 9.0 Storage: 500 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "The Long Dark meets Hearthstone. Love it",
+            "review_score": "1"
+        }
+    ]
+}

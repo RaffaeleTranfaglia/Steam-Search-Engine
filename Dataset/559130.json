@@ -1,0 +1,40 @@
+{
+    "app_id": 559130,
+    "name": "Inner Voices",
+    "release_date": "2017-05-10",
+    "developer": [
+        "Sigma Games"
+    ],
+    "publisher": [
+        "Fat Dog Games"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Psychological Horror"
+    ],
+    "achievements": 24,
+    "positive_ratings": 28,
+    "negative_ratings": 15,
+    "price": 6.99,
+    "description": "Inner Voices is a non-linear, dark first person adventure game with horror, rogue-like elements and five endings.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/559130/header.jpg?t=1538045877",
+    "minimum_requirements": "OS: Windows 7 or better Processor: Intel Core 2 Duo or AMD, 2,4Ghz or faster Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 560TI or AMD Radeon HD 7850 Storage: 10 GB available space",
+    "recommended_requirements": "OS: Windows 7 or better Processor: Quad-core Intel or AMD, 2.5 GHz or faster Memory: 8 GB RAM Graphics: Geforce GTX 970 Radeon R9 390, or faster Storage: 10 GB available space",
+    "reviews": []
+}

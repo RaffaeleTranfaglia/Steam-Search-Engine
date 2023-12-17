@@ -1,0 +1,42 @@
+{
+    "app_id": 944500,
+    "name": "Antistatic",
+    "release_date": "2019-01-24",
+    "developer": [
+        "bluehexagons"
+    ],
+    "publisher": [
+        "bluehexagons"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Multi-player",
+        "Online Multi-Player",
+        "Local Multi-Player",
+        "Shared/Split Screen",
+        "Partial Controller Support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 1,
+    "negative_ratings": 1,
+    "price": 9.29,
+    "description": "Antistatic is a crisp, uncompromising platform fighter set in an abstract digital world. Simple for beginners, with a philosophy to emphasize depth and variety of play at all levels. Engage in multiplayer battles as teams or as rivals.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/944500/header.jpg?t=1552541841",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Ryzen 3 2200G Memory: 2 GB RAM Graphics: Vega 8 Graphics, or other OpenGL 4.0 Compatible graphics Storage: 200 MB available space Additional Notes: Minimum requirements represent lowest supported hardware configuration for stable play",
+    "recommended_requirements": "Requires a 64-bit processor and operating system OS: Windows 10 Processor: Ryzen 3 2200G or better Memory: 2 GB RAM Graphics: OpenGL 4.0 Compatible dedicated GPU Network: Broadband Internet connection Storage: 200 MB available space",
+    "reviews": []
+}

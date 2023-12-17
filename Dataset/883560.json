@@ -1,0 +1,47 @@
+{
+    "app_id": 883560,
+    "name": "Wardens of the Amber Cage",
+    "release_date": "2019-03-01",
+    "developer": [
+        "Gembasher Studio"
+    ],
+    "publisher": [
+        "Gembasher Studio"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Online Multi-Player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Adventure",
+        "Indie",
+        "Action"
+    ],
+    "achievements": 27,
+    "positive_ratings": 6,
+    "negative_ratings": 0,
+    "price": 19.49,
+    "description": "A cooperative action dungeon crawler. Support Virtual Reality headsets. Become a warmage and keep the horrors inside the Amber Cage !",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/883560/header.jpg?t=1552925112",
+    "minimum_requirements": "Requires a 64-bit processor and operating system OS: Windows 7 SP1+, 8, 10, 64-bit versions only Processor: SSE2 instruction supported. For VR : Intel i5-4590, AMD FX 8350 equivalent or better. Memory: 4 GB RAM Graphics: Graphics card with DX10 (shader model 4.0) capabilities. For VR : GeForce GTX 970 (AMD Radeon R9 290) or better. DirectX: Version 10 Storage: 600 MB available space Additional Notes: The demonstration version is less than 100mb and should ensure the game work on your computer.",
+    "recommended_requirements": "Requires a 64-bit processor and operating system Network: Broadband Internet connection",
+    "reviews": []
+}

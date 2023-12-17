@@ -1,0 +1,44 @@
+{
+    "app_id": 384920,
+    "name": "ABD: A Beautiful Day",
+    "release_date": "2015-08-14",
+    "developer": [
+        "Robert Bonner",
+        "Jack Hanley",
+        "Ben Rawles",
+        "Boris Blosse"
+    ],
+    "publisher": [
+        "Gag A Maggot Entertainment, LLC."
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 18,
+    "categories": [
+        "MMO",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Stats"
+    ],
+    "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Indie",
+        "Strategy"
+    ],
+    "achievements": 1,
+    "positive_ratings": 15,
+    "negative_ratings": 32,
+    "price": 18.99,
+    "description": "ABD: A Beautiful Day is an MMORTSS (Massively Multiplayer Online Real Time Survival Strategy) that spans from 100,000 B.C.E. to 245 B.C.E.. Play ABD in a 24 hour, 7 days a week continuous environment to build your civilization, play with friends, and battle exposure in the process.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/384920/header.jpg?t=1452958223",
+    "minimum_requirements": "OS: Windows 7 64bit Processor: 2 ghz Memory: 4 GB RAM DirectX: Version 9.0",
+    "recommended_requirements": "OS: Windows 10 64bit Processor: 3 ghz Memory: 8 GB RAM Graphics: Nvidia GTX 980 DirectX: Version 12 Network: Broadband Internet connection Storage: 2 GB available space",
+    "reviews": []
+}

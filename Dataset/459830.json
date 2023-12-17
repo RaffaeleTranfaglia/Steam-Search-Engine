@@ -1,0 +1,49 @@
+{
+    "app_id": 459830,
+    "name": "Final Days",
+    "release_date": "2018-09-18",
+    "developer": [
+        "+7 Software"
+    ],
+    "publisher": [
+        "+7 Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Casual"
+    ],
+    "achievements": 90,
+    "positive_ratings": 41,
+    "negative_ratings": 5,
+    "price": 5.49,
+    "description": "Final Days is an arcade-style co-op shooter where you battle endless hordes of mutants. As the hordes grow into the hundreds, work together with your team to survive the onslaught!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/459830/header.jpg?t=1552623763",
+    "minimum_requirements": "OS: Windows 7 Processor: 1.5GHz CPU Memory: 1 GB RAM Graphics: DirectX 9.0c compliant (feature level 9_3) DirectX: Version 9.0c Storage: 250 MB available space Sound Card: DirectX 9.0c compliant Additional Notes: Final Days should run on pretty much any PC that can run Windows 7. But if your PC is quite old or low-spec, then please try the free demo first to ensure it works well for you.",
+    "recommended_requirements": "OS: Windows 10 Processor: Dual-core 2GHz CPU Memory: 4 GB RAM Graphics: Gaming graphics card released in the last 5 years DirectX: Version 11 Network: Broadband Internet connection Additional Notes: Windows Media Player is required for music playback to work (the game can run without it though, just with music disabled).",
+    "reviews": []
+}

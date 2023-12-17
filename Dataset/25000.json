@@ -1,0 +1,40 @@
+{
+    "app_id": 25000,
+    "name": "Overgrowth",
+    "release_date": "2017-10-16",
+    "developer": [
+        "Wolfire Games"
+    ],
+    "publisher": [
+        "Wolfire Games"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support",
+        "Includes level editor"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Parkour",
+        "Action",
+        "Indie"
+    ],
+    "achievements": 0,
+    "positive_ratings": 3200,
+    "negative_ratings": 1315,
+    "price": 22.99,
+    "description": "Feel like the star of a martial arts film in Overgrowth, as you jump, kick, throw, and slash your way to victory. Free the rabbits from their evil overlords in the main story, then play through the prequel story, and finally, try out nine years of mods developed by the community, or create your own!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/25000/header.jpg?t=1513937582",
+    "minimum_requirements": "OS: Windows XP or later Processor: Passmark CPU 1000 or better Memory: 2 GB RAM Graphics: Passmark GPU 500 or better with OpenGL 3.2 support Storage: 17 GB available space",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+    "app_id": 484930,
+    "name": "Beekyr Reloaded",
+    "release_date": "2017-11-14",
+    "developer": [
+        "KaleidoGames"
+    ],
+    "publisher": [
+        "KaleidoGames"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Local Multi-Player",
+        "Local Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Stats",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Action",
+        "Adventure"
+    ],
+    "achievements": 42,
+    "positive_ratings": 54,
+    "negative_ratings": 4,
+    "price": 7.19,
+    "description": "The giant hornets have destroyed your hive and taken the pollen. Fight the swarms alone or with a friend and destroy the dangerous hornet queen! The insect world is very dangerous but... what are you waiting for to get your revenge?",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/484930/header.jpg?t=1547122906",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual Core @ 2.4GHz Memory: 512 MB RAM Graphics: ATI 7540HD DirectX: Version 9.0c Storage: 500 MB available space Additional Notes: Dual Core @ +3.2GHz for Bullet hell or Elite modes.",
+    "recommended_requirements": null,
+    "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+    "app_id": 781000,
+    "name": "Shp Space",
+    "release_date": "2018-02-06",
+    "developer": [
+        "The Idea Software",
+        "Fürst"
+    ],
+    "publisher": [
+        "The Idea Software"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "tags": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "achievements": 258,
+    "positive_ratings": 0,
+    "negative_ratings": 2,
+    "price": 0.99,
+    "description": "Collect the broken pieces, Bring them together.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/781000/header.jpg?t=1537045606",
+    "minimum_requirements": "OS: Windows® 7 (32-bit) Processor: 2.0 GHz - Dual core Memory: 512 MB RAM Graphics: 256 MB Storage: 25 MB available space",
+    "recommended_requirements": "OS: Windows® 10 (64-bit) Processor: 2.5 GHz - Triple core Memory: 1 GB RAM Graphics: 1 GB Storage: 30 MB available space",
+    "reviews": []
+}

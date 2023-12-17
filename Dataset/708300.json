@@ -1,0 +1,39 @@
+{
+    "app_id": 708300,
+    "name": "Fluffy Friends",
+    "release_date": "2017-09-19",
+    "developer": [
+        "For Kids"
+    ],
+    "publisher": [
+        "For Kids"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Casual",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Casual",
+        "Family Friendly"
+    ],
+    "achievements": 43,
+    "positive_ratings": 29,
+    "negative_ratings": 9,
+    "price": 1.59,
+    "description": "In front of you is a spectacular game with interesting, unusual gameplay, a puzzle game involving your creativity, where YOU have to figure out how to pass the levels.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/708300/header.jpg?t=1511946478",
+    "minimum_requirements": "OS: Windows XP Processor: Core2Duo or better Memory: 512 MB RAM Graphics: Intel HD2000 Storage: 800 MB available space Sound Card: any",
+    "recommended_requirements": "OS: Windows 10 Processor: QuadCore Memory: 2048 MB RAM Graphics: Intel HD2000 or better Storage: 800 MB available space Sound Card: any",
+    "reviews": []
+}

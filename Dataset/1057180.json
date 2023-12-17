@@ -1,0 +1,40 @@
+{
+    "app_id": 1057180,
+    "name": "Border Officer",
+    "release_date": "2019-04-16",
+    "developer": [
+        "Cocopo"
+    ],
+    "publisher": [
+        "Cheesecake"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "tags": [
+        "Early Access",
+        "Simulation",
+        "Action"
+    ],
+    "achievements": 12,
+    "positive_ratings": 20,
+    "negative_ratings": 8,
+    "price": 7.19,
+    "description": "Usually everyone is unemployed here. But by chance you got a job. You'il work for the state.Everyone in your family is sick or unemployed, only you can help them. You're an immigrant officer.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/1057180/header.jpg?t=1555460826",
+    "minimum_requirements": "OS: Windows 7 Processor: 2 GHz Dual Core CPU Memory: 2 GB RAM Graphics: Intel HD Graphics 4000 or better Storage: 3 GB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: 2.5 GHz Dual Core CPU Memory: 4 GB RAM Graphics: Geforce GTX 970/Radeon RX470 or better Storage: 4 GB available space",
+    "reviews": []
+}

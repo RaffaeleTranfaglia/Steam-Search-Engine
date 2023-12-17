@@ -1,0 +1,40 @@
+{
+    "app_id": 970580,
+    "name": "Cubicity: Slide puzzle",
+    "release_date": "2019-03-20",
+    "developer": [
+        "Pirate Parrot"
+    ],
+    "publisher": [
+        "Pirate Parrot"
+    ],
+    "platforms": [
+        "windows",
+        "mac",
+        "linux"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Indie",
+        "Adventure",
+        "Puzzle"
+    ],
+    "achievements": 39,
+    "positive_ratings": 16,
+    "negative_ratings": 1,
+    "price": 3.99,
+    "description": "Buddy, you’re in the cubic world! It has its own laws and rules, so choose a character and start solving the puzzles!Make up a figure from the characters, leading each of them the shortest way!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/970580/header.jpg?t=1554194660",
+    "minimum_requirements": "OS: Windows 7 Processor: Intel code 2 duo E6600 Memory: 1024 MB RAM Graphics: Intel HD Graphics 3000 DirectX: Version 9.0c Storage: 700 MB available space",
+    "recommended_requirements": "OS: Windows 10 Processor: Intel i5 3570 Memory: 2048 MB RAM Graphics: Intel HD Graphics 4000 DirectX: Version 11 Storage: 1400 MB available space",
+    "reviews": []
+}

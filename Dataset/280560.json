@@ -1,0 +1,44 @@
+{
+    "app_id": 280560,
+    "name": "Danmaku Unlimited 2",
+    "release_date": "2014-03-18",
+    "developer": [
+        "Doragon Entertainment"
+    ],
+    "publisher": [
+        "Doragon Entertainment"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Leaderboards"
+    ],
+    "genres": [
+        "Action",
+        "Indie"
+    ],
+    "tags": [
+        "Bullet Hell",
+        "Shoot 'Em Up",
+        "Indie"
+    ],
+    "achievements": 25,
+    "positive_ratings": 365,
+    "negative_ratings": 21,
+    "price": 3.99,
+    "description": "Classic Japanese style vertical manic shooting action! Shoot, dodge and explode your way through the second entry in the critically acclaimed Danmaku Unlimited series. Battle through nail-biting bullet patterns and compete for dominance on the global leaderboard!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/280560/header.jpg?t=1447360462",
+    "minimum_requirements": "OS: XP, Vista, 7, 8 Processor: 2.0 Ghz Memory: 1 GB RAM Graphics: GPU with Shader Model 2.0 Storage: 110 MB available space",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Great game!  Great visuals. Great soundtrack and sound effects. Low price. Not too hard for bullet hell casuals.  A very fun overall game.",
+            "review_score": "1"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "app_id": 9970,
+    "name": "Star Raiders",
+    "release_date": "2011-05-11",
+    "developer": [
+        "Incinerator Studios"
+    ],
+    "publisher": [
+        "Atari"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Partial Controller Support"
+    ],
+    "genres": [
+        "Action"
+    ],
+    "tags": [
+        "Action",
+        "Space"
+    ],
+    "achievements": 12,
+    "positive_ratings": 5,
+    "negative_ratings": 24,
+    "price": 6.99,
+    "description": "Engage in epic dogfights and aerial assaults against the onslaught of the evil Zylons.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/9970/header.jpg?t=1447354208",
+    "minimum_requirements": "OS: Windows XP SP2, Vista SP2, 7Processor: Intel Core 2 Duo E4300 or AMD Athlon X2 4400+Memory: 1GBGraphics: Radeon ATI Radeon HD 2600 or NVIDIA GeForce 8600 or faster. Other integrated graphics, such as the Intel G43/G45 Express, are not supportedDirectX&reg;: 9.0cHard Drive: 500MB freeSound: DirectX 9.0c-compatibleOther: Microsoft Xbox 360 Controller for PC, Microsoft Xbox 360 Wireless Controller for Windows, Logitech Gamepad F310/F510/F710",
+    "recommended_requirements": null,
+    "reviews": [
+        {
+            "review_text": "Terrible controlls. I quit the game before I had a chance to really play because of them.",
+            "review_score": "-1"
+        },
+        {
+            "review_text": "This game sucks so much... For 8 year olds and under.",
+            "review_score": "-1"
+        }
+    ]
+}

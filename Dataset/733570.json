@@ -1,0 +1,40 @@
+{
+    "app_id": 733570,
+    "name": "Loot Run",
+    "release_date": "2018-05-31",
+    "developer": [
+        "Three Guys Game Studio"
+    ],
+    "publisher": [
+        "Three Guys Game Studio"
+    ],
+    "platforms": [
+        "windows"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "tags": [
+        "Adventure",
+        "RPG",
+        "Indie"
+    ],
+    "achievements": 49,
+    "positive_ratings": 6,
+    "negative_ratings": 3,
+    "price": 3.99,
+    "description": "Loot Run is a role-playing game featuring epic story, infinite skill builds, legendary loot, challenging bosses, endless and hardcore modes, 50 quests to complete, unique skins to unlock and more!",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/733570/header.jpg?t=1527827144",
+    "minimum_requirements": "OS: Windows 7 Processor: Dual-Core Memory: 1000 MB RAM Graphics: 1GB Non-Integrated Storage: 500 MB available space",
+    "recommended_requirements": "OS: Windows 7 Processor: Dual-Core Memory: 4000 MB RAM Graphics: 1GB Non-Integrated Storage: 500 MB available space",
+    "reviews": []
+}

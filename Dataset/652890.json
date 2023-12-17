@@ -1,0 +1,39 @@
+{
+    "app_id": 652890,
+    "name": "Vanguard Knights",
+    "release_date": "2019-01-09",
+    "developer": [
+        "Kuni Higuchi"
+    ],
+    "publisher": [
+        "Royal Skies LLC"
+    ],
+    "platforms": [
+        "windows",
+        "mac"
+    ],
+    "required_age": 0,
+    "categories": [
+        "Single-player",
+        "Full controller support"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "tags": [
+        "Action",
+        "Indie",
+        "Adventure"
+    ],
+    "achievements": 0,
+    "positive_ratings": 7,
+    "negative_ratings": 1,
+    "price": 7.19,
+    "description": "Vanguard Knights is a high octane, 3D, arcade-style shooter. Engage waves of enemy squadrons, massive robotic bosses, and weave through obstacles in order to destroy the enemy and keep your squad alive.",
+    "header_img": "https://steamcdn-a.akamaihd.net/steam/apps/652890/header.jpg?t=1555612729",
+    "minimum_requirements": "OS: Windows 10 Home 64-bit Processor: Intel(R) Pentium(R) CPU 4415U @ 2.3GHz (4 CPUs), 2.3GHz Memory: 4096 MB RAM Graphics: Intel(R) HD Graphics 610 DirectX: Version 12 Storage: 999 MB available space Sound Card: N/A Additional Notes: May need to set Quality to 2/3, and Resolution to 5/9",
+    "recommended_requirements": "OS: Windows 10 Home 64-bit Processor: Intel(R) Core (TM) i7-6700HQ CPU @ 2.60GHz (8 CPU), ~2.6GHz Memory: 8192 MB RAM Graphics: Intel(R) HD Graphics 530 DirectX: Version 12 Storage: 999 MB available space Sound Card: N/A Additional Notes: Should run smoothly on highest settings: Quality set to 3/3, and Resolution to 9/9",
+    "reviews": []
+}
