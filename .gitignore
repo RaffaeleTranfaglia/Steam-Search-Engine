@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyCharm folder
 .idea/
 
 # C extensions
@@ -166,3 +167,6 @@ Dataset/*
 
 # ignore .DS_Store
 .DS_Store
+
+# folder containing the index
+indexdir/*

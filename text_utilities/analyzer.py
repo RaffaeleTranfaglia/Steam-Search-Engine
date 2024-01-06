@@ -1,31 +1,26 @@
 import nltk
 from nltk.corpus import stopwords
 import string
+from whoosh.analysis import Analyzer, Token
 
-'''
-import json
-import os
+# Class that set whoosh tokenizer to the custom tokenizer.
+class CustomWhooshAnalyzer(Analyzer):
+    def __init__(self):
+        super().__init__()
+        
+    def tokenize(self, text, positions=False, chars=False, keeporiginal=False, removestops=True, 
+                 start_pos=0, start_char=0, mode='', **kwargs):
+        # Call the custom tokenizer
+        words = TokenAnalyzer.preprocessing(text)
 
-folder_path = "Dataset/"
+        for position, word in enumerate(words, start=start_pos):
+            yield Token(word, start_pos=start_pos, end_pos=start_pos + len(word), start_char=start_char, 
+                        end_char=start_char + len(word), position=position)
 
-# iterate through all the files in the folder
-for filename in os.listdir(folder_path):
-    # join path folder with filename in order to get the relative path to the file
-    file_path = os.path.join(folder_path, filename)
-    
-    # chek if the file is a JSON file
-    if (file_path.endswith(".json")):
-        with open(file_path, 'r') as game_file:
-            # load JSON data
-            game_data = json.load(game_file)
-            
-            # text preprocessing
-            tokens = nltk.word_tokenize(game_data["name"])
-            print(tokens)
-'''
 
-class analyzer:
-    def _init_(self):
+# Class that implements all the methods to proccess a natural language text to create a list of tokens.
+class TokenAnalyzer:
+    def __init__(self) -> None:
         pass
     
     @staticmethod
@@ -52,6 +47,7 @@ class analyzer:
             "tps" : ["third", "person", "shooter"],
             "mmo" : ["massive", "multiplayer", "online"],
             "jrpg" : ["japaese", "role", "playing", "game"],
+            "crpg" : ["classic", "role", "playing", "game"],
             "rpg" : ["role", "playing", "game"],
             "moba" : ["multiplayer", "online", "battle", "arena"],
             "sim" : ["simulation"],
@@ -78,8 +74,3 @@ class analyzer:
             tokens4.extend(filtered_list)
                 
         return tokens4
-    
-str = "Counter-Strike, Sci-fi CO-OP -c MMO/rpg games with weapons!"
-res = analyzer.preprocessing(str)
-print(res)
-    
