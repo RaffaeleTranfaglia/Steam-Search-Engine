@@ -24,13 +24,14 @@ class Indexer:
     def indexing(folder_path, folder_index):
         customAnalyzer = CustomWhooshAnalyzer()
         schema = Schema(app_id=ID(stored=True), name=TEXT(stored=True, analyzer=customAnalyzer), 
-                        release_date=STORED, developer=TEXT(stored=True, analyzer=CustomWhooshAnalyzer), 
-                        publisher=TEXT(stored=True, analyzer=CustomWhooshAnalyzer), 
-                        platforms=TEXT(stored=True, analyzer=CustomWhooshAnalyzer), categories=STORED, 
-                        genres=STORED, tags=STORED, cgt=TEXT(analyzer=CustomWhooshAnalyzer), 
+                        release_date=STORED, developer=TEXT(stored=True, analyzer=customAnalyzer), 
+                        publisher=TEXT(stored=True, analyzer=customAnalyzer), 
+                        platforms=TEXT(stored=True, analyzer=customAnalyzer), categories=STORED, 
+                        genres=STORED, tags=STORED, cgt=TEXT(analyzer=customAnalyzer), 
                         positive_ratings=STORED, negative_ratings=STORED, price=NUMERIC(stored=True), 
-                        description=TEXT(stored=True, analyzer=CustomWhooshAnalyzer), header_img=STORED, 
+                        description=TEXT(stored=True, analyzer=customAnalyzer), header_img=STORED, 
                         minimum_requirements=STORED, recommended_requirements=STORED)
+        
         ix = create_in(folder_index, schema)
         writer = ix.writer()
         
@@ -43,12 +44,12 @@ class Indexer:
             if not (file_path.endswith(".json")):
                 continue
                 
-            with open(file_path, 'r') as game_file:
+            with open(file_path, 'r', encoding='utf-8') as game_file:
                 # load JSON data
                 game_data = json.load(game_file)
                 cgt = ';'.join(game_data["categories"]) + ';'.join(game_data["genres"]) + ';'.join(game_data["tags"])
                 # add document to the index
-                writer.add_document(app_id=game_data["app_id"], name=game_data["name"], 
+                writer.add_document(app_id=str(game_data["app_id"]), name=game_data["name"], 
                                     release_date=game_data["release_date"], 
                                     developer=';'.join(game_data["developer"]), 
                                     publisher=';'.join(game_data["publisher"]), 

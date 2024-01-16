@@ -8,15 +8,13 @@ class CustomWhooshAnalyzer(Analyzer):
     def __init__(self):
         super().__init__()
         
-    def tokenize(self, text, positions=False, chars=False, keeporiginal=False, removestops=True, 
+    def __call__(self, text, positions=False, chars=False, keeporiginal=False, removestops=True, 
                  start_pos=0, start_char=0, mode='', **kwargs):
         # Call the custom tokenizer
         words = TokenAnalyzer.preprocessing(text)
 
         for position, word in enumerate(words, start=start_pos):
-            yield Token(word, start_pos=start_pos, end_pos=start_pos + len(word), start_char=start_char, 
-                        end_char=start_char + len(word), position=position)
-
+            yield Token(text=word, pos=position)
 
 # Class that implements all the methods to proccess a natural language text to create a list of tokens.
 class TokenAnalyzer:
