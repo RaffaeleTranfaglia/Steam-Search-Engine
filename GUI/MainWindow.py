@@ -178,9 +178,11 @@ class Ui_MainWindow(object):
         self.SearchButton.setText(_translate("MainWindow", "Search"))
 
 
-if __name__ == "__main__":
+def launchGui():
     import sys
+    import qdarktheme
     app = QtWidgets.QApplication(sys.argv)
+    qdarktheme.setup_theme()
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
