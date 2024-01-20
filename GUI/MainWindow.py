@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'v0.5.ui'
+# Form implementation generated from reading ui file 'v0.55.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
@@ -12,6 +12,10 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 class Ui_MainWindow(object):
+    def __init__(self, searcher):
+        self.searcher = searcher
+
+
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(800, 600)
@@ -35,6 +39,10 @@ class Ui_MainWindow(object):
         self.ResultList = QtWidgets.QListView(self.centralwidget)
         self.ResultList.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAsNeeded)
         self.ResultList.setObjectName("ResultList")
+        self.ResultList.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
+        self.ResultListModel = QtGui.QStandardItemModel()
+        self.ResultList.setModel(self.ResultListModel)
+
         self.horizontalLayout.addWidget(self.ResultList)
         self.scrollArea = QtWidgets.QScrollArea(self.centralwidget)
         self.scrollArea.setEnabled(True)
@@ -146,7 +154,15 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.addWidget(self.SearchField)
         self.SearchButton = QtWidgets.QPushButton(self.centralwidget)
         self.SearchButton.setObjectName("SearchButton")
+        self.SearchButton.clicked.connect(self.execSearch)
+
         self.horizontalLayout_2.addWidget(self.SearchButton)
+        self.ResultsLimitSpinBox = QtWidgets.QSpinBox(self.centralwidget)
+        self.ResultsLimitSpinBox.setMinimum(1)
+        self.ResultsLimitSpinBox.setMaximum(50)
+        self.ResultsLimitSpinBox.setProperty("value", 10)
+        self.ResultsLimitSpinBox.setObjectName("ResultsLimitSpinBox")
+        self.horizontalLayout_2.addWidget(self.ResultsLimitSpinBox)
         self.comboBox = QtWidgets.QComboBox(self.centralwidget)
         self.comboBox.setObjectName("comboBox")
         self.horizontalLayout_2.addWidget(self.comboBox)
@@ -157,6 +173,14 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+    def execSearch(self):
+        results = self.searcher.search(self.SearchField.text(), ["name", "description", "ctg"], self.ResultsLimitSpinBox.value())
+        self.ResultListModel.removeRows(0, self.ResultListModel.rowCount())
+        for i in results:
+            print(i)
+            self.ResultListModel.appendRow(QtGui.QStandardItem(i["name"]))
+
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
@@ -176,15 +200,15 @@ class Ui_MainWindow(object):
         self.MinReqsLabel.setText(_translate("MainWindow", "Minimum requirements:"))
         self.RecReqsLabel.setText(_translate("MainWindow", "Recommended requirements:"))
         self.SearchButton.setText(_translate("MainWindow", "Search"))
+        self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
 
-
-def launchGui():
+def launchGui(searcher):
     import sys
     import qdarktheme
     app = QtWidgets.QApplication(sys.argv)
     qdarktheme.setup_theme()
     MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
+    ui = Ui_MainWindow(searcher)
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
