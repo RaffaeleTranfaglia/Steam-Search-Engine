@@ -10,6 +10,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from GUI.GameData import GameData
+from urllib import request
 
 class Ui_MainWindow(object):
     def __init__(self, searcher):
@@ -86,6 +87,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout_5.addItem(spacerItem1)
         self.Image = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.Image.setObjectName("Image")
+        self.Image.setScaledContents(True)
         self.horizontalLayout_5.addWidget(self.Image)
         spacerItem2 = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.horizontalLayout_5.addItem(spacerItem2)
@@ -234,10 +236,11 @@ class Ui_MainWindow(object):
         self.CategoriesLabel.setText(' ')
         self.MinReqsLabel.setText(' ')
         self.RecReqsLabel.setText(' ')
+
+
     def updateGameView(self, game):
         self.TitleLabel.setText(game.name)
         self.AppidLabel.setText('APPID: ' + game.app_id)
-        self.Image.setText(game.header_img)
         self.DescriptionLabel.setText(game.description)
         self.DeveloperLabel.setText('Developer: ' + game.developer)
         self.PublisherLabel.setText('Publisher: ' + game.publisher)
@@ -248,6 +251,9 @@ class Ui_MainWindow(object):
         self.CategoriesLabel.setText('Categories: ' + game.categories)
         self.MinReqsLabel.setText('Minimum Requirements: ' + game.minimum_requirements)
         self.RecReqsLabel.setText('Recommended Requirements: ' + game.recommended_requirements)
+        img = QtGui.QPixmap()
+        img.loadFromData(request.urlopen(game.header_img).read())
+        self.Image.setPixmap(img)
 
 def launchGui(searcher):
     import sys
