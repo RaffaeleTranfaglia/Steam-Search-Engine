@@ -42,7 +42,7 @@ class Ui_MainWindow(object):
         self.fieldsDict = {0: 'name', 1: 'description', 2: 'developer', 3: 'publisher', 4: 'platforms', 5: 'cgt'}
 
     def setupUi(self, MainWindow):
-        data_font = QtGui.QFont("Arial", 10)
+        data_font = QtGui.QFont("Arial", 14)
 
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(800, 600)
