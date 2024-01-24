@@ -9,12 +9,12 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
+from GUI.GameData import GameData
 
 class Ui_MainWindow(object):
     def __init__(self, searcher):
         self.searcher = searcher
-
+        self.games = []
 
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -42,6 +42,7 @@ class Ui_MainWindow(object):
         self.ResultList.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.ResultListModel = QtGui.QStandardItemModel()
         self.ResultList.setModel(self.ResultListModel)
+        self.ResultList.selectionModel().selectionChanged.connect(self.handleResultSelectionChange)
 
         self.horizontalLayout.addWidget(self.ResultList)
         self.scrollArea = QtWidgets.QScrollArea(self.centralwidget)
@@ -94,15 +95,18 @@ class Ui_MainWindow(object):
         self.verticalLayout.setObjectName("verticalLayout")
         self.DescriptionLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.DescriptionLabel.setObjectName("DescriptionLabel")
+        self.DescriptionLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.DescriptionLabel)
         self.SentimentLineLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.SentimentLineLabel.setObjectName("SentimentLineLabel")
         self.verticalLayout.addWidget(self.SentimentLineLabel)
         self.DeveloperLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.DeveloperLabel.setObjectName("DeveloperLabel")
+        self.DeveloperLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.DeveloperLabel)
         self.PublisherLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.PublisherLabel.setObjectName("PublisherLabel")
+        self.PublisherLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.PublisherLabel)
         self.ReleaseLable = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.ReleaseLable.setObjectName("ReleaseLable")
@@ -112,18 +116,23 @@ class Ui_MainWindow(object):
         self.verticalLayout.addWidget(self.PriceLabel)
         self.GenresLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.GenresLabel.setObjectName("GenresLabel")
+        self.GenresLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.GenresLabel)
         self.TagsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.TagsLabel.setObjectName("TagsLabel")
+        self.TagsLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.TagsLabel)
         self.CategoriesLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.CategoriesLabel.setObjectName("CategoriesLabel")
+        self.CategoriesLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.CategoriesLabel)
         self.MinReqsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.MinReqsLabel.setObjectName("MinReqsLabel")
+        self.MinReqsLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.MinReqsLabel)
         self.RecReqsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.RecReqsLabel.setObjectName("RecReqsLabel")
+        self.RecReqsLabel.setWordWrap(True)
         self.verticalLayout.addWidget(self.RecReqsLabel)
         self.ReviewsView = QtWidgets.QListView(self.scrollAreaWidgetContents)
         self.ReviewsView.setObjectName("ReviewsView")
@@ -173,13 +182,17 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
+        self.clearGameView()
 
     def execSearch(self):
+        self.games = []
+        self.clearGameView()
         results = self.searcher.search(self.SearchField.text(), ["name", "description", "ctg"], self.ResultsLimitSpinBox.value())
         self.ResultListModel.removeRows(0, self.ResultListModel.rowCount())
         for i in results:
-            print(i)
+            #print(i)
             self.ResultListModel.appendRow(QtGui.QStandardItem(i["name"]))
+            self.games.append(GameData(i))
 
 
     def retranslateUi(self, MainWindow):
@@ -201,6 +214,40 @@ class Ui_MainWindow(object):
         self.RecReqsLabel.setText(_translate("MainWindow", "Recommended requirements:"))
         self.SearchButton.setText(_translate("MainWindow", "Search"))
         self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
+
+    def handleResultSelectionChange(self):
+        if len(self.ResultList.selectedIndexes()) > 0:
+            self.updateGameView(self.games[self.ResultList.selectedIndexes()[0].row()])
+
+    def clearGameView(self):
+        self.TitleLabel.setText(' ')
+        self.AppidLabel.setText(' ')
+        self.Image.setText(' ')
+        self.SentimentLineLabel.setText(' ')
+        self.DescriptionLabel.setText(' ')
+        self.DeveloperLabel.setText(' ')
+        self.PublisherLabel.setText(' ')
+        self.ReleaseLable.setText(' ')
+        self.PriceLabel.setText(' ')
+        self.GenresLabel.setText(' ')
+        self.TagsLabel.setText(' ')
+        self.CategoriesLabel.setText(' ')
+        self.MinReqsLabel.setText(' ')
+        self.RecReqsLabel.setText(' ')
+    def updateGameView(self, game):
+        self.TitleLabel.setText(game.name)
+        self.AppidLabel.setText('APPID: ' + game.app_id)
+        self.Image.setText(game.header_img)
+        self.DescriptionLabel.setText(game.description)
+        self.DeveloperLabel.setText('Developer: ' + game.developer)
+        self.PublisherLabel.setText('Publisher: ' + game.publisher)
+        self.ReleaseLable.setText('Release date: ' + game.release_date)
+        self.PriceLabel.setText('Price: ' + str(game.price) + '$')
+        self.GenresLabel.setText('Genres: ' + game.genres)
+        self.TagsLabel.setText('Tags: ' + game.tags)
+        self.CategoriesLabel.setText('Categories: ' + game.categories)
+        self.MinReqsLabel.setText('Minimum Requirements: ' + game.minimum_requirements)
+        self.RecReqsLabel.setText('Recommended Requirements: ' + game.recommended_requirements)
 
 def launchGui(searcher):
     import sys
