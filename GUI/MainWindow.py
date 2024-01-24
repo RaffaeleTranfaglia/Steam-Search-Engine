@@ -13,12 +13,37 @@ from PyQt5.QtCore import Qt
 from GUI.GameData import GameData
 from urllib import request
 
+
+class CheckableComboBox(QtWidgets.QComboBox):
+    def __init__(self):
+        super(CheckableComboBox, self).__init__()
+        self.view().pressed.connect(self.handleItemPressed)
+        self.setModel(QtGui.QStandardItemModel(self))
+
+    def handleItemPressed(self, index):
+        item = self.model().itemFromIndex(index)
+        if item.checkState() == QtCore.Qt.Checked:
+            item.setCheckState(QtCore.Qt.Unchecked)
+        else:
+            item.setCheckState(QtCore.Qt.Checked)
+
+    def getSelectedItems(self):
+        res = []
+        for i in range(self.count()):
+            if self.model().item(i, 0).checkState() == Qt.Checked:
+                res.append(i)
+        return res
+
+
 class Ui_MainWindow(object):
     def __init__(self, searcher):
         self.searcher = searcher
         self.games = []
+        self.fieldsDict = {0: 'name', 1: 'description', 2: 'developer', 3: 'publisher', 4: 'platforms', 5: 'cgt'}
 
     def setupUi(self, MainWindow):
+        data_font = QtGui.QFont("Arial", 10)
+
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(800, 600)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
@@ -45,8 +70,9 @@ class Ui_MainWindow(object):
         self.ResultListModel = QtGui.QStandardItemModel()
         self.ResultList.setModel(self.ResultListModel)
         self.ResultList.selectionModel().selectionChanged.connect(self.handleResultSelectionChange)
-
+        self.ResultList.setFont(data_font)
         self.horizontalLayout.addWidget(self.ResultList)
+
         self.scrollArea = QtWidgets.QScrollArea(self.centralwidget)
         self.scrollArea.setEnabled(True)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
@@ -70,7 +96,6 @@ class Ui_MainWindow(object):
         font = QtGui.QFont()
         font.setPointSize(16)
         self.TitleLabel.setFont(font)
-        self.TitleLabel.setWordWrap(True)
         self.TitleLabel.setObjectName("TitleLabel")
         self.TitleLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.horizontalLayout_4.addWidget(self.TitleLabel)
@@ -98,10 +123,12 @@ class Ui_MainWindow(object):
         self.verticalLayout = QtWidgets.QVBoxLayout()
         self.verticalLayout.setSpacing(10)
         self.verticalLayout.setObjectName("verticalLayout")
+
         self.DescriptionLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.DescriptionLabel.setObjectName("DescriptionLabel")
         self.DescriptionLabel.setWordWrap(True)
         self.DescriptionLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.DescriptionLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.DescriptionLabel)
         self.SentimentLineLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.SentimentLineLabel.setObjectName("SentimentLineLabel")
@@ -110,47 +137,57 @@ class Ui_MainWindow(object):
         self.DeveloperLabel.setObjectName("DeveloperLabel")
         self.DeveloperLabel.setWordWrap(True)
         self.DeveloperLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.DeveloperLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.DeveloperLabel)
         self.PublisherLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.PublisherLabel.setObjectName("PublisherLabel")
         self.PublisherLabel.setWordWrap(True)
         self.PublisherLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.PublisherLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.PublisherLabel)
         self.ReleaseLable = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.ReleaseLable.setObjectName("ReleaseLable")
         self.ReleaseLable.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.ReleaseLable.setFont(data_font)
         self.verticalLayout.addWidget(self.ReleaseLable)
         self.PriceLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.PriceLabel.setObjectName("PriceLabel")
         self.PriceLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.PriceLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.PriceLabel)
         self.GenresLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.GenresLabel.setObjectName("GenresLabel")
         self.GenresLabel.setWordWrap(True)
         self.GenresLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.GenresLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.GenresLabel)
         self.TagsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.TagsLabel.setObjectName("TagsLabel")
         self.TagsLabel.setWordWrap(True)
         self.TagsLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.TagsLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.TagsLabel)
         self.CategoriesLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.CategoriesLabel.setObjectName("CategoriesLabel")
         self.CategoriesLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.CategoriesLabel.setWordWrap(True)
+        self.CategoriesLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.CategoriesLabel)
         self.MinReqsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.MinReqsLabel.setObjectName("MinReqsLabel")
         self.MinReqsLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.MinReqsLabel.setWordWrap(True)
+        self.MinReqsLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.MinReqsLabel)
         self.RecReqsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.RecReqsLabel.setObjectName("RecReqsLabel")
         self.RecReqsLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.RecReqsLabel.setWordWrap(True)
+        self.RecReqsLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.RecReqsLabel)
         self.ReviewsView = QtWidgets.QListView(self.scrollAreaWidgetContents)
         self.ReviewsView.setObjectName("ReviewsView")
+        self.ReviewsView.setFont(data_font)
         self.verticalLayout.addWidget(self.ReviewsView)
         self.verticalLayout.setStretch(2, 1)
         self.verticalLayout.setStretch(3, 1)
@@ -175,21 +212,38 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         self.SearchField = QtWidgets.QLineEdit(self.centralwidget)
         self.SearchField.setObjectName("SearchField")
+        self.SearchField.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.SearchField)
         self.SearchButton = QtWidgets.QPushButton(self.centralwidget)
         self.SearchButton.setObjectName("SearchButton")
         self.SearchButton.clicked.connect(self.execSearch)
-
+        self.SearchButton.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.SearchButton)
+
         self.ResultsLimitSpinBox = QtWidgets.QSpinBox(self.centralwidget)
         self.ResultsLimitSpinBox.setMinimum(1)
         self.ResultsLimitSpinBox.setMaximum(50)
         self.ResultsLimitSpinBox.setProperty("value", 10)
         self.ResultsLimitSpinBox.setObjectName("ResultsLimitSpinBox")
+        self.ResultsLimitSpinBox.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.ResultsLimitSpinBox)
-        self.ComboFieldsBox = QtWidgets.QComboBox(self.centralwidget)
-        self.ComboFieldsBox.setObjectName("ComboFieldsBox")
+
+        self.ComboFieldsBox = CheckableComboBox()
+        self.ComboFieldsBox.addItem("Title")
+        self.ComboFieldsBox.model().item(0, 0).setCheckState(QtCore.Qt.Checked)
+        self.ComboFieldsBox.addItem("Description")
+        self.ComboFieldsBox.model().item(1, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.addItem("Developer")
+        self.ComboFieldsBox.model().item(2, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.addItem("Publisher")
+        self.ComboFieldsBox.model().item(3, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.addItem("Platforms")
+        self.ComboFieldsBox.model().item(4, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.addItem("Categories,Genres,Tags")
+        self.ComboFieldsBox.model().item(5, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.ComboFieldsBox)
+
         self.horizontalLayout_2.setStretch(0, 10)
         self.horizontalLayout_2.setStretch(1, 1)
         self.gridLayout.addLayout(self.horizontalLayout_2, 0, 0, 1, 1)
@@ -199,15 +253,25 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
         self.clearGameView()
 
+
     def execSearch(self):
+        fields_indexes = self.ComboFieldsBox.getSelectedItems()
+        if len(fields_indexes) <= 0:
+            print("no selected fields")
+            return
+        fields = []
+        for i in fields_indexes:
+            fields.append(self.fieldsDict[i])
         self.games = []
         self.clearGameView()
-        results = self.searcher.search(self.SearchField.text(), ["name", "description", "ctg"], self.ResultsLimitSpinBox.value())
+        print("searching in " + str(fields))
+        results = self.searcher.search(self.SearchField.text(), fields, self.ResultsLimitSpinBox.value())
         self.ResultListModel.removeRows(0, self.ResultListModel.rowCount())
         for i in results:
             #print(i)
             self.ResultListModel.appendRow(QtGui.QStandardItem(i["name"]))
             self.games.append(GameData(i))
+
 
 
     def retranslateUi(self, MainWindow):
@@ -254,18 +318,19 @@ class Ui_MainWindow(object):
 
 
     def updateGameView(self, game):
+        color = '"#94a2b3"'
         self.TitleLabel.setText(game.name)
-        self.AppidLabel.setText('APPID: ' + game.app_id)
+        self.AppidLabel.setText('<font color=' + color + '><b>APPID</b></font>: ' + game.app_id)
         self.DescriptionLabel.setText(game.description)
-        self.DeveloperLabel.setText('Developer: ' + game.developer)
-        self.PublisherLabel.setText('Publisher: ' + game.publisher)
-        self.ReleaseLable.setText('Release date: ' + game.release_date)
-        self.PriceLabel.setText('Price: ' + str(game.price) + '$')
-        self.GenresLabel.setText('Genres: ' + game.genres)
-        self.TagsLabel.setText('Tags: ' + game.tags)
-        self.CategoriesLabel.setText('Categories: ' + game.categories)
-        self.MinReqsLabel.setText('Minimum Requirements: ' + game.minimum_requirements)
-        self.RecReqsLabel.setText('Recommended Requirements: ' + game.recommended_requirements)
+        self.DeveloperLabel.setText('<font color=' + color + '><b>DEVELOPER</b></font>: ' + game.developer)
+        self.PublisherLabel.setText('<font color=' + color + '><b>PUBLISHER</b></font>: ' + game.publisher)
+        self.ReleaseLable.setText('<font color=' + color + '><b>RELEASE DATE</b></font>: ' + game.release_date)
+        self.PriceLabel.setText('<font color=' + color + '><b>PRICE</b></font>: ' + str(game.price) + '$')
+        self.GenresLabel.setText('<font color=' + color + '><b>GENRES</b></font>: ' + game.genres)
+        self.TagsLabel.setText('<font color=' + color + '><b>TAGS</b></font>: ' + game.tags)
+        self.CategoriesLabel.setText('<font color=' + color + '><b>CATEGORIES</b></font>: ' + game.categories)
+        self.MinReqsLabel.setText('<font color=' + color + '><b>MINIMUM REQUIREMENTS</b></font>: ' + game.minimum_requirements)
+        self.RecReqsLabel.setText('<font color=' + color + '><b>RECOMMENDED REQUIREMENTS</b></font>: ' + game.recommended_requirements)
         self.Image.setText(' ')
         QtCore.QCoreApplication.processEvents()
         try:
