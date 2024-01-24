@@ -264,9 +264,14 @@ class Ui_MainWindow(object):
         self.CategoriesLabel.setText('Categories: ' + game.categories)
         self.MinReqsLabel.setText('Minimum Requirements: ' + game.minimum_requirements)
         self.RecReqsLabel.setText('Recommended Requirements: ' + game.recommended_requirements)
-        img = QtGui.QPixmap()
-        img.loadFromData(request.urlopen(game.header_img).read())
-        self.Image.setPixmap(img)
+        self.Image.setText(' ')
+        QtCore.QCoreApplication.processEvents()
+        try:
+            img = QtGui.QPixmap()
+            img.loadFromData(request.urlopen(game.header_img).read())
+            self.Image.setPixmap(img)
+        except Exception as e:
+            print(f"Error accessing {game.header_img}: {e}")
 
 def launchGui(searcher):
     import sys
