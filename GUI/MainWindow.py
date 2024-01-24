@@ -187,9 +187,9 @@ class Ui_MainWindow(object):
         self.ResultsLimitSpinBox.setProperty("value", 10)
         self.ResultsLimitSpinBox.setObjectName("ResultsLimitSpinBox")
         self.horizontalLayout_2.addWidget(self.ResultsLimitSpinBox)
-        self.comboBox = QtWidgets.QComboBox(self.centralwidget)
-        self.comboBox.setObjectName("comboBox")
-        self.horizontalLayout_2.addWidget(self.comboBox)
+        self.ComboFieldsBox = QtWidgets.QComboBox(self.centralwidget)
+        self.ComboFieldsBox.setObjectName("ComboFieldsBox")
+        self.horizontalLayout_2.addWidget(self.ComboFieldsBox)
         self.horizontalLayout_2.setStretch(0, 10)
         self.horizontalLayout_2.setStretch(1, 1)
         self.gridLayout.addLayout(self.horizontalLayout_2, 0, 0, 1, 1)
@@ -229,6 +229,8 @@ class Ui_MainWindow(object):
         self.RecReqsLabel.setText(_translate("MainWindow", "Recommended requirements:"))
         self.SearchButton.setText(_translate("MainWindow", "Search"))
         self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
+        self.SearchField.setToolTip(_translate("MainWindow", "Insert a query"))
+        self.ComboFieldsBox.setToolTip(_translate("MainWindow", "Select fields where to search in"))
 
     def handleResultSelectionChange(self):
         if len(self.ResultList.selectedIndexes()) > 0:
