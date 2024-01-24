@@ -21,4 +21,4 @@ class GameData(object):
         if 'recommended_requirements' in game_data.keys():
             self.recommended_requirements = game_data['recommended_requirements']
         else:
-            self.recommended_requirements = ' '
+            self.recommended_requirements = 'Not provided'
