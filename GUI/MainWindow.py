@@ -9,9 +9,43 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtCore import Qt
 from GUI.GameData import GameData
 from urllib import request
+from PyQt5.QtWidgets import QWidget, QSizePolicy
+from PyQt5.QtGui import QPainter
+from PyQt5.QtCore import Qt, QSize
+
+class LineWidget(QWidget):
+    def __init__(self):
+        super().__init__()
+
+        self.green_percentage = 50  # Initial percentage of green
+        self.max_height = 3
+
+        # Set vertical size policy to Expanding
+        self.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
+
+    def set_green_percentage(self, percentage):
+        self.green_percentage = percentage
+        self.update()
+
+    def sizeHint(self):
+        return QSize(self.width(), self.max_height)
+
+    def paintEvent(self, event):
+        painter = QPainter(self)
+        painter.setRenderHint(QPainter.Antialiasing)
+
+        width, height = self.width(), self.height()
+
+        # Calculate the position to split green and red
+        split_position = int(width * (self.green_percentage / 100))
+
+        # Draw the green part
+        painter.fillRect(0, 0, split_position, height, Qt.green)
+
+        # Draw the red part
+        painter.fillRect(split_position, 0, width - split_position, height, Qt.red)
 
 
 class CheckableComboBox(QtWidgets.QComboBox):
@@ -130,9 +164,11 @@ class Ui_MainWindow(object):
         self.DescriptionLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.DescriptionLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.DescriptionLabel)
-        self.SentimentLineLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
-        self.SentimentLineLabel.setObjectName("SentimentLineLabel")
-        self.verticalLayout.addWidget(self.SentimentLineLabel)
+
+        self.SentimentLineLabel = LineWidget()
+        #self.SentimentLineLabel.setObjectName("SentimentLineLabel")
+        self.verticalLayout.addWidget(self.SentimentLineLabel, stretch=1)
+
         self.DeveloperLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.DeveloperLabel.setObjectName("DeveloperLabel")
         self.DeveloperLabel.setWordWrap(True)
@@ -277,20 +313,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.TitleLabel.setText(_translate("MainWindow", "Title: "))
-        self.AppidLabel.setText(_translate("MainWindow", "APPID: "))
-        self.Image.setText(_translate("MainWindow", "Image"))
-        self.DescriptionLabel.setText(_translate("MainWindow", "Description"))
-        self.SentimentLineLabel.setText(_translate("MainWindow", "Sentiment line"))
-        self.DeveloperLabel.setText(_translate("MainWindow", "Developer:"))
-        self.PublisherLabel.setText(_translate("MainWindow", "Publisher:"))
-        self.ReleaseLable.setText(_translate("MainWindow", "Release date:"))
-        self.PriceLabel.setText(_translate("MainWindow", "Price:"))
-        self.GenresLabel.setText(_translate("MainWindow", "Genres:"))
-        self.TagsLabel.setText(_translate("MainWindow", "Tags:"))
-        self.CategoriesLabel.setText(_translate("MainWindow", "Categories:"))
-        self.MinReqsLabel.setText(_translate("MainWindow", "Minimum requirements:"))
-        self.RecReqsLabel.setText(_translate("MainWindow", "Recommended requirements:"))
+        self.clearGameView()
         self.SearchButton.setText(_translate("MainWindow", "Search"))
         self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
         self.SearchField.setToolTip(_translate("MainWindow", "Insert a query"))
@@ -304,8 +327,8 @@ class Ui_MainWindow(object):
         self.TitleLabel.setText(' ')
         self.AppidLabel.setText(' ')
         self.Image.setText(' ')
-        self.SentimentLineLabel.setText(' ')
         self.DescriptionLabel.setText(' ')
+        self.SentimentLineLabel.hide()
         self.DeveloperLabel.setText(' ')
         self.PublisherLabel.setText(' ')
         self.ReleaseLable.setText(' ')
@@ -322,6 +345,13 @@ class Ui_MainWindow(object):
         self.TitleLabel.setText(game.name)
         self.AppidLabel.setText('<font color=' + color + '><b>APPID</b></font>: ' + game.app_id)
         self.DescriptionLabel.setText(game.description)
+
+        if game.positive_ratings + game.negative_ratings > 0:
+            self.SentimentLineLabel.show()
+            self.SentimentLineLabel.set_green_percentage(int((game.positive_ratings * 100) / (game.positive_ratings + game.negative_ratings)))
+        else:
+            self.SentimentLineLabel.hide()
+
         self.DeveloperLabel.setText('<font color=' + color + '><b>DEVELOPER:</b></font> ' + game.developer)
         self.PublisherLabel.setText('<font color=' + color + '><b>PUBLISHER:</b></font> ' + game.publisher)
         self.ReleaseLable.setText('<font color=' + color + '><b>RELEASE DATE:</b></font> ' + game.release_date)
