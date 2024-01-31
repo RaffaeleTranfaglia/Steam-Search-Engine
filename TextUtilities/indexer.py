@@ -3,6 +3,7 @@ import os, os.path
 from whoosh.index import create_in, open_dir
 from whoosh.fields import *
 from TextUtilities.analyzer import CustomWhooshAnalyzer
+import time
 
 # Class that define methods to create an inverted index on the documents' collection.
 class Indexer:
@@ -13,17 +14,21 @@ class Indexer:
     def openIndex(folder_path, folder_index):
         if os.path.exists(folder_index):
             # If it exists, open the index
-            return open_dir(folder_index)
+            return open_dir(folder_index + "/main_index"), open_dir(folder_index + "/reviews_index")
         
         # Else, create the folder and the index inside it
         os.mkdir(folder_index)
+        os.mkdir(folder_index + "/main_index")
+        os.mkdir(folder_index + "/reviews_index")
         return Indexer.indexing(folder_path, folder_index)
         
 
     @staticmethod
     def indexing(folder_path, folder_index):
+        print("starting indexing")
+        start_time = time.time()
         customAnalyzer = CustomWhooshAnalyzer()
-        schema = Schema(app_id=ID(stored=True), name=TEXT(stored=True, analyzer=customAnalyzer), 
+        main_schema = Schema(app_id=ID(stored=True), name=TEXT(stored=True, analyzer=customAnalyzer),
                         release_date=STORED, developer=TEXT(stored=True, analyzer=customAnalyzer), 
                         publisher=TEXT(stored=True, analyzer=customAnalyzer), 
                         platforms=TEXT(stored=True, analyzer=customAnalyzer), categories=STORED, 
@@ -32,9 +37,16 @@ class Indexer:
                         description=TEXT(stored=True, analyzer=customAnalyzer), header_img=STORED, 
                         minimum_requirements=STORED, recommended_requirements=STORED)
         
-        ix = create_in(folder_index, schema)
-        writer = ix.writer()
-        
+        main_idx = create_in(folder_index + "/main_index", main_schema)
+        main_writer = main_idx.writer()
+
+        reviews_schema = Schema(app_id=ID(stored=True),
+                                review_text=TEXT(stored=True, analyzer=customAnalyzer),
+                                review_score=STORED,
+                                sentiment=NUMERIC(stored=True))
+        reviews_idx = create_in(folder_index + "/reviews_index", reviews_schema)
+        reviews_writer = reviews_idx.writer()
+
         # iterate through all the files in the folder
         for filename in os.listdir(folder_path):
             # join path folder with filename in order to get the relative path to the file
@@ -48,8 +60,9 @@ class Indexer:
                 # load JSON data
                 game_data = json.load(game_file)
                 cgt = ';'.join(game_data["categories"]) + ';'.join(game_data["genres"]) + ';'.join(game_data["tags"])
+                appid = str(game_data["app_id"])
                 # add document to the index
-                writer.add_document(app_id=str(game_data["app_id"]), name=game_data["name"], 
+                main_writer.add_document(app_id=appid, name=game_data["name"],
                                     release_date=game_data["release_date"], 
                                     developer=';'.join(game_data["developer"]), 
                                     publisher=';'.join(game_data["publisher"]), 
@@ -65,5 +78,15 @@ class Indexer:
                                     header_img=game_data["header_img"], 
                                     minimum_requirements=game_data["minimum_requirements"], 
                                     recommended_requirements=game_data["recommended_requirements"])
-        writer.commit()
-        return ix
+
+                for r in game_data["reviews"]:
+                    reviews_writer.add_document(app_id=appid,
+                                                review_text=r["review_text"],
+                                                review_score=r["review_score"],
+                                                sentiment=0)
+
+        print("starting writing at " + str(time.time() - start_time) + "s")
+        main_writer.commit()
+        reviews_writer.commit()
+        print("finished index after " + str(time.time() - start_time) + "s")
+        return main_idx, reviews_idx
