@@ -300,11 +300,9 @@ class Ui_MainWindow(object):
             fields.append(self.fieldsDict[i])
         self.games = []
         self.clearGameView()
-        print("searching in " + str(fields))
         results = self.searcher.search(self.SearchField.text(), fields, self.ResultsLimitSpinBox.value())
         self.ResultListModel.removeRows(0, self.ResultListModel.rowCount())
         for i in results:
-            #print(i)
             self.ResultListModel.appendRow(QtGui.QStandardItem(i["name"]))
             self.games.append(GameData(i))
 
