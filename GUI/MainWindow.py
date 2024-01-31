@@ -129,7 +129,7 @@ class Ui_MainWindow(object):
         self.TitleLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         font = QtGui.QFont()
         font.setPointSize(16)
-        self.TitleLabel.setFont(font)
+        self.TitleLabel.setFont(QtGui.QFont("Arial", 18))
         self.TitleLabel.setObjectName("TitleLabel")
         self.TitleLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.horizontalLayout_4.addWidget(self.TitleLabel)
@@ -249,6 +249,7 @@ class Ui_MainWindow(object):
         self.SearchField = QtWidgets.QLineEdit(self.centralwidget)
         self.SearchField.setObjectName("SearchField")
         self.SearchField.setFont(data_font)
+        self.SearchField.returnPressed.connect(self.execSearch)
         self.horizontalLayout_2.addWidget(self.SearchField)
         self.SearchButton = QtWidgets.QPushButton(self.centralwidget)
         self.SearchButton.setObjectName("SearchButton")
@@ -258,8 +259,8 @@ class Ui_MainWindow(object):
 
         self.ResultsLimitSpinBox = QtWidgets.QSpinBox(self.centralwidget)
         self.ResultsLimitSpinBox.setMinimum(1)
-        self.ResultsLimitSpinBox.setMaximum(50)
-        self.ResultsLimitSpinBox.setProperty("value", 10)
+        self.ResultsLimitSpinBox.setMaximum(100)
+        self.ResultsLimitSpinBox.setProperty("value", 20)
         self.ResultsLimitSpinBox.setObjectName("ResultsLimitSpinBox")
         self.ResultsLimitSpinBox.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.ResultsLimitSpinBox)
@@ -288,7 +289,6 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
         self.clearGameView()
-
 
     def execSearch(self):
         fields_indexes = self.ComboFieldsBox.getSelectedItems()

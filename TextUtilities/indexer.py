@@ -2,7 +2,7 @@ import json
 import os, os.path
 from whoosh.index import create_in, open_dir
 from whoosh.fields import *
-from text_utilities.analyzer import CustomWhooshAnalyzer
+from TextUtilities.analyzer import CustomWhooshAnalyzer
 
 # Class that define methods to create an inverted index on the documents' collection.
 class Indexer:
