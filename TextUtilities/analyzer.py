@@ -37,7 +37,7 @@ class TokenAnalyzer:
         stop_words.update(set(string.punctuation))
         for t in tokens1:
             if t not in stop_words:
-                if t.endswith('™'):
+                if t.endswith('™') or t.endswith('®') or t.endswith('©'):
                     t = t[:-1]
                 tokens2.append(t.lower())
         

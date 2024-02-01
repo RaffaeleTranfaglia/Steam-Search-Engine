@@ -10,14 +10,16 @@ class Indexer:
         pass
     
     @staticmethod
-    def openIndex(folder_path, folder_index):
+    def openIndex(folder_path, folder_index, console):
         if os.path.exists(folder_index):
             # If it exists, open the index
             return open_dir(folder_index)
         
         # Else, create the folder and the index inside it
         os.mkdir(folder_index)
-        return Indexer.indexing(folder_path, folder_index)
+        ix = Indexer.indexing(folder_path, folder_index)
+        console.log(f"Index completed")
+        return ix
         
 
     @staticmethod
