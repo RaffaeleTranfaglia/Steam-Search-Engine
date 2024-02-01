@@ -49,7 +49,7 @@ class LineWidget(QWidget):
         # Draw the red part
         painter.fillRect(split_position, 0, width - split_position, height, Qt.red)
 
-# create a combobox composed by checkin items
+# create a combobox composed by check items
 class CheckableComboBox(QtWidgets.QComboBox):
     def __init__(self):
         super(CheckableComboBox, self).__init__()
