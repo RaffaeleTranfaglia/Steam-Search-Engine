@@ -6,6 +6,6 @@ from rich.console import Console
 if __name__ == "__main__":
     console = Console()
     with console.status("[bold green]Creating index...") as status:
-        main_idx, reviews_idx = Indexer.openIndex("Dataset", "indexdir", console)
+        main_idx, reviews_idx = Indexer.openIndex("Dataset", "indexdir", console, do_sentiment=True, worker_threads=8)
     searcher = GameSearcher(main_idx)
     GUI.MainWindow.launchGui(searcher)
