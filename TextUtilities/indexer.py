@@ -12,7 +12,7 @@ class Indexer:
         pass
     
     @staticmethod
-    def openIndex(folder_path, folder_index):
+    def openIndex(folder_path, folder_index, console):
         if os.path.exists(folder_index):
             # If it exists, open the index
             return open_dir(folder_index + "/main_index"), open_dir(folder_index + "/reviews_index")
