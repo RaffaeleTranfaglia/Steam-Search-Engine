@@ -110,8 +110,9 @@ class Indexer:
         os.mkdir(folder_index)
         os.mkdir(folder_index + "/main_index")
         os.mkdir(folder_index + "/reviews_index")
+        mainix, reviewix = Indexer.indexing(folder_path, folder_index, do_sentiment, worker_threads)
         console.log(f"Index completed")
-        return Indexer.indexing(folder_path, folder_index, do_sentiment, worker_threads)
+        return mainix, reviewix
         
 
     @staticmethod
