@@ -312,7 +312,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Steam Search Engine"))
         self.clearGameView()
         self.SearchButton.setText(_translate("MainWindow", "Search"))
         self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
