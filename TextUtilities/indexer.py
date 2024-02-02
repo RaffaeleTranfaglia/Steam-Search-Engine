@@ -4,6 +4,7 @@ from whoosh.index import create_in, open_dir
 from whoosh.fields import *
 from TextUtilities.analyzer import CustomWhooshAnalyzer
 import time
+from transformers import pipeline
 
 # Class that define methods to create an inverted index on the documents' collection.
 class Indexer:
@@ -43,9 +44,17 @@ class Indexer:
         reviews_schema = Schema(app_id=ID(stored=True),
                                 review_text=TEXT(stored=True, analyzer=customAnalyzer),
                                 review_score=STORED,
-                                sentiment=NUMERIC(stored=True))
+                                anger=NUMERIC(stored=True),
+                                disgust=NUMERIC(stored=True),
+                                fear=NUMERIC(stored=True),
+                                joy=NUMERIC(stored=True),
+                                neutral=NUMERIC(stored=True),
+                                sadness=NUMERIC(stored=True),
+                                surprise=NUMERIC(stored=True))
         reviews_idx = create_in(folder_index + "/reviews_index", reviews_schema)
         reviews_writer = reviews_idx.writer()
+
+        classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", return_all_scores=True)
 
         # iterate through all the files in the folder
         for filename in os.listdir(folder_path):
@@ -80,10 +89,45 @@ class Indexer:
                                     recommended_requirements=game_data["recommended_requirements"])
 
                 for r in game_data["reviews"]:
+                    anger = 0
+                    disgust = 0
+                    fear = 0
+                    joy = 0
+                    neutral = 0
+                    sadness = 0
+                    surprise = 0
+                    try:
+                        sentiments = classifier(r["review_text"])
+                        for sent in sentiments:
+                            for s in sent:
+                                s_type = s["label"]
+                                if s_type == "anger":
+                                    anger = s["score"]
+                                elif s_type == "disgust":
+                                    disgust = s["score"]
+                                elif s_type == "fear":
+                                    fear = s["score"]
+                                elif s_type == "joy":
+                                    joy = s["score"]
+                                elif s_type == "neutral":
+                                    neutral = s["score"]
+                                elif s_type == "sadness":
+                                    sadness = s["score"]
+                                elif s_type == "surprise":
+                                    surprise = s["score"]
+                    except Exception as e:
+                        print(str(type(e)) + " caused by review of " + appid + " : " + r["review_text"])
+
                     reviews_writer.add_document(app_id=appid,
                                                 review_text=r["review_text"],
                                                 review_score=r["review_score"],
-                                                sentiment=0)
+                                                anger=anger,
+                                                disgust=disgust,
+                                                fear=fear,
+                                                joy=joy,
+                                                neutral=neutral,
+                                                sadness=sadness,
+                                                surprise=surprise)
 
         print("starting writing at " + str(time.time() - start_time) + "s")
         main_writer.commit()
