@@ -21,6 +21,7 @@ class Indexer:
         os.mkdir(folder_index)
         os.mkdir(folder_index + "/main_index")
         os.mkdir(folder_index + "/reviews_index")
+        console.log(f"Index completed")
         return Indexer.indexing(folder_path, folder_index)
         
 
