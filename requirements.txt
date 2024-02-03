@@ -57,7 +57,7 @@ tokenizers==0.15.1
 tqdm==4.66.1
 transformers==4.37.2
 typing_extensions==4.9.0
-urllib3==2.2.0
+urllib3==1.26.18
 Werkzeug==3.0.1
 Whoosh==2.7.4
 wrapt==1.14.1
