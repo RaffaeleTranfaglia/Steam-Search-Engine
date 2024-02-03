@@ -131,6 +131,7 @@ class GameDocument:
                 self.av_neutral /= n_reviews
                 self.av_sadness /= n_reviews
                 self.av_surprise /= n_reviews
+                inav_weights_sum = inav_weights_sum if inav_weights_sum > 0 else 1
                 self.inav_anger /= inav_weights_sum
                 self.inav_disgust /= inav_weights_sum
                 self.inav_fear /= inav_weights_sum
