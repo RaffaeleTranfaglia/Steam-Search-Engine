@@ -11,7 +11,7 @@ def main():
     parser.add_argument("-s", "--sentiment",
                         dest = "vSentiment",
                         type = str,
-                        default = "False",
+                        default = "false",
                         help = "Version of sentiment analysis used to compute the average sentiment values "
                                "for every game: av = standard average, "
                                "inav = Inverted Neutral Weighted Average, "
