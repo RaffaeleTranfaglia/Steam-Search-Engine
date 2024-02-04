@@ -20,9 +20,9 @@ def cosineSimilarity(sv1, sv2):
 
 
 class GameSearcher:
-    def __init__(self, main_idx, review_idx, do_sentiment=False, sentiment_version=None):
+    def __init__(self, main_idx, reviews_idx, do_sentiment=False, sentiment_version=None):
         self.main_idx = main_idx
-        self.review_idx = review_idx
+        self.reviews_idx = reviews_idx
         self.do_sentiment = do_sentiment
         self.sentiment_version = None
         if self.do_sentiment:
@@ -71,7 +71,7 @@ class GameSearcher:
                 qsentv = [anger, disgust, fear, joy, neutral, sadness, surprise]
 
                 sent_prefix = "inav_"
-                if self.sentiment_version == "avg":
+                if self.sentiment_version == "av":
                     sent_prefix = "av_"
 
         query = parser.parse(queryText)
@@ -93,7 +93,7 @@ class GameSearcher:
             return result[:limit]
 
     def getGameReviews(self, app_id, limit=None):
-        searcher = self.review_idx.searcher()
-        parser = QueryParser("app_id", schema=self.review_idx.schema)
+        searcher = self.reviews_idx.searcher()
+        parser = QueryParser("app_id", schema=self.reviews_idx.schema)
         query = parser.parse(app_id)
         return searcher.search(query, limit=limit)
