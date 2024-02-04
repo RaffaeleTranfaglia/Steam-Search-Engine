@@ -91,3 +91,9 @@ class GameSearcher:
                 result.append(r[0])
 
             return result[:limit]
+
+    def getGameReviews(self, app_id, limit=None):
+        searcher = self.review_idx.searcher()
+        parser = QueryParser("app_id", schema=self.review_idx.schema)
+        query = parser.parse(app_id)
+        return searcher.search(query, limit=limit)
