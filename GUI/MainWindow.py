@@ -13,7 +13,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from GUI.GameData import GameData
 from urllib import request
 from PyQt5.QtWidgets import QWidget, QSizePolicy
-from PyQt5.QtGui import QPainter
+from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtCore import Qt, QSize
 
 # create a positive/negative bar
@@ -22,13 +22,14 @@ class LineWidget(QWidget):
         super().__init__()
 
         self.green_percentage = 50  # Initial percentage of green
-        self.max_height = 3
+        self.max_height = 5
 
         # Set vertical size policy to Expanding
         self.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
 
     def set_green_percentage(self, percentage):
         self.green_percentage = percentage
+        self.setToolTip(f"Positive ratings: {self.green_percentage}% vs Negative ratings: {100-self.green_percentage}%")
         self.update()
 
     def sizeHint(self):
@@ -44,10 +45,10 @@ class LineWidget(QWidget):
         split_position = int(width * (self.green_percentage / 100))
 
         # Draw the green part
-        painter.fillRect(0, 0, split_position, height, Qt.green)
+        painter.fillRect(0, 0, split_position, height, QColor(80, 200, 120, 192))
 
         # Draw the red part
-        painter.fillRect(split_position, 0, width - split_position, height, Qt.red)
+        painter.fillRect(split_position, 0, width - split_position, height, QColor(255, 87, 51, 192))
 
 # create a combobox composed by check items
 class CheckableComboBox(QtWidgets.QComboBox):
@@ -167,9 +168,9 @@ class Ui_MainWindow(object):
         self.DescriptionLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.DescriptionLabel)
 
-        self.SentimentLineLabel = LineWidget()
-        #self.SentimentLineLabel.setObjectName("SentimentLineLabel")
-        self.verticalLayout.addWidget(self.SentimentLineLabel, stretch=1)
+        self.RatingsLine = LineWidget()
+        self.RatingsLine.setObjectName("RatingsLine")
+        self.verticalLayout.addWidget(self.RatingsLine, stretch=1)
 
         self.DeveloperLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.DeveloperLabel.setObjectName("DeveloperLabel")
@@ -183,6 +184,12 @@ class Ui_MainWindow(object):
         self.PublisherLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
         self.PublisherLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.PublisherLabel)
+        self.PlatformsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
+        self.PlatformsLabel.setObjectName("PlatformsLabel")
+        self.PlatformsLabel.setWordWrap(True)
+        self.PlatformsLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.PlatformsLabel.setFont(data_font)
+        self.verticalLayout.addWidget(self.PlatformsLabel)
         self.ReleaseLable = QtWidgets.QLabel(self.scrollAreaWidgetContents)
         self.ReleaseLable.setObjectName("ReleaseLable")
         self.ReleaseLable.setTextInteractionFlags(Qt.TextSelectableByMouse)
@@ -223,6 +230,12 @@ class Ui_MainWindow(object):
         self.RecReqsLabel.setWordWrap(True)
         self.RecReqsLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.RecReqsLabel)
+        self.ReviewsLabel = QtWidgets.QLabel(self.scrollAreaWidgetContents)
+        self.ReviewsLabel.setObjectName("ReviewsLabel")
+        self.ReviewsLabel.setTextInteractionFlags(Qt.TextSelectableByMouse)
+        self.ReviewsLabel.setWordWrap(True)
+        self.ReviewsLabel.setFont(data_font)
+        self.verticalLayout.addWidget(self.ReviewsLabel)
         self.ReviewsView = QtWidgets.QListView(self.scrollAreaWidgetContents)
         self.ReviewsView.setObjectName("ReviewsView")
         self.ReviewsView.setFont(data_font)
@@ -318,7 +331,7 @@ class Ui_MainWindow(object):
         self.ResultsLimitSpinBox.setToolTip(_translate("MainWindow", "Number of searched games"))
         self.SearchField.setToolTip(_translate("MainWindow", "Insert a query"))
         self.ComboFieldsBox.setToolTip(_translate("MainWindow", "Select fields where to search in"))
-
+    
     def handleResultSelectionChange(self):
         if len(self.ResultList.selectedIndexes()) > 0:
             self.updateGameView(self.games[self.ResultList.selectedIndexes()[0].row()])
@@ -328,9 +341,10 @@ class Ui_MainWindow(object):
         self.AppidLabel.setText(' ')
         self.Image.setText(' ')
         self.DescriptionLabel.setText(' ')
-        self.SentimentLineLabel.hide()
+        self.RatingsLine.hide()
         self.DeveloperLabel.setText(' ')
         self.PublisherLabel.setText(' ')
+        self.PlatformsLabel.setText(' ')
         self.ReleaseLable.setText(' ')
         self.PriceLabel.setText(' ')
         self.GenresLabel.setText(' ')
@@ -338,29 +352,32 @@ class Ui_MainWindow(object):
         self.CategoriesLabel.setText(' ')
         self.MinReqsLabel.setText(' ')
         self.RecReqsLabel.setText(' ')
+        self.ReviewsLabel.setText(' ')
 
 
     def updateGameView(self, game):
-        color = '"#94a2b3"'
+        color = "#7393B3"
         self.TitleLabel.setText(game.name)
         self.AppidLabel.setText('<font color=' + color + '><b>APPID</b></font>: ' + game.app_id)
         self.DescriptionLabel.setText(game.description)
 
         if game.positive_ratings + game.negative_ratings > 0:
-            self.SentimentLineLabel.show()
-            self.SentimentLineLabel.set_green_percentage(int((game.positive_ratings * 100) / (game.positive_ratings + game.negative_ratings)))
+            self.RatingsLine.show()
+            self.RatingsLine.set_green_percentage(int((game.positive_ratings * 100) / (game.positive_ratings + game.negative_ratings)))
         else:
-            self.SentimentLineLabel.hide()
+            self.RatingsLine.hide()
 
-        self.DeveloperLabel.setText('<font color=' + color + '><b>DEVELOPER:</b></font> ' + game.developer)
-        self.PublisherLabel.setText('<font color=' + color + '><b>PUBLISHER:</b></font> ' + game.publisher)
-        self.ReleaseLable.setText('<font color=' + color + '><b>RELEASE DATE:</b></font> ' + game.release_date)
-        self.PriceLabel.setText('<font color=' + color + '><b>PRICE:</b></font> ' + str(game.price) + '$')
-        self.GenresLabel.setText('<font color=' + color + '><b>GENRES:</b></font> ' + game.genres)
-        self.TagsLabel.setText('<font color=' + color + '><b>TAGS:</b></font> ' + game.tags)
-        self.CategoriesLabel.setText('<font color=' + color + '><b>CATEGORIES:</b></font> ' + game.categories)
-        self.MinReqsLabel.setText('<font color=' + color + '><b>MINIMUM REQUIREMENTS:</b></font> ' + game.minimum_requirements)
-        self.RecReqsLabel.setText('<font color=' + color + '><b>RECOMMENDED REQUIREMENTS:</b></font> ' + game.recommended_requirements)
+        self.DeveloperLabel.setText('<font color=' + color + '><b>Developer:</b></font> ' + game.developer)
+        self.PublisherLabel.setText('<font color=' + color + '><b>Publisher:</b></font> ' + game.publisher)
+        self.PlatformsLabel.setText('<font color=' + color + '><b>Platforms:</b></font> ' + game.platforms)
+        self.ReleaseLable.setText('<font color=' + color + '><b>Release Date:</b></font> ' + game.release_date)
+        self.PriceLabel.setText('<font color=' + color + '><b>Price:</b></font> ' + str(game.price) + '$')
+        self.GenresLabel.setText('<font color=' + color + '><b>Genres:</b></font> ' + game.genres)
+        self.TagsLabel.setText('<font color=' + color + '><b>Tags:</b></font> ' + game.tags)
+        self.CategoriesLabel.setText('<font color=' + color + '><b>Categories:</b></font> ' + game.categories)
+        self.MinReqsLabel.setText('<font color=' + color + '><b>Minimum Requirements:</b></font> ' + game.minimum_requirements)
+        self.RecReqsLabel.setText('<font color=' + color + '><b>Recommended Requirements:</b></font> ' + game.recommended_requirements)
+        self.ReviewsLabel.setText('<font color=' + color + '><b>Reviews:</b></font> ')
         self.Image.setText(' ')
         QtCore.QCoreApplication.processEvents()
         try:
