@@ -1,0 +1,11 @@
+[
+    {
+        "UIN" : "Scariest games by Capcom",
+        "query" : "Capcom \\sentiment[scary]",
+        "fields" : ["developer"],
+        "relevant_documents" : 
+        [
+            209100, 21690, 221040, 222480, 254700, 304240, 287290, 339340
+        ]
+    }
+]
