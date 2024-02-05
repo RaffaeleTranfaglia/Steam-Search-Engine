@@ -36,7 +36,7 @@ def main():
         console.log(f"[red] {args.vSentiment} is not a valid value for \"-s\" \"--sentiment\" option")
         return
 
-    index_dir = "indexdir/base" if not args.vSentiment else "indexdir/sentiment"
+    index_dir = "indexdir/base" if args.vSentiment == "false" else "indexdir/sentiment"
     if not os.path.exists("indexdir"):
         os.mkdir("indexdir")
     with console.status("[bold green]Creating index...") as status:
