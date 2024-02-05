@@ -22,3 +22,10 @@ class GameData(object):
             self.recommended_requirements = game_data['recommended_requirements']
         else:
             self.recommended_requirements = 'Not provided'
+
+
+class ReviewData:
+    def __init__(self, review_data):
+        self.app_id = review_data['app_id']
+        self.review_text = review_data['review_text']
+        self.review_score = review_data['review_score']
