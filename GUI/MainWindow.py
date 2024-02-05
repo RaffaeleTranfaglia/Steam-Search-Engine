@@ -320,7 +320,7 @@ class Ui_MainWindow(object):
         self.ComboFieldsBox.addItem("Platforms")
         self.ComboFieldsBox.model().item(4, 0).setCheckState(QtCore.Qt.Unchecked)
         self.ComboFieldsBox.addItem("Categories,Genres,Tags")
-        self.ComboFieldsBox.model().item(5, 0).setCheckState(QtCore.Qt.Unchecked)
+        self.ComboFieldsBox.model().item(5, 0).setCheckState(QtCore.Qt.Checked)
         self.ComboFieldsBox.setFont(data_font)
         self.horizontalLayout_2.addWidget(self.ComboFieldsBox)
 
@@ -390,10 +390,11 @@ class Ui_MainWindow(object):
 
 
     def updateGameView(self, game):
-        color = "#7393B3"
-        self.TitleLabel.setText(game.name)
-        self.AppidLabel.setText('<font color=' + color + '><b>APPID</b></font>: ' + game.app_id)
-        self.DescriptionLabel.setText(game.description)
+        colorLabels = "#7393B3"
+        colorFields = "#D3D3D3"
+        self.TitleLabel.setText('<font color=' + colorFields + '>' + game.name + '</font>')
+        self.AppidLabel.setText('<font color=' + colorLabels + '><b>APPID</b></font>: ' + '<font color=' + colorFields + '>' + game.app_id + '</font>')
+        self.DescriptionLabel.setText('<font color=' + colorFields + '>' + game.description + '</font>')
 
         if game.positive_ratings + game.negative_ratings > 0:
             self.RatingsLine.show()
@@ -401,17 +402,21 @@ class Ui_MainWindow(object):
         else:
             self.RatingsLine.hide()
 
-        self.DeveloperLabel.setText('<font color=' + color + '><b>Developer:</b></font> ' + game.developer)
-        self.PublisherLabel.setText('<font color=' + color + '><b>Publisher:</b></font> ' + game.publisher)
-        self.PlatformsLabel.setText('<font color=' + color + '><b>Platforms:</b></font> ' + game.platforms)
-        self.ReleaseLable.setText('<font color=' + color + '><b>Release Date:</b></font> ' + game.release_date)
-        self.PriceLabel.setText('<font color=' + color + '><b>Price:</b></font> ' + str(game.price) + '$')
-        self.GenresLabel.setText('<font color=' + color + '><b>Genres:</b></font> ' + game.genres)
-        self.TagsLabel.setText('<font color=' + color + '><b>Tags:</b></font> ' + game.tags)
-        self.CategoriesLabel.setText('<font color=' + color + '><b>Categories:</b></font> ' + game.categories)
-        self.MinReqsLabel.setText('<font color=' + color + '><b>Minimum Requirements:</b></font> ' + game.minimum_requirements)
-        self.RecReqsLabel.setText('<font color=' + color + '><b>Recommended Requirements:</b></font> ' + game.recommended_requirements)
-        self.ReviewsLabel.setText('<font color=' + color + '><b>Reviews:</b></font> ')
+        self.DeveloperLabel.setText('<font color=' + colorLabels + '><b>Developer:</b></font> ' + '<font color=' + colorFields + '>' + game.developer + '</font>')
+        self.PublisherLabel.setText('<font color=' + colorLabels + '><b>Publisher:</b></font> ' + '<font color=' + colorFields + '>' + game.publisher + '</font>')
+        self.PlatformsLabel.setText('<font color=' + colorLabels + '><b>Platforms:</b></font> ' + '<font color=' + colorFields + '>' + game.platforms + '</font>')
+        self.ReleaseLable.setText('<font color=' + colorLabels + '><b>Release Date:</b></font> ' + '<font color=' + colorFields + '>' + game.release_date + '</font>')
+        self.PriceLabel.setText('<font color=' + colorLabels + '><b>Price:</b></font> ' + '<font color=' + colorFields + '>' + str(game.price) + '$' + '</font>')
+        self.GenresLabel.setText('<font color=' + colorLabels + '><b>Genres:</b></font> ' + '<font color=' + colorFields + '>' + game.genres + '</font>')
+        self.TagsLabel.setText('<font color=' + colorLabels + '><b>Tags:</b></font> ' + '<font color=' + colorFields + '>' + game.tags + '</font>')
+        self.CategoriesLabel.setText('<font color=' + colorLabels + '><b>Categories:</b></font> ' + '<font color=' + colorFields + '>' + game.categories + '</font>')
+        self.MinReqsLabel.setText('<font color=' + colorLabels + '><b>Minimum Requirements:</b></font> ' + '<font color=' + colorFields + '>' + game.minimum_requirements + '</font>')
+        self.RecReqsLabel.setText('<font color=' + colorLabels + '><b>Recommended Requirements:</b></font> ' + '<font color=' + colorFields + '>' + game.recommended_requirements + '</font>')
+        if len(self.reviews) > 0:
+            self.ReviewsLabel.show()
+            self.ReviewsLabel.setText('<font color=' + colorLabels + '><b>Reviews:</b></font> ')
+        else:
+            self.ReviewsLabel.hide()
         self.Image.setText(' ')
         self.ReviewsViewModel.removeRows(0, self.ReviewsViewModel.rowCount())
 
@@ -421,7 +426,7 @@ class Ui_MainWindow(object):
                 item = QtGui.QStandardItem(r.review_text)
                 bgcol = QColor(80, 200, 120, 64) if r.review_score == "1" else QColor(255, 87, 51, 64)
                 item.setData(bgcol, Qt.UserRole)
-                item.setForeground(QColor(178, 190, 181))
+                item.setForeground(QColor(211, 211, 211))
                 self.ReviewsViewModel.appendRow(item)
         else:
             self.ReviewsView.hide()
