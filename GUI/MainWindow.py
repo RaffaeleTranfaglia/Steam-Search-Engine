@@ -10,7 +10,7 @@
 import sys
 import qdarktheme
 from PyQt5 import QtCore, QtGui, QtWidgets
-from GUI.GameData import GameData
+from GUI.GameData import GameData, ReviewData
 from urllib import request
 from PyQt5.QtWidgets import QWidget, QSizePolicy, QAbstractItemView, QStyledItemDelegate
 from PyQt5.QtGui import QPainter, QColor
