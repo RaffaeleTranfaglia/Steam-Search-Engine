@@ -10,10 +10,10 @@
 import sys
 import qdarktheme
 from PyQt5 import QtCore, QtGui, QtWidgets
-from GUI.GameData import GameData
+from GUI.GameData import GameData, ReviewData
 from urllib import request
-from PyQt5.QtWidgets import QWidget, QSizePolicy
-from PyQt5.QtGui import QPainter
+from PyQt5.QtWidgets import QWidget, QSizePolicy, QAbstractItemView, QStyledItemDelegate
+from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtCore import Qt, QSize
 
 # create a positive/negative bar
@@ -49,6 +49,7 @@ class LineWidget(QWidget):
         # Draw the red part
         painter.fillRect(split_position, 0, width - split_position, height, Qt.red)
 
+
 # create a combobox composed by check items
 class CheckableComboBox(QtWidgets.QComboBox):
     def __init__(self):
@@ -70,11 +71,30 @@ class CheckableComboBox(QtWidgets.QComboBox):
                 res.append(i)
         return res
 
+
+class ReviewsItemDelegate(QStyledItemDelegate):
+    def paint(self, painter, option, index):
+        role_color = index.data(Qt.UserRole)  # Get custom role data
+
+        if role_color.isValid():
+            painter.fillRect(option.rect, QColor(role_color))
+
+        # Make text italic
+        #option.font.setItalic(True)
+
+        # Add borders
+        painter.setPen(QColor(Qt.black))
+        painter.drawRect(option.rect)
+
+        super().paint(painter, option, index)
+
+
 # main window
 class Ui_MainWindow(object):
     def __init__(self, searcher):
         self.searcher = searcher
         self.games = []
+        self.reviews = []
         self.fieldsDict = {0: 'name', 1: 'description', 2: 'developer', 3: 'publisher', 4: 'platforms', 5: 'cgt'}
 
     def setupUi(self, MainWindow):
@@ -99,6 +119,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout = QtWidgets.QHBoxLayout()
         self.horizontalLayout.setSizeConstraint(QtWidgets.QLayout.SetDefaultConstraint)
         self.horizontalLayout.setObjectName("horizontalLayout")
+
         self.ResultList = QtWidgets.QListView(self.centralwidget)
         self.ResultList.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAsNeeded)
         self.ResultList.setObjectName("ResultList")
@@ -223,10 +244,17 @@ class Ui_MainWindow(object):
         self.RecReqsLabel.setWordWrap(True)
         self.RecReqsLabel.setFont(data_font)
         self.verticalLayout.addWidget(self.RecReqsLabel)
+
         self.ReviewsView = QtWidgets.QListView(self.scrollAreaWidgetContents)
         self.ReviewsView.setObjectName("ReviewsView")
+        self.ReviewsView.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.ReviewsViewModel = QtGui.QStandardItemModel()
+        self.ReviewsView.setModel(self.ReviewsViewModel)
         self.ReviewsView.setFont(data_font)
+        self.ReviewsView.setWordWrap(True)
+        self.ReviewsView.setItemDelegate(ReviewsItemDelegate())
         self.verticalLayout.addWidget(self.ReviewsView)
+
         self.verticalLayout.setStretch(2, 1)
         self.verticalLayout.setStretch(3, 1)
         self.verticalLayout.setStretch(4, 1)
@@ -321,7 +349,12 @@ class Ui_MainWindow(object):
 
     def handleResultSelectionChange(self):
         if len(self.ResultList.selectedIndexes()) > 0:
-            self.updateGameView(self.games[self.ResultList.selectedIndexes()[0].row()])
+            game = self.games[self.ResultList.selectedIndexes()[0].row()]
+            self.reviews = []
+            for r in self.searcher.getGameReviews(game.app_id):
+                self.reviews.append(ReviewData(r))
+
+            self.updateGameView(game)
 
     def clearGameView(self):
         self.TitleLabel.setText(' ')
@@ -338,6 +371,7 @@ class Ui_MainWindow(object):
         self.CategoriesLabel.setText(' ')
         self.MinReqsLabel.setText(' ')
         self.RecReqsLabel.setText(' ')
+        self.ReviewsView.hide()
 
 
     def updateGameView(self, game):
@@ -362,7 +396,22 @@ class Ui_MainWindow(object):
         self.MinReqsLabel.setText('<font color=' + color + '><b>MINIMUM REQUIREMENTS:</b></font> ' + game.minimum_requirements)
         self.RecReqsLabel.setText('<font color=' + color + '><b>RECOMMENDED REQUIREMENTS:</b></font> ' + game.recommended_requirements)
         self.Image.setText(' ')
+        self.ReviewsViewModel.removeRows(0, self.ReviewsViewModel.rowCount())
+
+
+        if len(self.reviews) > 0:
+            self.ReviewsView.show()
+            for r in self.reviews:
+                item = QtGui.QStandardItem(r.review_text)
+                bgcol = QColor(80, 200, 120, 64) if r.review_score == "1" else QColor(255, 87, 51, 64)
+                item.setData(bgcol, Qt.UserRole)
+                item.setForeground(QColor(178, 190, 181))
+                self.ReviewsViewModel.appendRow(item)
+        else:
+            self.ReviewsView.hide()
+
         QtCore.QCoreApplication.processEvents()
+
         try:
             img = QtGui.QPixmap()
             img.loadFromData(request.urlopen(game.header_img).read())

@@ -83,7 +83,11 @@ class GameSearcher:
             result = searcher.search(query, limit=None)
             for g in result:
                 gsentv = [g[sent_prefix + 'anger'], g[sent_prefix + 'disgust'], g[sent_prefix + 'fear'], g[sent_prefix + 'joy'], g[sent_prefix + 'neutral'], g[sent_prefix + 'sadness'], g[sent_prefix + 'surprise']]
-                result_order.append((g, cosineSimilarity(qsentv, gsentv)))
+
+                revs = g["positive_ratings"] + g["negative_ratings"]
+
+                k = 550
+                result_order.append((g, cosineSimilarity(qsentv, gsentv) * math.exp(-k/revs)))
 
             result_order.sort(key=lambda r: r[1], reverse=True)
             result: List[Hit] = []
