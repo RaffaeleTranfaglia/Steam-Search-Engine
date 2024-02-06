@@ -28,7 +28,7 @@ class GameDocument:
             game_data = json.load(game_file)
             self.app_id = str(game_data["app_id"])
             self.name = game_data["name"]
-            self.cgt = ';'.join(game_data["categories"]) + ';'.join(game_data["genres"]) + ';'.join(game_data["tags"])
+            self.cgt = ';'.join(game_data["categories"]) + ";" + ';'.join(game_data["genres"]) + ";" + ';'.join(game_data["tags"])
             self.release_date = game_data["release_date"]
             self.developer = ';'.join(game_data["developer"])
             self.publisher = ';'.join(game_data["publisher"])
@@ -196,7 +196,7 @@ class Indexer:
                         platforms=TEXT(stored=True, analyzer=customAnalyzer),
                         categories=STORED,
                         genres=STORED, tags=STORED,
-                        cgt=TEXT(analyzer=customAnalyzer),
+                        cgt=TEXT(stored=True, analyzer=customAnalyzer),
                         positive_ratings=STORED, negative_ratings=STORED,
                         price=NUMERIC(stored=True),
                         description=TEXT(stored=True, analyzer=customAnalyzer),
