@@ -1,11 +1,47 @@
 [
     {
+        "UIN" : "Simulator of real farms",
+        "query" : "farm simulator",
+        "fields" : ["name", "description"],
+        "relevant_documents" :
+        [
+            236790, 259890, 273790, 92900, 313160, 447020, 90200, 787860, 612030, 220260
+        ]
+    },
+    {
+        "UIN" : "Planes flight simulator in virtual reality",
+        "query" : "flight simulator vr",
+        "fields" : ["name", "description", "cgt"],
+        "relevant_documents" :
+        [
+            314160, 269950, 434030, 223750, 1001240, 347170, 862390
+        ]
+    },
+    {
+        "UIN" : "Call of Duty games set in a World War",
+        "query" : "call of duty world war",
+        "fields" : ["name", "description"],
+        "relevant_documents" :
+        [
+            476600, 10090, 2630, 2620
+        ]        
+    },
+    {
         "UIN" : "Scariest games by Capcom",
         "query" : "Capcom \\sentiment[scary]",
         "fields" : ["developer"],
         "relevant_documents" : 
         [
             209100, 21690, 221040, 222480, 254700, 304240, 287290, 339340
+        ]
+    },
+    {
+        "UIN" : "Best first person shooters multiplayer on MacOS",
+        "query" : "fps multiplayer mac \\sentiment[very good]",
+        "fields" : ["platforms", "cgt"],
+        "relevant_documents" :
+        [
+            10, 240, 80, 10180, 2630, 440, 550, 91600
         ]
     }
 ]
