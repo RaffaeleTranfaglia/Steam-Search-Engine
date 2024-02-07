@@ -27,6 +27,24 @@
         ]        
     },
     {
+        "UIN" : "Games from the Worms series", 
+        "query" : "worms",
+        "fields" : ["name"],
+        "relevant_documents" : 
+        [
+            70660, 70650, 70640, 70620, 70600, 327030, 270910, 233840, 22600, 217200, 200170
+        ]
+    },
+    {
+        "UIN" : "Multi-player games form Valve where it is possible to play in team",
+        "query" : "valve team shooter multiplayer",
+        "fields" : ["description", "developer", "publisher", "cgt"],
+        "relevant_documents" : 
+        [
+            10, 20, 240, 30, 300, 320, 360, 40, 440, 500,  500, 60, 80, 730
+        ]    
+    },
+    {
         "UIN" : "Scariest games by Capcom",
         "query" : "Capcom \\sentiment[scary]",
         "fields" : ["developer"],
@@ -42,6 +60,24 @@
         "relevant_documents" :
         [
             10, 240, 80, 10180, 2630, 440, 550, 91600
+        ]
+    },
+    {
+        "UIN" : "Useful games to learn programming basys",
+        "query" : "programming \\sentiment[useful]",
+        "fields" : ["name", "description", "cgt"],
+        "relevant_documents" :
+        [
+            375820, 370360, 504210, 400110
+        ]
+    },
+    {
+        "UIN" : "Worst games in Assassin's Creed saga",
+        "query" : "assassin creed \\sentiment[very bad]",
+        "fields" : ["name"],
+        "relevant_documents" : 
+        [
+            260210, 368500, 289650, 277590, 359600, 354380
         ]
     }
 ]
