@@ -29,7 +29,7 @@ class GameSearcher:
             self.sentiment_version = sentiment_version
             self.classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=None)
 
-    def search(self, queryText: str, fields, limit=10):
+    def search(self, queryText: str, fields, limit=20):
         searcher = self.main_idx.searcher()
         parser = MultifieldParser(fields, self.main_idx.schema)
 
