@@ -14,7 +14,7 @@ class CustomWhooshAnalyzer(Analyzer):
         words = TokenAnalyzer.preprocessing(text)
 
         for position, word in enumerate(words, start=start_pos):
-            yield Token(text=word, pos=position)
+            yield Token(text=word, pos=position, positions=True, chars=True, startchar=ord(word[0]), endchar=ord(word[-1]))
 
 # Class that implements all the methods to proccess a natural language text to create a list of tokens.
 class TokenAnalyzer:
