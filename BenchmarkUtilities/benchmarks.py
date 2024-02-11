@@ -9,6 +9,15 @@ class Benchmarks:
         self.queries = queries
     
     '''
+        Print the chosen query from the benchmark queries set
+    '''
+    def print_query(self, q):
+        print("UIN: " + self.queries[q]["UIN"])
+        print("Query: " + self.queries[q]["query"])
+        print("Fields: " + ", ".join(self.queries[q]["fields"]))
+        print("Relevant documents: " + ", ".join(map(str, self.queries[q]["relevant_documents"])))
+    
+    '''
         The fraction of the relevant documents (the set R) which has been retrieved.
     '''
     def recall(self, R, A):
@@ -43,8 +52,6 @@ class Benchmarks:
         pSRL = [(0, pNRL[i][1])]
         for r in range(1, 11):
             if (i+1 < len(pNRL) and r/10 > pNRL[i][0]):
-                print(r/10)
-                print(pNRL[i][0])
                 i = i + 1
             last = i - 1 if i > 0 else 0
             next = i
@@ -53,19 +60,21 @@ class Benchmarks:
     
     '''
         Compute average precision at each standard recall level across all queries examined.
+        
+        @param: a list of precision measures at standard recall levels
     '''
     def AveragePrecision(self, pSRLs):
         n = len(self.queries)
         if (n != len(pSRLs)):
             print("The number of queries examined does not correspond to the number of precisions.")
             return
-        AP = []
+        AvP = []
         for r in range(0, 11):
             sum = reduce(lambda x, y : x + y, [p[r][1] for p in pSRLs], 0)
-            AP.append((r/10, sum/n))
-        return AP
+            AvP.append((r/10, sum/n))
+        return AvP
 
-# test
+# tests
 if __name__ == "__main__":
     q = [{
         "UIN" : "Simulator of real farms",

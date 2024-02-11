@@ -1,20 +1,20 @@
 [
     {
-        "UIN" : "Simulator of real farms",
-        "query" : "farm simulator",
-        "fields" : ["name", "description"],
-        "relevant_documents" :
-        [
-            236790, 259890, 273790, 92900, 313160, 447020, 90200, 787860, 612030, 220260
-        ]
-    },
-    {
         "UIN" : "Planes flight simulator in virtual reality",
         "query" : "flight simulator vr",
         "fields" : ["name", "description", "cgt"],
         "relevant_documents" :
         [
             314160, 269950, 434030, 223750, 1001240, 347170, 862390
+        ]
+    },
+    {
+        "UIN" : "Farm work simulator",
+        "query" : "farm simulator",
+        "fields" : ["name", "description"],
+        "relevant_documents" :
+        [
+            236790, 259890, 273790, 92900, 313160, 447020, 90200, 787860, 612030, 220260
         ]
     },
     {
