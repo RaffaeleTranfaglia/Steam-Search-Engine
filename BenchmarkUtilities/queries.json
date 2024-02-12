@@ -18,15 +18,6 @@
         ]
     },
     {
-        "UIN" : "Call of Duty games set in a World War",
-        "query" : "call of duty world war",
-        "fields" : ["name", "description"],
-        "relevant_documents" :
-        [
-            476600, 10090, 2630, 2620
-        ]        
-    },
-    {
         "UIN" : "Games from the Worms series", 
         "query" : "worms",
         "fields" : ["name"],
@@ -63,7 +54,16 @@
         ]
     },
     {
-        "UIN" : "Useful games to learn programming basys",
+        "UIN" : "Boring and frustrating games made by (developed and/or published by) Activision",
+        "query" : "activision \\sentiment[boring and frustrating]",
+        "fields" : ["developer", "publisher"],
+        "relevant_documents" : 
+        [
+            292730, 209650, 115320, 311210, 10100, 209160, 10140, 517810, 494740, 10120, 497360, 10150
+        ]
+    },
+    {
+        "UIN" : "Useful games to learn programming basics",
         "query" : "programming \\sentiment[useful]",
         "fields" : ["name", "description", "cgt"],
         "relevant_documents" :

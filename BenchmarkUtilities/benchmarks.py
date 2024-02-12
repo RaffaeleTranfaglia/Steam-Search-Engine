@@ -61,7 +61,7 @@ class Benchmarks:
     '''
         Compute average precision at each standard recall level across all queries examined.
         
-        @param: a list of precision measures at standard recall levels
+        @param pSRLs: a list of precision measures at standard recall levels
     '''
     def AveragePrecision(self, pSRLs):
         n = len(self.queries)
@@ -73,8 +73,75 @@ class Benchmarks:
             sum = reduce(lambda x, y : x + y, [p[r][1] for p in pSRLs], 0)
             AvP.append((r/10, sum/n))
         return AvP
+    
+    '''
+        Average of the precisions obtained after each new relevant document is observed.
+        
+        @param qpSRL: list of precisions at standard recalls level for the examined query
+    '''
+    def InterAvgPrec(self, qpSRL):
+        sum = reduce(lambda x, y: x + y, [qpSRL[i][1] for i in range(len(qpSRL))], 0)
+        qIntAvP = sum / len(qpSRL)
+        return qIntAvP
+    
+    '''
+        Mean Average Precision: average of the average precisions across all the queries in benchmark queries set.
+        
+        @param IntAvPs: list of average precisions
+    '''
+    def MAP(self, IntAvPs):
+        sum = reduce(lambda x, y: x + y, [p for p in IntAvPs], 0)
+        return sum / len(IntAvPs)
+    
+    '''
+        Precision at position R in the ranking of results for a query that has R relevant documents.
+    
+        @param R: list of relevant documents
+        @param A: list of answers to the examined query
+    '''
+    def RPrecision(self, R, A):
+        r = len(R)
+        return self.precision(R, A[:r])
+        
+    '''
+        List of subtractions between RPrecision of version 1 and version 2 for each query in the benchmark 
+        queries set.
+    
+        @param Av1: list of lists of answers to each query provided by the version 1
+        @param Av1: list of lists of answers to each query provided by the version 1
+    '''
+    def RPrecisions(self, Av1, Av2):
+        RPs = []
+        for q in range(len(self.queries)):
+            RPs.append(self.RPrecision(self.queries[q]["relevant_documents"], Av1[q]) - 
+                       self.RPrecision(self.queries[q]["relevant_documents"], Av2[q]))
+        return RPs
+    
+    '''
+        Harmonic Mean.
+        
+        @param R: list of relevant documents
+        @param A: list of answers to the examined query
+    '''
+    def FMeasure(self, R, A):
+        r = self.recall(R, A)
+        p = self.precision(R, A)
+        return (2*r*p)/(p+r)
+    
+    '''
+        If b > 1 emphasizes precision, if b < 1 emphasizes recall, otherwise (b = 1) is equivalent to 
+        the complement of harmonic mean.
+    
+        @param R: list of relevant documents
+        @param A: list of answers to the examined query
+        @param b
+    '''
+    def EMeasure(self, R, A, b):
+        r = self.recall(R, A)
+        p = self.precision(R, A)
+        return 1-((1+b**2)/((b**2)/r + 1/p))
 
-# tests
+# features tests
 if __name__ == "__main__":
     q = [{
         "UIN" : "Simulator of real farms",
