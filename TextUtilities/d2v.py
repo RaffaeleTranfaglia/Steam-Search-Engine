@@ -11,7 +11,7 @@ class D2V:
         pass
 
     @staticmethod
-    def load_model(ds_folder_path, models_folder_path):
+    def load_model(ds_folder_path, models_folder_path, worker_threads=4):
         if os.path.exists(models_folder_path):
             models = {
                 "name": Doc2Vec.load(os.path.join(models_folder_path, "d2v_name.model")),
@@ -23,42 +23,42 @@ class D2V:
             }
             games = os.listdir(ds_folder_path)
             games.sort()
-            i_to_appid = {}
+            i_to_fp = {}
             for i, g in enumerate(games):
                 if not g.endswith(".json"):
                     continue
-                i_to_appid[i] = int(g[:-5])
-            return models, i_to_appid
+                i_to_fp[i] = os.path.join(ds_folder_path, g)
+            return models, i_to_fp
 
         os.mkdir(models_folder_path)
-        models, i_to_appid = D2V.train(ds_folder_path)
+        models, i_to_fp = D2V.train(ds_folder_path, worker_threads)
         for key in models:
             models[key].save(os.path.join(models_folder_path, "d2v_" + key + ".model"))
-        return models, i_to_appid
+        return models, i_to_fp
 
     @staticmethod
-    def train(ds_folder_path):
+    def train(ds_folder_path, worker_threads):
         start_time = time.time()
         vector_size = 50
         min_count = 1
         epochs = 300
         models = {
-            "name": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
-            "description": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
-            "developer": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
-            "publisher": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
-            "platforms": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
-            "cgt": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1),
+            "name": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "description": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "developer": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "publisher": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "platforms": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "cgt": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
         }
 
-        corpus, i_to_appid = D2V.load_corpus(ds_folder_path)
+        corpus, i_to_fp = D2V.load_corpus(ds_folder_path)
         print(f"loaded corpus at {time.time() - start_time}s")
 
         for key in models:
             D2V.build_and_train(models[key], corpus[key])
             print(f"finished building and training {key} at {time.time() - start_time}s")
 
-        return models, i_to_appid
+        return models, i_to_fp
 
 
     @staticmethod
@@ -78,7 +78,7 @@ class D2V:
             "platforms": [],
             "cgt": []
         }
-        i_to_appid = {}
+        i_to_fp = {}
         for i, f in enumerate(games):
             if not f.endswith(".json"):
                 continue
@@ -98,6 +98,6 @@ class D2V:
                 for key in corpus:
                     corpus[key].append(gensim.models.doc2vec.TaggedDocument(words=TokenAnalyzer.preprocessing(game_data[key]), tags=[i]))
 
-                i_to_appid[i] = game_data["app_id"]
-        return corpus, i_to_appid
+                i_to_fp[i] = fp
+        return corpus, i_to_fp
 
