@@ -21,9 +21,10 @@ class TokenAnalyzer:
         pass
 
     @staticmethod
-    def preprocessing(str):
+    def preprocessing(text):
+        text = text.lower()
         # tokenization
-        tokens = nltk.word_tokenize(str)
+        tokens = nltk.word_tokenize(text)
         tokens1 = []
         for t in tokens:
             tokens1.extend(t.split('/'))
@@ -72,7 +73,6 @@ class TokenAnalyzer:
                 if t[0].endswith('™') or t[0].endswith('®') or t[0].endswith('©'):
                     t = (t[0][:-1], t[1])
                 if t[0] != "":
-                    t = (t[0].lower(), t[1])
                     tokens4.append(t)
 
         wnl = nltk.WordNetLemmatizer()
