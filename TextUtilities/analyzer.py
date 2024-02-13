@@ -3,17 +3,20 @@ from nltk.corpus import stopwords, wordnet
 import string
 from whoosh.analysis import Analyzer, Token
 
+
 # Class that set whoosh tokenizer to the custom tokenizer.
 class CustomWhooshAnalyzer(Analyzer):
     def __init__(self):
         super().__init__()
-        
-    def __call__(self, text, positions=False, chars=False, keeporiginal=False, removestops=True, 
+
+    def __call__(self, text, positions=False, chars=False, keeporiginal=False, removestops=True,
                  start_pos=0, start_char=0, mode='', **kwargs):
         # Call the custom tokenizer
         words = TokenAnalyzer.preprocessing(text)
         for position, word in enumerate(words, start=start_pos):
-            yield Token(text=word, pos=position, positions=True, chars=True, startchar=ord(word[0]), endchar=ord(word[-1]))
+            yield Token(text=word, pos=position, positions=True, chars=True, startchar=ord(word[0]),
+                        endchar=ord(word[-1]))
+
 
 # Class that implements all the methods to proccess a natural language text to create a list of tokens.
 class TokenAnalyzer:
@@ -21,9 +24,10 @@ class TokenAnalyzer:
         pass
 
     @staticmethod
-    def preprocessing(str):
+    def preprocessing(text):
+        text = text.lower()
         # tokenization
-        tokens = nltk.word_tokenize(str)
+        tokens = nltk.word_tokenize(text)
         tokens1 = []
         for t in tokens:
             tokens1.extend(t.split('/'))
@@ -72,7 +76,6 @@ class TokenAnalyzer:
                 if t[0].endswith('™') or t[0].endswith('®') or t[0].endswith('©'):
                     t = (t[0][:-1], t[1])
                 if t[0] != "":
-                    t = (t[0].lower(), t[1])
                     tokens4.append(t)
 
         wnl = nltk.WordNetLemmatizer()
