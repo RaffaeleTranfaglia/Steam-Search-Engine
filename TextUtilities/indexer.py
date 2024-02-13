@@ -139,7 +139,7 @@ class GameDocument:
                 self.inav_neutral /= inav_weights_sum
                 self.inav_sadness /= inav_weights_sum
                 self.inav_surprise /= inav_weights_sum
-        print(f"finished loading {self.app_id}")
+        print(f"finished loading Dataset/{self.app_id}.json")
 
     def printSentiments(self):
         print(f"av_anger : {self.av_anger}")

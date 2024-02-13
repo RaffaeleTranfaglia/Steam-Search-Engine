@@ -79,5 +79,23 @@
         [
             260210, 368500, 289650, 277590, 359600, 354380
         ]
+    },
+    {
+        "UIN" : "Competitive games developed by Capcom or Id Software",
+        "query" : "capcom OR (id software) \\sentiment[competitive]",
+        "fields" : ["developer"],
+        "relevant_documents" : 
+        [
+            2210, 2350, 2200, 2310, 2320, 282440, 45760, 209120, 310950, 21660
+        ]
+    },
+    {
+        "UIN" : "Best first person shooter game developed by Valve",
+        "query" : "fps valve \\sentiment[very good]",
+        "fields" : ["developer", "cgt"],
+        "relevant_documents" :
+        [
+            280, 340, 360, 30, 80, 320, 60, 10, 20, 40, 70, 240, 220, 380, 420, 300, 500, 550, 440
+        ]
     }
 ]

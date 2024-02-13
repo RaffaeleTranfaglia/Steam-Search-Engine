@@ -1,5 +1,4 @@
 import math
-
 from whoosh.qparser import MultifieldParser, QueryParser
 from transformers import pipeline
 import re
