@@ -1,0 +1,101 @@
+[
+    {
+        "UIN" : "Planes flight simulator in virtual reality",
+        "query" : "flight simulator vr",
+        "fields" : ["name", "description", "cgt"],
+        "relevant_documents" :
+        [
+            314160, 269950, 434030, 223750, 1001240, 347170, 862390
+        ]
+    },
+    {
+        "UIN" : "Farm work simulator",
+        "query" : "farm simulator",
+        "fields" : ["name", "description"],
+        "relevant_documents" :
+        [
+            236790, 259890, 273790, 92900, 313160, 447020, 90200, 787860, 612030, 220260
+        ]
+    },
+    {
+        "UIN" : "Games from the Worms series", 
+        "query" : "worms",
+        "fields" : ["name"],
+        "relevant_documents" : 
+        [
+            70660, 70650, 70640, 70620, 70600, 327030, 270910, 233840, 22600, 217200, 200170
+        ]
+    },
+    {
+        "UIN" : "Multi-player games form Valve where it is possible to play in team",
+        "query" : "valve team shooter multiplayer",
+        "fields" : ["description", "developer", "publisher", "cgt"],
+        "relevant_documents" : 
+        [
+            10, 20, 240, 30, 300, 320, 360, 40, 440, 500,  500, 60, 80, 730
+        ]    
+    },
+    {
+        "UIN" : "Scariest games by Capcom",
+        "query" : "Capcom \\sentiment[scary]",
+        "fields" : ["developer"],
+        "relevant_documents" : 
+        [
+            209100, 21690, 221040, 222480, 254700, 304240, 287290, 339340
+        ]
+    },
+    {
+        "UIN" : "Best first person shooters multiplayer on MacOS",
+        "query" : "fps multiplayer mac \\sentiment[very good]",
+        "fields" : ["platforms", "cgt"],
+        "relevant_documents" :
+        [
+            10, 240, 80, 10180, 2630, 440, 550, 91600
+        ]
+    },
+    {
+        "UIN" : "Boring and frustrating games made by (developed and/or published by) Activision",
+        "query" : "activision \\sentiment[boring and frustrating]",
+        "fields" : ["developer", "publisher"],
+        "relevant_documents" : 
+        [
+            292730, 209650, 115320, 311210, 10100, 209160, 10140, 517810, 494740, 10120, 497360, 10150
+        ]
+    },
+    {
+        "UIN" : "Useful games to learn programming basics",
+        "query" : "programming \\sentiment[useful]",
+        "fields" : ["name", "description", "cgt"],
+        "relevant_documents" :
+        [
+            375820, 370360, 504210, 400110
+        ]
+    },
+    {
+        "UIN" : "Worst games in Assassin's Creed saga",
+        "query" : "assassin creed \\sentiment[very bad]",
+        "fields" : ["name"],
+        "relevant_documents" : 
+        [
+            260210, 368500, 289650, 277590, 359600, 354380
+        ]
+    },
+    {
+        "UIN" : "Competitive games developed by Capcom or Id Software",
+        "query" : "capcom OR (id software) \\sentiment[competitive]",
+        "fields" : ["developer"],
+        "relevant_documents" : 
+        [
+            2210, 2350, 2200, 2310, 2320, 282440, 45760, 209120, 310950, 21660
+        ]
+    },
+    {
+        "UIN" : "Best first person shooter game developed by Valve",
+        "query" : "fps valve \\sentiment[very good]",
+        "fields" : ["developer", "cgt"],
+        "relevant_documents" :
+        [
+            280, 340, 360, 30, 80, 320, 60, 10, 20, 40, 70, 240, 220, 380, 420, 300, 500, 550, 440
+        ]
+    }
+]

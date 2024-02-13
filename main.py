@@ -4,7 +4,13 @@ import os
 import argparse
 from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
+import nltk
 
+def downloadNLTKCorpus():
+    nltk.download("punkt")
+    nltk.download("stopwords")
+    nltk.download("wordnet")
+    nltk.download("averaged_perceptron_tagger")
 
 def main():
     # defining the parameters of the program
@@ -48,4 +54,5 @@ def main():
 
 
 if __name__ == "__main__":
+    downloadNLTKCorpus()
     main()
