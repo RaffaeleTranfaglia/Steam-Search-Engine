@@ -39,16 +39,17 @@ class D2V:
     @staticmethod
     def train(ds_folder_path, worker_threads):
         start_time = time.time()
-        vector_size = 50
-        min_count = 1
-        epochs = 300
+        vector_size = 55
+        min_count = 2
+        epochs = 1000
+        window = 2
         models = {
-            "name": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
-            "description": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
-            "developer": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
-            "publisher": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
-            "platforms": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
-            "cgt": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads),
+            "name": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
+            "description": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
+            "developer": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
+            "publisher": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
+            "platforms": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
+            "cgt": Doc2Vec(vector_size=vector_size, min_count=min_count, epochs=epochs, seed=1, workers=worker_threads, window=window),
         }
 
         corpus, i_to_fp = D2V.load_corpus(ds_folder_path)

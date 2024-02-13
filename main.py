@@ -4,6 +4,7 @@ import os
 import argparse
 from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
+from TextUtilities.d2v import D2V
 
 
 def main():
@@ -48,4 +49,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    models, i_to_fp = D2V.load_model("Dataset", "indexdir/d2v", 1)
+    searcher = GameSearcher(None, None, False, None, True, models, i_to_fp, "Dataset")
+    GUI.MainWindow.launchGui(searcher)
+    #main()
