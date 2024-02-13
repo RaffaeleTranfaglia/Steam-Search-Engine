@@ -3,6 +3,13 @@ import os
 import argparse
 from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
+import nltk
+
+def downloadNLTKCorpus():
+    nltk.download("punkt")
+    nltk.download("stopwords")
+    nltk.download("wordnet")
+    nltk.download("averaged_perceptron_tagger")
 
 def setup():
     # defining the parameters of the program
@@ -30,4 +37,5 @@ def setup():
     console.log(f"All indexes are complete")
 
 if __name__ == "__main__":
+    downloadNLTKCorpus()
     setup()
