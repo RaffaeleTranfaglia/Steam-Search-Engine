@@ -24,6 +24,10 @@ def main():
                         default=4,
                         help="Number of threads used to create the index. Default number = 4.",
                         metavar=4)
+    parser.add_argument("--d2v",
+                        dest="d2v",
+                        action='store_true',
+                        help="Switches to Doc2Vec version if present.")
 
     console = Console()
     # arguments parsing
@@ -36,21 +40,30 @@ def main():
         console.log(f"[red] {args.vSentiment} is not a valid value for \"-s\" \"--sentiment\" option")
         return
 
+    if (args.vSentiment != "false" and args.d2v):
+        console.log("[red] It is not allowed to have both sentiment analysis and Doc2Vec enabled at the same time")
+        return
+
     index_dir = "indexdir/base" if args.vSentiment == "false" else "indexdir/sentiment"
     if not os.path.exists("indexdir"):
         os.mkdir("indexdir")
-    with console.status("[bold green]Creating index...") as status:
-        main_idx, reviews_idx = Indexer.openIndex("Dataset", index_dir, console,
-                                                  True if args.vSentiment != "false" else False,
-                                                  args.nThreads)
-    searcher = GameSearcher(main_idx, reviews_idx, True if args.vSentiment != "false" else False, args.vSentiment)
+
+    main_idx = None
+    reviews_idx = None
+    d2v_models = None
+    d2v_i_to_fp = None
+    if not args.d2v:
+        with console.status("[bold green]Creating index...") as status:
+            main_idx, reviews_idx = Indexer.openIndex("Dataset", index_dir, console,
+                                                    True if args.vSentiment != "false" else False,
+                                                    args.nThreads)
+    else:
+        d2v_models, d2v_i_to_fp = D2V.load_model("Dataset", "indexdir/d2v", args.nThreads)
+    searcher = GameSearcher(main_idx, reviews_idx, True if args.vSentiment != "false" else False, args.vSentiment, args.d2v, d2v_models, d2v_i_to_fp, "Dataset")
     GUI.MainWindow.launchGui(searcher)
 
 '''
     Main program
 '''
 if __name__ == "__main__":
-    models, i_to_fp = D2V.load_model("Dataset", "indexdir/d2v", 1)
-    searcher = GameSearcher(None, None, False, None, True, models, i_to_fp, "Dataset")
-    GUI.MainWindow.launchGui(searcher)
-    #main()
+    main()
