@@ -76,11 +76,15 @@ Widgets usage:
 ![gui3](/footage/gui3.png)
 
 ## Benchmarks
-The `Benchmarks.ipynb` notebook shows many the performance measures of each version of the project tested on a benchmark queries set file defined in `BenchmarkUtilities` package.  
+The `Benchmarks.ipynb` notebook shows many performance measures of each version of the project. Every benchmark is the result of testing a version on a benchmark queries set, defined as a json file in `BenchmarkUtilities` package.  
 Below are two measures extracted from the notebook.  
 ### Average Precision
 Average precision at each standard recall level across all queries of the benchmark queries set.  
-Evaluates overall system performance on a query corpus.
+Evaluates overall system performance on a query corpus.  
+![average_precision](/footage/average_precision.png)
+### Mean Average Precision (MAP)
+The average of the average precisions across multiple queries.  
+![map](/footage/map.png)
 
 ## Dataset
 
