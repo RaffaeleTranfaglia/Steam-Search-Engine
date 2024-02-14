@@ -1,5 +1,5 @@
 # Steam-Search-Engine
-Search engine based on Steam collection's games.
+Search engine based on Steam's collection of games.
 
 ## Installation
 It is advised to download the project in a virtual environment.
@@ -53,7 +53,7 @@ Query languages supported by all the search engine versions:
 
 Query language for sentiment queries:  
 A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
-  - e.g. *doom \\sentiment\[scary\]*
+  - e.g. *doom \\sentiment\[scary\]*  
 Every non sentiment version will ignore the sentiment segment of the query.
 
 ### GUI
