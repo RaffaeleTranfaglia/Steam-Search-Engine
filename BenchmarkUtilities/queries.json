@@ -63,12 +63,12 @@
         ]
     },
     {
-        "UIN" : "Useful games to learn programming basics",
-        "query" : "programming \\sentiment[useful]",
-        "fields" : ["name", "description", "cgt"],
+        "UIN" : "Good and realistic parkour games",
+        "query" : "parkour \\sentiment[very good],",
+        "fields" : ["cgt", "description"],
         "relevant_documents" :
         [
-            375820, 370360, 504210, 400110
+            278360, 17410, 361630, 262390, 300340, 110400, 239140
         ]
     },
     {

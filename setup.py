@@ -4,7 +4,11 @@ import argparse
 from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
 import nltk
+from transformers import pipeline
 
+'''
+    Download nltk corpora which are needed to the analyzer
+'''
 def downloadNLTKCorpus():
     nltk.download("punkt")
     nltk.download("stopwords")
@@ -28,6 +32,10 @@ def setup():
         console.log("[red] The number of threads must be in the following range: 1-10")
         return
     
+    # download ai model used for sentiment analysis
+    classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=None)
+    
+    # create indexes
     if not os.path.exists("indexdir"):
         os.mkdir("indexdir")
     with console.status("[bold green]Creating base version index...") as status:
