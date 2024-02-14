@@ -5,11 +5,21 @@ from TextUtilities.analyzer import TokenAnalyzer
 import os
 from gensim.models.doc2vec import Doc2Vec
 
-
+'''
+    Defines methods to train/load/save a Doc2Vec model
+'''
 class D2V:
     def __init__(self) -> None:
         pass
 
+    '''
+        Loads models from models_folder_path if present, else it trains them on the dataset ds_folder_path with 
+        worker_threads threads, returns the models and the dict to translate indexes to game filepaths
+        
+        @param ds_folder_path: path where the dataset is stored
+        @param models_folder_path: path where the models are/will be stored
+        @param worker_threads: number of threads used to train the models
+    '''
     @staticmethod
     def load_model(ds_folder_path, models_folder_path, worker_threads=4):
         if os.path.exists(models_folder_path):
@@ -36,6 +46,13 @@ class D2V:
             models[key].save(os.path.join(models_folder_path, "d2v_" + key + ".model"))
         return models, i_to_fp
 
+    '''
+        Trains models from dataset in ds_folder_path using worker_threads threads, returns the models 
+        and the dict to translate indexes to game filepaths
+        
+        @param ds_folder_path: path where the dataset is stored
+        @param worker_threads: number of threads used in training
+    '''
     @staticmethod
     def train(ds_folder_path, worker_threads):
         start_time = time.time()
@@ -61,12 +78,23 @@ class D2V:
 
         return models, i_to_fp
 
-
+    '''
+        Builds and trains a single model on a corpus
+        
+        @param model: model to be trained
+        @para corpus: corpus to train on
+    '''
     @staticmethod
     def build_and_train(model, corpus):
         model.build_vocab(corpus)
         model.train(corpus, total_examples=model.corpus_count, epochs=model.epochs)
 
+    '''
+        loads dataset stored in ds_folder_path and returns a corpus for each searchable field (name, description, 
+        developer, publisher, platforms, cgt) with the corresponding dict to translate index to game filepath
+        
+        @param ds_folder_path: path where the dataset is stored
+    '''
     @staticmethod
     def load_corpus(ds_folder_path):
         games = os.listdir(ds_folder_path)
