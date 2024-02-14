@@ -87,6 +87,32 @@ The average of the average precisions across multiple queries.
 ![map](/footage/map.png)
 
 ## Dataset
+The dataset used is contained in `Dataset.zip` file. It is a directory of JSON files where every file is a game.  
+Every game file is a dictionary key value, every field of the dictionary is defined below:  
+- **app_id**: identifier of steam games
+- **name**: game's title
+- **release_date**: release date of the game
+- **developer**: list of the game's developers
+- **publisher**: list of the game's publishers
+- **platforms**: list of platforms where the game is available
+- **required_age**: not used
+- **categories**: list of game's categories
+- **genres**: list of game's genres
+- **tags**: list of game's tags
+- **achievements**: not used
+- **positive_ratings**: number of positive ratings (_"Recommended"_)
+- **negative_ratings**: number of negative ratings (_"Not Recommended"_)
+- **price**: game's price
+- **description**: game's description
+- **header_img**: link to the game's header image
+- **minimum requirements**: minimum requirements to run the game
+- **recommended requirements**: recommended requirements to run the game, not always present
+- **reviews**: list of the game's reviews, each composed of:
+    - **review_text**: text of the review
+    - **review_score**: "1" if positive, else "-1"
+
+The data used to create the Dataset folder are based on Steam games and reviews, and provided from the union of the following datasets after a data cleaning process: [source1](https://www.kaggle.com/datasets/nikdavis/steam-store-games), [scource2](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).
+
 
 ## Possible Future Improvements
 - Fine tuning of the AI model used for sentiment analysis
