@@ -45,15 +45,16 @@ Query languages supported by all the search engine versions:
   - e.g. *dark souls*
 - **Phrase query**: retrieve documents with a specific sentence (ordered list of contiguos words)
   - e.g. *"dark souls"*
-- **Boolean queries**: single word queries or natural language queries connected by boolean operators (OR, AND)
+- **Boolean query**: single word queries or natural language queries connected by boolean operators (OR, AND)
   - e.g. *dark OR souls*
   - e.g. *Valve OR (Id Software)*
-- **Pattern matching queries**: queries that match text rather than word tokens
+- **Pattern matching query**: query that match text rather than word tokens
   - e.g. *dark\**
 
 Query language for sentiment queries:  
 A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
   - e.g. *doom \\sentiment\[scary\]*
+Every non sentiment version will ignore the sentiment segment of the query.
 
 ### GUI
 
