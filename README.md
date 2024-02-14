@@ -38,6 +38,17 @@ Options:
 - `-t | --threads` takes as argument the number of threads used to build indexes (default value = 4)
 
 ### Project Structure
+- **BenchmarkUtilities Package**: package that contains benchmarks evaluation utils and the list of benchmark queries
+- **GUI Package**: package that contains the GUI code
+- **indexdir directory**: directory that contains both versions of the index
+- **MainImplementation Package**: package that contains the main implementation of the searcher
+- **TextUtils Package**: package that contains text preprocessing code and the documents' indexer
+- **footage Directory**: directory that contains assets
+- **Benchmarks.ipynb file**: notebook to run benchmarks
+- **Dataset.zip file**: zip of the whole dataset
+- **main.py file**: main file of the search engine
+- **requirements.txt**: list of packages required to run the program
+- **setup.py**: script which downloads the necessary nltk corpora, downloads the RoBERTa model and creates both version of the index
 
 ### Query Languages
 Query languages supported by all the search engine versions:
@@ -61,8 +72,15 @@ The GUI (Graphical User Interface) is the front-end of the search engine.
 It will appear as soon as the main module is executed: `python3 -m main`.
 ![gui1](/footage/gui1.png)
 ![gui2](/footage/gui2.png)
+Widgets usage:
+![gui3](/footage/gui3.png)
 
 ## Benchmarks
+The `Benchmarks.ipynb` notebook shows many the performance measures of each version of the project tested on a benchmark queries set file defined in `BenchmarkUtilities` package.  
+Below are two measures extracted from the notebook.  
+### Average Precision
+Average precision at each standard recall level across all queries of the benchmark queries set.  
+Evaluates overall system performance on a query corpus.
 
 ## Dataset
 
