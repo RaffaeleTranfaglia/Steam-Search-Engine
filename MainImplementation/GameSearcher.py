@@ -62,7 +62,7 @@ class GameSearcher:
         @param fields: fields to search on
         @param limit: max number of results to the query
     '''
-    def search(self, queryText: str, fields, limit=10):
+    def search(self, queryText: str, fields, limit=20):
         if self.d2v:
             return self.searchD2V(queryText, fields, limit)
 
