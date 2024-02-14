@@ -1,7 +1,7 @@
 from TextUtilities.indexer import Indexer
+from TextUtilities.d2v import D2V
 import os
 import argparse
-from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
 import nltk
 from transformers import pipeline
@@ -43,6 +43,10 @@ def setup():
     with console.status("[bold green]Creating sentiment versions index...") as status:
         Indexer.openIndex("Dataset", "indexdir/sentiment", console, True, args.nThreads)
     console.log(f"All indexes are complete")
+    # create d2v models
+    with console.status("[bold green]Building and training D2V models...") as status:
+        D2V.load_model("Dataset", "indexdir/d2v", args.nThreads)
+    console.log(f"All models are trained and saved")
 
 if __name__ == "__main__":
     downloadNLTKCorpus()
