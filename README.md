@@ -10,15 +10,22 @@ Uncompress the dataset:
 Install dependecies:  
 `python3 -m pip install -r requirements.txt`  
 Run the setup script to create all the indexes, download nltk corpora and the AI model for sentiment analysis:  
-`pyhton3 -m setup [-n <number of threads>]`  
+`pyhton3 -m setup [-t <number of threads>]`  
 
 Observations: 
 - AI model adopted (`j-hartmann/emotion-english-distilroberta-base`) may take several minutes to be installed
-- Indexes creation time depends on the number of threads allocated when running `setup` script, with the default value (4) it takes around 3:20 hours
-- Running the main program without having built the indexes 
+- Indexes creation time depends on the number of threads allocated when running `setup` script, with the default value (4) it takes around 3 and a half hours
+- If the main program is executed without having previously create indexes, the index corresponding to the launched version is built before execution
+
+> Due to the time took for creating indexes, is highly recommended to download the pre-created indexes provided by the release of the project
 
 
 ## Usage
-Run the application:
-`python3 -m main`
-There
+Run the search engine:
+`python3 -m main [-s <sentiment version> -t <number of threads>]`
+Options:
+- `-s | --sentiment` takes as argument the chosen version of sentiment analysis:
+  - `false` → Base version
+  - `av` → Sentiment analysis version, each game sentiment values is the average of its reviews sentiment values
+  - `inav` → Sentiment analysis version, each game sentiment values is the inverted neutral weighted average of its reviews sentiment values
+- `-t | --threads` takes as argument the number of threads used to build indexes (default value = 4)
