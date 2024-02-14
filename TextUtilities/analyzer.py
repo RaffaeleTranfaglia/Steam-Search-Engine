@@ -23,6 +23,11 @@ class TokenAnalyzer:
     def __init__(self) -> None:
         pass
 
+    '''
+        Preprocesses text and returns a list of tokens
+        
+        @param text: text to preprocess 
+    '''
     @staticmethod
     def preprocessing(text):
         text = text.lower()
@@ -65,7 +70,7 @@ class TokenAnalyzer:
 
         tokens3 = nltk.pos_tag(tokens3)
 
-        # remove stopwords and convert to lowercase
+        # remove stopwords
         tokens4 = []
         # Get the default list of stopwords
         stop_words = set(stopwords.words('english'))
@@ -86,6 +91,11 @@ class TokenAnalyzer:
 
         return result
 
+    '''
+        Converts a nltk POS tag to a wordnet POS tag
+        
+        @param tag: tag to be converted
+    '''
     @staticmethod
     def nltktags_to_wdntags(tag):
         if tag.startswith('J'):
