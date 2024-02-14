@@ -45,6 +45,8 @@ def main():
     searcher = GameSearcher(main_idx, reviews_idx, True if args.vSentiment != "false" else False, args.vSentiment)
     GUI.MainWindow.launchGui(searcher)
 
-
+'''
+    Main program
+'''
 if __name__ == "__main__":
     main()
