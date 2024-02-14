@@ -111,8 +111,8 @@ Every game file is a dictionary, every field of the dictionary is defined below:
     - **review_text**: text of the review
     - **review_score**: "1" if positive, else "-1"
 
-The data used to create the Dataset folder are based on Steam games and reviews, and provided from the union of the following datasets after a data cleaning process: [source1](https://www.kaggle.com/datasets/nikdavis/steam-store-games), [scource2](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).
-
+The data used to create the Dataset folder are based on Steam games and reviews, and provided from the union of the following datasets after a data cleaning process: [source1](https://www.kaggle.com/datasets/nikdavis/steam-store-games), [scource2](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).  
+It contains most of the Steam games released within May 2019, most of the games released within 2017 contain reviews. Each game has at most 150 reviews due to indexing times' reasons.
 
 ## Possible Future Improvements
 - Fine tuning of the AI model used for sentiment analysis
