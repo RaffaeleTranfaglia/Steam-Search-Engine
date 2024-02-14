@@ -15,6 +15,11 @@ class ReviewDocument:
         self.review_text = review_text
         self.review_score = review_score
 
+    '''
+        Do sentiment analysis of the review using classifier
+        
+        @param classifier: classifier which computes sentiment values 
+    '''
     def doSentimentAnalysis(self, classifier):
         return classifier(self.review_text)[0]
 
@@ -159,6 +164,13 @@ class GameDocument:
         print(f"inav_surprise : {self.inav_surprise}")
 
 
+'''
+    Loads a game document and if enabled computes sentiment values
+    
+    @param file_path: path to the game document
+    @param do_sentiment: enables sentiment analysis
+    @param classifier: classifier used to do sentiment analysis
+'''
 def createGameDocument(file_path, do_sentiment=False, classifier=None):
     return GameDocument(file_path, do_sentiment, classifier)
 
@@ -167,7 +179,16 @@ def createGameDocument(file_path, do_sentiment=False, classifier=None):
 class Indexer:
     def __init__(self) -> None:
         pass
-    
+
+    '''
+        Loads/Creates both main and reviews index that is/will be stored in folder_index, using dataset stored in 
+        folder_path and worker_threads threads
+        
+        @param folder_path: dataset folder
+        @param folder_index: index folder
+        @param do_sentiment: enables sentiment analysis
+        @param worker_threads: number of threads used to create the index
+    '''
     @staticmethod
     def openIndex(folder_path, folder_index, console, do_sentiment=False, worker_threads=4):
         if os.path.exists(folder_index):
@@ -181,8 +202,16 @@ class Indexer:
         mainix, reviewix = Indexer.indexing(folder_path, folder_index, do_sentiment, worker_threads)
         console.log(f"Index completed")
         return mainix, reviewix
-        
 
+    '''
+        Creates both main and reviews index on dataset stored in folder_path with worker_threads threads and stores them
+        in folder_index, if enabled doing sentiment analysis
+        
+        @param folder_path: dataset folder
+        @param folder_index: folder where the indexes will be stored
+        @param do_sentiment: enables sentiment analysis
+        @param worker_threads: number of threads used to load the games
+    '''
     @staticmethod
     def indexing(folder_path, folder_index, do_sentiment, worker_threads):
         print("starting indexing")
