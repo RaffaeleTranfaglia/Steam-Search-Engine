@@ -23,7 +23,7 @@ Observations:
 - AI model adopted (`j-hartmann/emotion-english-distilroberta-base`) may take several minutes to be installed;
 - Indexes creation time depends on the number of threads allocated when running `setup` script, with the default value (4) it takes around 3 and a half hours;
 - If the main program is executed without having previously create indexes, the index corresponding to the launched version is built before execution;
-- Requirements are related to a MacOs system, on other devices it may not work properly, in those case it is advised to remove the requirement which raises an error and/or download the version related to the current system.
+- Requirements are related to a MacOs system, on other devices they may not work properly, in those cases it is advised to remove the requirements which raise errors and/or download the ones related to the current system.
 
 > Due to the time took for creating indexes, is highly recommended to download the pre-created indexes provided by the release of the project
 
