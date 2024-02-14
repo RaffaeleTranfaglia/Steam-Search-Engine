@@ -267,6 +267,11 @@ class Ui_MainWindow(object):
         self.ReviewsView.setWordWrap(True)
         self.ReviewsView.setItemDelegate(ReviewsItemDelegate())
         self.verticalLayout.addWidget(self.ReviewsView)
+        
+        # keep the space between widgets the same even when the are not reviews 
+        sp_retain = self.ReviewsView.sizePolicy()
+        sp_retain.setRetainSizeWhenHidden(True)
+        self.ReviewsView.setSizePolicy(sp_retain)
 
         self.verticalLayout.setStretch(2, 1)
         self.verticalLayout.setStretch(3, 1)

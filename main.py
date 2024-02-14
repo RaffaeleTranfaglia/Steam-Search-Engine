@@ -6,7 +6,6 @@ from MainImplementation.GameSearcher import GameSearcher
 from rich.console import Console
 from TextUtilities.d2v import D2V
 
-
 def main():
     # defining the parameters of the program
     parser = argparse.ArgumentParser(description="Search engine based on Steam collection games")
@@ -47,7 +46,9 @@ def main():
     searcher = GameSearcher(main_idx, reviews_idx, True if args.vSentiment != "false" else False, args.vSentiment)
     GUI.MainWindow.launchGui(searcher)
 
-
+'''
+    Main program
+'''
 if __name__ == "__main__":
     models, i_to_fp = D2V.load_model("Dataset", "indexdir/d2v", 1)
     searcher = GameSearcher(None, None, False, None, True, models, i_to_fp, "Dataset")
