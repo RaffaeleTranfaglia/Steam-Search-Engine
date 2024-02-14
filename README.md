@@ -5,7 +5,7 @@ Search engine based on Steam's collection of games.
 It is advised to download the project in a virtual environment.
 On MacOs systems:
 ```
-python3 -m virtualenv venv
+virtualenv venv
 source venv/bin/activate
 ```
 
@@ -15,7 +15,7 @@ In the main directory "Steam-Serach-Engine".
 Uncompress the dataset:  
 `unzip Dataset.zip`  
 Install dependecies:  
-`python3 -m pip install -r requirements.txt`  
+`pip install -r requirements.txt`  
 Run the setup script to create all the indexes, download nltk corpora and the AI model for sentiment analysis:  
 `pyhton3 -m setup [-t <number of threads>]`  
 
