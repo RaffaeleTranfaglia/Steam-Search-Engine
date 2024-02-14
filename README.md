@@ -29,3 +29,9 @@ Options:
   - `av` → Sentiment analysis version, each game sentiment values is the average of its reviews sentiment values
   - `inav` → Sentiment analysis version, each game sentiment values is the inverted neutral weighted average of its reviews sentiment values
 - `-t | --threads` takes as argument the number of threads used to build indexes (default value = 4)
+
+### Project Structure
+### GUI
+## Benchmarks
+## Dataset
+## Authors
