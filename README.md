@@ -87,8 +87,8 @@ The average of the average precisions across multiple queries.
 ![map](/footage/map.png)
 
 ## Dataset
-The dataset used is contained in `Dataset.zip` file. It is a directory of JSON files where every file is a game.  
-Every game file is a dictionary key value, every field of the dictionary is defined below:  
+The dataset adopted is contained in `Dataset.zip`. It is a directory of JSON files where every file is a game.  
+Every game file is a dictionary, every field of the dictionary is defined below:  
 - **app_id**: identifier of steam games
 - **name**: game's title
 - **release_date**: release date of the game
