@@ -21,9 +21,9 @@ Observations:
 
 
 ## Usage
-Run the search engine:
-`python3 -m main [-s <sentiment version> -t <number of threads>]`
-Options:
+Run the search engine:  
+`python3 -m main [-s <sentiment version> -t <number of threads>]`  
+Options:  
 - `-s | --sentiment` takes as argument the chosen version of sentiment analysis:
   - `false` → Base version
   - `av` → Sentiment analysis version, each game sentiment values is the average of its reviews sentiment values
