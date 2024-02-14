@@ -38,8 +38,33 @@ Options:
 - `-t | --threads` takes as argument the number of threads used to build indexes (default value = 4)
 
 ### Project Structure
+
 ### Query Languages
+Query languages supported by all the search engine versions:
+- **Natural language query**: simple enumeration of words and context queries
+  - e.g. *dark souls*
+- **Phrase query**: retrieve documents with a specific sentence (ordered list of contiguos words)
+  - e.g. *"dark souls"*
+- **Boolean queries**: single word queries or natural language queries connected by boolean operators (OR, AND)
+  - e.g. *dark OR souls*
+  - e.g. *Valve OR (Id Software)*
+- **Pattern matching queries**: queries that match text rather than word tokens
+  - e.g. *dark\**
+
+Query language for sentiment queries:  
+A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
+  - e.g. *doom \\sentiment\[scary\]*
+
 ### GUI
+
 ## Benchmarks
+
 ## Dataset
+
+## Possible Future Improvements
+- Fine tuning of the AI model used for sentiment analysis
+- Query expansion
+
 ## Authors
+- Raffaele Tranfaglia
+- Samuele Tondelli
