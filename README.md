@@ -53,10 +53,14 @@ Query languages supported by all the search engine versions:
 
 Query language for sentiment queries:  
 A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
-  - e.g. *doom \\sentiment\[scary\]*  
+  - e.g. *doom \\sentiment\[scary\]*
 Every non sentiment version will ignore the sentiment segment of the query.
 
 ### GUI
+The GUI (Graphical User Interface) is the front-end of the search engine.  
+It will appear as soon as the main module is executed: `python3 -m main`.
+![gui1](/footage/gui1.png)
+![gui2](/footage/gui2.png)
 
 ## Benchmarks
 
