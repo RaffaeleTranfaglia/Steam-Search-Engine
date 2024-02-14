@@ -2,6 +2,13 @@
 Search engine based on Steam collection's games.
 
 ## Installation
+It is advised to download the project in a virtual environment.
+On MacOs systems:
+```
+python3 -m virtualenv venv
+source venv/bin/activate
+```
+
 Download the repository:  
 `git clone https://github.com/RaffaeleTranfaglia/Steam-Search-Engine.git`  
 In the main directory "Steam-Serach-Engine".  
@@ -13,12 +20,12 @@ Run the setup script to create all the indexes, download nltk corpora and the AI
 `pyhton3 -m setup [-t <number of threads>]`  
 
 Observations: 
-- AI model adopted (`j-hartmann/emotion-english-distilroberta-base`) may take several minutes to be installed
-- Indexes creation time depends on the number of threads allocated when running `setup` script, with the default value (4) it takes around 3 and a half hours
-- If the main program is executed without having previously create indexes, the index corresponding to the launched version is built before execution
+- AI model adopted (`j-hartmann/emotion-english-distilroberta-base`) may take several minutes to be installed;
+- Indexes creation time depends on the number of threads allocated when running `setup` script, with the default value (4) it takes around 3 and a half hours;
+- If the main program is executed without having previously create indexes, the index corresponding to the launched version is built before execution;
+- Requirements are related to a MacOs system, on other devices it may not work properly, in those case it is advised to remove the requirement which raises an error and/or download the version related to the current system.
 
 > Due to the time took for creating indexes, is highly recommended to download the pre-created indexes provided by the release of the project
-
 
 ## Usage
 Run the search engine:  
@@ -31,6 +38,7 @@ Options:
 - `-t | --threads` takes as argument the number of threads used to build indexes (default value = 4)
 
 ### Project Structure
+### Query Languages
 ### GUI
 ## Benchmarks
 ## Dataset
