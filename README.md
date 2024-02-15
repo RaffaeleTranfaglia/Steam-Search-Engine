@@ -2,6 +2,8 @@
 Search engine based on Steam's collection of games.
 
 ## Installation
+Versions of Python supported: `3.9 - 3.11`.  
+  
 It is advised to download the project in a virtual environment.
 On MacOs systems:
 ```
