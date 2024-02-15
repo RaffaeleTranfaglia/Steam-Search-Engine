@@ -32,7 +32,7 @@ def setup():
         console.log("[red] The number of threads must be in the following range: 1-10")
         return
     
-    # download ai model used for sentiment analysis
+    # download AI model used for sentiment analysis
     classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=None)
     
     # create indexes

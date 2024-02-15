@@ -4,7 +4,9 @@ import string
 from whoosh.analysis import Analyzer, Token
 
 
-# Class that set whoosh tokenizer to the custom tokenizer.
+'''
+    Class that set whoosh tokenizer to the custom tokenizer.
+'''
 class CustomWhooshAnalyzer(Analyzer):
     def __init__(self):
         super().__init__()
@@ -18,13 +20,19 @@ class CustomWhooshAnalyzer(Analyzer):
                         endchar=ord(word[-1]))
 
 
-# Class that implements all the methods to proccess a natural language text to create a list of tokens.
+'''
+Class that implements all the methods to proccess a natural language text to create a list of tokens.
+'''
 class TokenAnalyzer:
     def __init__(self) -> None:
         pass
 
+    '''
+        Pre-processing.
+    '''
     @staticmethod
     def preprocessing(text):
+        # convert to lowercase
         text = text.lower()
         # tokenization
         tokens = nltk.word_tokenize(text)
@@ -65,7 +73,7 @@ class TokenAnalyzer:
 
         tokens3 = nltk.pos_tag(tokens3)
 
-        # remove stopwords and convert to lowercase
+        # remove stopwords
         tokens4 = []
         # Get the default list of stopwords
         stop_words = set(stopwords.words('english'))
@@ -73,11 +81,13 @@ class TokenAnalyzer:
         stop_words.update(set(string.punctuation))
         for t in tokens3:
             if t[0] not in stop_words:
+                # remove trademarks and copyright symbols
                 if t[0].endswith('™') or t[0].endswith('®') or t[0].endswith('©'):
                     t = (t[0][:-1], t[1])
                 if t[0] != "":
                     tokens4.append(t)
 
+        # lemmatization
         wnl = nltk.WordNetLemmatizer()
         tokens4 = [(t[0], TokenAnalyzer.nltktags_to_wdntags(t[1])) for t in tokens4]
         result = []
@@ -86,6 +96,9 @@ class TokenAnalyzer:
 
         return result
 
+    '''
+        Convert nltk tags into WordNet tags
+    '''
     @staticmethod
     def nltktags_to_wdntags(tag):
         if tag.startswith('J'):

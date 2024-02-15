@@ -5,7 +5,9 @@ import re
 from typing import List, Tuple
 from whoosh.searching import Hit
 
-
+'''
+    Compute cosine similatiry between two vectors.
+'''
 def cosineSimilarity(sv1, sv2):
     dot_p = 0
     mod_sv1 = 0
@@ -17,7 +19,9 @@ def cosineSimilarity(sv1, sv2):
 
     return dot_p / (math.sqrt(mod_sv1) * math.sqrt(mod_sv2)) if mod_sv1 != 0 and mod_sv2 != 0 else 0
 
-
+'''
+    Handle the searches.
+'''
 class GameSearcher:
     def __init__(self, main_idx, reviews_idx, do_sentiment=False, sentiment_version=None):
         self.main_idx = main_idx
@@ -28,6 +32,9 @@ class GameSearcher:
             self.sentiment_version = sentiment_version
             self.classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=None)
 
+    '''
+        Search execution.
+    '''
     def search(self, queryText: str, fields, limit=20):
         searcher = self.main_idx.searcher()
         parser = MultifieldParser(fields, self.main_idx.schema)
@@ -78,11 +85,13 @@ class GameSearcher:
         if not doing_sentiment_query:
             return searcher.search(query, limit=limit)
         else:
+            # Hit is a dictionary returned by the indexer, its structure is equivalent to the schema
             result_order: List[Tuple[Hit, float]] = []
             result = searcher.search(query, limit=None)
             for g in result:
                 gsentv = [g[sent_prefix + 'anger'], g[sent_prefix + 'disgust'], g[sent_prefix + 'fear'], g[sent_prefix + 'joy'], g[sent_prefix + 'neutral'], g[sent_prefix + 'sadness'], g[sent_prefix + 'surprise']]
 
+                # weight funcuntion
                 revs = g["positive_ratings"] + g["negative_ratings"]
                 if revs <= 1:
                     revs = 2
@@ -97,6 +106,9 @@ class GameSearcher:
 
             return result[:limit]
 
+    '''
+        Return a reviews list given the app_id.
+    '''
     def getGameReviews(self, app_id, limit=None):
         searcher = self.reviews_idx.searcher()
         parser = QueryParser("app_id", schema=self.reviews_idx.schema)

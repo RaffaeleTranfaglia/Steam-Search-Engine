@@ -9,18 +9,25 @@ import concurrent.futures
 from typing import List
 
 
-#a review which will be indexed
+'''
+    A review which will be indexed.
+'''
 class ReviewDocument:
     def __init__(self, review_text, review_score):
         self.review_text = review_text
         self.review_score = review_score
 
+    '''
+        Compute sentiment values for the current review.
+    '''
     def doSentimentAnalysis(self, classifier):
         return classifier(self.review_text)[0]
 
 
 
-#a game which will be indexed
+'''
+    A game which will be indexed.
+'''
 class GameDocument:
     #inits from a json file
     def __init__(self, file_path, do_sentiment, classifier):
@@ -61,6 +68,9 @@ class GameDocument:
             for r in game_data["reviews"]:
                 self.reviews.append(ReviewDocument(r["review_text"], r["review_score"]))
 
+            '''
+                Compute sentiment values for a game.
+            '''
             if do_sentiment and classifier is not None:
                 self.av_anger = 0
                 self.av_disgust = 0
@@ -141,6 +151,9 @@ class GameDocument:
                 self.inav_surprise /= inav_weights_sum
         print(f"finished loading Dataset/{self.app_id}.json")
 
+    '''
+        Print for testing purposes.
+    '''
     def printSentiments(self):
         print(f"av_anger : {self.av_anger}")
         print(f"av_disgust : {self.av_disgust}")
@@ -158,16 +171,23 @@ class GameDocument:
         print(f"inav_sadness : {self.inav_sadness}")
         print(f"inav_surprise : {self.inav_surprise}")
 
-
+'''
+    Used by threads to call GameDocument constructor.
+'''
 def createGameDocument(file_path, do_sentiment=False, classifier=None):
     return GameDocument(file_path, do_sentiment, classifier)
 
 
-# Class that define methods to create an inverted index on the documents' collection.
+'''
+    Class that define methods to create an inverted index on the documents' collection.
+'''
 class Indexer:
     def __init__(self) -> None:
         pass
     
+    '''
+        Open the chose index if it exists, otherwise create the main index and the reviews' one.
+    '''
     @staticmethod
     def openIndex(folder_path, folder_index, console, do_sentiment=False, worker_threads=4):
         if os.path.exists(folder_index):
@@ -182,7 +202,9 @@ class Indexer:
         console.log(f"Index completed")
         return mainix, reviewix
         
-
+    '''
+        Create the indexes using the number of woriking threads specified by the user.
+    '''
     @staticmethod
     def indexing(folder_path, folder_index, do_sentiment, worker_threads):
         print("starting indexing")
@@ -227,9 +249,11 @@ class Indexer:
         reviews_writer = reviews_idx.writer()
 
         classifier = None
+        # retirive AI model for sentiment analysis
         if do_sentiment:
             classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=None)
 
+        # instanciate and handle all the woriking threads
         executor = concurrent.futures.ThreadPoolExecutor(worker_threads)
         games: List[concurrent.futures.Future] = []
 
