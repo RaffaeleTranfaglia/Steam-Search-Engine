@@ -10,14 +10,22 @@ source venv/bin/activate
 ```
 
 Download the repository:  
-`git clone https://github.com/RaffaeleTranfaglia/Steam-Search-Engine.git`  
+```
+git clone https://github.com/RaffaeleTranfaglia/Steam-Search-Engine.git
+```  
 In the main directory "Steam-Serach-Engine".  
 Uncompress the dataset:  
-`unzip Dataset.zip`  
+```
+unzip Dataset.zip
+```  
 Install dependecies:  
-`pip install -r requirements.txt`  
+```
+pip install -r requirements.txt
+```  
 Run the setup script to create all the indexes, download nltk corpora and the AI model for sentiment analysis:  
-`pyhton3 -m setup [-t <number of threads>]`  
+```
+pyhton3 -m setup [-t <number of threads>]
+```  
 
 Observations: 
 - AI model adopted (`j-hartmann/emotion-english-distilroberta-base`) may take several minutes to be installed;
@@ -64,7 +72,7 @@ Query languages supported by all the search engine versions:
 
 Query language for sentiment queries:  
 A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
-  - e.g. *doom \\sentiment\[scary\]*
+  - e.g. *doom \\sentiment\[scary\]*  
 Every non sentiment version will ignore the sentiment segment of the query.
 
 ### GUI
@@ -111,7 +119,7 @@ Every game file is a dictionary, every field of the dictionary is defined below:
     - **review_text**: text of the review
     - **review_score**: "1" if positive, else "-1"
 
-The data used to create the Dataset folder are based on Steam games and reviews, and provided from the union of the following datasets after a data cleaning process: [source1](https://www.kaggle.com/datasets/nikdavis/steam-store-games), [scource2](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).  
+The data used to create the Dataset folder are based on Steam games and reviews, and provided from the union of the following datasets after a data cleaning process: [source1](https://www.kaggle.com/datasets/nikdavis/steam-store-games), [source2](https://www.kaggle.com/datasets/andrewmvd/steam-reviews).  
 It contains most of the Steam games released within May 2019, most of the games released within 2017 contain reviews. Each game has at most 150 reviews due to indexing times' reasons.
 
 ## Possible Future Improvements
