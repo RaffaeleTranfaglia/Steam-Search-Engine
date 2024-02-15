@@ -64,7 +64,7 @@ Options:
 Query languages supported by all the search engine versions:
 - **Natural language query**: simple enumeration of words and context queries
   - e.g. *dark souls*
-- **Phrase query**: retrieve documents with a specific sentence (ordered list of contiguos words)
+- **Phrase query**: retrieve documents with a specific sentence (ordered list of contiguous words)
   - e.g. *"dark souls"*
 - **Boolean query**: single word queries or natural language queries connected by boolean operators (OR, AND)
   - e.g. *dark OR souls*
