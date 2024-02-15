@@ -71,8 +71,8 @@ Query languages supported by all the search engine versions:
   - e.g. *dark\**
 
 Query language for sentiment queries:  
-A normal query followed by *\\sentiment[]*, the square brackets contain the sentiment query
-  - e.g. *doom \\sentiment\[scary\]*  
+An ordinary query, like showed above, followed by `\sentiment[]`, the square brackets contain the sentiment query
+  - e.g. `doom \sentiment[scary]`  
 Every non sentiment version will ignore the sentiment segment of the query.
 
 ### GUI
